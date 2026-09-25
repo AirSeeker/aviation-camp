@@ -34,35 +34,99 @@ EASA_SUBJECTS = [
 ]
 
 GLOSSARY = {
-    "Angle of Attack": "Кут атаки",
-    "Stall": "Звалювання",
-    "Indicated Airspeed": "Приладова швидкість (IAS)",
-    "True Airspeed": "Дійсна швидкість (TAS)",
-    "Groundspeed": "Швидкість над землею",
-    "Lift": "Підйомна сила",
-    "Drag": "Опір",
-    "Thrust": "Тяга",
-    "Weight": "Вага",
-    "Yaw": "Рискання",
-    "Pitch": "Крен/тангаж",
-    "Bank": "Крен",
-    "Heading": "Курс",
-    "Trim": "Тримування",
-    "Glide": "Планування",
-    "VFR": "Візуальні польоти (VFR)",
-    "IFR": "Прилади (IFR)",
-    "Holding Pattern": "Петля витримки",
-    "Crosswind": "Поперечний вітер",
-    "Tailwind": "Попутний вітер",
-    "Headwind": "Назустрічний вітер",
-    "Density Altitude": "Щільнісна висота",
-    "Pressure Altitude": "Барометрична висота",
-    "Mach Number": "Число Маха",
-    "Minimum Safe Altitude": "Мінімальна безпечна висота",
-    "Aviation Weather": "Авіаційна погода",
+    "Angle of Attack": "Angle of Attack",
+    "Stall": "Stall",
+    "Indicated Airspeed": "Indicated Airspeed (IAS)",
+    "True Airspeed": "True Airspeed (TAS)",
+    "Groundspeed": "Groundspeed",
+    "Lift": "Lift",
+    "Drag": "Drag",
+    "Thrust": "Thrust",
+    "Weight": "Weight",
+    "Yaw": "Yaw",
+    "Pitch": "Pitch",
+    "Bank": "Bank",
+    "Heading": "Heading",
+    "Trim": "Trim",
+    "Glide": "Glide",
+    "VFR": "Visual Flight Rules (VFR)",
+    "IFR": "Instrument Flight Rules (IFR)",
+    "Holding Pattern": "Holding Pattern",
+    "Crosswind": "Crosswind",
+    "Tailwind": "Tailwind",
+    "Headwind": "Headwind",
+    "Density Altitude": "Density Altitude",
+    "Pressure Altitude": "Pressure Altitude",
+    "Mach Number": "Mach Number",
+    "Minimum Safe Altitude": "Minimum Safe Altitude",
+    "Aviation Weather": "Aviation Weather",
 }
 
 DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
+REQUIRED_FRONTMATTER_FIELDS = [
+    "title",
+    "description",
+    "subject",
+    "chapterNumber",
+    "readTimeMinutes",
+    "lang",
+    "translationKey",
+]
+
+
+def normalize_slug(value: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+
+
+def translation_key_for(book_name: str, chapter_name: str) -> str:
+    book_slug = normalize_slug(book_name or "chapter")
+    chapter_slug = normalize_slug(chapter_name or "chapter")
+    return f"{book_slug}-{chapter_slug}"
+
+
+def contains_non_english_text(value: str) -> bool:
+    if not value:
+        return False
+    if re.search(r"[\u0400-\u04FF]", value):
+        return True
+    forbidden = [
+        "Ключові",
+        "Увага",
+        "Розумійте",
+        "Польоти",
+        "Що є",
+        "Чому",
+        "Яке",
+    ]
+    return any(term.lower() in value.lower() for term in forbidden)
+
+
+def estimate_read_time_minutes(content: str) -> int:
+    words = re.findall(r"\b\w+\b", content or "")
+    count = len(words)
+    minutes = max(8, int((count / 180) + 1))
+    return min(20, minutes)
+
+
+def infer_title_from_chapter(book_name: str, chapter_name: str, subject: str, content: str = "") -> str:
+    chapter_num = maybe_infer_chapter_number(chapter_name)
+    text = (content or "").lower()
+    if "stall" in text:
+        title = f"Chapter {chapter_num}: Stall Awareness and Recovery"
+    elif "lift" in text and "drag" in text:
+        title = f"Chapter {chapter_num}: Aerodynamic Principles"
+    elif "weight" in text and "balance" in text:
+        title = f"Chapter {chapter_num}: Weight and Balance Fundamentals"
+    elif "weather" in text or "wind" in text:
+        title = f"Chapter {chapter_num}: Weather and Atmospheric Effects"
+    elif "navigation" in text or "heading" in text or "course" in text:
+        title = f"Chapter {chapter_num}: Navigation Fundamentals"
+    else:
+        title = f"Chapter {chapter_num}: {subject}"
+
+    if title.endswith(f": {subject}") and (book_name and subject):
+        return f"{subject} — Chapter {chapter_num}"
+    return title
 
 
 def subject_for_book(book_name: str) -> str:
@@ -146,22 +210,27 @@ def build_glossary_prompt() -> str:
 
 def build_system_prompt(subject: str) -> str:
     return f"""
-Ты — опытный редактор авіаційного навчального контенту для EASA PPL. Пиши чітко, доступно та на українській мові.
-Твоя задача: перетворити сирий текст PDF на структурований MDX для навчального курсy.
+You are a Senior Technical Writer and Certified Flight Instructor (CFI) creating English-language MDX training content for a PPL aviation learning platform.
 
-Обов'язкові правила:
-- Пиши тільки українською мовою.
-- Зберігай авіаційно-технічну точність.
-- Не вигадуй факти, які відсутні у тексті.
-- Використовуй глосарій нижче, якщо в тексті є відповідні терміни.
-- Структуруй текст на рівні: вступ, основні принципи, практичні наслідки, ключові правила, підсумок.
-- Додавай короткі інфо-блоки з формулами або правилами у форматі Markdown: > **Увага:** ...
-- Для зображень використовуй JSX тег <img src="/images/..." alt="..." /> в тих місцях, де це доречно.
-- Для quiz вставляй JSX-компонент у кінці файлу у форматі:
+Your task is to convert raw PDF text into clear, accurate, modern MDX lesson pages for the FAA/EASA training curriculum.
+
+Required rules:
+- Write all output in English only, including titles, headings, explanations, callouts, and quiz questions.
+- Use standard FAA/EASA aviation terminology throughout.
+- Do not invent facts that are not supported by the source text.
+- Preserve operational accuracy and safe training context.
+- Use the glossary below when relevant terms appear in the source text.
+- Structure the page with a clear progression: introduction, core concepts, practical application, safety considerations, and summary.
+- Include short callout blocks in Markdown format such as: > **Attention:** ...
+- For images, use JSX tags in the form <img src="/images/..." alt="..." /> when appropriate.
+- At the end of the file, include a Quiz JSX component in this exact format:
     <Quiz questions={{[{{ question: '...', options: ['...','...','...','...'], correctAnswer: 0, explanation: '...' }}]}} />
-- Підтримуй предмет: {subject}.
+- The content must match the subject: {subject}.
+- Every chapter frontmatter must include the required metadata fields: title, description, subject, chapterNumber, readTimeMinutes, lang: "en", translationKey.
+- Translation-ready structure: use stable English title text and a unique translationKey such as "phak-ch01".
+- Keep jargon accessible to student pilots while retaining correct technical meaning.
 
-Глосарій:
+Glossary:
 {build_glossary_prompt()}
 """
 
@@ -169,27 +238,32 @@ def build_system_prompt(subject: str) -> str:
 def build_user_prompt(book_name: str, chapter_name: str, content: str, images: List[Dict[str, Any]], subject: str) -> str:
     image_block = ""
     if images:
-        image_block = "\n\nНаявні зображення:\n" + "\n".join(
+        image_block = "\n\nAvailable images:\n" + "\n".join(
             f"- {img.get('figureRef', 'Figure')}: {img.get('relativePath', '')}" for img in images[:8]
         )
 
-    return f"""
-Створи MDX-сторінку для розділу {chapter_name} книги {book_name}.
-Предмет: {subject}
+    translation_key = translation_key_for(book_name, chapter_name)
 
-Вхідний текст:
+    return f"""
+Create an MDX chapter page for {chapter_name} from the book {book_name}.
+Subject: {subject}
+Translation key: {translation_key}
+
+Source text:
 {content[:8000]}
 
 {image_block}
 
-Вимоги до результату:
-1. Frontmatter у YAML форматі з полями: title, description, subject, chapterNumber, readTimeMinutes.
-2. Вміст у Markdown розмітці з заголовками ##, ###.
-3. Обов'язково додай 2–4 інфо-блоки > **Увага:** ...
-4. Встав різні місця для зображень через JSX вставки <img src="..." />.
-5. Наприкінці додай block з 3–5 питань у форматі Quiz у JSX.
-6. Створи короткий, але навчально корисний текст, що можна використовувати у PPL-курсі.
-7. Пиши в стилі понятному для початківців, але без спрощення авіаційних вимог.
+Output requirements:
+1. Use YAML frontmatter with fields: title, description, subject, chapterNumber, readTimeMinutes, lang, translationKey.
+2. Set lang to "en" and use a stable translationKey value matching the chapter, such as "phak-ch01".
+3. Write the full lesson in English only, including headings, paragraphs, callouts, and quiz questions.
+4. Use Markdown headings with ## and ###.
+5. Include 2–4 callouts in the form > **Attention:** ...
+6. Insert image placeholders in appropriate places using JSX <img src="..." alt="..." />.
+7. End the page with a JSX Quiz block containing 3–5 questions.
+8. Keep the chapter concise, practical, and suitable for a PPL student.
+9. Use standard FAA/EASA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
 """
 
 
@@ -202,6 +276,16 @@ def gemini_client() -> genai.Client:
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY or GOOGLE_API_KEY is not set")
     return genai.Client(api_key=api_key)
+
+
+def extract_retry_delay_seconds(exc: Exception) -> float:
+    message = str(exc)
+    match = re.search(r"Please retry in\s+([0-9.]+)s", message)
+    if match:
+        return max(1.0, float(match.group(1))) + 1.0
+    if "RESOURCE_EXHAUSTED" in message or "UNAVAILABLE" in message:
+        return 10.0
+    return 0.0
 
 
 def call_gemini(messages: List[Dict[str, str]], model: str = DEFAULT_MODEL) -> str:
@@ -220,41 +304,94 @@ def call_gemini(messages: List[Dict[str, str]], model: str = DEFAULT_MODEL) -> s
                 config=config,
             )
             return response.text or ""
-        except Exception:
+        except Exception as exc:
+            delay = extract_retry_delay_seconds(exc)
             if attempt == 2:
                 raise
-            time.sleep(2 ** attempt)
+            if delay > 0:
+                time.sleep(delay)
+            else:
+                time.sleep(2 ** attempt)
 
     return ""
 
 
+def validate_mdx_frontmatter(mdx: str, book_name: str, chapter_name: str, subject: str) -> str:
+    if "---" not in mdx:
+        raise ValueError(f"MDX output for {book_name}/{chapter_name} is missing frontmatter")
+
+    if contains_non_english_text(mdx):
+        raise ValueError(f"MDX output for {book_name}/{chapter_name} contains non-English text")
+
+    required_pairs = {
+        "title:": "title",
+        "description:": "description",
+        "subject:": "subject",
+        "chapterNumber:": "chapterNumber",
+        "readTimeMinutes:": "readTimeMinutes",
+        'lang: "en"': "lang",
+        "translationKey:": "translationKey",
+    }
+
+    missing = [key for key in required_pairs if key not in mdx]
+    if missing:
+        raise ValueError(f"MDX output for {book_name}/{chapter_name} is missing required fields: {missing}")
+
+    if f'subject: "{subject}"' not in mdx:
+        raise ValueError(f"MDX output for {book_name}/{chapter_name} has an unexpected subject value")
+
+    expected_key = translation_key_for(book_name, chapter_name)
+    if f'translationKey: "{expected_key}"' not in mdx:
+        raise ValueError(f"MDX output for {book_name}/{chapter_name} has an unexpected translationKey: {expected_key}")
+
+    return mdx
+
+
+def sanitize_images(images: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    valid: List[Dict[str, Any]] = []
+    for img in images:
+        rel_path = str(img.get("relativePath") or "").strip()
+        if not rel_path:
+            continue
+        absolute_path = (ROOT / rel_path.lstrip("/")).resolve()
+        if absolute_path.exists():
+            valid.append(img)
+    return valid
+
+
 def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, images: List[Dict[str, Any]], subject: str) -> str:
     chapter_num = maybe_infer_chapter_number(chapter_name)
-    title = f"{chapter_name.replace('ch', 'Chapter ').replace('_', ' ').title()}"
-    description = f"Навчальний матеріал з {subject.lower()} для розділу {chapter_name}."
+    title = infer_title_from_chapter(book_name, chapter_name, subject, content)
+    description = f"Learn the key concepts and practical considerations covered in {subject.lower()} for this chapter."
     body = normalize_text(content)
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n+", body) if p.strip()][:6]
-    summary = "\n\n".join(paragraphs)
+    summary = "\n\n".join(paragraphs) if paragraphs else "This chapter introduces the core principles and operational context relevant to the lesson topic."
+    read_time = estimate_read_time_minutes(summary)
 
+    valid_images = sanitize_images(images)
     image_snippet = ""
-    if images:
-        top_image = images[0]
+    if valid_images:
+        top_image = valid_images[0]
         image_snippet = f'\n\n<img src="{top_image.get("relativePath", "/images/placeholder.png")}" alt="{top_image.get("figureRef", "Illustration")}" />\n\n'
+
+    chapter_key = translation_key_for(book_name, chapter_name)
 
     quiz = """
 <Quiz questions={[
-  { question: 'Що є ключовим принципом цього розділу?', options: ['Розуміння основних правил і процедур', 'Пропускання перевірки вогню', 'Заміна дисципліни', 'Відмова від обчислень'], correctAnswer: 0, explanation: 'Розділ пояснює основні принципи, які є базою для безпечного виконання польотів.' },
-  { question: 'Чому важливо застосовувати отримані знання в практиці?', options: ['Щоб зменшити ризик помилок під час польоту', 'Щоб збільшити витрати пального', 'Щоб уникати перевірок', 'Щоб обмежити навігаційні процедури'], correctAnswer: 0, explanation: 'Теоретичні знання стають корисними лише в поєднанні з практичним застосуванням.' },
-  { question: 'Яке правило є найбільш релевантним?', options: ['Дотримуватися процедур і вміти пояснити причину дії', 'Ігнорувати зміни в умовах польоту', 'Спірити з диспетчером', 'Розраховувати без перевірки'], correctAnswer: 0, explanation: 'Ключовий принцип навчання в авіації — надійність процедур та усвідомлення їхнього сенсу.' }
+  { question: 'What is the primary purpose of this chapter?', options: ['To explain the core principles and safe operating concepts', 'To replace preflight planning with guesswork', 'To remove the need for checklists', 'To avoid aircraft performance calculations'], correctAnswer: 0, explanation: 'This chapter introduces the foundations needed to understand and apply safe flight concepts correctly.' },
+  { question: 'Why is it important to apply these concepts in practice?', options: ['They reduce the risk of errors during flight operations', 'They increase fuel burn without benefit', 'They eliminate the need for situational awareness', 'They make every flight identical'], correctAnswer: 0, explanation: 'Theory becomes useful when it informs decision making, aircraft control, and safe operating habits.' },
+  { question: 'Which action best reflects sound flight discipline?', options: ['Follow procedures, verify the conditions, and make informed decisions', 'Ignore changes in flight conditions', 'Rely on memory without checking instruments', 'Disregard the aircraft configuration'], correctAnswer: 0, explanation: 'Sound pilot technique depends on accurate information, disciplined procedures, and clear judgment.' }
 ]} />
 """
 
-    return f"""---
+    mdx = f"""---
 title: "{title}"
 description: "{description}"
 subject: "{subject}"
 chapterNumber: {chapter_num}
-readTimeMinutes: 8
+readTimeMinutes: {read_time}
+lang: "en"
+translationKey: "{chapter_key}"
 ---
 
 ## {title}
@@ -263,24 +400,26 @@ readTimeMinutes: 8
 
 {image_snippet}
 
-## Ключові принципи
+## Key principles
 
-- Розумійте основні дефініції й терміни.
-- Застосовуйте правила у реальних польотних сценаріях.
-- Контролюйте ризики та перевіряйте важливі параметри перед виконанням маневру.
+- Understand the core definitions and terminology used in the subject.
+- Apply the information to realistic flight scenarios and normal operating conditions.
+- Cross-check critical parameters before making decisions during flight.
 
-> **Увага:** Кожен політ вимагає постійного контролю за станом повітряного судна, обстановкою та виконанням процедур.
+> **Attention:** Each flight requires continuous attention to aircraft state, environment, and procedural compliance.
 
-> **Увача:** У разі невизначеності завжди застосовуйте найбільш безпечні й консервативні рішення.
+> **Remember:** When uncertain, prioritize the safest and most conservative course of action.
 
-## Практичні наслідки
+## Practical application
 
-- Ці знання допомагають оцінити ситуацію в польоті.
-- Вони формують основу для прийняття правильних рішень.
-- Вони підтримують безпечну організацію польотів.
+- These concepts help you interpret aircraft performance and flight conditions.
+- They support sound decision making during normal and abnormal operations.
+- They reinforce disciplined, safe, and consistent pilot technique.
 
 {quiz}
 """
+
+    return validate_mdx_frontmatter(mdx, book_name, chapter_name, subject)
 
 
 def generate_mdx_for_chapter(book_name: str, chapter_name: str, chapter_payload: Dict[str, Any], subject: str) -> str:
@@ -301,14 +440,24 @@ def generate_mdx_for_chapter(book_name: str, chapter_name: str, chapter_payload:
             cleaned = re.sub(r"^```(?:mdx|markdown)?\s*", "", cleaned)
             cleaned = re.sub(r"\s*```$", "", cleaned)
         if "---" in cleaned and "title:" in cleaned:
-            return cleaned
+            if "lang: \"en\"" not in cleaned:
+                cleaned = cleaned.replace("readTimeMinutes: ", "readTimeMinutes: ")
+                cleaned = cleaned.replace("---\n\n", "---\nlang: \"en\"\ntranslationKey: \"" + translation_key_for(book_name, chapter_name) + "\"\n---\n\n", 1)
+            if "translationKey:" not in cleaned:
+                cleaned = cleaned.replace("---\n\n", "---\ntranslationKey: \"" + translation_key_for(book_name, chapter_name) + "\"\n---\n\n", 1)
+            if "readTimeMinutes:" in cleaned:
+                read_minutes = estimate_read_time_minutes(cleaned)
+                cleaned = re.sub(r"readTimeMinutes:\s*\d+", f"readTimeMinutes: {read_minutes}", cleaned, count=1)
+            if contains_non_english_text(cleaned):
+                raise ValueError(f"Generated MDX for {book_name}/{chapter_name} contains non-English text")
+            return validate_mdx_frontmatter(cleaned, book_name, chapter_name, subject)
     except Exception as exc:
         print(f"Gemini generation failed for {book_name}/{chapter_name}: {exc}")
 
     return generate_fallback_mdx(book_name, chapter_name, content, images, subject)
 
 
-def process_book(book_dir: Path) -> None:
+def process_book(book_dir: Path, dry_run: bool = False, serial: bool = False, delay_seconds: float = 0.0) -> None:
     book_name = book_dir.name
     manifest = load_book_manifest(book_dir)
     chapters = manifest.get("chapters", [])
@@ -317,22 +466,31 @@ def process_book(book_dir: Path) -> None:
         chapters = [{"chapter": p.name, "startPage": 1, "endPage": 1} for p in chapter_dirs]
 
     output_dir = DOCS_OUTPUT_ROOT / book_name
-    output_dir.mkdir(parents=True, exist_ok=True)
+    if not dry_run:
+        output_dir.mkdir(parents=True, exist_ok=True)
 
-    for chapter in chapters:
+    for i, chapter in enumerate(chapters, start=1):
         chapter_name = chapter.get("chapter", "ch01")
         chapter_path = book_dir / chapter_name
         payload = load_chapter_files(book_dir, chapter_name)
         subject = subject_for_book(book_name)
         mdx = generate_mdx_for_chapter(book_name, chapter_name, payload, subject)
         target_path = output_dir / f"{chapter_name}.mdx"
+        if dry_run:
+            print(f"Dry run: {book_name}/{chapter_name} -> {translation_key_for(book_name, chapter_name)}")
+            continue
         target_path.write_text(mdx, encoding="utf-8")
         print(f"Generated: {target_path}")
+        if serial and i < len(chapters) and delay_seconds > 0:
+            time.sleep(delay_seconds)
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="Generate MDX lesson pages from parsed PDF chapters")
     parser.add_argument("--book", help="Optional book folder name under resources/parsed")
+    parser.add_argument("--dry-run", action="store_true", help="Preview generated chapter metadata without writing MDX files")
+    parser.add_argument("--serial", action="store_true", help="Process one chapter at a time with a small delay between chapters to respect quota limits")
+    parser.add_argument("--delay-seconds", type=float, default=5.0, help="Seconds to wait between chapters when serial mode is enabled")
     args = parser.parse_args()
 
     root = PARSED_ROOT
@@ -347,7 +505,7 @@ def main() -> None:
         raise SystemExit(f"No parsed books found in {root}")
 
     for book_dir in book_dirs:
-        process_book(book_dir)
+        process_book(book_dir, dry_run=args.dry_run, serial=args.serial, delay_seconds=args.delay_seconds)
 
 
 if __name__ == "__main__":
