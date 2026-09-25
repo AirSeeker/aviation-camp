@@ -1,5 +1,7 @@
 Chapter 13
 Aviation Weather Services
+Aviation Weather Services
+p |
 Introduction
 In aviation, weather service is a combined effort of the
 National Weather Service (NWS), Federal Aviation
@@ -171,20 +173,44 @@ dBZ (decibels of Z) and are depicted in color on the
 radar image. [Figure 13-1] Intensities are correlated
 to intensity terminology (phraseology) for ATC
 purposes. [Figures 13-2 and 13-3]
+ri m
+Ghe Sa ae
+fe o
+-
+la oe be
 Figure 13-1. Example of a weather radar scope.
+DBZ
+DBZ
++28
++24
++20
++16
++12,
++8
++4
+lo
+-4
+-8
+-12
+-16
+-20
+-24
+-28
+ND
+ND
 Figure 13-2. WSR-88D Weather Radar Echo Intensity Legend.
+Weather Radar Echo Intensity
 Reflectivity (dBZ) Ranges
+Light
 <30 dBZ
+Moderate
 30–40 dBZ
+Heavy
 >40–50
+Extreme
 50+ dBZ
 Figure 13-3. WSR-88D Weather Radar Precipitation Intensity
 Terminology.
-Weather Radar Echo Intensity
-Light
-Moderate
-Heavy
-Extreme
 13-3
 
 2.
@@ -272,6 +298,28 @@ may also include a synopsis, winds aloft forecast, en route
 and terminal forecast data, and radar reports. At selected
 locations, telephone access to the TWEB has been provided
 (TEL-TWEB). Telephone numbers for this service are found
+a
+eo)
+B
+Ba0%s9
+oh
+ate Saat
+aS
+‘
+Pinos
+in
+122.18
+ai\
+bY CORONAS 2” W i ©
+115.5 Ch 102 NK
+foot
+Vi
+ff
+ALBUQUERQUE
+A AG
+oe
+va
+SACA
 Symbol indicates HIWAS
 Figure 13-4. HIWAS availability is shown on sectional chart.
 
@@ -951,6 +999,7 @@ Strait of Juan De Fuca
 CHI Chicago
 BOS Boston
 SLC Salt Lake City
+ay
 Cascade Mtns
 Puget
 Mtns
@@ -1551,7 +1600,7 @@ S
 Upper
 Coastal
 Dallas/Fort Worth
-ﬂight information
+flight information
 Keys
 Gulf
 Plain
@@ -1766,6 +1815,11 @@ Figure 13-9. Winds and temperature aloft forecast.
 pennant is equal to 50 knots.
 13-13
 
+ny me
+eae
+ee
+LY,
+boven OP
 Figure 13-10. Surface analysis chart.
 Wind speed
 Total sky cover
@@ -1804,120 +1858,204 @@ Figure 13-11. Sample station model and weather chart symbols.
 13-14
 
 Weather Depiction Chart
-A weather depiction chart details surface conditions as
-derived from METAR and other surface observations. The
-weather depiction chart is prepared and transmitted by
-computer every 3 hours beginning at 0100Z time and is valid
-data for the forecast period. It is designed to be used for flight
-planning by giving an overall picture of the weather across
-the United States. [Figure 13-12]
-The weather depiction chart also provides a graphic display
-of IFR, VFR, and marginal VFR (MVFR) weather. Areas of
-IFR conditions (ceilings less than 1,000 feet and visibility
-less than three miles) are shown by a hatched area outlined
-by a smooth line. MVFR regions (ceilings 1,000 to 3,000
-feet, visibility 3 to 5 miles) are shown by a nonhatched area
-outlined by a smooth line. Areas of VFR (no ceiling or ceiling
-greater than 3,000 feet and visibility greater than five miles)
-are not outlined. Also plotted are fronts, troughs, and squall
-lines from the previous hours surface analysis chart.
-Weather depiction charts show a modified station model
-that provides sky conditions in the form of total sky cover,
-Figure 13-12. Weather depiction chart.
 ceiling height, weather, and obstructions to visibility, but
 does not include winds or pressure readings like the surface
+A weather depiction chart details surface conditions as
 analysis chart. A bracket ( ] ) symbol to the right of the station
+derived from METAR and other surface observations. The
 indicates the observation was made by an automated station.
+weather depiction chart is prepared and transmitted by
+computer every 3 hours beginning at 0100Z time and is valid
 Significant Weather Prognostic Charts
+data for the forecast period. It is designed to be used for flight
 Significant weather prognostic charts are available for low-
+planning by giving an overall picture of the weather across
 level significant weather from the surface to FL 240 (24,000
+the United States. [Figure 13-12]
 feet), also referred to as the 400 mb level and high-level
 significant weather from FL 250 to FL 630 (25,000 to 63,000
+The weather depiction chart also provides a graphic display
 feet). The primary concern of this discussion is the low-level
+of IFR, VFR, and marginal VFR (MVFR) weather. Areas of
 significant weather prognostic chart.
+IFR conditions (ceilings less than 1,000 feet and visibility
+less than three miles) are shown by a hatched area outlined
 The low-level chart is is a forecast of aviation weather
+by a smooth line. MVFR regions (ceilings 1,000 to 3,000
 hazards, primarily intended to be used as a guidance product
+feet, visibility 3 to 5 miles) are shown by a nonhatched area
 for briefing the VFR pilot. The forecast domain covers the 48
+outlined by a smooth line. Areas of VFR (no ceiling or ceiling
 contiguous states, southern Canada and the coastal waters for
+greater than 3,000 feet and visibility greater than five miles)
 altitudes below 24,000 ft. Low altitude Significant Weather
+are not outlined. Also plotted are fronts, troughs, and squall
 charts are issued four times daily and are valid at fixed times:
+lines from the previous hours surface analysis chart.
 0000, 0600, 1200, and 1800 UTC. Each chart is divided on
 the left and right into 12 and 24 hour forecast intervals (based
+Weather depiction charts show a modified station model
 on the current NAM model available).
+that provides sky conditions in the form of total sky cover,
+el
+ae
+ap
+a
+K
+:
+=
+5,
+a e
+>
+ee
+Figure 13-12. Weather depiction chart.
 13-15
 
 Effective September 1, 2015, the four-panel Low Level
+of a precipitation area, but the specific character of that area
 SFC-240 chart was replaced with a two-panel chart. The new
+(snow, rain, hail, VIRGA, etc.) cannot be determined. For
 two-panel chart will be the same as the top two panels in the
+this reason, ATC refers to all weather areas displayed on ATC
 former four-panel chart, depicting the freezing level and areas
+radar scopes as “precipitation.”
 of IFR, MVFR, and moderate or greater turbulence. The bottom
 two panels of the chart have been removed. In lieu of these
-bottom two panels, an enhanced surface chart that includes
-fronts, pressure, precipitation type, precipitation intensity, and
-weather type, is displayed. The green precipitation polygons
-will be replaced by shaded precipitation areas using the
-National Digital Forecast Database (NDFD) weather grid.
-Figure 13-13 depicts the new two-panel significant weather
-prognostic chart, as well as the symbols typically used to
-depict precipitation. The two panels depict freezing levels,
-turbulence, and low cloud ceilings and/or restrictions to
-visibility (shown as contoured areas of MVFR and IFR
-conditions). These charts enable the pilot to pictorially
-evaluate existing and potential weather hazards they may
-encounter. Pilots can balance weather phenomena with
-their aircraft capability and skill set resulting in aeronautical
-decision-making appropriate to the flight. Prognostic charts
-are an excellent source of information for preflight planning;
-however, this chart should be viewed in light of current
-conditions and specific local area forecasts.
-The 36- and 48-hour significant weather prognostic chart is
-an extension of the 12- and 24-hour forecast. This chart is
-issued twice a day. It typically contains forecast positions and
-characteristics of pressure patterns, fronts, and precipitation.
-An example of a 36- and 48-hour surface prognostic chart is
-shown in Figure 13-14.
-ATC Radar Weather Displays
-Although ATC systems cannot always detect the presence
-or absence of clouds, they can often determine the intensity
-Figure 13-13. Significant weather prognostic chart.
-13-16
-of a precipitation area, but the specific character of that area
-(snow, rain, hail, VIRGA, etc.) cannot be determined. For
-this reason, ATC refers to all weather areas displayed on ATC
-radar scopes as “precipitation.”
 ARTCC facilities normally use a Weather and Radar
+bottom two panels, an enhanced surface chart that includes
 Processor (WARP) to display a mosaic of data obtained
+fronts, pressure, precipitation type, precipitation intensity, and
 from multiple NEXRAD sites. There is a time delay between
+weather type, is displayed. The green precipitation polygons
 actual conditions and those displayed to the controller.
+will be replaced by shaded precipitation areas using the
 The precipitation data on the ARTCC controller’s display
+National Digital Forecast Database (NDFD) weather grid.
 could be up to 6 minutes old. The WARP processor is only
 used in ARTCC facilities. All ATC facilities using radar
+Figure 13-13 depicts the new two-panel significant weather
 weather processors with the ability to determine precipitation
+prognostic chart, as well as the symbols typically used to
 intensity, describe the intensity to pilots as:
+depict precipitation. The two panels depict freezing levels,
 •
 Light
+turbulence, and low cloud ceilings and/or restrictions to
 •
 Moderate
+visibility (shown as contoured areas of MVFR and IFR
+conditions). These charts enable the pilot to pictorially
 •
 Heavy
+evaluate existing and potential weather hazards they may
 •
 Extreme
+encounter. Pilots can balance weather phenomena with
+their aircraft capability and skill set resulting in aeronautical
 When the WARP is not available, a second system, the
+decision-making appropriate to the flight. Prognostic charts
 narrowband Air Route Surveillance Radar (ARSR) can
+are an excellent source of information for preflight planning;
 display two distinct levels of precipitation intensity that
+however, this chart should be viewed in light of current
 is described to pilots as “MODERATE and “HEAVY TO
+conditions and specific local area forecasts.
 EXTREME.”
+The 36- and 48-hour significant weather prognostic chart is
 ATC facilities that cannot display the intensity levels of
+an extension of the 12- and 24-hour forecast. This chart is
 precipitation due to equipment limitations describe the
+issued twice a day. It typically contains forecast positions and
 location of the precipitation area by geographic position or
+characteristics of pressure patterns, fronts, and precipitation.
 position relative to the aircraft. Since the intensity level is not
+An example of a 36- and 48-hour surface prognostic chart is
 available, the controller states “INTENSITY UNKNOWN.”
+shown in Figure 13-14.
 ATC radar is not able to detect turbulence. Generally,
+ATC Radar Weather Displays
 turbulence can be expected to occur as the rate of rainfall or
+Although ATC systems cannot always detect the presence
 intensity of precipitation increases. Turbulence associated
+or absence of clouds, they can often determine the intensity
 with greater rates of precipitation is normally more severe than
+eT
+n
+J.
+es
+V5
+(oe
+Biv
+¥
+AGL
+UY
+ais
+«
+any
+gga
+FOS
+of
+os i
+ex
+ee
+Cys
+Ae
+olsen
+FOP SS
+ors
+A
+ieee
+L\
+LIS AP
+A 35.
+=
+Poe
+Tayaa,
+SACS
+a
+ay
+ale IT
+Ie
+ace SEA
+2854 85,
+i ae
+\
+_
+a
+"
+eae
+«ify
+aye:
+\
+cin
+Tag
+"
+b
+Noe
+‘
+aati
+\\ At
+oi ome
+aa
+}
+Re] or azz
+a fe
+Sixes
+lina bec 18. 20
+SViica'bec 18 204s}
+xy
+‘
+Flight planning only See TAFs for specific terminal forecast
+Figure 13-13. Significant weather prognostic chart.
+13-16
 
+tll BON
+MU
+|Gosc
+a
 Figure 13-14. 36- (top) and 48-hour (bottom) surface prognostic chart.
+oF |
+PE vA
 13-17
 
 any associated with lesser rates of precipitation. Turbulence
@@ -2032,6 +2170,20 @@ the images were from 6 to 8 minutes old. In some cases,
 NEXRAD data can age significantly by the time the mosaic
 image is created. In some extreme latency cases, the actual
 
+OPER egRl Bi
+= (om
+O)
+BN
+@) | Tu oine
+we
+28)
+~
+ja
+| coor
+a Fee
+‘yee
+AT@ 0s
+wes 00
 Figure 13-15. Information page.
 age of the oldest NEXRAD data in the mosaic can exceed
 the age indication in the cockpit by 15 to 20 minutes. Even
@@ -2058,6 +2210,23 @@ display. [Figure 13-18]
 What Can Pilots Do?
 Remember that the in-cockpit NEXRAD display depicts
 where the weather WAS, not where it IS. The age indicator
+et
+Je ©) o
+come) ee
+G
+= BARO
+‘ons
+smut
+et
+®
+IC
+sen
+am
+rN
+cere
+m5
+ie.
+ce
 does not show the age of the actual weather conditions,
 but rather the age of the mosaic image. The actual weather
 conditions could be up to 15 to 20 minutes OLDER than
@@ -2084,7 +2253,108 @@ __/__ __:__
 Figure 13-16. List of weather products and the expiration times of each.
 13-19
 
+» (ee a eeF
+www2 188.08
+117.95,
+136.975_
+118.808 core)
+uP |
+>
+[nora
+a” 23
+a
+eo
+jee.
+|
+ages)
+IY
+-
+2)
+aia
+on rep
+|r
+v
+.
+ay
+eS
+fet
+a
+J
+s.@
+6&6
+&
+&
+&
 Figure 13-17. NEXRAD radar display.
+vwin10800 11785 fac em ee
+ems | 136975 118.0080
+wwe 108.08
+117.95 |
+MAP = MATHEROATALINK
+| 136.975
+118.000co
+Po
+‘a7
+oes
+| a
+a
+NEBRASKA
+i
+§
+= ' =
+‘.
+Sf
+———
+Ns
+%
+‘ILLINOIS
+y
+ones
+BS cael
+a
+=
+'
+ae
+a
+=
+ct
+FI
+os
+ia
+(enews.
++ 4
+i
+oo Saepesn
+_
+an
+eee
+~
+Fae
+ee
+at,
+at
+890m 359
+muvee i
+to
+-
+80 es 00
+!
+bala
+H
+a
+a
+J
+as
+J
+>
+J
+>
+J
+J
+a
+J+
+|
+I
 Figure 13-18. NEXRAD radar display (500 mile range). The individual color gradients can be easily discerned and interpreted via the
 legend in the upper right corner of the screen. Additional information can be gained by pressing the LEGEND soft key, which displays
 the legend page.
@@ -2185,31 +2455,217 @@ one pilot at a time, which leaves other pilots waiting and
 flying in uncertain weather conditions. Data link weather
 13-21
 
+ge
+wwe 108.08 _ 117.95.
+136.975 _118.888 coe!
+>
+a
+‘
+mo
+|
+2° 38
+Pm
+‘
+ez nD 90
+|
+ee
+|
+==
+|
+(Clie.
+:
+e
+x
+fe
+Q |e
+A
+ia
+oi
+S |hee
+Sasen]OME
+NL
+b>
+a eg
+Poy
+© | ieee
+1geetat| UMITED STATESOF avERICA
+sus
+f
+ro
+;
+‘
+Lon
+72 ws 312
+oxuvons
+oe
+ee
+Goo
+|
+ox oe
+|
+tebe
+eo a
+Eee
+eee)
+e)
+ee)
+«) =
+=
+L
 Figure 13-19. The AIRMET information box instructs the pilot to press the ENTER button soft key (ENT) to gain additional information
 on the selected area of weather. Once the ENTER soft key (ENT) is depressed, the specific textual information is displayed on the right
 side of the screen.
+‘nw2 108.08
+117.95
+oa
+ee |e
+=
+*giowsascrm
+oS
+|
+is
+¥
+=
+us
+eS om.
+or
+x
+or
+‘
+ee
+pica
+/
+ae
+wy
+y,
+==
+S)
+pe acta
+F | ONrTED'sraTES
+oF aveRICA
+usa
+oe|
+inated
+{ome
+e.
+4 OUT 94
+ruavone cry
+=
+ron
+&
+|7
+00 wes 00
+on
+i
+z
+a
+=| el
+a
+J
+a
+=]
+=
+=
+=]
+=]
+J
+a
+as
 Figure 13-20. SIGMET/AIRMET legend display.
 13-22
 
+| a
+er
+WEATENOATALR—————+|136.975
+118.000 coe
+wwri98ge
+11795 [P=
+sete
+vr
+r
+a
+a
+\ lure
+r
+.
+:
+fare
+© 2110
+hep,
+a
+ae
+ouges
+© |!
+nue
+a
+=
+\
+stance
+a
+~)
+\
+w
+“>
+ee
+.
+ok
+ame
+ee
+re
+=
+F
+Tt
+°
+off
+ao
+_wes
+«
+Eero
+eases ee ee ee
+ed Ne
+ee a
+: 33939
 Figure 13-21. Graphical METAR legend display.
 provides the pilot with a powerful resource for enhanced
+•
+Significant Meteorological Conditions (SIGMET) and
 situational awareness at any time. Due to continuous data link
+Convective SIGMET
 broadcasts, pilots can obtain a weather briefing by looking at
+•
+Status of Special Use Airspace (SUA)
 a display screen. Pilots have a choice between FAA-certified
+•
+Temporary Flight Restrictions (TFRs)
 devices or portable receivers as a source of weather data.
+•
+Winds and Temperatures Aloft.
 Data Link Weather Products
+•
+Pilot Reports (PIREPS)
 Flight Information Service- Broadcast (FIS-B)
+•
+TIS-B service status
 Flight Information Service–Broadcast (FIS-B) is a ground
 broadcast service provided through the Automatic Dependent
+The weather products provided by FIS-B are for information
 Surveillance–Broadcast (ADS-B) Services network over
+only. Therefore, these products do not meet the safety and
 the 978 MHz UAT data link. The FAA FIS-B system
+regulatory requirements of official weather products. The
 provides pilots and flight crews of properly-equipped aircraft
+weather products displayed on FIS-B should not be used
 with a flightdeck display of certain aviation weather and
+as primary weather products (i.e., aviation weather to meet
 aeronautical information which are listed below.
+operational and safety requirements). Each aircraft system is
 •
 Aviation Routine Weather Reports (METARs)
+different and some of the data that is rendered can be up to
+20 or 30 minutes old and not current. Pilots should consult
 •
 Special Aviation Reports (SPECIs)
+the individual equipment manuals for specific delay times.
 •
 Terminal Area Forecasts (TAFs) and their amendments
 •
@@ -2219,28 +2675,6 @@ Notice to Airmen (NOTAM) Distant and Flight Data
 Center
 •
 Airmen’s Meteorological Conditions (AIRMET)
-•
-Significant Meteorological Conditions (SIGMET) and
-Convective SIGMET
-•
-Status of Special Use Airspace (SUA)
-•
-Temporary Flight Restrictions (TFRs)
-•
-Winds and Temperatures Aloft.
-•
-Pilot Reports (PIREPS)
-•
-TIS-B service status
-The weather products provided by FIS-B are for information
-only. Therefore, these products do not meet the safety and
-regulatory requirements of official weather products. The
-weather products displayed on FIS-B should not be used
-as primary weather products (i.e., aviation weather to meet
-operational and safety requirements). Each aircraft system is
-different and some of the data that is rendered can be up to
-20 or 30 minutes old and not current. Pilots should consult
-the individual equipment manuals for specific delay times.
 13-23
 
 Pilot Responsibility

@@ -1,5 +1,7 @@
 Chapter 3
 Arrivals
+Arrivals
+ia
 Introduction
 Preparation for the arrival and approach begins long
 before the descent from the en route phase of flight.
@@ -144,6 +146,7 @@ or initial approach fix altitude, descent groundspeed, and
 the need to dissipate altitude and airspeed in order to arrive
 VORTAC A
 VORTAC B
+?
 S I
 C
 L
@@ -195,92 +198,224 @@ Route 3
 3-3
 
 descent rate. This information must be updated while
+descent should be initiated at 20 NM to lose 6,000 feet. If
 in flight for changes in altitude, weather, and wind. The
+the groundspeed is 120 knots, that means the aircraft is
 approach gate is an imaginary point used by ATC to vector
+moving along at 2 NM per minute. So to go 20 NM, it takes
 aircraft to the final approach course. The approach gate
+10 minutes. Ten minutes at 600 fpm means you will lose
 is established along the final approach course 1 NM from
+6,000 feet.
 the final approach fix (FAF) on the side away from the
 airport and is located no closer than 5 NM from the landing
-threshold. Flight manuals or operating handbooks may also
-contain a fuel, time, and distance to descend chart that
-contains the same information.
-One technique that is often used is the descent rule of
-thumb, which is used to determine when you need to
-descend in terms of the number of miles prior to the point
-at which you desire to arrive at your new altitude. First,
-divide the altitude needed to be lost by 300. For example,
-if cruising altitude is 7,000 feet and you want to get down
-to a pattern altitude of 1,000 feet. The altitude you want to
-lose is 6,000 feet, which when divided by 300 results in 20.
-Therefore, you need to start your descent 20 NM out and
-leave some extra room so that you are at pattern altitude
-prior to the proper entry. It is also necessary to know what
-rate-of-descent (ROD) to use.
-To determine ROD for a three-degree path, simply multiply
-your groundspeed by 5. If you are going 120 knots, your
-ROD to fly the desired path would be 600 fpm (120 × 5
-= 600). It was determined in the previous example that a
-Figure 3-2. VNAV path construction.
-3-4
-descent should be initiated at 20 NM to lose 6,000 feet. If
-the groundspeed is 120 knots, that means the aircraft is
-moving along at 2 NM per minute. So to go 20 NM, it takes
-10 minutes. Ten minutes at 600 fpm means you will lose
-6,000 feet.
 The calculations should be made before the flight and rules
+threshold. Flight manuals or operating handbooks may also
 of thumb updates should be applied in flight. For example,
+contain a fuel, time, and distance to descend chart that
 from the charted STAR pilots might plan a descent based on
+contains the same information.
 an expected clearance to “cross 40 DME West of Brown VOR
 at 6,000” and then apply rules of thumb for slowing down
+One technique that is often used is the descent rule of
 from 250 knots. These might include planning airspeed at 25
+thumb, which is used to determine when you need to
 NM from the runway threshold to be 250 knots, 200 knots at
+descend in terms of the number of miles prior to the point
 20 NM, and 150 knots at 15 NM until gear and flap speeds
+at which you desire to arrive at your new altitude. First,
 are reached, never to fall below approach speed.
+divide the altitude needed to be lost by 300. For example,
 Vertical Navigation (VNAV) Planning
+if cruising altitude is 7,000 feet and you want to get down
+to a pattern altitude of 1,000 feet. The altitude you want to
 Vertical navigation (VNAV) is the vertical component of
+lose is 6,000 feet, which when divided by 300 results in 20.
 the flight plan. This approach path is computed from the
+Therefore, you need to start your descent 20 NM out and
 top-of- descent (TOD) point down to the end-of-descent
+leave some extra room so that you are at pattern altitude
 waypoint (E/D), which is generally the runway or missed
+prior to the proper entry. It is also necessary to know what
 approach point, which is slightly different than to the
+rate-of-descent (ROD) to use.
 approach gate for non-flight management system (FMS)
 equipped aircraft. [Figure 3-2] The VNAV path is computed
+To determine ROD for a three-degree path, simply multiply
 based upon the aircraft performance, approach constraints,
+your groundspeed by 5. If you are going 120 knots, your
 weather data (winds, temperature, icing conditions, etc.)
+ROD to fly the desired path would be 600 fpm (120 × 5
 and aircraft weight.
+= 600). It was determined in the previous example that a
+_Ee
+Between 12,000' and 10,000'
+o... last
+~ ‘
+At or below 8,000' 220 kt max
+>
+Instrument approach vertical angle
+constraint to T/D,
+(}
+y
+At 4,000'
+coded in the navigation database.
+path is computed
+a
+Using available
+=a
+performance data
+At or above 2,200'
+eee.
+|| ©
+:
+te mie
+| ECON efficient
+VINAV plans for
+|
+’
+—
+path.
+|
+decelerations to
+c
+honor speed
+restrictions, e.g.
+i
+10,000"
+©)
+2?
+250 knots below
+=
+(monotonic
+SS
+The path is computed beginning
+=
+decelerations).
+from the E/D constraint (and
+es
+vertical angle) to the next
+C
+constraintthat“gets in
+the way"
+VNAV begins at the runway
+(at 4,000' in this drawing) and
+waypoint constraint altitude
+then to the next constraint, and
+(Eb) and then follows the
+so on.
+vertical angle upstream.
+Figure 3-2. VNAV path construction.
+3-4
 
+[ts
+—
+-_
+Performance Path
+f
+~ Top-of-descent
+_
+Computed descent path at idle (or near-idle) power
+iin ied
+from top-of-descent to the first constrained waypoint
+Sa
+NEEAL
+a
+=
+BUCKK
+_lMeceserpam a ECON pent
+—_
 Figure 3-3. VNAV performance path.
+Geometric Path
+—
+Computed 3-D point-to-point descent path between
+Fammopt descent
+two constrained waypoints or when tracking a
+y
+prescribed vertical angle
+S \
+The geometric path is a shallower descent and
+Zz
+typically a non-idle path.
+se SS,
+OLM
+SS
+12,000
+|
+NEEAL
+_
+ee
+|
+en
+:
+BUCKK
+Idle descent
+path at ECON
+speed
+i
+=
+| Geometric pathsatVNAVtarget speed
+>
+oe
 Figure 3-4. VNAV geometric path.
 3-5
 
 The two types of VNAV paths that the FMS use is either a
+installed in an aircraft, and what it is approved to do. It is
 performance path or a geometric path. The performance
+also important to understand that the VNAV function of
 path is computed using at idle or near idle power from
+non-WAAS capable or non-WAAS equipped IFR-approved
 the TOD to the first constrained waypoint. [Figure 3-3]
+GPS receivers does not make the aircraft capable of flying
 The geometric path is computed from point to point
+approaches to LNAV/VNAV minimums.
 between two constrained waypoints or when on an
 assigned vertical angle. The geometric path is shallower
+FMS are the primary tool for most modern aircraft, air
 than the performance path and is typically a non-idle
+carriers, and any operators requiring performance based
 path. [Figure 3-4]
+navigation. Most of the modern FMS are fully equipped
+with LNAV/VNAV and WAAS. The FMS provides flight control
 LNAV/VNAV Equipment
+steering and thrust guidance along the VNAV path. Some
+less integrated systems may only advise the flight crew
 Lateral navigation/vertical navigation (LNAV/VNAV)
+of the VNAV path but have no auto-throttle capability.
 equipment is similar to an instrument landing system (ILS)
+These less integrated systems require an increase in pilot
 in that it provides both lateral and vertical approach course
+workload during the arrival/approach phase in order to
 guidance. Since precise vertical position information is
+maintain the descent path.
 beyond the current capabilities of the GPS, approaches with
 LNAV/VNAV minimums make use of certified barometric
+Descent Planning for High Performance Aircraft
 VNAV (baro-VNAV) systems for vertical guidance and/or
 the wide area augmentation system (WAAS) to improve
+The need to plan the IFR descent into the approach gate
 GPS accuracy for this purpose.
+and airport environment during the preflight planning
+stage of flight is particularly important for turbojets. TOD
+from the en route phase of flight for high performance
 This GPS/RNAV provides lateral and vertical
+aircraft is often used in this process and is calculated
 guidance during an RNAV approach.
+manually or automatically through a FMS based upon the
+fo
+altitude of the approach gate. A general rule of thumb for
 TRK 332°
 332°
 9.74 n
 119.000
 A
+—
 C
 m
+—
 T
+initial IFR descent planning in jets is the 3 to 1 formula.
 DIST
 BRG
 121.600
@@ -288,97 +423,270 @@ S
 B
 Y
 DTK
+—
 114.10
 A
+This means that it takes 3 NM to descend 1,000 feet. If
 346°
 C
 T
+=
 --.- vor
+=
+an airplane is at FL 310 and the approach gate or initial
 116.00
 S
 B
 Y
+=
 GS
 ETE
 S
+—
+approach fix is at 6,000 feet, the initial descent requirement
 B
 04:52
 Y
 120kt
 Lnav/Vnav
 FLAGGED
+—
 C345
 SUNOL
 RW34Lm
 GPS
 ENR
+equals 25,000 feet (31,000–6,000). Multiplying 25 times
+—
 MSG PROC FPL
 NAV
-Figure 3-5. WAAS data provide lateral and vertical guidance.
-Note: WAAS makes use of a collection of ground stations
-that are used to detect and correct inaccuracies in the
-position information derived from the GPS. Using WAAS,
-the accuracy of vertical position information is increased
-to within three meters.
-To make use of WAAS; however, the aircraft must be
-equipped with an IFR-approved GPS receiver with WAAS
-signal reception that integrates WAAS error correction
-signals into its position determining processing. The WAAS
-enabled GPS receiver [Figure 3-5] allows the pilot to load an
-RNAV approach and receive guidance along the lateral and
-vertical profile shown on the approach chart. [Figure 3-6]
-It is very important to know what kind of equipment is
-3-6
-installed in an aircraft, and what it is approved to do. It is
-also important to understand that the VNAV function of
-non-WAAS capable or non-WAAS equipped IFR-approved
-GPS receivers does not make the aircraft capable of flying
-approaches to LNAV/VNAV minimums.
-FMS are the primary tool for most modern aircraft, air
-carriers, and any operators requiring performance based
-navigation. Most of the modern FMS are fully equipped
-with LNAV/VNAV and WAAS. The FMS provides flight control
-steering and thrust guidance along the VNAV path. Some
-less integrated systems may only advise the flight crew
-of the VNAV path but have no auto-throttle capability.
-These less integrated systems require an increase in pilot
-workload during the arrival/approach phase in order to
-maintain the descent path.
-Descent Planning for High Performance Aircraft
-The need to plan the IFR descent into the approach gate
-and airport environment during the preflight planning
-stage of flight is particularly important for turbojets. TOD
-from the en route phase of flight for high performance
-aircraft is often used in this process and is calculated
-manually or automatically through a FMS based upon the
-altitude of the approach gate. A general rule of thumb for
-initial IFR descent planning in jets is the 3 to 1 formula.
-This means that it takes 3 NM to descend 1,000 feet. If
-an airplane is at FL 310 and the approach gate or initial
-approach fix is at 6,000 feet, the initial descent requirement
-equals 25,000 feet (31,000–6,000). Multiplying 25 times
 3 equals 75; therefore, begin descent 75 NM from the
+=
+=
+=
+=
 approach gate, based on a normal jet airplane, idle thrust,
 speed Mach 0.74 to 0.78, and vertical speed of 1,800–2,200
 fpm. For a tailwind adjustment, add 2 NM for each 10 knots
 of tailwind. For a headwind adjustment, subtract 2 NM for
 each 10 knots of headwind. During the descent planning
+Figure 3-5. WAAS data provide lateral and vertical guidance.
 stage, try to determine which runway is in use at the
 destination airport, either by reading the latest aviation
+Note: WAAS makes use of a collection of ground stations
 routine weather report (METAR) or checking the automatic
+that are used to detect and correct inaccuracies in the
 terminal information service (ATIS) information. There can
+position information derived from the GPS. Using WAAS,
 be big differences in distances depending on the active
+the accuracy of vertical position information is increased
 runway and STAR. The objective is to determine the most
+to within three meters.
 economical point for descent.
+To make use of WAAS; however, the aircraft must be
 An example of a typical jet descent-planning chart is
+equipped with an IFR-approved GPS receiver with WAAS
 depicted in Figure 3-7. Item 1 is the pressure altitude from
+signal reception that integrates WAAS error correction
 which the descent begins; item 2 is the time required
+signals into its position determining processing. The WAAS
 for the descent in minutes; item 3 is the amount of fuel
+enabled GPS receiver [Figure 3-5] allows the pilot to load an
 consumed in pounds during descent to sea level; and item
+RNAV approach and receive guidance along the lateral and
 4 is the distance covered in NM. Item 5 shows that the chart
+vertical profile shown on the approach chart. [Figure 3-6]
 is based on a Mach .80 airspeed until 280 knots indicated
+It is very important to know what kind of equipment is
 airspeed (KIAS) is obtained. The 250 knot airspeed limitation
+3-6
 
+|
+|
+PITTSBURGH, PENNSYLVANIA.
+AL-570 (FAA)
+WAAS.
+Rwy
+Idg
+cH'Bba26 |APPcRs | Thy 98
+RNAV (GPS) Y RWY TOR
+wioD
+100° | Apieley
+PITTSBURGH INTL(PIT)
+v Fe uncompensated Boro-YNAV systems,INAV/VNAVNA below
+For inoperative ALSF-2, increase LPV visibilify fo RVR S000 all Cols. | ALSF-2
+fa pibaairngeiy
+liye a
+when authorized by ATC. DME/DME RNP-0.3 NA.
+@ 7
+|
+roche AG VOR/DMEod hall
+-178C (2°F) or above 46°C (114°F). Hold
+in lieu altitude: 3000
+Fl
+peka
+a
+hol
+ANS
+PITTSBURGH TOWER
+GND CON
+ase 127.25 |PMTsnURGH APP CON] LOLZER
+tea ee
+y7o.gp5) SOUTH 121.9)248.6
+abe
+ber 195.9 | 128.95 $60.8 Jy iorzai
+10C-28C,
+14:
+.
+.
+34g.6
+126-75 353.7|
+119.1 270.225 |NORIH 127.6 348.6
+(IAF)
+CuTA.
++5000 NoPT
+177° (23.3)
+ragePs
+(IF/IAF)
+(FAF)
+1371, \ proves
+MUFTI.
++4000
+3000 STARG
+1357,
+—_”R
+be
+100°C
+N—— 1282
+DA
+— G0100
+ih DiTPE
+2.
+)
+(4)
+RWI0R
+A
+4NM
+We
+A399
+e
+2049,
+A
+%
+APLKE
+a
+z
+Aisi
+By
+r
+5%
+&
+:
+&
+x
+13000 when authorized by ATC.
+g
+#3100 when authorized BYIATC,
+©
+s
+‘Sa
+Ss
+=
+?
+,
+2,
+=
+(gollin
+_
+z
+s/
+HeiR25 4,
+S|
+25.6,
+ony
+3d,
+RS
+“
+‘=,
+sum | 2
+s|
+soy
+AULEGHENY
+“Ss,xe
++
+&
+o|
+s]/~
+AGC
+Sas
+i
+:
+z
+ELEV_
+(IAF)
+WISKE
+4NM
+DIVPE
+‘AGG
+Holding Pattern
+Shue
+cos fe. a
+WIILE
+sdk
++
+ve
+1265+
+A
+50001 99>
+==280°
+STARG
+—#1.4NM_ “LNAVonly lA’ S~
+i0s02x
+&
+G5.3,00°
+Some 8 GA25*
+P00».
+J
+Tebioe
+Die
+TCHS)
++4000
++
+| Rwior |
+OVI Lae 5
++3000 when duthiorized by atc, |3000
+a
+|
+a
+RENONec)
+RR Sees es ee
+ms
++SS.
+[catecoref A Te OT Cc Tt
+2a)%0
+VoOx
+[tev SpA [1443724 308 (400-14)
+| OE
+eOn
+ts
+1658/60 523 (600-114)
+RWIOR
+LNAV,MDA
+1620/24 485 (500-/4)
+485 (500-%4)
+485 (500-1) Needs TOL, 10R, 281, 28R,
+‘3
+1700-1
+1760-2 | HIRL Rwys 10L-28R, 10C-28C,
+“iment
+1700-1) 497 1500-1)
+497 (500-12)
+557 (600-2)
+_]10R-281 ond 14-32
+PITTSBURGH, PENNSYLVANIA
+PITTSBURGH INTL (PIT)
+AmaMs
+sorem-sruw RNAV (GPS) Y RWY 10R
 Figure 3-6. RNAV (GPS) approach.
 3-7
 
@@ -437,17 +745,27 @@ the proper performance charts to compute their fuel
 procedure or issued by ATC, it is called a crossing restriction.
 requirements, as well as the time and distance needed for
 Even when ATC allows a descent at the pilot’s discretion,
+Co
+Gp
+|
 Top-of-descent point
 Cruising speed
 knots
+(TD
 Wind
 Cruising altitude
 ft
+Cc)
 Descent speed and rate
+Ga»
+rs]
 Bottom-of-descent point
+CD
 knots @ 1,000 fpm
 Assigned altitude
 ft
+a>
+SY
 ECA VOR
 Figure 3-8. The descent planning task.
 3-8
@@ -551,7 +869,11 @@ relation to the surrounding high terrain.
 The following are excerpts from CFIT accidents related
 3-9
 
+3-10 Oo
+re
+=p
 “....cleared present position direct.....”
+ne
 Figure 3-9. Altitude management when cleared direct.
 to descending on arrival: “…delayed the initiation of the
 descent…”; “Aircraft prematurely descended too early…”;
@@ -587,7 +909,14 @@ out sights of interest, and filling out company payroll and
 related records are not required for the safe operation of
 the aircraft. (b) No flight crewmember may engage in, nor
 may any pilot in command permit, any activity during
-3-10
+=
+|
+en
+——)
+ei
+|
+i
+i
 “I need to check my altitude requirement.”
 a critical phase of flight that could distract any flight
 crewmember from the performance of his or her duties or
@@ -623,6 +952,223 @@ at the en route structure but do not make it down to the
 pavement. This is primarily because STARs serve multiple
 runways and sometimes multiple airports.
 
+(SHAMU.SHAMU1) 09127
+-
+SHAMU ONE ARRIVAL
+__sysvaa
+-
+|
+‘Goon 83
+i
+ee
+1136 A Ee
+=
+Omaa ge
+So
+ee
+1347, Ha
+ss,
+Xp,
+PLANNING INFORMATION
+—
+oy
+SoS
+Gee
+Expect to cross at or below
+= — ~
+%
+So
+#270
+-
+Se
+an
+Q
+~
+STE
+=
+<
+{
+ee
+Y
+Bee
+‘
+ah
+EP
+EIREE
+-
+EPs |)
+ae
+Nora
+ied
+pay
+wWii7'siu8 /f¢0
+CANS
+.
+2S [see
+190 12 'Z-SINy
+0102 AON 8t 910402
+Ny _| KEATINGTRANSITION {ETS MP3
+z=
+| penyomcarecon
+PHIUPSBURG TRANSITION (PSB.MIP3)
+aS
+aye
+ars
+‘STONYFORK TRANSITION (SFK.MIP3)
+or
+oa
+From over MIP\YORTAC via MIP R-117 ond FIC R-298 to FIC VORTAC, then via |"=
+m
+to BEUTY INT, then via
+Zs
+sz
+Chon 23
+‘SBR°295
+foLIZZIINT, then via RBV VORTAC R-323
+ua
+COL VOR/DME R-303 fo HARLM INT ond DREMS INT, then via JFKVOR/DME |A
+zB
+R-225 to PROUD INT.
+He
+to APPLE INT, then via GAVOR/DME
+a
+R-263
+cd
+Expect radafvectors to final approach course.
+zgB
+S|
+TAIN
+=
+=
+ncores_.
+vas
+=
+S
+Chon 107
+eNTOWN
+TAGUARDIA
+eer
+ip
+pape
+193) Ga ==?
+co,
+oF
+ingiaye 25,
+Chon 122
+‘Chen
+FL)
+ce
+as
+al
+ro @
+Tose
+VIBES
+SOURS
+68) peo
+g
+NouSTe
+Ss.
+:
+R20
+oF Wasco
+Le am
+PROUD
+fo cross
+uzzi
+EY nur | 3
+te
+a
+Le?
+Rh,
+E3000 | NOHseoe
+jw | E
+093°
+as
+7),
+‘© Expect
+2s)
+,
+wean
+A
+PHIUPSBURG
+[ee P
+APPLE
+as
+1153 88 FF?
+MARR
+Om
+Aka |
+shi
+Warne.
+nuoesa73'
+ILE
+\ 77 keke
+WORE
+SO
+‘can cai
+waseoet7 — uorarse Bal
+NS.
+warm \ &ySe"
+[___chon 02 —_|
+soediocos wiry & §
+oie
+aoe 24a
+=
+xWMI
+—
+F
+.
+~
+O
+seury SOV
+Ne
+2.
+(_aNNEDY
+———
+a EE
+as
+rani
+e
+pre
+“
+leans
+OAL SCI
+iss
+i
+—
+wasos SP
+gtAS Dn
+Gen 105
+J)
+_ =
+ae
+=
+"Pion = SN,
+&.,
+g
+_——
+YARDLEY
+wousnEcK_)
+|2
+;
+Ps
+1082 8D 25;
+rome
+NGS
+|sa
+i
+cou sre] 18S
+SS,
+CS
+Chon 9
+1198 Rev Es
+Gh 101
+==
+=
+“Se
+MBer
+2010 t0 18 Nov 2010
+fi
 Figure 3-10. Arrival charts.
 3-11
 
@@ -729,59 +1275,401 @@ flight is reversed and the procedure ends at a fix. The STAR
 arrival route, also called the basic STAR procedure or the
 common route or common point, begins at the common
 
+oSRL
+Ct, ey
+eee
+e
+ee aieh.
+Dire
+can Wage Aor
+2a ie
+Seine eiee
+|
+Wea
+igh
+Se
+SR
+a
+Bin
+Ew” eo Reo EOE te geri
+primanyanivalairportjssenttecss
+Ay ae! EsWicies N
+ie
+—
+Bu
+aS
+alg
+:
+%
+g2
+SOR HE! 6
+a
+feria a
+ZZ
+KING COUNTY INTL
+he
+Shoal
+seAmETACOMAATS |7 Z
+S35
+Landing Noah: T2000.250K
+:
+S36
+&3|(—
+=e
+Mize,
+—TURBOVETS:
+35 ooo Sage wee
+Bu
+Mointin 12000.
+BS
+Leino:
+AE
+-
+Sa
+"xs
+ya200
+<
+Landing BFI Runway 31:Toma ga
+S ‘way
+B
+z
+narean7y-wizeoa7e = Y NR
+~~“
+*
+BHRATA
+<
+Ti
+andy Sok
+Q-
+,
+Ge
+UR EM Ee =
+Somh:
+ge"
+eoxecoeal
+Tea
+es. Se ||
+z
+ae yy
+a
+:
+KIMBL of
+trafi
+ib
+inalarea
+durin
+z
+San,
+i
+YKM R-284 fo CHINS
+sti yen FSD
+=a
+ey
+g
+IN
+Nas
+iZA
+Sx
+TIS.
+:
+| then on SEA R-104 to HU
+_ from owe Capea sat n route portion of your ghtends at the
+2eS
+§
+|
+imt
+u
+sh
+dd
+the
+K
+ly
+aut
+RY
+Fl
+é LANDING NORTH®"Headi
+8 DME.
+_
+33e
+Sy
+F
+toAUBRN/SEA
+Ry
+as
+| LANDING SOUTH: Hedi
+|
+Pie
+»
+|Z
+| tostCOMMUNICATIONS:
+70)
+Whah
+Q| SEA VORTAC.
+pare
+v
 Figure 3-11. STAR interpretation.
 NAVAID, intersection, or fix where all the various (en route)
-transitions to the arrival come together. A STAR en route
-transition is a published segment used to connect one or
-more en route airways, jet routes, or RNAV routes to the
-basic STAR procedure. It is one of several routes that bring
-traffic from different directions into one STAR. This way,
-arrivals from several directions can be accommodated on
-the same chart, and traffic flow is routed appropriately
-within the congested airspace.
 To illustrate how STARs can be used to simplify a complex
+transitions to the arrival come together. A STAR en route
 clearance and reduce frequency congestion, consider
+transition is a published segment used to connect one or
 the following arrival clearance issued to a pilot flying to
+more en route airways, jet routes, or RNAV routes to the
 Seattle, Washington, depicted in Figure 3-11: “Cessna 32G,
+basic STAR procedure. It is one of several routes that bring
 cleared to the Seattle/Tacoma International Airport as filed.
+traffic from different directions into one STAR. This way,
 Maintain 12,000. At the Ephrata VOR, intercept the 221°
+arrivals from several directions can be accommodated on
 radial to CHINS Intersection. Intercept the 284° radial of the
+the same chart, and traffic flow is routed appropriately
 Yakima VOR to RADDY Intersection. Cross RADDY at 10,000.
+within the congested airspace.
 3-13
 
+(BSR.BSR2) 07298
+ante
+SCO TL
+santruaheaeCACINA
+BIG SUR TWO ARRIVAL
+ses
+COAKIAND CENTER
+phage 07
+Tess tgs
+hae |
+a7 1888
+© Chon 115
+“
+ps
+“rd
+bi
+~~
+eei.
+Ff
+ay_
+=
+— Eee
+RS
+RY
+-
+«a
+as
+ee —
+|
+:
+>
+a
+oh
+MENLO
+x
+R- am
+|
+Me,
+:
+=
+«J
+wi2z09.27
+ra
+eat <a
+S
+S23
+WP
+RCIOR
+| eee
+ro
+a
+N37*10, wae
+|
+g
+|
+rance
+S
+_
+& |) &
+~—weonsne
+o\8
+ee
+S
+ugg Os EF
+>
+|
+g
+‘Chon 66
+7 Se
+a
+oe
+“a
+ae
+rl
+ae
+ae
+a
+Z
+ANJEE
+“
+z
+=
+©
+17.3 SNS =
+rs
+Chon)20
+et
+See
+cea
+=
+CARME
+SENS-ah
+.
+-“
+:
+IRED
+aS
+rear
+TE
+eal
+ss
+-
+testa
+net
+=
+>
+%
+:
+SAN RANGRCO,CAIFORNA
+a
+SAN FRANCISCO
+INTL
+rrrrrrrr—“(——CC*d
+nT
 Figure 3-12. Reducing pilot/controlling workload.
 3-14
 
-Continue via the Yakima 284° radial to AUBRN Intersection.
-Expect radar vectors to the final approach course.”
-Now consider how this same clearance is issued when a
-STAR exists for this terminal area. “Cessna 32G, cleared to
-Seattle/Tacoma International Airport as filed, then CHINS
-EIGHT ARRIVAL, Ephrata Transition. Maintain 10,000 feet.” A
-shorter transmission conveys the same information.
-Safety is enhanced when both pilots and controllers know
-what to expect. Effective communication increases with the
-reduction of repetitive clearances, decreasing congestion
-on control frequencies. To accomplish this, STARs are
-developed according to the following criteria:
-Figure 3-13. STAR symbology.
 •
 STARs must be simple, easily understood and, if
+Continue via the Yakima 284° radial to AUBRN Intersection.
 possible, limited to one page.
+Expect radar vectors to the final approach course.”
 •
 A STAR transition should be able to accommodate as
+Now consider how this same clearance is issued when a
 many different types of aircraft as possible.
+STAR exists for this terminal area. “Cessna 32G, cleared to
 •
 VHF Omnidirectional Range/Tactical Aircraft Control
+Seattle/Tacoma International Airport as filed, then CHINS
 (VORTACs) are used wherever possible, with some
+EIGHT ARRIVAL, Ephrata Transition. Maintain 10,000 feet.” A
 exceptions on RNAV STARs, so that military and
+shorter transmission conveys the same information.
 civilian aircraft can use the same arrival.
+Safety is enhanced when both pilots and controllers know
 •
 DME arcs within a STAR should be avoided since
+what to expect. Effective communication increases with the
 not all aircraft operating under IFR are equipped to
+reduction of repetitive clearances, decreasing congestion
 navigate them.
+on control frequencies. To accomplish this, STARs are
 •
 Altitude crossing and airspeed restrictions are
+developed according to the following criteria:
+rFrom | theA bany ViOR, th e tansitio nfollo Ws he19ao
+=o
+eeaUre pp icable to prop
+ALBANY.
+NEW YORK APP.CON |32S
+isp
+=
+ue
+see Ne) 52
+£3
+ee
+BS
+Gers mer
+NT |e
+J
+Sg
+eS 88
+amos
+epuaucans |G)
+§ 2
+TODA
+Ws
+Nara?"
+12665| 4
+HS
+A ye
+saa aed
+:
+[
+Gon N Rh
+g
+66M"
+“Re acy
+"ARRIVAL ROUTE DESCRIPTION
+Ns
+Nave
+LBANY TRANSITION (ALB.PW12}: From over ALB VORTAC
+AS
+wre 29
+z
+via ALB R-194 to ATHOS INT, then
+focose
+Exped
+"
+via PWLR-3:
+ENS
+me
+ala
+vas
+GEOR
+VOR/DME. Thence. ...
+= a
+DELANCEY TRANSITION (DNY.PWI2): From over DNY
+80m 223°
+ae
+oes
+VOR/DME
+a
+or
+a
+R-354 to PWLVOR/DME. Thence.....
+via DNY R-096 toATHOS INT, then via PWL
+woes: |
+J
+Gen 124
+;
+»~
+ROCKDALE TRANSITION [RKA.PWL2): From over RKA VOR/
+EEN
+oe i-
+g
+DME vio RKA R-127 to PETER INT, then via DNY R-096 to
+ae
+A
+ATHOS INT, then via PWL R-354 to PWLVOR/DME, Thence....
+ene
+8 won
+A
+ens
+JA
+|;
+aa. Fromover PWLVOR/DME via PWL R-172 to LOVES INT.
+°
+O o
+4.4 8
+Then vio BDR R-336 to BDR VOR/DME. Then via BDR R-145 to
+oY
+nore Geasigi |
+BELTT INT. Then via DPK R-053 to DPK VOR/DME,
+“YouneednottyinosrKiouse po
+|
+If the en route portion
+ig
+é
+“
+ritdepih
+Figure 3-13. STAR symbology.
 3-15
 
 included when they are assigned by ATC a majority
@@ -884,6 +1772,139 @@ starting with Z and working backward through Y, X, W, and
 so on. (Naming conventions for approaches are covered in
 more depth in the next chapter). [Figure 3-15]
 
+—7
+=
+ae
+myo
+&
+|
+RA; ac
+pS a
+a
+ail
+(GENERAL EDWARD LAWRENCE LOGAN INTL
+i
+a
+ee
+R THREE ARRIVAL‘si.s2 ran)
+BOSTON, MASSACHUSETTS
+Roc
+Ke
+*
+ae
+ah,
+ae
+il
+Bi
+The textual description indicates
+Ghon 97
+i
+different altitude and airspeed.
+‘
+International via the GARDNER THREE
+52 Sierra, clearedtoLogan
+aiuoeta a folurbolet and nar
+"Piper
+<email
+ARRIVAL, Albany Transition, maintain 9,000."
+q
+At REVER Intersection, you fly
+een
+BRONC
+inbound to theBoston
+Visa ai itt
+VOR on _
+hse
+ond na 7
+‘the 030’radial,=
+ae
+Turbojet and G159, L188 and CV58¢
+sai
+Exped focross of 11,000"of 250 knot
+19233-34,H10-11-12
+Non-Turbo Aircraft: Expect to cross at 9000".
+ilni0000.
+Landing Rwy 15R: Expect to cross.at 700%.
+8\8tn
+(15) =Am] ]] waa$7 | =
+oles
+/ Nsrs201'
+x|sos8
+/ wires
+(5)
+'
+(35) Sh
+g
+3|F f
+~}
+je
+LOBBY
+gS. | 2
+N4¥30.26"
+[Koy
+°
+a
+‘GARDNER
+7193657"
+g
+S
+z
+W0l6'GoM =a"
+Landing Rwy 15R:
+ss
+Chon 43,
+Expect
+Oo
+to crossat OA)
+=
+KENNEDY
+8,000" at 230 knots
+.
+ss
+Chon 106
+ZS
+Athis point you join the
+werwsses |
+|”
+cama
+=
+K
+/; J
+135-34, HOTZ
+AR on the111° radial
+,
+Chen 74"
+fa
+ff
+NOTE: Kennedy Trongition
+for | from Gardner VOR.
+|:
+um
+=
+ee
+H
+Sciacca)
+PA
+="
+You need to change VOR frequencies at the mileage
+; —— <S
+SLD | breakdown
+point. Follow
+the
+110° radial
+from psn
+KENNEDY
+TRANSITION (JFK.GDM3):
+From over JFK VOR/DME via JFK R-011
+to ALB VORTAC, then via ALB R-110 and GDM R-294 fo GDM VOR/DME.
+Thence...
+gine
++ GDM VOR/DME via GDM R-111 (V431) to BOS R-030 (V3) to BOS VOR/DME,
+GARDNER)
+BOSTON, MASSACHUSETTS
+(GDM.GDM3) | vectors to thefinal approach course.Have a
+This note indicates that you can expect radar
+YAWeence LOGAN INTL
 Figure 3-14. Arrival clearance.
 3-17
 
@@ -949,36 +1970,190 @@ need for a lower altitude, descent below 5,000 feet above
 the airport elevation is typically limited to an altitude where
 OV 2010
 
+O02 AON 8 91102 190 128-08
+a
+==
+pat HRN VORTAC a F0,GART NT 1300 feo
+ek ae 3
+&B|
+ae
+furbojet arrivals
+clearanceto cross: 25 miles
+(Sees
+“
+4g
+OX forth of MSN VORTAC ot FL240, GARIT INT ct 17,000 66.
+Fa
+VIKNG
+Chan 23
+he
+m
+Stare
+eo
+z
+2D rw eG
+hese:
++
+woo.)
+|S
+$s
+eee
+ea J /B
+be
+et
+ware
+Es
+FASONCTY
+ia
+Bae
+page
+||
+149 Now Sra. J,SUBIC.
+suzva
+Mey) Ge
+Vea
+lrracer atrrrarKra|
+‘Chon 96
+tanya’.
+| EB
+A
+(io)
+Re,
+Weriode | Na2s5294
+ae
+as
+BULLZ
++
+od
+W90'33.10°
+“TOS
+ta
+\2 2
+vipers:
+&$
+BRIBE
+ee
+Wob528
+TEDDY
+es
+NEE
+90!
+Ge Se
+Niwa
+a
+Wars
+ie
+i& Pic
+rm
+Y
+SRE
+oe
+___| Turbojetarrivals expectclearance to cross: MYTCHot
+eee
+eat
+ped 2
+a
+eee
+’
+Nee BS
+Qe,
+ae
+:
+S
+>
+race
+SERGE)
+Ny
+eee
+S|
+e=
+=
+ao
+Lo eA
+Pa
+it MVOR/OME
+/
+1 KRENA INT
+AT
+RG Se
+Ec
+~~
+a
+mt
+ita
+WN
+en}
+EE oy
+~Fe
+[Ss
+a
+ex |
+i
+Tl
+*¢
+ee
+Oa
+ae
+RSE
+eae eRe caer
+:
+Sa
+f
+["Airraft 20350,cleared Via theJANESVILLE
+ee
+eee
+es
+BRAM
+=| FIVEARRIVALY
+Peat aol
+Wt
+FEES
+EE
+| Trecontroters
+only aiving you a routing clearance
+en
+Ne
+| and will specify any altitudes and airspeeds tofly.
+[ealiatians sp Pesce
+evant
+|
+| adhere to the minimum crossing altitudes and
+Dass ton owen ourt
+| airspeed restrictions
+printed on the chart.
+sil
 Figure 3-16. Assigned altitudes.
 final descent and glideslope/glidepath intercept can be
+an advisory that details when to expect to commence
 made without exceeding specific obstacle clearance and
+the descent. ATC typically uses the phraseology, “Expect
 other related arrival, approach, and landing criteria.
+descent in (number) miles.” Standard ATC phraseology
 Arrival delays typically are absorbed at a metering fix.
+is, “Maintain (altitude) until specified point (e.g., abeam
 This fix is established on a route prior to the terminal
+landing runway end), cleared for visual approach or expect
 airspace, 10,000 feet or more above the airport elevation.
+visual or contact approach clearance in (number of miles,
 The metering fix facilitates profile descents, rather than
+minutes, or specified point).”
 controllers using delaying vectors or a holding pattern at
 low altitudes. Descent restrictions normally are applied
-prior to reaching the final approach phase to preclude
-relatively high descent rates close in to the destination
-airport. At least 10 NM from initial descent from 10,000
-feet above the airport elevation, the controller issues
-an advisory that details when to expect to commence
-the descent. ATC typically uses the phraseology, “Expect
-descent in (number) miles.” Standard ATC phraseology
-is, “Maintain (altitude) until specified point (e.g., abeam
-landing runway end), cleared for visual approach or expect
-visual or contact approach clearance in (number of miles,
-minutes, or specified point).”
 Once the determination is made regarding the instrument
+prior to reaching the final approach phase to preclude
 approach and landing runway pilots use, ATC will not
+relatively high descent rates close in to the destination
 permit a change to another NAVAID that is not aligned with
+airport. At least 10 NM from initial descent from 10,000
 the landing runway. When altitude restrictions are required
+feet above the airport elevation, the controller issues
 for separation purposes, ATC avoids assigning an altitude
 3-19
 
+3-20 a
 "Piper 6319K, cross PENNS Intersection at 6,000, maintain 6,000.
 NOT FOR NAVIGATION
+PO
 You are at HAYED Intersection at 12,000 feet MSL. Your planned rate of descent is 500 fpm and your groundspeed
 is approximately 180 knots (3 NM per minute). You should begin your descent no less than 36 NM from PENNS
 Intersection ([6,000 ÷ 500] x 3 = 36).
@@ -1003,9 +2178,9 @@ ft/NM (approximately 10°).
 Remember during arrivals, when cleared for an instrument
 approach, maintain the last assigned altitude until
 established on a published segment of the approach or on
-3-20
 "
 NE-2, 21 OCT 2010 to 18 NOV 2010
+po
 If you are at RACKI Intersection at 12,000 feet
 MSL, you must adjust your rate of descent so
 you can reach 6,000 feet MSL in the distance
@@ -1069,8 +2244,13 @@ expected to comply with the 200 KIAS limit specified in 14
 CFR Part 91, § 91.117(c). (See 14 CFR Part 91, § 91.117(c)
 and 91.703.) Approach clearances cancel any previously
 assigned speed adjustment.
+7 hh
+P|
 “...Viking 5786P, hold east of the 20 DME fix on the
 265° radial of the stedman VORTAC, 5 mile legs...”
+a
+_
+:
 Figure 3-18. Instead of flying for a specific time after passing the holding fix, these holding patterns use distances to mark where the
 turns are made. The distances come from DME or IFR-certified GPS equipment.
 Holding Patterns
@@ -1103,10 +2283,19 @@ entry and holding procedures as conventional holding
 patterns. The controller or the instrument approach
 procedure chart specifies the length of the outbound leg.
 The end of the outbound leg is determined by the DME
+P|
+~
 “...Bonanza 8394K, hold
+»~ %
+f
+-
 northeast of the 16 DME fix on
+-
 the 030° radial of the stedman
 VORTAC, 5 mile legs...”
+oe
+—
+—
 SE
 T
 3-21
@@ -1149,7 +2338,9 @@ issue a circling approach clearance, such as “…cleared
 for VOR Runway 17 approach, circle to land Runway 23.”
 Approaches whose final approach segment is more than 30
 degrees different from the landing runway alignment are
+a
 
+a
 NOT FOR NAVIGATION
 SE-3, 21 OCT 2010 to 18 NOV 2010
 Figure 3-20. Cleared for the Palm Beach ILS approach.
@@ -1216,15 +2407,21 @@ Radar Vectors to Final Approach Course
 Arriving aircraft usually are vectored to intercept the final
 approach course, except with vectors for a visual approach,
 at least 2 NM outside the approach gate unless one of the
+-
 LIMA
 LOM
 6 DME
+™
+|
 X-RAY
 INT
 12 DME
+|
+—~!
 ALPHA
 20 DME
 INT
+|
 IAF
 IAF
 Figure 3-21. Arrival instructions when established.
@@ -1276,10 +2473,14 @@ established on a segment of the instrument approach
 procedure. “Seven miles from X-RAY. Cleared ILS runway
 three six approach.”
 Aircraft 2 is being vectored to a published segment of
+t
 IAF
+“
+|
 ALPHA
 FAF
 12 DME
+;
 Straight-in ILS
 Figure 3-22. Arrival instructions when not established.
 the final approach course, 4 NM from LIMA at 2,000 feet.
@@ -1327,6 +2528,7 @@ ILS final approach course, 3 NM from Alpha at 4,000 feet.
 The minimum vectoring altitude for this area is 4,000 feet.
 “Three miles from Alpha. Turn left heading two one zero.
 Maintain four thousand until established on the localizer.
+EEE
 Special Airports
 Kodiak, AK
 Petersburg, AK
@@ -1369,6 +2571,7 @@ the routes and into airports where scheduled operations
 are conducted, including areas, routes, and airports in
 which special pilot qualifications or special navigation
 qualifications are needed. For Part 119 certificate holders
+EEE EEE
 Comments
 Airport is surrounded by mountainous terrain. Any go-around beyond ILS or GCA
 MAP will not provide obstruction clearance.

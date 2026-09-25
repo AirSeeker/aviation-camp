@@ -1,5 +1,6 @@
 Chapter 5
 Aerodynamics
+ofigt
 of Flight
 Forces Acting on the Aircraft
 Thrust, drag, lift, and weight are forces that act upon all
@@ -32,86 +33,103 @@ opposes the downward force of weight.
 
 •
 Weight—the combined load of the aircraft itself, the
+thrust has an upward component. But because the aircraft is in
 crew, the fuel, and the cargo or baggage. Weight is
+level flight, weight does not contribute to drag. [Figure 5-2]
 a force that pulls the aircraft downward because of
 the force of gravity. It opposes lift and acts vertically
+In glides, a portion of the weight vector is directed along
 downward through the aircraft’s center of gravity (CG).
+the forward flight path and, therefore, acts as thrust. In other
+words, any time the flight path of the aircraft is not horizontal,
 In steady flight, the sum of these opposing forces is always
+lift, weight, thrust, and drag vectors must each be broken down
 zero. There can be no unbalanced forces in steady, straight
+into two components.
 flight based upon Newton’s Third Law, which states that for
 every action or force there is an equal, but opposite, reaction
+Another important concept to understand is angle of attack
 or force. This is true whether flying level or when climbing
+(AOA). Since the early days of flight, AOA is fundamental to
 or descending.
+understanding many aspects of airplane performance, stability,
+and control. The AOA is defined as the acute angle between the
 It does not mean the four forces are equal. It means the
+chord line of the airfoil and the direction of the relative wind.
 opposing forces are equal to, and thereby cancel, the effects of
 each other. In Figure 5-1, the force vectors of thrust, drag, lift,
+Discussions of the preceding concepts are frequently omitted
 and weight appear to be equal in value. The usual explanation
+in aeronautical texts/handbooks/manuals. The reason is
 states (without stipulating that thrust and drag do not equal
+not that they are inconsequential, but because the main
 weight and lift) that thrust equals drag and lift equals weight.
+ideas with respect to the aerodynamic forces acting upon
 Although true, this statement can be misleading. It should be
+an aircraft in flight can be presented in their most essential
 understood that in straight, level, unaccelerated flight, it is
+elements without being involved in the technicalities of the
 true that the opposing lift/weight forces are equal. They are
+aerodynamicist. In point of fact, considering only level flight,
 also greater than the opposing forces of thrust/drag that are
+and normal climbs and glides in a steady state, it is still true
 equal only to each other. Therefore, in steady flight:
+that lift provided by the wing or rotor is the primary upward
+force, and weight is the primary downward force.
 •
 The sum of all upward components of forces (not just
 lift) equals the sum of all downward components of
+By using the aerodynamic forces of thrust, drag, lift, and
 forces (not just weight)
+weight, pilots can fly a controlled, safe flight. A more detailed
 •
 The sum of all forward components of forces (not just
+discussion of these forces follows.
 thrust) equals the sum of all backward components of
 forces (not just drag)
-This refinement of the old “thrust equals drag; lift equals
-weight” formula explains that a portion of thrust is directed
-upward in climbs and slow flight and acts as if it were lift
-while a portion of weight is directed backward opposite to the
-direction of flight and acts as if it were drag. In slow flight,
-Lift
-Thrust
-Weight
-Figure 5-1. Relationship of forces acting on an aircraft.
-5-2
-thrust has an upward component. But because the aircraft is in
-level flight, weight does not contribute to drag. [Figure 5-2]
-In glides, a portion of the weight vector is directed along
-the forward flight path and, therefore, acts as thrust. In other
-words, any time the flight path of the aircraft is not horizontal,
-lift, weight, thrust, and drag vectors must each be broken down
-into two components.
-Another important concept to understand is angle of attack
-(AOA). Since the early days of flight, AOA is fundamental to
-understanding many aspects of airplane performance, stability,
-and control. The AOA is defined as the acute angle between the
-chord line of the airfoil and the direction of the relative wind.
-Discussions of the preceding concepts are frequently omitted
-in aeronautical texts/handbooks/manuals. The reason is
-not that they are inconsequential, but because the main
-ideas with respect to the aerodynamic forces acting upon
-an aircraft in flight can be presented in their most essential
-elements without being involved in the technicalities of the
-aerodynamicist. In point of fact, considering only level flight,
-and normal climbs and glides in a steady state, it is still true
-that lift provided by the wing or rotor is the primary upward
-force, and weight is the primary downward force.
-By using the aerodynamic forces of thrust, drag, lift, and
-weight, pilots can fly a controlled, safe flight. A more detailed
-discussion of these forces follows.
 Thrust
 For an aircraft to start moving, thrust must be exerted and be
+This refinement of the old “thrust equals drag; lift equals
 greater than drag. The aircraft continues to move and gain
+weight” formula explains that a portion of thrust is directed
 speed until thrust and drag are equal. In order to maintain a
+upward in climbs and slow flight and acts as if it were lift
+while a portion of weight is directed backward opposite to the
+/
 Flight path
+direction of flight and acts as if it were drag. In slow flight,
 Relative wind
 Lift
 CL
 Thrust
+Lift
+|
+=
+—,
+—_
+—
+—_—
+—
+—
+q
+—
 CG
+ae
+a
 Drag
+«a
+a
 Drag
+——
+Thrust
 Component of weight
+ee
 opposed to lift
+Weight
 Rearward component of weight
+Figure 5-1. Relationship of forces acting on an aircraft.
 Figure 5-2. Force vectors during a stabilized climb.
+5-2
 
 constant airspeed, thrust and drag must remain equal, just as
 lift and weight must be equal to maintain a constant altitude.
@@ -153,6 +171,7 @@ vertical component of thrust that helps support it. For one
 thing, wing loading tends to be less than would be expected.
 Level high speed
 Level high speed
+re
 °
 Flight path
 Relative wind
@@ -198,16 +217,26 @@ gyroplane, this is accomplished by the rotation of the rotor
 blades. For other types of aircraft, such as airplanes, weight-
 Level cruise speed
 Level cruise speed
+ee
 6°
 Flight path
 Relative wind
 Level low speed
 Level low speed
+i.
 2°
 Flight path
 Relative wind
 5-3
 
+-
+:)
+ae
+hn
+—
+LAS
+~
+=
 Figure 5-4. Some aircraft have the ability to change the direction of thrust.
 shift control, or gliders, air must be moving across the lifting
 Taking the equation further, one can see an aircraft could
@@ -377,77 +406,86 @@ Figure 5-6. Drag versus speed.
 5-5
 
 lift. Figure 5-6 depicts the L/DMAX by the lowest portion of
-the blue line labeled “total drag.” The configuration of an
-aircraft has a great effect on the L/D.
-Drag
-Drag is the force that resists movement of an aircraft through
-the air. There are two basic types: parasite drag and induced
-drag. The first is called parasite because it in no way functions
-to aid flight, while the second, induced drag, is a result of an
-airfoil developing lift.
-Parasite Drag
-Parasite drag is comprised of all the forces that work to slow
-an aircraft’s movement. As the term parasite implies, it is the
-drag that is not associated with the production of lift. This
-includes the displacement of the air by the aircraft, turbulence
-generated in the airstream, or a hindrance of air moving over
-the surface of the aircraft and airfoil. There are three types of
-parasite drag: form drag, interference drag, and skin friction.
-Form Drag
-Form drag is the portion of parasite drag generated by the
-aircraft due to its shape and airflow around it. Examples include
-the engine cowlings, antennas, and the aerodynamic shape of
-other components. When the air has to separate to move around
-a moving aircraft and its components, it eventually rejoins
-after passing the body. How quickly and smoothly it rejoins is
-representative of the resistance that it creates, which requires
-additional force to overcome. [Figure 5-7]
-Notice how the flat plate in Figure 5-7 causes the air to swirl
-around the edges until it eventually rejoins downstream. Form
-Figure 5-7. Form drag.
-5-6
 drag is the easiest to reduce when designing an aircraft. The
+the blue line labeled “total drag.” The configuration of an
 solution is to streamline as many of the parts as possible.
+aircraft has a great effect on the L/D.
 Interference Drag
+Drag
 Interference drag comes from the intersection of airstreams
+Drag is the force that resists movement of an aircraft through
 that creates eddy currents, turbulence, or restricts smooth
+the air. There are two basic types: parasite drag and induced
 airflow. For example, the intersection of the wing and the
+drag. The first is called parasite because it in no way functions
 fuselage at the wing root has significant interference drag.
+to aid flight, while the second, induced drag, is a result of an
 Air flowing around the fuselage collides with air flowing over
+airfoil developing lift.
 the wing, merging into a current of air different from the two
 original currents. The most interference drag is observed when
+Parasite Drag
 two surfaces meet at perpendicular angles. Fairings are used
 to reduce this tendency. If a jet fighter carries two identical
+Parasite drag is comprised of all the forces that work to slow
 wing tanks, the overall drag is greater than the sum of the
+an aircraft’s movement. As the term parasite implies, it is the
 individual tanks because both of these create and generate
+drag that is not associated with the production of lift. This
 interference drag. Fairings and distance between lifting
+includes the displacement of the air by the aircraft, turbulence
 surfaces and external components (such as radar antennas
+generated in the airstream, or a hindrance of air moving over
 hung from wings) reduce interference drag. [Figure 5-8]
+the surface of the aircraft and airfoil. There are three types of
+parasite drag: form drag, interference drag, and skin friction.
 Skin Friction Drag
+Form Drag
 Skin friction drag is the aerodynamic resistance due to the
 contact of moving air with the surface of an aircraft. Every
+Form drag is the portion of parasite drag generated by the
 surface, no matter how apparently smooth, has a rough,
+aircraft due to its shape and airflow around it. Examples include
 ragged surface when viewed under a microscope. The air
+the engine cowlings, antennas, and the aerodynamic shape of
 molecules, which come in direct contact with the surface of
+other components. When the air has to separate to move around
 the wing, are virtually motionless. Each layer of molecules
+a moving aircraft and its components, it eventually rejoins
 above the surface moves slightly faster until the molecules
+after passing the body. How quickly and smoothly it rejoins is
 are moving at the velocity of the air moving around the
+representative of the resistance that it creates, which requires
 aircraft. This speed is called the free-stream velocity. The area
+additional force to overcome. [Figure 5-7]
 between the wing and the free-stream velocity level is about as
 wide as a playing card and is called the boundary layer. At the
+Notice how the flat plate in Figure 5-7 causes the air to swirl
 top of the boundary layer, the molecules increase velocity and
+around the edges until it eventually rejoins downstream. Form
 move at the same speed as the molecules outside the boundary
 layer. The actual speed at which the molecules move depends
+—
+_
 upon the shape of the wing, the viscosity (stickiness) of
 the air through which the wing or airfoil is moving, and its
 FLAT PLATE
 compressibility (how much it can be compacted).
+a eee
+—
+—_—
 SPHERE
+—_—
+Se
 SPHERE WITH
 A FAIRING
+—=
+—
 SPHERE INSIDE
 A HOUSING
 Figure 5-8. A wing root can cause interference drag.
+Figure 5-7. Form drag.
+5-6
 
 The airflow outside of the boundary layer reacts to the
 shape of the edge of the boundary layer just as it would
@@ -513,44 +551,21 @@ is more vertical, opposing gravity. And when you have more
 downwash, your lift vector points back more, causing induced
 drag. On top of that, it takes energy for your wings to create
 downwash and vortices, and that energy creates drag.
+High Altitude Vortices
+ee
+ma
+Low Altitude Vortices
+OQ
+Se
 Figure 5-10. The difference in wingtip vortex size at altitude versus
 near the ground.
 5-7
 
-Figure 5-11. The difference in downwash at altitude versus near
-the ground.
-The greater the size and strength of the vortices and
-consequent downwash component on the net airflow over
-the airfoil, the greater the induced drag effect becomes. This
-downwash over the top of the airfoil at the tip has the same
-effect as bending the lift vector rearward; therefore, the lift
-is slightly aft of perpendicular to the relative wind, creating
-a rearward lift component. This is induced drag.
-In order to create a greater negative pressure on the top of an
-airfoil, the airfoil can be inclined to a higher AOA. If the AOA
-of a symmetrical airfoil were zero, there would be no pressure
-differential, and consequently, no downwash component and
-no induced drag. In any case, as AOA increases, induced
-drag increases proportionally. To state this another way—the
-lower the airspeed, the greater the AOA required to produce
-lift equal to the aircraft’s weight and, therefore, the greater
-induced drag. The amount of induced drag varies inversely
-with the square of the airspeed.
-Conversely, parasite drag increases as the square of the
-airspeed. Thus, in steady state, as airspeed decreases to
-near the stalling speed, the total drag becomes greater, due
-mainly to the sharp rise in induced drag. Similarly, as the
-aircraft reaches its never-exceed speed (VNE), the total drag
-increases rapidly due to the sharp increase of parasite drag.
-As seen in Figure 5-6, at some given airspeed, total drag is
-at its minimum amount. In figuring the maximum range of
-aircraft, the thrust required to overcome drag is at a minimum
-if drag is at a minimum. The minimum power and maximum
-endurance occur at a different point.
-5-8
 Weight
+More Induced Drag Due To Downwash
 Gravity is the pulling force that tends to draw all bodies to
 the center of the earth. The CG may be considered as a point
+Sa. 5
 at which all the weight of the aircraft is concentrated. If the
 aircraft were supported at its exact CG, it would balance in
 any attitude. It will be noted that CG is of major importance in
@@ -559,65 +574,82 @@ The allowable location of the CG is determined by the general
 design of each particular aircraft. The designers determine
 how far the center of pressure (CP) will travel. It is important
 to understand that an aircraft’s weight is concentrated at the
+Less Induced Drag Near The Ground
 CG and the aerodynamic forces of lift occur at the CP. When
 the CG is forward of the CP, there is a natural tendency for the
+—
+-
 aircraft to want to pitch nose down. If the CP is forward of
 the CG, a nose up pitching moment is created. Therefore,
 designers fix the aft limit of the CG forward of the CP for the
+_—
 corresponding flight speed in order to retain flight equilibrium.
+as
+“
+ED
 Weight has a definite relationship to lift. This relationship
 is simple, but important in understanding the aerodynamics
+Figure 5-11. The difference in downwash at altitude versus near
 of flying. Lift is the upward force on the wing acting
+the ground.
 perpendicular to the relative wind and perpendicular to
 the aircraft’s lateral axis. Lift is required to counteract the
+The greater the size and strength of the vortices and
 aircraft’s weight. In stabilized level flight, when the lift force is
+consequent downwash component on the net airflow over
 equal to the weight force, the aircraft is in a state of equilibrium
+the airfoil, the greater the induced drag effect becomes. This
 and neither accelerates upward or downward. If lift becomes
+downwash over the top of the airfoil at the tip has the same
 less than weight, the vertical speed will decrease. When lift is
+effect as bending the lift vector rearward; therefore, the lift
 greater than weight, the vertical speed will increase.
+is slightly aft of perpendicular to the relative wind, creating
 Wingtip Vortices
+a rearward lift component. This is induced drag.
 Formation of Vortices
+In order to create a greater negative pressure on the top of an
 The action of the airfoil that gives an aircraft lift also causes
+airfoil, the airfoil can be inclined to a higher AOA. If the AOA
 induced drag. When an airfoil is flown at a positive AOA,
+of a symmetrical airfoil were zero, there would be no pressure
 a pressure differential exists between the upper and lower
+differential, and consequently, no downwash component and
 surfaces of the airfoil. The pressure above the wing is less
+no induced drag. In any case, as AOA increases, induced
 than atmospheric pressure and the pressure below the wing
+drag increases proportionally. To state this another way—the
 is equal to or greater than atmospheric pressure. Since air
+lower the airspeed, the greater the AOA required to produce
 always moves from high pressure toward low pressure,
+lift equal to the aircraft’s weight and, therefore, the greater
 and the path of least resistance is toward the airfoil’s tips,
+induced drag. The amount of induced drag varies inversely
 there is a spanwise movement of air from the bottom of the
+with the square of the airspeed.
 airfoil outward from the fuselage around the tips. This flow
 of air results in “spillage” over the tips, thereby setting up a
+Conversely, parasite drag increases as the square of the
 whirlpool of air called a vortex. [Figure 5-12]
+airspeed. Thus, in steady state, as airspeed decreases to
+near the stalling speed, the total drag becomes greater, due
 At the same time, the air on the upper surface has a tendency
+mainly to the sharp rise in induced drag. Similarly, as the
 to flow in toward the fuselage and off the trailing edge. This
+aircraft reaches its never-exceed speed (VNE), the total drag
 air current forms a similar vortex at the inboard portion of the
+increases rapidly due to the sharp increase of parasite drag.
 trailing edge of the airfoil, but because the fuselage limits the
+As seen in Figure 5-6, at some given airspeed, total drag is
 inward flow, the vortex is insignificant. Consequently, the
+at its minimum amount. In figuring the maximum range of
 deviation in flow direction is greatest at the outer tips where
+aircraft, the thrust required to overcome drag is at a minimum
 the unrestricted lateral flow is the strongest.
+if drag is at a minimum. The minimum power and maximum
+endurance occur at a different point.
+5-8
 
-Figure 5-12. Wingtip vortices.
-As the air curls upward around the tip, it combines with the
-downwash to form a fast-spinning trailing vortex. These
-vortices increase drag because of energy spent in producing
-the turbulence. Whenever an airfoil is producing lift, induced
-drag occurs and wingtip vortices are created.
-Just as lift increases with an increase in AOA, induced
-drag also increases. This occurs because as the AOA is
-increased, there is a greater pressure difference between the
-top and bottom of the airfoil, and a greater lateral flow of air;
-consequently, this causes more violent vortices to be set up,
-resulting in more turbulence and more induced drag.
-In Figure 5-12, it is easy to see the formation of wingtip
-vortices. The intensity or strength of the vortices is directly
-proportional to the weight of the aircraft and inversely
-proportional to the wingspan and speed of the aircraft. The
-heavier and slower the aircraft, the greater the AOA and the
-stronger the wingtip vortices. Thus, an aircraft will create
-wingtip vortices with maximum strength occurring during
-the takeoff, climb, and landing phases of flight. These
-Figure 5-13. Avoid following another aircraft at an altitude within 1,000 feet.
 vortices lead to a particularly dangerous hazard to flight,
 wake turbulence.
 Avoiding Wake Turbulence
@@ -628,50 +660,112 @@ aircraft’s AOA is at the highest to produce the lift necessary
 Vortex
 to land or take off. To minimize the chances of flying through
 an aircraft’s wake turbulence:
+-_
+-_
 •
 Avoid flying through another aircraft’s flight path.
+-_
+a
+-_
+-_
 •
 Rotate prior to the point at which the preceding aircraft
+_
+_
+~
 rotated when taking off behind another aircraft.
+wi
+-
 •
 Avoid following another aircraft on a similar flight
+dl
 path at an altitude within 1,000 feet. [Figure 5-13]
 •
 Approach the runway above a preceding aircraft’s
+Figure 5-12. Wingtip vortices.
 path when landing behind another aircraft and touch
 down after the point at which the other aircraft wheels
+As the air curls upward around the tip, it combines with the
 contacted the runway. [Figure 5-14]
+downwash to form a fast-spinning trailing vortex. These
+vortices increase drag because of energy spent in producing
 A hovering helicopter generates a down wash from its main
+the turbulence. Whenever an airfoil is producing lift, induced
 rotor(s) similar to the vortices of an airplane. Pilots of small
+drag occurs and wingtip vortices are created.
 aircraft should avoid a hovering helicopter by at least three
 rotor disc diameters to avoid the effects of this down wash. In
+Just as lift increases with an increase in AOA, induced
 forward flight, this energy is transformed into a pair of strong,
+drag also increases. This occurs because as the AOA is
 high-speed trailing vortices similar to wing-tip vortices of larger
+increased, there is a greater pressure difference between the
 fixed-wing aircraft. Helicopter vortices should be avoided
+top and bottom of the airfoil, and a greater lateral flow of air;
 because helicopter forward flight airspeeds are often very
+consequently, this causes more violent vortices to be set up,
 slow and can generate exceptionally strong wake turbulence.
+resulting in more turbulence and more induced drag.
 Wind is an important factor in avoiding wake turbulence
+In Figure 5-12, it is easy to see the formation of wingtip
 because wingtip vortices drift with the wind at the speed of the
+vortices. The intensity or strength of the vortices is directly
 wind. For example, a wind speed of 10 knots causes the vortices
+proportional to the weight of the aircraft and inversely
 to drift at about 1,000 feet in a minute in the wind direction.
+proportional to the wingspan and speed of the aircraft. The
 When following another aircraft, a pilot should consider wind
+heavier and slower the aircraft, the greater the AOA and the
 speed and direction when selecting an intended takeoff or
+stronger the wingtip vortices. Thus, an aircraft will create
 landing point. If a pilot is unsure of the other aircraft’s takeoff
+wingtip vortices with maximum strength occurring during
 or landing point, approximately 3 minutes provides a margin of
+the takeoff, climb, and landing phases of flight. These
+OO
 Nominally
 500–1,000 ft
+—
 AVOID
 Sink rate
 several hundred ft/min
+Figure 5-13. Avoid following another aircraft at an altitude within 1,000 feet.
 5-9
 
+=a
+~L
+“~
+~~
+'
+~~
+Wake ends
+|
+a
+—
 Wake begins
 Rotation
+Touchdown
 Figure 5-14. Avoid turbulence from another aircraft.
+oo
+|
+_—
+| J
+_
+_
+&F
+3K
 3K
 No Wind
 Vortex Movement Near Ground - No Wind
+oo
+|
+_—
+_
+-_
+|
+3K Wind
 6K
+0 (3K - 3K)
 (3K + 3K)
 Vortex Movement Near Ground - with Cross Winds
 Figure 5-15. When the vortices of larger aircraft sink close to the ground (within 100 to 200 feet), they tend to move laterally over the
@@ -679,11 +773,6 @@ ground at a speed of 2 or 3 knots (top). A crosswind will decrease the lateral m
 of the downwind vortex. Thus a light wind with a cross runway component of 1 to 5 knots could result in the upwind vortex remaining in
 the touchdown zone for a period of time and hasten the drift of the downwind vortex toward another runway (bottom).
 5-10
-Wake ends
-Touchdown
-3K
-3K Wind
-0 (3K - 3K)
 
 safety that allows wake turbulence dissipation. [Figure 5-15]
 For more information on wake turbulence, see Advisory
@@ -726,6 +815,11 @@ Thrust required
 In ground effect
 Velocity
 Figure 5-17. Ground effect changes drag and lift.
+-
+a —
+a
+a —
+a
 Figure 5-16. Ground effect changes airflow.
 the spanwise lift distribution and reduces the induced AOA
 and induced drag. Therefore, the wing will require a lower
@@ -762,86 +856,109 @@ Angle of attack
 5-11
 
 During the takeoff phase of flight, ground effect produces
+establishing a positive rate of climb and only after achieving
 some important relationships. An aircraft leaving ground
+a safe altitude.
 effect after takeoff encounters just the reverse of an aircraft
 entering ground effect during landing. The aircraft leaving
-ground effect will:
-•
-Require an increase in AOA to maintain the same CL
-•
-Experience an increase in induced drag and thrust
-required
-•
-Experience a decrease in stability and a nose-up
-change in moment
-•
-Experience a reduction in static source pressure and
-increase in indicated airspeed
-Ground effect must be considered during takeoffs and landings.
-For example, if a pilot fails to understand the relationship
-between the aircraft and ground effect during takeoff, a
-hazardous situation is possible because the recommended
-takeoff speed may not be achieved. Due to the reduced drag
-in ground effect, the aircraft may seem capable of takeoff well
-below the recommended speed. As the aircraft rises out of
-ground effect with a deficiency of speed, the greater induced
-drag may result in marginal initial climb performance. In
-extreme conditions, such as high gross weight, high density
-altitude, and high temperature, a deficiency of airspeed during
-takeoff may permit the aircraft to become airborne but be
-incapable of sustaining flight out of ground effect. In this case,
-the aircraft may become airborne initially with a deficiency
-of speed and then settle back to the runway.
-A pilot should not attempt to force an aircraft to become
-airborne with a deficiency of speed. The manufacturer’s
-recommended takeoff speed is necessary to provide adequate
-initial climb performance. It is also important that a definite
-climb be established before a pilot retracts the landing gear
-or flaps. Never retract the landing gear or flaps prior to
-Pitching
-Lateral axis
-Figure 5-18. Axes of an airplane.
-5-12
-establishing a positive rate of climb and only after achieving
-a safe altitude.
 If, during the landing phase of flight, the aircraft is brought
+ground effect will:
 into ground effect with a constant AOA, the aircraft
 experiences an increase in CL and a reduction in the thrust
+•
+Require an increase in AOA to maintain the same CL
 required, and a “floating” effect may occur. Because of the
+•
+Experience an increase in induced drag and thrust
 reduced drag and lack of power-off deceleration in ground
+required
 effect, any excess speed at the point of flare may incur a
 considerable “float” distance. As the aircraft nears the point
+•
+Experience a decrease in stability and a nose-up
 of touchdown, ground effect is most realized at altitudes less
+change in moment
 than the wingspan. During the final phases of the approach
+•
+Experience a reduction in static source pressure and
 as the aircraft nears the ground, a reduction of power is
+increase in indicated airspeed
 necessary to offset the increase in lift caused from ground
 effect otherwise the aircraft will have a tendency to climb
+Ground effect must be considered during takeoffs and landings.
 above the desired glidepath (GP).
+For example, if a pilot fails to understand the relationship
+between the aircraft and ground effect during takeoff, a
 Axes of an Aircraft
+hazardous situation is possible because the recommended
 The axes of an aircraft are three imaginary lines that pass
+takeoff speed may not be achieved. Due to the reduced drag
 through an aircraft’s CG. The axes can be considered as
+in ground effect, the aircraft may seem capable of takeoff well
 imaginary axles around which the aircraft turns. The three
+below the recommended speed. As the aircraft rises out of
 axes pass through the CG at 90° angles to each other. The
+ground effect with a deficiency of speed, the greater induced
 axis passes through the CG and parallel to a line from nose
+drag may result in marginal initial climb performance. In
 to tail is the longitudinal axis, the axis that passes parallel
+extreme conditions, such as high gross weight, high density
 to a line from wingtip to wingtip is the lateral axis, and the
+altitude, and high temperature, a deficiency of airspeed during
 axis that passes through the CG at right angles to the other
+takeoff may permit the aircraft to become airborne but be
 two axes is the vertical axis. Whenever an aircraft changes
+incapable of sustaining flight out of ground effect. In this case,
 its flight attitude or position in flight, it rotates about one or
+the aircraft may become airborne initially with a deficiency
 more of the three axes. [Figure 5-18]
+of speed and then settle back to the runway.
 The aircraft’s motion about its longitudinal axis resembles
+A pilot should not attempt to force an aircraft to become
 the roll of a ship from side to side. In fact, the names
+airborne with a deficiency of speed. The manufacturer’s
 used to describe the motion about an aircraft’s three axes
+recommended takeoff speed is necessary to provide adequate
 were originally nautical terms. They have been adapted to
+initial climb performance. It is also important that a definite
 aeronautical terminology due to the similarity of motion of
+climb be established before a pilot retracts the landing gear
 aircraft and seagoing ships. The motion about the aircraft’s
+or flaps. Never retract the landing gear or flaps prior to
 longitudinal axis is “roll,” the motion about its lateral axis is
+Pitching
 Rolling
-Longitudinal axis
 Yawing
+, -
+|
+sy
+)
+|
+_
+sy
+|
+-
+we
+-
+’ wa
+’waa
+|
+’ wa
+-
+_
+|
+-_
+ce
+-
+-
+Lateral axis
+Longitudinal axis
 Vertical axis
+Figure 5-18. Axes of an airplane.
+5-12
 
 “pitch,” and the motion about its vertical axis is “yaw.” Yaw
+oe
 is the left and right movement of the aircraft’s nose.
 The three motions of the conventional airplane (roll, pitch,
 and yaw) are controlled by three control surfaces. Roll is
@@ -853,63 +970,72 @@ movements about the various axes.
 For example, weight-shift control aircraft control two axes
 (roll and pitch) using an “A” frame suspended from the
 flexible wing attached to a three-wheeled carriage. These
+Figure 5-20. A powered parachute.
 aircraft are controlled by moving a horizontal bar (called a
 control bar) in roughly the same way hang glider pilots fly.
-[Figure 5-19] They are termed weight-shift control aircraft
-because the pilot controls the aircraft by shifting the CG.
-For more information on weight-shift control aircraft, see
-the Federal Aviation Administration (FAA) Weight-Shift
-Control Flying Handbook, FAA-H-8083-5. In the case of
-powered parachutes, aircraft control is accomplished by
-altering the airfoil via steering lines.
-A powered parachute wing is a parachute that has a cambered
-upper surface and a flatter under surface. The two surfaces are
-separated by ribs that act as cells, which open to the airflow
-at the leading edge and have internal ports to allow lateral
-airflow. The principle at work holds that the cell pressure is
-greater than the outside pressure, thereby forming a wing that
-maintains its airfoil shape in flight. The pilot and passenger
-sit in tandem in front of the engine, which is located at the
-rear of a vehicle. The airframe is attached to the parachute
-via two attachment points and lines. Control is accomplished
-by both power and the changing of the airfoil via the control
-lines. [Figure 5-20]
-Figure 5-19. A weight-shift control aircraft.
-Figure 5-20. A powered parachute.
 Moment and Moment Arm
+[Figure 5-19] They are termed weight-shift control aircraft
 A study of physics shows that a body that is free to rotate
+because the pilot controls the aircraft by shifting the CG.
 will always turn about its CG. In aerodynamic terms, the
+For more information on weight-shift control aircraft, see
 mathematical measure of an aircraft’s tendency to rotate
+the Federal Aviation Administration (FAA) Weight-Shift
 about its CG is called a “moment.” A moment is said to be
+Control Flying Handbook, FAA-H-8083-5. In the case of
 equal to the product of the force applied and the distance at
+powered parachutes, aircraft control is accomplished by
 which the force is applied. (A moment arm is the distance
+altering the airfoil via steering lines.
 from a datum [reference point or line] to the applied force.)
 For aircraft weight and balance computations, “moments”
+A powered parachute wing is a parachute that has a cambered
 are expressed in terms of the distance of the arm times the
+upper surface and a flatter under surface. The two surfaces are
 aircraft’s weight, or simply, inch-pounds.
+separated by ribs that act as cells, which open to the airflow
+at the leading edge and have internal ports to allow lateral
 Aircraft designers locate the fore and aft position of the
+airflow. The principle at work holds that the cell pressure is
 aircraft’s CG as nearly as possible to the 20 percent point
+greater than the outside pressure, thereby forming a wing that
 of the mean aerodynamic chord (MAC). If the thrust line
+maintains its airfoil shape in flight. The pilot and passenger
 is designed to pass horizontally through the CG, it will not
+sit in tandem in front of the engine, which is located at the
 cause the aircraft to pitch when power is changed, and there
+rear of a vehicle. The airframe is attached to the parachute
 will be no difference in moment due to thrust for a power-on
+via two attachment points and lines. Control is accomplished
 or power-off condition of flight. Although designers have
+by both power and the changing of the airfoil via the control
 some control over the location of the drag forces, they are not
+lines. [Figure 5-20]
 always able to make the resultant drag forces pass through the
 CG of the aircraft. However, the one item over which they
 have the greatest control is the size and location of the tail.
+-
+Staaten
 The objective is to make the moments (due to thrust, drag, and
 lift) as small as possible and, by proper location of the tail,
 to provide the means of balancing an aircraft longitudinally
 for any condition of flight.
 The pilot has no direct control over the location of forces
+«
+:
 acting on the aircraft in flight, except for controlling the
 center of lift by changing the AOA. The pilot can control
+L
+‘
+-
+i
 the magnitude of the forces. Such a change, however,
+"
 immediately involves changes in other forces. Therefore,
 the pilot cannot independently change the location of one
 force without changing the effect of others. For example,
 a change in airspeed involves a change in lift, as well as a
+Figure 5-19. A weight-shift control aircraft.
 change in drag and a change in the up or down force on the
 5-13
 
@@ -980,9 +1106,11 @@ Negative Static Stability
 Applied
 Applied
 Applied
+\
 force
 force
 force
+o>
 CG
 CG
 CG
@@ -1064,6 +1192,7 @@ Undamped oscillation
 Divergent oscillation
 Positive static
 (positive dynamic)
+—
 Time
 Positive Static
 Positive static
@@ -1109,19 +1238,41 @@ at the design cruising speed and power setting.
 If the aircraft’s speed decreases, the speed of the airflow
 over the wing is decreased. As a result of this decreased
 CL
+———
+a
+|
+|
+——e
+=
 CG
+ee
 CL
 CG
 Figure 5-23. Longitudinal stability.
 5-16
 Cruise Speed
+NY
+a
+a
 CG
 Balanced tail load
 Low Speed
+|
+—
+—
+os
+a
 CG
+Oo
+')'!I!a
+ot
 Lesser downward tail load
+™
 High Speed
+oo
 CG
+o
+——
 Greater downward tail load
 Figure 5-24. Effect of speed on downwash.
 flow of air over the wing, the downwash is reduced, causing
@@ -1134,14 +1285,32 @@ continues in the nose-low attitude and its speed increases,
 the downward force on the horizontal stabilizer is once again
 increased. Consequently, the tail is again pushed downward
 and the nose rises into a climbing attitude.
+|
+-
 Lift
+el
+ees
+~ |
+, a
 Thrust
 CG
+o
+——E
 Weight
 Normal downwash
+™“
 Lift
+———~~
+Se
+sf
+Sf”
+a
 CG
+ee
+o
+eee
 Thrust
+—_—S—™
 Weight
 Reduced downwash
 Figure 5-25. Reduced power allows pitch down.
@@ -1172,27 +1341,96 @@ an increase of power may tend to make the nose rise. The
 aircraft designer can offset this by establishing a “high
 thrust line” wherein the line of thrust passes above the CG.
 [Figures 5-26 and 5-27] In this case, as power or thrust is
+—
+_—
+=
+—
+—
+—
+|
+ees
+|
+s
+—_
 CG
+o
+a
 Thrust
+——E
+—
+_
+Z
 Below center of gravity
+ee
+~ |
+,
 CG
 Thrust
+—————
+o
 Through center of gravity
+_
+—_—
+—
+es
+_
+—
+ern
+—
+-_
+a
+Sf
 Thrust
+——
+yf
 CG
+_
 Above center of gravity
 Figure 5-26. Thrust line affects longitudinal stability.
+-
 Lift
+ees
 CG
+°o
+,
+«a
 Thrust
+——E
 Cruise power
+=
 Lift
+_—
+—_—
+ees
+- |
+—
+—
 CG
+—_—
+a
+-_
 Thrust
+———
 Idle power
+-
 Lift
+——
+——
+—
+—
+_—_
+~—
+-)
+=
+ees
+—
 CG
+o
+a
 Thrust
+—E
+Z
+*
 Full power
 Figure 5-27. Power changes affect longitudinal stability.
 increased a moment is produced to counteract the down load
@@ -1201,6 +1439,7 @@ tend to add to the nose-up effect of the horizontal tail surface.
 Conclusion: with CG forward of the CL and with an
 aerodynamic tail-down force, the aircraft usually tries to
 return to a safe flying attitude.
+|
 The following is a simple demonstration of longitudinal
 stability. Trim the aircraft for “hands off” control in level
 flight. Then, momentarily give the controls a slight push to
@@ -1208,39 +1447,58 @@ nose the aircraft down. If, within a brief period, the nose rises
 towards the original position, the aircraft is statically stable.
 Ordinarily, the nose passes the original position (that of level
 flight) and a series of slow pitching oscillations follows. If the
+]
 oscillations gradually cease, the aircraft has positive stability;
 if they continue unevenly, the aircraft has neutral stability;
 if they increase, the aircraft is unstable.
 Lateral Stability (Rolling)
 Stability about the aircraft’s longitudinal axis, which extends
 from the nose of the aircraft to its tail, is called lateral
+|
 stability. Positive lateral stability helps to stabilize the lateral
 or “rolling effect” when one wing gets lower than the wing
 on the opposite side of the aircraft. There are four main
 design factors that make an aircraft laterally stable: dihedral,
 sweepback, keel effect, and weight distribution.
+|
+|
+|
 5-17
 
 Dihedral
 Some aircraft are designed so that the outer tips of the wings
 are higher than the wing roots. The upward angle thus formed
 by the wings is called dihedral. [Figure 5-28] When a gust
+a
 causes a roll, a sideslip will result. This sideslip causes the
+Restoring lift
 relative wind affecting the entire airplane to be from the
+i
+i
 direction of the slip. When the relative wind comes from the
+~—_—
 side, the wing slipping into the wind is subject to an increase
 in AOA and develops an increase in lift. The wing away
+Wing has decreased
 from the wind is subject to a decrease in angle of attack, and
+AOA, hence reduced lift
 develops a decrease in lift. The changes in lift effect a rolling
+due to sideslip.
 moment tending to raise the windward wing, hence dihedral
+Sideslip
 contributes to a stable roll due to sideslip. [Figure 5-29]
+Wing has increased AOA, hence
+increased lift due to sideslip.
 Sweepback and Wing Location
 Many aspects of an aircraft's configuration can affect its
 effective dihedral, but two major components are wing
+Figure 5-29. Sideslip causing different AOA on each blade.
 sweepback and the wing location with respect to the fuselage
 (such as a low wing or high wing). As a rough estimation,
 10° of sweepback on a wing provides about 1° of effective
 dihedral, while a high wing configuration can provide about
+a
+~
 5° of effective dihedral over a low wing configuration.
 A sweptback wing is one in which the leading edge slopes
 backward. [Figure 5-30] When a disturbance causes an
@@ -1248,117 +1506,141 @@ aircraft with sweepback to slip or drop a wing, the low
 wing presents its leading edge at an angle that is more
 perpendicular to the relative airflow. As a result, the low
 wing acquires more lift, rises, and the aircraft is restored to
+|
 its original flight attitude.
 Keel Effect and Weight Distribution
+Figure 5-30. Sweepback wings.
 A high wing aircraft always has the tendency to turn the
 longitudinal axis of the aircraft into the relative wind, which
+disturbed and one wing dips, the fuselage weight acts like a
 is often referred to as the keel effect. These aircraft are
+pendulum returning the aircraft to the horizontal level.
 laterally stable simply because the wings are attached in a
 high position on the fuselage, making the fuselage behave like
+Laterally stable aircraft are constructed so that the greater
 a keel exerting a steadying influence on the aircraft laterally
+portion of the keel area is above the CG. [Figure 5-31] Thus,
 about the longitudinal axis. When a high-winged aircraft is
+when the aircraft slips to one side, the combination of the
+. J
+———— Sa ana
+Dihedral
 Dihedral
 Figure 5-28. Dihedral is the upward angle of the wings from a horizontal (front/rear view) axis of the plane as shown in the graphic
 depiction and the rear view of a Ryanair Boeing 737.
 5-18
-Restoring lift
-Wing has decreased
-AOA, hence reduced lift
-due to sideslip.
-Sideslip
-Wing has increased AOA, hence
-increased lift due to sideslip.
-Figure 5-29. Sideslip causing different AOA on each blade.
-Figure 5-30. Sweepback wings.
-disturbed and one wing dips, the fuselage weight acts like a
-pendulum returning the aircraft to the horizontal level.
-Laterally stable aircraft are constructed so that the greater
-portion of the keel area is above the CG. [Figure 5-31] Thus,
-when the aircraft slips to one side, the combination of the
-Dihedral
 
+=
+=
+eS
+ees
+—
+CG
+o
+CG
+o
+a
+ee
+————————eeeeee_eees
+=
 CG centerline
-Figure 5-31. Keel area for lateral stability.
-aircraft’s weight and the pressure of the airflow against the
-upper portion of the keel area (both acting about the CG)
-tends to roll the aircraft back to wings-level flight.
-Directional Stability (Yawing)
-Stability about the aircraft’s vertical axis (the sideways
-moment) is called yawing or directional stability. Yawing
-or directional stability is the most easily achieved stability
-in aircraft design. The area of the vertical fin and the sides
-of the fuselage aft of the CG are the prime contributors that
-make the aircraft act like the well known weather vane or
-arrow, pointing its nose into the relative wind.
-In examining a weather vane, it can be seen that if exactly the
-same amount of surface were exposed to the wind in front
-of the pivot point as behind it, the forces fore and aft would
-be in balance and little or no directional movement would
-result. Consequently, it is necessary to have a greater surface
-aft of the pivot point than forward of it.
-Similarly, the aircraft designer must ensure positive
-directional stability by making the side surface greater aft
-than ahead of the CG. [Figure 5-32] To provide additional
-positive stability to that provided by the fuselage, a vertical
-fin is added. The fin acts similar to the feather on an arrow
-in maintaining straight flight. Like the weather vane and the
-arrow, the farther aft this fin is placed and the larger its size,
-the greater the aircraft’s directional stability.
-If an aircraft is flying in a straight line, and a sideward gust
-of air gives the aircraft a slight rotation about its vertical
-axis (i.e., the right), the motion is retarded and stopped by
-the fin because while the aircraft is rotating to the right, the
-air is striking the left side of the fin at an angle. This causes
-pressure on the left side of the fin, which resists the turning
-motion and slows down the aircraft’s yaw. In doing so, it
-acts somewhat like the weather vane by turning the aircraft
-into the relative wind. The initial change in direction of the
-aircraft’s flight path is generally slightly behind its change
-of heading. Therefore, after a slight yawing of the aircraft
-CG
-CG
-CG
+»
+——_
+A
+Sf
 Area
+CG
 Area aft of CG
 forward
+ee
 of CG
+~|
+’
+eo)
+‘on
+Figure 5-31. Keel area for lateral stability.
+—~
 w
+ee,
 CG
+°
 a
+g
 y
+aircraft’s weight and the pressure of the airflow against the
+y
+|
+upper portion of the keel area (both acting about the CG)
+fp
 Y
 a
 w
+tends to roll the aircraft back to wings-level flight.
 R
 ela
 tiv
 e win
 d
+f
+Directional Stability (Yawing)
+y
+Stability about the aircraft’s vertical axis (the sideways
+moment) is called yawing or directional stability. Yawing
+or directional stability is the most easily achieved stability
+in aircraft design. The area of the vertical fin and the sides
+of the fuselage aft of the CG are the prime contributors that
 Figure 5-32. Fuselage and fin for directional stability.
+make the aircraft act like the well known weather vane or
+arrow, pointing its nose into the relative wind.
 to the right, there is a brief moment when the aircraft is still
 moving along its original path, but its longitudinal axis is
+In examining a weather vane, it can be seen that if exactly the
 pointed slightly to the right.
+same amount of surface were exposed to the wind in front
+of the pivot point as behind it, the forces fore and aft would
 The aircraft is then momentarily skidding sideways and,
+be in balance and little or no directional movement would
 during that moment (since it is assumed that although the
+result. Consequently, it is necessary to have a greater surface
 yawing motion has stopped, the excess pressure on the left
+aft of the pivot point than forward of it.
 side of the fin still persists), there is necessarily a tendency
 for the aircraft to be turned partially back to the left. That is,
+Similarly, the aircraft designer must ensure positive
 there is a momentary restoring tendency caused by the fin.
+directional stability by making the side surface greater aft
+than ahead of the CG. [Figure 5-32] To provide additional
 This restoring tendency is relatively slow in developing and
+positive stability to that provided by the fuselage, a vertical
 ceases when the aircraft stops skidding. When it ceases, the
+fin is added. The fin acts similar to the feather on an arrow
 aircraft is flying in a direction slightly different from the
+in maintaining straight flight. Like the weather vane and the
 original direction. In other words, it will not return of its own
+arrow, the farther aft this fin is placed and the larger its size,
 accord to the original heading; the pilot must reestablish the
+the greater the aircraft’s directional stability.
 initial heading.
+If an aircraft is flying in a straight line, and a sideward gust
 A minor improvement of directional stability may be obtained
+of air gives the aircraft a slight rotation about its vertical
 through sweepback. Sweepback is incorporated in the design
+axis (i.e., the right), the motion is retarded and stopped by
 of the wing primarily to delay the onset of compressibility
+the fin because while the aircraft is rotating to the right, the
 during high-speed flight. In lighter and slower aircraft,
+air is striking the left side of the fin at an angle. This causes
 sweepback aids in locating the center of pressure in the
+pressure on the left side of the fin, which resists the turning
 correct relationship with the CG. A longitudinally stable
+motion and slows down the aircraft’s yaw. In doing so, it
 aircraft is built with the center of pressure aft of the CG.
+acts somewhat like the weather vane by turning the aircraft
+into the relative wind. The initial change in direction of the
 Because of structural reasons, aircraft designers sometimes
+aircraft’s flight path is generally slightly behind its change
 cannot attach the wings to the fuselage at the exact desired
+of heading. Therefore, after a slight yawing of the aircraft
 5-19
 
 point. If they had to mount the wings too far forward, and at
@@ -1458,8 +1740,11 @@ slant of a wing, horizontal tail, or other airfoil surface.
 There are two general means by which the designer can
 change the planform of a wing and both will affect the
 
+ee
 Elliptical wing
+OT
 Moderate taper wing
+———
 Pointed tip wing
 Figure 5-33. Different types of wing planforms.
 aerodynamic characteristics of the wing. The first is to effect
@@ -1469,8 +1754,11 @@ ordinary wing and its lift/drag ratio. An increase in aspect
 ratio with constant velocity will decrease the drag, especially
 at high angles of attack, improving the performance of the
 wing when in a climbing attitude.
+OT
 Regular wing
+|
 High taper wing
+—
 Sweepback wing
 A decrease in aspect ratio will give a corresponding increase
 in drag. It should be noted, however, that with an increase in
@@ -1482,101 +1770,130 @@ lost because of the increased weight, and a compromise in
 5-21
 
 design is necessary to obtain the best results from these two
-conflicting conditions.
-The second means of changing the planform is by tapering
-(decreasing the length of chord from the root to the tip of the
-wing). In general, tapering causes a decrease in drag (most
-effective at high speeds) and an increase in lift. There is also
-a structural benefit due to a saving in weight of the wing.
-Most training and general aviation type airplanes are operated
-at high coefficients of lift, and therefore require comparatively
-high aspect ratios. Airplanes that are developed to operate at
-very high speeds demand greater aerodynamic cleanness and
-greater strength, which require low aspect ratios. Very low
-aspect ratios result in high wing loadings and high stall speeds.
-When sweepback is combined with low aspect ratio, it results
-in flying qualities very different from a more conventional
-high aspect ratio airplane configuration. Such airplanes
-require very precise and professional flying techniques,
-especially at slow speeds, while airplanes with a high aspect
-ratio are usually more forgiving of improper pilot techniques.
-The elliptical wing is the ideal subsonic planform since it
-provides for a minimum of induced drag for a given aspect
-ratio, though as we shall see, its stall characteristics in
-some respects are inferior to the rectangular wing. It is also
-comparatively difficult to construct. The tapered airfoil is
-desirable from the standpoint of weight and stiffness, but
-again is not as efficient aerodynamically as the elliptical
-wing. In order to preserve the aerodynamic efficiency of the
-elliptical wing, rectangular and tapered wings are sometimes
-tailored through use of wing twist and variation in airfoil
-sections until they provide as nearly as possible the elliptical
-wing’s lift distribution. While it is true that the elliptical
-wing provides the best coefficients of lift before reaching an
-incipient stall, it gives little advance warning of a complete
-stall, and lateral control may be difficult because of poor
-aileron effectiveness.
-Level flight
-Lift
-Weight
-Figure 5-34. Forces during normal, coordinated turn at constant altitude.
-5-22
 In comparison, the rectangular wing has a tendency to stall
+conflicting conditions.
 first at the wing root and provides adequate stall warning,
 adequate aileron effectiveness, and is usually quite stable.
+The second means of changing the planform is by tapering
 It is, therefore, favored in the design of low cost, low speed
+(decreasing the length of chord from the root to the tip of the
 airplanes.
+wing). In general, tapering causes a decrease in drag (most
 Aerodynamic Forces in Flight Maneuvers
+effective at high speeds) and an increase in lift. There is also
+a structural benefit due to a saving in weight of the wing.
 Forces in Turns
 If an aircraft were viewed in straight-and-level flight from the
+Most training and general aviation type airplanes are operated
 front [Figure 5-34], and if the forces acting on the aircraft
+at high coefficients of lift, and therefore require comparatively
 could be seen, lift and weight would be apparent: two forces.
+high aspect ratios. Airplanes that are developed to operate at
 If the aircraft were in a bank it would be apparent that lift
+very high speeds demand greater aerodynamic cleanness and
 did not act directly opposite to the weight, rather it now acts
+greater strength, which require low aspect ratios. Very low
 in the direction of the bank. A basic truth about turns is that
+aspect ratios result in high wing loadings and high stall speeds.
 when the aircraft banks, lift acts inward toward the center of
+When sweepback is combined with low aspect ratio, it results
 the turn, perpendicular to the lateral axis as well as upward.
+in flying qualities very different from a more conventional
+high aspect ratio airplane configuration. Such airplanes
 Newton’s First Law of Motion, the Law of Inertia, states that
+require very precise and professional flying techniques,
 an object at rest or moving in a straight line remains at rest
+especially at slow speeds, while airplanes with a high aspect
 or continues to move in a straight line until acted on by some
+ratio are usually more forgiving of improper pilot techniques.
 other force. An aircraft, like any moving object, requires a
 sideward force to make it turn. In a normal turn, this force
+The elliptical wing is the ideal subsonic planform since it
 is supplied by banking the aircraft so that lift is exerted
+provides for a minimum of induced drag for a given aspect
 inward, as well as upward. The force of lift during a turn is
+ratio, though as we shall see, its stall characteristics in
 separated into two components at right angles to each other.
+some respects are inferior to the rectangular wing. It is also
 One component, which acts vertically and opposite to the
+comparatively difficult to construct. The tapered airfoil is
 weight (gravity), is called the “vertical component of lift.”
+desirable from the standpoint of weight and stiffness, but
 The other, which acts horizontally toward the center of the
+again is not as efficient aerodynamically as the elliptical
 turn, is called the “horizontal component of lift” or centripetal
+wing. In order to preserve the aerodynamic efficiency of the
 force. The horizontal component of lift is the force that
+elliptical wing, rectangular and tapered wings are sometimes
 pulls the aircraft from a straight flight path to make it turn.
+tailored through use of wing twist and variation in airfoil
 Centrifugal force is the “equal and opposite reaction” of the
+sections until they provide as nearly as possible the elliptical
 aircraft to the change in direction and acts equal and opposite
+wing’s lift distribution. While it is true that the elliptical
 to the horizontal component of lift. This explains why, in a
+wing provides the best coefficients of lift before reaching an
 correctly executed turn, the force that turns the aircraft is
+incipient stall, it gives little advance warning of a complete
 not supplied by the rudder. The rudder is used to correct any
+stall, and lateral control may be difficult because of poor
 deviation between the straight track of the nose and tail of the
+aileron effectiveness.
 aircraft into the relative wind. A good turn is one in which the
+Level flight
 Medium banked turn
 Steeply banked turn
 component
 Vertical
+¢
 component
 Vertical
+.
+,
 Total lift
+df
+a
 Total lift
+Lift
+y
+_—
 Centrifugal
+q
+y
+y
 force
+y
 Horizontal
+q
 Centrifugal
 component
+Pe|
+“MI
+a
+_
+tJ
+5 I
+=
+_—
 force
+>
+Wa
+Va
+P
 Horizontal
+a
+-
 Resultant load
+_
+_
+F
 component
 Resultant load
 Weight
 Weight
+Weight
+Figure 5-34. Forces during normal, coordinated turn at constant altitude.
+5-22
 
 nose and tail of the aircraft track along the same path. If no
 rudder is used in a turn, the nose of the aircraft yaws to the
@@ -1682,19 +1999,59 @@ Skidding turn
 Vertical lift
 Vertical lift
 Vertical lift
+¢@
+-_
+-_
+,
+dA
+dA
+dA
 Lift
 Lift
 Lift
+y
+y
+y
+y
+y
 Centrifugal
+,
+,
 Centrifugal force
 Centrifugal
+fA
+a
+A
 force
+“I
+“I
+Al
 force
+S
+»
+~
+—
+——
+—
+a
+.
++
+”
+\
 Horizontal
 Horizontal
 Horizontal
+a
+.
+a
+—
+—
+—
 lift
 lift
+.
+.
+.
 lift
 Load
 Weight
@@ -1757,23 +2114,48 @@ definite changes when a descent is entered from straight-
 again become balanced when the airspeed stabilizes but at
 and-level flight. For the following example, the aircraft
 Level flight
+Jf
 forces balanced
 L
 T
 constant speed
 L
+~
+»
+a|
+|
+a
+|
+~~
+a|
+a
+=
+|
 W
 D
 L
 L
 T
+i
+P
+-
+a
+~~
+-
+=
+a
+|
+=
 L
 L
+dq
 W
 D
 L
 D
+ee
 T
+ee
 W
 Steady climb
 Climb entry drag
@@ -1890,23 +2272,50 @@ back pressure to the elevator control. This increases the wing’s
 
 Airfoil shape and degradation of that shape must also be
 considered in a discussion of stalls. For example, if ice, snow,
+f
 and frost are allowed to accumulate on the surface of an aircraft,
 L
 the smooth airflow over the wing is disrupted. This causes the
+,
 CF
+,
+~~
 boundary layer to separate at an AOA lower than that of the
 W
 critical angle. Lift is greatly reduced, altering expected aircraft
+aj
+,
+~
 performance. If ice is allowed to accumulate on the aircraft
 L
 during flight, the weight of the aircraft is increased while the
+,
+-
 ability to generate lift is decreased. [Figure 5-40] As little as
 CF
+;
+—
 L
 W
+ee
 0.8 millimeter of ice on the upper wing surface increases drag
 L
+|
+.
+wh
+i
+_—
 and reduces aircraft lift by 25 percent.
+i
+—,
+.—a
+|
+.—_—
+i
+—,
+|
+-—
+|
 W
 W
 Pilots can encounter icing in any season, anywhere in the
@@ -2019,6 +2428,10 @@ providing a visual image to the pilot of the current AOA along
 with representations of the proximity to the critical AOA.
 [Figure 5-42] These devices can give a visual representation
 of the energy management state of the airplane. The energy
+—
+aaa
+I\
+© dm @ Mh &dme
 Figure 5-41. A variety of AOA indicators.
 state of an airplane is the balance between airspeed, altitude,
 drag, and thrust and represents how efficiently the airfoil is
@@ -2054,43 +2467,61 @@ While AOA indicators provide a simple visual representation
 of the current AOA and its proximity to the critical AOA, they
 are not without their limitations. These limitations should
 be understood by operators of general aviation airplanes
+—-
+—
+°°
+aa
+—
+——
+=
+UA
+=
+OF
+=
+ohms
+des Seq
+-
+ply
+ou an
+\
+e
+e
+L
 5-27
 
-CL
-Figure 5-42. An AOA indicator has several benefits when installed in general aviation aircraft.
-equipped with these devices. Like advanced automation,
-such as autopilots and moving maps, the misunderstanding
-or misuse of the equipment can have disastrous results. Some
-items which may limit the effectiveness of an AOA indicator
-are listed below:
-•
-Calibration techniques
-•
-Probes or vanes not being heated
-•
-The type of indicator itself
-•
-Flap setting
-•
-Wing contamination
-Pilots of general aviation airplanes equipped with AOA
-indicators should contact the manufacturer for specific
-limitations applicable to that installation.
-Basic Propeller Principles
-The aircraft propeller consists of two or more blades and a
-central hub to which the blades are attached. Each blade of
-an aircraft propeller is essentially a rotating wing. As a result
-of their construction, the propeller blades are like airfoils
-5-28
 Coefficient of Lift Curve
 Direction of
 Relative Wind
+|
+a,
+—
+.
+.
+,
+'
+'
+.
+'
 Direction of
 Relative Wind
 Direction of
+|
 Relative Wind
+—_——t—‘(CO;t
+£
+?£A
+,
+———
+,
+.
+:
+'
+CL
+™
 Direction of
 Relative Wind
+———
+le
 Calibration Set Points:
 Ground
 (Zero Set Point)
@@ -2099,27 +2530,52 @@ Optimum Alpha Angle (OAA)
 Cruise Alpha
 (Va or Maneuvering Speed)
 Alpha (angle of attack)
+Figure 5-42. An AOA indicator has several benefits when installed in general aviation aircraft.
 and produce forces that create the thrust to pull, or push,
+equipped with these devices. Like advanced automation,
 the aircraft through the air. The engine furnishes the power
+such as autopilots and moving maps, the misunderstanding
 needed to rotate the propeller blades through the air at high
+or misuse of the equipment can have disastrous results. Some
 speeds, and the propeller transforms the rotary power of the
+items which may limit the effectiveness of an AOA indicator
 engine into forward thrust.
+are listed below:
+•
+Calibration techniques
 A cross-section of a typical propeller blade is shown in
+•
+Probes or vanes not being heated
 Figure 5-43. This section or blade element is an airfoil
 comparable to a cross-section of an aircraft wing. One
+•
+The type of indicator itself
 surface of the blade is cambered or curved, similar to the
+•
+Flap setting
 upper surface of an aircraft wing, while the other surface is
+•
+Wing contamination
 flat like the bottom surface of a wing. The chord line is an
 imaginary line drawn through the blade from its leading edge
+Pilots of general aviation airplanes equipped with AOA
 to its trailing edge. As in a wing, the leading edge is the thick
+indicators should contact the manufacturer for specific
 edge of the blade that meets the air as the propeller rotates.
+limitations applicable to that installation.
 Blade angle, usually measured in degrees, is the angle
 between the chord of the blade and the plane of rotation
+Basic Propeller Principles
 and is measured at a specific point along the length of the
 blade. [Figure 5-44] Because most propellers have a flat
+The aircraft propeller consists of two or more blades and a
 blade “face,” the chord line is often drawn along the face
+central hub to which the blades are attached. Each blade of
 of the propeller blade. Pitch is not blade angle, but because
+an aircraft propeller is essentially a rotating wing. As a result
 pitch is largely determined by blade angle, the two terms are
+of their construction, the propeller blades are like airfoils
+5-28
 
 the vectors of propeller forces in Figure 5-44, each section of
 a propeller blade moves downward and forward. The angle
@@ -2127,6 +2583,7 @@ at which this air (relative wind) strikes the propeller blade
 is its AOA. The air deflection produced by this angle causes
 the dynamic pressure at the engine side of the propeller blade
 to be greater than atmospheric pressure, thus creating thrust.
+|
 The shape of the blade also creates thrust because it is
 cambered like the airfoil shape of a wing. As the air flows
 past the propeller, the pressure on one side is less than that
@@ -2184,11 +2641,15 @@ are drawn for propellers as well as wings, indicate that the
 motion, which is both rotational and forward. As shown by
 most efficient AOA is small, varying from +2° to +4°. The
 actual blade angle necessary to maintain this small AOA
+.
+~~
+—
 varies with the forward speed of the aircraft.
 Rotational velocity
 Fixed-pitch and ground-adjustable propellers are designed
 Thrust
 for best efficiency at one rotation and forward speed. They
+ag
 are designed for a given aircraft and engine combination. A
 or
 e
@@ -2264,10 +2725,19 @@ into heat energy in a given time. The high rpm also creates
 maximum thrust because, although the mass of air handled
 per revolution is small, the rpm and slipstream velocity are
 Slip
+|
+|
+|
+re
+i
+CC(‘(‘CUlOCOU
+i
 Effective pitch
 Geometric pitch
 Figure 5-45. Propeller slippage.
 5-30
+eal
+>»
 l d
 ist
 ve
@@ -2282,6 +2752,7 @@ re
 ry
 G
 h
+_
 ig
 h
 sp
@@ -2351,7 +2822,12 @@ s
 o
 d
 h
+NJ,
+J
 S
+_
+>
+——
 —
 20 in.
 k
@@ -2451,7 +2927,22 @@ a
 c
 ti
 o
+|
 n
+tO
+|
+©
+|
+_—
+LJ
+_
+' =
+_—
+g
+_
+_
+|
+|
 n
 o
 i
@@ -2495,15 +2986,26 @@ rotor when a deflecting force is applied to its rim. As can be
 seen in Figure 5-49, when a force is applied, the resulting
 force takes effect 90° ahead of and in the direction of rotation.
 The rotating propeller of an airplane makes a very good
+a
+a
+™
 Yaw
 m
 trea
 lips
 S
+-
+iad
+-
+y
+z
+—_
+~
 e
 c
 or
 F
+J
 Figure 5-48. Corkscrewing slipstream.
 5-31
 
@@ -2514,7 +3016,19 @@ When an aircraft is flying with a high AOA, the “bite” of
 force
 Yaw
 the downward moving blade is greater than the “bite” of the
+'
+-
+~
+-
+~
+-
+"|
+"|
+=
 upward moving blade. This moves the center of thrust to the
+_ i
+|
+_ i
 right of the prop disc area, causing a yawing moment toward
 1. Intake
 the left around the vertical axis. Proving this explanation is
@@ -2582,120 +3096,146 @@ shaft is exactly horizontal in relation to the moving air.
 undesired pitching and yawing.
 The effects of each of these four elements of torque vary
 in value with changes in flight situations. In one phase of
+sy
+j
+\
 flight, one of these elements may be more prominent than
+——_
 another. In another phase of flight, another element may be
+—_
+|
 Effective
+——
 force
 more prominent. The relationship of these values to each
 Applied force
+-
 other varies with different aircraft depending on the airframe,
+_
 Resultant
 engine, and propeller combinations, as well as other design
 Yaw
+y
 force
 features. To maintain positive control of the aircraft in all
+_¥
+>
 flight conditions, the pilot must apply the flight controls as
 necessary to compensate for these varying values.
 Figure 5-50. Raising tail produces gyroscopic precession.
 5-32
 
-Load on
-upward moving
-propeller blade
-Load on
-downward moving
-propeller blade
-Low angle of attack
-Figure 5-51. Asymmetrical loading of propeller (P-factor).
-Load Factors
-In aerodynamics, the maximum load factor (at given bank
-angle) is a proportion between lift and weight and has a
-trigonometric relationship. The load factor is measured in
-Gs (acceleration of gravity), a unit of force equal to the force
-exerted by gravity on a body at rest and indicates the force to
-which a body is subjected when it is accelerated. Any force
-applied to an aircraft to deflect its flight from a straight line
-produces a stress on its structure. The amount of this force
-is the load factor. While a course in aerodynamics is not a
-prerequisite for obtaining a pilot’s license, the competent
-pilot should have a solid understanding of the forces that act
-on the aircraft, the advantageous use of these forces, and the
-operating limitations of the aircraft being flown.
-For example, a load factor of 3 means the total load on an
-aircraft’s structure is three times its weight. Since load factors
-are expressed in terms of Gs, a load factor of 3 may be spoken
-of as 3 Gs, or a load factor of 4 as 4 Gs.
-If an aircraft is pulled up from a dive, subjecting the pilot to
-3 Gs, he or she would be pressed down into the seat with a
-force equal to three times his or her weight. Since modern
-aircraft operate at significantly higher speeds than older
-aircraft, increasing the potential for large load factors, this
-effect has become a primary consideration in the design of
-the structure of all aircraft.
-With the structural design of aircraft planned to withstand
-only a certain amount of overload, a knowledge of load
-factors has become essential for all pilots. Load factors are
-important for two reasons:
-1.
-It is possible for a pilot to impose a dangerous overload
-on the aircraft structures.
-2.
-An increased load factor increases the stalling speed and
-makes stalls possible at seemingly safe flight speeds.
-Load on
-upward moving
-propeller blade
-Load on
-downward moving
-propeller blade
-High angle of attack
 Load Factors in Aircraft Design
+Load on
+Load on
+upward moving
+upward moving
 The answer to the question “How strong should an aircraft
+@
+@
+propeller blade
+propeller blade
 be?” is determined largely by the use to which the aircraft is
 subjected. This is a difficult problem because the maximum
+@
+|
+———
+j
+——
+a
 possible loads are much too high for use in efficient design.
+@
+_
+_
+_
 It is true that any pilot can make a very hard landing or an
+~_—_—
+——
 extremely sharp pull up from a dive, which would result in
 abnormal loads. However, such extremely abnormal loads
 must be dismissed somewhat if aircraft are built that take off
+Load on
+Load on
+downward moving
+downward moving
 quickly, land slowly, and carry worthwhile payloads.
+propeller blade
+propeller blade
+Low angle of attack
+High angle of attack
 The problem of load factors in aircraft design becomes how
 to determine the highest load factors that can be expected in
+Figure 5-51. Asymmetrical loading of propeller (P-factor).
 normal operation under various operational situations. These
 load factors are called “limit load factors.” For reasons of
+Load Factors
 safety, it is required that the aircraft be designed to withstand
 these load factors without any structural damage. Although
+In aerodynamics, the maximum load factor (at given bank
 the Code of Federal Regulations (CFR) requires the aircraft
+angle) is a proportion between lift and weight and has a
 structure be capable of supporting one and one-half times
+trigonometric relationship. The load factor is measured in
 these limit load factors without failure, it is accepted that
+Gs (acceleration of gravity), a unit of force equal to the force
 parts of the aircraft may bend or twist under these loads and
+exerted by gravity on a body at rest and indicates the force to
 that some structural damage may occur.
+which a body is subjected when it is accelerated. Any force
+applied to an aircraft to deflect its flight from a straight line
 This 1.5 load limit factor is called the “factor of safety” and
+produces a stress on its structure. The amount of this force
 provides, to some extent, for loads higher than those expected
+is the load factor. While a course in aerodynamics is not a
 under normal and reasonable operation. This strength reserve
+prerequisite for obtaining a pilot’s license, the competent
 is not something that pilots should willfully abuse; rather, it is
+pilot should have a solid understanding of the forces that act
 there for protection when encountering unexpected conditions.
+on the aircraft, the advantageous use of these forces, and the
+operating limitations of the aircraft being flown.
 The above considerations apply to all loading conditions,
 whether they be due to gusts, maneuvers, or landings. The
+For example, a load factor of 3 means the total load on an
 gust load factor requirements now in effect are substantially
+aircraft’s structure is three times its weight. Since load factors
 the same as those that have been in existence for years.
+are expressed in terms of Gs, a load factor of 3 may be spoken
 Hundreds of thousands of operational hours have proven
+of as 3 Gs, or a load factor of 4 as 4 Gs.
 them adequate for safety. Since the pilot has little control over
 gust load factors (except to reduce the aircraft’s speed when
+If an aircraft is pulled up from a dive, subjecting the pilot to
 rough air is encountered), the gust loading requirements are
+3 Gs, he or she would be pressed down into the seat with a
 substantially the same for most general aviation type aircraft
+force equal to three times his or her weight. Since modern
 regardless of their operational use. Generally, the gust load
+aircraft operate at significantly higher speeds than older
 factors control the design of aircraft which are intended for
+aircraft, increasing the potential for large load factors, this
 strictly nonacrobatic usage.
+effect has become a primary consideration in the design of
+the structure of all aircraft.
 An entirely different situation exists in aircraft design with
 maneuvering load factors. It is necessary to discuss this matter
+With the structural design of aircraft planned to withstand
 separately with respect to: (1) aircraft designed in accordance
+only a certain amount of overload, a knowledge of load
 with the category system (i.e., normal, utility, acrobatic); and
+factors has become essential for all pilots. Load factors are
 (2) older designs built according to requirements that did not
+important for two reasons:
 provide for operational categories.
+1.
+It is possible for a pilot to impose a dangerous overload
+on the aircraft structures.
 Aircraft designed under the category system are readily
 identified by a placard in the flight deck, which states the
+2.
+An increased load factor increases the stalling speed and
 operational category (or categories) in which the aircraft
+makes stalls possible at seemingly safe flight speeds.
 5-33
 
 is certificated. The maximum safe load factors (limit load
@@ -2766,6 +3306,7 @@ speed increases in proportion to the square root of the
 aircraft, the load factor is the result of two forces: centrifugal
 force and weight. [Figure 5-52] For any given bank angle,
 the ROT varies with the airspeed—the higher the speed, the
+y
 0°
 Load factor (G units)
 0°
@@ -2773,8 +3314,18 @@ Load factor (G units)
 0°
 0°
 Centrifugal
+ff
 force = 1.73 Gs
 0°
+“=
+_
+~
+~
+>
+a
+”
+A
+.
 Load factor = 2 Gs
 Gravity = 1G
 00°
@@ -3315,16 +3866,32 @@ damage and failures. Weight and balance computations are
 not required, but pilots should calculate weight and remain
 within the manufacturer’s established limit.
 
+=
+al
+>
 120 knots
+eal
+»
+>
+a
+|
+w_
 20 20
+“=
+|
 I0 I0
 I0 I0
 20 20
+“=
+e
+-
 STBY PWR
 TEST
+_
 4,430 feet
 2,215 feet
 5,000 feet
+&
 V2
 14,400
 R = = = 2,215 feet
@@ -3332,16 +3899,34 @@ R =
 11.26 x 0.5773
 6.50096
 11.26 x tangent of the bank angle 30°
+p
+al
+>
 140 knots
+eal
+»
+>
+=
+|
+-
 20 20
+i
+=
+|
 I0 I0
 I0 I0
 20 20
+=
+eo
+i
 STBY PWR
 TEST
+”
 6,028 feet
 3,014 feet
 5 , 0 0 0 f e e t
+|
+~~
 V2
 19,600
 R = = = 3,014 feet
@@ -3527,8 +4112,10 @@ Gross weight
 The rearward CG limit of an aircraft is determined largely
 by considerations of stability. The original airworthiness
 CG
+el
 requirements for a type certificate specify that an aircraft in
 flight at a certain speed dampens out vertical displacement of
+—
 Stronger
 Forward CG
 Center of lift
@@ -3541,8 +4128,10 @@ dive becoming steeper with each oscillation. This instability
 Gross weight
 is not only uncomfortable to occupants, but it could even
 become dangerous by making the aircraft unmanageable
+°
 CG
 under certain conditions.
+Ld)
 Lighter
 Down load on tail
 AFT CG
@@ -4000,9 +4589,16 @@ the force divergence.
 A disadvantage of swept wings is that they tend to stall at the
 wingtips rather than at the wing roots. [Figure 5-69] This is
 5-48
+-
+7"
 Spanwise flow
+-
+,
+|
+|
 Airspeed sensed
 by wing Mach 0.70
+—
 True airspeed
 Mach 0.85
 Figure 5-68. Sweepback effect.
@@ -4026,113 +4622,109 @@ wing aircraft (specifically the enormous increase in drag
 at low speeds) can cause an increasingly descending flight
 path with no change in pitch attitude, further increasing the
 
-Figure 5-69. Wingtip pre-stall.
-Figure 5-70. T-tail stall.
-AOA. In this situation, without reliable AOA information,
-a nose-down pitch attitude with an increasing airspeed is no
-guarantee that recovery has been affected, and up-elevator
-movement at this stage may merely keep the aircraft stalled.
-It is a characteristic of T-tail aircraft to pitch up viciously
-when stalled in extreme nose-high attitudes, making
-recovery difficult or violent. The stick pusher inhibits this
-type of stall. At approximately one knot above stall speed,
-pre-programmed stick forces automatically move the stick
-forward, preventing the stall from developing. A G-limiter
-may also be incorporated into the system to prevent the pitch
-down generated by the stick pusher from imposing excessive
-loads on the aircraft. A “stick shaker,” on the other hand,
-provides stall warning when the airspeed is five to seven
-percent above stall speed.
-Mach Buffet Boundaries
-Mach buffet is a function of the speed of the airflow over the
-wing—not necessarily the speed of the aircraft. Any time that
-too great a lift demand is made on the wing, whether from too
-fast an airspeed or from too high an AOA near the MMO, the
-“high-speed” buffet occurs. There are also occasions when
-the buffet can be experienced at much lower speeds known
-as the “low-speed Mach buffet.”
-An aircraft flown at a speed too slow for its weight and
-altitude necessitating a high AOA is the most likely situation
-Pre-stall
-Stalled
 to cause a low-speed Mach buffet. This very high AOA has
+brakes, they can still be used for roll control. If they are the aa
 the effect of increasing airflow velocity over the upper surface
 of the wing until the same effects of the shock waves and
 buffet occur as in the high-speed buffet situation. The AOA
+~_
+~
+' @
+wee
 of the wing has the greatest effect on inducing the Mach
+—
 buffet at either the high-speed or low-speed boundaries for
 the aircraft. The conditions that increase the AOA, the speed
 of the airflow over the wing, and chances of Mach buffet are:
 •
 High altitudes—the higher an aircraft flies, the thinner
+Pre-stall
 the air and the greater the AOA required to produce
 the lift needed to maintain level flight.
+Prestall
+Figure 5-69. Wingtip pre-stall.
 •
 Heavy weights—the heavier the aircraft, the greater
+a
 the lift required of the wing, and all other factors being
+Pe
 equal, the greater the AOA.
 •
 G loading—an increase in the G loading on the aircraft
+“~_
+~~
 has the same effect as increasing the weight of the
+|
+al
 aircraft. Whether the increase in G forces is caused
+—
 by turns, rough control usage, or turbulence, the effect
 of increasing the wing’s AOA is the same.
+Stalled
 High Speed Flight Controls
+Stalled
 On high-speed aircraft, flight controls are divided into
+Figure 5-70. T-tail stall.
 primary flight controls and secondary or auxiliary flight
 controls. The primary flight controls maneuver the aircraft
+AOA. In this situation, without reliable AOA information,
 about the pitch, roll, and yaw axes. They include the ailerons,
+a nose-down pitch attitude with an increasing airspeed is no
 elevator, and rudder. Secondary or auxiliary flight controls
+guarantee that recovery has been affected, and up-elevator
 include tabs, leading edge flaps, trailing edge flaps, spoilers,
+movement at this stage may merely keep the aircraft stalled.
 and slats.
+It is a characteristic of T-tail aircraft to pitch up viciously
 Spoilers are used on the upper surface of the wing to spoil or
+when stalled in extreme nose-high attitudes, making
 reduce lift. High speed aircraft, due to their clean low drag
+recovery difficult or violent. The stick pusher inhibits this
 design, use spoilers as speed brakes to slow them down.
+type of stall. At approximately one knot above stall speed,
 Spoilers are extended immediately after touchdown to dump
+pre-programmed stick forces automatically move the stick
 lift and thus transfer the weight of the aircraft from the wings
+forward, preventing the stall from developing. A G-limiter
 onto the wheels for better braking performance. [Figure 5-71]
+may also be incorporated into the system to prevent the pitch
+down generated by the stick pusher from imposing excessive
 Jet transport aircraft have small ailerons. The space for
+loads on the aircraft. A “stick shaker,” on the other hand,
 ailerons is limited because as much of the wing trailing
+provides stall warning when the airspeed is five to seven
 edge as possible is needed for flaps. Also, a conventional
+percent above stall speed.
 size aileron would cause wing twist at high speed. For that
 reason, spoilers are used in unison with ailerons to provide
+Mach Buffet Boundaries
 additional roll control.
+Mach buffet is a function of the speed of the airflow over the
+wing—not necessarily the speed of the aircraft. Any time that
 Some jet transports have two sets of ailerons, a pair of outboard
+too great a lift demand is made on the wing, whether from too
 low-speed ailerons and a pair of high-speed inboard ailerons.
+fast an airspeed or from too high an AOA near the MMO, the
 When the flaps are fully retracted after takeoff, the outboard
+“high-speed” buffet occurs. There are also occasions when
 ailerons are automatically locked out in the faired position.
+the buffet can be experienced at much lower speeds known
+as the “low-speed Mach buffet.”
 When used for roll control, the spoiler on the side of the
 up-going aileron extends and reduces the lift on that side,
+An aircraft flown at a speed too slow for its weight and
 causing the wing to drop. If the spoilers are extended as speed
-brakes, they can still be used for roll control. If they are the
+altitude necessitating a high AOA is the most likely situation
 5-49
 
-Control tab
-Inboard aileron
-Leading edge flaps
-Figure 5-71. Control surfaces.
-differential type, they extend further on one side and retract
-on the other side. If they are the non-differential type, they
-extend further on one side but do not retract on the other side.
-When fully extended as speed brakes, the non-differential
-spoilers remain extended and do not supplement the ailerons.
-To obtain a smooth stall and a higher AOA without airflow
-separation, the wing’s leading edge should have a well-
-rounded almost blunt shape that the airflow can adhere to
-at the higher AOA. With this shape, the airflow separation
-starts at the trailing edge and progresses forward gradually
-as AOA is increased.
-The pointed leading edge necessary for high-speed flight
-results in an abrupt stall and restricts the use of trailing edge
-flaps because the airflow cannot follow the sharp curve
-5-50
-737 Control Surfaces
-727 Control Surfaces
+50 knot reduction in stall speed is not uncommon.a
 nbo
 ard
 I
 wing
 Rudder
+fo
+af-
 Elevator
 Tab
 ard
@@ -4143,13 +4735,19 @@ g
 O
 Stabilizer
 Foreflap
+—
 Midflap
 Inboard flap
 Aftflap
 Flight spoilers
+—
+X
 Ground spoiler
 Outboard flap
 Aileron
+A
+I
+-
 Tab
 Landing Flaps
 Aileron
@@ -4159,24 +4757,36 @@ rd w
 In
 ing
 Leading edge flaps
+737 Control Surfaces
 ard
 bo
 win
 ut
 g
 O
+—
+Control tab
 Stabilizer
+Inboard aileron
 Elevator
+py
+Leading edge flaps
 Control tab
 Aileron
 Upper rudder
 Takeoff Flaps
 Anti-balance tabs
 Lower rudder
+-
+a
 Foreflap
 Midflap
 Aftflap
+~
 Vortex generators
+“a
+-
+__
 Pitot tubes
 boar
 In
@@ -4193,25 +4803,42 @@ O
 Flight spoilers
 Outboard flap
 Leading edge slat
+—_
 Balance tab
 Leading edge flap
 Outboard aileron
 Slats
 Fence
 Aileron
+727 Control Surfaces
 Flaps Retracted
+Figure 5-71. Control surfaces.
+differential type, they extend further on one side and retract
 around the wing leading edge. The airflow tends to tear loose
+on the other side. If they are the non-differential type, they
 rather suddenly from the upper surface at a moderate AOA.
+extend further on one side but do not retract on the other side.
 To utilize trailing edge flaps, and thus increase the CL-MAX,
+When fully extended as speed brakes, the non-differential
 the wing must go to a higher AOA without airflow separation.
+spoilers remain extended and do not supplement the ailerons.
 Therefore, leading edge slots, slats, and flaps are used to
 improve the low-speed characteristics during takeoff, climb,
+To obtain a smooth stall and a higher AOA without airflow
 and landing. Although these devices are not as powerful as
+separation, the wing’s leading edge should have a well-
 trailing edge flaps, they are effective when used full span in
+rounded almost blunt shape that the airflow can adhere to
 combination with high-lift trailing edge flaps. With the aid
+at the higher AOA. With this shape, the airflow separation
 of these sophisticated high-lift devices, airflow separation is
+starts at the trailing edge and progresses forward gradually
 delayed and the CL-MAX is increased considerably. In fact, a
-50 knot reduction in stall speed is not uncommon.
+as AOA is increased.
+The pointed leading edge necessary for high-speed flight
+results in an abrupt stall and restricts the use of trailing edge
+flaps because the airflow cannot follow the sharp curve
+5-50
 
 The operational requirements of a large jet transport aircraft
 necessitate large pitch trim changes. Some requirements are:

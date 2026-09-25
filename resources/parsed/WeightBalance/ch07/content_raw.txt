@@ -1,6 +1,7 @@
 Chapter 7
 Center of Gravity Change After
 a Repair or Alteration
+rf
 Introduction
 The largest weight changes that occur during the lifetime of
 an aircraft are those caused by alterations and repairs. It is the
@@ -66,6 +67,8 @@ chapter breakdown for the airplane. Items receive a unique
 assembly installation.
 sequence number (01, 02, 03, etc.). After the sequence
 number (and hyphen), a suffix letter is assigned to identify
+ae
+ae
 Weight and Balance Record
 (Continuous history of changes in structure or equipment affecting weight and balance)
 Airplane Model
@@ -171,22 +174,54 @@ including a statement that the new computations supersede
 the computations dated “MM/DD/YY.”
 7-3
 
-Date: 08/07/09
 Weight & Balance
 Cessna 182L
+Date: 04/22/95
+N42565
+_
+S/N 18259080
+Supersedes Computations of
+FAA Form
+_
+337, dated 10/02/90.
+Removed the following equipment:
+Date: 08/07/09
+Weight & Balance
+1.
+Turn Coordinator P/N C66 1003-0201
+Weight
+Arm
+Moment
+Cessna 182L
 Supersedes computations of FAA Form
+2.
+Directional Gyro P/N 0706000
+2.5 Ibs
+1S
+37.5
 N42565
 337 dated 10/02/07.
 S/N 18259080
+3,12 Ibs
+13.5
+42.12
+TOTAL
+5.62
+79.62
 Removed the following equipment:
 Weight x Arm = Moment
 2.50 lb
 15.0
 37.50
+1876.00
+36.14
+67798.64
 1. Turn coordinator P/N C661003-0201
 +3.12 lb
 13.5
 +42.12
+-5.62
+-79.62
 2. Directional gyro P/N 0706000
 5.62
 79.62
@@ -196,32 +231,77 @@ Total
 67,798.64
 −5.62
 −79.62
+Installed the following equipment:
 1,870.38
 36.20
 67,719.02
 Aircraft after removal:
+1.
+S-Tec 40 Autopilot system, includes
+;
+Turn Coordinator and Directional Gyro.
+Weight
+Arm
+Moment
+13 Ibs
+32.7
+425.13
 Installed the following equipment:
 Weight x Arm = Moment
 13 lb
 32.70
 425.13
+1870.38
+36.20
+67719.02
 1. S-TEC System 40 autopilot, includes
++13.00
++425.13
 turn coordinator and directional gyro
 1,870.38
 36.20
 67,719.02
+*REVISED LICENSED EMPTY WEIGHT
+1883.38
+36.18
+68 144.15
 +13.00
 +425.13
+NEW USEFUL LOAD 1216.62
 1,883.38
 36.18
 68,144.15
 *REVISED LICENSED EMPTY WEIGHT
 NEW USEFUL LOAD 1,216.62
+Forward Check (Limit +33.0)
+Rearward Check (Limit +46.0)
 Rearward check (Limit +46.0)
 Forward check (Limit +33.0)
+Wt.
+Arm
+Moment
+Wt.
+Arm
+Moment
+A/CEmpty
+1883.38
+36.18
+68144.15
+A/CEmpty
+—:1883.38
+36.18
+68144.15
 Wt. × Arm =
 Moment
 Wt. × Arm = Moment
+Fwd. Seats
+170.00
+37.00
+6290.00
+Fwd. Seats
+170.00
+37.00
+6290.00
 A/C empty
 A/C empty
 1,883.38
@@ -232,6 +312,11 @@ A/C empty
 68,144.15
 Fwd. seats
 Fwd. seats
+Aft. Seats
+Aft. Seats
+340.00
+74.00
+25160.00
 170.00
 37.00
 6,290.00
@@ -244,6 +329,14 @@ Aft seats
 74.00
 25,160.00
 Fuel (min.)
+115.00
+48.00
+5520.00
+Fuel (max.)
+528.00
+48.20
+25449.60
+Fuel (min.)
 Fuel (min.)
 528.00
 48.20
@@ -255,19 +348,35 @@ Baggage A
 Baggage A
 100.00
 97.00
+9700.00
+Baggage A
+Baggage A
+100.00
+97.00
 9,700.00
+BaggageBo
+BaggageB
+__60.00 116.00
+_6960.00
 Baggage B
 Baggage B
 60.00
 116.00
 6,960.00
+2168.38
++36.87
+79954.15
+3081.38
+45.98 141703.75
 3,081.38
 45.98 141,703.75
 2,168.38
 +36.87
 79,954.15
 Jeseph P. Kline
+Joseph P. Kline
 A&P 123456789
+A& P 123456789
 Figure 7-3. A typical airplane weight and balance revision record.
 7-4
 
@@ -304,6 +413,11 @@ compartment.
 aft of the datum, multiply the total moment index by 100 to
 get the moment, and divide this by the total weight to get
 the new CG.
+oT
+oT
+oT
+|
+eT
 =
 x
 Item
@@ -311,6 +425,8 @@ Weight (lb)
 Arm (in)
 Moment (lb-in)
 New CG
+_
+_
 36.1
 1,876.0
 Airplane
@@ -344,6 +460,10 @@ Total
 68,613.9
 +36.4
 Figure 7-4. Weight, arm, and moment changes caused by typical alteration or repair.
+oT
+oT
+oT
+oT
 Item
 Weight (lb)
 Moment indexes (lb-in/100)
@@ -385,8 +505,14 @@ Forward
 This procedure is the same as found in Chapter 5, Single-
 limit
 Engine Aircraft Weight and Balance Computations.
+[
+/
 Refer to the load conditions and CG information found in
 Figures 7-5, 7-6, and 7-7 to compute the CG in percent MAC:
+a
+a
+—
+oun
 The loaded CG is +36.4 inches aft of the datum.
 The MAC is 58.0 inches long.
 Fuel +48.2
@@ -407,6 +533,7 @@ Engine METO horsepower 230
 CG range
 (+40.9) to (+46.0) at 3,100 lb
 (+33.0) to (+46.0) at 2,250 lb or less
+a
 Straight line variation between points given
 CG in inches from LEMAC x 100
 Empty weight CG range
@@ -532,6 +659,7 @@ outside of the limits, it can usually be brought back in by
 using ballast.
 Make a chart like the one in Figure 7-9 to determine the CG
 with the aircraft loaded for its most forward CG. With the
+_
 When rear row of seats is occupied, 120 pounds of
 load consisting of only a pilot and the minimum fuel, the CG
 baggage or ballast must be carried in forward baggage
@@ -540,8 +668,15 @@ compartment. For additional loading instruction,
 see Weight and Balance Data.
 for this weight of +33.0.
 Figure 7-11. Typical baggage compartment placard.
+oT
+I
+eT
+oe
+OT
 =
 x
+_
+-
 Item
 Weight (lb)
 Arm (in)
@@ -564,8 +699,15 @@ Total
 79,098.6
 +36.6
 Figure 7-9. Load conditions for forward adverse-load CG check.
+oT
+oo
+oT
+oe
+oT
 =
 x
+-
+=
 Item
 Weight (lb)
 Arm (in)
@@ -637,6 +779,7 @@ the ballast.
 7-8
 To determine the amount of ballast needed, use the formula
 in Figure 7-13.
+OT
 Aircraft empty weight × Dist. out of limits
 =
 Ballast weight

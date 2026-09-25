@@ -1,5 +1,7 @@
 Chapter 10
 IFR Flight
+IFR Flight
+P|
 Introduction
 This chapter is a discussion of conducting a flight under
 instrument flight rules (IFR). It also explains the sources for
@@ -108,6 +110,7 @@ together with present position and altitude. FSS then relays
 this information to the ARTCC. The ARTCC then clears the
 pilot from present position or from a specified navigation fix.
 
+are understood. In order to complete the communication —
 Figure 10-1. Flight plan form.
 A pilot who files directly with the ARTCC reports present
 position and altitude, and submits only the flight plan
@@ -132,6 +135,7 @@ plan within areas such as Class C or Class B airspace.
 When operating on an IFR flight plan to an airport with
 an operating control tower, a flight plan is cancelled
 automatically upon landing. If operating on an IFR flight
+Figure 10-1. Flight plan from.
 plan to an airport without an operating control tower, the
 pilot is responsible for cancelling the flight plan. This can
 be done by telephone after landing if there is no operating
@@ -155,7 +159,6 @@ of taxi operations at airports with operating control towers
 depend on this communication loop. ATC uses standard
 phraseology and require readbacks and other responses from
 the pilot in order to verify that clearances and instructions
-are understood. In order to complete the communication
 10-3
 
 loop, the controllers must also clearly understand the pilot’s
@@ -352,6 +355,7 @@ headings and altitudes until informed by the controller of
 the aircraft’s position with respect to the route given in
 10-5
 
+a
 SE-4, 16 DEC 2010 to 13 JAN 2011
 Figure 10-2. Departure procedure (DP).
 the clearance, whom to contact next, and to “resume own
@@ -361,6 +365,7 @@ facility, or an en route position appropriate to the departure
 clearance, or transfer to another controller with further radar
 surveillance capabilities. [Figure 10-2]
 10-6
+Figure 10-2. Departure procedure (DP).
 A radar controlled departure does not relieve the pilot of
 responsibilities as pilot-in-command. Be prepared before
 takeoff to conduct navigation according to the ATC clearance
@@ -573,21 +578,22 @@ characteristics of the aircraft) to 1,000 feet above the assigned
 altitude. Then attempt to descend at a rate of between 500 and
 1,500 fpm until the assigned altitude is reached. If at anytime
 
+Standard Terminal Arrival Routes (STARs)
 a pilot is unable to maintain a descent rate of at least 500 fpm,
 advise ATC. Also advise ATC if it is necessary to level off
+Standard Terminal Arrival Routes (STARs) (as described
 at an intermediate altitude during descent. An exception to
+in Chapter 1) have been established to simplify clearance
 this is when leveling off at 10,000 feet mean sea level (MSL)
+delivery procedures for arriving aircraft at certain areas
 on descent or 2,500 feet above airport elevation (prior to
+having high density traffic. A STAR serves a purpose
 entering a Class B, Class C, or Class D surface area) when
+parallel to that of a DP for departing traffic. [Figure 10-3]
 required for speed reduction.
 SC-4, 16 DEC 2010 to 13 JAN 2011
 Figure 10-3. Standard terminal arrival route (STAR).
-Standard Terminal Arrival Routes (STARs)
-Standard Terminal Arrival Routes (STARs) (as described
-in Chapter 1) have been established to simplify clearance
-delivery procedures for arriving aircraft at certain areas
-having high density traffic. A STAR serves a purpose
-parallel to that of a DP for departing traffic. [Figure 10-3]
+Figure 10-3. Standard terminal arrival route (STAR).
 SC-4, 16 DEC 2010 to 13 JAN 2011
 10-9
 
@@ -658,7 +664,10 @@ fix, turns 180° to the right, flies a parallel straight course
 outbound for 1 minute, turns 180° to the right, and flies the
 inbound course to the fix.
 Abeam
+-
+SI
 Figure 10-4. Standard holding pattern—no wind.
+Figure 10-4. Standard holding pattern - no winid.
 Standard Holding Pattern (With Wind)
 A standard symmetrical holding pattern cannot be flown
 when winds exist. In those situations, the pilot is expected to:
@@ -688,6 +697,10 @@ ATC clearance specifies the following:
 Direction of holding from the fix in terms of the eight
 cardinal compass points (N, NE, E, SE, etc.)
 
+#
+is
+iva
+—|
 Figure 10-5. Drift correction in holding pattern.
 2.
 Holding fix (the fix may be omitted if included at the
@@ -801,11 +814,16 @@ Direct Entry Procedure. When approaching the
 holding fix from anywhere in sector (c), the direct
 entry procedure would be to fly directly to the fix and
 turn to follow the holding pattern.
+-“
+|
 a
+-_
+_
 c
 b
 Figure 10-6. Holding pattern entry procedures.
 A pilot should make all turns during entry and while holding at:
+Figure 10-6. Holding pattern entry procedures.
 1.
 3° per second, or
 2.
@@ -823,14 +841,23 @@ to achieve proper inbound leg time. The pilot should begin
 outbound timing over or abeam the fix, whichever occurs later.
 If the abeam position cannot be determined, start timing when
 the turn to outbound is completed. [Figure 10-7]
+, 4
+045°
+»s
 315°
 0°
+, )
 330°
+Ya
+240°
+\
 330°
+a
+240°
+>
+‘
 Figure 10-7. Holding—outbound timing.
-045°
-240°
-240°
+Figure 10-7. Holding -outbound timing
 
 Time leaving the holding fix must be known to ATC before
 succeeding aircraft can be cleared to the vacated airspace.
@@ -943,7 +970,9 @@ to execute his or her choice of standard instrument approach
 (if more than one is published for the airport) with the
 10-13
 
+a
 SE-4, 16 DEC 2010 to 13 JAN 2011
+Figure 10-8. Approach: an approach procedure at an airport without an operating control tower.
 Figure 10-8. Monroeville, Alabama (MVC) VOR or GPS Rwy 3 Approach: An approach procedure at an airport without an operating
 control tower.
 10-14
@@ -1056,6 +1085,7 @@ approaches is a functioning radio transmitter and receiver.
 
 SC-4, 16 DEC 2010 to 13 JAN 2011
 Figure 10-9. Gulfport, Mississippi (GPT) ILS or LOC Rwy 14 Approach: An instrument procedure chart with maximum ATC facilities
+Figure 10-9. Approach: an instrument procedure chart with maximum ATC facilities available.
 available.
 10-16
 SC-4, 16 DEC 2010 to 13 JAN 2011
@@ -1117,6 +1147,7 @@ is not possible, but the pilot is advised when to commence
 is given the relative amount of deviation by use of terms
 N6
 RADAR MINS
+RADAR INSTRUMENT APPROACH MINIMUMS
 TROY, AL
 ELEV 397
 Amdt. 7, DEC 22, 2005 (FAA)
@@ -1159,10 +1190,26 @@ AB
 D
 When control tower closed, procedure not authorized.
 ¹Opr by US Army 1430-2230Z++ Mon-Fri exc hol.
+Vv
 WRIGHT AAF (LHW), (FORT STEWART) GA (30 NOV 00 USA)
 ELEV 48
-RADAR1 - (U) 118 775 267 15
+RADAR 1 - (U) 118.775 267.15
+DH/
+HAT/
+RWY
+GS/TCH/RPI
+CAT
+MDA-VIS
+HAA CEIL-VIS
 Figure 10-10. Radar instrument approach minimums for Troy, Alabama.
+ASR
+33R
+ABCD
+380-¾
+(400-¾)
+6L
+AB 620-1 573
+(600-1)
 10-17
 
 descent to the Minimum Descent Altitude (MDA) or, if
@@ -1338,10 +1385,17 @@ nearly approximates VFR traffic pattern altitude. This makes
 any maneuvering safer and brings the view of the landing
 runway into a more normal perspective.
 A
+—™_
 B
+-—
+i
 C
+—fj
 D
+-—i
 E
+=
+i
 Defining size of areas, radii (r) vary
 with the approach category
 Figure 10-12. Circling approach area radii.
@@ -1361,101 +1415,116 @@ of each TPP for a description of circling approach categories.
 The criteria for determining the pattern to be flown are
 based on personal flying capabilities and knowledge of the
 
+>
 A
 B
+C
+D
+If the runway is
+If it is desirable
 Circle runway if the runway
 Pattern A can be flown when the
+sighted too late
+to land opposite
 becomes visible too late to fly
 final approach course
+for a turn to
+the direction of
 pattern A.
 intersects the runway
+downwind,
+the final app-
 centerline at less than
+fly pattern D.
+roach, and the
 a 90° angle, and the
+runway is sighted
 runway is in sight early
+in time for a turn
 enough to establish a
+to downwind leg,
 base leg.
+@
+fly pattern C.
+ry
+|
+yy
+ry
+|
+ay
+Sf
+.
+Sf
+|
+yy
+|
+yy
 Figure 10-13. Circling approaches.
 performance characteristics of the aircraft. In each instance,
+remaining clear of obstacles. The procedure is shown on the
 the pilot must consider all factors: airport design, ceiling and
+approach chart in text and graphic form. Since the execution
 visibility, wind direction and velocity, final approach course
+of a missed approach occurs when the flight deck workload is
 alignment, distance from the final approach fix to the runway,
+at a maximum, the procedure should be studied and mastered
 and ATC instructions.
+before beginning the approach.
 IAP Minimums
+When a MAP is initiated, a climb pitch attitude should be
+established while setting climb power. Configure the aircraft
 Pilots may not operate an aircraft at any airport below
+for climb, turn to the appropriate heading, advise ATC that
 the authorized MDA or continue an approach below the
+a missed approach is being executed, and request further
 authorized DA/DH unless:
+clearances.
 1.
 The aircraft is continuously in a position from which
 a descent to a landing on the intended runway can be
+If the missed approach is initiated prior to reaching the MAP,
 made at a normal descent rate using normal maneuvers;
+unless otherwise cleared by ATC, continue to fly the IAP as
 2.
 The flight visibility is not less than that prescribed for
+specified on the approach chart. Fly to the MAP at or above
 the approach procedure being used; and
+the MDA or DA/DH before beginning a turn.
 3.
 At least one of the following visual references for the
+If visual reference is lost while circling-to-land from an
 intended runway is visible and identifiable to the pilot:
+instrument approach, execute the appropriate MAP. Make
 a) Approach light system
+the initial climbing turn toward the landing runway and then
 b) Threshold
+maneuver to intercept and fly the missed approach course.
 c) Threshold markings
+Pilots should immediately execute the MAP:
 d) Threshold lights
+1.
+Whenever the requirements for operating below DA/
 e) Runway end identifier lights (REIL)
+DH or MDA are not met when the aircraft is below
 f)
 Visual approach slope indicator (VASI)
+MDA, or upon arrival at the MAP and at any time
+after that until touchdown;
 g) Touchdown zone or touchdown zone markings
+2.
+Whenever an identifiable part of the airport is not
 h) Touchdown zone lights
+visible to the pilot during a circling maneuver at or
 i)
 Runway or runway markings
+above MDA; or
 j)
 Runway lights
+3.
+When so directed by ATC.
 Missed Approaches
 A MAP is formulated for each published instrument approach
 and allows the pilot to return to the airway structure while
-C
-If it is desirable
-to land opposite
-the direction of
-the final app-
-roach, and the
-runway is sighted
-in time for a turn
-to downwind leg,
-fly pattern C.
-remaining clear of obstacles. The procedure is shown on the
-approach chart in text and graphic form. Since the execution
-of a missed approach occurs when the flight deck workload is
-at a maximum, the procedure should be studied and mastered
-before beginning the approach.
-When a MAP is initiated, a climb pitch attitude should be
-established while setting climb power. Configure the aircraft
-for climb, turn to the appropriate heading, advise ATC that
-a missed approach is being executed, and request further
-clearances.
-If the missed approach is initiated prior to reaching the MAP,
-unless otherwise cleared by ATC, continue to fly the IAP as
-specified on the approach chart. Fly to the MAP at or above
-the MDA or DA/DH before beginning a turn.
-If visual reference is lost while circling-to-land from an
-instrument approach, execute the appropriate MAP. Make
-the initial climbing turn toward the landing runway and then
-maneuver to intercept and fly the missed approach course.
-Pilots should immediately execute the MAP:
-1.
-Whenever the requirements for operating below DA/
-DH or MDA are not met when the aircraft is below
-MDA, or upon arrival at the MAP and at any time
-after that until touchdown;
-2.
-Whenever an identifiable part of the airport is not
-visible to the pilot during a circling maneuver at or
-above MDA; or
-3.
-When so directed by ATC.
-D
-If the runway is
-sighted too late
-for a turn to
-downwind,
-fly pattern D.
 10-21
 
 Landing
@@ -1555,56 +1624,71 @@ or contact the nearest FSS or En Route Flight Advisory
 Service (EFAS) for the latest turbulence-related PIREPs.
 
 To avoid turbulence associated with strong thunderstorms,
+found in the AIM, which also describes the procedure for
 circumnavigate cells by at least 20 miles. Turbulence may
+volunteering PIREPs relating to turbulence.
 also be present in the clear air above a thunderstorm. To
+Structural Icing
 avoid this, fly at least 1,000 feet above the top for every 10
 knots of wind at that level, or fly around the storm. Finally,
-do not underestimate the turbulence beneath a thunderstorm.
-Never attempt to fly under a thunderstorm. The possible
-results of turbulence and wind shear under the storm could
-be disastrous.
-When moderate to severe turbulence is encountered, aircraft
-control is difficult, and a great deal of concentration is
-required to maintain an instrument scan. [Figure 10-14]
-Pilots should immediately reduce power and slow the
-aircraft to the recommended turbulence penetration speed
-as described in the POH/AFM. To minimize the load factor
-imposed on the aircraft, the wings should be kept level and the
-aircraft’s pitch attitude should be held constant. The aircraft
-is allowed to fluctuate up and down because maneuvering
-to maintain a constant altitude only increases the stress on
-the aircraft. If necessary, the pilot should advise ATC of
-the fluctuations and request a block altitude clearance. In
-addition, the power should remain constant at a setting that
-maintains the recommended turbulence penetration airspeed.
-The best source of information on the location and intensity
-of turbulence are PIREPs. Therefore, pilots are encouraged to
-familiarize themselves with the turbulence reporting criteria
-Figure 10-14. Maintaining an instrument scan in severe turbulence can be difficult.
-found in the AIM, which also describes the procedure for
-volunteering PIREPs relating to turbulence.
-Structural Icing
 The very nature of flight in instrument meteorological
+do not underestimate the turbulence beneath a thunderstorm.
 conditions (IMC) means operating in visible moisture such
+Never attempt to fly under a thunderstorm. The possible
 as clouds. At the right temperatures, this moisture can
+results of turbulence and wind shear under the storm could
 freeze on the aircraft, causing increased weight, degraded
+be disastrous.
 performance, and unpredictable aerodynamic characteristics.
 Understanding avoidance and early recognition followed
+When moderate to severe turbulence is encountered, aircraft
 by prompt action are the keys to avoiding this potentially
+control is difficult, and a great deal of concentration is
 hazardous situation.
+required to maintain an instrument scan. [Figure 10-14]
+Pilots should immediately reduce power and slow the
 Structural icing refers to the accumulation of ice on the
+aircraft to the recommended turbulence penetration speed
 exterior of the aircraft and is broken down into three
+as described in the POH/AFM. To minimize the load factor
 classifications: rime ice, clear ice, and mixed ice. For ice
+imposed on the aircraft, the wings should be kept level and the
 to form, there must be moisture present in the air, and the
+aircraft’s pitch attitude should be held constant. The aircraft
 air must be cooled to a temperature of 0 °C (32 °F) or less.
+is allowed to fluctuate up and down because maneuvering
 Aerodynamic cooling can lower the surface temperature of
+to maintain a constant altitude only increases the stress on
 an airfoil and cause ice to form on the airframe even though
+the aircraft. If necessary, the pilot should advise ATC of
 the ambient temperature is slightly above freezing.
+the fluctuations and request a block altitude clearance. In
+addition, the power should remain constant at a setting that
 Rime ice forms if the droplets are small and freeze
+maintains the recommended turbulence penetration airspeed.
 immediately when contacting the aircraft surface. This type
 of ice usually forms on areas such as the leading edges of
+The best source of information on the location and intensity
 wings or struts. It has a somewhat rough-looking appearance
+of turbulence are PIREPs. Therefore, pilots are encouraged to
 and a milky-white color.
+familiarize themselves with the turbulence reporting criteria
+=
+=
+=_—_
+=
+=
+=<) (oy
+a
+—=~
+Sa.
+a —
+— Se
+i
+——-
+i sf
+_. *
+Figure 10-14. Maintaining an instrument scan in severe turbulence can be difficult.
 10-23
 
 Clear ice is usually formed from larger water droplets or
@@ -1619,6 +1703,7 @@ temperatures at which the various types of ice form.
 0 °C to –10 °C
 –10 °C to –15 °C
 –15 °C to –20°C
+Figure 10-14. Temperature ranges for ice formation.
 Figure 10-15. Temperature ranges for ice formation.
 Structural icing is a condition that can only get worse.
 Therefore, during an inadvertent icing encounter, it is
@@ -1707,6 +1792,7 @@ between –5 ° C and +5 ° C. In addition, an aircraft flying in the
 clear air near a thunderstorm is also susceptible to lightning
 strikes. Thunderstorm avoidance is always the best policy.
 Wind Shear
+s
 Wind shear can be defined as a change in wind speed and/or
 wind direction in a short distance. It can exist in a horizontal
 or vertical direction and occasionally in both. Wind shear can
@@ -1749,10 +1835,25 @@ The probability of lightning strikes occurring to aircraft is
 System (LLWAS) consisting of a centerfield wind indicator
 greatest when operating at altitudes where temperatures are
 and several surrounding boundary-wind indicators. With
+a
 Tailwind Shearing to Headwind or Calm
 Headwind Shearing to Tailwind or Calm
+—
 Front
 Front
+:
+:
+—_—
+—
+—_—
+—
+§
+|
+—_—
+—_=
+—
+a
+—_—
 OM(outer marker)
 OM(outer marker)
 Figure 10-17. Glideslope deviations due to wind shear encounter.
@@ -1852,13 +1953,24 @@ thoroughness of the preflight planning. The evening before
 the flight, pay close attention to the weather forecast and
 begin planning the flight.
 
+_
+pate
 N 32 ° 2 2 . 01' W 8 8 ° 2 7 . 5 0'
 GREENWOOD
 KEWANEE
 113.8 EWA 8 5
 122.1R
+&
+y
+dj
+~~
+i
+~~
+A
 SC-4, 16 DEC 2010 to 13 JAN 2011
 SC-4, 16 DEC 2010 to 13 JAN 2011
+Figure 10-17. Route Planning.
+Figure 10-17. Route planning, Gulfport-Biloxi.
 Figure 10-18. Route planning.
 10-27
 
@@ -2034,6 +2146,7 @@ exceed personal minimums. With the absence of icing
 reported along the route and steadily rising temperatures,
 10-29
 
+the clipboard indicates the VOR system has been checked —
 FLIGHT LOG
 TIME
 DISTANCE
@@ -2087,6 +2200,7 @@ PNS
 +35
 18 Gal
 Regional
+—
 ATIS
 DEPERTURE
 ARRIVAL
@@ -2106,6 +2220,7 @@ RWY IN USE
 RWY IN USE
 REMARKS
 REMARKS
+Figure 10-18. Flight plan from.
 Figure 10-19. Navigation log.
 structural icing should not be a problem. Make a note to do an
 Once at the airport, conduct a thorough preflight inspection.
@@ -2118,9 +2233,9 @@ including an altimeter, static, and transponder test within
 or landing at an intermediate spot before reaching GPT. The
 the preceding 24 calendar months. In addition, a log on
 go/no-go decision is constantly reevaluated during the flight.
-the clipboard indicates the VOR system has been checked
 10-30
 
+northwest.”—
 N/230A C182/G
 BHM
 X
@@ -2131,6 +2246,7 @@ James Jones, 841 Oak St. Gardendail, Al. 205-555-6028
 PNS
 blue/white
 Figure 10-20. Flight plan form.
+Figure 10-19. Flight plan form.
 within the preceding 30 days. Turn on the master switch and
 Read back the clearance and review the DP. Although a
 pitot heat, and quickly check the heating element before it
@@ -2167,7 +2283,6 @@ Biloxi with information Kilo, ready to copy.”
 “Cessna 30A cleared for takeoff runway 24.
 Caution wake turbulence from 737 departing to the
 “Cessna 1230A is cleared to Gulfport-Biloxi via the
-northwest.”
 Birmingham Three Departure, Brookwood, Victor
 209 Kewanee then direct Mindo, Gulfport. Climb and
 maintain 4,000. Squawk 0321.”

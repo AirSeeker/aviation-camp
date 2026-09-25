@@ -1,6 +1,7 @@
 Chapter 4
 Principles of
 Flight
+S|
 Introduction
 This chapter examines the fundamental physical laws
 governing the forces acting on an aircraft in flight, and
@@ -24,68 +25,83 @@ is contained below 35,000 feet altitude.
 4-1
 
 Air is a Fluid
-When most people hear the word “fluid,” they usually think
-of liquid. However, gasses, like air, are also fluids. Fluids
-take on the shape of their containers. Fluids generally do not
-resist deformation when even the smallest stress is applied,
-or they resist it only slightly. We call this slight resistance
-viscosity. Fluids also have the ability to flow. Just as a liquid
-flows and fills a container, air will expand to fill the available
-volume of its container. Both liquids and gasses display these
-unique fluid properties, even though they differ greatly in
-density. Understanding the fluid properties of air is essential
-to understanding the principles of flight.
-Viscosity
-Viscosity is the property of a fluid that causes it to resist
-flowing. The way individual molecules of the fluid tend to
-adhere, or stick, to each other determines how much a fluid
-resists flow. High-viscosity fluids are “thick” and resist flow;
-low-viscosity fluids are “thin” and flow easily. Air has a low
-viscosity and flows easily.
-Using two liquids as an example, similar amounts of oil and
-water poured down two identical ramps will flow at different
-rates due to their different viscosity. The water seems to flow
-freely while the oil flows much more slowly.
-As another example, different types of similar liquids will
-display different behaviors because of different viscosities.
-Grease is very viscous. Given time, grease will flow, even
-though the flow rate will be slow. Motor oil is less viscous
-than grease and flows much more easily, but it is more viscous
-and flows more slowly than gasoline.
-All fluids are viscous and have a resistance to flow, whether
-or not we observe this resistance. We cannot easily observe
-Figure 4-1. Microscopic surface of a wing.
-4-2
-Leading edge of wing under 1,500x magnification
 the viscosity of air. However, since air is a fluid and has
 viscosity properties, it resists flow around any object to
+When most people hear the word “fluid,” they usually think
 some extent.
+of liquid. However, gasses, like air, are also fluids. Fluids
+take on the shape of their containers. Fluids generally do not
 Friction
+resist deformation when even the smallest stress is applied,
+or they resist it only slightly. We call this slight resistance
 Another factor at work when a fluid flows over or around
+viscosity. Fluids also have the ability to flow. Just as a liquid
 an object is called friction. Friction is the resistance that one
+flows and fills a container, air will expand to fill the available
 surface or object encounters when moving over another.
+volume of its container. Both liquids and gasses display these
 Friction exists between any two materials that contact each
+unique fluid properties, even though they differ greatly in
 other.
+density. Understanding the fluid properties of air is essential
+to understanding the principles of flight.
 The effects of friction can be demonstrated using a similar
 example as before. If identical fluids are poured down two
+Viscosity
 identical ramps, they flow in the same manner and at the
 same speed. If the surface of one ramp is rough, and the other
+Viscosity is the property of a fluid that causes it to resist
 smooth, the flow down the two ramps differs significantly.
+flowing. The way individual molecules of the fluid tend to
 The rough surface ramp impedes the flow of the fluid due
+adhere, or stick, to each other determines how much a fluid
 to resistance from the surface (friction). It is important to
+resists flow. High-viscosity fluids are “thick” and resist flow;
 remember that all surfaces, no matter how smooth they
+low-viscosity fluids are “thin” and flow easily. Air has a low
 appear, are not smooth on a microscopic level and impede
+viscosity and flows easily.
 the flow of a fluid.
+Using two liquids as an example, similar amounts of oil and
 The surface of a wing, like any other surface, has a certain
+water poured down two identical ramps will flow at different
 roughness at the microscopic level. The surface roughness
+rates due to their different viscosity. The water seems to flow
 causes resistance and slows the velocity of the air flowing
+freely while the oil flows much more slowly.
 over the wing. [Figure 4-1]
+As another example, different types of similar liquids will
 Molecules of air pass over the surface of the wing and actually
+display different behaviors because of different viscosities.
 adhere (stick, or cling) to the surface because of friction. Air
+Grease is very viscous. Given time, grease will flow, even
 molecules near the surface of the wing resist motion and have
+though the flow rate will be slow. Motor oil is less viscous
 a relative velocity near zero. The roughness of the surface
+than grease and flows much more easily, but it is more viscous
 impedes their motion. The layer of molecules that adhere to
+and flows more slowly than gasoline.
 the wing surface is referred to as the boundary layer.
+All fluids are viscous and have a resistance to flow, whether
+or not we observe this resistance. We cannot easily observe
+-
+A
+™
+i
+\
+BB
+—
+,
+|
+|
+¥
+OURS
+ASE
+Ve
+S
+Leading edge of wing under 1,500x magnification
+Figure 4-1. Microscopic surface of a wing.
+4-2
 
 Once the boundary layer of the air adheres to the wing by
 friction, further resistance to the airflow is caused by the
@@ -148,6 +164,10 @@ Pressure
 Hg
 mb
 A t m o s p h e r i c P r e s s u r e
+~
+-
+”
+~
 Figure 4-2. Standard sea level pressure.
 Standard Atmosphere
 Temperature
@@ -440,75 +460,79 @@ equals mass times acceleration.”
 4-5
 
 When a body is acted upon by a constant force, its resulting
+Since air is recognized as a body, and it is understood that
 acceleration is inversely proportional to the mass of the body
+air will follow the above laws, one can begin to see how
 and is directly proportional to the applied force. This takes
+and why an airplane wing develops lift. As the wing moves
 into account the factors involved in overcoming Newton’s
+through the air, the flow of air across the curved top surface
 First Law. It covers both changes in direction and speed,
+increases in velocity creating a low-pressure area.
 including starting up from rest (positive acceleration) and
 coming to a stop (negative acceleration or deceleration).
-Newton’s Third Law: “For every action, there is an equal
-and opposite reaction.”
-In an airplane, the propeller moves and pushes back the
-air; consequently, the air pushes the propeller (and thus the
-airplane) in the opposite direction—forward. In a jet airplane,
-the engine pushes a blast of hot gases backward; the force of
-equal and opposite reaction pushes against the engine and
-forces the airplane forward.
-Bernoulli’s Principle of Differential Pressure
-A half-century after Newton formulated his laws, Daniel
-Bernoulli, a Swiss mathematician, explained how the pressure
-of a moving fluid (liquid or gas) varies with its speed of
-motion. Bernoulli’s Principle states that as the velocity of a
-moving fluid (liquid or gas) increases, the pressure within
-the fluid decreases. This principle explains what happens to
-air passing over the curved top of the airplane wing.
-A practical application of Bernoulli’s Principle is the venturi
-tube. The venturi tube has an air inlet that narrows to a
-throat (constricted point) and an outlet section that increases
-in diameter toward the rear. The diameter of the outlet is
-the same as that of the inlet. The mass of air entering the
-tube must exactly equal the mass exiting the tube. At the
-constriction, the speed must increase to allow the same
-amount of air to pass in the same amount of time as in all
-other parts of the tube. When the air speeds up, the pressure
-also decreases. Past the constriction, the airflow slows and
-the pressure increases. [Figure 4-4]
-Figure 4-4. Air pressure decreases in a venturi tube.
-4-6
-Since air is recognized as a body, and it is understood that
-air will follow the above laws, one can begin to see how
-and why an airplane wing develops lift. As the wing moves
-through the air, the flow of air across the curved top surface
-increases in velocity creating a low-pressure area.
 Although Newton, Bernoulli, and hundreds of other early
 scientists who studied the physical laws of the universe did
+Newton’s Third Law: “For every action, there is an equal
 not have the sophisticated laboratories available today, they
+and opposite reaction.”
 provided great insight to the contemporary viewpoint of how
 lift is created.
+In an airplane, the propeller moves and pushes back the
 Airfoil Design
+air; consequently, the air pushes the propeller (and thus the
+airplane) in the opposite direction—forward. In a jet airplane,
 An airfoil is a structure designed to obtain reaction upon its
+the engine pushes a blast of hot gases backward; the force of
 surface from the air through which it moves or that moves
+equal and opposite reaction pushes against the engine and
 past such a structure. Air acts in various ways when submitted
+forces the airplane forward.
 to different pressures and velocities; but this discussion
 is confined to the parts of an aircraft that a pilot is most
+Bernoulli’s Principle of Differential Pressure
 concerned with in flight—namely, the airfoils designed to
+A half-century after Newton formulated his laws, Daniel
 produce lift. By looking at a typical airfoil profile, such as
+Bernoulli, a Swiss mathematician, explained how the pressure
 the cross section of a wing, one can see several obvious
+of a moving fluid (liquid or gas) varies with its speed of
 characteristics of design. [Figure 4-5] Notice that there is
+motion. Bernoulli’s Principle states that as the velocity of a
 a difference in the curvatures (called cambers) of the upper
+moving fluid (liquid or gas) increases, the pressure within
 and lower surfaces of the airfoil. The camber of the upper
+the fluid decreases. This principle explains what happens to
 surface is more pronounced than that of the lower surface,
+air passing over the curved top of the airplane wing.
 which is usually somewhat flat.
+A practical application of Bernoulli’s Principle is the venturi
 NOTE: The two extremities of the airfoil profile also differ in
+tube. The venturi tube has an air inlet that narrows to a
 appearance. The rounded end, which faces forward in flight,
+throat (constricted point) and an outlet section that increases
 is called the leading edge; the other end, the trailing edge, is
+in diameter toward the rear. The diameter of the outlet is
 quite narrow and tapered.
+the same as that of the inlet. The mass of air entering the
+tube must exactly equal the mass exiting the tube. At the
 A reference line often used in discussing the airfoil is
+constriction, the speed must increase to allow the same
 the chord line, a straight line drawn through the profile
+amount of air to pass in the same amount of time as in all
 connecting the extremities of the leading and trailing edges.
+other parts of the tube. When the air speeds up, the pressure
 The distance from this chord line to the upper and lower
+also decreases. Past the constriction, the airflow slows and
 surfaces of the wing denotes the magnitude of the upper and
+the pressure increases. [Figure 4-4]
 lower camber at any point. Another reference line, drawn
+.
+Ss
+>
+.
+Ss
+Ss
 VELOCITY
 PRESSURE
 VELOCITY
@@ -521,6 +545,13 @@ I0
 I0
 I0
 I0
+A
+—
+a
+|
+—————
+Figure 4-4. Air pressure decreases in a venturi tube.
+4-6
 
 lift and is not suitable for high-speed flight. Advancements
 in engineering have made it possible for today’s high-speed
@@ -587,29 +618,38 @@ a wing is constructed in such form that it causes a lift force
 the speed of the air across the top of an airfoil produces a
 greater than the weight of the aircraft, the aircraft will fly.
 If all the lift required were obtained merely from the
+ee
+ee
 Early airfoil
 deflection of air by the lower surface of the wing, an aircraft
 would only need a flat wing like a kite. However, the balance
 of the lift needed to support the aircraft comes from the flow
+ae
 Later airfoil
 of air above the wing. Herein lies the key to flight.
 It is neither accurate nor useful to assign specific values to the
 Clark 'Y' airfoil
+ee
 percentage of lift generated by the upper surface of an airfoil
 (Subsonic)
 versus that generated by the lower surface. These are not
 constant values. They vary, not only with flight conditions,
 Laminar flow airfoil
+ee
 but also with different wing designs.
 (Subsonic)
 Different airfoils have different flight characteristics. Many
 Circular arc airfoil
 thousands of airfoils have been tested in wind tunnels and in
+ee
+rs
 (Supersonic)
 actual flight, but no one airfoil has been found that satisfies
 every flight requirement. The weight, speed, and purpose
 Double wedge airfoil
 of each aircraft dictate the shape of its airfoil. The most
+BT
+a
 (Supersonic)
 efficient airfoil for producing the greatest lift is one that has
 a concave or “scooped out” lower surface. As a fixed design,
@@ -668,7 +708,9 @@ Although specific examples can be cited in which each of
 the principles predict and contribute to the formation of lift,
 4-8
 Low angle of attack
+=
 CP
+—
 e
 °
 ck
@@ -678,32 +720,46 @@ of
 An
 -
 at
+q
 Normal angle of attack
+at
 CP
+—
 e
+|
 ck
 °
 gl
 of
 ta
+—
 n
 +
 at
 A
 High angle of attack
+=
 CP
+y
+=
 of
 k
+“a
 e
 °
 c
 ta
 gl
+a
+——
 at
 n
 +
 A
+—_—
+Figure 2-8. Pressure distribution on an airfoil & CP changes
 Figure 4-7. Pressure distribution on an airfoil and CP changes
+with an angle of attack.
 with AOA.
 lift is a complex subject. The production of lift is much more
 complex than a simple differential pressure between upper
@@ -747,11 +803,20 @@ preventing the vortex from forming. Winglets can be on the
 top or bottom of the airfoil. Another method of countering
 the flow is to taper the airfoil tip, reducing the pressure
 differential and smoothing the airflow around the tip.
+wa
+<<
+|
+wl
+—
+——
+,
+-
 Tip
 v
 o
 r
 t
+,
 e
 x
 Figure 4-8. Tip vortex.

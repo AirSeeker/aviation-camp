@@ -24,13 +24,42 @@ which the fire is self-sustaining. The rapidly expanding air flows to the turbin
 a series of fan blade stages. The turbine section extracts a portion of the available energy from the airflow to turn a shaft, which drives
 the compressor. The remaining energy causes rapid air expansion in the nozzle of the tail pipe, accelerates the gas to a high velocity,
 and produces thrust. [Figure 16-1]
+Intake ===
+GE Direction of flight
 The large first stage design of a turbofan engine, a ducted fan, diverts some of the air around the engine core. This cooler bypass air
 produces some of the thrust. The amount of air that bypasses the core compared to the amount compressed for combustion determines
 a turbofan’s bypass ratio. In a turbofan engine, the compressor and turbine sections divide into sub-sections. Each sub-section in the
 turbine section connects to a specific sub-section of the compressor section via a split-spool shaft. [Figure 16-2]
+Compression 7) = Combustion
 Figure 16-1. Basic turbojet engine.
 16-1
+Exhaust
 
+E
+—
+=
+Inlet
+Ce eT
+j
+™
+RB NX AAS Abi x
+fi
+ray
+lam
+|
+PP EEY
+=
+L |
+Adin —
+Exhaust
+I
+=
+Yj
+SS
+—
+|
+\
+Figure 16-2. Turbofan engine.
 Air drawn into the engine for the gas generator is further compressed and constitutes the core airflow. While a turbojet engine uses
 the entire gas generator’s output to produce thrust in the form of a high-velocity exhaust gas jet, the lower velocity and cooler bypass
 air produces some of the thrust produced by a turbofan engine.
@@ -59,7 +88,6 @@ already high, it normally takes a small amount of movement to change the power o
 transitioning to jet-powered airplanes. In a situation where significantly more thrust is needed and the jet engine is at low rpm, inching
 the thrust lever forward will have little effect. It this situation, the pilot needs to make a smooth and significant thrust lever position
 change to increase the power.
-Figure 16-2. Turbofan engine.
 16-2
 
 Variation of Thrust with RPM
@@ -70,7 +98,33 @@ Slow Acceleration of the Jet Engine
 Acceleration of a piston engine from idle to full power is relatively rapid. The acceleration on different jet engines can vary
 considerably, but it is usually much slower. In some cases, the transition to full power could take up to 10 seconds. [Figure 16-4]
 Pilots should anticipate the need for adding power from low power settings.
+%
+=
+=
+f=
+z=
+3=
+10)
+Percent maximum RPM
 Figure 16-3. Variation of thrust with rpm.
+SC
+oO®6
+%
+cS)
+i
+Sj
+(WE,
+$
+S)
+<
+!
+ze)
+1'
+g:
+=
+60%
+100%
+RPM
 Figure 16-4. Typical jet engine acceleration times.
 16-3
 
@@ -125,7 +179,147 @@ There is no particular problem associated with the acceleration of the airflow u
 1.0 airflow begins. However, a shock wave is formed at the point where the airflow suddenly returns to subsonic flow. This shock
 wave becomes more severe and moves aft on the wing as airflow velocity increases. Eventually, flow separation occurs behind the
 well-developed shock wave. [Figure 16-6]
+POWER
+Airspeed Indicator
+es]
+117.95
+bis
+BRG
+136.975
+118.000| comi
+117.95
+136.975
+118.000
+com2
+;
+.
+TU
+Vmo and Mmpo Barber Pole
+A
+a
+_
+S
+Ea
+TU
+D
+10 ————10
+-
+a
+o
+cette
+a
+t
+volID”
+Ca
+—
+|_
+ore CON
+5 ——5
+L,
+Sea
+_
+BARO 12
+E
+210 a oO —
+| 3 1000), —_]
+om
+ee
+po
+a
+5——5
+|,
+ah
+—
+RANGE
+iwi
+=
+360°
+—
+~
+_
+Qn
+Mii,
+wast
+O)
+/
+\S‘2
+ce
+a“f
+29 .921n
+x,
+_NOF
+>
+.
+PAN
+RES
+Os.
+p>
+MENU
+=
+ioe
+FPL
+PROC
+—=5S
+©
+o4+ °o
+m=——
+1 90
+=
+=
+CLR
+ENT
+-
+~
+CES
+a>
+orurute FMS
+@
+%
+Ss
+——-
+7 aa
+47,
+t
+NAN
+g
+oy N
+/
+\
+M .579
+Mach Air Speed
+CDI
+|ADFIDME|XPDR/TFC]
+IDENT
+|TMR/REF|
+NRST | MSG
+yN
+A
+yN
+A
+yN
+A
+yN
+A
+yN
+A
+yN
 Figure 16-5. Jet airspeed indicator.
+Below Critical Mach
+oenow
+Subsonic =2 OSSible Separation
+Between Critical Mach & M,,
+——— >
+a
+exon’
+ogee]
+INGER
+=
+>>> >>>> >> >>>...
+==>.
+S
+iOr\tae
+———-oo >
+Above M,,,
 Figure 16-6. Transonic flow patterns.
 16-5
 
@@ -177,6 +371,71 @@ developing at a constant power setting, while pitch attitude appears to be norma
 sinking flightpath, is one of the most important aspects of jet-airplane flying.
 16-6
 
+cy Set
+Aircraft =
+BD
+_——-
+Aircraft =
+Propeller-Driven
+TTA
+Total
+A’
+f,
+Total
+thrustrequired MME
+Tan eee
+AN
+20 LL
+eene
+WS coo HLLere
+thrust
+d
+Total
+d
+Se
+TT
+ee TTT
+Ce
+©)
+TREEANE
+> 000
+WI
+s
+ET
+=
+i
+\
+or UD yay
+Kid SS
+oO
+2,000
+Wy oO
+BAITTIN
+yA
+A
+=
+NEA
+g
+Minimum power # L/Djj,, Vash
+:
+:
+seranecerll TUDOEE
+f REREAD
+pee
+EHAAASaeed
+atH
+Hs
+te)
+TTT
+gL
+erMea
+0 LILES
+peter
+HET
+TTpee
+(e)
+Airspeed
+Airspeed
 Figure 16-7. Thrust and power required curves (jet aircraft vs. propeller-driven aircraft).
 Stalls
 The stalling characteristics of the swept wing jet airplane can vary considerably from those of the normal straight wing airplane. The
@@ -187,6 +446,19 @@ By contrast, the swept wing produces a much more gradual buildup of lift with a 
 defined peak also means that a swept wing may not have as dramatic a loss of lift at angles of attack beyond its maximum lift
 coefficient. However, these high-lift conditions are accompanied by high drag, which may result in a high rate of descent. [Figure
 16-8]
+e
+3S
+SS
+®
+SS
+ZS
+A
+=
+SS
+sj
+\2)
+ou
+Angle of Attack
 Figure 16-8. Stall versus angle of attack—swept wing versus straight wing.
 If a simple, straight-wing airplane’s airfoil is swept, a natural tendency arises that it will stall at the wing tips first. This is because the
 boundary layer tends to flow spanwise toward the tips. [Figure 16-9] The tendency for tip stall allowing the center of lift to move
@@ -195,6 +467,8 @@ manufacturers modify the wing spanwise with twist, changes in airfoil section, i
 those modifications. This helps a pilot retain roll control initially if a stall is entered inadvertently.
 16-7
 
+/
+eo.
 Some T-tail configurations are prone to so-called deep stalls where the tail can become immersed in the wing wake at very high
 angles of attack and lose effectiveness. Such a situation can be accompanied by a high-rate of descent. Since high angles of attack can
 occur at any pitch attitude, even a pitch attitude with the nose below the horizon, it may seem counterintuitive in such a situation to
@@ -212,8 +486,12 @@ are rolled level, followed by adjusting thrust to return to normal flight. The e
 particularly at low altitude where significant available thrust exists. It is important to understand that reducing AOA eliminates the
 stall, but added thrust will allow the descent to be stopped once the wing is flying again. Note that airplanes without vortex generators
 may stall with little to no buffet.
+| Aroa oftp stall enlarges |
 Figure 16-9. Unmodified swept wing stall characteristics.
+@
+eo.
 16-8
+| Stall area progresses inboard
 
 At high altitudes the stall recovery technique is the same. A pilot will need to reduce the AOA by lowering the nose until the stall
 warning stops. However, after the AOA has been reduced to where the wing is again developing efficient lift, the airplane will still
@@ -230,6 +508,7 @@ flush with the upper surface of each wing. They are installed approximately para
 along the leading edges. When deployed, spoilers deflect up against the relative wind, which interferes with the flow of air about the
 wing. [Figure 16-10] This both spoils lift and increases drag. Spoilers are usually installed forward of the flaps but not in front of the
 ailerons so as not to interfere with roll control. Some aircraft use spoilers to augment roll control.
+Se en
 When flight and ground spoilers are deployed after landing, most of the wing’s lift is destroyed. This action transfers the airplane’s
 weight to the landing gear so that the wheel brakes are more effective. A secondary beneficial effect of deploying spoilers on landing
 is that they create considerable drag, adding to the overall aerodynamic braking.
@@ -239,6 +518,11 @@ brakes can be deployed at any time during flight. There is usually a certain amo
 speed brakes, along with an obvious penalty in fuel consumption. Pilots can minimize the use of speed brakes with proper descent and
 approach planning. Procedures for the use of spoilers and/or speed brakes in various situations are contained in the FAA-approved
 AFM for the particular airplane.
+eee ae
+ee
+a
+Py
+a
 Figure 16-10. Spoilers.
 16-9
 
@@ -253,6 +537,18 @@ thrust efficiency. If the pilot uses less than maximum rpm in reverse, the rever
 Normally, a jet engine has one of two types of thrust reversers: a target reverser or a cascade reverser. [Figure 16-11] Target
 reversers are simple clamshell doors that swivel from the stowed position at the engine tailpipe to redirect thrust to a more forward
 direction.
+Target or Clamshell Reverser
+yn)
+eee
+|
+_ il
+.
+oN
+S
+Cascade Reverser
+=
+me S
+> Tn
 Figure 16-11. Thrust reversers.
 16-10
 
@@ -354,10 +650,35 @@ condition. Both pilots should review the takeoff data entered in an FMS or separ
 the takeoff data card. If takeoff plans change while taxiing, the pilot or crew should recalculate the takeoff data.
 16-12
 
+Captain’s Briefing
+| will advance the thrust levers.
+Follow me through on the thrust levers.
+Monitor all instruments and warning lights on the takeoff roll
+and call out any discrepancies or malfunctions observed prior
+toV,, and
+| will abort the takeoff. Stand by to arm thrust
+reversers on my command.
+Give mea visual and oral signal for the following:
++ 80 knots, and| will disengage nosewheel steering.
++ V,,and
+| will move my hand from thrust to yoke.
++ V,,and
+| will rotate.
+In the event of engine failure at or after V,, | will continue the
+takeoff roll to V,, rotate and establish V, climb speed. | will
+identify the inoperative engine, and we will both verify.
+accomplish the shutdown, or have you do it on my command.
+| will expect you to stand by on the appropriate emergency
+checklist.
+| will give you a visual and oral signal for gear retraction and
+for power settings after the takeoff.
+Our VFR emergency Procedure iS tO.....sssccsseesssceseeseee
+Our IFR emergency Procedure iS tO......sesscssssescersneesees
+Figure 16-12. Sample captain’s briefing.
 A captain’s briefing is an essential part of crew resource management (CRM) procedures and should be accomplished prior to
 takeoff. [Figure 16-12]
-Figure 16-12. Sample captain’s briefing.
 16-13
+| will
 
 If sufficient runway length is available, a “rolling” takeoff may be made without stopping at the end of the runway. Using this
 procedure, as the airplane rolls onto the runway, the thrust levers should be smoothly advanced to the recommended intermediate
@@ -378,12 +699,63 @@ command) makes the decision to continue or reject a takeoff for any reason. A de
 retarding of thrust levers.
 The takeoff and climb-out should be accomplished in accordance with a standard takeoff and departure profile developed for the
 particular make and model airplane. [Figure 16-13]
+Normal Takeoff
+ced
+Rollout:
+¢ V,+20 minimum
+ee,
+¢ Set climb
+L100)
+J
+° Accelerate
+Ge =
+° Retract flaps
+———
+Straight climbout:
+¢ Complete after-takeoff climb checklist
+* V,+10 knots
+.
+e Retract flaps
+¢ Set climb thrust
+¢ Complete
+after-takeoff
+Close-in turn maintain:
+climb checklist
+e Flaps T.O. & Appr.
+¢ V,+20 knots
+¢ Maximum bank 30°
+:
+—
+*
+¢ Minimum
+SaSe
+©
+Altitude selected to
+—_ a
+Queso.=
+e Ss ee aa
+(400 ft. FAA maintain)
+=
+V,+10 knots
+flap retraction
+,
+SS a
+(or obstacle clearance
+altitude)
+¢ Set takeoff thrust prior
+° VV,
+¢ Positive rate of climb
+to 60 knots
+¢ Rotate smoothly
+¢ Gear up
+¢ 70 knots check
+to 10° nose up
+Figure 16-13. Sample takeoff and departure profile.
 The pilot not flying should call out V1. After passing V1 speed on the takeoff roll, it is no longer mandatory for the pilot flying to
 keep a hand on the thrust levers. The point for abort has passed, and both hands may be placed on the control wheel. As the airspeed
 approaches VR, the control column should be moved to a neutral position. As the pre-computed VR speed is attained, the pilot not
 flying should make the appropriate call-out, and the pilot flying should smoothly rotate the airplane to the appropriate takeoff pitch
 attitude.
-Figure 16-13. Sample takeoff and departure profile.
 16-14
 
 Rejected Takeoff
@@ -511,8 +883,13 @@ Descent Planning
 For a typical idle power descent, the top of descent (TOD), point A in figure 16-14, is determined by altitude, adjusted for wind. Jet
 descent profiles normally approximate a 3 degree path, with some time/distance required for deceleration in level flight. While exact
 distances will vary, having a descent plan will put the pilot well ahead of the jet and in a better position to monitor the automation.
+A
+c
+10,000 feet MSL--------S
+3,000 or 1,500 feet above field elevation------""8
 Figure 16-14. Typical descent profile.
 16-17
+Dog
 
 For a straight-in VFR approach to an airport without factoring wind, an estimate for TOD may be calculated by multiplying the
 planned descent (in thousands of feet) by 3 and adding any distance needed for speed reductions in level flight (losing about 10 KIAS
@@ -565,6 +942,7 @@ shallower descent path. The 300-knot descent allows staying at altitude longer, 
 slow to 250 knots. The jet that descended at 300 knots arrives first at point Y but burns more fuel. While not depicted, an inefficient
 descent plan would start the descent at point X, maintain 300 knots, and require power to maintain that airspeed on a shallow descent
 path.
+x
 Descending prior to the planned TOD point will increase time to destination and fuel consumption. When given a descent clearance
 prior to the planned TOD, it is acceptable to ask ATC if the descent can be done at the pilot’s discretion. If authorized to do so, this
 option allows for maintaining speed and altitude until reaching the calculated top of descent point. If an immediate descent is
@@ -582,7 +960,22 @@ determine the actual expected landing requirement based on the FAA-approved data
 pilots normally add a 40% cushion for landing on a dry runway. Dividing the usable runway length by 1.67 should give a number
 equal to or greater than the landing distance calculated from AFM data. For a wet runway, the distance should be increased by an
 additional 15%. [Figure 16-16]
+50 ft
+|
+Y
 Figure 16-15. Effect of speed on descent path.
+Veer = 1.3 V,
+TD
+aw
+W
+‘
+Tr
+1000 eecceajenea8 <a8
+—__——
+_—
+—
+—
+—
 Figure 16-16. FAR landing field length required.
 16-19
 
@@ -610,6 +1003,70 @@ maneuvering in the traffic pattern prior to slowing to the final approach target
 calculated for every landing and posted where they are visible to both pilots.
 The approach and landing sequence in a jet airplane should be accomplished in accordance with an approach and landing profile
 developed for the particular airplane. [Figure 16-17]
+Abeam runway midpoint
+_
+Abeam
+i
+s
+¢ Flaps T/O approach
++ Gear down
+touchdown point
+—
+° Veep +20 minimum
+————|
+f
+=
+1,500' above
+Ze
+field elevation
+So
+/
+Turning base
+¢ Flaps land
+e Reduce power as recommended in
+oo
+fw
+¢
+the landing profile
+y*
+Start descent
+/
+Touchdown
+© Voge +10 minimum
+il
+¢ Extend speed brake
+~=ae
+os
+¢ Apply brakes
+¢ Thrust reverser as
+\
+'
+bY
+required
+—_
+Wu
+Se
+—— Ty
+DO NOT MAKE
+<=,
+FLAT APPROACH
+¢ Complete before landing checklist
+yaar
+1.
+Reset bu
+;
+°
+.
+gto V,
+; Maxima bank 30 h
+° Reduce speed to V..
+2. Review airport ‘reneaarnaltes
+°
+SA RSee
+° Altitude callouts
+3. Complete descent and begin
+* Stabilized in slot
+before landing checklist
 Figure 16-17. Typical approach and landing profile.
 16-20
 
@@ -665,6 +1122,12 @@ descent rate. Typical descent rates fall between 500 and 700 feet per minute. An
 may indicate a problem with the approach.
 Every approach should be evaluated at 500 feet. In a typical jet airplane, this is approximately 1 minute from touchdown. If the
 approach is not stabilized at that height, a go-around should be initiated. [Figure 16-18]
+ae eunne(ceucuusccee
+—_—
+La
+——
+-
+_
 Approach Speed
 Any speed deviation on final approach should be detected immediately and corrected. With experience, the pilot is able to detect the
 onset of an increasing or decreasing airspeed trend, which normally can be corrected with a small adjustment. It is imperative the pilot
@@ -687,6 +1150,11 @@ approach. It also may occur during a nonprecision instrument approach where the 
 threshold. Regardless of the cause, excessive height over the threshold most likely results in a touchdown beyond the normal aiming
 point. An extra 50 feet of height over the threshold adds approximately 1,000 feet to the landing distance. The airplane should arrive
 at the approach threshold window exactly on altitude (50 feet above the runway).
+500' window
+Threshold
+=
+window
+Flare
 Figure 16-18. Stabilized approach.
 16-22
 
@@ -707,6 +1175,32 @@ hundreds or even thousands of feet of runway may be used up. [Figure 16-19] The 
 attitude, which may lead to a tail strike. It is, therefore, essential to fly the airplane onto the runway at the target touchdown point,
 even if the speed is excessive. A deliberate touchdown should be planned and practiced on every flight. A positive touchdown helps
 prevent an extended flare.
+Touchdown
+on target
+_
+Rrassecenaenues -
+10 Knots deceleration
+=
+-
+on ground (maximum braking)
+—
+Tocsugueacaonene an
+I TeTraaaratejseass <a
+me
+Extended
+flare
+~~
+Ggssaasecae
+—=
+’
+10 Knots deceleration in flare
+;
+a
+—_
+_
+as =
+;
+Te. Tausssoae
 Figure 16-19. Extended flare.
 16-23
 

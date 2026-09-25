@@ -1,12 +1,16 @@
 Chapter 6
 Multiengine Aircraft
+Weight
 Weight and Balance
 Computations
+Computations
+|
 Introduction
 Weight and balance computations for small multiengine
 airplanes are similar to those discussed for single-engine
 airplanes. See Figure 6-1 for an example of weight and
 balance data for a typical light twin-engine airplane.
+and Balnce
 6-1
 
 Weight with fuel drained and oil full:
@@ -61,6 +65,11 @@ CG limits
 Datum
 32.0
 43.6
+ee
+{
+a
+{
+a
 EWCG 35.28
 100 lb baggage −15
 Front seats +37
@@ -70,12 +79,19 @@ Fuel +61
 MAC = 61.6
 20.1
 Figure 6-2. Twin-engine airplane weight and balance diagram.
+oT
+oT
+oT
+Sd
 =
 x
 Item
 Weight (lb) (5,200 max.)
 Arm (in)
 Moment (lb-in)
+CG
+-
+-
 35.28
 3,404
 Airplane
@@ -98,10 +114,9 @@ Aft baggage
 5,064
 Total
 215,093
+42.47
 Figure 6-3. Determining the loaded CG of the sample airplane in Figure 6-2.
 6-2
-CG
-42.47
 
 The loaded weight for this fl ght is 5,064 pounds, and the CG
 The Chart Method Using Weight and Moment
@@ -164,6 +179,7 @@ representing the CG location in inches aft of the datum. When
 the lines cross inside the envelope, the aircraft is loaded
 Use the formula in Figure 6-5 to findthe CG in percent MAC.
 within its weight and CG limits.
+S
 Takeoff: – 3,781 lb and 4,296 moment divided by 100
 CG in inches from LEMAC x 100
 =

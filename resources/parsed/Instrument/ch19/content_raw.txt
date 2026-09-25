@@ -2,6 +2,7 @@ Chapter 7, Section II
 Airplane Basic
 Flight Maneuvers
 Using an Electronic Flight Display
+So
 Introduction
 The previous chapters have laid the foundation for instrument
 flying. The pilot’s ability to use and interpret the information
@@ -26,36 +27,64 @@ instrument takeoff, all flight maneuvers can be performed on
 
 Straight-and-Level Flight
 Pitch Control
+\
 5°
 The pitch attitude of an airplane is the angle between the
 longitudinal axis of the airplane and the actual horizon.
+\
 In level flight, the pitch attitude varies with airspeed and
 4°
 load. For training purposes, the latter factor can normally
+es
 be disregarded in small airplanes. At a constant airspeed,
+\
 there is only one specific pitch attitude for level flight. At
 3°
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+J
+J
 NAV2 108.00 110.60
 123.800 118.000 COM2
 slow cruise speeds, the level flight attitude is nose-high with
+.-
 indications as in Figure 7-47; at fast cruise speeds, the level
+eo]
+Oo
+a
 18.0
+\
 flight attitude is nose-low. [Figure 7-48] Figure 7-49 shows
 2°
 the indications for the attitude at normal cruise speeds.
+oO
+oO
 270°
 13.7
+\
+I
 TAS 120KT
 1°
 VOR 1
+oO
+i
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
+‘ey
+oO
+-
+a
+-s
+Figure 5-49. Pitch Attitude and Airspeed in Level Flight, Normal Cruise Speed.
 Figure 7-49. Various pitch attitudes (right), aircraft shown in
+j
+|
 level flight.
+-
+-
+-
 The instruments that directly or indirectly indicate pitch on
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
@@ -64,29 +93,49 @@ NAV2 108.00 110.60
 123.800 118.000 COM2
 Attitude indicator
 the primary flight display (PFD) are the attitude indicator,
+‘\
 Altimeter indicator
 Airspeed indicator
 altimeter, vertical speed indicator (VSI), airspeed indicator
+oO
+Oo
+i
+i
 18.0
 Vertical speed indicator
 (ASI), and both airspeed and altitude trend indicators.
+oO
+oO
 Altitude trend vector
 Airspeed trend vector
 Attitude Indicator
 270°
 13.7
+-
 TAS 106KT
 The attitude indicator gives the pilot a direct indication of
 VOR 1
 the pitch attitude. The increased size of the attitude display
 on the EFD system greatly increases situational awareness
+e]
+>
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 for the pilot. Most attitude indicators span the entire width
 ALERTS
+oO
+oO
+J
+i
+-.
 of the PFD screen.
+Figure 5-47. Pitch Attitude and Airspeed in Level Flight, Slow Cruise Speed.
 Figure 7-47. Pitch attitude and airspeed in level flight, slow
 cruise speed.
+O
+Ge]
+f
+_
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
@@ -98,29 +147,76 @@ NAV2 108.00 110.60
 NAV2 108.00 110.60
 123.800 118.000 COM2
 MAP - NAVIGATION MAP
+~~
+o
+o
+Oo
+-
+oO
+J
+/
+>
+Oo
+oO
+oO
+o
+Se
 270°
+-
+-
+'
 TAS 135KT
 VOR 1
+|
+|
+i's}
+—
+—
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ENGINE
 MAP
 DCLTR
 ALERTS
+Co
+Co
+oO
+Oo
+-
+oe
+nl
+wt
+~*~
+»
+»~
+»
+~*~
+rey
 Figure 7-48. Pitch attitude decreasing and airspeed increasing—indicates need to increase pitch.
+Figure 5-48. Pitch Attitude and Airspeed in Level Flight, Fast Cruise Speed.
 7-34
 
 The aircraft pitch attitude is controlled by changing the
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+°o
+-
+Oo
 deflection of the elevator. As the pilot pulls back on the
 NAV2 108.00 110.60
 123.800 118.000 COM2
+\
 control yoke causing the elevator to rise, the yellow chevron
+oO
+oO
+_
 18.0
 begins to show a displacement up from the artificial horizon
 line. This is caused by the AHRS unit sensing the changing
+oO
+>
+oO
 angle between the longitudinal plane of the earth and the
 longitudinal axis of the aircraft.
 270°
@@ -134,8 +230,11 @@ XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 the pilot must rely on the artificial horizon of the PFD screen.
 ALERTS
+oO
+oO
 During normal cruise airspeed, the point of the yellow
 Figure 7-51. Pitch illustrated at 10°.
+Figure 5-51. Pitch Correction for Level Flight, three-bar width.
 chevron (aircraft symbol) is positioned on the artificial
 and precisely manipulate the elevator control forces in order
 horizon. Unlike conventional attitude indicators, the EFD
@@ -168,20 +267,36 @@ The last step in mastering elevator control is trim. Trimming
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+=
+et
+>
+oO
+-
 NAV2 108.00 110.60
 123.800 118.000 COM2
 the aircraft to relieve any control pressures is essential
 4°
+\
 for smooth attitude instrument flight. To accomplish this,
+oO
+oO
+=
+-
+-
 18.0
 momentarily release the control yoke. Note which way the
 3°
 aircraft pitch attitude wants to move. Grasp the control yoke
+=
+oO
+>
+oO
 2°
 again and then reapply the pressure to return the attitude to the
 previous position. Apply trim in the direction of the control
 270°
 13.7
+=
 1°
 TAS 120KT
 pressure. Small applications of trim make large changes in
@@ -192,6 +307,10 @@ XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
 Once the aircraft is in trim, relax on the control yoke as
+oO
+oO
+-
+_
 much as practicable. When pressure is held on the yoke,
 Figure 7-50. Pitch indications for various attitudes (1° through 5°).
 unconscious pressures are applied to the elevator and ailerons,
@@ -394,35 +513,9 @@ roll scale always remains in the same position relative to
 the horizon line.
 7-37
 
-Roll scale zero
-Horizon line
-Aircraft symbol
-Figure 7-52. Attitude indicator.
-0°
-30°
-45°
-60°
-90°
-Figure 7-53. Attitude indicator showing a 15° left bank.
-The roll pointer indicates the direction and degree of bank.
-[Figure 7-53] The roll pointer is aligned with the aircraft
-symbol. The roll pointer indicates the angle of the lateral axis
-of the aircraft compared to the natural horizon. The slip/skid
-indicator will show if the longitudinal axis of the aircraft is
-aligned with the relative wind, which is coordinated flight.
-With the roll index and the slip/skid indicator aligned, any
-deflection, either right or left of the roll index causes the
-aircraft to turn in that direction. With the small graduations
-on the roll scale, it is easy to determine the bank angle within
-approximately 1 degree. In coordinated flight, if the roll
-index is aligned with the roll pointer, the aircraft is achieving
-straight flight.
-An advantage of EFDs is the elimination of the precession
-error. Precession error in analog gauges is caused by forces
-being applied to a spinning gyro. With the new solid state
-instruments, precession error has been eliminated.
-7-38
 Since the attitude indicator is capable of showing precise
+i
+Roll scale zero
 Roll scale
 pitch and bank angles, the only time that the attitude indicator
 is a primary instrument is when attempting to fly at a specific
@@ -434,35 +527,70 @@ Slip/Skid indicator
 The horizontal situation indicator (HSI) is a rotating 360°
 Pitch scale
 compass card that indicates magnetic heading. The HSI is the
+Horizon line
 only instrument that is capable of showing exact headings. The
 magnetic compass can be used as a backup instrument in case
 of an HSI failure; however, due to erratic, unstable movements,
 it is more likely to be used a supporting instrument.
+Aircraft symbol
 In order for the pilot to achieve the desired rate of change,
 it is important for him or her to understand the relationship
 between the rate at which the HSI changes heading displays
 and the amount of bank angle required to meet that rate of
+Figure 7-52. Attitude indicator.
+Figure 5-53. Attitude Indicator.
 change. A very small rate of heading change means the bank
 angle is small, and it takes more time to deviate from the
+0°
 desired straight flightpath. A larger rate of heading change
+30°
 means a greater bank angle happens at a faster rate.
+45°
 Heading Indicator
+60°
 The heading indicator is the large black box with a white
+90°
 number that indicates the magnetic heading of the aircraft.
 [Figure 7-54] The aircraft heading is displayed to the nearest
 degree. When this number begins to change, the pilot should
+Da|
 be aware that straight flight is no longer being achieved.
+_-—
+“>
+Figure 7-53. Attitude indicator showing a 15° left bank.
++
+Figure 5-52. Bank Interpretation with the Attitude Incicator.
+The roll pointer indicates the direction and degree of bank.
 Slip/Skid indicator
+[Figure 7-53] The roll pointer is aligned with the aircraft
+symbol. The roll pointer indicates the angle of the lateral axis
 270°
+of the aircraft compared to the natural horizon. The slip/skid
 270°
+“>
+indicator will show if the longitudinal axis of the aircraft is
+aligned with the relative wind, which is coordinated flight.
 Turn rate indicator
+With the roll index and the slip/skid indicator aligned, any
 VOR 1
+deflection, either right or left of the roll index causes the
 Turn rate trend vector
+aircraft to turn in that direction. With the small graduations
+on the roll scale, it is easy to determine the bank angle within
+approximately 1 degree. In coordinated flight, if the roll
+Figure 5-54. Slip/Skid & Turn Rate Indication.
+index is aligned with the roll pointer, the aircraft is achieving
 Figure 7-54. Slip/skid and turn rate indicator.
+straight flight.
 Turn Rate Indicator
+An advantage of EFDs is the elimination of the precession
 The turn rate indicator gives an indirect indication of bank.
+error. Precession error in analog gauges is caused by forces
 It is a magenta trend indicator capable of displaying half-
+being applied to a spinning gyro. With the new solid state
 standard as well as standard rate turns to both the left and
+instruments, precession error has been eliminated.
+7-38
 
 right. [Figure 7-54] The turn indicator is capable of indicating
 turns up to 4 degrees per second by extending the magenta
@@ -514,24 +642,43 @@ and power must be coordinated in order to maintain constant
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+o
+J
+Oo
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+oO
+-
 23.0
+oO
+>
+Oo
 270°
 13.7
 TAS 100KT
 VOR 1
+344000ALERTS0
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
+oO
+oO
 Figure 7-55. An aircraft decreasing in airspeed while gaining
 altitude. In this case, the pilot has decreased pitch.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+°o
+J
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+oO
 23.0
+oO
+J
+oO
 4075 200
 270°
 13.7
@@ -543,6 +690,8 @@ XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 4000 200
 ALERTS
+ie}
+oO
 Figure 7-56. Figure shows both an increase in speed and altitude
 where pitch adjustment alone is insufficient. In this situation, a
 reduction of power is also necessary.
@@ -568,121 +717,185 @@ common procedure is to underpower or overpower on initial
 7-39
 
 power changes to accelerate the rate of airspeed change. (For
-small speed changes, or in airplanes that decelerate or accelerate
-rapidly, overpowering or underpowering is not necessary.)
-Consider the example of an airplane that requires 23 inches
-of mercury ("Hg) to maintain a normal cruising airspeed of
-120 knots, and 18 "Hg to maintain an airspeed of 100 knots.
-The reduction in airspeed from 120 knots to 100 knots while
-maintaining straight-and-level flight is discussed below and
-illustrated in Figures 7-57, 7-58, and 7-59.
-Instrument indications, prior to the power reduction, are
-shown in Figure 7-57. The basic attitude is established and
-maintained on the attitude indicator. The specific pitch,
-bank, and power control requirements are detected on these
-primary instruments:
-Altimeter—Primary Pitch
-Heading Indicator—Primary Bank
-Airspeed Indicator—Primary Power
-Supporting pitch and bank instruments are shown in
-Figure 7-57. Note that the supporting power instrument is
-the manifold pressure gauge (or tachometer if the propeller
-is fixed pitch). However, when a smooth power reduction to
-approximately 15 "Hg (underpower) is made, the manifold
-pressure gauge becomes the primary power instrument.
-[Figure 7-58] With practice, power setting can be changed
-with only a brief glance at the power instrument, by sensing
-the movement of the throttle, the change in sound, and the
-changes in the feel of control pressures.
-Supporting pitch and bank
-Supporting power
-Primary power
-Primary bank
-Figure 7-57. Straight-and-level flight (normal cruising speed).
-7-40
 As the thrust decreases, increase the speed of the cross-check
+small speed changes, or in airplanes that decelerate or accelerate
 and be ready to apply left rudder, back-elevator, and aileron
+rapidly, overpowering or underpowering is not necessary.)
 control pressure the instant the pitch and bank instruments
 show a deviation from altitude and heading. As proficiency
+Consider the example of an airplane that requires 23 inches
 is obtained, a pilot will learn to cross-check, interpret, and
+of mercury ("Hg) to maintain a normal cruising airspeed of
 control the changes with no deviation of heading and altitude.
+120 knots, and 18 "Hg to maintain an airspeed of 100 knots.
 Assuming smooth air and ideal control technique, as airspeed
+The reduction in airspeed from 120 knots to 100 knots while
 decreases, a proportionate increase in airplane pitch attitude
+maintaining straight-and-level flight is discussed below and
 is required to maintain altitude. Similarly, effective torque
+illustrated in Figures 7-57, 7-58, and 7-59.
 control means counteracting yaw with rudder pressure.
+Instrument indications, prior to the power reduction, are
 As the power is reduced, the altimeter is primary for
+shown in Figure 7-57. The basic attitude is established and
 pitch, the heading indicator is primary for bank, and the
+maintained on the attitude indicator. The specific pitch,
 manifold pressure gauge is momentarily primary for power
+bank, and power control requirements are detected on these
 (at 15 "Hg in Figure 7-58). Control pressures should be
+primary instruments:
 trimmed off as the airplane decelerates. As the airspeed
 approaches the desired airspeed of 100 knots, the manifold
+Altimeter—Primary Pitch
 pressure is adjusted to approximately 18 "Hg and becomes
+Heading Indicator—Primary Bank
 the supporting power instrument. The ASI again becomes
+Airspeed Indicator—Primary Power
 primary for power. [Figure 7-59]
 Airspeed Changes in Straight-and-Level Flight
+Supporting pitch and bank instruments are shown in
+Figure 7-57. Note that the supporting power instrument is
 Practice of airspeed changes in straight-and-level flight
+the manifold pressure gauge (or tachometer if the propeller
 provides an excellent means of developing increased
+is fixed pitch). However, when a smooth power reduction to
 proficiency in all three basic instrument skills and brings
+approximately 15 "Hg (underpower) is made, the manifold
 out some common errors to be expected during training
+pressure gauge becomes the primary power instrument.
 in straight-and-level flight. Having learned to control the
+[Figure 7-58] With practice, power setting can be changed
 airplane in a clean configuration (minimum drag conditions),
+with only a brief glance at the power instrument, by sensing
 increase proficiency in cross-check and control by practicing
+the movement of the throttle, the change in sound, and the
 speed changes while extending or retracting the flaps and
+changes in the feel of control pressures.
 landing gear. While practicing, be sure to comply with the
+Supporting pitch and bank
 Primary pitch
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 134.000 118.000 COM1
 123.800 118.000 COM2
+Oo
+a
+es}
+,
 Supporting pitch
+Oo
+‘e]
+a
+_
+Supporting power
 23.0
+=
+a
+Oo
+ie)
+>
+a
+Primary power
 270°
 13.7
+Primary bank
+a
 TAS 106KT
 OAT 7°C
 Supporting bank
 VOR 1
+oO
+‘e]
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+a
+a
+,
+,
+,
+,
+,
+,
+,
+,
+,
+=
+-
+-
+Figure 5-13. Straight-and-level flight (normal cruising speed).
+Figure 7-57. Straight-and-level flight (normal cruising speed).
+7-40
 
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 Primary pitch
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oO
+oO
+J
+i
 NAV2 108.00 110.60
 123.800 118.000 COM2
+(e}
+Oo
+a
+a
 15.0
 Primary
 power
+Jf
 as throttle
 is set
+oO
+(e}
+>
+-
+.
 270°
 13.7
+a
 TAS 100KT
 VOR 1
 Primary bank
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
+oO
+oO
 Primary power as
+a
+a
 A/S approaches
 desired value
+Figure 5-58. Power Control - Straight and level flight (airspeed decreasing).
 Figure 7-58. Straight-and-level flight (airspeed decreasing).
 Primary pitch
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
 Primary power
+oO
+oO
+J
+i
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+fe}
+a
+a
 18.0
 Supporting
 power
+oO
+(e}
+J
+,
+|
 270°
 13.7
 TAS 100KT
@@ -691,6 +904,11 @@ Primary bank
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
+oO
+oO
+a
+a
+Figure 5-59. Power Control - Straight and level flight (reduced airspeed stabilized).
 Figure 7-59. Straight-and-level flight (reduced airspeed stabilized).
 7-41
 
@@ -753,16 +971,52 @@ and-level flight at 95 knots.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+-
+oO
+_
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+|
+oO
+oO
+_
+J
 23.0
+aA
+<
+<
+@
+>
+=
+=
+v
+oO
+oO
+>
+ri
+v
 13.7
 270°
+vy
+J
 TAS 100KT
 VOR 1
+y
+Z
+,
+,
+-
+,
 XPDR 5537 IDNT LCL23:00:34
+oO
+oO
 ALERTS
+a
+>
 Figure 7-60. Cross-check supporting instruments.
+Figure 5-60. Cross-check supporting instruments.
 7-42
 
 Trim Technique
@@ -817,17 +1071,53 @@ stabilize at 100 knots.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+a
+oO
+a
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+|
+|
+(e)
+a
+_
+oO
+_
+>
 18.0
+<
+<
+@
+>
+=
+=
+v
+oO
+Oo
+J
+ri
+P 4
+v
 270°
 13.7
 270°
+vy
+a
 TAS 100KT
 VOR 1
+,
+Zz
+,
 XPDR 5537 IDNT LCL23:00:34
+oO
+oO
 ALERTS
+a
+>
 Figure 7-61. Insufficient cross-check. The problem is power and not nose-high. In this case, the pilot decreased pitch inappropriately.
+Figure 5-61. Insufficient cross-check
 7-43
 
 Example: The airspeed indication is low. The pilot,
@@ -940,16 +1230,47 @@ with errors in corrective technique.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+Oo
+a
+Oo
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+oO
+>
+>
 23.0
+a
+<
+<
+@
+>
+=
+=
+oO
+oO
+>
+ri
 13.7
 270°
+_
 TAS 100KT
 VOR 1
+,
+,
+,
+,
+,
+,
 XPDR 5537 IDNT LCL23:00:34
+oO
+oO
 ALERTS
+>
+i
 Figure 7-62. The pilot has fixated on pitch and altitude, leaving bank indications unattended. Note the trend line to the left.
+Figure 5-62. Fixation during cross-check
 9.
 Failure to note the cause of a previous heading error
 erratic control of airspeed, power, as well as pitch and
@@ -1036,32 +1357,57 @@ the aft control pressure and smoothly increase the power
 begin to show an immediate trend upward and stabilize on a
 to the climb power setting. This increase in power may be
 23.0
+a
 Before procedure
 Current procedure
+—
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+dj
+oO
+a
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+y
+(oe)
+a
+oO
+>
+>
 25.0
 Primary
 power
+oO
+oO
+>
+ss
 Primary pitch
 270°
 13.7
+>
 TAS 126KT
 OAT 6°C
 VOR 1
+,
 Primary bank
+sz
+Z
 XPDR 5537 IDNT LCL10:12:34
+oO
+Oo
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+-
+>
+Figure 5-19. Constant airspeed climb from cruise airspeed
 Figure 7-63. Constant airspeed climb from cruise airspeed.
 7-46
 
@@ -1096,32 +1442,56 @@ smoothly apply elevator pressure to raise the yellow chevron
 23.0
 Before procedure
 Current procedure
+—
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
 Primary pitch
+dj
 Supporting pitch and bank
+oO
+oO
+a
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+oO
+>
+I
 18.0
 Supporting
 power
+Oo
+(e)
+J
+ri
 Primary power
 270°
 13.7
+>
 TAS 106KT
 OAT 6°C
 VOR 1
+,
+,
 Primary bank
+,
+,
+Za
+,
 XPDR 5537 IDNT LCL10:12:34
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+oO
+oO
+>
+_
 Figure 7-64. Constant airspeed climb from established airspeed.
 7-47
 
@@ -1172,38 +1542,59 @@ power settings for the aircraft aids in achieving precise
 airspeed trend indicator can assist by showing how quickly
 attitude instrument flying.
 the aircraft will arrive at the desired speed.
+a
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 Supporting pitch until
 NAV1 108.00 113.00
 134.000 118.000 COM1
 Supporting pitch and bank
+oO
+a
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
 desired vertical speed
 is achieved, then it
 becomes the primary
 instrument for pitch.
+oO
+oO
+>
+>
 23.0
+a
+oO
+oO
+>
+i
 Primary for pitch until
 270°
 13.7
 desired vertical speed
 is achieved. Then
+>
 airspeed becomes
 TAS 116KT
 OAT 6°C
 primary for power.
 VOR 1
+sz
 Primary bank
+,
+,
 XPDR 5537 IDNT LCL10:12:34
+[e)
+[e)
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+i
+>
 Figure 7-65. Constant rate climbs.
 7-48
 
@@ -1237,31 +1628,58 @@ indicator (such as in partial panel flight), the ASI tape, the
 desired airspeed while maintaining straight-and-level flight.
 VSI tape, and the altimeter tape shows changing values until
 As the aircraft approaches the desired airspeed, reduce the
+ee
+\
 18.0
+/
 Before procedure
 Current procedure
+—
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+dj
+.
+oO
+oO
+a
+_
 NAV2 108.00 110.60
 123.800 118.000 COM2
+Oo
+oO
+_
+>
 23.0
+Pa
 -200
+oO
+Oo
+>
+a
 270°
 13.7
+J
 TAS 116KT
 OAT 6°C
 VOR 1
+,
+Zs
+,
 XPDR 5537 IDNT LCL10:12:34
+oO
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+oO
+_
+>
 Figure 7-66. The top image illustrates a reduction of power and descending at 500 fpm to an altitude of 5,000 feet. The bottom image
+Figure 5-22. Level-off airspeed higher than descent airspeed.
 illustrates an increase in power and the initiation of leveling off.
 7-49
 
@@ -1469,31 +1887,57 @@ instrument during the turn is the turn rate indicator;
 however, the bank angle varies slightly. With an
 7-51
 
+is determining when to start the roll-out process. For example:—
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 Primary bank initially
 NAV1 108.00 113.00
 134.000 118.000 COM1
 Primary pitch
+ij
+ie]
+oO
+a
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
 supporting pitch
 Supporting pitch
+oO
+(e)
+>
+J
+—a
+‘e]
+oO
+I
+s
 Primary power
 305°
+_
 TAS 126KT
 OAT 6°C
 Primary bank as turn is established
 VOR 1
+,
+,
 Primary bank
+,
+,
+,
+,
 XPDR 5537 IDNT LCL10:12:34
+oO
+oO
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+>
+J
+Figure 5-23. Standard rate turn constant airspeed.
 Figure 7-67. Standard rate turn—constant airspeed.
 aggressive cross-check, a pilot should be able to
 EFDs allow the pilot to better utilize all instrumentation during
@@ -1536,7 +1980,6 @@ Turning the aircraft is one of the most basic maneuvers that a
 pilot learns during initial flight training. Learning to control
 With this in mind and the angle of bank calculated, the next step
 the aircraft, maintaining coordination, and smoothly rolling
-is determining when to start the roll-out process. For example:
 out on a desired heading are all keys to proficient attitude
 instrument flying.
 7-52
@@ -1657,29 +2100,49 @@ there comes a point where the loss of the vertical component
 of lift and aerodynamic wing loading prohibits the nose of
 the aircraft from being raised. Any increase in pitch only
 tightens the turning radius.
+Peeeeeseses—‘—i—sSSSSSsSSSCiSYd;s
 The key to successfully performing a steep turn by reference
+-
+-
+-
 to instruments alone is the thorough understanding of the
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 aerodynamics involved, as well as a quick and reliable cross-
 NAV1 108.00 113.00
 134.000 118.000 COM1
+‘NX
 NAV2 108.00 110.60
 123.800 118.000 COM2
 check. The pilot should utilize the trim to avoid holding
+oO
+oO
+-
+a
 control forces for any period of time. With time and practice,
 a flight instructor can demonstrate how to successfully fly
+oO
+Ss
+oO
 steep turns with and without the use of trim. Once the aircraft
 -1500
 270°
 is trimmed for the maneuver, accomplishing the maneuver is
+-
 TAS 126KT
 virtually a hands-off effort. This allows additional time for
 VOR 1
 cross-checking and interpreting the instruments.
+oO
+J
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 It is imperative when correcting for a deviation in altitude,
 ALERTS
+oO
+oO
+-
+_
+- -
 that the pilot modify the bank angle ±5° in order to vary the
 Figure 7-68. Steep left turn.
 vertical component of lift, not just adjust back pressure. These
@@ -1787,130 +2250,190 @@ displays red chevrons that point back to the horizon line. These
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oO
+oO
+i
+>
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+(e)
+a
+oO
+oO
+J
+a
+|
 GPS ENR
+oO
+oO
 ALERTS
+a
 Figure 7-69. Unusual attitude recovery protection. Note the brown horizon line is visible at the bottom.
 7-55
 
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+oOo
+oO
+-
+-
+NAV2 108.00 110.60
+123.800 118.000 COM2
+oO
+oO
+a
+oO
+oO
+J
+a
+|
+-7150
+GPS ENR
+oO
+oO
+ALERTS
+a
+,
 Figure 7-70. Horizon line starts moving upward at 27°. Note that the blue sky remains visible at 17° nose-down.
+Figure 5-27. Horizon line starts moving upward at approximately 27 deg pitch down.
 chevrons are positioned at 50° up on the attitude indicator.
+The following picture series represents how important this
 The chevrons appear when the aircraft approaches a nose-high
+technology is in increasing situational awareness, and how
 attitude of 30°. The software automatically declutters the PFD
+critical it is in improving safety.
 leaving only airspeed, heading, attitude, altimeter, VSI tape,
 and the trend vectors. The decluttered information reappears
+Figure 7-72 shows the unusual attitude protection with valid
 when the pitch attitude falls below 25°.
+AHRS and air data computer (ADC) inputs. The bright red
+chevrons pointing down to the horizon indicate a nose-high
 For nose-low unusual attitudes, the chevrons are displayed
+unusual attitude that can be easily recognized and corrected.
 when the pitch exceeds 15° nose-down. If the pitch continues
 to decrease, the unusual attitude recovery protection de-
+NOTE: The red chevrons point back to the level pitch attitude.
 clutters the screen at 20° nose-down. The decluttered
+The trend indicators show where the airspeed and altitude will
 information reappears when the pitch increases above 15°.
+be in 6 seconds. The trend indicator on the heading indicator
+shows which direction the aircraft is turning. The slip/skid
 Additionally, there are bank limits that trigger the unusual
+indicator clearly shows if the aircraft is coordinated. This
 attitude protection. If the aircraft’s bank increases beyond
+information helps the pilot determine which type of unusual
 60°, a continuation of the roll index occurs to indicate the
+attitude the aircraft has taken.
 shortest direction to roll the wings back to level. At 65°, the
 PFD de-clutters. All information reappears when the bank
+Now look at Figure 7-73. The display shows the same
 decreases below 60°.
+airspeed as the picture above; however, the AHRS unit has
+failed. The altimeter and the VSI tape are the only clear
 In Figure 7-71, the aircraft has rolled past 60°. Observe the
+indications that the aircraft is in a nose-high attitude. The
 white line that continues from the end of the bank index.
+one key instrument that is no longer present is the slip/skid
 This line appears to indicate the shortest distance back to
+indicator. There is not a standby turn coordinator installed
 wings level.
+in the aircraft for the pilot to reference.
 When experiencing a failure of the AHRS unit, all unusual
+The magnetic compass indicates a heading is being
 attitude protection is lost. The failure of the AHRS results
+maintained; however, it is not as useful as a turn coordinator
 in the loss of all heading and attitude indications on the PFD.
+or slip/skid indicator.
 In addition, all modes of the autopilot, except for roll and
 altitude hold, are lost.
 7-56
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-NAV2 108.00 110.60
-123.800 118.000 COM2
--7150
-GPS ENR
-ALERTS
-The following picture series represents how important this
-technology is in increasing situational awareness, and how
-critical it is in improving safety.
-Figure 7-72 shows the unusual attitude protection with valid
-AHRS and air data computer (ADC) inputs. The bright red
-chevrons pointing down to the horizon indicate a nose-high
-unusual attitude that can be easily recognized and corrected.
-NOTE: The red chevrons point back to the level pitch attitude.
-The trend indicators show where the airspeed and altitude will
-be in 6 seconds. The trend indicator on the heading indicator
-shows which direction the aircraft is turning. The slip/skid
-indicator clearly shows if the aircraft is coordinated. This
-information helps the pilot determine which type of unusual
-attitude the aircraft has taken.
-Now look at Figure 7-73. The display shows the same
-airspeed as the picture above; however, the AHRS unit has
-failed. The altimeter and the VSI tape are the only clear
-indications that the aircraft is in a nose-high attitude. The
-one key instrument that is no longer present is the slip/skid
-indicator. There is not a standby turn coordinator installed
-in the aircraft for the pilot to reference.
-The magnetic compass indicates a heading is being
-maintained; however, it is not as useful as a turn coordinator
-or slip/skid indicator.
 
-Figure 7-71. Aircraft rolled past 60°.
-Figure 7-72. Unusual attitude protection with valid AHRS.
+Figure 7-72. Unusual attitude protection with valid AHRS.y
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oO
+-
+Oo
+>
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+oO
+a
+_
+—
+oO
+oO
+J
+,
+.
 -700
+—
 -100
 -200
+a
+-300
 GPS ENR
+oO
+oO
 ALERTS
+a
+a
+,
+Figure 7-71. Aircraft rolled past 60°.
+Figure 5-28. Aircraft rolled past 60 degrees.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oO
+>
+oO
+af
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+oO
 ----
+a
+—
+oO
+(e}
+J
+,
+|
+-300
 GPS ENR
+—a
+oO
+(e)
 ALERTS
+a
+Zz
+Figure 5-29. Unusual attitude protection with valid AHRS and ADC inputs.
 7-57
 
-Figure 7-73. AHRS unit failed.
-Figure 7-74 depicts an AHRS and ADC failure. In this failure
-scenario, there are no indications of the aircraft’s attitude. The
-manufacturer recommends turning on the autopilot, which is
-simply a wing leveler.
-With a failure of the primary instrumentation on the PFD, the
-only references available are the standby instruments. The
-standby instrumentation consists of an analog ASI, attitude
-indicator, altimeter, and magnetic compass. There is no
-standby turn coordinator installed.
-In extreme nose-high or nose-low pitch attitudes, as well
-as high bank angles, the analog attitude indicator has the
-potential to tumble, rendering it unusable.
-Autopilot Usage
-The autopilot is equipped with inputs from a turn coordinator
-installed behind the MFD screen. This turn coordinator is
-installed solely for the use of the autopilot to facilitate the
-roll mode, which is simply a wing leveler. This protection
-is always available, barring a failure of the turn coordinator
-(to aid the pilot if the aircraft attains an unusual attitude).
-NOTE: The pilot is not able to gain access to the turn
-coordinator. This instrument is installed behind the MFD
-panel. [Figure 7-75]
-Most EFD equipped aircraft are coming from the factory with
-autopilots installed. However, the purchaser of the aircraft
-can specify if an autopilot is to be installed. Extreme caution
-7-58
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oOo
+oO
+-
+-
 NAV2 108.00 110.60
 123.800 118.000 COM2
 TRAFFIC
+oO
+oO
+a
 ATTITUDE FAIL
+oO
+oO
+J
+a
+|
 HDG
 HDG 273°
 CRS 071°
@@ -1918,43 +2441,81 @@ TAS 134KT
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+oO
+oO
+a
+,
+Figure 7-73. AHRS unit failed.
+Figure 5-30. AHRS unit failed.
+Figure 7-74 depicts an AHRS and ADC failure. In this failure
 should be utilized when flying an EFD equipped aircraft
+scenario, there are no indications of the aircraft’s attitude. The
 without an autopilot in IMC with an AHRS and ADC failure.
+manufacturer recommends turning on the autopilot, which is
+simply a wing leveler.
 The autopilot should be utilized to reduce workload, which
 affords the pilot more time to monitor the flight. Utilization
+With a failure of the primary instrumentation on the PFD, the
 of the autopilot also decreases the chances of entry into an
+only references available are the standby instruments. The
 unusual attitude.
+standby instrumentation consists of an analog ASI, attitude
+indicator, altimeter, and magnetic compass. There is no
 Flying an EFD-equipped aircraft without the use of an autopilot
+standby turn coordinator installed.
 has been shown to increase workload and decrease situational
 awareness for pilots first learning to flying the new system.
+In extreme nose-high or nose-low pitch attitudes, as well
+as high bank angles, the analog attitude indicator has the
 Common Errors Leading to Unusual Attitudes
+potential to tumble, rendering it unusable.
 The following errors have the potential to disrupt a pilot’s
 situational awareness and lead to unusual attitudes.
+Autopilot Usage
 1.
 Improper trimming techniques. A failure to keep the
+The autopilot is equipped with inputs from a turn coordinator
 aircraft trimmed for level flight at all times can turn
+installed behind the MFD screen. This turn coordinator is
 a momentary distraction into an emergency situation
+installed solely for the use of the autopilot to facilitate the
 if the pilot stops cross-checking.
+roll mode, which is simply a wing leveler. This protection
 2.
 Poor crew resource management (CRM) skills. Failure
+is always available, barring a failure of the turn coordinator
 to perform all single-pilot resource management
+(to aid the pilot if the aircraft attains an unusual attitude).
 duties efficiently. A major cause of CRM-related
 accidents comes from the failure of the pilot to
+NOTE: The pilot is not able to gain access to the turn
 maintain an organized flight deck. Items that are
+coordinator. This instrument is installed behind the MFD
 being utilized for the flight portion should be neatly
+panel. [Figure 7-75]
 arranged for easy access. A disorganized flight deck
 can lead to a distraction that causes the pilot to cease
+Most EFD equipped aircraft are coming from the factory with
 cross-checking the instruments long enough to enter
+autopilots installed. However, the purchaser of the aircraft
 an unusual attitude.
+can specify if an autopilot is to be installed. Extreme caution
+7-58
 
-Figure 7-74. AHRS ADC failure.
-Figure 7-75. This autopilot requires roll information from a turn coordinator.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oO
+Oo
+>
+J
 NAV2 108.00 110.60
 123.800 118.000 COM2
 TRAFFIC
+oO
+oO
+a
+a
 V
 A
 A
@@ -1980,6 +2541,11 @@ T
 I
 S
 I
+oO
+oO
+J
+a
+._
 E
 L
 U
@@ -1992,14 +2558,23 @@ E
 D
 E
 E
+—
 D
 HDG
 HDG 273°
 CRS 071°
+a
 TAS
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+oO
+oO
+a
+a
+Figure 7-74. AHRS ADC failure.
+Figure 5-31. AHRS and ADC failure.
+Figure 7-75. This autopilot requires roll information from a turn coordinator.
 7-59
 
 3.

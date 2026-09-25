@@ -253,15 +253,30 @@ To establish a balance, a total of 5,000 in-lb must be applied
 to the other end of the board. Any combination of weight
 and distance which, when multiplied, produces a 5,000 in-
 lb moment will balance the board. For example (illustrated
+—
 CG
 range
 Fwd limit
 Aft limit
 Datum
+|
+—
+ee
+|
+,
+|
+a
+—
+————————
+=
+—
+|
 ( – )
 ( + )
+rs
 Arm
 Arm
+>
 Moment = 700 in-lb
 ( + ) Arm 70"
 10 lb
@@ -273,6 +288,7 @@ Datum
 lb
 Fulcrum
 Moment = 5,000 in-lb
+a
 Wt x Arm = Moment
 (lb) x (in) = (in-lb)
 Note: The datum is assumed to be
@@ -305,10 +321,13 @@ Datum
 lb
 lb
 lb
+—
 Fulcrum
 2,500
 2,500
 5,000
+|
+|
 in-lb
 in-lb
 in-lb
@@ -445,8 +464,10 @@ Figure 10-6. Weight and balance data.
 10-7
 
 Load Moment/1,000 (kilogram-millimeters)
+y-
 Rear passengers
 62 gal***(234.7 liters)
+y
 Fuel (6 lb/gal; 0.72 kg/liter)
 60 gal (227.1 liters)
 Pilot & front passenger
@@ -458,6 +479,7 @@ Load Weight (pounds)
 30 gal (113.6 liters)
 20 gal (75.7 liters)
 Maximum Usable Fuel
+YT
 Baggage area 1 or
 passenger on child’s seat
 * Standard tanks
@@ -507,6 +529,8 @@ envelope, the aircraft is loaded within limits. In this sample
 and limitations are contained in tables provided by the
 loading problem, the aircraft is loaded within limits.
 manufacturer. Figure 10-9 is an example of a table and a
+BE
+/
 Occupants
 Minimum
 Maximum
@@ -522,6 +546,7 @@ Main Wing Tanks Arm 75
 2,057
 2,400
 1,848
+,
 Moment
 Moment
 2,065
@@ -557,18 +582,21 @@ FUEL TANK
 2,134
 2,490
 1,921
+eT
 2,143
 2,500
 1,932
 2,151
 2,510
 1,942
+ST
 2,160
 2,520
 1,953
 2,168
 2,530
 1,963
+———————
 2,176
 2,540
 1,974
@@ -576,6 +604,7 @@ SEATING AREA
 2,184
 2,550
 1,984
+———f
 2,192
 2,560
 1,995
@@ -596,9 +625,12 @@ OIL
 2,232
 2,610
 2,048
+-
 2,239
 2,620
 2,058
+pS
+-
 2,247
 2,630
 2,069
@@ -612,6 +644,7 @@ Moment
 Moment
 Baggage or 5th
 Weight
+™
 2,263
 2,650
 2,090
@@ -678,6 +711,7 @@ MOM/ 100 ~ 1,554
 2,180
 2,334
 1,679
+|
 2,740
 2,188
 1,877
@@ -725,6 +759,7 @@ CG Limit
 1,725
 2,800
 2,254
+OB
 82.1
 84.7
 2,950 lb (takeoff
@@ -753,6 +788,7 @@ or landing)
 1,748
 2,830
 2,287
+a
 1,954
 2,280
 2,413

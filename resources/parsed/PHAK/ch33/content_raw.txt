@@ -259,12 +259,32 @@ responsibility to see and avoid other aircraft. [Figure 14-44]
 In addition to basic radar service, terminal radar service
 14-26
 A
+B
+Wind
+a
+~
 TRACK
-Trafﬁc information would be issued to the pilot of aircraft “A”
-as 12 o’clock. The actual position of the trafﬁc as seen by
-the pilot of aircraft “A” would be 1 o’clock. Trafﬁc information
+TRACK
+a
+~~
+a
+~
+a
+~~
+f
+.
+~*~
+-
+|
+.
+f
+.
+f
+Traffic information would be issued to the pilot of aircraft “A”
+as 12 o’clock. The actual position of the traffic as seen by
+the pilot of aircraft “A” would be 1 o’clock. Traffic information
 issued to aircraft “B” would also be given as 12 o’clock, but
-in this case, the pilot of “B” would see trafﬁc at 10 o’clock.
+in this case, the pilot of “B” would see traffic at 10 o’clock.
 Figure 14-44. Traffic advisories.
 area (TRSA) has been implemented at certain terminal
 locations. TRSAs are depicted on sectional aeronautical
@@ -298,51 +318,88 @@ of the wingtips. After the rollup is completed, the wake
 consists of two counter rotating cylindrical vortices. Most of
 the energy lies within a few feet of the center of each vortex.
 [Figure 14-45]
-Wind
-B
-TRACK
 
+.
+j
+a
+\
+\
+~
+=
+Ty
+_
+~
+_
+S
+.
+_
+a
+\
+-
+a
+q
+5%
+>
+q
+» |
+\
+=
+,
+ss
+.
+—
+=
+-
+.
+~_
 Figure 14-45. Vortex generation.
 Vortex Strength
-Terminal Area
-Wake turbulence has historically been thought of as only
-a function of aircraft weight, but recent research considers
-additional parameters, such as speed, aspects of the wing, wake
-decay rates, and aircraft resistance to wake, just to name a few.
-The vortex characteristics of any aircraft will be changed with
-the extension of flaps or other wing configuration devices, as
-well as changing speed. However, as the basic factors are weight
-and speed, the vortex strength increases proportionately with
-an increase in aircraft operating weight or decrease in aircraft
-speed. The greatest vortex strength occurs when the generating
-aircraft is heavy, slow, and clean, since the turbulence from a
-“dirty” aircraft configuration hastens wake decay.
-En Route
-En route wake turbulence events have been influenced by
-changes to the aircraft fleet mix that have more “Super”
-(A380) and “Heavy” (B-747, B-777, A340, etc.) aircraft
-Figure 14-46. Vortex behavior.
-Wake begins
-Rotation
 operating in the NAS. There have been wake turbulence
+Terminal Area
 events in excess of 30NM and 2000 feet lower than the wake
 generating aircraft. Air density is also a factor in wake strength.
+Wake turbulence has historically been thought of as only
 Even though the speeds are higher in cruise at high altitude,
+a function of aircraft weight, but recent research considers
 the reduced air density may result in wake strength comparable
+additional parameters, such as speed, aspects of the wing, wake
 to that in the terminal area. In addition, for a given separation
+decay rates, and aircraft resistance to wake, just to name a few.
 distance, the higher speeds in cruise result in less time for the
+The vortex characteristics of any aircraft will be changed with
 wake to decay before being encountered by a trailing aircraft.
+the extension of flaps or other wing configuration devices, as
+well as changing speed. However, as the basic factors are weight
 Vortex Behavior
+and speed, the vortex strength increases proportionately with
 Trailing vortices have certain behavioral characteristics
+an increase in aircraft operating weight or decrease in aircraft
 that can help a pilot visualize the wake location and take
+speed. The greatest vortex strength occurs when the generating
 avoidance precautions.
+aircraft is heavy, slow, and clean, since the turbulence from a
+“dirty” aircraft configuration hastens wake decay.
 Vortices are generated from the moment an aircraft leaves the
 ground (until it touches down), since trailing vortices are the
+En Route
 byproduct of wing lift. [Figure 14-46] The vortex circulation
+En route wake turbulence events have been influenced by
 is outward, upward, and around the wingtips when viewed
+changes to the aircraft fleet mix that have more “Super”
 from either ahead or behind the aircraft. Tests with large
+(A380) and “Heavy” (B-747, B-777, A340, etc.) aircraft
+a
+~
+“s
+~~
+| |
+-_
 Wake ends
+a
+Wake begins
+Rotation
 Touchdown
+Figure 14-46. Vortex behavior.
 14-27
 
 aircraft have shown that vortices remain spaced a bit less than
@@ -460,21 +517,149 @@ maneuver. During instruction, the pilot should be asked
 to verbalize the clearing procedures (call out “clear left,
 right, above, and below”).
 
+wa,
+S
+J
 A
-B
-Aircraft altitude is above wake
-C
-Figure 14-47. Vortex avoidance procedures.
-Parallel Runway Situation
-Aircraft crossing over
-wake turbulence
 WIND
+.
+a
+\
+tA
+é
+rd
+A
+ra
+\
+\
+\
+\
+\
+, a
+\
+\
+y
+>
+ee
+Z
+A
+™”
+’
+~
+A
+~
+~
 Touchdown point of larger aircraft
+~
+,
+~
+,
+=!
 Side view
+\
+oe
+pe
+‘
+=>
+ff
+fs
+a
+-
+\
+-—
+é
+,
+s
+tf
+é
+¢
+.
+, an
+>
+J
+B
+.
+\
+tA
+/
+é
+/
+\
+\
+\
+\
+\
+\
+\
+, a
+\
+\
+eS
+ee
+~
+'
+~
+A
+Aircraft altitude is above wake
+~
 Less than 2500 feet
+~
+~
+~
+y
+,
+Z
+f
+\
+_
+\
+=>
+S
+Parallel Runway Situation
+\
+=_—
 Touchdown point
 WIND
+wz?
+J
+C
+=—
+.
+7!
+~
+~!~
+‘
+~
+~
+A
+A
+A
+;
+QA
+\
+FT
+™
+a“
 Aircraft altitude is above wake
+a
+_
+\
+- 2
+A
+, A
+, a
+, A
+’
+, a
+a
+‘
+Aircraft crossing over
+_
+P|
+“=
+wake turbulence
+™
+Figure 14-47. Vortex avoidance procedures.
 14-29
 
 High-wing and low-wing aircraft have their respective
@@ -726,6 +911,8 @@ often results in you unintentionally taking off or landing on
 a taxiway or wrong runway. Generally, you are unaware of
 the mistake until after it has occurred.
 14-32
+yA
+aa
 Figure 14-48. Heads-up, eyes outside.
 In August 2006, the flight crew of a commercial regional jet
 was cleared for takeoff on Runway 22 but mistakenly lined
@@ -763,6 +950,20 @@ routing of traffic onto runways. In other cases, departing
 traffic may be required to back taxi on the runway in order
 to utilize the full runway length.
 
+yy
+i
+|
+|
+j
+Zz
+J
+ey
+I
+.
+—
+q
+i
+i
 Figure 14-49. Confusing runway/runway intersection.
 Since inattention and confusion often are factors contributing to
 runway incursion, it is important to remain extremely cautious
@@ -815,85 +1016,136 @@ ATC is required to obtain a read-back from the pilot of
 all runway “hold short” instructions. Therefore, you
 must read back the entire clearance and “hold short”
 instruction, to include runway identifier and your call sign.
+diy
 Figure 14-50. A sound practice is to write down taxi instructions
 from ATC.
 14-33
 
-Figure 14-51. Do NOT cross a runway holding position marking
-without ATC clearance. If the tower is closed or you are operating
-from a non-towered airport, check both directions for conflicting
-traffic before crossing the hold position marking.
-Figure 14-53 shows an example of a controller’s taxi and “hold
-short” instructions and the reply from the pilot.
-ATC Instructions—Explicit Runway Crossing
-As of June 30, 2010, ATC is required to issue explicit
-instructions to “cross” or “hold short” of each runway.
-Instructions to “cross” a runway are normally issued one at a
-time, and an aircraft must have crossed the previous runway
-before another runway crossing is issued. Exceptions may
-apply for closely spaced runways that have less than 1,000
-feet between centerlines. This applies to all runways to include
-active, inactive, or closed. Figure 14-54 shows communication
-between ATC and a pilot who is requesting a taxi clearance.
-Extra caution should be used when directed by ATC to
-taxi onto or across a runway, especially at night and during
-reduced visibility conditions. Always comply with “hold
-Figure 14-52. Runway 13-31 holding position sign and marking
-located on Taxiway Charlie.
-14-34
+a—
+| y
+4; —
+P
+,
+P|
 Controller
+y
+.
+|
 November 477ZA,
 Runway four, taxi via
 Echo, hold short of
+a
 Runway two five at
+_
+_
 Taxiway Delta.
+_
+_
+_
+_
+_
+_
+ns
+[|
+a
 Pilot
+I
 November 477ZA,
+—
 Runway four via Echo,
 hold short of Runway
 two five at Delta.
 Figure 14-53. Example of taxi and “hold short” instructions from
 ATC to a pilot.
+Figure 14-51. Do NOT cross a runway holding position marking
+without ATC clearance. If the tower is closed or you are operating
 short” or crossing instructions when approaching an entrance
+from a non-towered airport, check both directions for conflicting
 to a runway. Scan the full length of the runway and the final
+traffic before crossing the hold position marking.
 approaches before entering or crossing any runway, even if
 ATC has issued a clearance.
+Figure 14-53 shows an example of a controller’s taxi and “hold
+short” instructions and the reply from the pilot.
 ATC Instructions—“Line Up and Wait” (LUAW)
 ATC now uses the “line up and wait” (LUAW) instruction
+ATC Instructions—Explicit Runway Crossing
 when a takeoff clearance cannot be issued immediately due
+As of June 30, 2010, ATC is required to issue explicit
 to traffic or other reasons. The words “line up and wait” have
+instructions to “cross” or “hold short” of each runway.
 replaced “position and hold” in directing you to taxi onto a
+Instructions to “cross” a runway are normally issued one at a
 runway and await takeoff clearance.
+time, and an aircraft must have crossed the previous runway
+before another runway crossing is issued. Exceptions may
 An ATC instruction to “line up and wait” is not a clearance
+apply for closely spaced runways that have less than 1,000
 for takeoff. It is only a clearance to enter the runway and
+feet between centerlines. This applies to all runways to include
 hold in position for takeoff. Under LUAW phraseology, the
+active, inactive, or closed. Figure 14-54 shows communication
 controller states the aircraft call sign, departure runway, and
+between ATC and a pilot who is requesting a taxi clearance.
 “line up and wait.” Be aware that “traffic holding in position”
+Extra caution should be used when directed by ATC to
 will continue to be used to advise other aircraft that traffic
+taxi onto or across a runway, especially at night and during
 has been authorized to line up and wait on an active runway.
+reduced visibility conditions. Always comply with “hold
 Pay close attention when instructed to “line up and wait,”
 especially at night or during periods of low visibility. Before
+==
+ea
 Pilot
+po
 “Ground, November 1234
+ee
 ready to taxi from the GA
+[|
+———
+a
 ramp with Bravo.”
 ATC
+|
 “November 1234,
 Runway two seven, taxi
 via Alpha, hold short
 of Runway three one.”
+(|
 Pilot
+dé
+|
 “November 1234,
 Runway two seven, taxi
+.
+EBay
+_
+ay
 via Alpha, hold short
 Runway three one.”
+(|
 ATC
+=
+a
+=
+ee
+|
+=
 When able, tower will
+A,
+——S—
 issue crossing clearance:
+—
+am eT
 “November 1234, cross
 Runway three one.”
+-
 Figure 14-54. Communication between ATC and a pilot who is
+Figure 14-52. Runway 13-31 holding position sign and marking
 requesting taxi procedures.
+located on Taxiway Charlie.
+14-34
 
 entering the runway, remember to scan the full length of the
 runway and its approach end for other aircraft.
@@ -1047,6 +1299,7 @@ May 1999—A Saab 340 commuter aircraft overran
 the runway at John F. Kennedy International Airport
 (JFK).
 14-36
+yee SS ——
 Figure 14-55. Engineered material arresting system (EMAS)
 located at Yeager Airport, Charleston, West Virginia.
 •
@@ -1088,6 +1341,7 @@ to study airport information, become familiar with the details
 and limitations of the arresting system, and the runways that
 are equipped with them. [Figure 14-60]
 
+BT
 Typical Plan View
 Runway safety area length
 Runway
@@ -1096,6 +1350,7 @@ Runway width
 ARRESTOR BED
 Side steps
 An EMASMAX bed is typically the full width of the runway and the arrestor bed is set-back from the end of the runway.
+BT
 Typical Profile View
 Debris deflector
 Arrestor bed
@@ -1104,6 +1359,7 @@ Lead in ramp
 Side steps
 Base surface
 The front of an EMASMAX bed includes a lead-in ramp to transition the aircraft into the material.
+BT
 Typical Section View
 Arrestor bed
 Stepped sides provide arff
@@ -1141,39 +1397,117 @@ Braking procedures outlined in the Flight Manual.
 briefing prior to takeoff or during the approach briefing prior
 14-37
 
+—
+E@
+é
+eee
+Do tg LANES nepe ape 3
+<n
+~
+Par
+a ee —
+amate ons:
+é
+en
+2 a
+Se
+~
+Se) BT opp
+Ee
+—
+Se
+Ne
+ee eS TS
+Pe
+ees
+eee
+=
+=
+Bewe
+=
+<&
+a
+Z
+ae
+SI Re
+a >
+——= —
+=S a —
+i
+<
+ea
+=
+i =
+=e
+Figure 14-58. A Bombardier CRJ-200 regional jet overran the
 Figure 14-57. There have been several incidents where the EMAS
+runway at Yeager Airport (KCRW) in Charleston, West Virginia.
 has successfully arrested the aircraft.
+The chapter identifies best practices to help you avoid errors
 2.
 Maintain runway centerline - Not veering left or right
+that may potentially lead to runway incursions. Although the
 of the bed and continuing straight ahead will maximize
+chapter pertains mostly to surface movements for single-pilot
 stopping capability of the EMAS bed. The quality of
+operations, all of the information is relevant for flight crew
 deceleration will be best within the confines of the bed.
+operations as well.
 3.
 Maintain deceleration efforts - The arrestor bed is a
 passive system, so this is the only action required by
+Additional information about surface operations is available
 the pilot.
+through the following sources:
 4.
 Once stopped, do not attempt to taxi or otherwise move
+•
+Federal Aviation Administration (FAA) Runway
 the aircraft.
+Safety website—www.faa.gov/go/runwaysafety
 Chapter Summary
+•
+FAA National Aeronautical Navigation Services
+(AeroNav), formerly known as the National
 This chapter focused on airport operations both in the air and
+Aeronautical Charting Office (NACO)—www.faa.
 on the surface. For specific information about an unfamiliar
+gov/air_traffic/flight_info/aeronav
 airport, consult the Chart Supplement U.S. (formerly
+•
+Chart Supplement U.S. (formerly Airport/Facility
 Airport/Facility Directory) and NOTAMS before flying. For
+Directory)—www.faa.gov/air_traffic/flight_info/
 further information regarding procedures discussed in this
+aeronav/digital_products/dafd/search/
 chapter, refer to 14 CFR part 91 and the AIM. By adhering
 to established procedures, both airport operations and safety
+•
+Automatic Terminal Information Service (ATIS)
 are enhanced.
+•
+Notice to Airmen (NOTAMs)—http://www.faa.gov/
+pilots/flt_plan/notams
 This chapter is also designed to help you attain an
 understanding of the risks associated with surface navigation
+•
+Advisory Circular (AC) 91-73, part 91 and part 135,
 and is intended to provide you with basic information
+Single-Pilot and Flight School Procedures During Taxi
 regarding the safe operation of aircraft at towered and
+Operations
 nontowered airports. This chapter focuses on the following
+•
+Aeronautical Information Manual (AIM)—www.faa.
 major areas:
+gov/air_traffic/publications/atpubs/aim/
 •
 Runway incursion overview
 •
+AC 120-74, parts 91, 121, 125, and 135, Flight Crew
+•
 Taxi route planning
+Procedures During Taxi Operations
 •
 Taxi procedures
 •
@@ -1181,51 +1515,281 @@ Communications
 •
 Airport signs, markings and lighting
 14-38
-Figure 14-58. A Bombardier CRJ-200 regional jet overran the
-runway at Yeager Airport (KCRW) in Charleston, West Virginia.
-The chapter identifies best practices to help you avoid errors
-that may potentially lead to runway incursions. Although the
-chapter pertains mostly to surface movements for single-pilot
-operations, all of the information is relevant for flight crew
-operations as well.
-Additional information about surface operations is available
-through the following sources:
-•
-Federal Aviation Administration (FAA) Runway
-Safety website—www.faa.gov/go/runwaysafety
-•
-FAA National Aeronautical Navigation Services
-(AeroNav), formerly known as the National
-Aeronautical Charting Office (NACO)—www.faa.
-gov/air_traffic/flight_info/aeronav
-•
-Chart Supplement U.S. (formerly Airport/Facility
-Directory)—www.faa.gov/air_traffic/flight_info/
-aeronav/digital_products/dafd/search/
-•
-Automatic Terminal Information Service (ATIS)
-•
-Notice to Airmen (NOTAMs)—http://www.faa.gov/
-pilots/flt_plan/notams
-•
-Advisory Circular (AC) 91-73, part 91 and part 135,
-Single-Pilot and Flight School Procedures During Taxi
-Operations
-•
-Aeronautical Information Manual (AIM)—www.faa.
-gov/air_traffic/publications/atpubs/aim/
-•
-AC 120-74, parts 91, 121, 125, and 135, Flight Crew
-Procedures During Taxi Operations
 
+_
 Not to be used for navigation
+MASSACHUSETTS
+BOSTON
+GENERAL EDWARD LAWRENCE LOGAN INTL
+(Bos)
+uTc~5(-4DT)
+NEW YORK
+N42°21.78' W71°00.39"
+COPTER
+NOTAM FILE BOS
+ARFF Index E
+H-1O),
+110, 12K, L-330, 341
+B
+S4
+FUEL
+1OOLL,JETA
+OX4,2,3,4
+LRA
+Class,
+TAP, AD
+RWY 15R-33L: H10083X150 (ASPH-GRVD)
+$-200, D-200, 25-175,
+20-400, 20/2D2-800
+HIRL CL
+Hcephere erat) of
+RWY 15R: MALSR. TDZL. PAPI(P4L)—GA 3.0° TCH 60’. Thid dspicd
+Rwy 15R-33l: 10083
+880’.
+X 150
+RWY
+Trees.
+—~,
+o
+RWY O4R-221: H10005X150 (ASPH-GRVD)
+33L: MALSR. TOZL. PAPI(P4R)—GA 3.0° TCH 57’. Boat.
+BSE
+S-200, 0-200, 28-175,
+Va
+Ye tee
+20-400, 20/2D2-800
+HIRL CL
+LAS &
+a
+= ®
+RWY O4R: ALSF2, TDZL. PAPI(P4L)—GA 3,0° TCH 67’,Thid dsplod
+Ye-< en Fad
+1154’, Boat.
+A
+oo eR Keys
+RWY 22L: MALSF. PAPI(P4R)—GA 3.0" TCH 55’. Thid dspled 1199", DS
+zs ee
+AWY O4L-22R: H7861X150 (ASPH-GRVD) $-200, D-200, 25-175, QS eS Mf
+Boat.
++e
+ay:
+20-400, 20/2D2-800
+IRL
+~ lt
+ya
+RWY DAL: REIL. PAPI(P4L)—GA 3.0°TCH 50’. Boat.
+Mp
+oy “he
+B
+RWY 22R: PAPI(P4L)—GA 3.0° TCH 50’, Thid dspled 815’. Boat.
+N
+Of
+Oe
+RWY 09-27: H7000X150 (ASPH-GRVD) $-200, D-200, 25-175,
+Ce SO)
+20-400, 20/2D2-800
+HIRL CL
+FIN?
+NS, &)
+RWY 09; Boat,
+"a
+RWY 27: REIL. PAPI(PA4L}—GA 8,0° TCH 71’, Boat,
+xO
+coe
+RWY 14-32: HSOOOX100 (ASPH-GRVD) —_S-75, D-200, 25-175.
+REYY
+20-400, 2D/2D2-875 — HIRL
+RWY 14: Bldg.
+RWY 32: REIL. PAPI (P4L)—GA 3.0° TCH 45,
+RWY 15L-33R: H2557X100 (ASPH)
+—$-200, D-200, 28-175, 20-400, 20/2D2-800
+MIRL
+LAND AND HOLD SHORT OPERATIONS
+LANDING
+HOLD SHORT POINT
+DIST AYBL
+RWY O4L
+15L-33R
+RWY 15R
+09-27
+WY 22L
+09-27
+RWY 27
+O4R-22L
+RUNWAY DECLARED DISTANCE INFORMATION
+RWYO4l:
+TORA-7861
+TODA-7861
+ASDA-7861
+LDA-7861
+RWY04R:
+TORA-10005
+TODA-10005
+ASDA-10005
+LDA-8851
+RWY 03:
+TORA-7000
+TODA-7000
+ASDA-7000
+LDA-7000
+RWY 14:
+TORA-5000
+TODA-5000
+ASDA-5000
+LDA-5000
+RWY 15l:
+TORA-2557
+TODA-2557
+ASDA-2557
+LDA-2557
+RWY 15R:
+TORA-10083
+TODA-10083
+ASDA~10083
+LDA-9203
+RWY 22:
+TORA-10005
+TODA-10005
+ASDA-10005
+LDA-8806
+RWY 22R;
+TORA-7861
+TODA-7861
+ASDA-7861
+LDA-7046
+RWY 27;
+TORA-7000
+TODA-7000
+ASDA-7000
+LDA-7000
+RWY 32:
+TORA-SO000
+TODA-5000
+ASDA~5000
+LDA-5000
+RWY 33L:
+TORA-10083
+TODA-10083
+ASDA-10083
+LDA-10083
+RWY33R:
+TORA-2557
+TODA-2557
+ASDA-2557
+LDA-2557
+ARRESTING GEAR/SYSTEM
+RWY O4L: EMAS
+RWY 15R: EMAS.
 Figure 14-59. EMAS information for Boston Logan International Airport located in the Chart Supplement U.S. (formerly Airport/
 Facility Directory).
 14-39
 
 Not to be used for navigation
+_
+el—_
+\ CEMEBVT EDMVED VM
+VIBbOBL DIVCBYW
+ree eww)
+BO2IOM
+EWve
+ee So
+j=
+c
+180 X 180
+:
+oS
+)
+bIEK
+E
+awe
+s
+E
+Lose
+s
+Lazel
+|
+f
+|
+o
+. Ya
+A
+IN
+\
+i
+i
+.
+Bs
+_
+Nita
+@,
+te
+mV
+A
+bis
+—
+a
+—
+Oo
+a)
+Ve
+ue 2
+ale =
+>
+\
+F
+we
+JP he
+\
+NE-1, 28 JUL 2011 to 25 AUG 2011
+=
+-
+e —
+—
++ y
+s
+&
+,
+ae
+~
+nail 4 F Re
+j
+SL
+As
+eA
+NE-1, 28 JUL 2011 to 25 AUG 2011
+-
+*
+|
+ay
+—— | ka
+C
+s
+Ss,
+v,
+‘eo
+e
+We
+‘eviern
+Vc
+\
+<J
+La
+oe
+A
+coven
+‘su.seqot peq ou yubory prediswa"
+Teo! fo Lecoduise ou EVI Kin
+Laie
+Yc! a
+"a
+re
+iP
+Ss
+ms
+to”
+BV
+oS.
 Figure 14-60. An airport diagram with EMAS information.
 14-40
-NE-1, 28 JUL 2011 to 25 AUG 2011
 
 14-40

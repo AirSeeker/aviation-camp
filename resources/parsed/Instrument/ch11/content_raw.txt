@@ -1,6 +1,8 @@
 Chapter 4
 Aerodynamic
 Factors
+Factors
+=
 Introduction
 Several factors affect aircraft performance including the
 atmosphere, aerodynamics, and aircraft icing. Pilots need an
@@ -16,6 +18,7 @@ indications to precisely control the aircraft; therefore, they
 must have a solid understanding of basic aerodynamic
 principles in order to make accurate judgments regarding
 aircraft control inputs.
+|
 4-1
 
 The Wing
@@ -86,16 +89,30 @@ Trailing edge
 
 Right aileron
 Lift
+N
+™
 Horizontal
 Vertical
 Pitch
 stabilizer
 stabilizer
+a
+r
 Rudder
+—
+—
 Drag
 x
+~~
+—
+——o-”~=~SsSsSshsseh
+-
+a
+—
+a
 Roll
 Thrust
+,
 Elevator
 Left
 aileron
@@ -163,85 +180,93 @@ friction drag, interference drag, and form drag.
 4-3
 
 • Form Drag
+deceleration is commonly used to indicate a decrease. This
+law governs the aircraft’s ability to change flightpath and
 Form drag is the drag created because of the shape of a
+speed, which are controlled by attitude (both pitch and bank)
 component or the aircraft. If one were to place a circular
+and thrust inputs. Speeding up, slowing down, entering
 disk in an air stream, the pressure on both the top and bottom
+climbs or descents, and turning are examples of accelerations
 would be equal. However, the airflow starts to break down
+that the pilot controls in everyday flight. [Figure 4-5]
 as the air flows around the back of the disk. This creates
 turbulence and hence a lower pressure results. Because the
 total pressure is affected by this reduced pressure, it creates
 a drag. Newer aircraft are generally made with consideration
+Time
 to this by fairing parts along the fuselage (teardrop) so that
 turbulence and form drag is reduced.
 Total lift must overcome the total weight of the aircraft, which
 is comprised of the actual weight and the tail-down force used
+150 hp
+2,000 lb
 to control the aircraft’s pitch attitude. Thrust must overcome
 total drag in order to provide forward speed with which to
 produce lift. Understanding how the aircraft’s relationship
-between these elements and the environment provide proper
-interpretation of the aircraft’s instruments.
-Newton’s First Law, the Law of Inertia
-Newton’s First Law of Motion is the Law of Inertia. It states
-that a body at rest will remain at rest, and a body in motion
-will remain in motion, at the same speed and in the same
-direction until affected by an outside force. The force with
-which a body offers resistance to change is called the force of
-inertia. Two outside forces are always present on an aircraft
-in flight: gravity and drag. The pilot uses pitch and thrust
-controls to counter or change these forces to maintain the
-desired flightpath. If a pilot reduces power while in straight-
-and-level flight, the aircraft will slow due to drag. However,
-as the aircraft slows there is a reduction of lift, which causes
-the aircraft to begin a descent due to gravity. [Figure 4-4]
-Newton’s Second Law, the Law of Momentum
-Newton’s Second Law of Motion is the Law of Momentum,
-which states that a body will accelerate in the same direction
-as the force acting upon that body, and the acceleration
-will be directly proportional to the net force and inversely
-proportional to the mass of the body. Acceleration refers
-either to an increase or decrease in velocity, although
-Net forces
-Path
-Figure 4-4. Newton’s First Law of Motion: the Law of Inertia.
-4-4
-deceleration is commonly used to indicate a decrease. This
-law governs the aircraft’s ability to change flightpath and
-speed, which are controlled by attitude (both pitch and bank)
-and thrust inputs. Speeding up, slowing down, entering
-climbs or descents, and turning are examples of accelerations
-that the pilot controls in everyday flight. [Figure 4-5]
-Time
-150 hp
-2,000 lb
 Force
+between these elements and the environment provide proper
 = Acceleration
 Mass
 300 hp
+interpretation of the aircraft’s instruments.
 2,000 lb
+Newton’s First Law, the Law of Inertia
+Newton’s First Law of Motion is the Law of Inertia. It states
 Figure 4-5. Newton’s Second Law of Motion: the Law of Momentum.
+that a body at rest will remain at rest, and a body in motion
+will remain in motion, at the same speed and in the same
 Newton’s Third Law, the Law of Reaction
+direction until affected by an outside force. The force with
+which a body offers resistance to change is called the force of
 Newton’s Third Law of Motion is the Law of Reaction,
+inertia. Two outside forces are always present on an aircraft
 which states that for every action there is an equal and
+in flight: gravity and drag. The pilot uses pitch and thrust
 opposite reaction. As shown in Figure 4-6, the action of
+controls to counter or change these forces to maintain the
 the jet engine’s thrust or the pull of the propeller lead to the
+desired flightpath. If a pilot reduces power while in straight-
 reaction of the aircraft’s forward motion. This law is also
+and-level flight, the aircraft will slow due to drag. However,
 responsible for a portion of the lift that is produced by a wing,
+as the aircraft slows there is a reduction of lift, which causes
 from the downward deflection of the airflow around it. This
+the aircraft to begin a descent due to gravity. [Figure 4-4]
 downward force of the relative wind results in an equal but
 opposite (upward) lifting force created by the airflow over
+Newton’s Second Law, the Law of Momentum
 the wing. [Figure 4-6]
+Newton’s Second Law of Motion is the Law of Momentum,
 Atmosphere
+which states that a body will accelerate in the same direction
+as the force acting upon that body, and the acceleration
 The atmosphere is the envelope of air which surrounds the
+will be directly proportional to the net force and inversely
 Earth. A given volume of dry air contains about 78 percent
+proportional to the mass of the body. Acceleration refers
 nitrogen, 21 percent oxygen, and about 1 percent other gases
+either to an increase or decrease in velocity, although
 such as argon, carbon dioxide, and others to a lesser degree.
 Outside
 Net
 force
 forces
+_—
+i
+—_—
+—
 Path
+a
+rr
+GG
+Net forces
 Apply down
+j
 elevator
+Path
+Figure 4-4. Newton’s First Law of Motion: the Law of Inertia.
+4-4
 
 In the standard atmosphere, sea level pressure is 29.92 inches
 of mercury ("Hg) and the temperature is 15 °C (59 °F). The
@@ -256,6 +281,7 @@ the environment of the standard atmosphere, all aircraft
 performance instrumentation is calibrated for the standard
 Reaction
 atmosphere. Because the actual operating conditions rarely,
+eee
 if ever, fit the standard atmosphere, certain corrections must
 apply to the instrumentation and aircraft performance. For
 Action
@@ -357,6 +383,9 @@ Airport pressure altitude—Thousand of feet
 Percent decrease
 0.2
 in rate of climb
+-
+a
+|
 Angle of Attack (degrees)
 Figure 4-8. Relationship of lift to AOA.
 −10
@@ -662,7 +691,11 @@ Figure 4-11. Flying in this regime permits the pilot to make
 slight pitch changes without changing power settings, and
 Plain
 Split
+Fowler
+Slotted
+i
 Uncontrolled Turbulence
+i
 Controlled Vortices
 Figure 4-13. Vortex generators.
 accept minor speed changes knowing that when the pitch is
@@ -692,13 +725,21 @@ Resultant lift
 used interchangeably (erroneously implying they are
 synonymous), distinguishing between the two is important
 L
+y
 when considering climb performance. Work is the product of
 a force moving through a distance and is usually independent
 Horizontal
 of time. Power implies work rate or units of work per unit
 component of lift
+N
+'
 of time, and as such is a function of the speed at which the
+y
+, |
+~*~
+NN]
 force is developed. Thrust, also a function of work, means
+_—
 the force which imparts a change in the velocity of a mass.
 L
 During takeoff, the aircraft does not stall even though it
@@ -837,6 +878,19 @@ rate of turn, so the horizontal lift component is greater than
 angle, the radius of turn increases, and vice versa. If the speed
 the centrifugal force. A skidding turn results from excess of
 is constant, increasing the bank angle reduces the radius of
+wz
+—
+—
+—
+—_—_
+,
+i
+i
+wii
+wi
+-
+—_—
+——_
 Radius≈1,500
 Radius≈3,500
 Radius≈6,500
@@ -846,9 +900,38 @@ Radius≈2,000
 Figure 4-15. Turns.
 4-11
 
+j
+j
+j
+i
+ee
+“~
+“|
+“~
+—_—
+|
+—_—
+—
+—
+—
+~ I
+~ F
+a
 Coordinated Turn
 Slipping Turn
 Skidding Turn
+al
+al
+al
+al
+al
+al
+a
+a
+P~
+a
+a
+a
 D.C.
 D.C.
 D.C.
@@ -885,6 +968,20 @@ DC ELEC
 INFORMATION
 INFORMATION
 INFORMATION
+|
+|
+|
+|
+os
+oo_—
+oo——
+|
+_——
+——
+os
+os
+os
+|
 Coordinated Turn
 Slipping Turn
 Skidding Turn
@@ -1011,19 +1108,25 @@ A glossy, transparent ice formed by the relatively slow
 freezing of super cooled water is referred to as clear ice.
 [Figure 4-17] The terms “clear” and “glaze” have been used
 Figure 4-17. Clear ice.
+Clear Ice
 4-13
 
 for essentially the same type of ice accretion. This type of
+r i
+‘4
 ice is denser, harder, and sometimes more transparent than
 rime ice. With larger accretions, clear ice may form “horns.”
 [Figure 4-18] Temperatures close to the freezing point, large
 amounts of liquid water, high aircraft velocities, and large
 droplets are conducive to the formation of clear ice.
+‘4
+Rime Ice
 Figure 4-19. Rime ice.
 Mixed Ice
 Mixed ice is a combination of clear and rime ice formed on
 the same surface. It is the shape and roughness of the ice
 that is most important from an aerodynamic point of view.
+Clear Ice Buildup with Horns
 General Effects of Icing on Airfoils
 Figure 4-18. Clear ice buildup with horns.
 The most hazardous aspect of structural icing is its aerodynamic
@@ -1117,6 +1220,8 @@ i
 Angle of Attack
 Figure 4-21. Effect of ice and frost on lift.
 C of L
+ee
+st
 Tail download
 CG
 Weight
@@ -1132,100 +1237,106 @@ is important that the pilot be alert to the possibility of tailplane
 stall, particularly on approach and landing.
 4-15
 
-CG
-Aircraft nose
-Weight
-pitches down
-Figure 4-23. Ice on the tailplane.
-Piper PA-34-200T (Des Moines, Iowa)
-The pilot of this flight, which took place on January 9,
-1996, said that upon crossing the runway threshold and
-lowering the flaps 25°, “the airplane pitched down.” The
-pilot “immediately released the flaps and added power, but
-the airplane was basically uncontrollable at this point.” The
-pilot reduced power and lowered the flaps before striking
-the runway on its centerline and sliding 1,000 feet before
-coming to a stop. The accident resulted in serious injury to
-the pilot, the sole occupant.
-Examination of the wreckage revealed heavy impact
-damage to the airplane’s forward fuselage, engines, and
-wings. Approximately one-half inch of rime ice was
-observed adhering to the leading edges of the left and right
-horizontal stabilizers and along the leading edge of the
-vertical stabilizer.
-The National Transportation Safety Board (NTSB)
-determined the probable cause of the accident was the pilot’s
-failure to use the airplane’s deicing system, which resulted
-in an accumulation of empennage ice and a tailplane stall.
-Factors relating to this accident were the icing conditions
-and the pilot’s intentional flight into those known conditions.
-Tailplane Stall Symptoms
-Any of the following symptoms, occurring singly or in
-combination, may be a warning of tailplane icing:
-•
-Elevator control pulsing, oscillations, or vibrations;
-•
-Abnormal nose-down trim change;
-•
-Any other unusual or abnormal pitch anomalies
-(possibly resulting in pilot induced oscillations);
-•
-Reduction or loss of elevator effectiveness;
-•
-Sudden change in elevator force (control would move
-nose-down if unrestrained); and
-•
-Sudden uncommanded nose-down pitch.
-4-16
 If any of the above symptoms occur, the pilot should:
+CG
 •
 Immediately retract the flaps to the previous setting
 and apply appropriate nose-up elevator pressure;
+_
 •
 Increase airspeed appropriately for the reduced flap
+_
+——
+a
 extension setting;
+|
 Icing
 •
 Apply sufficient power for aircraft configuration
+. 2
 and conditions. (High engine power settings may
 adversely impact response to tailplane stall conditions
+Aircraft nose
+Weight
 at high airspeed in some aircraft designs. Observe the
+pitches down
 manufacturer’s recommendations regarding power
 settings.);
+Figure 4-23. Ice on the tailplane.
 •
 Make nose-down pitch changes slowly, even in
 gusting conditions, if circumstances allow; and
+Piper PA-34-200T (Des Moines, Iowa)
 •
 If a pneumatic deicing system is used, operate the
+The pilot of this flight, which took place on January 9,
 system several times in an attempt to clear the tailplane
+1996, said that upon crossing the runway threshold and
 of ice.
+lowering the flaps 25°, “the airplane pitched down.” The
+pilot “immediately released the flaps and added power, but
 Once a tailplane stall is encountered, the stall condition
+the airplane was basically uncontrollable at this point.” The
 tends to worsen with increased airspeed and possibly may
+pilot reduced power and lowered the flaps before striking
 worsen with increased power settings at the same flap
+the runway on its centerline and sliding 1,000 feet before
 setting. Airspeed, at any flap setting, in excess of the airplane
+coming to a stop. The accident resulted in serious injury to
 manufacturer’s recommendations, accompanied by uncleared
+the pilot, the sole occupant.
 ice contaminating the tailplane, may result in a tailplane stall
 and uncommanded pitch down from which recovery may not
+Examination of the wreckage revealed heavy impact
 be possible. A tailplane stall may occur at speeds less than
+damage to the airplane’s forward fuselage, engines, and
 the maximum flap extended speed (VFE).
+wings. Approximately one-half inch of rime ice was
+observed adhering to the leading edges of the left and right
 Propeller Icing
+horizontal stabilizers and along the leading edge of the
 Ice buildup on propeller blades reduces thrust for the same
+vertical stabilizer.
 aerodynamic reasons that wings tend to lose lift and increase
 drag when ice accumulates on them. The greatest quantity
+The National Transportation Safety Board (NTSB)
 of ice normally collects on the spinner and inner radius of
+determined the probable cause of the accident was the pilot’s
 the propeller. Propeller areas on which ice may accumulate
+failure to use the airplane’s deicing system, which resulted
 and be ingested into the engine normally are anti-iced rather
+in an accumulation of empennage ice and a tailplane stall.
 than deiced to reduce the probability of ice being shed into
+Factors relating to this accident were the icing conditions
 the engine.
+and the pilot’s intentional flight into those known conditions.
+Tailplane Stall Symptoms
 Effects of Icing on Critical Aircraft Systems
+Any of the following symptoms, occurring singly or in
 In addition to the hazards of structural and induction icing,
+combination, may be a warning of tailplane icing:
 the pilot must be aware of other aircraft systems susceptible
 to icing. The effects of icing do not produce the performance
+•
+Elevator control pulsing, oscillations, or vibrations;
 loss of structural icing or the power loss of induction icing
+•
+Abnormal nose-down trim change;
 but can present serious problems to the instrument pilot.
+•
+Any other unusual or abnormal pitch anomalies
 Examples of such systems are flight instruments, stall
+(possibly resulting in pilot induced oscillations);
 warning systems, and windshields.
+•
+Reduction or loss of elevator effectiveness;
 Flight Instruments
+•
+Sudden change in elevator force (control would move
 Various aircraft instruments including the airspeed indicator,
+nose-down if unrestrained); and
 altimeter, and rate-of-climb indicator utilize pressures
+•
+Sudden uncommanded nose-down pitch.
 sensed by pitot tubes and static ports for normal operation.
+4-16

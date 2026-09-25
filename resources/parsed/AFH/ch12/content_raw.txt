@@ -14,6 +14,7 @@ Airplanes can be designed to fly through a wide range of airspeeds. High speed f
 moderately cambered airfoils whereas low speed flight is obtained with airfoils with a greater camber and larger wing area. [Figure
 12-1] Many compromises are often made by designers to provide for higher speed cruise flight and low speeds for landing. Flaps are a
 common design effort to increase an airfoil’s camber and surface area for lower-speed flight. [Figure 12-2]
+Straight
 Since an airfoil cannot have two different cambers at the same time, designers and engineers deliver the desired performance
 characteristics using two different methods. Either the airfoil can be a compromise, or a cruise airfoil can be combined with a device
 for increasing the camber of the airfoil for low-speed flight. Camber is the asymmetry between the top and the bottom surfaces of an
@@ -27,9 +28,45 @@ both lift and drag. With aileron deflection, there is asymmetrical lift which im
 longitudinal axis. Wing flaps act symmetrically about the longitudinal axis producing no rolling moment; however, both lift and drag
 increase as well as a pitching moment about the lateral axis. Lift is a function of several variables including air density, velocity,
 surface area, and lift coefficient. Since flaps increase an airfoil’s lift coefficient, lift is increased. [Figure 12-3]
+Elliptical
+__Tapered
+Delta
+= \
 Figure 12-1. Airfoil types.
 12-1
+__Sweptback
+as |
 
+| Mean camber line |
+==
+Aifoil with flap extended
+Cc,
+Stalled airfoil
+C, max flapped |- - - - - -------
+“Lh
+C, max normal ssnssccegihcs
+%
+Za ay
+7,6»
+YY
+&
+Ss
+ov
+wr”
+Ss
+oo
+va
+Angle of attack
+Figure 12-2. Coefficient of lift comparison for flap extended and retracted positions.
+L=
+L =Lpv?sc,
+Lift produced
+P = Air density
+V =Velocity relative to the air
+S = Surface area of the wing
+of the airfoil used, the chord of the wing and AOA
+C= lift coefficient which is determined by the camber
+Figure 12-3. Lift equation.
 As flaps are deflected, the aircraft may pitch nose-up, nose-down, or have minimal changes in pitch attitude. Pitching moment is
 caused by the rearward movement of the wing’s center of pressure; however, that pitching behavior depends on several variables
 including flap type, wing position, downwash behavior, and horizontal tail location. Consequently, pitch behavior depends on the
@@ -38,13 +75,15 @@ Flap deflection of up to 15° primarily produces lift with minimal increases in 
 in drag. Drag from flap deflection is parasite drag and, as such, is proportional to the square of the speed. Also, deflection beyond 15°
 produces a significant nose-up pitching moment in most high-wing airplanes because the resulting downwash changes the airflow
 over the horizontal tail.
-Figure 12-2. Coefficient of lift comparison for flap extended and retracted positions.
-Figure 12-3. Lift equation.
 12-2
 
 Flap Effectiveness
 Flap effectiveness depends on a number of factors, but the most noticeable are size and type. For the purpose of this chapter, trailing
 edge flaps are classified as four basic types: plain (hinge), split, slotted, and Fowler. [Figure 12-4]
+ae_
+ae
+aaD<:
+CK OX XK
 Figure 12-4. Four basic types of flaps.
 12-3
 
@@ -102,6 +141,16 @@ Expedient retraction of flaps is desirable to eliminate drag; however, the pilot
 the result of trim and the increase in airflow over the control surfaces. [Figure 12-5]
 12-4
 
+Center of pressure — Lift
+Pitching moment ~<=[F .
+_
+Center of gravity
+Center of pressure — Lift
+Pitching moment ~<
+‘
+_
+Center of gravity
+Figure 12-5. Flaps extended pitching moment.
 During a go-around, the pilot should carefully monitor pitch and airspeed and expect that the degree of flap deflection and the design
 configuration of the horizontal tail relative to the wing will affect go-around characteristics. The pilot should carefully monitor pitch
 and airspeed, control flap retraction to minimize altitude loss, and use rudder for coordination. Considering these factors, it is good
@@ -124,9 +173,24 @@ the propeller control is moved all the way forward to the low pitch/high rpm pos
 maximum allowable manifold pressure position. [Figure 12- 6] To reduce power for climb or cruise, the pilot reduces manifold
 pressure to the desired value with the throttle, and then reduces engine rpm by moving the propeller control back toward the high
 pitch/low rpm position. The pilot sets the rpm accurately using the tachometer.
-Figure 12-5. Flaps extended pitching moment.
 12-5
+—
+=o
+Tail down force
+—
+«fa
+y
+Tail down force
 
+\
+S15
+20/ %
+S10
+ef
+| 302
+2228000 —
+High pitch — Low RPM
+Figure 12-6. Controllable-pitch propeller pitch angles.
 When an airplane engine runs at a constant governed speed, the torque (force) exerted by the engine at the propeller shaft equals the
 force resisting the moving blades. The pilot uses the propeller control to change engine rpm by adjusting the propeller blade pitch,
 which increases or decreases the air resistance on the rotating propeller. For example, pulling back on the propeller control moves the
@@ -150,8 +214,17 @@ At the same time, low blade pitch allows the propeller to handle a smaller mass 
 the engine to turn at maximum rpm and develop maximum engine power. Although the mass of air per revolution is small, the number
 of rpm is high, and propeller thrust is maximized until brake release. Thrust is maximum at the beginning of the takeoff roll and then
 decreases as the airplane gains speed.
-Figure 12-6. Controllable-pitch propeller pitch angles.
+|
+Low pitch — High RPM
 12-6
+\
+’
+5 20%
+S10
+eu
+f49 ~
+| 302
+228000) —
 
 As the airspeed increases after lift-off, the load on the engine is lightened because of the small blade angle. The governor senses this
 and increases the blade angle slightly. Again, the higher blade angle, with the higher speed, keeps the blade AOA with respect to the
@@ -178,12 +251,27 @@ Governor oil pressure and the blade twisting moment move the blades toward the l
 the counterweights moves them (and the blades) toward the high pitch position. In the first case above, governor oil pressure moves
 the blades towards high pitch and in the second case, governor oil pressure and the blade twisting moment move the blades toward
 low pitch. A loss of governor oil pressure, therefore, affects each differently.
+oo
+ss
+o£
+LL
+Relative wind
+—€— Plane of propeller rotation
+Chord line (blade face)
+Plane of propeller rotation
 Figure 12-7. Propeller blade angle.
 12-7
+Relative wind
+Chord line (blade face)
 
 Governing Range
 The blade angle range for constant-speed propellers varies from about 11.5° to 40°. The higher the speed of the airplane, the greater
 the blade angle range. [Figure 12-8]
+Fixed gear
+Retractable
+Turbo retractable
+Turbine retractable
+Transport retractable
 The range of possible blade angles between high and low blade angle pitch stops define the propeller’s governing range. As long as
 the propeller's blades operate within the governing range and not against either pitch stop, a constant engine rpm is maintained.
 However, once the propeller blades reach their pitch-stop limit, the engine rpm increases or decreases with changes in airspeed and
@@ -223,8 +311,26 @@ Although the governor responds quickly to any change in throttle setting, a sudd
 momentary over-speeding of the engine until the blades become adjusted to absorb the increased power. If an emergency demanding
 full power should arise during approach, the sudden advancing of the throttle causes momentary over-speeding of the engine beyond
 the rpm for which the governor is adjusted.
+225/240
+250/300
+B25
 Figure 12-8. Blade angle range (values are approximate).
+111/,°
+15°
+20°
+30°
+4o°
 12-8
+101/,°
+11°
+14°
+10°
+10/15°
+De
+26°
+34°
+40°
+50/55°
 
 Some important points to remember concerning constant speed propeller operation are:
 ⦁ The red line on the tachometer not only indicates maximum allowable rpm; it also indicates the rpm
@@ -248,6 +354,68 @@ consists of two separate components: a compressor and a turbine connected by a c
 air to the engine for high-altitude operation. The compressor and its housing are between the ambient air intake and the induction air
 manifold. The turbine and its housing are part of the exhaust system and utilize the flow of exhaust gases to drive the compressor.
 [Figure 12-9]
+eno
+|
+J
+a
+The turbocharger
+This regulates airflow
+Pressurized air from the
+incorporates a turbine,
+to the engine.
+turbocharger is supplied
+which is driven by exhaust
+to the cylinders.
+gases and a compressor i
+that pressurizes the
+-
+incoming air.
+r 2
+|
++
+—
+=
+N
+(re
+{=6
+(et)
+<
+\ a=a=a>
+‘
+=
+i7
+=
+Z
+|
+i}
+|
+\
+A
+RB
+BK
+>
+“
+Lhe"_pa\ee
+|
+—
+_ Wineta AQae
+nl
+—
+Eyhauet Manifold
+This controls the amount Pee
+§=Exhaust gas is ducted
+of exhaust through the
+through the exhaust
+El
+turbine. Waste gate
+Intake air is ducted to the
+manifold and is used to
+position is actuated by
+turbocharger where it is
+turn the turbine, which
+engine oil pressure.
+compressed.
+drives the compressor.
 Figure 12-9. Turbocharging system.
 12-9
 
@@ -390,7 +558,64 @@ retraction system. To prevent accidental operation of the downlocks and inadvert
 the ground, electrically-operated safety switches are installed.
 12-12
 
+||
+GEAR
+UP
+as |
+rc eT
+a
+GEAR
+DOWN
+LiL
+= |
+°
+ae
+_— a
+a
+>
+>
+TX!
+LANDING
+TX
+LANDING
+ence ee
+_
+6'0'0'6' 0":
+6'60'6'0=
 Figure 12-10. Typical landing gear switch with combination amber and green. Another combination has a three light indicator.
+Landing gear indicator (top) illuminated (red)
+Landing gear indicator
+(bottom) illuminated
+(green)—related gear
+down and locked
+UP
+L
+A
+N
+D
+I
+N OFF
+LANDING GEAR
+c
+LIMIT (IAS)
+OPERATING
+G
+EXTEND 270—.8M
+RETRACT 235K
+E
+EXTENDED 320—.82K
+A
+FLAPS LIMIT (IAS)
+R
+DN
+\
+Landing gear lever
+Ja
+Override
+©
+trigger
+Landing gear limit
+speed placard
 Figure 12-11. Landing gear handles and single and multiple light indictor.
 12-13
 
@@ -399,6 +624,31 @@ struts. [Figure 12-12] When the strut is compressed by the weight of the airplan
 or mechanism that powers retraction. In this way, if the landing gear switch in the flight deck is placed in the RETRACT position
 when weight is on the gear, the gear remains extended, and the warning horn may sound as an alert to the unsafe condition. Once the
 weight is off the gear, however, such as on takeoff, the safety switch releases and the gear retracts.
+<
+Lock release solenoid
+f c
+ZA
+—
+Safety switch
+>
+APY [OO
+|
+Vq
+i
+| ee |e
+we
+vW(>
+\
+(
+UUUUL
+I 1
+=
+f
+av pc
+Safety switch
+Landing gear selector valve
+patter
+Figure 12-12. Landing gear safety switch.
 Many airplanes are equipped with removable safety devices to prevent collapse of the gear when the airplane is on the ground. These
 devices are called ground locks. One common type is a pin installed in aligned holes drilled in two or more units of the landing gear
 support structure. Another type is a spring-loaded clip designed to fit around and hold two or more units of the support structure
@@ -419,16 +669,54 @@ Preflight
 Because of their complexity, retractable landing gear demands a close inspection prior to every flight. The inspection should begin
 inside the flight deck. First, make certain that the landing gear selector switch is in the GEAR DOWN position. Then, turn on the
 battery master switch and ensure that the landing gear position indicators show that the gear is down and locked.
-Figure 12-12. Landing gear safety switch.
 12-14
 
+Gas
+I
+:
+| Compressed Gas_|
+.
+-
+:
+5|
+.
+y
+S
+(+)
+we
+N
+|
+es
+mn 4¥
+ie &
+oo
+“>
+| Hand Crank |
+=
+.
+Hand Crank
+ar
+ae
+As
+|
+%
+>.
+viv
+Loc)
+"iy
+¢f
+(
+Ss
+NN
+gf
+”
 Figure 12-13. Typical emergency gear extension systems.
+Figure 12-14. Retractable landing gear inspection checkpoints.
 External inspection of the landing gear consists of checking individual system components. [Figure 12-14] The landing gear, wheel
 well, and adjacent areas should be clean and free of mud and debris. Dirty switches and valves may cause false safe light indications
 or interrupt the extension cycle before the landing gear is completely down and locked. The wheel wells should be clear of any
 obstructions, as foreign objects may damage the gear or interfere with its operation. Bent gear doors may be an indication of possible
 problems with normal gear operation.
-Figure 12-14. Retractable landing gear inspection checkpoints.
 12-15
 
 Ensure shock struts are properly inflated and that the pistons are clean. Check main gear and nose gear uplock and downlock
@@ -467,8 +755,15 @@ flight. These speeds may not be found on the airspeed indicator. They are publis
 are usually listed on placards in the flight deck. [Figure 12-15] The maximum landing extended speed (VLE) is the maximum speed at
 which the airplane can be flown with the landing gear extended. The maximum landing gear operating speed (VLO) is the
 maximum speed at which the landing gear may be operated through its cycle.
+GEAR DOWN
+sEARUP
+EXTENDED
 Figure 12-15. Placarded gear speeds in the flight deck.
+129 KIAS (MAX)
+_107 KIAS (MAX)
+129 KIAS (MAX)
 12-16
+‘
 
 The landing gear is extended by placing the gear selector switch in the GEAR DOWN position. As the landing gear extends, the
 airspeed decreases and the pitch attitude may change. During the several seconds it takes for the gear to extend, be attentive to any
@@ -515,6 +810,31 @@ goal is to ensure proficiency standards are achieved. These standards are contai
 certificate that the transitioning pilot holds or is working toward.
 12-17
 
+Ground Instruction
+Flight Instruction
+One hour
+One hour
+1. Operations sections of flight manual
+1. Flight training maneuvers
+2. Line inspection
+2. Takeoffs, landings and go-arounds
+3. Flight deck familiarization
+One hour
+One hour
+1. Aircraft loading, limitations and servicing
+1. Emergency operations
+2. Instruments, radio and special equipment
+2. Control by reference to instruments
+3. Aircraft systems
+3. Use of radio and autopilot
+One hour
+One hour
+1. Performance section of flight manual
+1. Short and soft-field takeoffs and landings
+2. Cruise control
+2. Maximum performance operations
+3. Review
+Figure 12-16. Sample transition training syllabus.
 The training times indicated in the syllabus are for illustration purposes. Actual times should be based on the capabilities of the pilot.
 The time periods may be minimal for pilots with higher qualifications or increased for pilots who do not meet certification
 requirements or have had little recent flight experience.
@@ -523,5 +843,4 @@ Flying a complex or high-performance airplane requires a pilot to further divide
 flight: takeoff and landing. The knowledge, judgment, and piloting skills required to fly these airplanes needs to be developed. It is
 essential that adequate training is received to ensure a complete understanding of the systems, their operation (both normal and
 emergency), and operating limitations.
-Figure 12-16. Sample transition training syllabus.
 12-18

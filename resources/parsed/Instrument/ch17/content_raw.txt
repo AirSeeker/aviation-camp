@@ -2,6 +2,7 @@ Chapter 6, Section II
 Airplane Attitude
 Instrument Flying
 Using an Electronic Flight Display
+p
 Introduction
 Attitude instrument flying is defined as the control of an
 aircraft’s spatial position by using instruments rather than
@@ -65,45 +66,264 @@ Pilots flying under visual flight rules (VFR) maneuver their
 importance that is placed on the attitude indicator and the
 aircraft by reference to the natural horizon, utilizing specific
 interpretation of the other flight instruments.
+@
+y
+[=
+@
+=
 L
 R
+-
+r
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
 DC ELEC
 NAV2 108.00 110.60
 123.800 118.000 COM2
+al
+a
+Oo
+Oo
+>
+J
+Oo
+@
+Oo
+>
+Oo
+oO
+[4
 270°
+)
+-
+-
+-
 TAS 100KT
+al
+~ |
+~ |
 VOR 1
+|
+|
+oO
+-
+—
+—
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+Oo
+>
+oO
+>
+J
+oO
+—
+=
+an
+C)
+al
+at
+=~
+"=
+—
+_
+_
+~*~
+x
+~*~
+x
+x
+—
+ad
+@
+~*~
+x
+O
+ad
+ad
+-
+-
+,
+-
+-
+,
+-
+-
+-
+, sl
+-
+-
+-
+-
+-
+>
+~
+sl
+,
+-
+-
+,-
+sl
+, sa
+rs
+,
+sl
+sa
+-
+sl
+,-
+sl
+—
+-
+, sl
+sl
+sl
+,
+sl
 Figure 6-21. Primary flight display (PFD) and analog counterparts.
+Fig 4-17 primary flight display (PFD)
 6-16
 
-270°
-TAS 106KT
-VOR 1
-XPDR 5537 IDNT LCL23:00:34
-OAT 7°C
-Figure 6-22. Multifunction display (MFD).
-Figure 6-23. Reversionary displays.
+.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
 NAV2 108.00 110.60
 123.800 118.000 COM2
+~~
 MAP - NAVIGATION MAP
 27.3
+Oo
+Oo
+_
+Oo
+>
+Oo
+-
+>
+oO
+>
+Oo
+Oo
+oO
+270°
+-
+-
+TAS 106KT
+-
+VOR 1
+|
+|
+oO
+>
+=
+—
+XPDR 5537 IDNT LCL23:00:34
+OAT 7°C
+Oo
+-
+oO
+J
+oO
+J
+oO
+“a
+wan
+“ay
+- 2
+C)
+al
+at
+awe
+=
+a
+"=
+—
+—
+_
+_
+ioe
+ears
+~
+~
+»~
+~
+~
+ad
+ad
+BS beh
+@
+~*~
+~*~
+Oo
+oO
+TUES
+_
+—
+"/
+sl
+,
+-
+-
+, sl
+-
+sa
+-
+,
+sa
+-
+sl
+-
+-
+a
+>
+~
+-
+, sl
+sa
+sl
+-
+-
+-
+~~
+a
+~~
+-
+,-
+, sa
+-
+-
+-
+—
+,
+-
+-
+-
+-
+-
+Figure 6-22. Multifunction display (MFD).
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
 NAV2 108.00 110.60
 123.800 118.000 COM2
+~
 TRAFFIC
+oO
+oO
+oO
+o
 18.0
+é
+Oo
+oO
+oO
+oO
 270°
 13.7
+-
+-
 TAS 100KT
 OAT 7°C
 ALERTS
@@ -111,13 +331,90 @@ VOR 1
 BACKUP PATH - AHRS using backup
 data path.
 TRAFFIC FAIL - Traffic device
+|
+|
 has failed.
 XPDR1 CONFIG - XPDR1 config
 error. config service req’d.
+~>
+oO
+—
 XPDR 1200 STBY LCL23:00:34
+—
 ALERTS
+oO
+oO
+oO
+Co
+“a
+-
+ey
+C)
+al
+a
+aa
+_
+_
+_
+»~
+»~
+»~
+»~
+»~
+ad
+_
+@
+»~
+»
+ey
+el
++
+_
+-
+-
+-
+-
+-
+, sa
+-
+-
+sl
+,
+-
+sl
+,
+, sa
+-
+4g
+>
+>
+-
+-
+-
+,
+-
+,
+sl
+>
+>
+-
+-
+-
+,
+-
+-
+-
+, sl
+-
+-
+sa
+-
+sa
+Figure 6-23. Reversionary displays.
+Fig 4-19 reversionary mode (failed PFD)
 6-17
 
++ |
 E-W
 N-S
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
@@ -130,15 +427,102 @@ NAV2 117.90 117.60
 118.525 132.900 COM2
 NAV2 117.90 117.60
 118.525 132.900 COM2
+~~
 MAP - NAVIGATION MAP
+o
+oO
+Oo
+Oo
 27.3
+>
+oO
+oO
+Oo
+oO
 270°
+-
+-
 TAS 100KT
 VOR 1
+|
+|
 VOLTS
+Cc
+—
+—
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
+o
+Oo
+oO
+Oo
+—
+-
+a
+—
+OC)
+al
+al
+a
+—
+=
+—
+_
+_
+~*~
+»~
+»~
+»~
+»~
+?
+—
+~*~
+~*~
+o
+—
+" s
+-
+,
+-
+-
+,
+-
+, sa
+-
+,-
+,
+-
+-
+-
+-
+4g
+>
+N
+-
+, sa
+,
+-
+-
+-
+-
+>
+~
+_~
+-
+,
+sa
+-
+-
+-
+7"
+—
+,
+, sa
+,-
+-
+-
+sl
 Figure 6-24. Emergency back-up of the airspeed indicator, attitude indicator, and altitude indicator.
 Control and Performance Method
 The instrumentation can be broken up into three different
@@ -162,19 +546,56 @@ for precise control of aircraft attitude.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+|
+oO
+J
+oO
+J
 NAV2 108.00 110.60
 123.800 118.000 COM2
+,
+|
+_—
+oO
+oO
+a
+a
 E-W
 N-S
 23.0
+q
+—a
+a
+|
+A
+_
+oO
+J
+oO
+.
 -500
+. 4
+ai
+“4
 13.7
 270°
+\
+.7
+>
 TAS 100KT
+-—
+a
 VOR 1
+_ 7
+a
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+oO
+oO
 ALERTS
+a
+a
+Figure 4-21. Control Instruments.
 Figure 6-25. Control instruments.
 6-18
 
@@ -225,30 +646,59 @@ horizontal, vertical, or lateral vectors.
 indicator in order to make precise changes. Power changes
 should be verified on the tachometer, manifold pressure
 gauge, etc. To ease the workload, the pilot should become
+oe|
 Vertical speed indicator
+a
+me|
 Airspeed indicator
+_
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+|
+oO
+i
+oO
+i
 NAV2 108.00 110.60
 123.800 118.000 COM2
+—_
+"
+i
+oO
+(e)
 Slip/skid indicator
 E-W
 N-S
 23.0
+—
+oO
+oO
+>
+a
+.
+—
+—|
 13.7
 270°
+tis
 TAS 100KT
 Pitch indicator
 Heading indicator
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+oO
+oO
 ALERTS
 Figure 6-26. Performance instruments.
 6-19
 
+—
 COM frequency window
+GD
+Ped
+Ped
 NAV frequency window
 COM controls
 Moving map
@@ -258,29 +708,71 @@ NAV1 117.60 117.90
 132.675 120.000 COM1
 NAV1 117.60 117.90
 132.675 120.000 COM1
+|
+-
+oS
+J
+oS
 NAV2 117.90 117.60
 118.525 132.900 COM2
 NAV2 117.90 117.60
 118.525 132.900 COM2
 MAP - NAVIGATION MAP
+e]
+oO
+eo}
+Oo
+-
+>
+>
+E-W
+N-S
+P|
+ta
+“SVage ea
+qué
 Com section
 NAV controls
+oO
+>
+Oo
+oO
+J
+oO
+*
 audio panel
 Glideslope/vertical guidance indicator
 270°
+@|
+&p
+z] So Mr Me
+~~
 GPS/NDB
 VOR
+-
+-
 TAS 100KT
+qué
 DME TUNING
 DME MODE NAV1
 VOR 1
 Course deviation indicator
 NAV section
+qu
 audio panel
+oO
+>
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 DME tuning window
 ALERTS
+e]
+oO
+e]
+oO
+>
+-
+s
 Figure 6-27. Navigation instruments.
 familiar with the approximate pitch and power changes
 By utilizing these four steps, pilots can better manage the
@@ -373,6 +865,7 @@ change in throttle position is required to produce the desired
 change in airspeed. Different aircraft demand differing
 amounts of throttle change to produce specific performance.
 Figure 6-28. The chevron’s relationship to the horizon line indicates
+Figure 4-24. Pitch Control
 It is imperative that the pilot make the specific changes on the
 the pitch of the aircraft.
 power instruments and allow the performance to stabilize.
@@ -384,42 +877,87 @@ establishing the exact power setting.
 Control and power instruments are the foundation for precise
 attitude instrument flying. The keys to attitude instrument
 flying are establishing the desired aircraft attitude on the
+oo
 0°
 attitude indicator and selecting the desired engine output on
+or
 10°
 the power instruments. Cross-checking is the vital ingredient
+y
 20°
 in maintaining precise attitude instrument flight.
+Pad
 30°
+-
+J
+-
+-
+rd
 45°
 Attitude Instrument Flying—Primary and
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _°T TRK 360°T
 NAV1 108.00 113.00
 134.000 118.000 COM1
+rl)
+-
+-
 NAV2 108.00 110.60
 123.800 118.000 COM2
 Supporting Method
 60°
+_—
 The second method for performing attitude instrument
+eo}
+e}
 flight is a direct extension of the control/power method.
 By utilizing the primary and supporting flight instruments
+e]
+>
+oO
 in conjunction with the control and power instruments, the
 270°
 pilot can precisely maintain aircraft attitude. This method
+I
 TAS 106KT
 utilizes the same instruments as the control/power method;
+a
+—
+_
+fo
 VOR 1
+>
+—-
+—-
 however, it focuses more on the instruments that depict the
 most accurate indication for the aspect of the aircraft attitude
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 being controlled. The four key elements (pitch, bank, roll,
+oO
+Oo
+I
 and trim) are discussed in detail.
+_—
+a
+_
+_
+_
+Y
+¥
+¥
 Similar to the control/power method, all changes to aircraft
+™
+a
+,
+i
 attitude need to be made using the attitude indicator and the
 power instruments (tachometer, manifold pressure gauge,
+y
+)
+)
 etc.). The following explains how each component of the
 Figure 6-29. Bank indicator index lines.
+Figure 4-25. Bank Control
 aircraft attitude is monitored for performance.
 6-21
 
@@ -477,16 +1015,37 @@ constant, the VSI and altitude trend tape are not shown on
 maintains a constant airspeed and pitch attitude, the altitude
 the PFD. When these two trend indicators are displayed, the
 should remain constant.
+=
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+|
+oO
+oO
+>
+>
+pu»
 NAV2 108.00 110.60
 123.800 118.000 COM2
+"|
+"
 Slip/skid indicator
+(e}
+oO
+ae|
+-
+a
 E-W
 N-S
 23.0
 Artificial horizon
+=
+enf=”
+oO
+(e}
+J
+a
+.
 Pitch attitude of aircraft
 13.7
 270°
@@ -494,28 +1053,36 @@ TAS 100KT
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+Oo
+oO
 ALERTS
+a
 Figure 6-30. Pitch of the aircraft.
 6-22
 
+|
 regarding the direction and rate of altitude deviations. The
 Airspeed trend (increasing)
 pilot is thus able to make corrections to the pitch attitude
 before a large deviation in altitude occurs. The airspeed
 indicator depicts an increase if the pitch attitude is lowered.
+Le|
 Altitude trend vector
 Conversely, when the pitch attitude increases, the pilot should
+~—_—
 note a decrease in the airspeed.
 -375
 -500
 Primary Bank
 When flying in IMC, pilots maintain preplanned or assigned
 270°
+|
 headings. With this in mind, the primary instrument for bank
 -250
 TAS 100KT
 angle is the heading indicator. Heading changes are displayed
 270°
+t=
 instantaneously. The heading indicator is the only instrument
 3975 -125
 VOR 1
@@ -524,6 +1091,7 @@ it is matched to the magnetic compass with all deviation
 Turn rate trend vector
 adjustments accounted for. [Figure 6-32]
 There are supporting instruments associated with bank as
+Figure 4-27. Supporting Instruments
 Figure 6-31. Supporting instruments.
 well. The turn rate trend indicator shows the pilot when the
 aircraft is changing heading. The magnetic compass is also
@@ -541,24 +1109,59 @@ The VSI and trend tape provide the pilot with information
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+oO
+a
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
 Roll scale zero
+ZA
+“>
+ay
+oO
+oO
+a
+a
 23.0
+—_
 Roll pointer
 Slip/skid indicator
 Skidding turn
+(e)
+oO
+J
+ri
 Heading
 1/2 standard rate
 270°
 13.7
 270°
+“>
 Standard rate
+>
+a
+a
+\
 TAS 100KT
 Turn rate trend vector
 VOR 1
+,
+,
+Lg
+,
+,
+,
+,
 XPDR 5537 IDNT LCL23:00:34
+oO
+oO
 ALERTS
+a
+a
+-
+-
+,
 Figure 6-32. Primary bank.
 6-23
 
@@ -658,21 +1261,48 @@ verified, return to the center of the display. Transition down to
 the heading indicator to verify the desired heading. When the
 heading has been confirmed, scan to the center of the display.
 
+Gg
+ae|
 Slip/skid indicator
 Altitude indicator
+a
+Gg
+|
+td
 Vertical speed indicator
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+@
 Airspeed indicator
 Slip/skid indicator
+oO
+-
+oO
+>
 NAV2 108.00 110.60
 123.800 118.000 COM2
 Pitch Attitude
+ep
 Altitude indicator/VSI
+,
+,
+=
+Oo
+oO
+-
+-
 23.0
 Airspeed indicator
+Pa
+aap
+rf
 Heading indicator
+oO
+oO
+>
+,
+Se
 SCAN PATTERN
 Heading
 Artificial horizon
@@ -682,6 +1312,7 @@ left (airspeed indicator), then
 270°
 right (altitude indicator/VSI),
 then up (slip/skid indicator),
+>
 TAS 100KT
 then down (heading indicator).
 The pilot should return attention
@@ -692,24 +1323,65 @@ the next direction. For example:
 left, center, right, center, up,
 center, down, center.
 XPDR 5537 IDNT LCL23:00:34
+Oo
+oO
 ALERTS
+a
+a
+Zz
+,
+,
+Zz
+Zz
+,
+,
+,
+Figure 4-30. Selected Radial Cross-Check
 Figure 6-33. Selected radial cross-check.
+a
+ap
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+dj
 NAV1 108.00 113.00
 134.000 118.000 COM1
+Guy
 Roll pointer
+oO
+_
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
 Slip/skid indicator
 Rudder
+oO
+oO
+a
+a
 23.0
+A
+A
+A
+Oo
+oO
+J
+, |
 13.7
 270°
+a
 TAS 100KT
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
+oO
+(e)
 ALERTS
+a
+a
+,
+-
+,
 Figure 6-34. Roll pointer and slip/skid indicator.
+Figure 4-31. Starting the Scan
 6-25
 
 It is also important to include the engine indications in the
@@ -738,37 +1410,48 @@ displayed if there is no change to the associated tape and the
 value remains constant [Figure 6-36] or if there is a failure
 in some portion of the system that would preclude the vector
 from being determined.
+a
+=
 Airspeed trend indicator
 shows airspeed will be
 approximately 126 kts in
 6 seconds.
 TAS 120KT
 Figure 6-35. Airspeed trend indicators.
+Figure 4-32. Airspeed Trend Indicators
 Trend vectors are a very good source of information for the
 new instrument rated pilot(s). Pilots who utilize good scanning
 techniques can pick up subtle deviations from desired
+120KT
 parameters and make small correction to the desired attitude.
 As soon as a trend is indicated on the PFD, a conscientious
 pilot can adjust to regain the desired attitude. [Figure 6-37]
 6-26
+Ww
 Airspeed indicator
 showing stabilized
 airspeed (no trend
 indicator present).
 TAS 120KT
 Figure 6-36. Airspeed indicators with no trend present.
+Figure 4-33. Airspeed Indicators No trend present
+ee
 Trend indicator shows
 altitude will be approxi-
 mately 1,780 ft in 6
 seconds.
+——
+ea
 VSI arrow has moved up
 Note
 to indicate a 1,500 fpm
 rate of climb.
+ea
 1,500 fpm ÷ 60 sec = 25 ft
 25 ft per sec x 6 sec = 150 ft
 150 ft + 1,630 ft = 1,780 ft
 Figure 6-37. Altimeter trend indicators.
+Figure 4-34. Altimeter Trend Indicators
 Another advancement in attitude instrument flying is the
 turn rate trend indicator. As in the cases of airspeed, altitude,
 and vertical speed trend indicators, the turn rate trend
@@ -785,35 +1468,76 @@ rate of turn. To initiate a half-standard rate turn, position the
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+i
+ie}
+a
+oO
+J
 NAV2 108.00 110.60
 123.800 118.000 COM2
+~~
+,
+za
 TRAFFIC
+Oo
+oO
+a
+a
 Heading
+Oo
+oO
+>
+ri
+|
 1/2 standard rate
+es
 197°
 Standard rate
 152°
 357°
 CRS
 HDG
+aw
+ee
+>
 TAS 120KT
 Turn rate trend vector
 GPS TERM
+,
+,
+Zz
+,
+,
+,
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
+Oo
+oO
 ALERTS
+a
+a
+,
+,
 Figure 6-38. Horizontal situation indicator (HSI) trend indicator elongates proportionally with the rate of turn.
+Figure 4-35. HSI Trend Indicator elongates proportionate to the rate of turn.
+|
 24° in front of the aircraft or 4° per second. When the aircraft
+a
+|
 Heading
+eae
 exceeds a turning rate of 25° in 6 seconds, the trend indicator
 1/2 standard rate
 197°
 has an arrowhead attached to it.
+ep
 152°
 357°
 CRS
 HDG
 Standard rate
+as
+pm
 Trend indicators are very useful when leveling off at a specific
 altitude, when rolling out on a heading, or when stabilizing
 airspeed. One method of determining when to start to level
@@ -828,8 +1552,10 @@ gradually shrinks until altitude stabilizes. Trend indicators
 should be used as a supplement, not as a primary means of
 determining pitch change.
 Common Errors
+Figure 4-36. HSI Trend Indicator elongates proportionate to the
 Figure 6-39. HSI indicator (enlargement).
 Fixation
+rate of turn (enlarge).
 indicator on the first tick mark. A standard rate turn would
 Fixation, or staring at one instrument, is a common error
 be indicated by the trend indicator extending to the second

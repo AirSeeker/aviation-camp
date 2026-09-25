@@ -1,5 +1,6 @@
 Chapter 6
 Airborne Navigation Databases
+| |
 Introduction
 Area Navigation (RNAV) systems, aeronautical applications,
 and functions that depend on databases are widespread.
@@ -16,35 +17,65 @@ the need for reliable and consistent airborne navigation
 databases is more important than ever.
 6-1
 
+fe
+os
+a
+_
+ab A
+Bee
+=
+-—
+.
+S
+Ls
+BO
+@ir re,
+alo Bol
+=i
+BE
+=
+So
+my
+mE
+ene
+a
+= ook ma
+—__ i
+=
+9 ===
+an
+|
+a
 Figure 6-1. Area navigation (RNAV) receivers.
 The capabilities of airborne navigation databases depend
+processed by the avionics manufacturer. Vital to this
 largely on the way they are implemented by the avionics
+discussion is understanding of the regulations guiding
 manufacturers. They can provide data about a large
+database maintenance and use.
 variety of locations, routes, and airspace segments for use
 by many different types of RNAV equipment. Databases
-can provide pilots with information regarding airports,
-air traffic control (ATC) frequencies, runways, and special
-use airspace. Without airborne navigation databases,
-RNAV would be extremely limited. In order to understand
-the capabilities and limitations of airborne navigation
-databases, pilots must understand the way databases
-are compiled and revised by the database provider and
-6-2
-processed by the avionics manufacturer. Vital to this
-discussion is understanding of the regulations guiding
-database maintenance and use.
 There are many different types of RNAV systems certified
+can provide pilots with information regarding airports,
 for instrument flight rules (IFR) use in the National Airspace
+air traffic control (ATC) frequencies, runways, and special
 System (NAS). The two most prevalent types are GPS and
+use airspace. Without airborne navigation databases,
 the multisensory FMS. [Figure 6-2] A modern GPS unit
+RNAV would be extremely limited. In order to understand
 accurately provides the pilot with the aircraft’s present
+the capabilities and limitations of airborne navigation
 position; however, it must use an airborne navigation
+databases, pilots must understand the way databases
 database to determine its direction or distance from
+are compiled and revised by the database provider and
 another location. The database provides the GPS with
+6-2
 
 position information for navigation fixes so it may perform
 the required geodetic calculations to determine the
 The display allows you to view information stored in the FMS.
+6-3 |
 appropriate tracks, headings, and distances to be flown.
 [Figure 6-3]
 . nm
@@ -53,6 +84,8 @@ PROC
 CRSR
 DTK
 Modern FMS are capable of a large number of functions
+-
+,
 TK
 MENU
 PUSH ON
@@ -70,16 +103,22 @@ NRST
 CLR
 ENT
 PULL SCAN
+|
 navigation. Unlike stand-alone navigation systems, most
 FMS/
 FMS use several navigation inputs. Typically, they formulate
 RANGE
 NAV-COM
+&
+Oo
+*
 PFD
 MENU
 −
 +
 the aircraft’s current position using a combination of
+J
+iF
 FPL
 PROC
 Controls such as
@@ -88,6 +127,8 @@ PUSH
 PAN
 conventional distance measuring equipment (DME) signals,
 buttons and knobs
+—
+—
 PFD
 MFD
 A
@@ -96,6 +137,8 @@ C
 D
 inertial navigation systems (INS), GPS receivers, or other
 allow you to make
+&
+&
 E
 F
 G
@@ -103,6 +146,8 @@ H
 entries into the FMS.
 EMERG
 RNAV devices. Like stand-alone navigation avionics, they
+&§
+&§
 NAV
 COM
 I
@@ -110,20 +155,28 @@ J
 K
 L
 rely heavily on airborne navigation databases to provide
+=
+=
 M
 N
 O
 P
+—
+—
 the information needed to perform their numerous
 Q
 R
 S
 T
+&
+&
 U
 V
 W
 X
 functions.
+=
+=
 Y
 Z
 SPC
@@ -133,14 +186,106 @@ BKSP
 DFLT MAP
 SOFTKEY SELECT
 Airborne Navigation Database Standardization
+—
+—
 SEL
 CLR
 ENT
 Beginning in the 1970s, the requirement for airborne
 navigation databases became more critical. In 1973,
 Figure 6-2. GPS with a flight route on display.
+GARMIN
+ae
+VOL
+ag
+Modified
+:
+_——{Modify|—
+===
+(MAB
+Pwr”
+com
+721.600 KSQL > 027
+—
+KSQL
+==)
+Be
+BRG 060°
+ie
+SUNOL
+21.74 [> Wet
+|
+:
+XPDR
+ane16.00"
+discontinuity
+Seesnracty
+eS
+[=Arwy]
+This FMS allows you to insert
+—
+21.72 LE ArWwy'|
+an entire airway into your route.
+cpt
+|
+No Active Leg
+FPL
+INFO
+w
+‘Toaral
+Fj
+| BACK]| EXEC ||XPND.
+ENTER
+\ &
+susP @
+FN
+a
+a
+az
+a
+CRSR
+po cum] V195 + ECA
+Viosle
+The navigation database looks up
+ee
+all of the airways that connect to
+sm [va07]
+-
+the previous waypoint in the route.
+I
+"
+fs
+N
+[334
+;
+Modified
+a
+io
+i ae
+SUNOL
+21.7%
+|
+* ECA:
+The software performs a
+V195
+BACK]
+FPL Um TRACY
+40.08,
+database search for all of the
+-
+'BRG 060°
+airways, causing all waypoints
+SHARR.
+#9Gi
+along the airway to be inserted
+ECA,
+55.0m
+into the route.
+|
+No Active Leg
+FPL
+BACK] EXEC | XPND
 Figure 6-3. FMS display.
-6-3
 
 National Airlines installed the Collins ANS-70 and AINS­
 70 RNAV systems in their DC-10 fleet, which marked the
@@ -241,7 +386,26 @@ Simple Route Records
 Route records are those that describe a flightpath
 instead of a fixed position. Simple route records contain
 
+6-5 =
+'
+a
+@&
+7a
+Fly-over
+"|
+a
+_
+a
+a
+.
+_
+()
+f
+~~
+~~
 Fly-by
+~~
+~~
 Waypoint
 Waypoint
 Flight plan path
@@ -296,8 +460,6 @@ Path and Terminator Concept
 paths that make up instrument departures, arrivals, and
 The path and terminator concept is a means to permit
 approaches. They describe to navigation avionics a path
-Fly-over
-6-5
 
 to be followed and the criteria that must be met before
 the path concludes and the next path begins. Although
@@ -581,79 +743,536 @@ value must be entered into the record’s path and terminator
 procedure. This will cause the RNAV equipment to direct
 6-9
 
+(UNC5.JNC) 10322
+GRAND JUNCTION RGNL (GJT)
+GRAND JUNCTION FIVE DEPARTURE
+_s.e34 (Fas)
+GRAND JUNCTION, COLORADO
+ATIS
+118.55
+CLNC DEL
+§,
+1217 2878
+y s
+By oae ON wee
+rasiS
+GND
+yy
+7RAND JU
+ER
+N97 317.4
+DEP CON *
+feria
+DENVER
+& 7 wi08er3.33"
+UNICOM 122.95
+ny
+Ss
+ow
+pe
+act
+=
+o
+/
+RED TABLE
+fi
+113.0 DBL S43;
+3) OT 25)
+y000, SPACES |Chon 77
+—960
+3909.95),
+aap)
+ee
+$000")
+ye
+082"
+a
+GRAND JUNCTION
+i aeB0
+-
+ENS,
+(43)
+g
+1i24INC Epa>
+Vy
+Pins, ‘te
+DIRDY
+o
+me
+‘chon 71
+m0
+Nae"5s80 |
+e
+0g,
+wio730.91" | &
+Ly
++
+&
+@
+g
+|
+TAKE-OFF OBSTACLE NOTE
+Y
+3 | Rwy 11: Tree 192’ from DER, 438" left of centerline,
+100’ AGL/4949 MSL.
+=
+& | TAKE-OFF MINIMUMS
+Nissi
+g
+3 | Rwy 4: NA- Obstacles.
+wi08"17.36"
+B
+| Rwy 22: NA- Obstacles, facility receplion (INC VOR/DME).
+SAL
+3 | Rwy 11: Standard with o minimdng climb of 300’ per NM to 9300.
+AS,
+=
+& | Rwy 29: Standard with a’minimum climb of 300’ per NM to 8300.
+Rs,
+=
+NOTE: Rwy 11, cross DER at orabove 35” AGL/4893 MSL.
+i fe
+NOTE: Rwy 29, cross DER ator above 35’ AGL/4855’ MSL.
+OX S ty
+NOTE: BRICK ond DIRDY TRANSITIONS: DME required.
+NOTE: Chart notte seal.
+BS
+™
+DEPARTURE ROUTE DESCRIPTION
+peciemmovar
+via transition/route.
+-
+ar
+(AY 11: Climb runway heading to 6000, then climbing right turn
+TAKE-OFF RUNWAY 29: Climb runway heading to 6000, then climbing left turn
+‘direct JNC VOR/DME; then via transition/route.
+BRICK TRANSITION (JNC5.BRICK): From over JNC VOR/DME via JNC R-113 to
+BRICK/JNC 30 DME.
+DIRDY TRANSITION (JNC5.DIRDY): From over JNC VOR/DME via JNC R-082 to
+HONKR/JNC 17 DME then via JNC R-082 to DIRDY INT/JNC 60 DME.
+PACES TRANSITION (JNC5.PACES): From over JNC VOR/DME via JNC R-060 to
+PACES INT/JNC 25 DME.
+SQUAT TRANSITION (JNC5.SQUAT): From over JNC VOR/DME via JNC R-045 to
+SQUAT INT/JNC 31 DME.
+GRAND JUNCTION FIVE DEPARTURE
+GRAN INGTON, COBRA
+(INC5.JNC) 10322
+GRAND JUNCTION RGNL (GJT)
 Figure 6-26. Grand Junction Five Departure.
 6-10
 
+a
+(CHANL1.SXC)
+SANTA ANA/JOHN WAYNE AIRPORT-ORANGE COUNTY (SNA)
+CHANNEL ONE DEPARTURE _ sv277 Faw)
+SANTA ANA, CALIFORNIA
+ATIS 126.0
+‘SHAFTER:
 NOT FOR NAVIGATION
+118.0
+‘Chon 101
+‘GND CON
+Q
+(EAST) 120.8
+LOT, HA
+(WEST) 132.25
+2 oo
+ina
+Bes
+NOTE: RADAR required.
+25%
+NOTE: Some aircraft may be radar vectored
+GORMAN
+Noo,
+to assigned route.
+N35°00.75"
+NOTE: Approximate distance from Rwy 19R/L
+wiie?36.98"
+take-off area to SXC VORTAC is 40 NM.
+Chan 108
+.
+”
+a
+NOTE: This departure requires a minimum climb
+°
+rate of 240’ per NM to 2400" MSL.
+.
+NARGIS
+%
+Bes
+NOTE: This departure is restricted to turbojet and
+P\
+Sst
+turboprop aircraft only. SHAFTER transition
+149 Rs Ee
+|g)
+e
+and GORMAN transition restricted to turbojet
+Chan 96"
+2.
+\B)
+aircraf.
+‘333\e
+L347, Hea
+BD
+TOS ANGELES,
+o ON 1s,
+ca
+TOCALZER 111.75
+z
+25gto
+tna HE
+ay NG
+Chan54 (Y)
+Q
+yp
+s
+>
+z
+R, °. oa)
+8z
+S
+SEAL BEACH
+a
+z
+VENTURA,
+157 SU iE
+°
+z
+108.2 VU =
+Chan 104
+rR
+SOE
+WHIPOIT|
+Ve
+=
+Zao
+Bes
+/
+£
+Vv
+es 2642_/ NOTE: Chart not to scale
+‘SANTA CATALINA.
+DEPARTURE ROUTE DESCRIPTION
+TAKE-OFF RUNWAY 191/R: Maintain runway heading or ISNA localizer south course
+to KSNA 1 DME fix or SLI R-118, turn left heading 175°, cross SLI R-132 then turn right
+heading 200°, intercept and proceed via SXC R-084 to SXC VORTAC, thence via (transition)
+or (assigned route). Expect filed altitude ten minutes after departure.
+GORMAN TRANSITION (CHANLI.GMN): From over SXC VORTAC via SXC R-344 and
+LAX R-164 to LAX VORTAC, then via LAX R-323 and GMN R-142 to GMN VORTAC.
+SAN MARCUS TRANSITION (CHANLI.RZS):
+From over SXC VORTAC via SXC R-310 and
+VTU R-129 to VTU VOR/DME, then via VTU R-289 and RZS R-109 to RZS VORTAC.
+SHAFTER TRANSITION (CHANLI.EHF):
+From over SXC VORTAC via SXC R-344 and LAX
+R-164 to LAX VORTAC, then via LAX R-337 to LANDO INT and EHF R-126 to EHF VORTAC.
+CHANNEL ONE DEPARTURE
+seen
+(CHANLI.SXC) 07208
+SANTA ANA/JOHN WAYNE AIRPORT-ORANGE COUNTY (SNA)
 Figure 6-27. Channel One Departure.
 6-11
 
+DURANGO, COLORADO.
+AL-4B0 (FAA)
+10 Hono ar cs]
+9 20
+ILS or LOC/DME RWY 3
+109.1 | 027°
+|TOZE | 6638
+Apt Elev 6685
+DURANGO-LA PLATA COUNTY (DRO)
+VME from DROVOR/DME
+MALSR | MISSEDAPPROACH:
+Simultaneous reception of HDRO and DRO VOR/DME
+Climb to 7500 then climbing rightim
+-3- |e 10000 via heading140°
+required,
+ond DRO VOR/DME R-120 to.
+© © |SovDE/14
+DME ond hold. Continue
+climb-infeld
+jo 10000
+ASOS.
+DENVER CENTER
+UNICOM,
+120.625
+118.575 348.7
+won
+Bas
+DME REQUIRED
+wp
+ey,
+7a00
+vie
+Procedure NA for arrivals of RSK VORTAG
+IAF)
+sirway radials 333 CW 072
+wah
+(070°—— [275°
+DRO [14)
+LOCAUZER
+109.)
+p
+~R27
+boro Hes
+>
+69032 “>
+DURANGO.
+a,
+ee
+108.2 DRO E2!_
+=
+a
+=
+68192f/~100000
+COR
+Chan 19
+(AF)
+TP
+sos 5)
+Bee
+=
+g
+Yo hes
+M
+reel Pog (et 8
+Ss
+ae
+Y
+OS
+(wh
+Ks
+& fe~)
+OG
+JURE
+SS9
+|e
+a
+N
+%,
+“Ye
+| $
+1b
+OTE)
+we
+$5
+Xt
+ZS
+a,
+wan | S
+3S
+Xe
+z
+R
+(;
+Ny, SK sove | O
+to,XN profi] &
+A
+°
+ose hy ¥
+=
+OP
+Ril
+S
+g
+iF
+orl
+bi
+tinoy
+iDare | _fIEV 6685
+10000 NoPt
+to HINDY.
+i ~ pro [14)
+fg putt PRO
+Mv
+IAF
+Z
+018° (15.6) 9
+RATTLESNAKE
+8702. A
+CO
+J
+115.3 Rsk STL
+fe
+Chan 100.
+JUBEP
+(J
+_ Remain
+pro[75) te
+DRO | SOVDE
+a
+within 10 NM
+——
+hhdg | 8-120 [DRO
+bm
+S207"
+|
+140°
+__oe 027°.
+OC only
+VBE
+DRO.
+a
+a
+ro[2:8)
+a
+GS 3,00°
+|
+Lo
+ADEE.
+G
+eau
+sia
+6638 Offs
+Ee
+ee
+f°
+| sis3 |
+FS
+SS ST
+eA
+6838-V2 200 (200-15)
+f ©
+07776.
+S-l0C 3
+70B0-V2 442 (400-1)
+ee
+ena
+fe Oe
+7180-1
+442(400-%4) | 442 (400-1)
+ery |
+7200-1
+7220-12
+7260-2
+HIRLR rea ry
+DURANGO, COLORADO
+(500-1)_|_515(600-1)_|
+535 (400-114) | _575 (600-2
+y
+Bee aR
+DURANGO-LA PLATA COUNTY (DRO)
+srorntorasw
+ILS or LOC/DME RWY 3
 Figure 6-28. ILS or LOC/DME RWY 3 in Durango, Colorado.
 6-12
 
 the pilot to make an immediate turn toward the Durango
+21 days prior to the effective date of the revision.
 VOR instead of flying the series of headings that terminate
 at specific altitudes as dictated by the approach procedure.
-[Figure 6-28] Pilots must be aware of their individual
-systems Path and Terminator handling characteristics
-and always review the manufacturer’s documentation to
-familiarize themselves with the capabilities of the RNAV
-equipment they are operating. Pilots should be aware that
-some RNAV equipment was designed without the fly-over
-capability which can cause problems for pilots attempting
-to use this equipment to fly complex flightpaths in the
-departure, arrival, or approach environments.
-Role of the Database Provider
-Compiling and maintaining a worldwide airborne
-navigation database is a large and complex job. Within the
-United States, the FAA sources give the database providers
-information, in many different formats, which must be
-analyzed, edited, and processed before it can be coded
-into the database. In some cases, data from outside the
-United States must be translated into English so it may be
-analyzed and entered into the database. Once the data is
-coded, it must be continually updated and maintained.
-Once the FAA notifies the database provider that a change
-is necessary, the update process begins. The change is
-incorporated into a 28-day airborne database revision cycle
-based on its assigned priority. If the information does not
-reach the coding phase prior to its cutoff date (the date that
-new aeronautical information can no longer be included
-in the next update), it is held out of revision until the next
-cycle. The cutoff date for aeronautical databases is typically
-Figure 6-29. Naming conventions of three different systems for the VOR 34 Approach.
-21 days prior to the effective date of the revision.
 The integrity of the data is ensured through a process called
+[Figure 6-28] Pilots must be aware of their individual
 cyclic redundancy check (CRC). A CRC is an error detection
+systems Path and Terminator handling characteristics
 algorithm capable of detecting small bit-level changes in
+and always review the manufacturer’s documentation to
 a block of data. The CRC algorithm treats a data block as
+familiarize themselves with the capabilities of the RNAV
 a single, large binary value. The data block is divided by a
+equipment they are operating. Pilots should be aware that
 fixed binary number called a generator polynomial whose
+some RNAV equipment was designed without the fly-over
 form and magnitude is determined based on the level of
+capability which can cause problems for pilots attempting
 integrity desired. The remainder of the division is the CRC
+to use this equipment to fly complex flightpaths in the
 value for the data block. This value is stored and transmitted
+departure, arrival, or approach environments.
 with the corresponding data block. The integrity of the
 data is checked by reapplying the CRC algorithm prior to
+Role of the Database Provider
 distribution.
+Compiling and maintaining a worldwide airborne
 Role of the Avionics Manufacturer
+navigation database is a large and complex job. Within the
+United States, the FAA sources give the database providers
 When avionics manufacturers develop a piece of
+information, in many different formats, which must be
 equipment that requires an airborne navigation database,
+analyzed, edited, and processed before it can be coded
 they typically form an agreement with a database provider
+into the database. In some cases, data from outside the
 to supply the database for that new avionics platform. It
+United States must be translated into English so it may be
 is up to the manufacturer to determine what information
+analyzed and entered into the database. Once the data is
 to include in the database for their system. In some cases,
+coded, it must be continually updated and maintained.
 the navigation data provider has to significantly reduce the
 number of records in the database to accommodate the
+Once the FAA notifies the database provider that a change
 storage capacity of the manufacturer’s new product, which
+is necessary, the update process begins. The change is
 means that the database may not contain all procedures.
+incorporated into a 28-day airborne database revision cycle
+based on its assigned priority. If the information does not
 Another important fact to remember is that although there
+reach the coding phase prior to its cutoff date (the date that
 are standard naming conventions included in the ARINC
+new aeronautical information can no longer be included
 424 specification, each manufacturer determines how
+in the next update), it is held out of revision until the next
 the names of fixes and procedures are displayed to the
+cycle. The cutoff date for aeronautical databases is typically
 pilot. This means that although the database may specify
+|
+| ewes
+om
+TK
+322,
+~eed
+|
+RK
+322%
+it) 19600) 1335 KE .
+105: Fey
+"apd
+1280 |W
+_
+oT
+Mi tosco |”
+ye
+be!
+cg
+(feoaier|
+..
+oY
+~
+|
+oe
+SIEM]
+68. (eee)
+=
+PIEOFEPes
+Pee
+it
+KEUG
+APPROACH
+§
+x
+: ‘=
+<ivorone 34
+GPsau> il =}
+P|
+mn
+| <Koe
+“ULE
+‘S)) =)os) oe) ew
+oe
 EUGA <VOR 34
 >APR
+ew
 IAF / TRAN: D130NIF
+a)
+—
+ri)
+|
+APP TRANS
+rRRvAL>
+1h
+Figure 6-29. Naming conventions of three different systems for the VOR 34 Approach.
 6-13
 
 the approach identifier field for the VOR/DME Runway
@@ -685,8 +1304,21 @@ CFR Part 91, § 43.3(g). Parts 121, 125, and 135 operators
 must update databases in accordance with their approved
 maintenance program. For Part 135 helicopter operators,
 this includes maintenance by the pilot in accordance with
+* Collect the data
+* Format per ARINC 424
+* Revise and maintain database
+Decide on:
+* Information to be included
+* How information will be processed
++ User interface
+* Ensure currency
+[Plots
+* Execute updates
+* Responsible for working knowledge of avionics using
+database
 Figure 6-30. Database rolls.
 6-14
+end users)
 14 CFR Part 43, § 43.3(h).
 Pilots using the databases are ultimately responsible for
 ensuring that the database they are operating with is
@@ -718,20 +1350,24 @@ arrivals, not all systems have the same capabilities.
 RNAV equipment installed in some aircraft is limited to
 direct route point-to-point navigation. Therefore, it is
 very important for pilots to familiarize themselves with
+|
 the capabilities of their systems through review of the
 manufacturer documentation. Most modern RNAV systems
+|
 are contained within an integrated avionics system that
 receives input from several different navigation and aircraft
 system sensors. These integrated systems provide so much
 information that pilots may sometimes fail to recognize
 errors in navigation caused by database discrepancies or
 misuse. Pilots must constantly ensure that the data they
+|
 enter into their avionics is accurate and current. Once
 the transition to RNAV is made during a flight, pilots and
 flight crews must always be capable and ready to revert to
 conventional means of navigation if problems arise.
 Closed Indefinitely Airports
 Some U.S. airports have been closed for up to several years,
+|
 with little or no chance that they will ever reopen; yet their
 “indefinite” closure status – as opposed to permanent or
 UFN closure, or abandonment – causes them to continue
@@ -834,76 +1470,171 @@ This problem is complicated by the fact that multiple
 NAVAIDs can be designated with the same identifier. VOR
 6-15
 
+manufacturer’s naming conventions.
 XYZ may occur several times in a provider’s database, so
 the avionics manufacturer must design a way to identify
-these fixes by a more specific means than the three-letter
-identifier. Selection of geographic region is used in most
-instances to narrow the pilot’s selection of NAVAIDs with
-like identifiers.
-Non-directional beacons (NDBs) and locator outer markers
-(LOMs) can be displayed differently than they are charted.
-When the first airborne navigation databases were being
-implemented, NDBs were included in the database as
-waypoints instead of NAVAIDs. This necessitated the use
-of five character identifiers for NDBs. Eventually, the NDBs
-were coded into the database as NAVAIDs, but many of
-the RNAV systems in use today continue to use the five-
-character identifier. These systems display the characters
-“NB” after the charted NDB identifier. Therefore, NDB ABC
-would be displayed as “ABCNB.”
-Other systems refer to NDB NAVAIDs using either the NDB’s
-charted name if it is five or fewer letters, or the one to three
-character identifier. PENDY NDB located in North Carolina,
-for instance, is displayed on some systems as“PENDY,”while
-other systems might only display the NDBs identifier “ACZ.”
-[Figure 6-31]
-Using the VOR/DME Runway 34 approach at Eugene
-Mahlon Sweet Airport (KEUG) in Eugene, Oregon, as
-another example, which is named V34, may be displayed
-differently by another avionics platform. For example, a
-GPS produced by one manufacturer might display the
-approach as VOR 34, whereas another might refer to the
-approach as VOR/DME 34, and an FMS produced by another
-manufacturer may refer to it as VOR34. These differences
-can cause visual inconsistencies between chart and GPS
-displays, as well as confusion with approach clearances
-and other ATC instructions for pilots unfamiliar with specific
-Figure 6-31. Manufacturer’s naming conventions.
-6-16
-manufacturer’s naming conventions.
 For detailed operational guidance, refer to Advisory Circular
+these fixes by a more specific means than the three-letter
 (AC) 90-100, U.S. Terminal and En Route Area Navigation
+identifier. Selection of geographic region is used in most
 (RNAV) Operations; AC 90-101, Approval Guidance for
+instances to narrow the pilot’s selection of NAVAIDs with
 Required Navigation Performance (RNP) Procedures with
+like identifiers.
 Authorization Required (AR); AC 90-105, Approval guidance
 for RNP Operations and Barometic Vertical Navigation
+Non-directional beacons (NDBs) and locator outer markers
 in the U.S. National Airspace System and in Oceanic and
+(LOMs) can be displayed differently than they are charted.
 Remote Continental Airspace; and AC 90-107, Guidance
+When the first airborne navigation databases were being
 for Localizer Performance with Vertical Guidance and
+implemented, NDBs were included in the database as
 Localizer Performance without Vertical Guidance Approach
+waypoints instead of NAVAIDs. This necessitated the use
 Operations in the U.S. National Airspace System.
+of five character identifiers for NDBs. Eventually, the NDBs
+were coded into the database as NAVAIDs, but many of
 Issues Related To Magnetic Variation
+the RNAV systems in use today continue to use the five-
+character identifier. These systems display the characters
 Magnetic variations for locations coded into airborne
+“NB” after the charted NDB identifier. Therefore, NDB ABC
 navigation databases can be acquired in several ways. In
+would be displayed as “ABCNB.”
 many cases they are supplied by government agencies in
 the epoch year variation format. Theoretically, this value
+Other systems refer to NDB NAVAIDs using either the NDB’s
 is determined by government sources and published for
+charted name if it is five or fewer letters, or the one to three
 public use every five years. Providers of airborne navigation
+character identifier. PENDY NDB located in North Carolina,
 databases do not use annual drift values; instead the
+for instance, is displayed on some systems as“PENDY,”while
 database uses the epoch year variation until it is updated by
+other systems might only display the NDBs identifier “ACZ.”
 the appropriate source provider. In the United States, this
+[Figure 6-31]
 is the National Oceanic and Atmospheric Administration
 (NOAA). In some cases the variation for a given location is
+Using the VOR/DME Runway 34 approach at Eugene
 a value that has been calculated by the avionics system.
+Mahlon Sweet Airport (KEUG) in Eugene, Oregon, as
 These dynamic magnetic variation values can be different
+another example, which is named V34, may be displayed
 than those used for locations during aeronautical charting
+differently by another avionics platform. For example, a
 and must not be used for conventional NAVAIDs or airports.
+GPS produced by one manufacturer might display the
+approach as VOR 34, whereas another might refer to the
 Discrepancies can occur for many reasons. Even when the
+approach as VOR/DME 34, and an FMS produced by another
 variation values from the database are used, the resulting
+manufacturer may refer to it as VOR34. These differences
 calculated course might be different from the course
+can cause visual inconsistencies between chart and GPS
 depicted on the charts. Using the magnetic variation for the
+displays, as well as confusion with approach clearances
 region instead of the actual station declination can result
+and other ATC instructions for pilots unfamiliar with specific
 in differences between charted and calculated courses and
+Pa / few i +B
+soe
+fort)
+-f
+A]
+i
+ys
+a
+f
+Y
+r
+WASHINGTON
+Semper
+x g
+bo /|
+wag
+/
+Le
+J
+Jf
+|
+(
+|
+rrcxsona
+Re
+Se, |
+(a anf)
+|
+|
+oan
+P
+.
+-
+A}
+\
+al\\
+/
+\
+|
+i
+}
+|
+we \ JS
+\/
+fs
+101 Nea ait
+S
+|
+UB = f_ —$8.
+\ |
+anarerae
+/
+S
+S
+=
+—_ 4 Bate
+vauace
+y
+1 S203 EXCLUDES ABSPACE
+<
+Pn,
+re
+;
+frome
+Li
+oe
+:
+ere
+I\
+Wing,
+*
+—
+|
+Ng, a
+| cous
+© Oe
+%
+"
+ae
+|
+sé
+TNA HEN
+J \
+s
+Se
+#008,
+ay
+Y
+hy
+=
+y
+Uy,
+gv?
+=,
+x»
+Figure 6-31. Manufacturer’s naming conventions.
+6-16
 
 incorrect ground track. Station declination is only updated
 when a NAVAID is site checked by the governing authority

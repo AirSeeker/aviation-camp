@@ -1,6 +1,7 @@
 Chapter 9
 Navigation
 Systems
+P|
 Introduction
 This chapter provides the basic radio principles applicable to
 navigation equipment, as well as an operational knowledge
@@ -66,6 +67,12 @@ Space wave
 Ionosphere
 Sky wave
 Ground wave
+i
+,
+~~
+P|
+ij
+Figure 7-1. Ground, space, and sky wave propagation.
 Figure 9-1. Ground, space, and sky wave propogation.
 “bounced” off of the ionosphere, which is always changing
 due to the varying amount of the sun’s radiation reaching it
@@ -152,16 +159,34 @@ heading (MH) is the direction the aircraft is pointed with
 respect to magnetic north. The magnetic bearing (MB) is the
 direction to or from a radio transmitting station measured
 relative to magnetic north.
+|an’
+eal
+l an \
+a
 N
+a
 W
+=
+_
 E
 S
 HDG
+~~
 ADF
 KR 87 TSD
 ADF
 FRQ
+J
 VOL
+-
+|
+-
+|
+~
+|
+~
+|
+yy
 FRQ
 FLT
 SET
@@ -171,6 +196,7 @@ OFF
 ET
 RST
 Figure 9-2. ADF indicator instrument and receiver.
+Figure 7-2. ADF indicator instrument and receiver.
 NDB Components
 The ground equipment, the NDB, transmits in the frequency
 range of 190 to 535 kHz. Most ADFs also tune the AM
@@ -200,26 +226,47 @@ card ADF, rotatable compass-card ADF, or radio magnetic
 9-3
 
 indicator (RMI) with either one needle or dual needle. Fixed-
+|a’
+eal
 card ADF (also known as the relative bearing indicator (RBI))
+l an \
+a
 always indicates zero at the top of the instrument, with the
 needle indicating the RB to the station. Figure 9-3 indicates
 N
 E
 an RB of 135°; if the MH is 045°, the MB to the station is
+—_
 180°. (MH + RB = MB to the station.)
+|a’
+al
+l an \
+=
 N
+=
+_
 W
 S
 HDG
 W
 E
+_
+~~
+Figure 7-4. Relative bearing (RB) on a movable-card indicator.
 Figure 9-4. Relative bearing (RB) on a movable-card indicator. By
 placing the aircraft’s magnetic heading (MH) of 045° under the
 top index, the RB of 135° to the right is also the magnetic bearing
 S
+~~
 (no wind conditions), which takes you to the transmitting station.
+|an’
+el
+al
+l an \
+P~
 ADF needle
 Figure 9-3. Relative bearing (RB) on a fixed-card indicator. Note
+Figure 7-3. Relative bearing (RB) on a fixed-card indicator.
 N
 that the card always indicates 360° or north. In this case, the RB
 to the station is 135° to the right. If the aircraft were on a magnetic
@@ -229,6 +276,8 @@ The movable-card ADF allows the pilot to rotate the aircraft’s
 present heading to the top of the instrument so that the head
 W
 E
+=
+_
 of the needle indicates MB to the station and the tail indicates
 MB from the station. Figure 9-4 indicates a heading of 045°,
 MB to the station of 180°, and MB from the station of 360°.
@@ -236,9 +285,12 @@ The RMI differs from the movable-card ADF in that it
 automatically rotates the azimuth card (remotely controlled
 S
 by a gyrocompass) to represent aircraft heading. The RMI
+~~
+~~
 has two needles, which can be used to indicate navigation
 information from either the ADF or the VOR receiver. When
 a needle is being driven by the ADF, the head of the needle
+Figure 7-5. Radio magnetic indicator (RMI).
 indicates the MB TO the station tuned on the ADF receiver.
 Figure 9-5. Radio magnetic indicator (RMI). Because the aircraft’s
 The tail of the needle is the bearing FROM the station. When
@@ -355,52 +407,117 @@ needle is again zeroed, turn into the wind with a reduced
 drift correction angle.
 9-5
 
+| |
 310°
 Station
+;
 HDG 310°
+X
+f~
+_
+_
+—
+—
+=
 W
+yy
 N
+i
+>
 2I
+\
+y
 S
 I5
 I2
 E
+i
+\
 ADF
+dj
+-
+|
 320°
 HDG 320°
+f~
+al
+al
+=
+_
+_
 N
 W
+-
+a
+>
 2I
+\
+_
 E
 I2
 S
 I5
+-
+-
 WIND
 ADF
+| |
 330°
 HDG 330°
+f~
+-
+=
+_
+_
 N
+A
 W
+y |
+wa
+\
+f
 2I
+_
 E
 N
+J
+-
+-
+-_
+=
+-
 I2
+-
 I5
 S
 GS
 W
 E
+-
 NAV
 S
 OBS
+i
+ss
+|
 ADF
+_-
+ss
 Instrument view is from
 the pilot’s perspective,
 and the movable card is
+f
 reset after each turn
 360°
 HDG 360°
+al
+f~
+—
+—
+=
 N
+a
+a
 W
 E
 I2
@@ -408,30 +525,67 @@ I5
 2I
 S
 ADF
+|
+,
+|
+y
 050°
 HDG 050°
+‘
+f~
+al
+_
+—
+—
+=
+-
 E
 N
+YA
+\
 I2
+N
 I5
+Y
 2I
 S
 W
++
 ADF
 Figure 9-6. ADF homing with a crosswind.
 9-6
 
+|
 Station
 350°
 HDG 350°
+f~
+al
+a
+—
+—
 N
+j
+—
+—_|
 W
+A
 E
 I2
 2I
 I5
 S
+f
+\
+J
+-
+J
+-_
+-
 N
+-—
+-_
+*
 GS
 W
 E
@@ -439,34 +593,70 @@ NAV
 S
 OBS
 ADF
+__s
+ss
+__s
+i
+|
 Instrument view is from
 the pilot’s perspective,
 340°
 HDG 340°
 and the movable card is
+f~
+-
+J
+_
 reset after each turn
+—
+—
 N
+>
+er
 W
+_—|
+—
 E
 2I
 I2
 I5
 S
 ADF
+|
 340°
 HDG 340°
+f~
+il
+a
+—
+—
 N
+>
+_|
 W
+—
+\
+——
 E
 2I
 I2
 I5
+—
 S
 WIND
 ADF
+|
 360°
 HDG 360°
+f~
+al
+al
+_
+_
 N
+EE
+nl
+—
 WCA = 10° LEFT
 W
 E
@@ -476,14 +666,25 @@ I5
 2I
 S
 ADF
+:
 005°
+|
 005°
 HDG 005°
+f~
+al
+a
+—_
+—
 N
+—— _—_—
+———
+—
 E
 W
 I2
 I5
+}
 2I
 S
 ADF
@@ -598,62 +799,141 @@ navigation (TACAN) equipment is installed with the VOR,
 it is known as a VORTAC and provides both azimuth and
 distance information.
 
+[|
 350°
 HDG 350°
+\
+an \
+al
 330°
+a
+—_
+—
 N
+q
 W
 E
+|
 I2
+——
 2I
+——
 I5
+—
 S
+[|
 ADF
 340°
 HDG 340°
+an \
+~~
+al
+a
+_
+_
 N
 W
+‘
+-|
+_
 E
+\
 2I
 I2
 I5
+——
 S
+a—
+| |
+\
 ADF
 330°
 HDG 330°
+.
+-
+an \
+~ |
+~ |
+=
 N
 W
+-
+@
+>
+\
 2I
+_
 E
 I2
 I5
+|
 S
+i
+[|
 ADF
 330°
 HDG 330°
+|
+an \
+~~
+>
+a
+—
+_
 N
+>
 W
+\
+=
+|
 2I
+-
 E
 I2
 I5
 S
+|
 ADF
 015°
 HDG 015°
+z
+—
+|
+j
+—
 ADF
+~—_—
+al
+an \
+—
+—
+=
 N
 E
 Station
 I2
 W
 I5
+|
 2I
 WIND
 S
 015°
 HDG 015°
+z
+—
+——
+j
+i
+.—_—
+{
 N
+=
+a
+nal
+J
+a
+J
 GS
 W
 E
@@ -661,12 +941,22 @@ NAV
 S
 OBS
 ADF
+__s
+__s
+ss
+ss
+an \
+al
+—
+—
+P~
 N
 Instrument view is from
 E
 the pilot’s perspective,
 I2
 W
+i
 I5
 and the movable card is
 2I
@@ -676,6 +966,12 @@ reset after each turn
 Figure 9-8. ADF interception and tracking outbound.
 9-9
 
+f~
+|
+a
+oY
+~ |
+~ |
 E
 I2
 I5
@@ -688,6 +984,11 @@ Magnetic North
 W
 075°
 HDG 075°
+J
+al
+J
+J
+J
 N
 GS
 W
@@ -702,14 +1003,39 @@ and the movable card is
 reset after each turn
 A
 ADF
+i
 INBOUND
+:
 355°
+.
+>
+—
 75°
+—
+——
 B
+.
+¥
+i
+—_
+ti
+————
+—
+aan
+~
 INTERCEPTION
+—
 A-1
+~\
+f~
+al
+al
+-_
+-_
 N
 180°
+,
+-
 225°
 W
 E
@@ -719,8 +1045,10 @@ I2
 I5
 S
 355°
+Figure 7-10. VOR radials.
 HDG 355°
 Figure 9-10. VOR radials.
+:
 355°
 well as voice transmissions for communication and relay of
 weather and other information.
@@ -775,6 +1103,8 @@ The desired course is selected by turning the omnibearing
 selector (OBS) knob until the course is aligned with the
 course index mark or displayed in the course window.
 Course Deviation Indicator (CDI)
+—
+|
 The course deviation indicator (CDI) is composed of an
 instrument face and a needle hinged to move laterally across
 the instrument face. The needle centers when the aircraft is
@@ -784,6 +1114,7 @@ aircraft is 12° or more off course, assuming normal needle
 sensitivity. The outer edge of the center circle is 2° off course;
 with each dot representing an additional 2°.
 Figure 9-11. VOR transmitter (ground station).
+Figure 7-11. VOR transmitter ground station.
 TO/FROM Indicator
 VOR facilities are aurally identified by Morse code, or
 The TO/FROM indicator shows whether the selected course,
@@ -821,9 +1152,13 @@ components shown in the instrument illustrated in Figure 9-12.
 with tasks such as course intercepts, flying a back-course
 approach, or holding pattern entry. (See Chapter 5, Flight
 Course index
+el
+Pa
 Instruments, for operational characteristics.) [Figure 9-14]
 N
+Ff»
 Function of VOR
+*
 Unreliable signal flag
 Orientation
 N
@@ -859,59 +1194,105 @@ Figure 9-12. The VOR indicator instrument.
 Lubber line
 Compass warning flag
 Heading select bug
+T
+-_
 Course select pointer
+Ss
 HDG
 Symbolic aircraft
+_
+_
 NAV warning flag
+O
 Compass card
+>
 G
+a
 NAV
 S
 Glideslope pointer
+a
 I2
 I5
 2I
+|
 Heading select knob
 Course select knob
 Course deviation bar (CDI)
 Course deviation scale
 Figure 9-13. A typical horizontal situation indicator (HSI).
+a
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 270°
 NAV1 108.00 113.00
 134.000 118.000 COM1
+a
+fe}
+a
+oO
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+oO
+(e)
+a
+>
+Oo
+oO
+J
+ri
 Heading
+—
 Heading select bug
 Lubber line
 270°
 Selected heading box
 HDG 270°
 CRS 270°
+>
 Compass card
 Course select pointer
 TAS 106KT
 OAT 6°C
 Course deviation scale
 VOR 1
+y
+y
+>
+>
 Course deviation indicator (CDI)
+,
+,
 XPDR 5537 IDNT LCL10:12:34
 INSET
 PFD
 CDI
 XPDR
-IDENT
-TMR/REF
+IDENT TMR/REF
 NRST
 ALERTS
+Oo
+oO
+a
+>
 Figure 9-14. An HSI display as seen on the pilot’s primary flight display (PFD) on an electronic flight instrument. Note that only attributes
 related to the HSI are labeled.
 9-12
 
+~~
+f
+>
+~S
 215°
+-
+~
 S
 HDG 215°
 CRS 180°
+r |
+>
+*
+|
+-
 TO
 VOR
 E
@@ -935,6 +1316,7 @@ VOR
 70°
 280°
 80°
+—
 90°
 270°
 260°
@@ -954,10 +1336,21 @@ VOR
 190°
 170°
 180°
+-
++
+-
+\
+|
+-
+al
+~~
 330°
 S
+r |
 HDG 330°
 CRS 180°
+*
+*a
 E
 W
 VOR
@@ -1075,18 +1468,32 @@ Failure to check the ambiguity (TO/FROM) indicator,
 particularly during course reversals, resulting in reverse
 sensing and corrections in the wrong direction.
 
+-
 After needle centers
+.
+«
 track inbound on
 205° radial.
 025°
 HDG 025°
 CRS 025°
 VOR1
+ze
 025°
 Maintain heading of
+,
+-
+~
+~
 A
 295°
+—
+_
+_
+-
 N
+F
+r
 TO
 295°
 E
@@ -1099,16 +1506,39 @@ I5
 S
 OBS
 VOR 1
+al
+=
+=
 N
+~~
+z
+*
 TO
+A
+/
+,
 E
+—
 2I
+=
+y |
+=
 W
+_
 I5
+f
 I2
+J
+-
+J
+-_
+-
 N
 S
+aa
+=
 OBS
+A
 GS
 295°
 W
@@ -1116,31 +1546,59 @@ E
 NAV
 S
 OBS
+-
+ss
+~~
+=~
+es
+ss
+_—
+y
+i
+Z
 Instrument view is from
 the pilot’s perspective,
 and the movable card is
 NOTES
 reset after each turn
+J
 As VOR needle
 centers, lead the turn
 to track inbound.
+Zz
 205°
+-
 Present position,
+-
 inboundon 160°
 radial.
 340°
 HDG 340°
 CRS 340°
 VOR 1
++
+>
+|
+\
+-
+- |
+—
+=
+—_
+—_
 N
+\
+r
 TO
 W
 E
+oe
 2I
 I2
 I5
 S
 OBS
+.
 160°
 Figure 9-16. Course interception (VOR).
 9-15
@@ -1348,17 +1806,28 @@ of the turn early.
 
 With an RMI, in a no wind condition, pilots should
 theoretically be able to fly an exact circle around the facility
+.
 325°
 by maintaining an RB of 90° or 270°. In actual practice,
 a series of short legs are flown. To maintain the arc in
+\
 Figure 9-18, proceed as follows:
+\
+y
+i
 1.
 With the RMI bearing pointer on the wingtip reference
+|
+wh
+>
 (90° or 270° position) and the aircraft at the desired
 10 DME arc
+—
 DME range, maintain a constant heading and allow the
+—
 055°
 bearing pointer to move 5°– 10° behind the wingtip.
+~
 This causes the range to increase slightly.
 Lead points 10.5 NM
 2.
@@ -1366,10 +1835,17 @@ Turn toward the facility to place the bearing pointer
 5°– 10° ahead of the wingtip reference, and then
 maintain heading until the bearing pointer is again
 Lead points 9.5 NM
+yy
 behind the wingtip. Continue this procedure to
+>
+i
+\
 maintain the approximate arc.
+y |
+A
 3.
 If a crosswind causes the aircraft to drift away from
+v4
 the facility, turn the aircraft until the bearing pointer is
 ahead of the wingtip reference. If a crosswind causes
 325°
@@ -1378,6 +1854,7 @@ bearing is behind the wingtip.
 OKT VORTAC
 4.
 As a guide in making range corrections, change the
+Figure 7-16. DME arc interception.
 RB 10°– 20° for each half-mile deviation from the
 Figure 9-17. DME arc interception.
 desired arc. For example, in no-wind conditions, if the
@@ -1430,111 +1907,529 @@ which is available only from the OBS and CDI.
 heading indicated whenever the CDI gets 2°– 4° from center.
 9-18
 
-11 DME arc
-Desired arc
-10 DME
+al
+|a
 E
+20°
+S
 N
+W
+HDG
+.
+|
+|
+i
+a
+11 DME arc
+~
+—
+“ts
+i
+|
+20°
+\
+,
+|
+q
+|
+q
+,
+10°
+a
+——
+Desired arc
+:
+10 DME
+eal
+|a
+E
+al
+|a
+N
+E
+i
+10°
+N
+S
+a
+W
+HDG
 9 DME arc
 S
 W
+.
+|
 HDG
-Figure 9-18. Using DME and RMI to maintain an arc.
-The technique for intercepting a localizer from a DME arc
-is similar to intercepting a radial. At the depicted lead radial
-(LR 223 or LR 212 in Figures 9-19, 9-20, and 9-21), a
-pilot having a single VOR/LOC receiver should set it to the
-localizer frequency. If the pilot has dual VOR/LOC receivers,
-one unit may be used to provide azimuth information and the
-other set to the localizer frequency. Since these lead radials
-provide 7° of lead, a half-standard rate turn should be used
-until the LOC needle starts to move toward center.
-DME Errors
-A DME/DME fix (a location based on two DME lines of
-position from two DME stations) provides a more accurate
-aircraft location than using a VOR and a DME fix.
-E
-20°
-S
+.
+|
+f
 N
-W
-HDG
-20°
-10°
-E
-N
-10°
-S
-W
-HDG
-N
+J
+J
+J
+-_
+J
+_
 GS
 W
 E
 NAV
 S
 OBS
+J
+__s
+St
+J
+>
 005° Radial
 Instrument view is from
 the pilot’s perspective,
 and the movable card is
 reset after each turn
+Figure 7-17. Using DME and RMI to maintain arc.
+Figure 9-18. Using DME and RMI to maintain an arc.
+The technique for intercepting a localizer from a DME arc
 DME signals are line-of-sight; the mileage readout is the
+is similar to intercepting a radial. At the depicted lead radial
 straight line distance from the aircraft to the DME ground
+(LR 223 or LR 212 in Figures 9-19, 9-20, and 9-21), a
 facility and is commonly referred to as slant range distance.
+pilot having a single VOR/LOC receiver should set it to the
 Slant range refers to the distance from the aircraft’s antenna
+localizer frequency. If the pilot has dual VOR/LOC receivers,
 to the ground station (A line at an angle to the ground
+one unit may be used to provide azimuth information and the
 transmitter. GPS systems provide distance as the horizontal
+other set to the localizer frequency. Since these lead radials
 measurement from the WP to the aircraft. Therefore, at 3,000
+provide 7° of lead, a half-standard rate turn should be used
 feet and 0.5 miles the DME (slant range) would read 0.6 NM
+until the LOC needle starts to move toward center.
 while the GPS distance would show the actual horizontal
 distance of .5 DME. This error is smallest at low altitudes and/
+DME Errors
 or at long ranges. It is greatest when the aircraft is closer to
 the facility, at which time the DME receiver displays altitude
+A DME/DME fix (a location based on two DME lines of
 (in NM) above the facility. Slant range error is negligible if
+position from two DME stations) provides a more accurate
 the aircraft is one mile or more from the ground facility for
+aircraft location than using a VOR and a DME fix.
 each 1,000 feet of altitude above the elevation of the facility.
 9-19
 
+ae~~
+cay
+Figure 9-19. An aircraft is displayed heading southwest to intercept the localizer approach, using the 16 NM DME arc off of ORM.a
+ww2
+112.58
+199.70
+=
+"
+.
+[135.975 - 128.050
+cor
 GS 120KT XTK 8.15NM ETE 08:28 ESA 3100FT
 NAV1 108.00 113.00
 134.000 118.000 COM1
+i
+oO
+a
+Co
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
 MAP - NAVIGATION MAP
+W880
+117.88
+[135975
+119.625
+oe
+oO
+me |1970™
+=
+oO
+>
+a
+=
+(e)
+oO
+J
+,
+¥\
+a
+A
+,
+aN
+:
+oo
+,
+,
+,
+,
+wa
+sz
+sz
+re
+oO
+oO
 INSET
 MAP
 DCLTR
+nse
+[SE TE
+a
+|
+>
+a
+BB
+-
 B
+ese
+——————
+|
+fe ee
+wes 104 AHN es ae
+Sees
+a
+S E - 3 , 3 1 A U G 2 0 0 6 t o 2 8 S E P 2 0 0 6
 IAP
-Figure 9-19. An aircraft is displayed heading southwest to intercept the localizer approach, using the 16 NM DME arc off of ORM.
+Figure 7-18a. Localizer interception from DME arc.
 9-20
 
+ee
+OTpepe
+ee
+a
+localizer. a
+ween (1 12.60)
+los
+fart
+ere,
+8,
+136.975 + 126.050) corn
+a
 GS 120KT XTK 8.15NM ETE 08:28 ESA 3100FT
+wou 12,56)
+os
+1K
+ere!
+A.
+136.975 > [128.858 oon
+oe
+|
 NAV1 108.00 113.00
+134.000 118.000 COM1
+uz188.06
+117.95
+119.625 one
+a
+|
+wave 108.00
+117.95
+136.975
+119.625 cue
+bre
+|
+oO
+a
+Oo
+a
 NAV2 108.00 110.60
+123.800 118.000 COM2
 MAP - NAVIGATION MAP
+(2
+TER]
+—=_)
+a
+ra
+|
++ 2060™
+sea
+di
+2060")
+ct
+—
+oO
+oO
+-+_*
+>
+a
+=. | ol
+me
+nn
+en - |ee
+ounce
+*
+reeeey
+ae
+¥
+®
+romero
+|
+ae
+ee
+=
+Ee
+ee
+ay
+one
+ON
+MA a
+ey)
+aN.)
+oO
+oO
+>
+, |
+a
+ca
+ee,
+os
+ay
+a
+ve
+Se\
+atN
+ES
+¥
+=
+x
+ee
+a
+is
+a
+ea ee
+ute
+&
+=
+—
+boo ate
+=
+OT is
+a
+86 OT
+=
+&
+,
+,
+,
+,
+E
+aaa
+ua
+IC
+g
+aes
+fo
+beans
+©
+sz
+sz
+nH
+opATT
+pe
+cl
+pyle
+fe]
+sa
+sows oo [ror cul
+near
+a
+Ee
+ars
+furscue
+a
+oO
+oO
 INSET
 PFD
 CDI
-B
-Figure 9-20. The same aircraft illustrated in Figure 9-19 shown on the ORM radial near TIGAE intersection turning inbound for the
-localizer.
-134.000 118.000 COM1
-123.800 118.000 COM2
 DCLTR
+SEE
+T
+TCU
+ge
+>
+a
+B
+re a
+——————
+Bi
+growlon 5
+*Sreenee
+tam
+te |< todbhees
+mcoe..|INGamTORT——— “ewes
+Meet
+terve slid oAROKSINES
+Ham
+Om
+Figure 9-20. The same aircraft illustrated in Figure 9-19 shown on the ORM radial near TIGAE intersection turning inbound for the
+Figure 7-18b. Localizer interception from DME arc.
 9-21
 
+a -
+epee
+oeee
+er
+‘oa
+Bee
+wn 112.68
+is
+at
+Ea
+Ea
+195.75 ~ 20.050 ca
+an
+1 12.60
+is
+re
+esa
+135.975 <> 120.050 on
+;
+a
 GS 120KT XTK 8.15NM ETE 08:28 ESA 3100FT
 NAV1 108.00 113.00
 134.000 118.000 COM1
+a
+vain 1860
+117.95
+135.975 _ 119.625 ena
+sad
+oO
+a
+Oo
+a
 NAV2 108.00 110.60
 123.800 118.000 COM2
+wz 198.08
+117.95,
+136.975
+119.625ral
+—-|
 MAP - NAVIGATION MAP
+(2
+=.)
+(2
+‘
+Oo
+(e)
+TS
+*
+2tie™)
+ww.
+* 2110""
+fe “*
+a
+a
+=
+ae
+run | EES)
+on
+ee
+cs:
+Th
+“ta
+eal
+|<.
+hea)
+=
+Ta eee"
+a
+a
+~ | ae
+Wey wou
+=
+a
+on Te
+eau
+(e)
+oO
+J
+a
+FA
+outa
+2)
+i
+a
++a
+-
+wise
+oe
+GF
+¥
+aA
+leary es
+mG
+EL aT
+aoe
+&
+EL Ory ca
+\ EEE
+&
+>
+—-
+=e
+Src
+es
+’
+CNG,
+ie
+88 0872 ws
+oon
+Fone acon
+=
+5 Ts
+vera
+fear seh
+We
+,
+,
+,
+,
+967 oma
+DM ercn
+‘
+C
+267 vrs 89
+Edoter
+=e
+,
+,
+near
+strpnstean
+all
+ac
+wes
+[reorrsns|
+ra
+a9
+wes
+lwursoe
+cig
+teenwe
+ra
+f
+Oo
+oO
 ENGINE
 MAP
 DCLTR
+SDE
+a
+Tak
+'
+a
+a
+ri
+,
+a —
+KSwa |
 B
+—
+ee
+=4
 Figure 9-21. Aircraft is illustrated inbound on the localizer course.
 Area Navigation (RNAV)
 input from more than one RNAV source, thereby providing
@@ -1549,6 +2444,7 @@ information to the pilot. This information may be in the form
 VORTAC or VOR/DME system to create a WP using an
 of distance, cross-track error, and time estimates relative to
 airborne computer. As shown in Figure 9-22, the value of
+Figure 7-18c. Localizer interception from DME arc.
 the selected track or WP. In addition, the RNAV equipment
 side A is the measured DME distance to the VOR/DME. Side
 installations must be approved for use under IFR. The Pilot’s
@@ -1565,10 +2461,12 @@ VOR receiver. The airborne computer continuously compares
 
 2.
 MODE select switch used to select VOR/DME
+NX,
 mode, with:
 Waypoint
 a. Angular course width deviation (standard VOR
 operation); or
+_
 B
 b. Linear cross-track deviation as standard (±5 NM
 full scale CDI).
@@ -1577,9 +2475,11 @@ C
 RNAV mode, with direct to WP with linear cross-track
 ANGLE 1
 deviation of ±5 NM.
+~*~
 308°
 4.
 RNAV/APPR (approach mode) with linear deviation
+_—
 VOR/DME
 A
 of ±1.25 NM as full scale CDI deflection.
@@ -1587,18 +2487,26 @@ N
 G
 L
 E
+a
 248°
 5.
 WP select control. Some units allow the storage of more
 ANGLE 2
+_—
 A
 than one WP; this control allows selection of any WP
+a
+;
+_
+__
 in storage.
 6.
 Data input controls. These controls allow user input
+}
 of WP number or ident, VOR or LOC frequency, WP
 radial and distance.
 Figure 9-22. RNAV computation.
+Figure 7-19. RNAV computation.
 While DME groundspeed readout is accurate only when
 angles 1 and 2 and determines angle 3 and side C, which is
 tracking directly to or from the station in VOR/DME mode,
@@ -1625,10 +2533,20 @@ WP, frequency, mode in use, WP radial and distance, DME
 standard terminal arrival routes (STARs) are contained in
 distance, groundspeed, and time to station.
 the DP and STAR booklets.
+WEE 3s
+25s | \ Heal a
+eS
 VOR/DME RNAV approach procedure charts are also
 available. Note in the VOR/DME RNAV chart excerpt shown
+KICT
+ea
+amt
+232° ogaaas Meet
 in Figure 9-24 that the WP identification boxes contain the
+foal
+~
 following information: WP name, coordinates, frequency,
+; tod
 identifier, radial distance (facility to WP), and reference facility
 elevation. The initial approach fix (IAF), final approach fix
 Figure 9-23. Onboard RNAV receivers have changed significantly.
@@ -1655,6 +2573,7 @@ VOR/DME station to be used.
 E C - 1 ,
 16 DEC 2010 to 13 JAN 2011
 Figure 9-24. VOR/DME RNAV RWY 25 approach (excerpt).
+Figure 7-21. VOR/DME RNAV Rwy 25 approach (excerpt).
 RNAV equipment computes the rate of descent relative to
 the groundspeed; on some installations, it displays vertical
 guidance information on the GS indicator. When using this
@@ -1692,28 +2611,52 @@ Published approaches have been tested to ensure this is not
 9-24
 16 DEC 2010 to 13 JAN 2011
 E C - 1 ,
+J
+y
+~\
+a
 S
+7 *|
 W
 TO
+J
+yo
+_
 E
+>
 N
+y
 OBS
 12 NM
+, 4
 225°
 Waypoint
+~
 135°
+a
 E
 S
 TO
+fo
 N
+-
+_
+J
 GS
 W
 E
 NAV
 S
 OBS
+J
+>»
+-
 N
 W
+—_
+—_
+|
+I
 I2
 OBS
 I5
@@ -1737,6 +2680,12 @@ that contains time and distance that is picked up by a receiver
 thereby. [Figure 9-26] The receiver that picks up multiple
 signals from different satellites is able to triangulate its
 position from these satellites.
+=
+i)
+_—
+as
+ob
+‘om |
 Figure 9-26. A typical example (GNS 480) of a stand-alone GPS
 receiver and display.
 Three GNSSs exist today: the GPS, a United States system; the
@@ -2151,8 +3100,12 @@ the pilot’s responsibility to be familiar with the operation of
 the equipment in the aircraft.
 The GPS receiver provides navigational values such as track,
 bearing, groundspeed, and distance. These are computed from
+=
+|
 -
 16 DEC 2010 to 13 JAN 2011
+aif
+Ral
 Figure 9-28. A GPS stand-alone approach.
 the aircraft’s present latitude and longitude to the location of
 the next WP. Course guidance is provided between WPs. The
@@ -2177,6 +3130,7 @@ conditions (VMC) until thoroughly proficient with all
 aspects of their equipment (receiver and installation) prior
 to attempting flight in instrument meteorological conditions
 (IMC). [Figure 9-28]
+Figure 7-26. GPS approach.
 SE-3, 16 DEC 2010 to 13 JAN 2011
 9-29
 
@@ -2472,31 +3426,100 @@ problems, such as cold temperature effects, incorrect
 altimeter setting, or lack of a local altimeter source, and
 allows approach procedures to be built without the cost
 
+above for properly equipped aircraft. [Figures 9-31 and 9-32]_
+Be
 Wide Area Augmentation System (WAAS)
+Wide
+Area
+Augmentation
+System
 GPS
+ors
 GPS
 Satellites
 Satellites
+.
+as
+fag,
+&
+Sey
+Ferm
+a
+Ta
+ei
+&
+ei
+HC
+ae ee
+PRES
+metic
+eee
+25 ™
+Nae
+WRG,
 Wide Area Reference Station
+Si
 Wide Area Reference Station
+EN
+Sy
+@
+Wide Area
+Augmentation
+System
+Si
 receives GPS signal
 Wide Area Reference Station
 data is sent to a Wide Area
 Master Station for correction
+a0 sree
+80 sents
+The information Collected by theWide Area Reference Stations is Sent to.
+theWide Area Master Stations Who Will Calculate the Correction Message
 GEO Synchronous
+mae
+—
+ts 200% Paciora) Aviation Acemimteteation. Aj) Reine Rewerveee
 GEO Synchronous
 Satellites
 Satellites
+comvelsie
+&
+ei
+@
+PY
+By
+a
+: i
+NUT].
+vite
+retrence Suton [ICO
 Wide Area Reference Station
+Sy
+Si
+et
+3)
+72d
+Widereaianie
+tation
+[UMM Sead
+@
 Wide Area Master station
 Wide Area Reference Station
+ad
+&
+Si
 GUS
+&
 Wide Area Master station uplinks corrected
 GEO Synchronous Satellites sends updated
 signal to GEO Synchronous Satellites
 WAAS signal to aircraft equipped with WAAS
+&
 receivers
+toAlera and Other Users In the Service Area
 GUS
+‘The WAAS GEO Satelites Broadcast the WAAS-Corrected Signal
+Figure 7-27a. LAAS representation.
 Figure 9-29. WAAS satellite representation.
 Local Area Augmentation System (LAAS)
 of installing ground stations at each airport. A new class
@@ -2513,15 +3536,18 @@ retransmits the signal. Aircraft landing at LAAS-equipped
 VNAV procedures presently being flown with barometric
 airports are able to conduct approaches to Category I level and
 vertical navigation.
-above for properly equipped aircraft. [Figures 9-31 and 9-32]
 9-33
 
 WAAS Accuracy
+/
 GPS Accuracy
+~~
 You are here
+-_
 10 ft.
 50 ft.
 Figure 9-30. WAAS provides performance enhancement for GPS
+Figure 7-27b. WAAS satellite representation
 approach procedures through real-time monitoring.
 Inertial Navigation System (INS)
 Inertial Navigation System (INS) is a system that navigates
@@ -2561,6 +3587,8 @@ GPS
 Receiver
 Reference
 Receiver
+i
+ris
 GPS reference receivers, which are serving the local area
 (such as an airport) receive the GPS signal from the GPS
 constellation (one or more satellites).
@@ -2576,7 +3604,11 @@ VHF Data
 Broadcast
 LAAS
 Ground
+vay
 Facility
+;
+ia
+a oe
 The corrected signal is then sent and transmitted as a VHF
 signal, called a VHF data broadcast.
 VHF Data
@@ -2584,217 +3616,284 @@ Broadcast
 The broadcast signal is received by appropriately equipped
 aircraft which provide the pilot with highly refined GPS
 guidance.
+Figure 7-28a. LAAS representation.
 Figure 9-31. LAAS representation.
 
-GPS Satellites
-VHF Transmitter
-LAAS Facility
-Reference Receiver
-Figure 9-32. The LAAS system working with GPS satellites,
-reference receivers and radio transmitters which are located on
-or in the vicinity of the airport.
-While the best INS/IRS display errors of 0.1 to 0.4 NM after
-flights across the North Atlantic of 4 to 6 hours, smaller and
-less expensive systems are being built that show errors of 1
-to 2 NM per hour. This accuracy is more than sufficient for
-a navigation system that can be combined with and updated
-by GPS. The synergy of a navigation system consisting of an
-INS/IRS unit in combination with a GPS resolves the errors
-and weaknesses of both systems. GPS is accurate all the time
-it is working but may be subject to short and periodic outages.
-INS is made more accurate because it is continually updated
-and continues to function with good accuracy if the GPS has
-moments of lost signal.
-Instrument Approach Systems
-Most navigation systems approved for en route and terminal
-operations under IFR, such as VOR, NDB, and GPS, may also
-be approved to conduct IAPs. The most common systems in
-use in the United States are the ILS, simplified directional
-facility (SDF), localizer-type directional aid (LDA), and
-microwave landing system (MLS). These systems operate
-independently of other navigation systems. There are new
-systems being developed, such as WAAS and LAAS. Other
-systems have been developed for special use.
-Instrument Landing Systems (ILS)
-The ILS system provides both course and altitude guidance
-to a specific runway. The ILS system is used to execute a
-precision instrument approach procedure or precision approach.
-[Figure 9-33] The system consists of the following components:
-1.
-A localizer providing horizontal (left/right) guidance
-along the extended centerline of the runway.
 2.
 A glideslope (GS) providing vertical (up/down)
+GPS Satellites
 guidance toward the runway touchdown point, usually
+p=
+p=
 at a 3° slope.
+=
+=
 3.
 Marker beacons providing range information along
 the approach path.
+VHF Transmitter
 4.
 Approach lights assisting in the transition from
 instrument to visual flight.
+_
 The following supplementary elements, though not specific
 components of the system, may be incorporated to increase
 safety and utility:
+—_
+LAAS Facility
 1. Compass locators providing transition from en route
+Reference Receiver
 NAVAIDs to the ILS system and assisting in holding
 procedures, tracking the localizer course, identifying
 the marker beacon sites, and providing a FAF for
 ADF approaches.
+Figure 9-32. The LAAS system working with GPS satellites,
+Figure 7-28. LAAS representation.
 2.
 DME collocated with the GS transmitter providing
+reference receivers and radio transmitters which are located on
 positive distance-to-touchdown information or DME
+or in the vicinity of the airport.
 associated with another nearby facility (VOR or stand-
+While the best INS/IRS display errors of 0.1 to 0.4 NM after
 alone), if specified in the approach procedure.
+flights across the North Atlantic of 4 to 6 hours, smaller and
+less expensive systems are being built that show errors of 1
 ILS approaches are categorized into three different types of
+to 2 NM per hour. This accuracy is more than sufficient for
 approaches based on the equipment at the airport and the
+a navigation system that can be combined with and updated
 experience level of the pilot. Category I approaches provide
+by GPS. The synergy of a navigation system consisting of an
 for approach height above touchdown of not less than 200 feet.
+INS/IRS unit in combination with a GPS resolves the errors
 Category II approaches provide for approach to a height above
+and weaknesses of both systems. GPS is accurate all the time
 touchdown of not less than 100 feet. Category III approaches
+it is working but may be subject to short and periodic outages.
 provide lower minimums for approaches without a decision
+INS is made more accurate because it is continually updated
 height minimum. While pilots need only be instrument rated
+and continues to function with good accuracy if the GPS has
 and the aircraft be equipped with the appropriate airborne
+moments of lost signal.
 equipment to execute Category I approaches, Category II
 and III approaches require special certification for the pilots,
+Instrument Approach Systems
 ground equipment, and airborne equipment.
+Most navigation systems approved for en route and terminal
+operations under IFR, such as VOR, NDB, and GPS, may also
 ILS Components
+be approved to conduct IAPs. The most common systems in
 Ground Components
+use in the United States are the ILS, simplified directional
 The ILS uses a number of different ground facilities. These
+facility (SDF), localizer-type directional aid (LDA), and
 facilities may be used as a part of the ILS system, as well as
+microwave landing system (MLS). These systems operate
 part of another approach. For example, the compass locator
+independently of other navigation systems. There are new
 may be used with NDB approaches.
+systems being developed, such as WAAS and LAAS. Other
+systems have been developed for special use.
 Localizer
 The localizer (LOC) ground antenna array is located on the
+Instrument Landing Systems (ILS)
 extended centerline of the instrument runway of an airport,
+The ILS system provides both course and altitude guidance
 located at the departure end of the runway to prevent it from
+to a specific runway. The ILS system is used to execute a
 being a collision hazard. This unit radiates a field pattern,
+precision instrument approach procedure or precision approach.
 which develops a course down the centerline of the runway
+[Figure 9-33] The system consists of the following components:
 toward the middle markers (MMs) and outer markers
+1.
+A localizer providing horizontal (left/right) guidance
 (OMs) and a similar course along the runway centerline in
+along the extended centerline of the runway.
 the opposite direction. These are called the front and back
 9-35
 
-II0
-I30
-I50
-I60
-Figure 9-33. Instrument landing systems.
-courses, respectively. The localizer provides course guidance,
-transmitted at 108.1 to 111.95 MHz (odd tenths only),
-throughout the descent path to the runway threshold from a
-distance of 18 NM from the antenna to an altitude of 4,500
-feet above the elevation of the antenna site. [Figure 9-34]
-The localizer course width is defined as the angular
-displacement at any point along the course between a full
-9-36
+-
+[
+all
+=~
 N
+_
+f
+r
 GS
 W
 E
 NAV
 S
+,
 OBS
+a
+=
 Point of intersection
+|
 runway and glideslope
+=a
 N
 extended.
+r
+[og
 GS
 W
 E
+£
 NAV
 S
 OBS
-90Hz
-150Hz
+(-
+af
+90Hz 150Hz
+se
+*
+eal
+=
 N
+«|
 GS
 W
 E
+=a
 N
+*
 NAV
+,
 S
 OBS
 GS
 W
 E
+|
 NAV
+oe
 S
 OBS
 –
+al
+_
 N
+«|
 GS
 W
 E
+a
 NAV
 –
+a
 S
 OBS
+KNOTS
+KNOTS
+KNOTS
+—_
+KNOTS
+II0
+I00
+I00
+I40 I20
+I80
+I20
+I30
+I00
+KNOTS
+I20
+I50
+I60
+I00
+I60 I40 I20
+Figure 7-29. Instrument landing systems.
+Figure 9-33. Instrument landing systems.
+courses, respectively. The localizer provides course guidance,
 “fly-left” (CDI needle fully deflected to the left) and a full
+transmitted at 108.1 to 111.95 MHz (odd tenths only),
 “fly-right” indication (CDI needle fully deflected to the right).
+throughout the descent path to the runway threshold from a
 Each localizer facility is audibly identified by a three-letter
+distance of 18 NM from the antenna to an altitude of 4,500
 designator transmitted at frequent regular intervals. The ILS
+feet above the elevation of the antenna site. [Figure 9-34]
 identification is preceded by the letter “I” (two dots). For
 example, the ILS localizer at Springfield, Missouri, transmits
+The localizer course width is defined as the angular
 the identifier ISGF. The localizer includes a voice feature on
+displacement at any point along the course between a full
+9-36
 
+al
+18 NM
+=
+10 NM
+—_—
+10°
+a
+—
+10°
 35 °
+a
+—
+35°
 Figure 9-34. Localizer coverage limits.
+Figure 7-30. Localizer coverage limits.
 its frequency for use by the associated ATC facility in issuing
+Unlike the localizer, the GS transmitter radiates signals only
 approach and landing instructions.
+in the direction of the final approach on the front course. The
+system provides no vertical guidance for approaches on the back
 The localizer course is very narrow, normally 5°. This
+course. The glidepath is normally 1.4° thick. At 10 NM from
 results in high needle sensitivity. With this course width,
+the point of touchdown, this represents a vertical distance of
 a full-scale deflection shows when the aircraft is 2.5° to
+approximately 1,500 feet, narrowing to a few feet at touchdown.
 either side of the centerline. This sensitivity permits accurate
 orientation to the landing runway. With no more than one-
+Marker Beacons
 quarter scale deflection maintained, the aircraft will be
+Two VHF marker beacons, outer and middle, are normally
 aligned with the runway.
+used in the ILS system. [Figure 9-35] A third beacon, the
+inner, is used where Category II operations are certified. A
 Glideslope (GS)
+marker beacon may also be installed to indicate the FAF on
 GS describes the systems that generate, receive, and indicate
+the ILS back course.
 the ground facility radiation pattern. The glidepath is the
 straight, sloped line the aircraft should fly in its descent from
 where the GS intersects the altitude used for approaching the
+Outer Marker Beacons
 FAF to the runway touchdown zone. The GS equipment is
+Middle Marker Beacons
 housed in a building approximately 750 to 1,250 feet down
+2.5°
+as
+as
 the runway from the approach end of the runway and between
+2.5°
 400 and 600 feet to one side of the centerline.
+´
+´
 The course projected by the GS equipment is essentially the
 same as would be generated by a localizer operating on its
 side. The GS projection angle is normally adjusted to 2.5°
 to 3.5° above horizontal, so it intersects the MM at about
+Figure 7-31. Localizer receiver indications and aircraft
+Figure 9-35. Localizer receiver indications and aircraft displacement.
 200 feet and the OM at about 1,400 feet above the runway
+displacement.
 elevation. At locations where standard minimum obstruction
 clearance cannot be obtained with the normal maximum GS
-angle, the GS equipment is displaced farther from the approach
-end of the runway if the length of the runway permits; or the GS
-angle may be increased up to 4°.
-18 NM
-10 NM
-10°
-10°
-35°
-Unlike the localizer, the GS transmitter radiates signals only
-in the direction of the final approach on the front course. The
-system provides no vertical guidance for approaches on the back
-course. The glidepath is normally 1.4° thick. At 10 NM from
-the point of touchdown, this represents a vertical distance of
-approximately 1,500 feet, narrowing to a few feet at touchdown.
-Marker Beacons
-Two VHF marker beacons, outer and middle, are normally
-used in the ILS system. [Figure 9-35] A third beacon, the
-inner, is used where Category II operations are certified. A
-marker beacon may also be installed to indicate the FAF on
-the ILS back course.
-Outer Marker Beacons
-Middle Marker Beacons
-2.5°
-2.5°
-´
-´
-Figure 9-35. Localizer receiver indications and aircraft displacement.
 The OM is located on the localizer front course 4–7 miles
+angle, the GS equipment is displaced farther from the approach
 from the airport to indicate a position at which an aircraft, at
+end of the runway if the length of the runway permits; or the GS
 the appropriate altitude on the localizer course, will intercept
+angle may be increased up to 4°.
 the glidepath. The MM is located approximately 3,500 feet
 9-37
 
@@ -2900,13 +3999,24 @@ between VOR and LOC automatically by sensing if odd
 ALSF-2
 ALSF-1
 SSALR/MALSR
+MALSF
+ODALS
+THRESHOLD
 REIL
+a
+>
+_
+i
+nT
 Figure 9-36. Precision and nonprecision ALS configuration.
 tenths between 108 and 111.95 MHz have been selected.
 Below glidepath
 On glidepath
 Above glidepath
 Otherwise, tuning of VOR and localizer frequencies is
+-
+F
+-
 accomplished with the same knobs and switches, and the CDI
 indicates “on course” as it does on a VOR radial.
 Far Bar
@@ -2922,11 +4032,9 @@ channels in the 108.10 to 111.95 MHz band is paired with a
 corresponding GS frequency.
 When the localizer indicator also includes a GS needle, the
 instrument is often called a cross-pointer indicator. The
+Figure 7-33. Standard 2-bar VASI.
 crossed horizontal (GS) and vertical (localizer) needles are
 Figure 9-37. Standard two-bar VASI.
-MALSF
-ODALS
-THRESHOLD
 9-39
 
 free to move through standard five-dot deflections to indicate
@@ -3036,44 +4144,70 @@ divergence from course
 C
 centerline increasing.
 While on the procedure turn
+C
+a
 330°
 inbound the course needle
+y
+\
 HDG 330°
 CRS 180°
+df
 becomes directional. Start
 the turn to final approach
 course when the needle
 comes alive (needle moves
 LOC1
+_
+y
 away from side) and is
 moving toward center.
+\
+.
+*
 C
 135°
 HDG 135°
 CRS 180°
 S
 LOC1
+*|
+y
+A
+y |
+i
 E
 W
+*
 2I
+\
 I2
 I5
+y |
 B
 N
 OBS
+A
+-
+a
+~ |
+~ |
 S
 I2
 I5
 A
+>
 2I
 E
 W
 As you fly northbound of the
+a
 instrument runway (in this case
 N
 Localizer 18), with the radio
 OBS
 tuned to the Localizer
+f
 frequency (and identified), the
 course needle is not directional.
 D
@@ -3084,25 +4218,45 @@ HDG 180°
 CRS 180°
 needle.
 Maintain course with the
+—
+—
 needle centered.
 350°
 HDG 350°
 CRS 180°
+|
 LOC1
+~ |
+~ |
 S
 2I
 I5
+*7
 I2
 W
 A
 E
 LOC1
+-|
+\
+ad
 N
 OBS
+_——
+—
+ss
+\
 E
+,
+«4
 As you fly a missed approach
+—
+—
 S
 along the back course, the
+*
+.
+_
 needle, indicating “fly left” is
 FAF
 180°
@@ -3118,32 +4272,55 @@ I5
 course.
 N
 OBS
+-
+ss
 LOC1
 S
 2I
 I5
+fs
+dj
 I2
+*
 W
 E
 N
 OBS
+f
+-
+-
+-
+=~
+J
 N
+P~
 GS
 W
 E
 NAV
 S
 OBS
+Es
+es
+a
+—
+ss
 Instrument view is from
 E
+,
+«
 the pilot’s perspective,
 and the movable card is
 reset after each turn
 Figure 9-38. Localizer course indications. To follow indications displayed in the aircraft, start from A and proceed through E.
 9-41
 
+Le
+al
+=
 E
 Outer Marker Beacons
+*
 S
 TO
 FR
@@ -3152,8 +4329,14 @@ NAV 1
 W
 OBS
 Middle Marker Beacons
+q
+auf
+te
+a
 
+a
 E
+*
 S
 TO
 FR
@@ -3162,6 +4345,7 @@ NAV 1
 W
 OBS
 Figure 9-39. A GS receiver indication and aircraft displacement. An analog system is on the left and the same indication on the Garmin
+Figure 7-35. Glide-slope receiver indications and aircraft displacement.
 PFD on the right.
 Some marker beacon receivers, to decrease weight and cost,
 2.
@@ -3265,8 +4449,17 @@ The system may be divided into five functions, which are
 approach azimuth, back azimuth, approach elevation, range;
 and data communications. The standard configuration of
 MLS ground equipment includes an azimuth station to
+-
+|
+-
+|
 20,000’
+.
 40°R
+\
+40 °L
+—
+Figure 7-36. MLS coverage volumes, 3-D representation
 Figure 9-40. MLS coverage volumes, 3-D representation.
 perform functions as indicated above. In addition to providing
 azimuth navigation guidance, the station transmits basic data,
@@ -3297,7 +4490,6 @@ messages about the system’s operational condition. During
 periods of routine or emergency maintenance, the coded
 identification is missing from the transmissions. At this time
 there are only a few systems installed.
-40 °L
 9-43
 
 Required Navigation Performance
@@ -3400,19 +4592,39 @@ current position to any point in the world, perform flight
 plan computations, and display the total picture of the flight
 route to the crew.
 
+~\
+"J
 FINAL APPROACH
+@
 0.3 NM
+e@
 0.3 NM
 TERMINAL
+@
 1.0 NM
+-
 EN ROUTE
+@
+y
+a
 1.0 NM
+/
 2.0 NM
+~\
+_
+y
+XQ
+,
+’ 4
 2.0 NM
 RNP 0.3
 RNP 1.0
 RNP 2.0
 RNP 1.0
+y.6O
+y.6O
+>wa
+:
 APPROACH
 TERMINAL
 ENROUTE
@@ -3503,21 +4715,6 @@ so it rotates with the surveillance antenna. The interrogating
 The Avidyne
 The Garmin system
 
-Figure 9-43. Example of a head-up display (top) and a head-down
-display (bottom). The head-up display presents information in front of
-the pilot along his/her normal field of view while a head-down display
-may present information beyond the normal head-up field of view.
-unit transmits a coded pulse sequence that actuates the aircraft
-transponder. The transponder answers the coded sequence
-by transmitting a preselected coded sequence back to the
-ground equipment, providing a strong return signal and
-positive aircraft identification, as well as other special data
-such as aircraft altitude.
-Functions of Radar Navigation
-The radar systems used by ATC are air route surveillance
-radar (ARSR), airport surveillance radar (ASR), and
-precision approach radar (PAR) and airport surface detection
-equipment (ASDE). Surveillance radars scan through 360°
 of azimuth and present target information on a radar display
 located in a tower or center. This information is used
 independently or in conjunction with other navigational aids
@@ -3532,9 +4729,12 @@ terminal radar services similar to but usually more limited
 than those provided by a radar approach control.
 ASR is designed to provide relatively short-range coverage
 in the general vicinity of an airport and to serve as an
+[=]
+gS
 expeditious means of handling terminal area traffic through
 observation of precise aircraft locations on a radarscope.
 Nonprecision instrument approaches are available at airports
+(aa)
 that have an approved surveillance radar approach procedure.
 ASR provides radar vectors to the final approach course and
 then azimuth information to the pilot during the approach.
@@ -3542,30 +4742,52 @@ In addition to range (distance) from the runway, the pilot
 is advised of MDA, when to begin descent, and when the
 aircraft is at the MDA. If requested, recommended altitudes
 are furnished each mile while on final.
+~
+eels,
 PAR is designed to be used as a landing aid displaying range,
 azimuth, and elevation information rather than as an aid for
+a5,
 sequencing and spacing aircraft. PAR equipment may be
 used as a primary landing aid, or it may be used to monitor
 other types of approaches. Two antennas are used in the PAR
 array: one scanning a vertical plane and the other scanning
 horizontally. Since the range is limited to 10 miles, azimuth
+a
+=
+)
+[-
 to 20°, and elevation to 7°, only the final approach area is
 covered. The controller’s scope is divided into two parts. The
+Figure 9-43. Example of a head-up display (top) and a head-down
 upper half presents altitude and distance information, and the
 lower half presents azimuth and distance.
+display (bottom). The head-up display presents information in front of
+the pilot along his/her normal field of view while a head-down display
 PAR is a system in which a controller provides highly
+may present information beyond the normal head-up field of view.
 accurate navigational guidance in azimuth and elevation
+unit transmits a coded pulse sequence that actuates the aircraft
 to a pilot. Pilots are given headings to fly to direct them to
+transponder. The transponder answers the coded sequence
 and keep their aircraft aligned with the extended centerline
+by transmitting a preselected coded sequence back to the
 of the landing runway. They are told to anticipate glidepath
+ground equipment, providing a strong return signal and
 interception approximately 10–30 seconds before it occurs
+positive aircraft identification, as well as other special data
 and when to start descent. The published decision height (DH)
+such as aircraft altitude.
 is given only if the pilot requests it. If the aircraft is observed
 to deviate above or below the glidepath, the pilot is given
+Functions of Radar Navigation
 the relative amount of deviation by use of terms “slightly” or
+The radar systems used by ATC are air route surveillance
 “well” and is expected to adjust the aircraft’s rate of descent/
+radar (ARSR), airport surveillance radar (ASR), and
 ascent to return to the glidepath. Trend information is also
+precision approach radar (PAR) and airport surface detection
 issued with respect to the elevation of the aircraft and may
+equipment (ASDE). Surveillance radars scan through 360°
 9-47
 
 be modified by the terms “rapidly” and “slowly” (e.g., “well

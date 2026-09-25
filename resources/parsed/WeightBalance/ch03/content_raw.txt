@@ -1,7 +1,10 @@
 Chapter 3
 Weighing the Aircraft and
+Weighing
 Determining the Empty Weight
+Cener al ew)
 Center of Gravity
+|
 Introduction
 Chapter 2, Weight and Balance Theory, explained the theory
 of weight and balance and gave examples of the way the
@@ -11,6 +14,9 @@ of weighing an airplane and locating its CG are discussed.
 Formulas are introduced that allow the CG location to be
 measured in inches from various datum locations and in
 percentage of the mean aerodynamic chord (MAC).
+the Aircraft and
+g te
+|
 3-1
 
 Requirements
@@ -81,6 +87,7 @@ scale pad at ground level. With one scale per wheel, each
 device should be capable of measuring up to at least 60,000
 pounds since the weight on each wheel rarely exceeds this
 figure
+anes
 Figure 3-1. Platform scales.
 Load cell scales [Figure 3-3] are also a reliable means to
 weigh aircraft and are typically cheaper than the platform
@@ -97,15 +104,43 @@ risk, which some operators would rather avoid by opting for
 more expensive—but simpler to use—platform equipment.
 In addition, weighing with platform scales typically takes
 only one-third of the time needed to weigh with load cells.
+_v
 
+Cb, eect oo)
+Pesopas
+- — ae
+/
+a
+@: ‘
+=
+ONG
+piel
+tees!
+\
+P
+pe
+AS
+a
+\
+a.
+A
+J
+E3:
+‘
+ee.
 Figure 3-2. Ramp scales.
-Figure 3-3. Load cell scales.
 All scales for aviation use, manual or electronic, must be
+AN
 protected when stored or shipped, and they must be checked
 periodically for accuracy. The maximum recognized period
 between calibration checks is 12 months; however, this period
+:
+fet
+al
+bier
 may be reduced by an airworthiness authority dependent on
 the conditions of use. Scales in daily use may require a shorter
+a
 interval and/or testing to determine the continued accuracy
 of the unit. Scales should be returned to the manufacturer for
 proper calibration and testing.
@@ -116,12 +151,15 @@ procedure contained in the manufacturer’s maintenance
 manual should be followed for each particular aircraft. The
 major considerations in preparing an aircraft for weighing
 are described in the following paragraphs.
+= Ch ee.
+{
 Scale Preparation
 Mechanical and electronic scales shall be inspected prior to
 use and set to zero. This is done by adding and removing
 a weight, then rechecking for zero. This process should be
 repeated until a steady zero setting is obtained. The scales
 should be located in the same environment in which they
+Figure 3-3. Load cell scales.
 3-3
 
 are to be used and allowed to come up to temperature at
@@ -180,6 +218,7 @@ aircraft is weighed, or its weight must be subtracted from
 the standard weights are listed in Figure 3-4.
 the scale readings to determine the empty weight. To weigh
 an aircraft that does not include the engine lubricating oil
+|
 Pounds per U.S. Gallon
 as part of the empty weight, place it in level flight attitude,
 Weighing Point
@@ -307,6 +346,10 @@ provisions are normally made on helicopters for determining
 both longitudinal and lateral level. This may be done by
 When the airplane is on the scales with the parking brakes
 built-in leveling indicators, or by a plumb bob that shows the
+oT
+oT
+YT
+YT
 Weighing point
 Scale reading (lb)
 TARE weight (lb)
@@ -332,6 +375,11 @@ Figure 3-5. Locating the CG of an airplane relative to the datum.
 
 Datum
 32.8
+—E
+fae
+_
+=
+——
 46.0
 Figure 3-6. The datum is located at the firewall.
 off, place chocks around the wheels to keep the airplane
@@ -340,6 +388,7 @@ weight, from the scale reading to determine the net weight
 at each weighing point. Multiply each net weight by its arm
 to determine its moment, and then determine the total weight
 and total moment. The CG is determined by dividing the total
+mz
 Total moment
 =
 CG
@@ -376,8 +425,13 @@ of the leading edge of the wing root or 128 inches forward
 Datum
 D = 128.0
 114.8
+—
+fae
 100.0
 13.2
+|
+—
+——
 L = 78.0
 Figure 3-8. The datum is 100 inches forward of the wing root
 leading edge.
@@ -385,6 +439,7 @@ of the main-wheel weighing points. This is distance (D). The
 weight of the nosewheel (F) is 340 pounds, and the distance
 between main wheels and nosewheel (L) is 78 inches. The
 total weight of the airplane (W) is 2,006 pounds. Determine
+S
 ( )
 F × L
 = D −
@@ -412,7 +467,11 @@ edge of the wing with the fuselage. The distance (D) between
 the datum of the airplane in Figure 3-10 and the main-wheel
 Datum
 88.2
+—E
+fae
 D = 75
+—
+——
 L = 78.0
 Figure 3-10. The datum is aft of the main wheels at the wing
 trailing edge.
@@ -458,11 +517,16 @@ is 222 inches. The total weight of the airplane (W) is 1,218
 pounds. Determine the CG by using the formula in Figure 3-13.
 Datum
 19.7
+—E
+(a9
 D = 7.5
+—
+——
 L = 222.0
 229.5
 Figure 3-12. The datum of this tailwheel airplane is the wing root
 leading edge.
+tz
 ( )
 R × L
 = D +
@@ -488,10 +552,16 @@ and the total net weight (W) of the airplane is 1,218 pounds.
 Since the datum is aft of the main wheels, use the formula
 Datum
 67.8
+—
+(a9
+|
+—
+—
 D = −80
 L = 222.0
 Figure 3-14. The datum is aft of the main wheels, at the intersection
 of the wing trailing edge and the fuselage.
+mz
 ( )
 R × L
 = −D +
@@ -558,6 +628,9 @@ airfoil. You can also think of it as the chord drawn through
 the geographic center of the plan area of the wing.
 Usually listed in the aircraft’s TCDS when it is required for
 3-8
+Se
+=
++
 Figure 3-16. The MAC is the chord drawn through the geographic
 center of the plan area of the wing.
 weight and balance computations, the MAC is established
@@ -589,8 +662,10 @@ MAC = TEMAC – LEMAC
 MAC = 206" – 144"
 MAC = 62"
 Datum
+El
 Leading edge mean
 aerodynamic chord
+—
 LEMAC
 MAC
 CG
@@ -598,26 +673,47 @@ TEMAC
 Trailing edge mean
 aerodynamic chord
 
+LEMAC = station 144
 Station 144"
 Station 206"
+mz
 TEMAC
 LEMAC
 Datum
+CG inches from datum = LEMAC + MAC × CG % MAC
+aa
+so/|
+62 × 27.4
+= 144 +
 MAC
 MAC
+LL
 CG = 27.4%
 CG = 27.4%
+= 160.9
+—
+le
+Figure 3-19. Formula for determining the CG in inches from the
 CG
 CG
 = 161
 CG = 161
+datum.
 Figure 3-17. Large aircraft weight and balance calculation diagram.
+Determine the location of the CG in inches from the datum
 CG = 161"
+by using the formula found in Figure 3-19.
+The CG of this airplane is located at station 160.9 inches aft
 In order to findthe percent MAC, firs determine the distance
+of the datum. It is important for longitudinal stability that the
 of the CG from LEMAC.
+CG be located ahead of the center of lift of a wing. Since the
+center of lift is expressed as percent MAC, the location of
 CG – LEMAC = Distance from LEMAC
+the CG is expressed in the same terms.
 161" – 144" = 17"
 The location of the CG expressed in percent MAC is
+tz
 CG inches % MAC = Distance aft of LEMAC × 100
 MAC
 17 × 100
@@ -632,20 +728,6 @@ CG in inches from the datum when its location in percent
 MAC is known.
 The CG of the airplane is located at 27.4 percent MAC.
 MAC = 206 – 144 = 62
-LEMAC = station 144
-CG inches from datum = LEMAC + MAC × CG % MAC
-62 × 27.4
-= 144 +
-= 160.9
-Figure 3-19. Formula for determining the CG in inches from the
-datum.
-Determine the location of the CG in inches from the datum
-by using the formula found in Figure 3-19.
-The CG of this airplane is located at station 160.9 inches aft
-of the datum. It is important for longitudinal stability that the
-CG be located ahead of the center of lift of a wing. Since the
-center of lift is expressed as percent MAC, the location of
-the CG is expressed in the same terms.
 3-9
 
 3-10
