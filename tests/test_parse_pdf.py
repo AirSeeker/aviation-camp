@@ -14,11 +14,15 @@ from scripts.parse_pdf import (
     extract_images_for_chapter,
     extract_layout_lines,
     find_book_output_collisions,
+    infer_image_kind,
     load_chapter_overrides,
     main,
+    needs_ocr_retry,
     open_pdf_document,
     parse_book,
+    process_pdf_batch,
     publish_staged_outputs,
+    validate_chapter_ranges,
 )
 
 
@@ -52,6 +56,24 @@ class DetectChapterRangesTests(unittest.TestCase):
         finally:
             doc.close()
 
+    def test_includes_front_matter_before_first_chapter(self) -> None:
+        doc = fitz.open()
+        for _ in range(10):
+            doc.new_page()
+        doc.set_toc(
+            [
+                [1, "Preface", 2],
+                [1, "Table of Contents", 5],
+                [1, "Chapter 1: Basics", 6],
+                [1, "Chapter 2: Flight", 9],
+            ]
+        )
+
+        try:
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 5), (6, 8), (9, 10)])
+        finally:
+            doc.close()
+
     def test_rejects_chapter_start_outside_document(self) -> None:
         doc = fitz.open()
         doc.new_page()
@@ -61,6 +83,10 @@ class DetectChapterRangesTests(unittest.TestCase):
                 detect_chapter_ranges(doc, 1, [2])
         finally:
             doc.close()
+
+    def test_rejects_ranges_that_do_not_cover_entire_document(self) -> None:
+        with self.assertRaisesRegex(ValueError, "cover all pages"):
+            validate_chapter_ranges([(2, 4), (5, 7)], 7)
 
     def test_uses_shallowest_matching_level_without_chapter_entries(self) -> None:
         doc = fitz.open()
@@ -169,12 +195,88 @@ class OpenPdfDocumentTests(unittest.TestCase):
         empty_doc.close.assert_called_once()
 
 
+class OcrQualityTests(unittest.TestCase):
+    def test_marks_sparse_pages_for_ocr_retry(self) -> None:
+        self.assertTrue(needs_ocr_retry(["Figure 1", "Page 3"]))
+        self.assertFalse(
+            needs_ocr_retry([
+                "Introduction",
+                "This page contains real explanatory text about aircraft control and attitude instrument flying.",
+            ])
+        )
+
+    def test_retries_ocr_when_initial_extract_is_sparse(self) -> None:
+        doc = fitz.open()
+        doc.new_page().insert_text((72, 72), "Aviation study text")
+
+        with patch("scripts.parse_pdf.create_ocr_textpage", side_effect=[None, Mock()]) as create_ocr:
+            with patch("scripts.parse_pdf.extract_layout_lines", side_effect=[[(0, 0, 10, 10, "Figure 1")], [(0, 0, 10, 10, "Aviation study text")]]):
+                page_text, _ = collect_page_text(doc, "Test Book", ocr=True, ocr_language="eng", ocr_dpi=300)
+
+        self.assertEqual(page_text[1], ["Aviation study text"])
+        self.assertEqual(create_ocr.call_count, 2)
+
+    def test_classifies_figure_and_table_captions(self) -> None:
+        self.assertEqual(infer_image_kind("Figure 3.1 Wake turbulence"), "figure")
+        self.assertEqual(infer_image_kind("Table 2.1 Required airspeeds"), "table")
+        self.assertEqual(infer_image_kind("Unlabeled illustration"), "figure")
+        self.assertEqual(infer_image_kind("Diagram of the fuel system"), "figure")
+
+
+class ParallelBatchTests(unittest.TestCase):
+    def test_processes_multiple_books_in_a_worker_pool(self) -> None:
+        pdf_files = [Path("library/BookA/one.pdf"), Path("library/BookB/two.pdf")]
+        calls = []
+
+        def fake_parse_book(pdf_path, output_root, public_images_root, **kwargs):
+            calls.append((pdf_path, kwargs.get("chapter_starts")))
+            return {"chapters": [{"startPage": 1, "endPage": 1, "images": []}]}
+
+        with patch("scripts.parse_pdf.parse_book", side_effect=fake_parse_book):
+            with patch("scripts.parse_pdf.ThreadPoolExecutor") as mock_executor:
+                executor = Mock()
+                executor.__enter__ = Mock(return_value=executor)
+                executor.__exit__ = Mock(return_value=False)
+
+                def submit_side_effect(fn, *args, **kwargs):
+                    result = fn(*args, **kwargs)
+                    return Mock(result=lambda: result)
+
+                executor.submit.side_effect = submit_side_effect
+                mock_executor.return_value = executor
+
+                process_pdf_batch(pdf_files, Path("/tmp/out"), Path("/tmp/images"), chapter_overrides={}, workers=2)
+
+        self.assertEqual(len(calls), 2)
+        self.assertEqual(sorted(str(path) for path, _ in calls), ["library/BookA/one.pdf", "library/BookB/two.pdf"])
+
+
 class OcrCliTests(unittest.TestCase):
     def test_requires_tesseract_when_ocr_is_requested(self) -> None:
         with patch("scripts.parse_pdf.sys.argv", ["parse_pdf.py", "--ocr"]):
             with patch("scripts.parse_pdf.shutil.which", return_value=None):
                 with self.assertRaisesRegex(SystemExit, "requires the Tesseract executable"):
                     main()
+
+    def test_uses_configured_worker_count(self) -> None:
+        with patch("scripts.parse_pdf.sys.argv", ["parse_pdf.py", "--workers", "8"]):
+            with patch("scripts.parse_pdf.iter_pdf_files", return_value=[Path("library/BookA/sample.pdf")]):
+                with patch("scripts.parse_pdf.process_pdf_batch") as process_batch:
+                    process_batch.return_value = []
+                    with patch("scripts.parse_pdf.shutil.which", return_value="/usr/bin/tesseract"):
+                        main()
+
+        self.assertEqual(process_batch.call_args.kwargs["workers"], 1)
+
+    def test_uses_configured_retry_dpi(self) -> None:
+        with patch("scripts.parse_pdf.sys.argv", ["parse_pdf.py", "--ocr", "--ocr-retry-dpi", "600"]):
+            with patch("scripts.parse_pdf.shutil.which", return_value="/usr/bin/tesseract"):
+                with patch("scripts.parse_pdf.iter_pdf_files", return_value=[Path("library/BookA/sample.pdf")]):
+                    with patch("scripts.parse_pdf.process_pdf_batch") as process_batch:
+                        process_batch.return_value = []
+                        main()
+
+        self.assertEqual(process_batch.call_args.kwargs["ocr_retry_dpi"], 600)
 
 
 class OverrideAndIdentityTests(unittest.TestCase):
@@ -297,6 +399,25 @@ class ParseBookIntegrationTests(unittest.TestCase):
             self.assertTrue((output_root / "TestBook" / "book_manifest.json").is_file())
             self.assertEqual(list(output_root.glob(".TestBook-parse-*")), [])
             self.assertEqual(list(images_root.glob(".TestBook-images-*")), [])
+
+    def test_skips_reparsing_when_pdf_hash_is_unchanged(self) -> None:
+        with TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as directory:
+            root = Path(directory)
+            source_dir = root / "TestBook"
+            source_dir.mkdir()
+            pdf_path = source_dir / "source.pdf"
+            doc = fitz.open()
+            doc.new_page().insert_text((72, 72), "Aviation study text")
+            doc.save(pdf_path)
+            doc.close()
+
+            output_root = root / "parsed"
+            images_root = root / "images"
+            first_manifest = parse_book(pdf_path, output_root, images_root)
+            second_manifest = parse_book(pdf_path, output_root, images_root)
+
+            self.assertEqual(first_manifest, second_manifest)
+            self.assertTrue((output_root / "TestBook" / "book_manifest.json").is_file())
 
 
 if __name__ == "__main__":

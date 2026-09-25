@@ -1,78 +1,250 @@
-Table of Contents
-of Contents
-Table
-Preface....................................................................iii
-Acknowledgments..................................................v
-Introduction...........................................................vii
-Is an Instrument Rating Necessary?.............................vii
-Instrument Rating Requirements.................................vii
-Training for the Instrument Rating..............................vii
-Maintaining the Instrument Rating.............................viii
-Table of Contents...................................................ix
-Chapter 1
-The National Airspace System............................1-1
-Introduction....................................................................1-1
-Airspace Classification................................................1-2
-Special Use Airspace..................................................1-2
-Federal Airways..........................................................1-4
-Other Routing..............................................................1-5
-IFR En Route Charts......................................................1-6
-Airport Information.....................................................1-6
-Charted IFR Altitudes.................................................1-6
-Navigation Features....................................................1-7
-Types of NAVAIDs................................................1-7
-Identifying Intersections..........................................1-7
-Other Route Information.......................................1-10
-Weather Information and Communication
-Features.................................................................1-10
-New Technologies........................................................1-10
-Terminal Procedures Publications................................1-12
-Departure Procedures................................................1-12
-Standard Terminal Arrival Routes............................1-12
-Instrument Approach Procedure Charts ......................1-12
-Margin Identification................................................1-12
-The Pilot Briefing......................................................1-16
-The Plan View...........................................................1-16
-Terminal Arrival Area (TAA)......................................1-18
-Course Reversal Elements in Plan View and
-Profile View..............................................................1-20
-Procedure Turns....................................................1-20
-Holding in Lieu of Procedure Turn.......................1-20
-Teardrop Procedure...............................................1-21
-The Profile View...................................................1-21
-Landing Minimums...................................................1-23
-Airport Sketch /Airport Diagram..............................1-27
-Inoperative Components...........................................1-27
-RNAV Instrument Approach Charts.........................1-30
-Chapter 2
-The Air Traffic Control System...........................2-1
-Introduction....................................................................2-1
-Communication Equipment............................................2-2
-Navigation/Communication Equipment.....................2-2
-Radar and Transponders.............................................2-3
-Mode C (Altitude Reporting)..................................2-3
-Communication Procedures............................................2-4
-Communication Facilities...............................................2-4
-Flight Service Stations (FSS)......................................2-4
-ATC Towers................................................................2-5
-Terminal Radar Approach Control (TRACON).........2-6
-Tower En Route Control (TEC)..................................2-7
-Air Route Traffic Control Center (ARTCC)...............2-7
-Center Approach/Departure Control...........................2-7
-ATC Inflight Weather Avoidance Assistance..............2-11
-ATC Radar Weather Displays..................................2-11
-Weather Avoidance Assistance.................................2-11
-Approach Control Facility............................................2-12
-Approach Control Advances........................................2-12
-Precision Runway Monitor (PRM)...........................2-12
-PRM Radar............................................................2-12
-PRM Benefits........................................................2-13
-Control Sequence..........................................................2-13
-Letters of Agreement (LOA)....................................2-14
-Chapter 3
-Human Factors.....................................................3-1
-Introduction....................................................................3-1
-Sensory Systems for Orientation....................................3-2
-Eyes.............................................................................3-2
-Vision Under Dim and Bright Illumination............3-3
-ix
+Instrument Flying Handbook (FAA-H-8083-15B) Note
+An errata sheet indicating the content and grammatical errors discovered in this handbook
+since its publication can be found at http://www.faa.gov/regulations_policies/
+handbooks_manuals/aviation/ These errors will be corrected in the next version of the
+handbook.
+
+Flying Handbook
+Flying Handbook
+U.S. Department
+of Transportation
+FEDERAL AVIATION
+ADMINISTRATION
+FAA-H-8083-15B
+
+Instrument Flying
+pment ving
+Handbook
+U.S. Department of Transportation
+FEDERAL AVIATION ADMINISTRATION
+Flight Standards Service
+Flyi
+
+ii
+
+Preface
+Preface
+This Instrument Flying Handbook is designed for use by instrument flight instructors and pilots preparing for instrument
+rating tests. Instructors may find this handbook a valuable training aid as it includes basic reference material for knowledge
+testing and instrument flight training. Other Federal Aviation Administration (FAA) publications should be consulted for
+more detailed information on related topics.
+This handbook conforms to pilot training and certification concepts established by the FAA. There are different ways of
+teaching, as well as performing, flight procedures and maneuvers and many variations in the explanations of aerodynamic
+theories and principles. This handbook adopts selected methods and concepts for instrument flying. The discussion and
+explanations reflect the most commonly used practices and principles. Occasionally the word “must” or similar language
+is used where the desired action is deemed critical. The use of such language is not intended to add to, interpret, or relieve
+a duty imposed by Title 14 of the Code of Federal Regulations (14 CFR).
+All of the aeronautical knowledge and skills required to operate in instrument meteorological conditions (IMC) are detailed.
+Chapters are dedicated to human and aerodynamic factors affecting instrument flight, the flight instruments, attitude instrument
+flying for airplanes, basic flight maneuvers used in IMC, attitude instrument flying for helicopters, navigation systems, the
+National Airspace System (NAS), the air traffic control (ATC) system, instrument flight rules (IFR) flight procedures, and
+IFR emergencies. Clearance shorthand and an integrated instrument lesson guide are also included.
+This handbook supersedes FAA-H-8081-15A, Instrument Flying Handbook, dated 2007.
+This handbook may be purchased from the Superintendent of Documents, United States Government Printing Office (GPO),
+Washington, DC 20402-9325, or from GPO's website.
+http://bookstore.gpo.gov
+This handbook is also available for download, in PDF format, from the Regulatory Support Division’s (AFS-600) website.
+http://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afs/afs600
+This handbook is published by the United States Department of Transportation, Federal Aviation Administration, Airman
+Testing Standards Branch, AFS-630, P.O. Box 25082, Oklahoma City, OK 73125.
+Comments regarding this publication should be sent, in email form, to the following address.
+AFS630comments@faa.gov
+iii
+
+iv
+
+Acknowledgments
+Acknowledgments
+This handbook was produced as a combined Federal Aviation Administration (FAA) and industry effort. The FAA wishes
+to acknowledge the following contributors:
+The laboratory of Dale Purves, M.D. and Mr. Al Seckel in providing imagery (found in Chapter 3) for visual illusions
+from the book, The Great Book of Optical Illusions, Firefly Books, 2004
+Sikorsky Aircraft Corporation and Robinson Helicopter Company for imagery provided in Chapter 2
+Garmin Ltd. for providing flight system information and multiple display systems to include integrated flight, GPS and
+communication systems; information and hardware used with WAAS, LAAS; and information concerning encountering
+emergencies with high-technology systems
+Universal Avionics System Corporation for providing background information of the Flight Management System and
+an overview on Vision–1 and Traffic Alert and Collision Avoidance systems (TCAS)
+Meggitt/S-Tec for providing detailed autopilot information regarding installation and use
+Cessna Aircraft Company in providing instrument panel layout support and information on the use of onboard systems
+Kearfott Guidance and Navigation Corporation in providing background information on the Ring-LASAR gyroscope
+and its history
+Honeywell International Inc., for Terrain Awareness Systems (TAWS) and various communication and radio systems
+sold under the Bendix-King name
+Chelton Flight Systems and Century Flight Systems, Inc., for providing autopilot information relating to Highway in
+the Sky (Chelton) and HSI displays (Century)
+Avidyne Corporation for providing displays with alert systems developed and sold by Ryan International,
+L3 Communications, and Tectronics
+Additional appreciation is extended to the Aircraft Owners and Pilots Association (AOPA), the AOPA Air Safety
+Institute, and the National Business Aviation Association (NBAA) for their technical support and input.
+v
+
+vi
+
+Introduction
+Introduction
+Is an Instrument Rating Necessary?
+The answer to this question depends entirely upon individual
+needs. Pilots may not need an instrument rating if they fly in
+familiar uncongested areas, stay continually alert to weather
+developments, and accept an alternative to their original plan.
+However, some cross-country destinations may take a pilot
+to unfamiliar airports and/or through high activity areas in
+marginal visual or instrument meteorological conditions
+(IMC). Under these conditions, an instrument rating may
+be an alternative to rerouting, rescheduling, or canceling
+a flight. Many accidents are the result of pilots who lack
+the necessary skills or equipment to fly in marginal visual
+meteorological conditions (VMC) or IMC and attempt flight
+without outside references.
+Pilots originally flew aircraft strictly by sight, sound, and
+feel while comparing the aircraft’s attitude to the natural
+horizon. As aircraft performance increased, pilots required
+more inflight information to enhance the safe operation of
+their aircraft. This information has ranged from a string tied
+to a wing strut, to development of sophisticated electronic
+flight information systems (EFIS) and flight management
+systems (FMS). Interpretation of the instruments and aircraft
+control have advanced from the “one, two, three” or “needle,
+ball, and airspeed” system to the use of “attitude instrument
+flying” techniques.
+Navigation began by using ground references with dead
+reckoning and has led to the development of electronic
+navigation systems. These include the automatic direction
+finder (ADF), very-high frequency omnidirectional range
+(VOR), distance measuring equipment (DME), tactical air
+navigation (TACAN), long range navigation (LORAN),
+global positioning system (GPS), instrument landing system
+(ILS), microwave landing system (MLS), and inertial
+navigation system (INS).
+Perhaps you want an instrument rating for the same basic
+reason you learned to fly in the first place—because you like
+flying. Maintaining and extending your proficiency, once you
+have the rating, means less reliance on chance and more on
+skill and knowledge. Earn the rating—not because you might
+need it sometime, but because it represents achievement and
+provides training you will use continually and build upon
+as long as you fly. But most importantly it means greater
+safety in flying.
+Instrument Rating Requirements
+A private or commercial pilot must have an instrument
+rating and meet the appropriate currency requirements if
+that pilot operates an aircraft using an instrument flight
+rules (IFR) flight plan in conditions less than the minimums
+prescribed for visual flight rules (VFR), or in any flight in
+Class A airspace.
+You will need to carefully review the aeronautical knowledge
+and experience requirements for the instrument rating as
+outlined in Title 14 of the Code of Federal Regulations
+(14 CFR) part 61. After completing the Federal Aviation
+Administration (FAA) Knowledge Test issued for the
+instrument rating, and all the experience requirements have
+been satisfied, you are eligible to take the practical test. The
+regulations specify minimum total and pilot-in-command
+time requirements. This minimum applies to all applicants
+regardless of ability or previous aviation experience.
+Training for the Instrument Rating
+A person who wishes to add the instrument rating to his or
+her pilot certificate must first make commitments of time,
+money, and quality of training. There are many combinations
+of training methods available. Independent studies may be
+adequate preparation to pass the required FAA Knowledge
+Test for the instrument rating. Occasional periods of ground
+and flight instruction may provide the skills necessary to
+pass the required test. Or, individuals may choose a training
+facility that provides comprehensive aviation education and
+the training necessary to ensure the pilot will pass all the
+required tests and operate safely in the National Airspace
+System (NAS). The aeronautical knowledge may be
+administered by educational institutions, aviation-oriented
+schools, correspondence courses, and appropriately rated
+instructors. Each person must decide for themselves which
+training program best meets his or her needs and at the same
+time maintain a high quality of training. Interested persons
+vii
+
+should make inquiries regarding the available training at
+nearby airports, training facilities, in aviation publications,
+and through the FAA Flight Standards District Office
+(FSDO).
+Although the regulations specify minimum requirements,
+the amount of instructional time needed is determined not
+by the regulation, but by the individual’s ability to achieve
+a satisfactory level of proficiency. A professional pilot with
+diversified flying experience may easily attain a satisfactory
+level of proficiency in the minimum time required by
+regulation. Your own time requirements will depend upon a
+variety of factors, including previous flying experience, rate
+of learning, basic ability, frequency of flight training, type of
+aircraft flown, quality of ground school training, and quality
+of flight instruction, to name a few. The total instructional
+time you will need, the scheduling of such time, is up to the
+individual most qualified to judge your proficiency—the
+instructor who supervises your progress and endorses your
+record of flight training.
+You can accelerate and enrich much of your training by
+informal study. An increasing number of visual aids and
+programmed instrument courses is available. The best course
+is one that includes a well-integrated flight and ground school
+curriculum. The sequential nature of the learning process
+requires that each element of knowledge and skill be learned
+and applied in the right manner at the right time.
+Part of your instrument training may utilize a flight simulator,
+flight training device, basic aviation training device (BATD),
+or an advanced aviation training device (AATD). This
+ground-based flight training equipment is a valuable tool
+for developing your instrument cross-check and learning
+procedures, such as intercepting and tracking, holding
+patterns, and instrument approaches. Once these concepts are
+fully understood, you can then continue with inflight training
+and refine these techniques for full transference of your new
+knowledge and skills.
+Holding the instrument rating does not necessarily make you a
+competent all-weather pilot. The rating certifies only that you
+have complied with the minimum experience requirements,
+that you can plan and execute a flight under IFR, that you
+can execute basic instrument maneuvers, and that you have
+shown acceptable skill and judgment in performing these
+viii
+activities. Your instrument rating permits you to fly into
+instrument weather conditions with no previous instrument
+weather experience. Your instrument rating is issued on
+the assumption that you have the good judgment to avoid
+situations beyond your capabilities. The instrument training
+program you undertake should help you to develop not only
+essential flying skills but also the judgment necessary to use
+the skills within your own limits.
+Regardless of the method of training selected, the curriculum
+in Appendix B, Instrument Training Lesson Guide, provides
+guidance as to the minimum training required for the addition
+of an instrument rating to a private or commercial pilot
+certificate.
+Maintaining the Instrument Rating
+Once you hold the instrument rating, you may not act as pilot-
+in-command under IFR or in weather conditions less than the
+minimums prescribed for VFR, unless you meet the recent
+flight experience requirements outlined in 14 CFR part 61.
+These procedures must be accomplished within the preceding
+6 months and include six instrument approaches, holding
+procedures, and intercepting and tracking courses through the
+use of navigation systems. If you do not meet the experience
+requirements during these 6 months, you have another 6
+months to meet these minimums. If the requirements are
+still not met, you must pass an instrument proficiency check,
+which is an inflight evaluation by a qualified instrument
+flight instructor using tasks outlined in the instrument rating
+practical test standards (PTS).
+The instrument currency requirements must be accomplished
+under actual or simulated instrument conditions. You may log
+instrument flight time during the time for which you control
+the aircraft solely by reference to the instruments. This can
+be accomplished by wearing a view-limiting device, such as
+a hood, flying an approved flight-training device, or flying
+in actual IMC.
+It takes only one harrowing experience to clarify the
+distinction between minimum practical knowledge and a
+thorough understanding of how to apply the procedures and
+techniques used in instrument flight. Your instrument training
+is never complete; it is adequate when you have absorbed
+every foreseeable detail of knowledge and skill to ensure a
+solution will be available if and when you need it.

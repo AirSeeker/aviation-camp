@@ -1,1386 +1,2166 @@
-Chapter 10
-Use of Computer for Weight
-Use ofComputer
-and Balance Computations
-and Balance Computations
-mz
+Chapter 9
+Weight and Balance Control—
+eee
+Commuter Category and
+Large Aircraft
+i
+||
 Introduction
-Almost all weight and balance problems involve only simple
-math. This allows slide rules and hand-held electronic
-calculators to relieve much of the tedium involved with these
-problems. This chapter compares the methods of determining
-the center of gravity (CG) of an airplane while it is being
-weighed. First, it shows how to determine the CG using a
-simple electronic calculator, then solves the same problem
-using an E6-B flightcomputer. Finally, it shows how to solve
-it using a dedicated electronic flight computer
-for Weight
-10-1
+This chapter discusses general guidelines and procedures for
+weighing large fixed-wingaircraft exceeding a takeoff weight
+of 12,500 pounds. Several examples of center of gravity (CG)
+determination for various operational aspects of these aircraft
+are also included. Persons seeking approval for a weight and
+balance control program for aircraft operated under Title
+14 of the Code of Federal Regulations (14 CFR) part 91,
+subpart K, 121, 125, or 135 should consult with the Flight
+Standards District Office(FSDO) or CertificateManagement
+Office (CMO) that has jurisdiction in their area. Additional
+information on weight and balance for large aircraft can be
+found in Federal Aviation Administration (FAA) Advisory
+Circular (AC) 120-27, Aircraft Weight and Balance Control,
+FAA Type Certificate Data Sheets (TCDS), and the aircraft
+flight and maintenance manuals for specific aircraf
+9-1
 
-Examples of typical weight and balance problems (solved
-oT
-oT
-Weighing Point
-Weight (lb)
-Arm (in)
-with an electronic calculator) that pilots and airframe and
-Right side
-powerplant (A&P) maintenance technicians encounter
-Left side
-throughout their aviation endeavors are shown later in this
-Nose
-–78
-chapter.
-Total
-2,006
-Electronic Calculator
-Figure 10-2. Weight and balance data of a typical nosewheel
-Determining the CG of an airplane in inches for the main-
-airplane.
-wheel weighing points can be done with any simple electronic
-To determine the CG, use this formula:
-calculator that has addition (+), subtraction (–), multiplication
-(×), and division (÷) functions. [Figure 10-1] Scientifi
-CG = F × L
-calculators with such additional functions as memory (M),
-W
-parentheses (( )), plus or minus (+/–), exponential (yx),
-reciprocal (1/x), and percentage (%) functions allow more
-= 340 × –78
-complex problems to be solved or simple problems to be
-2,006
-solved using fewer steps.
-Key the data into the calculator and press the equal (=) key.
-;
-The answer should read as follows:
-C
-casio
-—fx-8SWA—
-WAY POWER
-peataes
-Two
-(340)(×)(78)(+/–)(÷)(2006)(=) –13.2
-The arm of the nosewheel is negative, so the CG is –13.2 or
-"t
-ond
-13.2 inches ahead of the main wheel weighing points.
-@eoearpe®]
-E6-B Flight Computer
-The E6-B uses a special kind of slide rule. Instead of its scales
-x
-nor
-Poll
-Yr
-”
-x
-going from 1 to 10, as on a normal slide rule, both scales
-ENG
-adic
-v
-x
-log
-in
-go from 10 to 100. The E6-B cannot be used for addition or
-subtraction, but it is useful for making calculations involving
-ey)
-(xa)
-(ee)
-tan
-multiplication and division. Its accuracy is limited, but it is
-oy
-rm) (Oe
-sufficiently accurate for most weight and balance problems.
-a
-Gen
-(an
-AC
-The same problem that was just solved with the electronic
-calculator can be solved on an E6-B by following these steps:
-me
-ven
-(on
-CG = F × L
-)
-me
-ton
-coe
-Ge
-Se
-I"
-W
-\
-Pech
-=
-= 340 × –78
-‘
-q
-2,006
-Figure 10-1. A typical electronic calculator is useful for solving
-First, multiply 340 by 78 (disregard the minus sign)
-most types of weight and balance problems.
-[Figure 10-3]:
-•
-Step 1—place 10 on the inner scale (this is the index
-According to Figure 10-2, the weight of the nosewheel (F) is
-opposite 34 on the outer scale that represents 340).
-340 pounds, the distance between main wheels and nosewheel
-•
-Step 2—opposite 78 on the inner scale, read 26.5 on
-(L) is –78 inches, and the total weight (W) of the airplane is
-the outer scale.
-2,006 pounds. L is negative because the nosewheel is ahead
-of the main wheels.
-Determine the value of these digits by estimating:
-300 × 80 = 24,000, so 340 × 78 = 26,500.
-Then, divide 26,500 by 2,006 [Figure 10-4]:
-10-2
-
-•
-Step 3—on the inner scale, place 20, which represents
-2,006 opposite 26.5 on the outer scale (26.5 represents
-Step 1
-Step 2
-26,500).
--
-+6!
-+40
-Cad +20
-“
-a
-;
-•
-Step 4—opposite the index, 10, on the inner scale read
-ik
-}
-orc +10
-“10
-"1s
-13.2 on the outer scale.
-"eit
-ofse of
-eo
-% Tti AWA ANN Ss
-;
-&
--
-3,
+Establishing the Initial Weight of an
+Aircraft
+Prior to being placed into service, each aircraft is weighed
+and the empty weight and CG location established. New
+aircraft are normally weighed at the factory and are eligible
+to be placed into operation without reweighing if the weight
+and balance records were adjusted for alterations and
+modificationsto the aircraft, such as interior reconfigurations
+An aircraft transferred from one operator that has an approved
+weight and balance program to another operator with an
+approved program does not need to be weighed prior to use by
+the receiving operator unless more than 36 calendar months
+have elapsed since the last individual or fleet weighing, or
+unless some other modification to the aircraft warrants that
+the aircraft be weighed. Aircraft transferred, purchased, or
+leased from an operator without an approved weight and
+balance program, and that have not been modified or have
+been minimally modified,can be placed into service without
+being reweighed if the last weighing was accomplished by an
+acceptable method (for example, manufacturer’s instructions
+or AC 43.13-2, Acceptable Methods, Techniques, and
+Practices—Aircraft Alterations) within the last 12 calendar
+months and a weight and balance change record was
+maintained by the operator. It is potentially unsafe to fail to
+reweigh an aircraft after it has been modified
+When weighing large aircraft, compliance with the relevant
+manuals, operations specifications, or management
+specification is required to ensure that weight and balance
+requirements specified in the Aircraft Flight Manual (AFM)
+are met in accordance with approved limits. This provides
+information to the flight crew that allows the maximum
+payload to be carried safely.
+The aircraft should be weighed in still air or an enclosed
+building after the aircraft has been cleaned. Ensure that the
+aircraft is in a configuration for weighing with regard to
+flightcontrols, unusable fuel, ballast, oil and other operating
+fluids, and equipment as required by the controlling weight
+and balance procedure.
+Large aircraft are not usually raised off the floor on jacks
+for weighing; they are weighed on ramp-type scales. The
+scales must be properly calibrated, zeroed, and used in
+accordance with the manufacturer’s instructions. Each scale
+should be periodically checked for accuracy as recommended
+in the manufacturer’s calibration schedule, either by the
+manufacturer or by a recognized facility, such as a civil
+department of weights and measures. If no manufacturer’s
+schedule is available, the period between calibrations should
+not exceed 12 months.
+9-2
+Determining the Empty Weight and
+Empty Weight CG (EWCG)
+When the aircraft is properly prepared for weighing, roll it
+onto the scales, and level it. The weights are measured at
+three weighing points: the two main wheel points and the
+nosewheel point. The empty weight and empty weight CG
+(EWCG) are determined by using the following steps with
+the results recorded in the weight and balance record for use
+in all future weight and balance computations.
+1.
+Determine the moment index of each of the main-
+wheel points by multiplying the net weight (scale
+reading minus tare weight), in pounds, at these points
+by the distance from the datum, in inches. Divide these
+numbers by the appropriate reduction factor.
 2.
-pi,
-119:
-baw
-ty
-i
-FS
-yet
-Determine the value of 13.2 by estimating:
-:
-Fas
-:
-hi, Almas .
-j
-<oSh
-ars Oe
-ag
-AN
-20,000 ÷ 2000 = 10, so 26,500 ÷ 2,006 = 13.2.
-x :
-m
-O
-AW
-ARS”
-Z aes Ciera
-SA Nika Oram
-The arm (–78) is negative, so the CG is also negative.
-RAD
-we
-Ct
-S NO » Sr
-.
-Suvtnons =|
-fo
-Ss
-<ast y
-\G Gar
-pea 2
-Bh
-Sey TS
-My t
-LR
-Sy
-CAN.
-=
-|
-The CG is –13.2 inches or 13.2 inches ahead of the datum.
-<
-TomehO>
-| Mae onhave
-Be. | 2\ 03
-|
-ani
-ina
-=,
-See at Seedy
-wage
-ee
-pies
-x0ae
-AD
-Dedicated Electronic Flight Computer
-=
-Aes
-Mion ete
-b=
-=,
-==
-SA vaarnys'20 Jiysa ea)
-=
-Dedicated electronic flight computers, like the one in
-> ed
-See
-222 ony,
-|S,
-2 sed
-SS aE
-ERO,
-Figure 10-5, are programmed to solve many flightproblems
-a
-SPH fly
-S945 AS
-:*
-on Ne as
-seta
-/s VAS
-such as wind correction, heading and ground speed,
-AND Distance congue Bex,
-/, QZ
-Bn
-a
-endurance, and true airspeed (TAS), as well as weight and
-LED
-£ép
-ey oe
-FOR nye
-wy
-balance problems.
-5:00 ho) SiN
-a >
-CRY
-un
-fy
-SA
-SO.)
-90 Nat Hey ‘
-ch
-a7 —~
-Figure 10-3. E6-B computer set up to multiply 340 by 78.
-Step 4
-ae?
-OHL8S
-pry
-cap
-at audit,
-Ps
-<
-RV
-statue80
-tise a
-LS WOE
-Ee), sf fv
-1:10
-Q Ys
-Cay
-x20 t40
-ORE,
-»
-NO
-a
-Iss
-S
-"Yo 2010 ofany, Ne
-Sy,
-Cee asi
-CO
-NON
-FANG
-oss
-Oe
-HN
-Oy
-p
-ONO
-NS,
-#3
-hee
-AAV \
-Za
-oF
-ee
-abe
-\t=e
-ed
-“
-Me rep ES
-~
-\eee\ |eed
-Sa
-IO
-*
-Ree
-=
-te)
-oN
-wot,
-BE
-|: Pa
-Figure 10-5. Dedicated electronic flight computers are programmed
-et
-es
-oes RES), |
-SS
-ho
-Wee
-Wty oe
-a
-a
-to solve weight and balance problems, as well as flight problems.
-rs
-“Ypag 8
-USE Sia
-~~
-See
-AE OO 2
-Ye,
-“ “of SS
-The problem just solved with an electronic calculator and
-:
-om
-Cire
-&
-ASS
-Rs,
-u g
-%Sy,oO
-SY
-Sg
-0's
-7M
-~ mS
-.
-an E6-B can also be solved with a dedicated flight computer
-Zs
-Bi Ge
->
-x
-ye
-8 a ON ND
-using the information shown in Figure 10-2. Each fligh
-a
-Vi,
-w
-OL OVE
-°°
-08/7
-7% es
-computer handles the problems in a slightly different way,
-“s
-"Taya
-Z He
-EC
-A
-fo
-PL
-TT
-PTT
-LL WW
-st
-i
-oS yao
-of se
-TTT VEN
-oe
-but all are programmed with prompts that solicit the required
-of
-A
-aR”
-Ne
-ZJo.
-vartearuee conyeson SS
-#
-Dd
-=
-data to be inputted so there is no need to memorize any
-“10 Oe a1 2% eo
-Or
-=e
-formulas. Weight and arms are inputted as called for, and a
-running total of the weight, moment, and CG are displayed.
-Step 3
-Figure 10-4. E6-B computer set up to divide 26,500 by 2,006.
-10-3
-
-Typical Weight and Balance Problems
-A hand-held electronic calculator like the one in Figure 10-5
-is a valuable tool for solving weight and balance problems. It
-can be used for a variety of problems and has a high degree
-of accuracy. The examples given here are solved with a
-calculator using only the (×),(÷),(+),( – ), and (+/–) functions.
-If other functions are available on your calculator, some of
-the steps may be simplified
-Determining CG in Inches From the Datum
-This type of problem is solved by firs determining the
-location of the CG in inches from the main wheel weighing
-points, then measuring this location in inches from the datum.
-There are four types of problems involving the location of
-the CG relative to the datum.
-Nosewheel Airplane With Datum Ahead of the
-Main Wheels
-The datum (D) is 128 inches ahead of the main wheel
-weighing points; the weight of the nosewheel (F) is 340
-pounds, and the distance between main wheels and nosewheel
-(L) is 78 inches. The total weight (W) of the airplane is 2,006
-pounds. Refer to Figure 3-5 on page 3-5.
-Use this formula:
-( )
-CG = D – F × L
-W
-1. Determine the CG in inches from the main wheel:
-(340)(×)(78)(÷)(2006)(=) 13.2
-2. Determine the CG in inches form the datum:
-(128)(–)(13.2)(=) 114.8
-The CG is 114.8 inches behind the datum.
-Nosewheel Airplane With Datum Behind the Main
-Wheels
-The datum (D) is 75 inches behind the main wheel weighing
-points, the weight of the nosewheel (F) is 340 pounds, and
-the distance between main wheels and nosewheel (L) is 78
-inches. The total weight (W) of the airplane is 2,006 pounds.
-Refer to Figure 3-6 on page 3-5.
-Use this formula:
-( )
-CG = – D + F × L
-W
-1. Determine the CG in inches from the main wheels:
-(340)(×)(78)(÷)(2006)(=) 13.2
-10-4
-2. Determine the CG in inches from the datum:
-(75)(+)(13.2)(=) 88.2
-The minus sign before the parenthesis in the formula
-means the answer is negative. The CG is 88.2 inches
-ahead of the datum (–88.2).
-Tailwheel Airplane With Datum Ahead of the Main
-Wheels
-The datum (D) is 7.5 inches ahead of the main wheel
-weighing points, the weight of the tailwheel (R) is 67 pounds,
-and the distance between main wheels and tailwheel (L) is
-222 inches. The total weight (W) of the airplane is 1,218
-pounds. Refer to Figure 3-7 on page 3-6.
-Use this formula:
-( )
-CG = D + R × L
-W
-1. Determine the CG in inches from the main wheels.
-(67)(×)(222)(÷)(1218)(=) 12.2
-2. Determine the CG in inches from the datum:
-(7.5)(+)(12.2)(=) 19.7
-The CG is 19.7 inches behind the datum.
-Tailwheel Airplane With Datum Behind the Main
-Wheels
-The datum (D) is 80 inches behind the main wheel weighing
-points, the weight of the tailwheel (R) is 67 pounds, and the
-distance between main wheels and tailwheel (L) is 222 inches.
-The total weight (W) of the airplane is 1,218 pounds. Refer
-to Figure 3-8 on page 3-6.
-Use this formula:
-( )
-CG = –D + R × L
-W
-1. Determine the CG in inches from the main wheels:
-(67)(×)(222)(÷)(1218)(=) 12.2
-2. Determine the CG in inches from the datum:
-(80)(+/–)(+)(12.2)(=) –67.8
-The CG is 67.8 inches ahead of the datum.
-
-YT
-oT
-oT
-|
-oT
-Weight Point
-Weight (lb)
-Arm (in)
-Moment (lb-in)
+Determine the moment index of the nosewheel
+weighing point by multiplying its net weight, in
+pounds, by its distance from the datum, in inches.
+Divide this by the reduction factor.
+3.
+Determine the total weight by adding the net weight of
+the three weighing points and the total moment index
+by adding the moment indexes of each point.
+4.
+Divide the total moment index by the total weight and
+multiply the result by the reduction factor. This gives
+the CG in inches from the datum.
+5.
+Determine the distance of the CG behind the leading
 CG
-Right side
-106,240
-Left side
-107,008
-Nose
-17,000
-114.8
-2,006
-Total
-230,248
-Figure 10-6. Specifications for determining the CG of an airplane using weight and arm.
-CG using weights and moments indexes.
-Determine the CG by using the data in Figure 10-7 and
-Determining CG, Given Weights, and Arms
-following these steps:
-Some weight and balance problems involve weights and arms
-to determine the moments. Divide the total moment by the
-1. Determine the total weight and record this number:
-total weight to determine the CG. Figure 10-6 contains the
-(830)(+)(836)(+)(340)(=) 2,006
-specificationsfor determining the CG using weights and arms.
-2. Determine the total moment index, divide this by the
-total weight, and multiply it by the reduction factor
-Determine the CG by using the data in Figure 10-6 and
-of 100:
-following these steps:
-(1062.4)(+)(1070.1)(+)(170)(=)(2302.5)(÷)(2006)(=)
-1. Determine the total weight and record this number:
-(1.148)(×)(100)(=) 114.8
-(830)(+)(836)(+)(340)(=) 2,006
-2. Determine the moment of each weighing point and
-This airplane weighs 2,006 pounds and its CG is 114.8 inches
-record them:
-from the datum.
-(830)(×)(128)(=) 106,240
-Determining CG in Percent Mean Aerodynamic
-(836)(×)(128)(=) 107,008
-Chord (MAC)
-(340)(×)(50)(=) 17,000
-•
-The loaded CG is 42.47 inches aft of the datum.
-3. Determine the total moment and divide this by the
-•
-MAC is 61.6 inches long.
-total weight:
-•
-LEMAC is at station 20.1.
-(106240)(+)(107008)(+)(17000)(=)(÷)(2006)(=)
-114.8
-1. Determine the distance between the CG and LEMAC:
-This airplane weighs 2,006 pounds and its CG is 114.8 inches
-(42.47)(–)(20.1)(=) 22.37
-from the datum.
-2. Then, use this formula:
-(22.37)(×)(100)(÷)(61.6)(=) 36.3
-Determining CG, Given Weights, and Moment
-Indexes
-Other weight and balance problems involve weights and
-The CG of this airplane is located at 36.3 percent MAC.
-moment indexes, such as moment/100 or moment/1,000. To
-determine the CG, add all the weights and all the moment
-Determining Lateral CG of a Helicopter
-indexes. Then, divide the total moment index by the total
-For a helicopter, it is often necessary to determine not only
-weight and multiply the answer by the reduction factor.
-the longitudinal CG, but the lateral CG as well. Lateral CG is
-Figure 10-7 contains the specifications for determining the
-measured from butt line zero (BL 0). All items and moments
-to the left of BL 0 are negative, and all those to the right of
-So
-oT
-Tl
-Weighing Point
-Weight (lb)
-Moment/100
-CG
-BL 0 are positive. Figure 10-8 contains the specificationsfor
-determining the lateral CG of a typical helicopter.
-1,062.4
-Right side
-1,070.1
-Left side
-Nose
-2,302.5
-2,006
-Total
-114.8
-Figure 10-7. Specifications for determining the CG of an airplane
-using weights and moment indexes.
-10-5
-
-Determine the lateral CG by using the data in Figure 10-8 and
-Determining Weight Shifted to Cause Specified
-ΔCG
-following these steps:
-How much weight must be shifted from the aft baggage
-1. Add all of the weights:
-compartment at station 246 to the forward compartment
-(1545)(+)(170)(+)(200)(+)(288)(=) 2,203
-at station 118 to move the CG forward 2 inches? The total
-weight of the airplane is 4,709 pounds.
-2. Multiply the lateral arm (the distance between butt
-line zero and the CG of each item) by its weight to
-1. Determine the number of inches the baggage is shifted:
-get the lateral offset moment of each item. Moments
-to the right of BL 0 are positive and those to the left
-Weight shifted = Total weight shifted × ∆ CG
-are negative.
+edge of the mean aerodynamic chord (LEMAC)
 Distance weight is shifted
-(1,545)(×)(.2)(=) 309
-(246)(–)(118)(=) 128
-(170)(×)(13.5)(+/–)(=) –2,295
-2. Use this formula:
-(200)(×)(13.5)(=) 2,700
-(2)(×)(4709)(÷)(128)(=) 73.6
-(288)(×)(8.4)(+/–)(=) –2,419
-Moving 73.6 pounds of baggage from the aft compartment
-3. Determine the algebraic sum of the lateral offset
-to forward compartment shifts the CG forward 2 inches.
-moments.
-(309)(+)(2295)(+/–)(+)(2700)(+)(2419)(+/–)(=)
-Determining Distance Weight Is Shifted to Move
-–1,705
-CG a Specific Distanc
-4. Divide the sum of the moments by the total weight to
-How many inches aft does a 56 pound battery need to be
-determine the lateral CG.
-moved to shift the CG aft by 1.5 inches? The total weight of
-the airplane is 4,026 pounds.
-(1705)(+/–)(÷)(2203)(=) –0.77
-Use this formula:
-The lateral CG is 0.77 inch to the left of BL0.
-Distance weight is shifted = Total weight × ∆ CG
-Determining ΔCG Caused by Shifting Weights
-Weight shifted
-Fifty pounds of baggage is shifted from the aft baggage
-compartment at station 246 to the forward compartment at
-(1.5)(×)(4026)(÷)(56)(=) 107.8
-station 118. The total airplane weight is 4,709 pounds. How
-much does the CG shift?
-Moving the battery aft by 107.8 inches shifts the CG aft 1.5
-1. Determine the number of inches the baggage is shifted:
-inches.
-(246)(–)(118)(=) 128
-2. Use this formula:
-∆ CG = Weight shifted × Distance weight is shifted
-Total weight
-(50)(×)(128)(÷)(4709)(=) 1.36
-The CG is shifted forward 1.36 inches.
-oT
-oT
-oT
-oT
+by subtracting the distance between the datum and
+LEMAC from the distance between the datum and
+the CG. [Figure 9-1]
+;ti‘CO;é‘CY
 =
-x
+Distance CG to LEMAC
+Datum to CG – Datum to LEMAC
+Figure 9-1. Determining the distance of CG.
+6.
+Determine the EWCG in percentage of MAC (percent
+MAC) by using the formula in Figure 9-2.
+CG in inches from LEMAC × 100
+=
+EWCG in % MAC
+MAC
+|
+Figure 9-2. Determining the EWCG in percent MAC.
+
+In the weight change record of a—
+An operator should record any weight changes of—
+Large cabin aircraft
+± 10 lb or greater
+Medium cabin aircraft
+± 5 lb or greater
+Small cabin aircraft
+± 1 lb or greater
+Figure 9-3. Incremental weight changes that should be recorded in a weight and balance change record.
+Documenting Changes to an Aircraft’s
+Figure 9-5 illustrates passenger, cargo, and fuel loading
+Weight and Balance
+tables. Using these tables, determine the moment indexes
+for the passengers (PAX), cargo, and fuel.
+The weight and balance system should include methods by
+which a complete, current, and continuous record of the
+The airplane is loaded in this way:
+weight and CG of each aircraft is maintained, such as a log,
+Passengers (nominal weight—170 pounds each)
+ledger, or other equivalent electronic means. Alterations and
+changes affecting the weight and/or balance of the aircraft
+Forward compartment.................................................18
+should be recorded in this log. Changes in the weight or
+Aft compartment......................................................... 95
+location of weight in or on the aircraft should be recorded
+whenever the weight change is at or exceeds the weights
+Cargo
+listed in Figure 9-3.
+Forward hold......................................................1,500 lb
+Determining the Loaded CG of the
+Aft hold..............................................................2,500 lb
+Airplane in Percent MAC
+A loading schedule is used to document compliance with the
+Fuel
+certificated weight and balance limitations contained in the
+Tanks 1 and 3...........................................10,500 lb each
+manufacturer’s AFM and weight and balance manual. The
+Tank 2...............................................................28,000 lb
+basic operating weight (BOW) and the operating index are
+entered into a loading schedule like the one in Figure 9-4, and
+The formula in Figure 9-6 can be used to determine the
+the variables for a specific flight are entered as appropriate
+location of the CG in inches aft of the datum.
+to determine the loaded weight and CG.
+Use the data in this example:
+Basic operating weight...................................105,500 lb
+Basic operating index (total moment/1,000).....98,837.0
+MAC...................................................................180.9 in
+LEMAC.................................................................. 860.5
+oT
+OT
 Item
 Weight (lb)
-Lateral Arm (in)
-Lateral Offset Moment (lb-in)
-Lateral CG
+Moment/1,000
+105,500
+BOW
+92,837
+3,060
+Passengers Fwd station
+1,781
+16,150
+Passengers Aft station
+16,602
+1,500
+Fwd cargo
+1,020
+2,500
+Aft cargo
+2,915
+10,500
+Fuel tank 1
+10,451
+10,500
+Fuel tank 3
+10,451
+28,000
+Fuel tank 2
+25,589
+177,710
+161,646
+Figure 9-4. Loading schedule.
+9-3
+
+Passenger Loading Table
+Cargo Loading Table
+Moment/1,000
+# of passengers
+Weight (lb)
+Moment/1,000
+Weight (lb) Forward hold arm—680.0 Aft hold arm—1,166.0
+Forward compartment centroid—582.0
+6,000
+6,966
+5,000
+3,400
+5,830
+1,700
+4,000
+2,720
+4,664
+2,550
+1,484
+3,000
+2,040
+3,498
+3,400
+1,979
+2,000
+1,360
+2,332
+4,250
+2,473
+1,000
+1,166
+4,930
+2,869
+1,049
+Aft compartment centroid—1,028.0
+1,700
+1,748
+3,400
+3,495
+5,100
+5,243
+6,800
+6,990
+8,500
+8,738
+10,200
+10,486
+11,900
+12,233
+13,600
+13,980
+15,300
+15,728
+17,000
+17,476
+18,700
+19,223
+20,400
+20,971
+22,610
+23,243
+Fuel Loading Table
+Tanks 1 and 3 (each)
+Tank 2 (3 cells)
+Weight (lb) Arm Moment/1,000
+Weight (lb) Arm Moment/1,000
+Weight (lb) Arm Moment/1,000
+8,500
+992.1
+8,433
+8,500
+917.5
+7,799
+22,500
+914.5
+20,576
+9,000
+993.0
+8,937
+9,000
+917.2
+8,255
+23,000
+914.5
+21,034
+9,500
+993.9
+9,442
+9,500
+917.0
+8,711
+23,500
+914.4
+21,488
+10,000
+994.7
+9,947
+10,000
+916.8
+9,168
+24.000
+914.3
+21,943
+10,500
+995.4
+10,451
+10,500
+916.6
+9,624
+24,500
+914.3
+22,400
+11,000
+996.1
+10,957
+11,000
+916.5
+10,082
+25,000
+914.2
+22,855
+11,500
+996.8
+11,463
+11,500
+916.3
+10.537
+25,500
+914.2
+23,312
+12,000
+997.5
+11,970
+12,000
+916.1
+10,993
+26,000
+914.1
+23,767
+26,500
+914.1
+24,244
+Full capacity
+**(see note at lower left)
+27,000
+914.0
+24,678
+** Note:
+18,500
+915.1
+16,929
+27,500
+913.9
+25,132
+Computations for Tank 2 weights for
+19,000
+915.0
+17,385
+28,000
+913.9
+25,589
+12,500 lb to 18,000 lb have been
+19,500
+914.9
+17,841
+28,500
+913.8
+26,043
+purposely omitted.
+20,000
+914.9
+18,298
+29,000
+913.7
+26,497
+20,500
+914.8
+18,753
+29,500
+913.7
+26,954
+21,000
+914.7
+19,209
+30,000
+913.6
+27,408
+21,500
+914.6
+19,664
+Full capacity
+22,000
+914.6
+20,121
+Figure 9-5. Loading schedule for determining weight and CG.
+9-4
+
+( )
+Total moment index
+CG inches aft of datum = × 1,000
+Total weight
+( )
+161,646
+= × 1,000
+177,710
+= 909.6 inches
 |
--
-+0.2
-1,545
-Helicopter empty weight
-–13.5
-Pilot
-−2,295
-+13.5
-Passenger
-2,700
-135.0
-Fuel (48 gal)
-−2,419
-–8.4
-2,203
-Total
-−1,705
-–0.77
-Figure 10-8. Specifications for determining the lateral CG of a helicopter.
-10-6
+Figure 9-6. Determining the location of the CG in inches aft of
+the datum.
+Determine the distance from the CG to the LEMAC by
+subtracting the distance between the datum and LEMAC from
+the distance between the datum and the CG. [Figure 9-7]
+Distance CG to LEMAC = Datum to CG – Datum to LEMAC
+= 909.6 – 860.5
+= 49.1 inches
+|
+Figure 9-7. Determining the distance from the CG to the LEMAC.
+The location of the CG in percent MAC must be known in
+order to set the stabilizer trim takeoff. [Figure 9-8]
+( )
+Distance CG to LEMAC
+CG % MAC = × 100
+MAC
+( )
+49.1
+= × 100
+180.9
+= 27.1%
+|
+Figure 9-8. Determining the location of the CG in percent MAC.
+Operational Empty Weight (OEW)
+Operational empty weight (OEW) is the basic empty weight
+or fl et empty weight plus operational items. The operator has
+two choices for maintaining OEW. The loading schedule may
+be utilized to compute the operational weight and balance of
+an individual aircraft, or the operator may choose to establish
+fleet empty weights for a fleet or group of aircraf
+Reestablishing the OEW
+The OEW and CG position of each aircraft should be
+reestablished at the reweighing. In addition, it should be
+reestablished through calculation whenever the cumulative
+change to the weight and balance log is more than plus or
+minus one-half of 1 percent (0.5 percent) of the maximum
+landing weight, or whenever the cumulative change in the
+CG position exceeds one-half of 1 percent (0.5 percent) of the
+MAC. In the case of rotorcraft and aircraft that do not have a
+MAC-based CG envelope (e.g., canard equipped airplane),
+whenever the cumulative change in the CG position exceeds
+one-half of 1 percent (0.5 percent) of the total CG range, the
+weight and balance should be reestablished.
+When reestablishing the aircraft OEW between reweighing
+periods, the weight changes may be computed provided the
+weight and CG location of the modifications are known;
+otherwise, the aircraft must be reweighed.
+Fleet Operating Empty Weights (FOEW)
+An operator may choose to use one weight for a fleetor group
+of aircraft if the weight and CG of each aircraft is within the
+limits stated above for establishment of OEW. When the
+cumulative changes to an aircraft weight and balance log
+exceed the weight or CG limits for the established fleetweight,
+the empty weight for that aircraft should be reestablished.
+This may be done by moving the aircraft to another group, or
+reestablishing new fleet operating empty weights (FOEWs)
+Onboard Aircraft Weighing System
+Some large transport airplanes have an onboard aircraft
+weighing system (OBAWS) that, when the aircraft is on the
+ground, gives the flight crew a continuous indication of the
+aircraft total weight and the location of the CG in percent
+MAC. Procedures are required to ensure the onboard weight
+and balance system equipment is periodically calibrated in
+accordance with the manufacturer’s instructions.
+An operator may use an onboard weight and balance
+system to measure an aircraft’s weight and balance as a
+primary means to dispatch an aircraft, provided the FAA
+has certified the system and approved the system for use in
+an operator’s weight and balance control program. As part
+of the approval process, the onboard weight and balance
+system must maintain its certificatedaccuracy. The accuracy
+demonstration test is provided in the maintenance manual
+portion of the Supplemental Type Certificate (STC) or type
+certificate of the onboard weight and balance system.
+The system consists of strain-sensing transducers in each
+main wheel and nosewheel axle, a weight and balance
+computer, and indicators that show the gross weight, the
+CG location in percent MAC, and an indicator of the ground
+attitude of the aircraft.
+The strain sensors measure the amount each axle defl cts and
+sends this data into the computer, where signals from all of
+the transducers and the ground attitude sensor are integrated.
+The results are displayed on the indicators for the flightcrew.
+Using an onboard weight and balance system does not relieve
+an operator from the requirement to complete and maintain
+a load manifest.
+9-5
 
-Determining Total Weight of an Aircraft With a
-Specified ΔCG When Cargo Is Move
-What is the total weight of an airplane if moving 500 pounds
-of cargo 96 inches forward shifts the CG 2.0 inches?
-Use this formula:
-Total weight = Weight shifted × Distance weight is shifted
-∆ CG
-(500)(×)(96)(÷)(2)(=) 24,000
-Moving 500 pounds of cargo 96 inches forward causes a
-2.0-inch shift in CG of a 24,000-pound airplane.
-Determining Amount of Ballast Needed to Move
-CG to a Desired Location
-How much ballast must be mounted at station 228 to move
-the CG to its forward limit of +33? The airplane weighs
-1,876 pounds and the CG is at +32.2, a distance of 0.8 inch
-out of limit.
-Use this formula:
-Ballast weight = Aircraft empty weight × Dist. out of limits
-Distance ballast to desired CG
-(1876)(×)(.8)(÷)(195)(=) 7.7
-Attaching 7.7 pounds of ballast to the bulkhead at station
-228 moves the CG to +33.0.
-10-7
-
-10-8
-
-Appendix A
-AppendixA
-Supplemental Study Materials for Aircraft Weight and Balance
-FAA Publications
-(check for most current revision)
-• Advisory Circular (AC) 20-161, Aircraft Onboard Weight and Balance Systems
-• AC 23-21, Airworthiness Compliance Checklists Used to Substantiate Major Alterations for Small Airplanes
-• AC 43.13-1, Acceptable Methods, Techniques, and Practices—Aircraft Inspection and Repair
-• AC 90-89, Amateur-Built Aircraft and Ultralight Flight Testing Handbook
-• AC 120-27, Aircraft Weight and Balance Control
-• FAA-H-8083-30, Aviation Maintenance Technician Handbook—General
-• Order 8130.2, Airworthiness Certification of Aircraft and Related Product
-• www.faa.gov, Light Sport Aircraft (multiple electronic documents)
-A-1
-
-A-2
-
-Appendix B
-Appendix8
-Key Weight and Balance Locations on an Aircraft
+Determining the Correct Stabilizer Trim Setting
+It is important before takeoff to set the stabilizer trim for the
+existing CG location. There are two ways the stabilizer trim
+setting systems may be calibrated: in percent MAC and in
+units airplane nose up (ANU).
+If the stabilizer trim is calibrated in percent MAC, determine
+the CG location in percent MAC as has just been described,
+then set the stabilizer trim on the percentage figure thus
+determined. Some aircraft give the stabilizer trim setting in
+units of ANU that correspond with the location of the CG
+in percent MAC. When preparing for takeoff in an aircraft
+equipped with this system, first determine the CG in percent
+MAC in the way described above, then refer to the stabilizer
+trim setting chart on the takeoff performance page of the
+pertinent AFM. Figure 9-9 is an excerpt from the AFM chart
+on the takeoff performance of a Boeing 737.
+Stabilizer Trim Setting—Units Airplane Nose Up
 CG
-range
-Forward limit
-Aft limit
-Datum
-Aft lim
-Forward
-eee
-—
+Figure 9-9. Stabilizer trim setting in ANU units.
+Consider an airplane with these specifications
+CG location................................................ station 635.7
+LEMAC......................................................... station 625
+MAC...................................................................134.0 in
+1.
+Determine the distance from the CG to the LEMAC
+by using the formula in Figure 9-10.
+2.
+Determine the location of the CG in percent MAC by
+using the formula found in Figure 9-11.
+Refer to Figure 9-9 for all flap settings and a CG located
+at 8 percent MAC; the stabilizer setting is 73⁄4 units ANU.
+9-6
+Distance CG to LEMAC = Datum to CG – Datum to LEMAC
+= 635.7 – 625
+= 10.7 inches
 |
-——
-(–)
-(–)
-(+)
-(+)
-A
-A
+Figure 9-10. Determining the distance from CG to the LEMAC.
+( )
+Distance CG to LEMAC
+CG in % MAC = × 100
+MAC
+( )
+10.7
+= × 100
+134.0
+= 8.0 % MAC
+|
+Figure 9-11. Determining the location of CG in percent MAC.
+Determining CG Changes Caused by
+Flaps (all)
+Modifying the Cargo
+Since large aircraft can carry substantial cargo, adding,
+73/4
+subtracting, or moving any of the cargo from one hold to
+71/2
+another can cause large shifts in the CG.
+63/4
+Effects of Loading or Offloading Cargo
+61/4
+Both the weight and CG of an aircraft are changed when
+53/4
+51/2
+cargo is loaded or offloaded. In the following example, the
+new weight and CG are calculated after 2,500 pounds of
+41/2
+cargo is offloaded from the forward cargo hold
+31/2
+Aircraft specifications are
+Loaded weight..................................................90,000 lb
+21/2
+Loaded CG........................................ 22.5 percent MAC
+Weight change....................................................2,500 lb
+Forward cargo hold centroid...................... station 352.1
+MAC...................................................................141.5 in
+LEMAC.................................................... station 549.13
+1.
+Determine the CG location in inches from the
+datum before the cargo is removed. Do this by first
+determining the distance of the CG aft of the LEMAC.
+[Figure 9-12]
+( )
+CG in % MAC
+CG (inches aft of LEMAC) = × MAC
+( )
+22.5
+= × 141.5
+= 31.84 inches
+Figure 9-12. Determining the location of CG in inches before cargo
+is removed.
+
+2.
+Determine the distance between the CG and the datum
+6.
+Determine the location of the new CG by dividing
+by adding the CG in inches aft of LEMAC to the
+the total moment/1,000 by the total weight and
+distance from the datum to LEMAC. [Figure 9-13]
+multiplying this by the reduction factor of 1,000.
+[Figure 9-17]
+CG (inches from datum) = CG inches aft of LEMAC
++ Datum to LEMAC
+Total moment/1,000
+CG = × 1,000
+Total weight
+= 31.84 + 549.13
+51,407.0
+= × 1,000
+87,500
+= 580.97 inches
+= 587.51 inches behind the datum
+|
+Figure 9-13. Determining the distance between CG and the datum.
+Figure 9-17. Determining the location of new CG.
+3.
+Determine the moment/1,000 for the original weight.
+[Figure 9-14]
+7.
+Convert the new CG location to percent MAC. First,
+determine the distance between the CG location and
+LEMAC. [Figure 9-18]
+Moment/1,000 = Weight × Arm
+1,000
+90,000 × 580.97
+=
+CG (inches aft of LEMAC) =
+1,000
+CG (inches from datum) – LEMAC
+= 52,287.3
+= 587.51 – 549.13
+= 38.38 inches
+Figure 9-14. Determining the moment/1,000 for the original weight.
+|
+Figure 9-18. Determining the distance between the CG and LEMAC.
+4.
+Determine the new weight and new CG by first
+determining the moment/1,000 of the removed weight.
+Multiply the weight removed (2,500 pounds) by the
+8.
+Then, determine the new CG in percent MAC.
+[Figure 9-19]
+centroid of the forward cargo hold (352.1 inches), and
+then divide the result by 1,000. [Figure 9-15]
+,|
+( )
+Distance CG to LEMA
+CG % MAC = × 100
+MAC
+Moment/1,000 = Weight × Arm
+( )
+38.38
+= × 100
+1,000
+141.5
+2,500 × 352.1
+=
+= 27.12% MAC
+1,000
+= 880.25
+Figure 9-19. Determining the new CG in percent MAC.
+Figure 9-15. Determining the moment/1,000 of the removed weight.
+Loading 3,000 pounds of cargo into the forward cargo hold
+5.
+Subtract the removed weight from the original weight
+moves the CG forward 5.51 inches, from 27.12 percent MAC
+and subtract the moment/1,000 of the removed weight
+to 21.59 percent MAC.
+from the original moment/1,000. [Figure 9-16]
+oS
+|
+oT
+oT
+Weight (lb)
+Moment/1,000
+CG (inches from datum)
+CG (percent MAC)
+52,287.3
+90,000
+Original data
+580.97
+22.5
+– 880.3
+– 2,500
+Changes
+51,407.0
+87,500
+New data
+587.51
+27.12
+Figure 9-16. New weights and CG.
+9-7
+
+Effects of Shifting Cargo From One Hold to
+Another
+When cargo is shifted from one cargo hold to another, the CG
+changes, but the total weight of the aircraft remains the same.
+For example, use the following data:
+Loaded weight................................................. 90,000 lb
+Loaded CG............. station 580.97 (22.5 percent MAC)
+Forward cargo hold centroid........................ station 352
+Aft cargo hold centroid............................. station 724.9
+MAC...................................................................141.5 in
+LEMAC........................................................ station 549
+To determine the change in CG (∆CG) caused by shifting
+2,500 pounds of cargo from the forward cargo hold to the
+aft cargo hold, use the formula in Figure 9-20.
+Weight shifted × Distance shifted
+CG =
+Total weight
+2,500 × (724.9 – 352)
+=
+90,000
+= 2,500 × 372.9
+90,000
+= 10.36 inches
+Figure 9-20. Calculating the change in CG, using index arms.
+Since the weight was shifted aft, the CG moved aft and the
+CG change is positive. If the shift were forward, the CG
+change would be negative.
+Before the cargo was shifted, the CG was located at station
+580.97, which is 22.5 percent of MAC. The CG moved aft
+10.36 inches, so the new CG is found using the formula from
+Figure 9-21.
+|
+New CG = Old CG ± CG
+= 580.97 + 10.36
+= 591.33 inches
+Figure 9-21. Determining the new CG after shifting cargo weight.
+Convert the location of the CG in inches aft of the datum to
+percent MAC by using the formula in Figure 9-22.
+The new CG in percent MAC caused by shifting the cargo is
+the sum of the old CG plus the change in CG. [Figure 9-23]
+9-8
+( )
+CG inches
+CG % MAC = × 100
+MAC
+( )
+10.36
+= × 100
+141.5
+= 7.32% MAC
+|
+Figure 9-22. Converting the location of CG to percent MAC.
+New CG % MAC = Old CG ± CG
+= 22.5% + 7.32%
+= 29.82% MAC
+|
+Figure 9-23. Determining the new CG in percent MAC.
+Some AFMs locate the CG relative to an index point rather
+than the datum or the MAC. An index point is a location
+specifiedby the aircraft manufacturer from which arms used
+in weight and balance computations are measured. Arms
+measured from the index point are called index arms, and
+objects ahead of the index point have negative index arms,
+while those behind the index point have positive index arms.
+Use the same data as in the previous example, except for
+these changes:
+Loaded CG.......................... index arm of 0.97, which is
+22.5 percent of MAC
+Index point................................... fuselage station 580.0
+Forward cargo hold centroid...............–227.9 index arm
+Aft cargo hold centroid.......................+144.9 index arm
+MAC...................................................................141.5 in
+LEMAC...............................................–30.87 index arm
+The weight was shifted 372.8 inches (–227.9 + Δ = +144.9,
+Δ =372.8).
+The change in CG can be calculated by using this formula
+found in Figure 9-24.
+=
+Weight shifted × Distance shifted
+CG = × 100
+Total weight
+= 2,500 × (227.9 + 144.9)
+90,000
+= 2,500 × 372.8
+90,000
+= 10.36 inches
+Figure 9-24. Determining the change in CG caused by shifting
+2,500 pounds of cargo.
+
+Since the weight was shifted aft, the CG moved aft, and the
+CG change is positive. If the shift were forward, the CG
+change would be negative. Before the cargo was shifted,
+the CG was located at 0.97 index arm, which is 22.5 percent
+MAC. The CG moved aft 10.36 inches, and the new CG is
+shown using the formula in Figure 9-25.
+New CG = Old CG ± CG
+= 0.97 + 10.36
+= 11.33 index arm
+|
+Figure 9-25. Determining the new CG, moved aft 10.36 inches.
+The change in the CG in percent MAC is determined by using
+the formula in Figure 9-26.
+New CG % MAC = Old CG ± CG
+= 22.5% + 7.32%
+= 29.82% MAC
+|
+Figure 9-26. The change in the CG in percent MAC.
+The new CG in percent MAC is the sum of the old CG plus
+the change in CG. [Figure 9-27]
+( )
+CG inches
+CG % MAC = × 100
+MAC
+( )
+10.36
+= × 100
+141.5
+= 7.32% MAC
+Figure 9-27. The new CG in percent MAC.
+Notice that the new CG is in the same location whether the
+distances are measured from the datum or from the index
+point.
+Determining Cargo Pallet Loads and Floor
+Loading Limits
+Each cargo hold has a structural floor loading limit based on
+the weight of the load and the area over which this weight is
+distributed. To determine the maximum weight of a loaded
+cargo pallet that can be carried in a cargo hold, divide its total
+weight, which includes the weight of the empty pallet and
+its tie down devices, by its area in square feet. This load per
+square foot must be equal to or less than the floor load limit.
+In this example, determine the maximum load that can be
+placed on this pallet without exceeding the floorloading limit.
+Pallet dimensions..........................................36 by 48 in
+Empty pallet weight................................................47 lb
+Tie down devices.....................................................33 lb
+Floor load limit.............................169 lb per square foot
+The pallet has an area of 36 inches (3 feet) by 48 inches
+(4 feet), which equals 12 square feet, and the floor has a
+load limit of 169 pounds per square foot. Therefore, the total
+weight of the loaded pallet can be 169 × 12 = 2,028 pounds.
+Subtracting the weight of the pallet and the tie down devices
+gives an allowable load of 1,948 pounds (2,028 – [47 + 33]).
+Determine the floor loading limit that is needed to carry a
+loaded cargo pallet having the following dimensions and
+weights:
+Pallet dimensions ...................................48.5 by 33.5 in
+Pallet weight ...........................................................44 lb
+Tiedown devices .....................................................27 lb
+Cargo weight .....................................................786.5 lb
+First, determine the number of square feet of pallet area as
+Length (inches) × Width (inches)
+Area (sq. ft.) =
+144 square inches/square foot
+= 48.5 × 33.5
+= 1,624.7
+= 11.28 square feet
+Figure 9-28. Determining pallet area in square feet.
+shown in Figure 9-28.
+Then, determine the total weight of the loaded pallet:
+Pallet.....................................................................44.0 lb
+Tiedown devices ..................................................27.0 lb
+Cargo..................................................................786.5 lb
+Total...................................................................857.5 lb
+Determine the load imposed on the floorby the loaded pallet.
+[Figure 9-29] The floor must have a minimum loading limit
+of 76 pounds per square foot.
+9-9
+
+3.
+The trip limit is again lower than the maximum takeoff
+weight, so use it to compute the maximum payload
+Floor Load = Loaded weight
+Pallet area
+for this trip. [Figure 9-32]
+857.5
+=
+11.28
+Max limit
+Trip limit
+= 76.0 pounds/square foot
+138,000
+128,000
+Zero fuel weight
+|
+– BOW
+–100,500
+Payload (pounds)
+27,500
+Figure 9-29. Determining the load imposed on the floor by the
+loaded pallet.
+|
+Figure 9-32. Finding maximum payload with lower trip limits.
+Determining the Maximum Amount of Payload
+Under these conditions, 27,500 pounds of payload may be
+That Can Be Carried
+carried.
+The primary function of a transport or cargo aircraft is to carry
+payload, which is the portion of the useful load, passengers,
+Determining the Landing Weight
+or cargo that produces revenue. To determine the maximum
+It is important to know the landing weight of the aircraft in
+amount of payload that can be carried, both the maximum
+order to set up the landing parameters and to be certain the
+limits for the aircraft and the trip limits imposed by the
+aircraft is able to land safely at the intended destination.
+particular trip must be considered. In each of the following
+steps, the trip limit must be less than the maximum limit. If
+In this example of a four-engine turboprop airplane,
+it is not, the maximum limit must be used.
+determine the airplane weight at the end of 4.0 hours of cruise
+under these conditions:
+These are the specifications for the aircraft in this example
+Takeoff weight...............................................140,000 lb
+Basic operating weight (BOW)......................100,500 lb
+Pressure altitude during cruise..........................16,000 ft
+Maximum zero fuel weight............................138,000 lb
+Ambient temperature during cruise......................–32 °C
+Maximum landing weight..............................142,000 lb
+Fuel burned during descent and landing............1,350 lb
+Maximum takeoff weight...............................184,200 lb
+Fuel tank load ..................................................54,000 lb
+Refer to the U.S. Standard Atmosphere Table in
+Estimated fuel burn en route............................40,000 lb
+Figure 9-33 and the gross weight table in Figure 9-34 when
+completing the following steps:
+1.
+Compute the maximum takeoff weight for this trip.
+1.
+Use the U.S. Standard Atmosphere Table to
+This is the maximum landing weight plus the trip fuel.
+determine the standard temperature for 16,000 feet
+[Figure 9-30]
+(–16.7 °C).
+2.
+The ambient temperature is –32 °C, which is a
+Max limit
+Trip limit
+deviation from standard of 15.3 °C. (–32° – (–16.7°)
+Landing weight
+142,000
+142,000
++ 40,000
+= –15.3°). It is below standard.
++ trip fuel
+Takeoff weight
+184,200
+182,000
+3.
+In the gross weight table, follow the vertical line
+|
+representing 140,000 pounds gross weight upward
+Figure 9-30. Finding the maximum takeoff weight.
+until it intersects the diagonal line for 16,000 feet
+pressure altitude.
+4.
+From this intersection, draw a horizontal line to the left
+2.
+The trip limit is lower than the maximum takeoff
+to the temperature deviation index (0 °C deviation).
+weight, so it is used to determine the zero fuel weight.
+[Figure 9-31]
+5.
+Draw a diagonal line parallel to the dashed lines for
+Below Standard from the intersection of the horizontal
+line and the Temperature Deviation Index.
+Max limit
+Trip limit
+Landing weight
+184,200
+182,000
+6.
+Draw a vertical line upward from the 15.3 °C
+– fuel load
+– 54,000
+138,000
+128,000
+Zero fuel weight
+Temperature Deviation From Standard.
+|
+Figure 9-31. Determining zero fuel weight with lower trip limits.
+9-10
+
+Feet
+inHg
+mmHg
+PSI
+°C
+°F
+Total fuel burn =
+Lb/hr/engine × No. engines × Hours flight duration
+29.92
+760.0
+14.7
+15.0
+59.0
+2,000
+27.82
+706.7
+13.66
+11.0
+51.9
+= 1,135 × 4 × 4
+4,000
+25.84
+656.3
+12.69
+7.1
+44.7
+6,000
+23.98
+609.1
+11.78
+3.1
+37.6
+= 18,160 pounds
+8,000
+22.23
+564.6
+10.92
+−0.8
+30.5
+10,000
+20.58
+522.7
+10.11
+−0.4
+23.3
+|
+Figure 9-35. Determining the total fuel burn for a 4-hour cruise.
+12,000
+19.03
+483.4
+9.35
+−8.8
+16.2
+14,000
+17.58
+446.5
+8.63
+−12.7
+9.1
+16,000
+16.22
+412.0
+7.96
+−16.7
+1.9
+7.
+Draw a horizontal line to the left from the intersection
+18,000
+14.95
+379.7
+7.34
+−20.7
+−5.2
+of the Below Standard diagonal and the 15.3 °C
+20,000
+13.76
+349.5
+6.75
+−24.6
+−12.3
+temperature deviation vertical line. This line crosses
+22,000
+12.65
+321.3
+6.21
+−28.6
+−19.5
+24,000
+11.61
+294.9
+5.70
+−32.5
+−26.6
+the fuel flow–100 pounds per hour per engine index
+26,000
+10.64
+270.3
+5.22
+−36.5
+−33.7
+at 11.35 and indicates that each of the four engines
+28,000
+9.74
+237.4
+4.78
+−40.4
+−40.9
+30,000
+8.90
+226.1
+4.37
+−44.4
+−48.0
+burns 1,135 (100 × 11.35) pounds of fuel per hour.
+The total fuel burn for the 4-hour cruise is shown in
+32,000
+8.12
+206.3
+3.98
+−48.4
+−55.1
+34,000
+7.40
+188.0
+3.63
+−52.4
+−62.3
+Figure 9-35.
+36,000
+6.73
+171.0
+3.30
+−56.3
+−69.4
+38,000
+6.12
+155.5
+2.99
+−56.5
+−69.7
+40,000
+5.56
+141.2
+2.72
+−56.5
+−69.7
+The airplane gross weight was 140,000 pounds at takeoff
+42,000
+5.05
+128.3
+2.47
+−56.5
+−69.7
+with 18,160 pounds of fuel burned during cruise and 1,350
+44,000
+4.59
+116.6
+2.24
+−56.5
+−69.7
+pounds burned during the approach and landing phase. This
+46,000
+4.17
+105.9
+2.02
+−56.5
+−69.7
+48,000
+3.79
+96.3
+1.85
+−56.5
+−69.7
+leaves a landing weight of 140,000 – (18,160 + 1,350) =
+50,000
+3.44
+87.4
+1.68
+−56.5
+−69.7
+120,490 pounds.
+Temperature
+55,000
+2.71
+68.6
+1.32
+remains constant
+60,000
+2.14
+54.4
+1.04
+Figure 9-33. Standard atmosphere table.
+TT limit
+Pressure altitude—1,000 feet
+Fuel flow—100 lb per hour per engine
+11.35
+SL
+Moment of the loaded aeroplane (lb in x 100)
+15.3
+Gross weight—1,000 lb
+Figure 9-34. Gross weight table.
+9-11
+
+Determining Fuel Dump Time in Minutes
+Most large aircraft are approved for a greater weight for
+takeoff than for landing. To make it possible for them to
+return to landing soon after takeoff, a fuel jettison system is
+sometimes installed. It is important in an emergency situation
+that the flight crew be able to dump enough fuel to lower the
+weight to its allowed landing weight. This is done by timing
+the dumping process.
+In this example, the aircraft has two engines operating and
+these specifications apply
+Cruise weight.................................................171,000 lb
+Maximum landing weight..............................142,500 lb
+Time from start of dump to landing.............. 19 minutes
+Average fuel flow during
+Dumping and descent..............................3,170 lb/hr/eng
+Fuel dump rate........................................2,300 lb/minute
+To calculate the fuel dump time in minutes:
+1.
+Determine the amount of weight the aircraft must
+lose to reach the maximum allowable landing weight.
+[Figure 9-36]
+171,000 lb cruise weight
+– 142,500 lb maximum landing weight
+28,500 lb required reduction
+|
+Figure 9-36. Determining the amount of weight the aircraft must
+lose to reach the maximum allowable landing weight.
+2.
+Determine the amount of fuel burned from the
+beginning of the dump to touchdown. [Figure 9-37]
+fT i
+td
+Fuel flow = 3,170 lb/hr/engine
+= 52.83 lb/min engine
+Figure 9-37. Determining the amount of fuel burned from the
+beginning of the dump to touchdown.
+9-12
+For both engines, this is 52.83 × 2 = 105.66 lb/minute.
+The engines burn 105.66 lbs of fuel per min for 19 minutes
+(the duration of the dump), which calculates to 2007.54
+pounds of fuel burned between the beginning of the dump
+and touchdown.
+3.
+Determine the amount of fuel needed to dump by
+subtracting the amount of fuel burned during the dump
+from the required weight reduction. [Figure 9-38]
+28,500.00 lb required weight reduction
+– 2,007.54 lb fuel burned after start of dumping
+26,492.46 lb fuel to be dumped
+|
+Figure 9-38. Determining the amount of fuel needed to dump.
+4.
+Determine the time needed to dump this amount of
+fuel by dividing the number of pounds of fuel to dump
+by the dump rate. [Figure 9-39]
+26,492.46
+= 11.52 minutes
+2,300
+|
+Figure 9-39. Determine the time needed to dump fuel.
+Weight and Balance of Commuter Category
+Airplanes
+The Beech 1900 is a typical commuter category airplane that
+can be configured to carry passengers or cargo. Figure 9-40
+shows the loading data of this type of airplane in the
+passenger configuration
+Determining the Loaded Weight and CG
+As this airplane is prepared for flight,a manifest is prepared.
+[Figure 9-41]
+
+Loading Data Standard Seating
+Aft baggage/cargo compt. (Aft section)
+Aft baggage/cargo compt. (Fwd. section)
+Fwd. cabin baggage compt.
+F.S. 150.6
+F.S. 175.6
+F.S. 453.5
+F.S. 513.5
+Nose baggage compt.
+7}
+F.S. 43.0
+Aft press BHD F.S. 557.5
+F.S. 150.6
+F.S. 456.0
+F.S. 509.5
+F.S. 5177.35
+Fwd. press BHD F.S. 84.0
+Row 1 F.S. 210
+Row 2 F.S. 230
+Row 3 F.S. 260
+Row 4 F.S. 290
+Row 5 F.S. 320
+Row 6 F.S. 350
+Row 7 F.S. 380
+Row 8 F.S. 410
+Row 9 F.S. 440
+Crew F.S. 129
+Aft partition
+Baggage web
+Baggage/cargo location
+Maximum Weight
 Arm
-Arm
-Single-engine aircraft
-Datum
-Moment = 700 lb–in
-(+) Arm
-70"
+Nose baggage compartment ................... ............................................150....................................................................................................65.5
+Forward cabin baggage compartment.250.................................163.5
+(includes up to 100 pounds that may be
+suspended from clothes rod)
+Aft baggage/cargo compartment
+Fwd. section...................880....................................................................................................483.5
+Aft section.......................630....................................................................................................533.0
+Note
+For compartment loading that results in only partial utilization of total compartment volume, load items must be
+distributed or secured in a manner that precludes shifting under normally anticipated operating conditions.
+Figure 9-40. Loading data for passenger configuration.
+CS
+BC
+oT
+oT
+Item
 Weight
-10 lb
-Station 0
-Station 70
-TEMAC
-LEMAC
-TEM
-LEM
-omerera |
-Datum
-MAC
-MAC
-(+)
 Arm
-_
-_
-_
-_
-el
-—
-Station 0 Station 50
-ation 50
+Moment/100
 CG
-Multiengine aircraft
-B-1
+Airplane basic EW
+9,226
+25,823
+Crew
+Passengers
+Row 1
+Row 2
+Row 3
+Row 4
+Row 5
+Row 6
+1,190
+Row 7
+Row 8
+Row 9
+Baggage
+Nose
+65.5
+Forward cabin
+163.6
+Aft (forward section)
+483.5
+Aft (aft section)
+533.0
+3,198
+Fuel jet A @ +25 °C
+390 gallons
+2,633
+7,866
+292.9
+14,729
+43,139
+Figure 9-41. Determining the loaded weight and CG of a Beech 1900 in the passenger configuration.
+9-13
 
-B-2
+1. The crew weight and the weight of each passenger is
+3.
+Determine the weight of the fuel. Jet A fuel has
+entered into the manifest. The moment/100 for each
+a nominal specific gravity at +15 °C of 0.812
+occupant is determined by multiplying the weight by
+and weighs 6.8 pounds per gallon, but at +25 °C,
+the arm and dividing by 100. This data is available in
+according to the Density Variation of Aviation Fuel
+the AFM and is shown in the Weight and Moments—
+Chart [Figure 9-44], it weighs 6.75 lb/gal. Using this
+Occupants table. [Figure 9-42]
+Useful Load Weights and Moments—Baggage
+2.
+The weight of the baggage in each compartment used
+is entered with its moment/100. This is determined
+AFT baggage/
+AFT baggage/
+Forward
+Nose
+cargo
+cargo
+in the Weights and Moments—Baggage table.
+cabin
+baggage
+compartment
+compartment
+Weight
+baggage
+[Figure 9-43]
+compartment
+(Forward
+(Aft
+compartment
+F.S. 65.5
+section)
+section)
+F.S. 163.6
+F.S. 483.5
+F.S. 533.0
+Useful Load Weights and Moments—Occupants
+Moment/100
+Crew
+Cabin seats
+F.S.
+F.S.
+F.S.
+F.S.
+F.S.
+F.S.
+F.S.
+F.S.
+F.S.
+F.S.
+Weight
+Moment/100
+Figure 9-43. Weight and moments—baggage.
+Figure 9-42. Weight and moments—occupants.
+7.5
+Average
+specific
+gravity
+Fuel
+at 15 °C
+(59 °F)
+Aviation kerosene jet A & Jet A1
+7.0
+Aviation
+Specific weight (lb/US gal)
+kerosene
+Jet A and
+Jet B (JP-4)
+Jet A1
+0.812
+Jet B (JP-4)
+0.785
+6.5
+AV gas grade
+100/130
+0.703
+—
+Aviation gasoline grade 100/130
+NOTE: The fuel quantity indicator
+is calibrated for correct indication
+6.0
+when using aviation kerosene jet
+A and jet A1. When using other
+fuels, multiply the indicated fuel
+quantity in pounds by 0.99 for jet
+B (JP-4) or by aviation gasoline
+(100/130) to obtain actual fuel
+quantity in pounds.
+5.5
+−40
+−30
+−20
+−10
+Temperature (°C)
+Figure 9-44. Density variation of aviation fuel.
+9-14
 
-Glossary
-Glossary
-A note on glossary terms: over the years there has been a
-proliferation of aircraft weight and balance terms. This is
-the result of many factors, such as the Federal Aviation
-Administration (FAA) certification regulation under which
-an aircraft was constructed; the FAA regulation under which
-the aircraft is being operated; manufacturer standardization
-agreements or a combination of these and others. Examples
-of such terms are empty weight, licensed empty weight, basic
-empty weight, operational empty weight, etc.
-Many of these terms may have similar meanings or sound
-similar. Pilots and aircraft mechanics must ensure they
-understand the terminology and are applying the correct
-values based on the procedure and situation dictating the
-calculations undertaken.
-Occasionally, the acronym “GAMA” follows the glossary
-term. This indicates that it is part of the standardized format
-adopted by the General Aviation Manufacturers Association
-in 1976, known as GAMA SpecificationNo.1. These aircraft
-are usually manufactured under Title 14 of the Code of
-Federal Regulations (14 CFR) part 23 and differ from aircraft
-manufactured under the earlier certification rule Civil Air
-Regulation (CAR) part 3 for weight and balance purposes
-in the condition under which empty weight was established.
-Aircraft certific ted under 14 CFR parts 23, 25, 27, and 29
-establish their certificated empty weight as required in the
-appropriate section of these regulations, which states that the
-empty weight and corresponding center of gravity (CG) must
-be determined by weighting the aircraft with:
-•
-Fixed ballast
-•
-Unusable fuel
-•
-Full operating flu d, including oil, hydraulic flu d,
-and other fluids required for normal operation of
-the aircraft systems, except potable water, lavatory
-precharge water, and water intended for injection in
-the engine(s).
-In contrast, aircraft certificated under the older CARs
-established certifi ated empty weight under similar conditions
-as the newer aircraft, with the important exception that the
-aircraft weight did not include full oil, only undrainable oil.
-Mechanics and repair stations should consult the appropriate
-certification rule when reestablishing empty weight
-14 CFR part 121. The Federal regulations governing
-domestic, flag, and supplemental operations
-14 CFR part 135. The Federal regulations governing
-commuter and on-demand operations.
-Adverse loaded CG check. A weight and balance check to
-determine that no condition of legal loading of an aircraft
-can move the CG outside of its allowable limits.
-Aircraft specifications. Documentation containing the
-pertinent specifications for aircraft certificated under the
-CARs.
-Airplane Flight manual (AFM). An FAA-approved
-document, prepared by the holder of a type certificate for an
-aircraft, that specifies the operating limitations and contains
-the required markings and placards and other information
-applicable to the regulations under which the aircraft was
-certificated
-Approved type certificate. A certificate of approval issued
-by the FAA for the design of an aircraft, engine, or propeller.
-Arm. (GAMA) The horizontal distance from the reference
-datum to the CG of an item. The algebraic sign is plus (+) if
-measured aft of the datum or to the right side of the center
-line when considering a lateral calculation. The algebraic
-sign is minus (–) if measured forward of the datum or the left
-side of the center line when considering a lateral calculation.
-Balanced laterally. Being balanced in such a way that the
-aircraft wings tend to remain level.
-Ballast. A weight installed or carried in an aircraft to move
-the center of gravity to a location within its allowable limits.
-G-1
+chart, determine the weights and moment/100 for 390
+5.
+Check to determine that the CG is within limits for
+gallons of Jet A fuel by interpolating between those
+this weight. Refer to the Weight and Balance Diagram.
+[Figure 9-46] Draw a horizontal line across the
+for 6.7 lb/gal and 6.8 lb/gal. The 390 gallons of fuel at
+this temperature weighs 2,633 pounds, and its moment
+envelope at 14,729 pounds of weight and a vertical
+index is 7,866 lb-in/100.
+line from the CG of 292.9 inches aft of the datum.
+These lines cross inside the envelope, verifying the
+4.
+Add all of the weights and all of the moment indexes.
+CG is within limits for this weight.
+Divide the total moment index by the total weight, and
+multiply this by the reduction factor of 100. The total
+weight is 14,729 pounds; the total moment index is
+43,139 lb-in/100. The CG is located at fuselage station
+292.9. [Figure 9-45]
+Useful Load Weights and Moments—Usable Fuel
+6.5 lb/gal
+6.6 lb/gal
+6.7 lb/gal
+6.8 lb/gal
+Gallons
+Moment
+Moment
+Moment
+Moment
+Weight
+Weight
+Weight
+Weight
+1,033
+1,018
+1,002
+1,240
+1,222
+1,203
+1,185
+1,447
+1,426
+1,404
+1,383
+1,654
+1,630
+1,605
+1,581
+1,861
+1,834
+1,806
+1,779
+2,068
+2,038
+2,007
+1,977
+2,275
+2,242
+2,208
+2,175
+2,482
+2,445
+2,409
+2,372
+2,687
+2,648
+2,608
+2,569
+2,893
+2,850
+2,808
+2,765
+3,099
+1,020
+3,053
+1,005
+3,007
+2,962
+3,303
+1,088
+3,254
+1,072
+3,205
+1,056
+3,157
+1,040
+3,506
+1,156
+3,454
+1,139
+3,403
+1,122
+3,351
+1,106
+3,709
+1,224
+3,654
+1,206
+3,600
+1,188
+3,545
+1,170
+3,912
+1,292
+3,854
+1,273
+3,797
+1,254
+3,739
+1,235
+4,113
+1,360
+4,053
+1,340
+3,992
+1,320
+3,932
+1,300
+4,314
+1,428
+4,250
+1,407
+4,187
+1,386
+4,124
+1,365
+4,514
+1,496
+4,448
+1,474
+4,382
+1,452
+4,315
+1,430
+4,715
+1,564
+4,646
+1,541
+4,576
+1,518
+4,507
+1,495
+4,915
+1,632
+4,843
+1,608
+4,770
+1,584
+4,698
+1,560
+5,115
+1,700
+5,040
+1,675
+4,964
+1,650
+4,889
+1,625
+5,315
+1,768
+5,236
+1,742
+5,158
+1,716
+5,080
+1,690
+5,514
+1,836
+5,433
+1,809
+5,352
+1,782
+5,271
+1,755
+5,714
+1,904
+5,630
+1,876
+5,546
+1,848
+5,462
+1,820
+5,912
+1,972
+5,825
+1,943
+5,738
+1,914
+5,651
+1,885
+6,112
+2,040
+6,022
+2,010
+5,932
+1,980
+5,842
+1,950
+6,311
+2,108
+6,218
+2,077
+6,125
+2,046
+6,032
+2,015
+6,512
+2,176
+6,416
+2,144
+6,321
+2,112
+6,225
+2,080
+6,713
+2,244
+6,615
+2,211
+6,516
+1,278
+6,417
+2,145
+6,915
+2,312
+6,813
+2,278
+6,711
+2,244
+6,610
+2,210
+7,116
+2,380
+7,011
+2,345
+6,907
+2,310
+6,802
+2,275
+7,318
+2,448
+7,210
+2,412
+7,103
+2,376
+6,995
+2,340
+7,520
+2,516
+7,409
+2,479
+7,299
+2,442
+7,188
+2,405
+7,722
+2,584
+7,609
+2,546
+7,495
+2,508
+7,381
+2,470
+7,924
+2,652
+7,808
+2,613
+7,691
+2,574
+7,575
+2,535
+8,127
+2,720
+8,007
+2,680
+7,888
+2,640
+7,768
+2,600
+8,330
+2,788
+8,207
+2,747
+8,085
+2,706
+7,962
+2,665
+8,532
+2,856
+8,407
+2,814
+8,282
+2,772
+8,156
+2,730
+8,640
+2,890
+8,513
+2,848
+8,386
+2,805
+8,259
+2,763
+Figure 9-45. Weights and moments—usable fuel.
+9-15
 
-Permanent ballast (fixed ballast). A weight permanently
-installed in an aircraft to bring its CG into allowable limits.
-Permanent ballast is part of the aircraft empty weight.
-Temporary ballast. Weights that can be carried in a cargo
-compartment of an aircraft to move the location of CG for a
-specifi fl ght condition. Temporary ballast must be removed
-when the aircraft is weighed.
-Basic empty weight. (GAMA) Standard empty weight plus
-optional equipment.
-Basic operating index. The moment of the airplane at its
-basic operating weight divided by the appropriate reduction
-factor.
-Basic operating weight (BOW). The empty weight of the
-aircraft plus the weight of the required crew, their baggage,
-and other standard items, such as meals and potable water.
-Bilge area. The lowest part of an aircraft structure in which
-water and contaminants collect.
-Butt (or buttock) line zero. A line through the symmetrical
-center of an aircraft from nose to tail. It serves as the datum
-for measuring the arms used to determine the lateral CG.
-Lateral moments that cause the aircraft to rotate clockwise are
-positive (+) , and those that cause it to rotate counterclockwise
-are negative (–).
-Calendar month. A time period used by the FAA for
-certification and currency purposes. A calendar month
-extends from a given day until midnight of the last day of
-that month.
-Civil Air Regulations (CAR). The predecessor to the Federal
-Aviation Regulations.
-CAM. The acronym for the manuals containing the
-certification rules under the Civil Air Regulations
-Center of gravity (CG). (GAMA) The point at which an
-airplane would balance if suspended. Its distance from the
-reference datum is determined by dividing the total moment
-by the total weight of the airplane. It is the mass center of the
-aircraft, or the theoretical point at which the entire weight of
-the aircraft is assumed to be concentrated. It may be expressed
-in percent of MAC (mean aerodynamic cord) or in inches
-from the reference datum.
-Center of lift. The location along the chord line of an airfoil at
-which all the lift forces produced by the airfoil are considered
-to be concentrated.
-G-2
-Centroid. The distance in inches aft of the datum of the
-center of a compartment or a fuel tank for weight and balance
-purposes.
-CG arm. (GAMA) The arm obtained by adding the airplane’s
-individual moments and dividing the sum by the total weight.
-CG limits. (GAMA) The extreme CG locations within which
-the aircraft must be operated at a given weight. These limits
-are indicated on pertinent FAA aircraft type certificate data
-sheets, specifications, or weight and balance records
-CG limits envelope. An enclosed area on a graph of the
-airplane loaded weight and the CG location. If lines drawn
-from the weight and CG cross within this envelope, the
-airplane is properly loaded.
-CG moment envelope. An enclosed area on a graph of
-the airplane loaded weight and loaded moment. If lines
-drawn from the weight and loaded moment cross within this
-envelope, the airplane is properly loaded.
-Chord. A straight line distance across a wing from leading
-edge to trailing edge.
-Curtailment. An operator created and FAA-approved
-operational loading envelope that is more restrictive than
-the manufacturer’s CG envelope. It ensures that the aircraft
-will be operated within limits during all phases of flight
-Curtailment typically accounts for, but is not limited to, in-
-flightmovement of passengers and crew, service equipment,
-cargo variation, seating variation, etc.
-Datum. An imaginary vertical plane or line from which all
-measurements of arms are taken. The datum is established
-by the manufacturer. Once the datum has been selected, all
-moment arms and the location of CG range are measured
-from this point.
-Delta (Δ). The Greek symbol “Δ” means a change in
-something. ΔCG means a change in the center of gravity
-location.
-Dynamic load. The actual weight of the aircraft multiplied
-by the load factor, or the increase in weight caused by
-acceleration.
-Empty weight. The weight of the airframe, engines,
-all permanently installed equipment, and unusable fuel.
-Depending upon the part of the federal regulations under
-which the aircraft was certificated,either the undrainable oil
-or full reservoir of oil is included.
+17,000
+Maximum takeoff weight
+16,000
+15,000
+Maximum zero fuel weight
+14,000
+13,000
+Weight (lb)
+12,000
+11,000
+10,000
+9,000
+272 276 280 284
+292 296
+300 304
+CG (inches aft of datum)
+Maximum takeoff weight 16,600
+Maximum landing weight 16,000
+Maximum zero fuel weight 14,000
+Figure 9-46. Weight and balance diagram.
+This type of problem is usually solved by using the following
+Determining the Changes in CG When
+Passengers Are Shifted
+two formulas. The total amount of weight shifted is 550
+pounds (300 + 250) and both rows of passengers have moved
+Using the loaded weight and CG of the Beech 1900, calculate
+aft by 210 inches (410 – 200 and 440 – 230). The CG has
+the change in CG when the passengers in rows 1 and 2 are
+been shifted aft by 7.8 inches, and the new CG is at station
+moved to rows 8 and 9. [Figure 9-47] Note that there is no
+300.7. [Figure 9-49]
+weight change, but the moment index has been increased by
+1,155 pound-inches/100 to 44,294. The new CG is at fuselage
+station 300.7. [Figure 9-48]
+9-16
 
-Empty weight center of gravity (EWCG). This is the center
-of gravity of the aircraft in the empty condition, containing
-only the items specified in the aircraft empty weight. This
-CG is an essential part of the weight and balance record of
-the aircraft.
-Empty weight center of gravity range. The distance
-between the allowable forward and aft empty-weight CG
-limits.
-Equipment list. A list of items approved by the FAA for
-installation in a particular aircraft. The list includes the name,
-part number, weight, and arm of the component. Installation
-or removal of an item in the equipment list is considered to
-be a minor alteration.
-Fleet weight. An average weight accepted by the FAA for
-aircraft of identical make and model that have the same
-equipment installed. When a fleet weight control program
-is in effect, the fleet weight of the aircraft can be used rather
-than requiring every individual aircraft to be weighed.
-Fuel jettison system. A fuel subsystem that allows the fligh
-crew to dump fuel in an emergency to lower the weight of an
-aircraft to the maximum landing weight if a return to landing
-is required before sufficient fuel is burned off. This system
-must allow enough fuel to be jettisoned that the aircraft can
-still meet the climb requirements specifiedin 14 CFR part 25.
-Fulcrum. The point about which a lever balances.
-Index point. A location specifiedby the aircraft manufacturer
-from which arms used in weight and balance computations
-are measured. Arms measured from the index point are called
-index arms.
-Interpolate. Determine a value in a range between two
-known values.
-Landing weight. The takeoff weight of an aircraft minus the
-fuel burned and/or dumped en route.
-Large aircraft (14 CFR part 1). An aircraft of more than
-12,500 pounds maximum certificated takeoff weight
-Lateral balance. The balance around the roll, or longitudinal,
-axis.
-Lateral offset moment. The moment, in pound inches, of a
-force that tends to rotate a helicopter about its longitudinal
-axis. The lateral offset moment is the product of the weight of
-the object and its distance from butt line zero. Lateral offset
-moments that tend to rotate the aircraft clockwise are positive,
-and those that tend to rotate it counterclockwise are negative.
-LEMAC. Leading edge of the mean aerodynamic chord. A
-reference point for measurements, and specified in inches
-from the datum to allow computations to relate percent MAC
-to the datum.
-Load cell. A component in an electronic weighing system that
-is placed between the jack and the jack pad on the aircraft.
-The load cell contains strain gauges whose resistance changes
-with the weight on the cell.
-Load factor. The ratio of the maximum load an aircraft can
-sustain to the total weight of the aircraft. Normal category
-aircraft must have a load factor of a least 3.8; utility category
-aircraft, 4.4; and acrobatic category aircraft, 6.0.
-Loading graph. A graph of load weight and load moment
-indexes. Diagonal lines for each item relate the weight to the
-moment index, eliminating the need for calculations.
-Loading schedule. A method of calculating and documenting
-aircraft weight and balance prior to taxiing to ensure the
-aircraft will remain within all required weight and balance
-limitations throughout the flight
-Longitudinal axis. An imaginary line through an aircraft
-from nose to tail, passing through its center of gravity.
-Longitudinal balance. The balance around the pitch, or
-lateral, axis.
-MAC. Mean aerodynamic chord.
-Major alteration. An alteration not listed in the aircraft,
-aircraft engine, or propeller specifications (1) that might
-appreciably affect weight, balance, structural strength,
-performance, powerplant operation, flight characteristics,
-or other qualities affecting airworthiness; or (2) that is not
-done according to accepted practices or cannot be done by
-elementary operations.
-Maximum landing weight. (GAMA) The maximum weight
-approved for the landing touchdown.
-Maximum permissible hoist load. The maximum external
-load that is permitted for a helicopter to carry. This load is
-specified in the POH
-Maximum ramp weight. (GAMA) The maximum weight
-approved for ground maneuver. It includes weight of start,
-taxi, and runup fuel.
-Maximum takeoff weight. (GAMA) The maximum weight
-approved for the start of the takeoff run.
-G-3
-
-Maximum taxi weight. The maximum weight approved
-for ground maneuvers. This is the same as maximum ramp
-weight.
-Maximum weight. The maximum authorized weight of
-the aircraft and all of its equipment as specified in the Type
-Certificate Data Sheets (TCDS) for the aircraft
-Maximum zero fuel weight. The maximum authorized
-weight of an aircraft without fuel. This is the total weight
-for a particular flight minus the fuel. It includes the aircraft
-and everything that is carried on the flight except the weight
-of the fuel.
-Mean aerodynamic chord (MAC). The average distance
-from the leading edge to the trailing edge of the wing.
-METO horsepower (maximum except takeoff HP). The
-maximum power allowed to be produced continuously by an
-engine. Takeoff power is usually limited to a given amount
-of time, such as 1 minute or 5 minutes.
-Minimum fuel. The amount of fuel necessary for one-half
-hour of operation at the rated maximum-continuous power
-setting of the engine, which, for weight and balance purposes,
-is 1⁄12 gallon per maximum-except-takeoff (METO) horse-
-power. It is the maximum amount of fuel that could be used
-in weight and balance computations when low fuel might
-adversely affect the most critical balance conditions. To
-determine the weight of the minimum fuel in pounds, divide
-the METO horsepower by two.
-Minor alteration. An alteration other than a major alteration.
-This includes alterations that are listed in the aircraft, aircraft
-engine, or propeller specifications
-Moment. A force that causes or tends to cause an object to
-rotate. It is indicated by the product of the weight of an item
-multiplied by its arm.
-Moment. (GAMA) The product of the weight of an item
-multiplied by its arm. (Moment divided by a constant is used
-to simplify balance calculations by reducing the number of
-digits; see reduction factor.)
-Moment index. The moment (weight times arm) divided by
-a reduction factor.
-Moment limits versus weight envelope. An enclosed area on
-a graph of three parameters. The diagonal line, representing
-the moment/100, crosses the horizontal line, representing the
-weight at the vertical line, representing the CG location in
-inches aft of the datum. If the lines cross inside the envelope,
-the aircraft is loaded within its weight and CG limits.
-G-4
-Net weight. The weight of the aircraft minus the weight of
-chocks or other devices used to hold the aircraft on the scales.
-Normal category. A category of aircraft certificat d under
-14 CFR part 23 and CAR part 3 that allows the maximum
-weight and CG range while restricting the maneuvers that
-are permitted.
-PAX. The abbreviation of passengers.
-Payload. (GAMA) The weight of occupants, cargo, and
-baggage.
-Percent MAC. The distance in inches of the CG from
-LEMAC divided by the MAC. It is a good standard for CG
-location in airplanes because it permits a standard weight and
-balance program for different types of airplanes.
-Pilot’s operating handbook (POH). An FAA-approved
-document published by the airframe manufacturer that lists
-the operating conditions for a particular model of aircraft
-and its engine(s).
-Potable water. The water carried in an aircraft for the
-purpose of drinking.
-Ramp weight. The zero fuel weight plus all of the usable
-fuel on board.
-Reference datum. (GAMA) An imaginary vertical plane
-from which all horizontal distances are measured for balance
-purposes.
-Reduction factor. A number, usually 100 or 1,000, by which
-a moment is divided to produce a smaller number that is less
-likely to cause mathematical errors when computing the
-center of gravity.
-Residual fuel. The fuel that remains trapped in the system
-after draining the fuel from the aircraft with the aircraft in
-level flightattitude. The weight of this residual fuel is counted
-as part of the empty weight of the aircraft.
-Service ceiling. The highest altitude at which an aircraft
-can maintain a steady rate of climb of 100 feet per minute.
-Small aircraft (14 CFR part 1). An aircraft weighing 12,500
-pounds or less maximum certificated takeoff weight
-Standard empty weight. (GAMA) The weight of a standard
-airplane including unusable fuel, full operating fluids, and
-full oil.
-
-Static load. The load imposed on an aircraft structure due
-to the weight of the aircraft and its contents.
-Station. (GAMA) A location along the airplane fuselage
-usually given in terms of distance from the reference datum.
-Strain sensor. A device that converts a physical phenomenon
-into an electrical signal. Strain sensors in a wheel axle sense
-the magnitude of the force the axle deflects and create an
-electrical signal that is proportional to the force that caused
-the deflection
-Structural station. A location in the aircraft, such as a
-bulkhead, that is identifi d by a number designating its
-distance in inches or percent MAC from the datum. The
-datum is, therefore, identified as station zero. The stations
-and arms are identical. An item located at station +50 would
-have an arm of 50 inches.
-Takeoff weight. The weight of an aircraft just before
-beginning the takeoff roll. It is the ramp weight minus the
-weight of the fuel burned during start and taxi.
-Tare weight. The weight of any chocks or devices that are
-used to hold an aircraft on the scales when it is weighed. The
-tare weight must be subtracted from the scale reading to get
-the net weight of the aircraft.
-TEMAC. Trailing edge of the mean aerodynamic chord.
-Type certificate data sheets (TCDS). The official
-specifications issued by the FAA for an aircraft, engine, or
-propeller.
-Undrainable oil. The oil that does not drain from an engine
-lubricating system when the aircraft is in the normal ground
-attitude and the drain valve is left open. The weight of the
-undrainable oil is part of the empty weight of the aircraft.
-Unusable fuel. (GAMA) The fuel remaining after a test has
-been completed in accordance with governmental regulations.
-Usable fuel. (GAMA) The fuel available for fl ght planning.
-Useful load. (GAMA) The difference between takeoff
-weight, or ramp weight if applicable, and basic empty weight.
-Utility category. A category of aircraft certificatedunder 14
-CFR part 23 and CAR part 3 that permits limited acrobatic
-maneuvers but restricts the weight and the CG range.
-Wing chord. A straight line distance across a wing from
-leading edge to trailing edge.
-Zero fuel weight. The weight of an aircraft without fuel.
-G-5
-
-G-6
-
-Index
-Index
-A
-adverse-loaded CG checks.............................................7-6
-aft adverse-load CG check..............................................7-7
-aircraft category..............................................................4-3
-aircraft certificatio ........................................................4-3
-aircraft classificatio .......................................................4-3
-airplanes..........................................................................4-5
-airships............................................................................4-5
-airworthiness certificat .......................................... 4-4, 4-8
-alteration................................................................. 7-1, 7-5
-amateur-built aircraft....................................... 4-3, 4-6, 4-8
-amateur-built LSA..........................................................4-1
-arm................................................................. 2-2, 7-5, 10-5
-B
-balance............................................................................1-4
-control.........................................................................1-4
-ballast............................................................. 3-4, 7-7, 10-7
-balloon............................................................. 1-5, 1-6, 4-5
-basic empty weight................................................. 5-2, 6-2
-basic weight and balance equation.................................2-4
-C
-cargo.............................................................................9-18
-center of gravity.............................. 2-2, 3-1, 5-1, 9-1, 10-1
-change.........................................................................7-1
-configuratio .............................................................9-18
-determining....................................................... 3-5, 10-4
-determining changes.................................................. 9-6
-determining lateral CG of a helicopter......................10-5
-determining the loaded CG.........................................9-3
-limits envelope............................................................5-4
-range............................................................................2-6
-range chart.................................................................2-10
-certificates and document ..............................................4-8
-chart method........................................................... 6-2, 6-3
-Civil Aeronautical Administration.................................2-6
-civil air regulations................................................. 2-6, 3-4
-commuter category.........................................................9-1
-commuter category airplanes........................................9-12
-comprehensive equipment list......................................2-10
-computer.......................................................................10-1
-consensus standard........................................................ 4-3
-cyclic control................................................................. 8-1
-D
-data pertinent to all model..............................................2-6
-datum..............................................................................3-7
-aft of the main wheels.................................................3-7
-forward of the airplane................................................3-6
-dedicated electronic flight compute ............................10-3
-determining cargo pallet loads....................................... 9-9
-determining new balance point.......................................2-3
-determining weight.......................................................10-6
-documenting changes.....................................................9-3
-draining the fuel..............................................................3-4
-E
-E6-B flight compute ........................................... 10-1,10-2
-effects of weight.............................................................1-3
-electronic calculator......................................................10-2
-electronic load cells........................................................3-2
-empty weight..................................................................9-2
-empty weight center of gravity......... 3-2, 6-2, 7-6, 8-3, 9-2
-empty weight CG range..................................................2-6
-equipment for weighing..................................................3-2
-equipment list.................................................. 3-4, 5-2, 7-2
-EWCG formulas.............................................................3-6
-experimental airworthiness certificat ............................4-6
-extensive repair...............................................................3-2
-F
-FAA designee.................................................................4-4
-finding balance poin ......................................................2-3
-fixed-wing airplan .........................................................1-5
-fleet operating empty weights (FOEW ......................... 9-5
-floor loading limit .........................................................9-9
-forward adverse-load CG check.....................................7-7
-fuel capacity....................................................................2-6
-fuel dump......................................................................9-12
-
+eT
+|
+|
+eT
+Sd
+Item
+Weight
+Arm
+Moment/100
+CG
+(−) 300
+Row 1
+(−) 600
+(−) 250
+Row 2
+(−) 575
+(+) 300
+Row 8
+(+) 1,230
+(+) 250
+Row 9
+(+) 1,100
+14,729
+Original conditions
+43,139
+Changes
+(+) 1,155
+14,729
+New conditions
+44,294
+300.7
+Figure 9-47. Changes in CG caused by shifting passenger seats.
+It is recommended that the operator take into account the
+( )
+possibility that some passengers may not sit in their assigned
+43,139 + 1,155
+CG = × 100
+14,729
+seats.
+= 300.7
+If the actual seating location of each passenger is not known,
+|
+the operator may assume that all passengers are seated
+Figure 9-48. Determining the new CG at fuselage station.
+uniformly throughout the cabin or a specified subsection of
+the cabin. Reasonable assumptions can be made about the
+=
+CG = Weight shifted × Distance shifted
+manner in which people distribute themselves throughout
+Total weight
+the cabin. For example, window seats are occupied first
+= 550 × 210
+followed by aisle seats, followed by the remaining seats
+14,729
+(window-aisle-remaining seating). Both forward and rear
+= 7.8 inches
+loading conditions should be considered. The passengers may
+CG = Original CG + CG
+fill up the window, aisle, and remaining seats from the front
+= 292.9 + 7.8
+of the aircraft to the back, or the back to the front.
+= 300.7 inches aft of datum
+If necessary, the operator may divide the passenger cabin
+Figure 9-49. Determining the new CG at station after CG has
+into subsections or zones and manage the loading of each
+shifted aft.
+zone individually. It can be assumed that passengers will be
+sitting uniformly throughout each zone.
+In a large cabin aircraft with high-density seating such as
+the B737-800, the operator must account for the seating of
+Another consideration is the inflightmovement of passengers,
+passengers in the cabin [Figure 9-50]. If assigned seating
+crew, and equipment. It is assumed that all passengers, crew,
+is used to determine passenger location, the operator
+and equipment are secured when the aircraft is in the takeoff
+must implement procedures to ensure the assignment of
+or landing configuration. Standard operating procedures
+passenger seating is incorporated into the loading procedure.
+_|
+TIS a
 G
-gliders..................................................................... 4-1, 4-5
-H
-helicopter................................................................ 1-5, 8-1
-I
-initial weight...................................................................9-2
-J
-jacking the aircraft..........................................................3-5
-jacks................................................................................3-5
-K
-kit-built aircraft...............................................................4-6
+G
+C
+A
+G
+A
 L
-landing gear shock struts................................................3-5
-landing weight..............................................................9-10
-large aircraft....................................................................9-1
-lateral balance......................................................... 1-4, 8-2
-lateral CG........................................................................8-3
-lateral level.....................................................................3-5
-law of the lever....................................................... 2-1, 2-2
-leading edge....................................................................3-8
-leading edge mean aerodynamic chord (LEMAC).7-6, 9-2
-leveling the aircraft.........................................................3-5
-lift...................................................................................1-2
-light aircraft....................................................................1-5
-lighter-than-air aircraft........................................... 4-1, 4-5
-light sport aircraft (LSA)..........................4-1, 4-2, 4-3, 4-6
-light-sport category................................................. 4-3, 4-4
-light-sport eligible kit.....................................................4-3
-load cell scales................................................................3-2
-loaded CG.......................................................................6-2
-of a helicopter.............................................................8-3
-loaded weight..................................................................6-3
-loading graph method.....................................................5-4
-locating balance point............................................. 2-2, 2-3
-location of CG................................................................3-8
-longitudinal CG..............................................................8-3
-M
-major alteration....................................................... 3-2, 7-3
-manual computational method.......................................5-2
-manufacturer-furnished information............................2-10
-maximum amount of payload.......................................9-10
-maximum baggage..........................................................2-6
-maximum gross weight...................................................1-6
-maximum weights..........................................................2-6
-I-2
-mean aerodynamic chord................................. 2-5, 3-1, 3-8
-modifying the cargo........................................................9-6
-moment............................................................ 2-2, 5-4, 7-5
-index....................................................5-4, 7-5, 9-2, 10-5
-limits...........................................................................6-3
-multiengine aircraft........................................................6-1
-N
-nosewheel airplane with datum ahead of the main
-wheels...........................................................................10-4
-nosewheel airplane with datum behind the main
-wheels...........................................................................10-4
-nosewheel landing gear.......................................... 3-6, 3-7
-number of seats...............................................................2-6
-O
-offloading carg ..............................................................9-6
-offloading passenger .....................................................8-3
-oil....................................................................................3-4
-capacity.......................................................................2-6
-onboard aircraft weighing system..................................9-5
-operational empty weight (OEW)..................................9-5
-other fluid ......................................................................3-5
-overloading.....................................................................1-3
-P
-passengers.....................................................................9-16
-percent mean aerodynamic chord (MAC)...... 6-3, 7-6, 9-3,
-10-5
-permanent ballast............................................................7-8
-pilot in command............................................................3-2
-pilot’s operating handbook...........................................2-10
-platform scales................................................................3-2
-powered parachute..............1-5, 1-6, 4-1, 4-3, 4-5, 4-6, 4-8
-preflight plannin ............................................................5-2
-R
-ramp wheel scales...........................................................3-2
-reestablishing the OEW..................................................9-5
-registration certificat .....................................................4-8
-repair................................................................ 7-1, 7-3, 7-5
-S
-safety....................................................................... 3-2, 3-5
-scale preparation.............................................................3-3
-shifting cargo..................................................................9-8
-shifting the balance point................................................2-4
-shifting weight...................................................... 2-4, 10-6
-single-engine aircraft......................................................5-1
-solution by chart.............................................................2-4
+A
+L
+G
+A
+A
+C
+a
+|
+Mixed class:
+12 first class seats at 36-inch pitch
+148 economy class seats at 32-inch pitch
+Figure 9-50. One passenger configuration of a B737-800.
+9-17
 
-special airworthiness certificat .............................. 4-4, 4-6
-special light-sport aircraft (SLSA).................................4-5
-stability...........................................................................1-4
-standard airworthiness certificat ...................................4-4
-standard weights.............................................................3-4
-statement of compliance......................................... 4-3, 4-5
-stress panels....................................................................3-5
-stress plates.....................................................................3-5
-Swept-wing airplanes.....................................................1-5
-T
-tailwheel airplane with datum ahead of the main.........10-4
-tailwheel airplane with datum behind the main............10-4
-tailwheel landing gear.....................................................3-7
-temperatures change.......................................................3-4
-temporary ballast............................................................7-8
-formula........................................................................7-8
-total weight.....................................................................9-2
-trailing edge....................................................................3-8
-trim setting......................................................................9-6
-twin-engine airplane.......................................................6-1
-type certificate data sheet ........................2-6, 3-8, 5-2, 7-6
-typical placard................................................................7-7
-U
-using fuel........................................................................8-3
-W
-weighing aircraft.............................................................3-2
-weighing procedures.......................................................9-2
-weight.............................................................................1-2
-changes................................................................ 1-3, 7-5
-envelope......................................................................6-3
-procedures...................................................................3-3
-weight and balance.......................................... 4-6, 4-8, 6-1
-computations...............................................................4-8
-control................................................................. 1-2, 3-2
-problems....................................................................10-4
-records.........................................................................3-2
-record..........................................................................7-3
-theory..........................................................................2-2
-weight and loading sheet................................................4-8
-weight and moment indexes...........................................6-3
-weights..........................................................................10-5
-weight-shift control (WSC).................................... 4-1, 4-6
-weight-shift control aircraft............................. 1-5, 4-5, 4-6
-wheels...........................................................................10-4
-I-3
+should be taken into account. Examples of items that can
+move during flight are:
+•
+Flight deck crew members moving to the lavatory.
+•
+Flight attendants moving throughout the cabin.
+•
+Service carts moving throughout the cabin.
+•
+Passengers moving throughout the cabin.
+•
+Passengers moving to the lavatory.
+Determining Changes in Weight and CG
+When the Aircraft Is Operated in Its Cargo
+Configuratio
+To determine changes in weight and CG when the aircraft
+is operated in its cargo configuration, the Beech 1900 is
+used as an example. Figure 9-51 illustrates the airplane
+configuration. Notice that the arm of each cargo section is
+the centroid of that section.
+The flight manifest of the Beech 1900 in the cargo
+confi uration is illustrated in Figure 9-52. The BOW includes
+the pilots and their baggage and there is no separate item
+for them.
+At the standard temperature of 15 °C, the fuel weighs 6.8
+pounds per gallon. Refer to Figure 9-45 to determine the
+weight and moment index of 370 gallons of Jet A fuel. The
+CG under these loading conditions is located at station 296.2.
+Determining the CG Shift When Cargo Is Moved
+From One Section to Another
+To calculate the CG when cargo is shifted from one section
+to another, use the formula found in Figure 9-53. If the cargo
+is moved forward, the CG is subtracted from the original CG.
+If the cargo is shifted aft, add the CG to the original.
+Determining the CG Shift When Cargo Is Added
+or Removed
+To calculate the CG when cargo is added or removed, add or
+subtract the weight and moment index of the affected cargo to
+the original loading chart. Determine the new CG by dividing
+the new moment index by the new total weight, and multiply
+this by the reduction factor. [Figure 9-54]
+Determining Which Limits Are Exceeded
+When preparing an aircraft for flight,consider all parameters
+and check to determine that no limits have been exceeded.
+Consider the parameters below, and determine which limit,
+if any, has been exceeded.
+•
+The aircraft in this example has a basic empty weight
+of 9,005 pounds and a moment index of 25,934 pound
+inches/100.
+9-18
+Loading cargo configuration
+|
+Maximum
+Centroid
+Section
+structural
+arm
+capacity
+A
+F.S. 225.0
+B
+F.S. 255.0
+C
+F.S. 285.0
+D
+F.S. 315.0
+E
+F.S. 345.0
+F
+F.S. 375.0
+G
+F.S. 405.0
+H
+F.S. 435.0
+I
+F.S. 465.0
+J
+F.S. 499.5
+K
+F.S. 533.0
+F.S. 210
+Section A
+Notes:
+F.S. 240
+Section B
+1. All cargo in sections A
+F.S. 270
+through J must be
+Section C
+supported on the seat
+tracks and secured to the
+F.S. 300
+seat tracks and side seat
+Section D
+rails by an FAA-approved
+F.S. 330
+system.
+Section E
+F.S. 360
+2. Concentrated cargo loads
+Section F
+in sections A through L
+must not exceed 100 lb
+F.S. 390
+per square foot.
+Section G
+F.S. 420
+3. Cargo in sections K and L
+Section H
+must be retained by
+F.S. 450
+baggage webs and
+Section I
+partitions provided as part
+of standard airplane.
+F.S. 480
+Sec
+J
+4. Any exception to the
+F.S. 513.5
+above procedures
+Section K
+requires approval by a local
+FAA office.
+Figure 9-51. Loading data for cargo configuration.
+•
+The crew weight is 340 pounds and its moment/100
+is 439.
+•
+The passengers and baggage have a weight of 3,950
+pounds and a moment/100 of 13,221.
+•
+The fuel is computed at 6.8 lb/gal. The ramp load is
+340 gallons or 2,312 pounds. Fuel used for start and
+taxi is 20 gallons, or 136 pounds. Fuel remaining at
+landing is 100 gallons, or 680 pounds.
+•
+Maximum takeoff weight is 16,600 pounds.
+•
+Maximum zero fuel weight is 14,000 pounds.
+•
+Maximum landing weight is 16,000 pounds.
 
-I-4
+oT
+oT
+oT
+|
+Item
+Weight
+Arm
+Moment/100
+CG
+9,005
+BOW
+25,934
+225.0
+Cargo section A
+255.0
+Cargo section B
+1,020
+285.0
+Cargo section C
+1,283
+315.0
+Cargo section D
+1,890
+345.0
+Cargo section E
+2,070
+375.0
+Cargo section F
+2,250
+405.0
+Cargo section G
+435.0
+Cargo section H
+465.0
+Cargo section I
+499.5
+Cargo section J
+533.0
+Cargo section K
+Fuel jet A at +15 °C
+2,516
+gallons 370
+7,520
+14,671
+43,452
+296.2
+Figure 9-52. Flight manifest of a Beech 1900 in the cargo configuration.
+for start and taxi. The takeoff CG is the moment/100
+fC
+CG = Weight shifted x Distance shifted
+divided by the weight, and then the result multiplied
+Total weight
+by 100. The takeoff weight of 15,471 pounds is below
+the maximum takeoff weight of 16,600 pounds, and a
+Figure 9-53. Shifting cargo from one section to another.
+check of the weight and balance diagram shows that the
+CG at station 298.0 is also within limits. [Figure 9-56]
+a:
+Total moment index
+CG = x Reduction factor
+oo
+et
+I
+Item
+Weight (lb)
+Moment
+CG
+Total weight
+39,594
+13,295
+Zero fuel weight
+Figure 9-54. Determining the new CG by dividing the new moment
+Takeoff fuel 320 gal
+index by the new total weight, multiplied by the reduction factor.
+Ramp load−fuel for
+start & taxi
+Take these steps to determine which limit, if any, is exceeded:
+6,512
+2,176
+340 − 20 = 320 gal
+1.
+Determine the zero fuel weight, which is the weight
+46,106
+298.0
+15,471
+Takeoff weight
+of the aircraft with all of the useful load except the
+Figure 9-56. Determining the takeoff weight and CG.
+fuel onboard. [Figure 9-55]
+oe
+|
+ee
+3.
+Determine the landing weight and CG. This is the zero fuel
+Item
+Weight (lb)
+Moment
+CG
+weight plus the weight of fuel at landing. [Figure 9-57]
+25,934
+9,005
+Basic empty weight
+Crew
+oo
+eT
+I
+Item
+Weight (lb)
+Moment
+CG
+13,221
+3,950
+Passengers & baggage
+39,594
+13,295
+Zero fuel weight
+39,594
+13,295
+Zero fuel weight
+1,977
+Fuel at landing 100 gal
+Figure 9-55. Determining the zero fuel weight.
+41,571
+297.5
+13,975
+Landing weight
+Figure 9-57. Determining the landing weight and CG.
+The zero fuel weight of 13,295 pounds is less than
+the maximum of 14,000 pounds, so this parameter is
+The landing weight of 13,975 pounds is less than the
+acceptable.
+maximum landing weight of 14,000 to 16,000 pounds.
+2.
+Determine the takeoff weight and CG. The takeoff
+According to the weight and balance diagram, the
+weight is the zero fuel weight plus the weight of the
+landing CG at station 297.5 is also within limits.
+ramp load of fuel, minus the weight of the fuel used
+9-19
+
+9-20

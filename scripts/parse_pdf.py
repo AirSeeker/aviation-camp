@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import os
 import re
@@ -11,6 +12,7 @@ import shutil
 import sys
 import tempfile
 from collections import Counter
+from concurrent.futures import Future, ThreadPoolExecutor
 from contextlib import contextmanager
 from pathlib import Path
 from typing import Any, Dict, Iterable, Iterator, List, Tuple
@@ -54,15 +56,79 @@ def chapter_title_matches(title: str) -> bool:
     return bool(re.search(r"(?:^|\s)(?:chapter|part|section|lesson)\b", title.strip(), re.I))
 
 
+def infer_image_kind(text: str) -> str:
+    value = normalize_line(text or "")
+    lowered = value.lower()
+    if re.search(r"\b(?:figure|fig\.|diagram|illustration|photo|image|drawing)\b", lowered):
+        return "figure"
+    if re.search(r"\b(?:table|chart|graph|matrix|schedule)\b", lowered):
+        return "table"
+    return "figure"
+
+
+def needs_ocr_retry(lines: Iterable[str]) -> bool:
+    cleaned = [normalize_line(line) for line in lines if normalize_line(line)]
+    if not cleaned:
+        return True
+
+    meaningful = [
+        line for line in cleaned
+        if not re.fullmatch(r"(?:page\s*)?\d+", line, flags=re.I)
+        and not re.fullmatch(r"(?:figure|table|chart|image)\s*\d+.*", line, flags=re.I)
+        and len(line) > 2
+    ]
+    if not meaningful:
+        return True
+
+    word_count = sum(len(re.findall(r"\b\w+\b", line)) for line in meaningful)
+    return word_count < 10
+
+
 def ranges_from_starts(starts: Iterable[int], page_count: int) -> List[Tuple[int, int]]:
     ordered_starts = sorted(set(starts))
     if any(start < 1 or start > page_count for start in ordered_starts):
         raise ValueError(f"Chapter start pages must be between 1 and {page_count}.")
+
     ranges: List[Tuple[int, int]] = []
+    cursor = 1
     for index, start in enumerate(ordered_starts):
+        if start > cursor:
+            ranges.append((cursor, start - 1))
+
         end = ordered_starts[index + 1] - 1 if index + 1 < len(ordered_starts) else page_count
         ranges.append((start, end))
+        cursor = end + 1
+
     return ranges
+
+
+def validate_chapter_ranges(chapter_ranges: List[Tuple[int, int]], page_count: int) -> None:
+    if not chapter_ranges:
+        raise ValueError("Chapter ranges cannot be empty.")
+
+    validated: List[Tuple[int, int]] = []
+    for start, end in chapter_ranges:
+        if not isinstance(start, int) or not isinstance(end, int) or isinstance(start, bool) or isinstance(end, bool):
+            raise ValueError("Each chapter range must contain integer page numbers.")
+        if start < 1 or end < start or end > page_count:
+            raise ValueError(f"Chapter range ({start}, {end}) is outside the document bounds 1..{page_count}.")
+        validated.append((start, end))
+
+    validated.sort()
+    expected_start = 1
+    for start, end in validated:
+        if start != expected_start:
+            raise ValueError(
+                f"Chapter ranges must cover all pages of the document without gaps or overlaps; "
+                f"expected next chapter to begin at page {expected_start}, found {start}."
+            )
+        expected_start = end + 1
+
+    if expected_start != page_count + 1:
+        raise ValueError(
+            f"Chapter ranges must cover all pages of the document; expected coverage through page {page_count}, "
+            f"but stopped at page {expected_start - 1}."
+        )
 
 
 def detect_chapter_ranges(
@@ -110,7 +176,9 @@ def detect_chapter_ranges(
     if not starts:
         return [(1, page_count)]
 
-    return ranges_from_starts(starts, page_count)
+    ranges = ranges_from_starts(starts, page_count)
+    validate_chapter_ranges(ranges, page_count)
+    return ranges
 
 
 def clean_text_lines(page_lines: Iterable[str], book_name: str) -> List[str]:
@@ -173,13 +241,18 @@ def collect_page_text(
     ocr: bool = False,
     ocr_language: str = "eng",
     ocr_dpi: int = 300,
+    ocr_retry_dpi: int | None = None,
 ) -> Tuple[Dict[int, List[str]], Dict[int, set[str]]]:
     page_text_by_num: Dict[int, List[str]] = {}
     edge_lines_by_num: Dict[int, set[str]] = {}
+    retry_dpi = ocr_retry_dpi if ocr_retry_dpi is not None else max(ocr_dpi, 400)
     for page_index in range(doc.page_count):
         page = doc.load_page(page_index)
         textpage = create_ocr_textpage(page, ocr_language, ocr_dpi) if ocr else None
         layout_lines = extract_layout_lines(page, textpage)
+        if ocr and needs_ocr_retry([line[4] for line in layout_lines]):
+            retry_textpage = create_ocr_textpage(page, ocr_language, retry_dpi)
+            layout_lines = extract_layout_lines(page, retry_textpage)
         lines = [line[4] for line in layout_lines]
         page_num = page_index + 1
         page_text_by_num[page_num] = clean_text_lines(lines, book_name)
@@ -257,11 +330,13 @@ def extract_images_for_chapter(doc: fitz.Document, chapter_dir: Path, book_name:
             target_path = chapter_dir / file_name
             pix.save(str(target_path))
             rel_path = f"/images/{book_name}/{chapter_key}/{file_name}"
+            figure_ref = f"Figure {page_num}-{image_counter}"
             image_entry = {
                 "page": page_num,
                 "file": file_name,
                 "relativePath": rel_path,
-                "figureRef": f"Figure {page_num}-{image_counter}",
+                "figureRef": figure_ref,
+                "kind": infer_image_kind(figure_ref),
                 "index": image_counter,
                 "placements": placements,
             }
@@ -277,6 +352,27 @@ def read_existing_manifest(manifest_path: Path) -> Dict[str, Any]:
     except (OSError, json.JSONDecodeError):
         return {}
     return manifest if isinstance(manifest, dict) else {}
+
+
+def build_parse_cache_key(
+    pdf_path: Path,
+    ocr: bool,
+    ocr_language: str,
+    ocr_dpi: int,
+    chapter_starts: List[int] | None,
+    ocr_retry_dpi: int | None = None,
+) -> str:
+    payload = {
+        "pdf": str(pdf_path.resolve()),
+        "ocr": bool(ocr),
+        "ocr_language": ocr_language,
+        "ocr_dpi": int(ocr_dpi),
+        "ocr_retry_dpi": int(ocr_retry_dpi) if ocr_retry_dpi is not None else None,
+        "chapter_starts": chapter_starts or [],
+    }
+    digest = hashlib.sha256()
+    digest.update(json.dumps(payload, sort_keys=True, separators=(",", ":")).encode("utf-8"))
+    return digest.hexdigest()
 
 
 def load_chapter_overrides(overrides_path: Path) -> Dict[str, List[int]]:
@@ -426,6 +522,7 @@ def parse_book(
     ocr: bool = False,
     ocr_language: str = "eng",
     ocr_dpi: int = 300,
+    ocr_retry_dpi: int | None = None,
     chapter_starts: List[int] | None = None,
 ) -> Dict[str, Any]:
     book_name = sanitize_book_name(pdf_path.parent.name)
@@ -435,6 +532,11 @@ def parse_book(
     previous_manifest = read_existing_manifest(manifest_path)
     output_root.mkdir(parents=True, exist_ok=True)
     public_images_root.mkdir(parents=True, exist_ok=True)
+
+    cache_key = build_parse_cache_key(pdf_path, ocr, ocr_language, ocr_dpi, chapter_starts, ocr_retry_dpi)
+    if previous_manifest.get("cacheKey") == cache_key and manifest_path.exists():
+        return previous_manifest
+
     with open_pdf_document(pdf_path) as doc:
         with tempfile.TemporaryDirectory(prefix=f".{book_name}-parse-", dir=output_root) as staged_output_root:
             with tempfile.TemporaryDirectory(prefix=f".{book_name}-images-", dir=public_images_root) as staged_images_root:
@@ -445,14 +547,20 @@ def parse_book(
 
                 page_count = doc.page_count
                 page_text_by_num, edge_lines_by_num = collect_page_text(
-                    doc, book_name, ocr=ocr, ocr_language=ocr_language, ocr_dpi=ocr_dpi
+                    doc,
+                    book_name,
+                    ocr=ocr,
+                    ocr_language=ocr_language,
+                    ocr_dpi=ocr_dpi,
+                    ocr_retry_dpi=ocr_retry_dpi,
                 )
-                pages_without_text = [page_num for page_num, lines in page_text_by_num.items() if not lines]
+                pages_without_text = [page_num for page_num, lines in page_text_by_num.items() if not lines or needs_ocr_retry(lines)]
                 if pages_without_text:
                     page_list = ", ".join(str(page_num) for page_num in pages_without_text)
-                    print(f"Warning: no extractable text in {pdf_path} on page(s): {page_list}; OCR may be needed.", file=sys.stderr)
+                    print(f"Warning: low-quality text extraction in {pdf_path} on page(s): {page_list}; OCR may be needed.", file=sys.stderr)
                 page_text_by_num = deduplicate_repeated_header_footer(page_text_by_num, edge_lines_by_num)
                 chapter_ranges = detect_chapter_ranges(doc, page_count, chapter_starts)
+                validate_chapter_ranges(chapter_ranges, page_count)
 
                 chapter_manifest: List[Dict[str, Any]] = []
                 for index, (start_page, end_page) in enumerate(chapter_ranges, start=1):
@@ -483,6 +591,7 @@ def parse_book(
                 book_manifest = {
                     "bookName": book_name,
                     "sourcePdf": str(pdf_path.relative_to(ROOT)),
+                    "cacheKey": cache_key,
                     "chapters": chapter_manifest,
                 }
                 (staged_book_dir / "book_manifest.json").write_text(
@@ -509,12 +618,57 @@ def iter_pdf_files(book_filter: str | None = None) -> List[Path]:
     return pdf_files
 
 
+def process_pdf_batch(
+    pdf_files: Iterable[Path],
+    output_root: Path,
+    public_images_root: Path,
+    chapter_overrides: Dict[str, List[int]],
+    ocr: bool = False,
+    ocr_language: str = "eng",
+    ocr_dpi: int = 300,
+    ocr_retry_dpi: int | None = None,
+    workers: int = 4,
+) -> List[Tuple[Path, Dict[str, Any]]]:
+    book_files = list(pdf_files)
+    if not book_files:
+        return []
+
+    max_workers = max(1, min(workers, len(book_files)))
+    ordered_results: List[Tuple[Path, Dict[str, Any]]] = []
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = []
+        for pdf_path in book_files:
+            futures.append(
+                (
+                    pdf_path,
+                    executor.submit(
+                        parse_book,
+                        pdf_path,
+                        output_root,
+                        public_images_root,
+                        ocr=ocr,
+                        ocr_language=ocr_language,
+                        ocr_dpi=ocr_dpi,
+                        ocr_retry_dpi=ocr_retry_dpi,
+                        chapter_starts=chapter_overrides.get(sanitize_book_name(pdf_path.parent.name)),
+                    ),
+                )
+            )
+
+        for pdf_path, future in futures:
+            ordered_results.append((pdf_path, future.result()))
+
+    return ordered_results
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description="Parse aviation PDF textbooks into chapter text and images")
     parser.add_argument("--book", help="Optional book folder name under resources/library")
     parser.add_argument("--ocr", action="store_true", help="OCR pages with Tesseract for scanned or image-based text")
     parser.add_argument("--ocr-language", default="eng", help="Tesseract language code (default: eng)")
     parser.add_argument("--ocr-dpi", type=int, default=300, help="OCR render resolution (default: 300)")
+    parser.add_argument("--ocr-retry-dpi", type=int, default=400, help="OCR retry resolution for sparse pages (default: 400)")
+    parser.add_argument("--workers", type=int, default=4, help="Number of PDF books to process in parallel (default: 4)")
     parser.add_argument(
         "--chapter-overrides",
         type=Path,
@@ -527,6 +681,10 @@ def main() -> None:
         raise SystemExit("--ocr requires the Tesseract executable on PATH.")
     if args.ocr_dpi < 72:
         raise SystemExit("--ocr-dpi must be at least 72.")
+    if args.ocr_retry_dpi < 72:
+        raise SystemExit("--ocr-retry-dpi must be at least 72.")
+    if args.workers < 1:
+        raise SystemExit("--workers must be at least 1.")
 
     try:
         chapter_overrides = load_chapter_overrides(args.chapter_overrides)
@@ -547,26 +705,28 @@ def main() -> None:
     PARSED_ROOT.mkdir(parents=True, exist_ok=True)
     PUBLIC_IMAGES_ROOT.mkdir(parents=True, exist_ok=True)
 
+    results = process_pdf_batch(
+        pdf_files=pdf_files,
+        output_root=PARSED_ROOT,
+        public_images_root=PUBLIC_IMAGES_ROOT,
+        chapter_overrides=chapter_overrides,
+        ocr=args.ocr,
+        ocr_language=args.ocr_language,
+        ocr_dpi=args.ocr_dpi,
+        ocr_retry_dpi=args.ocr_retry_dpi,
+        workers=max(1, min(args.workers, len(pdf_files))),
+    )
     failures = 0
-    for pdf_path in pdf_files:
+    for pdf_path, book_manifest in results:
         try:
-            book_manifest = parse_book(
-                pdf_path,
-                PARSED_ROOT,
-                PUBLIC_IMAGES_ROOT,
-                ocr=args.ocr,
-                ocr_language=args.ocr_language,
-                ocr_dpi=args.ocr_dpi,
-                chapter_starts=chapter_overrides.get(sanitize_book_name(pdf_path.parent.name)),
-            )
+            chapters = book_manifest["chapters"]
+            page_count = sum(chapter["endPage"] - chapter["startPage"] + 1 for chapter in chapters)
+            image_count = sum(len(chapter["images"]) for chapter in chapters)
+            print(f"Processed: {pdf_path.parent.name} ({page_count} pages, {len(chapters)} chapters, {image_count} images)")
         except Exception as error:
             failures += 1
             print(f"Failed: {pdf_path}: {error}", file=sys.stderr)
             continue
-        chapters = book_manifest["chapters"]
-        page_count = sum(chapter["endPage"] - chapter["startPage"] + 1 for chapter in chapters)
-        image_count = sum(len(chapter["images"]) for chapter in chapters)
-        print(f"Processed: {pdf_path.parent.name} ({page_count} pages, {len(chapters)} chapters, {image_count} images)")
 
     if failures:
         raise SystemExit(f"Failed to parse {failures} PDF file(s).")
