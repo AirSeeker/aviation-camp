@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate MDX content from parsed PDF chapters using OpenAI API."""
+"""Generate MDX content from parsed PDF chapters using the Gemini API."""
 
 from __future__ import annotations
 
@@ -11,12 +11,15 @@ import time
 from pathlib import Path
 from typing import Any, Dict, Iterable, List
 
-from openai import OpenAI
-from openai import RateLimitError
+from dotenv import load_dotenv
+from google import genai
+from google.genai import types
 
 ROOT = Path(__file__).resolve().parents[1]
 PARSED_ROOT = ROOT / "resources" / "parsed"
 DOCS_OUTPUT_ROOT = ROOT / "src" / "content" / "docs"
+
+load_dotenv(ROOT / ".env")
 
 EASA_SUBJECTS = [
     "Air Law",
@@ -59,7 +62,7 @@ GLOSSARY = {
     "Aviation Weather": "Авіаційна погода",
 }
 
-DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o-mini")
+DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 
 
 def subject_for_book(book_name: str) -> str:
@@ -190,21 +193,39 @@ def build_user_prompt(book_name: str, chapter_name: str, content: str, images: L
 """
 
 
-def openai_client() -> OpenAI:
-    api_key = os.getenv("OPENAI_API_KEY")
-    if not api_key:
-        raise RuntimeError("OPENAI_API_KEY is not set")
-    return OpenAI(api_key=api_key)
-
-
-def call_openai(messages: List[Dict[str, str]], model: str = DEFAULT_MODEL) -> str:
-    client = openai_client()
-    response = client.chat.completions.create(
-        model=model,
-        temperature=0.2,
-        messages=messages,
+def gemini_client() -> genai.Client:
+    api_key = (
+        os.getenv("GEMINI_API_KEY")
+        or os.getenv("GOOGLE_API_KEY")
+        or os.getenv("OPENAI_API_KEY")
     )
-    return response.choices[0].message.content or ""
+    if not api_key:
+        raise RuntimeError("GEMINI_API_KEY or GOOGLE_API_KEY is not set")
+    return genai.Client(api_key=api_key)
+
+
+def call_gemini(messages: List[Dict[str, str]], model: str = DEFAULT_MODEL) -> str:
+    client = gemini_client()
+    system_prompt = next((item["content"] for item in messages if item["role"] == "system"), "")
+    user_prompt = "\n\n".join(item["content"] for item in messages if item["role"] == "user")
+    config = types.GenerateContentConfig(
+        system_instruction=system_prompt,
+        temperature=0.2,
+    )
+    for attempt in range(3):
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=user_prompt,
+                config=config,
+            )
+            return response.text or ""
+        except Exception:
+            if attempt == 2:
+                raise
+            time.sleep(2 ** attempt)
+
+    return ""
 
 
 def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, images: List[Dict[str, Any]], subject: str) -> str:
@@ -271,7 +292,7 @@ def generate_mdx_for_chapter(book_name: str, chapter_name: str, chapter_payload:
     try:
         system_prompt = build_system_prompt(subject)
         user_prompt = build_user_prompt(book_name, chapter_name, content, images, subject)
-        response = call_openai([
+        response = call_gemini([
             {"role": "system", "content": system_prompt},
             {"role": "user", "content": user_prompt},
         ])
@@ -281,8 +302,8 @@ def generate_mdx_for_chapter(book_name: str, chapter_name: str, chapter_payload:
             cleaned = re.sub(r"\s*```$", "", cleaned)
         if "---" in cleaned and "title:" in cleaned:
             return cleaned
-    except (RuntimeError, RateLimitError, Exception) as exc:
-        print(f"OpenAI generation failed for {book_name}/{chapter_name}: {exc}")
+    except Exception as exc:
+        print(f"Gemini generation failed for {book_name}/{chapter_name}: {exc}")
 
     return generate_fallback_mdx(book_name, chapter_name, content, images, subject)
 

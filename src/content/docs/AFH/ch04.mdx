@@ -1,204 +1,163 @@
 ---
-title: "Chapter 04"
-description: "Навчальний матеріал з air law для розділу ch04."
+title: "Керування енергією: Контроль висоти та швидкості"
+description: "Основи концепції управління механічною енергією літака, баланс тяги та опору, взаємозв'язок між висотою та приладовою швидкістю для запобігання втраті керування."
 subject: "Air Law"
 chapterNumber: 4
-readTimeMinutes: 8
+readTimeMinutes: 10
 ---
 
-## Chapter 04
+## Вступ
 
-Airplane Flying Handbook (FAA-H-8083-3C)
-Chapter 4: Energy Management: Mastering Altitude and Airspeed Control
-Introduction
-This chapter is all about managing the airplane’s altitude and airspeed using an energy-centered approach. Energy management can
-be defined as the process of planning, monitoring, and controlling altitude and airspeed targets in relation to the airplane’s energy
-state in order to:
-1. Attain and maintain desired vertical flightpath-airspeed profiles.
-2. Detect, correct, and prevent unintentional altitude-airspeed deviations from the desired energy state.
-3. Prevent irreversible deceleration and/or sink rate that results in a crash.
-Importance of Energy Management
-Learning to manage the airplane’s energy in the form of altitude and airspeed is critical for all new pilots. Energy management
-is essential for effectively achieving and maintaining desired vertical flight path and airspeed profiles, (e.g., constant airspeed climb)
-and for transitioning from one profile to another during flight, (e.g., leveling off from a descent).
-Proper energy management is also critical to flight safety. Mistakes in managing the airplane’s energy state can be deadly.
-Mismanagement of mechanical energy (altitude and/or airspeed) is a contributing factor to the three most common types of fatal
-accidents in aviation: loss of control in-flight (LOC-I), controlled flight into terrain (CFIT), and approach-and-landing accidents.
-Thus, pilots need to have:
-1. An accurate mental model of the airplane as an energy system.
-2. The competency to effectively coordinate control inputs to achieve and maintain altitude and airspeed targets.
-3. The ability to identify, assess, and mitigate the risks associated with mismanagement of energy.
-Viewing the Airplane as an Energy System
-The total mechanical energy of an airplane in flight is the sum of its potential energy from altitude and kinetic energy from airspeed.
-The potential energy is expressed as mgh, and the kinetic energy as ½ mV². Thus, the airplane's total mechanical energy can be stated
-as:
-mgh + ½ mV²
-Where,
-m = mass
-g = gravitational constant
-h = height (altitude)
-V = velocity (airspeed)
-A flying airplane is an “open” energy system, which means that the airplane can gain energy from some source (e.g., the fuel tanks)
-and lose energy to the environment (e.g., the surrounding air). It also means that energy can be added to or removed from the
-airplane’s total mechanical energy stored as altitude and airspeed.
-A Frame of Reference for Managing Energy State
-At any given time, the energy state of the airplane is determined by the total amount and distribution of energy stored as altitude and
-airspeed. Note that the pilot’s frame of reference for managing the airplane’s energy state is airplane-centric—being a function of
-indicated altitude and indicated airspeed, and not height above the ground or groundspeed.
-The indicated altitude displayed in the altimeter and its associated potential energy are based on the height of the airplane above a
-fixed reference point (mean sea level or MSL), not on the height above ground level (AGL), which changes with variations in terrain
-elevation. Likewise, the indicated airspeed displayed in the airspeed indicator and its associated kinetic energy are based on the speed
-of the airplane relative to the air, not on the speed relative to the ground below, which varies with changes in wind speed and
-direction.
+Керування енергією літака (*Energy Management*) — це цілеспрямований процес планування, моніторингу та контролю параметрів висоти та швидкості відповідно до поточного енергетичного стану повітряного судна. 
 
-Note that changes in indicated altitude and airspeed are attained through forces resulting from the pilot’s direct manipulation of the
-controls. These direct control inputs determine the airplane’s ability to climb/descend or accelerate/decelerate. In contrast,
-changes in AGL-altitude and groundspeed are affected by “external” factors, such as varying terrain elevation and wind, which
-the pilot cannot alter. Of course, the pilot should manipulate the airplane’s energy in such way as to minimize any risks
-associated with terrain or wind. For example, the pilot may seek to manipulate energy state so as to maximize the airplane’s energy
-gains and minimize energy loses when faced with rising terrain. A safer heading may also be an option.
-Once airborne, the airplane gains energy from the force of engine thrust (T) and it loses energy from aerodynamic drag (D). The
-difference between energy in and out (T – D) is the net change, which determines whether total mechanical energy—stored as altitude
-and airspeed—increases, decreases, or remains the same.
-When thrust exceeds drag (T – D > 0), the airplane's total mechanical energy increases. The pilot can store the surplus energy as
-increased altitude or airspeed. For example, if the pilot decides to put all the surplus energy into altitude, the airplane can climb at a
-constant airspeed. [Figure 4-1A] If the pilot opts to place all the surplus energy into airspeed, the airplane can accelerate while
-maintaining altitude. [Figure 4-1B]
-When drag exceeds thrust, (T – D < 0), the airplane's total mechanical energy decreases. The pilot has two sources of stored energy to
-tap into. For example, the pilot may choose to let the airplane descend at a constant airspeed [Figure 4-1C)] or slow down while
-maintaining altitude [Figure 4-1D] as stored energy is withdrawn to deal with the energy deficit. When energy gained equals that lost
-(T – D = 0), all thrust is spent on drag. In this case, the total amount of mechanical energy and its distribution over altitude and
-airspeed does not change. Both remain constant as the airplane maintains a constant altitude and airspeed. [Figure 4-1E]
-Energy can also be exchanged between altitude and airspeed. For example, when a pilot trades airspeed for altitude, as altitude
-increases, airspeed decreases. In other words, when energy is exchanged, altitude and airspeed always change in opposite directions
-(absent any other energy or control inputs). As one goes up, the other one comes down. Also note that even though the distribution of
-energy over altitude and airspeed may change dramatically during energy exchange, the total amount of mechanical energy can
-remain the same at the end of the exchange maneuver [Figure 4-1F], as long as thrust is adjusted to match drag as the latter varies
-with changes in airspeed.
-Figure 4-1 A-F. Examples of typical energy transactions.
+Головні цілі ефективного керування енергією:
+1. Досягнення та підтримання бажаного профілю польоту (траєкторії набору, зниження, горизонтального польоту та відповідної швидкості).
+2. Своєчасне виявлення, виправлення та запобігання ненавмисним відхиленням параметрів польоту від розрахункових.
+3. Запобігання незворотній втраті швидкості (децелерації) або критичному зростанню вертикальної швидкості зниження, що призводять до катастрофи.
 
-Managing Energy is a Balancing Act
-Since the airplane gains energy from engine thrust (T) and loses energy through aerodynamic drag (D), energy flows
-continuously into and out of the airplane while in flight. Usually measured as Specific Excess Power (PS), or rate of energy change,
-the net energy flow is a direct function of the difference between thrust and drag.
-PS = (T – D)V/W
-Where,
-T = Thrust
-D = Drag
-V = velocity (airspeed)
-W = aircraft weight
-More importantly, there is a fundamental relationship between changes in the airplane’s total energy resulting from this net energy
-flow on one hand, and changes in the energy stored as altitude and airspeed on the other. This fundamental relationship can be
-summarized through the airplane’s energy balance equation. [Figure 4-2]
-Figure 4-2. The energy balance equation.
-The left side of the energy balance equation represents the airplane’s net energy flow, while the right side reflects matching changes
-to the energy storage. Thus, changes to the airplane’s total energy affect the left side of the equation, while the right side shows
-possible changes in energy distribution between altitude and airspeed.
-Note that a change in total energy resulting from the difference between thrust and drag (left side) always matches the change in total
-energy redistributed over altitude and airspeed (right side). Although rate of energy change, expressed as specific excess power (PS),
-varies during flight—becoming positive, negative, or zero—both sides of the equation are inexorably balanced regardless of whether
-the airplane is accelerating, decelerating, climbing, descending, or maintaining constant altitude and airspeed. (Note: This
-simplified balance equation does not account for long-term changes in total mechanical energy caused by the reduction in
-aircraft weight as fuel is gradually burned in flight. Although the effect of weight loss on total energy becomes critical when
-solving long-term aircraft performance problems such as range and endurance, it is negligible when considering short-term flight
-control problems.)
-Of course, the pilot controls the change in total energy on the left side of the equation, as well as the distribution of any changes in
-energy over altitude and airspeed on the right side. How the pilot coordinates the throttle and elevator to achieve and maintain desired
-altitude and airspeed targets as well as avoid energy "crises" is at the core of energy management and is elaborated in the rest of the
-chapter.
-Role of the Controls to Manage Energy State
-An energy-centered approach clarifies the roles of the engine and flight controls beyond the simple “pitch for airspeed and power for
-altitude” by modeling how throttle and elevator inputs affect the airplane’s total mechanical energy. From an energy perspective, the
-problem of controlling vertical flight path and airspeed becomes one of handling the airplane’s energy state—the total amount
-of energy and its distribution over altitude and speed. Thus, rather than asking what controls altitude and what controls airspeed, a
-pilot can now ask what controls total energy and what controls its distribution over altitude and airspeed.
+<img src="/images/AFH/ch04/img_p88_1.png" alt="Приклади транзакцій механічної енергії літака" />
 
-Primary Energy Role of the Throttle and Elevator
-The throttle, by increasing or decreasing engine thrust against drag, regulates changes in total mechanical energy. As illustrated
-above, changing total energy is a function of both thrust and drag (T – D). However, drag mainly varies long-term due to airspeed
-changes, or by using high lift/drag devices which can only increase drag. Therefore, changes in total energy are normally initiated by
-changing thrust, not drag. When the throttle setting makes thrust greater than drag, an increase of total mechanical energy is the result.
-When the throttle setting makes thrust less than drag, a decrease of total mechanical energy is the result. Once the desired path-speed
-profile is established, the throttle sets engine thrust to match the total energy demanded by vertical flight path and airspeed combined.
-The throttle then is the total energy controller.
-On the other hand, the elevator is an energy exchanger and distribution device whose primary job is to allocate changes in total
-energy between vertical flight path and airspeed by adjusting pitch attitude. Here, once the chosen path-speed profile is achieved, the
-elevator sets the appropriate pitch attitude to maintain the demanded distribution of total energy over vertical flight path and airspeed.
-Thus, the elevator is the energy distribution controller.
-The throttle and elevator then are really energy state controls—neither one controls altitude nor airspeed independently since these
-two variables are inherently coupled through the airplane’s total mechanical energy. Instead, to control altitude and airspeed
-effectively, the pilot coordinates the use of both devices to manage the airplane’s energy state.
-The reservoir analogy [Figure 4-3] illustrates the energy-based role of the throttle and the elevator. In this analogy, the throttle
-controls the “valve” regulating the net total energy flow while the elevator controls the “valve” regulating the distribution of energy
-into and out of the altitude and airspeed “reservoirs.” Referring back to the energy balance equation [Figure 4-2], it becomes clear
-then that the throttle controls the left side of the equation (total energy) and the elevator controls the right side (energy distribution).
-As illustrated in Figure 4-3, when the throttle increases thrust above drag (T – D > 0) the airplane gains total energy, and when the
-throttle reduces thrust below drag (T – D < 0) the airplane loses total energy. The elevator then distributes this increase or decrease in
-total energy between altitude and airspeed. Finally, when the throttle adjusts thrust equal to drag (T – D = 0), there is no change in
-total energy, but the energy stored as altitude and airspeed can be exchanged between the two reservoirs using the elevator, while total
-energy, at least short-term, remains constant.
-Figure 4-3. The reservoir analogy illustrating the primary role of the throttle and elevator to manage the airplane’s energy state.
+Помилки в керуванні механічною енергією є першопричиною або сприяючим фактором у трьох найпоширеніших категоріях фатальних авіаційних подій:
+* **LOC-I** (*Loss of Control In-flight*) — втрата керування у польоті;
+* **CFIT** (*Controlled Flight Into Terrain*) — зіткнення справного повітряного судна з поверхнею землі;
+* Катастрофи та інциденти на етапі заходу на посадку та посадки.
 
-Additional Role for the Elevator
-On the front side of the power required curve, where the airplane cruises at high speed (1 in Figure 4-4) and a low angle of attack
-(AOA) with little or no excess power or excess thrust (A in Figure 4-4), pulling back on the yoke or stick (elevator up) will result in a
-brief energy exchange climb, causing the airplane to slow down from 1 to 2 toward the center of the power curve [Figure 4-4]. This
-decrease in airspeed results in a reduction in total drag; hence available energy in the form of positive excess power (PS > 0) where
-thrust exceeds drag (T – D > 0). With this excess power (B in Figure 4-4) the airplane can now climb at a constant airspeed or turn in
-level flight while maintaining a constant airspeed at an increased load factor.
-On the backside of the power required curve, where the airplane flies at low speed (3 in Figure 4-4) and high AOA with little or no
-excess power or excess thrust (C in Figure 4-4), pushing forward on the yoke or stick (elevator down) will result in a brief energy
-exchange descent, causing the airplane to accelerate from 3 to 2 toward the center of the power curve [Figure 4-4]. This increase in
-airspeed results in a reduction in total drag; hence available energy in the form of positive excess power (PS >0) where thrust exceeds
-drag (T – D > 0). With this excess power (B in Figure 4-4) the airplane can now climb at a constant airspeed or turn in level flight
-while maintaining a constant airspeed at an increased load factor. This role of the elevator is critical to prevent unintentional,
-excessive deceleration or sink rate as illustrated later in the chapter (refer to Preventing Irreversible Deceleration and/or Sink Rate
-section).
-Figure 4-4. The front side and backside of the power required curve, the power available curve, and the relative excess power
-available (power available - power required) at different speeds.
+---
 
-While the elevator can assist the throttle in changing T – D and PS through changes in airspeed via energy exchange as described
-above, occasionally the elevator can directly increase the “D” in T – D at any given speed during a level turn, thus helping the
-airplane rapidly bleed off total energy. As the airplane banks, load factor (lift/weight) increases because total lift has to increase to
-pull the airplane into the turn while simultaneously balancing its weight. This is accomplished by pulling back on the yoke (or stick)
-to increase AOA which results in increased induced drag and power required at any given speed. This action will quickly slow
-the airplane down and decrease total energy more rapidly than by just reducing the throttle setting to idle. This additional role of the
-elevator is shown on the power curve. [Figure 4-5]
-Figure 4-5. The effect of increased load factor on total drag and power required at different airspeeds.
-Applying the respective role of the controls to manage the airplane’s energy state leads to a set of simple “rules” for proper throttle-
-elevator coordination to effectively control vertical flight path and airspeed. What are these basic rules of energy control?
-Rules of Energy Control
-The central principle encapsulating the role of the throttle and elevator for managing the airplane’s energy can be summed up
-as follows: coordinated throttle and elevator inputs control the airplane’s energy state. Modifying a popular adage, the principle can
-be restated as “pitch plus power controls energy state.” This central principle serves to guide a set of general energy control rules to
-achieve and maintain any desired vertical flight path and airspeed targets within the airplane’s energy envelope.
+## Літак як енергетична система
 
+У польоті літак розглядається як «відкрита» механічна система, здатна отримувати енергію (за рахунок спалювання палива в двигуні) та втрачати її у навколишнє середовище (через опір повітря).
 
+Повна механічна енергія літака складається з двох компонентів:
+* **Потенційна енергія ($E_p$):** обумовлена висотою польоту ($mgh$).
+* **Кінетична енергія ($E_k$):** обумовлена швидкістю польоту ($\frac{1}{2}mV^2$).
 
-<img src="/images/AFH/ch04/img_p88_1.png" alt="Figure 88-1" />
+$$E_{total} = mgh + \frac{1}{2}mV^2$$
 
+де:
+* $m$ — маса літака (*Weight* / $g$),
+* $g$ — прискорення вільного падіння,
+* $h$ — висота (*altitude*),
+* $V$ — швидкість (*airspeed*).
 
+> **Увага:** Збережена механічна енергія може перерозподілятися між висотою та швидкістю, проте її загальний запас безпосередньо залежить від балансу між тягою двигуна та аеродинамічним опором.
 
-## Ключові принципи
+---
 
-- Розумійте основні дефініції й терміни.
-- Застосовуйте правила у реальних польотних сценаріях.
-- Контролюйте ризики та перевіряйте важливі параметри перед виконанням маневру.
+## Система координат пілота для керування енергією
 
-> **Увага:** Кожен політ вимагає постійного контролю за станом повітряного судна, обстановкою та виконанням процедур.
+Для керування енергетичним станом пілот спирається на внутрішню систему координат літака:
+* **Приладова висота (*Indicated Altitude*):** відображається на висотомірі відносно середнього рівня моря (MSL), а не відносно змінної поверхні землі (AGL).
+* **Приладова швидкість (IAS):** показує рух літака відносно набігаючого повітряного потоку, а не швидкість над землею (*Groundspeed*).
 
-> **Увача:** У разі невизначеності завжди застосовуйте найбільш безпечні й консервативні рішення.
+<img src="/images/AFH/ch04/img_p89_2.png" alt="Рівняння балансу енергії літака" />
 
-## Практичні наслідки
+Зміни приладової висоти та швидкості досягаються безпосередніми керуючими діями пілота на органи управління. Навпаки, абсолютна висота над рельєфом (AGL) або швидкість над землею залежать від зовнішніх чинників (рельєфу місцевості, вітру), які пілот безпосередньо змінити не може, але зобов'язаний враховувати для безпеки. Наприклад, наближаючись до зростаючого рельєфу, пілот повинен максимізувати запас енергії або вибрати безпечніший курс (*Heading*).
 
-- Ці знання допомагають оцінити ситуацію в польоті.
-- Вони формують основу для прийняття правильних рішень.
-- Вони підтримують безпечну організацію польотів.
+> **Увага:** Пілот контролює енергетичний стан літака за приладами (IAS та висота за тиском/MSL). Орієнтація на швидкість над землею замість IAS під час набору або заходу на посадку може призвести до ненавмисного виходу на режим звалювання (*Stall*).
 
+---
+
+## Баланс енергії: Тяга проти Опору
+
+Приплив механічної енергії забезпечується силою тяги (*Thrust*, $T$), а її втрата зумовлена дією сили аеродинамічного опору (*Drag*, $D$). Різниця $(T - D)$ визначає сумарну зміну енергії:
+
+1. **Надлишок енергії ($T > D$):**
+   * Загальна механічна енергія зростає. 
+   * Пілот може спрямувати цей надлишок у приріст висоти (набір висоти зі сталою швидкістю) або в приріст швидкості (розгін у горизонтальному польоті).
+2. **Дефіцит енергії ($T < D$):**
+   * Загальна механічна енергія зменшується.
+   * Для компенсації витрат енергії літак повинен знижуватися зі сталою швидкістю або сповільнюватися у горизонтальному польоті.
+3. **Енергетична рівновага ($T = D$):**
+   * Уся тяга витрачається на подолання опору.
+   * Загальна енергія залишається сталою: літак летить на сталій висоті з постійною швидкістю.
+
+<img src="/images/AFH/ch04/img_p90_3.png" alt="Співвідношення тяги, опору та швидкості" />
+
+### Питома надлишкова потужність ($P_S$)
+
+Швидкість зміни загальної енергії літака за одиницю часу часто виражається через питому надлишкову потужність (*Specific Excess Power*, $P_S$):
+
+$$P_S = \frac{(T - D) \cdot V}{W}$$
+
+де:
+* $T$ — тяга (*Thrust*),
+* $D$ — аеродинамічний опір (*Drag*),
+* $V$ — швидкість польоту (*Airspeed*),
+* $W$ — вага літака (*Weight*).
+
+---
+
+## Практичні наслідки: Обмін енергією
+
+Енергія може вільно перерозподілятися між потенційною (висота) та кінетичною (швидкість):
+* **Обмін швидкості на висоту:** взяття штурвала «на себе» перетворює кінетичну енергію в потенційну — літак набирає висоту, але його швидкість зменшується.
+* **Обмін висоти на швидкість:** відхилення штурвала «від себе» дозволяє перетворити висоту на розгін приладової швидкості.
+
+<img src="/images/AFH/ch04/img_p91_4.png" alt="Обмін кінетичної та потенційної енергії" />
+
+> **Увага:** За відсутності додавання тяги обмін завжди працює в протилежних напрямках: коли висота зростає, швидкість падає, і навпаки. Неконтрольована спроба «тягнути висоту» за дефіциту тяги неминуче приведе літак до критичного кута атаки (*Angle of Attack*) і звалювання (*Stall*).
+
+---
+
+## Ключові правила для пілота
+
+1. **Формуйте чітку ментальну модель:** Пілот завжди повинен розуміти, у якому стані перебуває система — чи є надлишок енергії ($T > D$), чи виник дефіцит ($T < D$).
+2. **Координуйте керування:** Тангаж (*Pitch*) керує розподілом енергії (кутом атаки та обміном висота/швидкість), а тяга (*Thrust*) керує припливом або відтоком повної енергії.
+3. **Запобігайте дефіциту енергії на малих висотах:** На етапах заходу на посадку або маневрування біля землі неприпустимо витрачати швидкість нижче мінімально безпечної без негайного компенсування тягою.
+4. **Контролюйте IAS, а не Groundspeed:** Вітровий зсув або попутний вітер (*Tailwind*) можуть створювати оманливе відчуття високої швидкості над землею при критично низькій приладовій швидкості (IAS).
+
+---
+
+## Підсумок
+
+Керування польотом — це постійний контроль балансу енергії літака. Механічна енергія є сумою висоти та швидкості. Зміна повної енергії залежить виключно від різниці між тягою і опором ($T - D$), тоді як органи поздовжнього керування дозволяють змінювати співвідношення між висотою та приладовою швидкістю. Вміння розпізнавати небезпечні енергетичні стани та вчасно їх виправляти є фундаментальною навичкою запобігання втраті керування (LOC-I) та зіткненням із перешкодами (CFIT).
+
+---
 
 <Quiz questions={[
-  { question: 'Що є ключовим принципом цього розділу?', options: ['Розуміння основних правил і процедур', 'Пропускання перевірки вогню', 'Заміна дисципліни', 'Відмова від обчислень'], correctAnswer: 0, explanation: 'Розділ пояснює основні принципи, які є базою для безпечного виконання польотів.' },
-  { question: 'Чому важливо застосовувати отримані знання в практиці?', options: ['Щоб зменшити ризик помилок під час польоту', 'Щоб збільшити витрати пального', 'Щоб уникати перевірок', 'Щоб обмежити навігаційні процедури'], correctAnswer: 0, explanation: 'Теоретичні знання стають корисними лише в поєднанні з практичним застосуванням.' },
-  { question: 'Яке правило є найбільш релевантним?', options: ['Дотримуватися процедур і вміти пояснити причину дії', 'Ігнорувати зміни в умовах польоту', 'Спірити з диспетчером', 'Розраховувати без перевірки'], correctAnswer: 0, explanation: 'Ключовий принцип навчання в авіації — надійність процедур та усвідомлення їхнього сенсу.' }
+  {
+    question: "З яких двох складових складається повна механічна енергія літака в польоті?",
+    options: [
+      "Підйомна сила та вага літака",
+      "Потенційна енергія (висота) та кінетична енергія (швидкість)",
+      "Швидкість над землею та кут атаки",
+      "Запас палива та корисне навантаження"
+    ],
+    correctAnswer: 1,
+    explanation: "Повна механічна енергія повітряного судна визначається сумою потенційної енергії положення (mgh) та кінетичної енергії руху (½ mV²)."
+  },
+  {
+    question: "Якими параметрами керується пілот як основою для оцінки енергетичного стану літака?",
+    options: [
+      "Швидкістю над землею (Groundspeed) та висотою AGL",
+      "Приладовою швидкістю (IAS) та приладовою висотою за альтиметром",
+      "Числом Маха та вертикальною швидкістю за GPS",
+      "Виключно курсом літака та оборотами двигуна"
+    ],
+    correctAnswer: 1,
+    explanation: "Орієнтири пілота зосереджені на показаннях приладів літака: приладовій швидкості (IAS) та висоті за тиском/MSL, а не на параметрах відносно поверхні землі."
+  },
+  {
+    question: "Що відбувається із загальною механічною енергією літака, коли тяга двигуна перевищує аеродинамічний опір (T - D > 0)?",
+    options: [
+      "Загальна механічна енергія обов'язково залишається незмінною",
+      "Загальна механічна енергія літака збільшується",
+      "Літак автоматично починає знижуватися",
+      "Кінетична енергія падає до нуля"
+    ],
+    correctAnswer: 1,
+    explanation: "Коли тяга перевищує опір (T > D), літак має чистий приплив енергії, тому його загальна механічна енергія збільшується (що можна конвертувати в набір висоти або прискорення)."
+  },
+  {
+    question: "Якщо за умови незмінної тяги двигуна пілот тягне штурвал на себе для набору висоти, що відбувається зі швидкістю?",
+    options: [
+      "Приладова швидкість зростає пропорційно підйому",
+      "Приладова швидкість залишається абсолютно стабільною",
+      "Приладова швидкість зменшується внаслідок обміну кінетичної енергії на потенційну",
+      "Швидкість літака над землею збільшується за рахунок зниження опору"
+    ],
+    correctAnswer: 2,
+    explanation: "Під час обміну енергією без зміни вхідної потужності зростання висоти (потенційної енергії) відбувається за рахунок зменшення швидкості (кінетичної енергії)."
+  }
 ]} />
-
