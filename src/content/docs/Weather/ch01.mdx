@@ -1,0 +1,238 @@
+---
+title: "Chapter 01"
+description: "Навчальний матеріал з meteorology для розділу ch01."
+subject: "Meteorology"
+chapterNumber: 1
+readTimeMinutes: 8
+---
+
+## Chapter 01
+
+Chapter 27, Forecasts
+In rare situations where observations have been missing for extended periods of time (i.e., more than one
+TAF cycle of six hours) and the total observation concept cannot provide sufficient information, the TAF
+may be suspended by the use of NIL TAF.
+27.4.4.2 Sites with Scheduled Part-Time Observations
+For TAFs with less than 24-hour observational coverage, the TAF will be valid to the end of the routine
+scheduled forecast period even if observations cease prior to that time. The time observations are scheduled
+to end and/or resume will be indicated by expanding the AMD NOT SKED statement. Expanded
+statements will include the observation ending time (AFT Y1Y1HHmm, e.g., AFT 120200), the scheduled
+observation resumption time (TIL Y1Y1HHmm, e.g., TIL 171200Z) or the period of observation
+unavailability (Y1Y1HH/YeYehh, e.g., 2502-2512). TIL will be used only when the beginning of the
+scheduled TAF valid period coincides with the time of the last observation or when observations are
+scheduled to resume prior to the next scheduled issuance time. When used, these remarks will immediately
+follow the last forecast group. If a routine TAF issuance is scheduled to be made after observations have
+ceased, but before they resume, the remark AMD NOT SKED will immediately follow the valid period
+group of the scheduled issuance. After sufficient data using the total observation concept has been received,
+the AMD NOT SKED remark will be removed.
+Examples of Scheduled Part-Time Observations TAFs:
+TAF AMD
+KRWF 150202Z 1502/1524 {TAF text}
+AMD NOT SKED 1505Z-1518Z=
+No amendments will be available between the 15th day of the month at 0500 UTC and the 15th day of the
+month at 1800 UTC due to lack of a complete observational set between those times.
+TAF AMD
+KPSP 190230Z 1903/1924 {TAF text}
+AMD NOT SKED=
+Amendments are not scheduled.
+27.4.4.3 Automated Observing Sites Requiring Part-Time Augmentation
+TAFs for automated stations without present weather and obstruction to vision information and have no
+augmentation or only part-time augmentation are prepared using the procedures for part-time manual
+observation sites detailed in the previous section, with one exception. This exception is the remark used
+when the automated system is unattended. Specifically, the time an augmented automated system is
+scheduled to go into unattended operation and/or the time augmentation resumes is included in a remark
+unique to automated observing sites: AMD LTD TO CLD VIS AND WIND (AFT YYHHmm, or TIL
+YYhhmm, or YYHH-YYhh), where YY is the date, HHmm is the time, in hours and minutes, of last
+augmented observation, and hhmm is the time, in hours and minutes, the second complete observation is
+expected to be received. This remark, which does not preclude amendments for other forecast elements, is
+appended to the last scheduled TAF issued prior to the last augmented observation. It will also be appended
+to all subsequent amendments until augmentation resumes.
+The AMD LTD TO (elements specified) remark is a flag for users and differs from the AMD NOT SKED
+AFT Z remark for part-time manual observation sites. AMD LTD TO means users should expect
+amendments only for those elements and the times specified.
+Example:
+TAF AMD
+KCOE 150202Z 1502/1524 text
+AMD LTD TO CLD VIS AND WIND 1505-1518=
+
+Chapter 27, Forecasts
+The amended forecast indicates that amendments will only be issued for wind, visibility, and clouds,
+between the 15th day of the month at 0500Z and the 15th day of the month at 1800Z.
+An amendment includes forecasts for all appropriate TAF elements, even those not reported when the
+automated site is not augmented. If unreported elements are judged to be crucial to the TAF and cannot be
+adequately determined (e.g., fog versus moderate snow), the TAF will be suspended (i.e., an amended TAF
+stating “AMD NOT SKED”).
+AWOS systems with part-time augmentation, which the forecaster suspects are providing unreliable
+information when not augmented, will be reported for maintenance and treated the same as part-time
+manual observation sites. In such cases, the AMD NOT SKED AFT YY/aaZ remark will be used.
+27.4.4.4 Non-Augmented Automated Observing Sites
+The TAF issued for automated observing stations with no augmentation may be suspended in the event the
+forecaster is notified of, or strongly suspects, an outage or unrepresentative data. Forecasters may also
+suspend TAF amendments when an element the forecaster judges to be critical is missing from the
+observation and cannot be obtained using the total observation concept. The term AMD NOT SKED will
+be appended, on a separate line and indented five spaces, to the end of an amendment to the existing TAF
+when appropriate.
+27.5 Aviation Surface Forecast and Aviation Clouds Forecast
+The Aviation Surface Forecast and Aviation Clouds Forecast graphics are snapshot images derived from a
+subset of the aviation weather forecasts within the GFA Tool (see Chapter 28, Aviation Weather Tools). A
+CONUS view is available as well as several regional views. Forecasts are provided for 3, 6, 9, 12, 15,
+and 18 hours.
+The Aviation Surface Forecast (see Figure 27-1) provides obscurations, visibility, weather phenomena, and
+winds (including wind gusts) with AIRMET Sierra for IFR conditions and AIRMET Tango for sustained
+surface winds of 30 kt or more overlaid. The Aviation Clouds Forecast (see Figure 27-2) provides cloud
+coverage, bases, layers, and tops with AIRMET Sierra for mountain obscuration and AIRMET Zulu for
+icing overlaid.
+The Aviation Clouds Forecast graphic provides a forecast of cloud coverage and height (in hundreds of feet
+MSL). Tops of the highest broken (BKN) or overcast (OVC) layer are shown when bases are below FL180.
+Overlays of AIRMETs for icing and mountain obscuration are included when applicable.
+Both of these products are updated every three hours and provide forecast snapshots for 3, 6, 9, 12, 15,
+and 18 hours in the future.
+These forecasts are presented on regional maps as well as a CONUS map. The regional maps provide more
+detail than the CONUS map. The NWS plans to expand the coverage beyond the CONUS.
+Complete product information can be found on the AWC’s website.
+
+Chapter 27, Forecasts
+Figure 27-1. Aviation Surface Forecast Example
+Figure 27-2. Aviation Clouds Forecast Example
+
+Chapter 27, Forecasts
+27.6 Area Forecasts (FA)
+An FA is an abbreviated plain language (text) forecast concerning the occurrence or expected occurrence
+of specified en route weather phenomena. FAs cover an 18- to 24-hour period, depending on the region, are
+issued three to four times daily, depending on the region, and are updated as needed. The exact phenomenon
+contained in FAs also varies by region.
+Text FAs are produced by the NWS for Alaska. They are available at https://aviationweather.gov. Text FAs
+for the CONUS, Hawaii, the Gulf of America, and the Caribbean have been retired and replaced by the
+NWS’ GFA Tool (see Chapter 28) and the Aviation Surface Forecast and Aviation Clouds Forecast graphics
+(see Section 27.5). The NWS will continue producing text FAs for Alaska for the foreseeable future.
+27.6.1 FA Standardization
+Alaska FAs follow these standards:
+All heights or altitudes are referenced to MSL, unless otherwise noted (i.e., prefaced by AGL or
+CIG), and annotated using the height in hundreds of feet, consisting of three digits (e.g., 040). For
+heights at or above 18,000 ft, the level is preceded by “FL” to represent flight levels (e.g., FL180).
+Tops are always referenced to MSL.
+References to latitude and longitude are in whole degrees and minutes following the model:
+Nnn[nn] or Snn[nn], Wnnn[nn], or Ennn[nn] with a space between latitude and longitude and a
+hyphen between successive points (e.g., N3106 W07118 – N3011 W7209).
+Messages are prepared in abbreviated plain language using contractions from Order JO 7340.2,
+Contractions, for domestic products, and from ICAO Doc 8400, ICAO Abbreviations and Codes,
+for products issued for Oceanic FIRs. A limited number of non-abbreviated words, geographical
+names, and numerical values of a self-explanatory nature may also be used.
+Weather and obstructions to visibility are described using the weather abbreviations for surface
+weather observations (METAR/SPECI) (see Section 24.3).
+27.6.2 FA Issuance Schedule
+FAs for Alaska are scheduled products issued at the times listed in Table 27-8 below.
+Table 27-8. FA Issuance Schedule
+Alaska
+(UTC)
+1st Issuance
+0415 (DT)/0515 (ST)
+2nd Issuance
+1215 (DT)/1315 (ST)
+3rd Issuance
+2015 (DT)/2115 (ST)
+4th Issuance
+None
+Note: DT—During Alaska Daylight Time; ST—During Alaska Standard Time;
+UTC—Coordinated Universal Time.
+
+Chapter 27, Forecasts
+27.6.3 FA Amendments and Corrections
+Amendments are issued whenever the weather significantly improves or deteriorates based upon the
+judgment of the forecaster. AMD is included after the date/time group. The date/time group on the WMO
+and FAA lines is updated to indicate the time of the correction. The ending valid time remains unchanged.
+FAs containing errors will be corrected. COR is included after the date/time group.
+27.6.4 Alaska FA
+27.6.4.1 Alaska FA Issuance
+Issued by the AAWU. There are seven FAs containing a total of 25 zones (see Table 27-9), covering
+separate geographical areas of Alaska and the adjacent coastal waters, including the Pribilof Islands and
+Southeast Bering Sea (see Figure 27-3).
+FAs issued for Alaska cover the airspace between the surface and 45,000 ft MSL and include the following
+elements:
+1. Synopsis: A brief description of the significant synoptic weather affecting the FA area
+during the first 18 hours of the forecast period.
+2. Significant Clouds and Weather: A description of the significant clouds and weather for
+each geographical zone during the first 12 hours of the forecast period, including the
+following elements:
+AIRMET information for IFR ceiling and visibility, mountain obscuration, and strong surface
+winds.
+Cloud amount (SCT, BKN, or OVC) with bases and tops.
+Visibility below 7 SM and obstruction(s) to visibility.
+Precipitation and thunderstorms.
+Surface wind greater than 20 kt.
+Mountain pass conditions using categorical terms (for selected zones only).
+Categorical outlook (VFR, MVFR, and IFR) for 12 to 18 hours.
+3. Icing and Freezing Level: A description of expected icing conditions, including the
+following elements:
+AIRMET information for icing and freezing precipitation.
+Icing not meeting SIGMET or AIRMET criteria during the six-hour to 12-hour period.
+Freezing level.
+If no significant icing is forecast, NIL SIG will be entered, followed by the freezing level.
+4. Turbulence: A description of expected turbulence conditions, including the following
+elements:
+AIRMET information for turbulence or LLWS.
+Turbulence not meeting SIGMET or AIRMET criteria during the six-hour to 12-hour period.
+If no significant turbulence is forecast, NIL SIG will be entered.
+
+Chapter 27, Forecasts
+Figure 27-3. AAWU Flight Advisory and FA Zones—Alaska
+Table 27-9. AAWU Area Forecast (FA) Zones—Alaska
+Arctic Coast Coastal
+Southern Southeast Alaska
+North Slopes of the Brooks Range
+Coastal Southeast Alaska
+Upper Yukon Valley
+Eastern Gulf Coast
+Koyukuk and Upper Kobuk Valley
+Copper River Basin
+Northern Seward Peninsula–Lower Kobuk
+Valley
+Cook Inlet–Susitna Valley
+Southern Seward Peninsula–Eastern Norton
+Sound
+Central Gulf Coast
+Tanana Valley
+Kodiak Island
+Lower Yukon Valley
+Alaska Peninsula–Port Heiden to
+Unimak Pass
+Kuskokwim Valley
+Unimak Pass to Adak
+Yukon-Kuskokwim Delta
+St. Lawrence Island-Bering Sea Coast
+Bristol Bay
+Adak to Attu
+Lynn Canal and Glacier Bay
+Pribilof Islands and Southeast Bering
+Sea
+Central Southeast Alaska
+
+
+
+<img src="/images/Weather/ch01/img_p424_1.png" alt="Figure 424-1" />
+
+
+
+## Ключові принципи
+
+- Розумійте основні дефініції й терміни.
+- Застосовуйте правила у реальних польотних сценаріях.
+- Контролюйте ризики та перевіряйте важливі параметри перед виконанням маневру.
+
+> **Увага:** Кожен політ вимагає постійного контролю за станом повітряного судна, обстановкою та виконанням процедур.
+
+> **Увача:** У разі невизначеності завжди застосовуйте найбільш безпечні й консервативні рішення.
+
+## Практичні наслідки
+
+- Ці знання допомагають оцінити ситуацію в польоті.
+- Вони формують основу для прийняття правильних рішень.
+- Вони підтримують безпечну організацію польотів.
+
+
+<Quiz questions={[
+  { question: 'Що є ключовим принципом цього розділу?', options: ['Розуміння основних правил і процедур', 'Пропускання перевірки вогню', 'Заміна дисципліни', 'Відмова від обчислень'], correctAnswer: 0, explanation: 'Розділ пояснює основні принципи, які є базою для безпечного виконання польотів.' },
+  { question: 'Чому важливо застосовувати отримані знання в практиці?', options: ['Щоб зменшити ризик помилок під час польоту', 'Щоб збільшити витрати пального', 'Щоб уникати перевірок', 'Щоб обмежити навігаційні процедури'], correctAnswer: 0, explanation: 'Теоретичні знання стають корисними лише в поєднанні з практичним застосуванням.' },
+  { question: 'Яке правило є найбільш релевантним?', options: ['Дотримуватися процедур і вміти пояснити причину дії', 'Ігнорувати зміни в умовах польоту', 'Спірити з диспетчером', 'Розраховувати без перевірки'], correctAnswer: 0, explanation: 'Ключовий принцип навчання в авіації — надійність процедур та усвідомлення їхнього сенсу.' }
+]} />
+

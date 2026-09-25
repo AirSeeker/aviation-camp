@@ -1,0 +1,2781 @@
+Introduction
+This chapter presents information on IFR helicopter
+operations in the National Airspace System. Advances in
+avionics technology installed in helicopters such as Global
+Positioning System (GPS) and Wide Area Augmentation
+System (WAAS) are bringing approach procedures to
+heliports around the country.
+The ability to operate helicopters under IFR increases
+their utility and safety. Helicopter IFR operators have
+an excellent safety record due to the investment in
+IFR-equipped helicopters, development of instrument
+approach procedures (IAPs), and IFR-trained flight crews.
+The safety record of IFR operations in the Gulf of Mexico is
+equivalent to the safety record of the best-rated airlines.
+Manufacturers are working to increase IFR all-weather
+capabilities of helicopters by providing slower minimum
+instrument airspeeds (VMINI), faster cruising speeds, and
+better autopilots and flight management systems (FMS).
+As a result, in October 2005, the first civil helicopter in
+the United States was certified for flight into known icing
+conditions. [Figure 7-1]
+Helicopter Instrument
+Procedures
+
+Figure 7-1. Icing tests. To safely provide an all-weather capability
+and flight into known icing conditions that would otherwise delay
+or cancel winter flight operations, the digital control of the S-92
+Rotor Ice Protection System (RIPS) determines the temperature and
+moisture content of the air and removes any ice buildup by heating the
+main and tail rotor blades. The system is shown here during testing.
+Helicopter Instrument Flight Rule (IFR)
+Certification
+It is very important that pilots be familiar with the IFR
+requirements for their particular helicopter. Within the
+same make, model, and series of helicopter, variations in
+the installed avionics may change the required equipment
+or the level of augmentation for a particular operation. The
+Automatic Flight Control System/Autopilot/Flight Director
+(AFCS/AP/FD) equipment installed in IFR helicopters can
+be very complex. For some helicopters, the AFCS/AP/
+FD complexity requires formal training in order for the
+pilot(s) to obtain and maintain a high level of knowledge
+of system operation, limitations, failure indications, and
+reversionary modes. For a helicopter to be certified
+to conduct operations in instrument meteorological
+conditions (IMC), it must meet the design and installation
+requirements of Title 14 Code of Federal Regulations (14
+CFR) Part 27, Appendix B (Normal Category) and Part 29,
+Appendix B (Transport Category), which is in addition to
+the visual flight rule (VFR) requirements.
+These requirements are broken down into the
+following categories: flight and navigation equipment,
+miscellaneous requirements, stability, helicopter flight
+manual limitations, operations specifications, and
+minimum equipment list (MEL).
+Flight and Navigation Equipment
+The basic installed flight and navigation equipment for
+helicopter IFR operations is listed under 14 CFR Part 29, §
+29.1303, with amendments and additions in Appendix B of
+14 CFR Parts 27 and 29 under which they are certified. The
+list includes:
+Clock
+Airspeed indicator
+Sensitive altimeter (A “sensitive” altimeter relates to
+the instrument’s displayed change in altitude over
+its range. For “Copter” Category (CAT) II operations,
+the scale must be in 20-foot intervals.) adjustable
+for barometric pressure.
+Magnetic direction indicator
+Free-air temperature indicator
+Rate-of-climb (vertical speed) indicator
+Magnetic gyroscopic direction indicator
+Stand-by bank and pitch (attitude) indicator
+Non-tumbling gyroscopic bank and pitch (attitude)
+indicator
+Speed warning device (if required by 14 CFR Part 29)
+Miscellaneous Requirements
+Overvoltage disconnect
+Instrument power source indicator
+Adequate ice protection of IFR systems
+Alternate static source (single-pilot configuration)
+Thunderstorm lights (transport category helicopters)
+Stabilization and Automatic Flight Control
+System (AFCS)
+Helicopter manufacturers normally use a combination
+of a stabilization and/or AFCS in order to meet the IFR
+stability requirements of 14 CFR Parts 27 and 29. These
+systems include:
+Aerodynamic surfaces, which impart some stability
+or control capability that generally is not found in
+the basic VFR configuration.
+Trim systems provide a cyclic centering effect. These
+systems typically involve a magnetic brake/spring
+device and may be controlled by a four-way switch
+on the cyclic. This system requires “hands on” flying
+of the helicopter.
+Stability Augmentation Systems (SAS) provide
+short-term rate damping control inputs to increase
+helicopter stability. Like trim systems, SAS requires
+“hands-on” flying.
+
+Attitude Retention Systems (ATT) return the
+helicopter to a selected attitude after a disturbance.
+Changes in attitude can be accomplished usually
+through a four- way “beep” switch or by actuating a
+“force trim” switch on the cyclic, which sets the desired
+attitude manually. Attitude retention may be a SAS
+function or may be the basic “hands off” autopilot
+function.
+Autopilot Systems (APs) provide for “hands off”
+flight along specified lateral and vertical paths. The
+functional modes may include heading, altitude,
+vertical speed, navigation tracking, and approach.
+APs typically have a control panel for mode selection
+and indication of mode status. APs may or may not be
+installed with an associated FD. APs typically control
+the helicopter about the roll and pitch axes (cyclic
+control) but may also include yaw axis (pedal control)
+and collective control servos.
+Flight Directors (FDs) provide visual guidance to
+the pilot to fly selected lateral and vertical modes of
+operation. The visual guidance is typically provided
+by a “single cue,” commonly known as a “vee bar,”
+which provides the indicated attitude to fly and
+is superimposed on the attitude indicator. Other
+FDs may use a “two cue” presentation known as a
+“cross pointer system.” These two presentations
+only provide attitude information. A third system,
+known as a “three cue” system, provides information
+to position the collective as well as attitude (roll
+and pitch) cues. The collective control cue system
+identifies and cues the pilot what collective control
+inputs to use when path errors are produced or when
+airspeed errors exceed preset values. The three-cue
+system pitch command provides the required cues
+to control airspeed when flying an approach with
+vertical guidance at speeds slower than the best-
+rate-of-climb (BROC) speed. The pilot manipulates
+the helicopter’s controls to satisfy these commands,
+yielding the desired flightpath or may couple the
+autopilot to the FD to fly along the desired flightpath.
+Typically, FD mode control and indication are shared
+with the autopilot. Pilots must be aware of the mode
+of operation of the augmentation systems and the
+control logic and functions in use. For example, on an
+instrument landing system (ILS) approach and using
+the three-cue mode (lateral, vertical, and collective
+cues), the FD collective cue responds to glideslope
+deviation, while the horizontal bar cue of the “cross­
+pointer” responds to airspeed deviations. However,
+the same system when operated in the two-cue
+mode on an ILS, the FD horizontal bar cue responds
+to glideslope deviations. The need to be aware of the
+FD mode of operation is particularly significant when
+operating using two pilots.
+Pilots should have an established set of procedures and
+responsibilities for the control of FD/AP modes for the
+various phases of flight. Not only does a full understanding
+of the system modes provide for a higher degree of
+accuracy in control of the helicopter, it is the basis for crew
+identification of a faulty system.
+Helicopter Flight Manual Limitations
+Helicopters are certificated for IFR operations with either
+one or two pilots. Certain equipment is required to be
+installed and functional for two-pilot operations and
+additional equipment is required for single-pilot operation.
+In addition, the Helicopter Flight Manual (HFM) defines
+systems and functions that are required to be in operation
+or engaged for IFR flight in either the single or two-pilot
+configurations. Often, in a two-pilot operation, this level of
+augmentation is less than the full capability of the installed
+systems. Likewise, a single-pilot operation may require a
+higher level of augmentation.
+The HFM also identifies other specific limitations associated
+with IFR flight. Typically, these limitations include, but are
+not limited to:
+Minimum equipment required for IFR flight (in some
+cases, for both single-pilot and two-pilot operations)
+VMINI (minimum speed—IFR) [Figure 7-2]
+VNEI (never exceed speed—IFR)
+Maximum approach angle
+Weight and center of gravity (CG) limits
+Helicopter configuration limitations (such as door
+positions and external loads)
+Helicopter system limitations (generators, inverters,
+etc.)
+System testing requirements (many avionics and AFCS,
+AP, and FD systems incorporate a self-test feature)
+Pilot action requirements (for example, the pilot must
+have hands and feet on the controls during certain
+operations, such as an instrument approach below
+certain altitudes)
+Final approach angles/descent gradient for public
+approach procedures can be as high as 7.5 degrees/795
+ft/NM. At 70 knots indicated airspeed (KIAS) (no wind),
+this equates to a descent rate of 925 fpm. With a 10-knot
+tailwind, the descent rate increases to 1,056 fpm. “Copter”
+Point-in-space (PinS) approach procedures are restricted
+to helicopters with a maximum VMINI of 70 KIAS and an
+IFR approach angle that enables them to meet the final
+approach angle/descent gradient. Pilots of helicopters with
+
+Augusta
+A-109C
+Bell
+BH 214ST
+BH 222B
+Eurocopter
+Sikorsky
+S-76A
+S-76A
+S-76B
+S-76C
+SK-76C++
+NOTE: The VMINI, MAX IFR Approach Angle and G/A Mode Speed for a specific helicopter may vary with avionics/autopilot installation.
+Pilots are, therefore, cautioned to refer only to the Rotorcraft Flight Manual limitations for their specific helicopter. The maximum rate of
+descent for many autopilots is 1,000 FPM.
+LEGEND
+In some helicopters with the autopilot engaged, the VMINI may increase to a speed greater than 70 KIAS, or in the “go around”
+mode requires a speed faster than 70 KIAS.
+SAMPLE NOT FOR ACTUAL USE
+VMINI Limitations
+MAX IFR Approach Angle
+G/A Mode Speed
+Manufacturer
+75 KIAS
+75 KIAS
+75 KIAS
+60 (80 coupled)
+50 (65 coupled)
+45 (70 coupled)
+60 (AFCS Phase II)
+50 (AFCS Phase III)
+50 (60 coupled)
+Figure 7-2. VMINI limitations, maximum IFR approach angles and G/A mode speeds for selected IFR certified helicopters.
+a VMINI of 70 KIAS may have inadequate control margins
+to fly an approach that is designed with the maximum
+allowable angle/descent gradient or minimum allowable
+deceleration distance from the missed approach point
+(MAP) to the heliport. The “Copter” PinS final approach
+segment is limited to 70 KIAS since turn containment and
+the deceleration distance from the MAP to the heliport may
+not be adequate at faster speeds. For some helicopters,
+engaging the autopilot may increase the VMINI to a speed
+greater than 70 KIAS, or in the “go around” (G/A) mode,
+require a speed faster than 70 KIAS. [Figure 7-2] It may be
+possible for these helicopters to be flown manually on the
+approach or on the missed approach in a mode other than
+the G/A mode.
+Since slower IFR approach speeds enable the helicopter
+to fly steeper approaches and reduces the distance from
+the heliport that is required to decelerate the helicopter,
+you may want to operate your helicopter at speeds slower
+than its established VMINI. The provision to apply for a
+determination of equivalent safety for instrument flight
+below VMINI and the minimum helicopter requirements
+are specified in Advisory Circulars (AC) 27-1, Certification
+of Normal Category Rotorcraft and AC 29-2, Certification
+of Transport Category Rotorcraft. Application guidance is
+available from the Rotorcraft Directorate Standards Staff,
+ASW-110, 2601 Meacham Blvd., Fort Worth, Texas, 76137­
+4298, (817) 222-5111.
+Performance data may not be available in the HFM for
+speeds other than the best rate of climb speed. To meet
+missed approach climb gradients, pilots may use observed
+performance for similar weight, altitude, temperature, and
+speed conditions to determine equivalent performance.
+When missed approaches utilizing a climbing turn are
+flown with an autopilot, set the heading bug on the
+missed approach heading, and then at the MAP, engage
+the indicated airspeed mode, followed immediately by
+applying climb power and selecting the heading mode.
+This is important since the autopilot roll rate and maximum
+
+bank angle in the Heading Select mode are significantly
+more robust than in the NAV mode. Figure 7-3 represents
+the bank angle and roll limits of the S76 used by the FAA for
+flight testing. It has a roll rate in the Heading Select mode
+of 5 degrees per second with only 1 degree per second in
+the NAV mode. The bank angle in the Heading Select mode
+is 20 degrees, with only 17 degrees in the NAV Change
+Over mode. Furthermore, if the Airspeed Hold mode is
+not selected on some autopilots when commencing the
+missed approach, the helicopter accelerates in level flight
+until the best rate of climb is attained, and only then will
+a climb begin.
+Figure 7-3. Autopilot bank angle and roll rate limits for the S-76
+used by the William J. Hughes Technical Center for Flight Tests.
+Heading hold
+VOR/RNAV
+(Capture)
+VOR/RNAV
+(On Course)
+Heading Select
+VOR/RNAV
+(Course Change
+Over Station/Fix)
+<6
++/–22
++/–13
++/–20
++/–17
+None specified
+5 VOR/RNAV Approach
+Bank Angle Limit
+(Degrees)
+Roll Rate Limit
+(Degrees/Sec)
+Autopilot
+Mode
+SAMPLE NOT FOR ACTUAL USE
+WAAS localizer performance (LP) lateral-only PinS testing
+conducted in 2005 by the FAA at the William J. Hughes
+Technical Center in New Jersey for helicopter PinS also
+captured the flight tracks for turning missed approaches.
+[Figure 7-4] The large flight tracks that resulted during
+the turning missed approach were attributed in part to
+operating the autopilot in the NAV mode and exceeding
+the 70 KIAS limit.
+Operations Specifications
+A flight operated under 14 CFR Part 135 has minimums and
+procedures more restrictive than a flight operated under
+14 CFR Part 91. These Part 135 requirements are detailed
+in their operations specifications (OpSpecs). Helicopter Air
+Ambulance (HAA) operators have even more restrictive
+OpSpecs. Shown in Figure 7-5 is an excerpt from an
+OpSpecs detailing the minimums for precision approaches.
+The inlay in Figure 7-5 shows the minimums for the ILS
+Runway 3R approach at Detroit Metro Airport. With all
+lighting operative, the minimums for helicopter Part 91
+operations are a 200-foot ceiling, and 1,200-feet runway
+visual range (RVR) - one-half airplane Category A visibility
+but no less than 1⁄4 SM/1,200 RVR. However, as shown in
+Figure 7-4. Flight tests at the William J. Hughes Technical Center
+point out the importance of airspeed control and using the correct
+technique to make a turning missed approach.
+MAP
+1000 ft.
+2000 ft.
+3000 ft.
+4000 ft.
+5000 ft.
+6000 ft.
+7000 ft.
+8000 ft.
+Distance from MAP
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+×
+Bin Mean
+Bin Maximum
+Approach Tracks
+Legend
+×
+the OpSpecs, the minimum visibility this Part 135 operator
+must adhere to is 1,600 RVR. Pilots operating under 14 CFR
+Part 91 are encouraged to develop their own personal
+OpSpecs based on their own equipment, training, and
+experience.
+Minimum Equipment List (MEL)
+A helicopter operating under 14 CFR Part 135 with
+certain installed equipment inoperative is prohibited
+from taking off unless the operation is authorized in the
+approved MEL. The MEL provides for some equipment to
+be inoperative if certain conditions are met. [Figure 7-6]
+In many cases, a helicopter configured for single-pilot
+IFR may depart IFR with certain equipment inoperative
+provided a crew of two pilots is used. Under 14 CFR Part
+91, a pilot may defer certain items without an MEL if
+those items are not required by the type certificate, CFRs,
+or airworthiness directives (ADs), and the flight can be
+performed safely without them. If the item is disabled,
+removed, or marked inoperative, a logbook entry is made.
+Pilot Proficiency
+Helicopters of the same make and model may have
+variations in installed avionics that change the required
+equipment or the level of augmentation for a particular
+operation. The complexity of modern AFCS, AP, and FD
+systems requires a high degree of understanding to safely
+
+SAMPLE NOT FOR ACTUAL USE
+U.S. Department
+of Transportation
+Federal Aviation
+Operations Specifications
+Administration
+Print Date: 4/16/2008
+H117.
+Straight-in Category I Precision Instrument Approach
+HQ Control:
+11/22/00
+Procedures - All Airports
+HQ Revision:
+a.
+Except as provided in this paragraph, the certificate holder shall not use any Category I IFR landing
+minimum lower than that prescribed by any applicable published instrument approach procedure. The
+IFR landing minimums prescribed in this paragraph are the lowest authorized (other than Airborne
+Radar approaches) for use at any airport. Provided that the fastest approach speed used in the final
+approach segment is less than 91 knots, the certificate holder is authorized to conduct straight-in
+precision instrument approach procedures using the following:
+(1) The published Category A minimum descent altitude (MDA) or decision height (DH), as
+appropriate.
+(2) One-half of the published Category A visibility/RVR minimum or the visibility/RVR minimums
+prescribed by this paragraph, whichever is higher.
+b.
+Straight-In Category I Precision Approach Procedures. The certificate holder shall not use an IFR
+landing minimum for straight-in precision approach procedures lower than that specified in the
+following table. Touchdown zone RVR reports, when available for a particular runway, are controlling
+for all approaches to and landings on that runway. (See NOTE 2.)
+Precision Approaches
+Full ILS (See NOTE 1), MLS, or PAR
+Approach Light
+Configuration
+HAT
+Helicopters Operated at
+Speeds of 90 Knots or Less
+Helicopters Operated at
+Speeds More Than 90 Knots
+Visibility In
+SM.
+TDZ RVR
+In Feet
+Visibility In
+SM.
+TDZ RVR In
+Feet
+No Lights or ODALS or
+MALS or SSALS
+MALSR or SSALR or
+MALSR with TDZ and
+CL or SSALR with TDZ
+and CL or ALSF-1/ALSF-
+2 with TDZ and CL
+NOTE 1: A full ILS requires an operative LOC, GS, and OM or FAF. A precision or surveillance radar
+fix, an NDB, VOR, DME fix, or a published minimum GSIA fix may be used in lieu of an outer marker.
+NOTE 2: The Mid RVR and Rollout RVR reports (if available) provide advisory information to pilots.
+The Mid RVR report may be substituted for the TDZ RVR report if the TDZ RVR report is not available.
+c.
+Special Limitations and Provisions for Instrument Approach Procedures at Foreign Airports. If the
+certificate holder is authorized operations at foreign airports, the following criteria apply.
+(1) Foreign approach lighting systems equivalent to U.S. standards are authorized for both precision
+and nonprecision approaches. Sequenced flashing lights are not required when determining the
+equivalence of a foreign lighting system to U.S. standards.
+(2) For straight-in landing minimums at foreign airports where an MDA or DH is not specified, the
+lowest authorized MDA or DH shall be obtained as follows:
+SAMPLE NOT FOR ACTUAL USE
+SAMPLE NOT FOR ACTUAL USE
+Figure 7-5. Operations Specifications.
+
+U.S. DEPARTMENT OF TRANSPORTATION
+MASTER MINIMUM EQUIPMENT LIST
+FEDERAL AVIATION ADMINISTRATION
+AIRCRAFT:
+BH-206/407 SERIES
+REVISION NO: 3
+DATE: 12/22/2008
+PAGE:
+1.
+2. NUMBER INSTALLED
+3. NUMBER REQUIRED FOR DISPATCH
+SYSTEM &
+SEQUENCE
+NUMBERS
+ITEM
+4. REMARKS OR EXCEPTIONS
+28 FUEL
+1.
+Fuel Quantity Gauge
+DELETED.
+|
+2.
+***
+Auxiliary Fuel Tank
+D
+-
+May be inoperative provided:
+a) Flight is not predicated upon
+the use of the system,
+and
+b) Auxiliary tank fuel is
+considered in weight and
+balance computations.
+3.
+Fuel Low Warning Caution
+Light System(206A and
+206B only)
+DELETED.
+|
+|
+|
+only)
+DELETED.
+|
+|
+4.
+***
+Solenoid Drain Valve
+System
+D
+-
+(O) May be inoperative provided the
+manual drain valve is verified
+closed prior to flight.
+5.
+Fuel Boost Pump(Twin
+engine models only)
+B
+One aft boost pump may be
+inoperative.
+6.
+Fuel Flow Indicator
+(Twin engine models
+only)
+B
+SAMPLE NOT FOR ACTUAL USE
+Figure 7-6. Example of a Minimum Equipment List (MEL).
+
+and efficiently control the helicopter in IFR operations.
+Formal training in the use of these systems is highly
+recommended for all pilots.
+During flight operations, you must be aware of the mode
+of operation of the augmentation system and the control
+logic and functions employed. [Figure 7-2]
+Helicopter VFR Minimums
+Helicopters have the same VFR minimums as airplanes
+with two exceptions. In Class G airspace or under a special
+visual flight rule (SVFR) clearance, helicopters have no
+minimum visibility requirement but must remain clear of
+clouds and operate at a speed that is slow enough to give
+the pilot an adequate opportunity to see other aircraft or an
+obstruction in time to avoid a collision. Helicopters are also
+authorized (14 CFR Part 91, appendix D, § 3) to obtain SVFR
+clearances at airports with the designation NO SVFR on the
+sectional chart or in the Chart Supplement (CS). Figure 7-7
+shows the visibility and cloud clearance requirements for
+VFR and SVFR. However, lower minimums associated with
+Class G airspace and SVFR do not take the place of the VFR
+minimum requirements of either Part 135 regulations or
+respective OpSpecs.
+Knowledge of all VFR minimums is required in order to
+determine if a PinS approach can be conducted or if a SVFR
+clearance is required to continue past the (MAP). These
+approaches and procedures are discussed in detail later.
+Helicopter IFR Takeoff Minimums
+14 CFR Part 91 imposes no takeoff minimums on the
+helicopter pilot. However, Rotorcraft Flight Manuals
+may require the helicopter to attain at least Vmini before
+entering IMC. For most helicopters, this requires a distance
+of approximately 1⁄2 mile and an altitude of 100 feet. If
+departing with a steeper climb gradient, some helicopters
+may require additional altitude to accelerate to VMINI.
+To maximize safety, always consider using the Part 135
+operator standard takeoff visibility minimum of 1⁄2 statute
+mile (SM) or the charted departure minima, whichever is
+higher. A charted departure that provides protection from
+obstacles has either a higher visibility requirement, climb
+gradient, and/or departure path. Part 135 operators are
+required to adhere to the takeoff minimums prescribed in
+the instrument approach procedures (IAPs) for the airport.
+Helicopter IFR Alternates
+The pilot must file for an alternate if weather reports and
+forecasts at the proposed destination do not meet certain
+minimums. These minimums differ for Part 91 and Part
+135 operators.
+Figure 7-7. Helicopter VFR minimums.
+Airspace
+Class A
+Class B
+Class C
+Class D
+Class E
+Less than
+10,000 feet MSL
+At or above
+10,000 feet MSL
+Class G
+1,200 feet or less
+above the surface
+(regardless of MSL altitude)
+Day, except as provided
+in §91.155(b)
+Night, except as provided
+in §91.155(b)
+More than 1,200 feet above
+the surface but less than
+10,000 feet MSL
+Day
+Night
+More than 1,200 feet
+above the surface and at
+or above 10,000 feet MSL
+B, C, D, E, Surface Area
+Airspace SVFR Minimums
+Day
+Night
+Flight
+visibility
+Not
+applicable
+3 SM
+3 SM
+3 SM
+3 SM
+5 SM
+1/2 SM
+None
+1 SM
+3 SM
+5 SM
+None
+None
+Distance from clouds
+Not applicable
+Clear of clouds
+500 feet below
+1,000 feet above
+2,000 feet horizontal
+500 feet below
+1,000 feet above
+2,000 feet horizontal
+500 feet below
+1,000 feet above
+2,000 feet horizontal
+1,000 feet below
+1,000 feet above
+1 statue mile horizontal
+Clear of clouds
+Clear of clouds
+500 feet below
+1,000 feet above
+2,000 feet horizontal
+500 feet below
+1,000 feet above
+2,000 feet horizontal
+1,000 feet below
+1,000 feet above
+1 statute mile horizontal
+Clear of clouds
+Clear of clouds
+Helicopter VFR Minimums
+Part 91 Operators
+Part 91 operators are not required to file an alternate if, at
+the estimated time of arrival (ETA) and for 1 hour after, the
+ceiling is at least 1,000 feet above the airport elevation or
+400 feet above the lowest applicable approach minima,
+whichever is higher, and the visibility is at least 2 SM. If an
+alternate is required, an airport can be used if the ceiling is
+at least 200 feet above the minimum for the approach to
+
+be flown and visibility is at least 1 SM, but never less than
+the minimum required for the approach to be flown. If no
+instrument approach procedure has been published for the
+alternate airport, the ceiling and visibility minima are those
+allowing descent from the MEA, approach, and landing
+under basic VFR.
+Part 135 Operators
+Part 135 operators are not required to file an alternate if,
+for at least one hour before and one hour after the ETA,
+the ceiling is at least 1,500 feet above the lowest circling
+approach minimum descent altitude (MDA). If a circling
+instrument approach is not authorized for the airport,
+the ceiling must be at least 1,500 feet above the lowest
+published minimum or 2,000 feet above the airport
+elevation, whichever is higher. For the IAP to be used at
+the destination airport, the forecasted visibility for that
+airport must be at least 3 SM or 2 SM more than the lowest
+applicable visibility minimums, whichever is greater.
+Alternate landing minimums for flights conducted under 14
+CFR Part 135 are described in the OpSpecs for that
+operation. All helicopters operated under IFR must carry
+enough fuel to fly to the intended destination, fly from that
+airport to the filed alternate, if required, and continue for
+30 minutes at normal cruising speed.
+Helicopter Instrument Approaches
+Many new helicopter IAPs have been developed to take
+advantage of advances in both avionics and helicopter
+technology.
+Standard Instrument Approach Procedures to
+an Airport
+Helicopters flying standard instrument approach
+procedures (SIAP) must adhere to the MDA or decision
+altitude for Category A airplanes and may apply the 14
+b) (1)
+“Copter procedures” means helicopter procedures
+with applicable minimums as prescribed in §97.35
+of this part. Helicopters may also use other
+procedures prescribed in Subpart C of this part and
+may use the Category A minimum descent altitude
+(MDA) or decision height (DH). The required visibility
+minimum may be reduced to ½ the published
+visibility minimum, but in no case may it be reduced
+to less than one-quarter mile or 1,200 feet RVR.
+97.3 Symbols and Terms Used in Procedures
+Figure 7-8. Part 97 excerpt.
+CFR Part 97.3 (d-1) rule to reduce the airplane Category A
+visibility by half but in no case less than 1⁄4 SM or 1,200 RVR.
+[Figure 7-8] The approach can be initiated at any speed up
+to the highest approach category authorized; however, the
+speed on the final approach segment must be reduced to
+the Category A speed of less than 90 KIAS before the MAP in
+order to apply the visibility reduction. A constant airspeed
+is recommended on the final approach segment to comply
+with the stabilized approach concept since a decelerating
+approach may make early detection of wind shear on the
+approach path more difficult. [Figure 7-9]
+When visibility minimums must be increased for inoperative
+components or visual aids, use the Inoperative Components
+and Visual Aids Table (provided in the front cover of the U.S.
+Terminal Procedures) to derive the Category A minima before
+applying any visibility reduction. The published visibility
+may be increased above the standard visibility minima due
+to penetrations of the 20:1 and 34:1 final approach obstacle
+identification surfaces (OIS). The minimum visibility required
+for 34:1 penetrations is 3⁄4 SM and for 20:1 penetrations 1
+SM, which is discussed in chapter 5 of this handbook. When
+there are penetrations of the final approach OIS, a visibility
+credit for approach lighting systems is not allowed for
+either airplane or helicopter procedures that would result
+Figure 7-9. Helicopter use of standard instrument approach procedures.
+Procedure
+Standard
+Copter Procedure
+GPS Copter Procedure
+Helicopter Visibility Minima
+The greater of: one half the
+Category A visibility minima,
+¼ statute mile visibility or
+1,200 RVR unless annotated
+(Visibility Reduction by
+Helicopters NA.)
+As published
+As published
+Helicopter MDA/DA
+As published for
+Category A
+As published
+As published
+Maximum Speed Limitations
+The helicopter may initiate the final approach
+segment at speeds up to the upper limit of the
+highest Approach Category authorized by the
+procedure, but must be slowed to no more
+than 90 KIAS at the MAP in order to apply the
+visibility reduction.
+90 KIAS when on a published route/track.
+90 KIAS when on a published route, track, or
+holding, 70 KIAS when on the final approach
+or missed approach segment. Military procedures
+are limited to 90 KIAS for all segments.
+Helicopter Use of Standard Instrument Approach Procedures
+
+in values less than the appropriate 3⁄4 SM or 1 SM visibility
+requirement. The 14 CFR Part 97.3 visibility reduction rule
+does not apply, and you must take precautions to avoid
+any obstacles in the visual segment. Procedures with
+penetrations of the final approach OIS are annotated at the
+next amendment with “Visibility Reduction by Helicopters
+NA.”
+Until all the affected SIAPs have been annotated, an
+understanding of how the standard visibilities are
+established is the best aid in determining if penetrations
+of the final approach OIS exists. Some of the variables in
+determining visibilities are: decision altitude (DA)/MDA
+height above touchdown (HAT), height above airport
+(HAA), distance of the facility to the MAP (or the runway
+threshold for non- precision approaches), and approach
+lighting configurations.
+The standard visibility requirement, without any credit
+for lights, is 1 SM for non-precision approaches and 3⁄4
+SM for precision approaches. This is based on a Category
+A airplane 250–320 feet HAT/HAA; for non-precision
+approaches a distance of 10,000 feet or less from the
+facility to the MAP (or runway threshold). For precision
+approaches, credit for any approach light configuration; for
+non-precision approaches (with a 250 HAT) configured with
+a Medium Intensity Approach Lighting System (MALSR),
+Simplified Short Approach Lighting System (SSALR), or
+Approach Lighting System With Sequenced Flashing Lights
+(ALSF)-1 normally results in a published visibility of 1⁄2 SM.
+Consequently, if an ILS is configured with approach lights
+or a non-precision approach is configured with MALSR,
+SSALR, or ALSF-1 lighting configurations and the procedure
+has a published visibility of 3⁄4 SM or greater, a penetration
+of the final approach OIS may exist. Also, pilots are unable
+to determine whether there are penetrations of the final
+approach OIS if a non-precision procedure does not have
+approach lights or is configured with ODALS, MALS, or
+SSALS/SALS lighting since the minimum published visibility
+is 3⁄4 SM or greater.
+As a rule of thumb, approaches with published visibilities of
+3⁄4 SM or more should be regarded as having final approach
+OIS penetrations and care must be taken to avoid any
+obstacles in the visual segment.
+Approaches with published visibilities of 1⁄2 SM or less are
+free of OIS penetrations and the visibility reduction in Part
+97.3 is authorized.
+Copter Only Approaches to An Airport or
+Heliport
+Pilots flying Copter SIAPs, other than GPS, may use the
+published minima with no reductions in visibility allowed.
+The maximum airspeed is 90 KIAS on any segment of the
+approach or missed approach. Figure 7-10 illustrates the
+COPTER ILS or LOC RWY 13 approach at NewYork/La Guardia
+(LGA) airport.
+Copter ILS approaches to Category (CAT) I facilities with
+DAs no lower than a 200-foot HAT provide an advantage
+over a conventional ILS of shorter final segments and lower
+minimums (based on the 20:1 missed approach surface).
+There are also Copter approaches with minimums as low as
+100-foot HAT and 1⁄4 SM visibility. Approaches with a HAT
+below 200 feet are annotated with the note: “Special Aircrew
+& Aircraft Certification Required” since the FAA must approve
+the helicopter and its avionics, and the flight crew must have
+the required experience, training, and checking.
+The ground facilities (approach lighting, signal in space, hold
+lines, maintenance, etc.) and air traffic infrastructure for CAT
+II ILS approaches are required to support these procedures.
+The helicopter must be equipped with an AP, FD, or head
+up guidance system, alternate static source (or heated static
+source), and radio altimeter. The pilot must have at least a
+private pilot helicopter certificate, an instrument helicopter
+rating, and a type rating if the helicopter requires a type
+rating. Pilot experience requires the following flight times:
+250 pilot in command (PIC), 100 helicopter PIC, 50 night
+PIC, 75 hours of actual or simulated instrument flight time,
+including at least 25 hours of actual or simulated instrument
+flight time in a helicopter or a helicopter flight simulator, and
+the appropriate recent experience, training and check. For
+Copter CAT II ILS operations below 200 feet HAT, approach
+deviations are limited to 1⁄4 scale of the localizer or glide
+slope needle. Deviations beyond that require an immediate
+missed approach unless the pilot has at least one of the visual
+references in sight and otherwise meets the requirements of
+14 CFR Part 91.175(c). The reward for this effort is the ability
+to fly Copter ILS approaches with minima that are sometimes
+below the airplane CAT II minima. The procedure to apply for
+this certification is available from your local Flight Standards
+District Office (FSDO).
+Copter GPS Approaches to an Airport or
+Heliport
+Pilots flying Copter GPS or WAAS SIAPs must limit the speed
+to 90 KIAS on the initial and intermediate segment of the
+approach and to no more than 70 KIAS on the final and
+missed approach segments. If annotated, holding may also
+be limited to 90 KIAS to contain the helicopter within the
+small airspace provided for helicopter holding patterns.
+
+Figure 7-10. The COPTER ILS or LOC RWY 13 approach at New York/La Guardia (LGA) airport.
+
+Figure 7-11. COPTER RNAV (GPS) 291° at Indianapolis Downtown Heliport.
+
+400 feet/NM (standard)
+200 feet/NM (standard)
+20:1 OCS
+40:1 OCS
+During testing for helicopter holding, the optimum
+airspeed and leg length combination was determined to
+be 90 KIAS with a 3 NM outbound leg length. Consideration
+was given to the wind drift on the dead reckoning entry
+leg at slower speeds, the turn radius at faster airspeeds,
+and the ability of the helicopter in strong wind conditions
+to intercept the inbound course prior to the holding fix.
+The published minimums are to be used with no visibility
+reductions allowed. Figure 7-11 is an example of a Copter
+GPS PinS approach that allows the helicopter to fly VFR
+from the MAP to the heliport.
+The final and missed approach protected airspace providing
+obstacle and terrain avoidance is based on 70 KIAS, with
+a maximum 10-knot tailwind component. It is absolutely
+essential that pilots adhere to the 70 KIAS limitation
+in procedures that include an immediate climbing
+and turning missed approach. Exceeding the airspeed
+restriction increases the turning radius significantly and
+can cause the helicopter to leave the missed approach
+protected airspace. This may result in controlled flight into
+terrain (CFIT) or obstacles.
+If a helicopter has a VMINI greater than 70 knots, then
+it is not capable of conducting this type of approach.
+Similarly, if the autopilot in “go-around” mode climbs at a
+VYI greater than 70 knots, then that mode cannot be used.
+It is the responsibility of the pilot to determine compliance
+with missed approach climb gradient requirements
+when operating at speeds other than VY or VYI. Missed
+approaches that specify an “IMMEDIATE CLIMBING TURN”
+have no provision for a straight ahead climbing segment
+before turning. A straight segment results in exceeding the
+protected airspace limits.
+Protected obstacle clearance areas and surfaces for the
+missed approach are established on the assumption that
+the missed approach is initiated at the DA point and for
+non-precision approaches no lower than the MDA at the
+MAP (normally at the threshold of the approach end of
+the runway). The pilot must begin the missed approach at
+those points. Flying beyond either point before beginning
+the missed approach results in flying below the protected
+obstacle clearance surface (OCS) and can result in a collision
+with an obstacle.
+The missed approach segment U.S. Standard for Terminal
+Instrument Procedures (TERPS) criteria for all Copter
+approaches take advantage of the helicopter’s climb
+capabilities at slow airspeeds, resulting in high climb
+gradients. [Figure 7-12] The OCS used to evaluate the
+missed approach is a 20:1 inclined plane. This surface is
+twice as steep for the helicopter as the OCS used to evaluate
+the airplane missed approach segment. The helicopter
+climb gradient is, therefore, required to be double that of
+the airplane’s required missed approach climb gradient.
+A minimum climb gradient of at least 400 ft/NM is required
+unless a higher gradient is published on the approach
+chart (e.g., a helicopter with a ground speed of 70 knots
+is required to climb at a rate of 467 fpm (467 fpm = 70
+KIAS × 400 feet per NM/60 seconds)). The advantage of
+using the 20:1 OCS for the helicopter missed approach
+20:1 versus 40:1 Obstacle clearance surface (OCS) for nonprecision missed approach procedures
+MAP
+96 feet/NM
+48 feet/NM
+The Copter 20:1 OCS provides for a lower MDA for the helicopter than for the airplane if the controlling
+obstacle is in the missed approach area. A climb gradient of 400 feet/NM will allow a required
+obstacle clearance (ROC) of 96 feet/NM for each NM of flightpath.
+Figure 7-12. Obstacle clearance surface (OCS).
+
+segment instead of the 40:1 OCS used for the airplane is
+that obstacles that penetrate the 40:1 missed approach
+segment may not have to be considered. The result is
+the DA/MDA may be lower for helicopters than for other
+aircraft. The minimum required climb gradient of 400 ft/
+NM for the helicopter in a missed approach provides 96
+feet of required obstacle clearance (ROC) for each NM of
+flightpath.
+Helicopter Approaches to VFR Heliports
+Helicopter approaches to VFR heliports are normally
+developed either as public procedures to a PinS that may
+serve more than one heliport or as a special procedure to
+a specific VFR heliport that requires pilot training due to its
+unique characteristics. These approaches can be developed
+using very high frequency omni-directional range (VOR)
+or automatic direction finder (ADF), but area navigation
+(RNAV) using GPS is the most common system used today.
+RNAV using the WAAS offers the most advantages because
+it can provide lower approach minimums, narrower route
+widths to support a network of approaches, and may
+allow the heliport to be used as an alternate. A majority
+of the special procedures to a specific VFR heliport are
+developed in support of HAA operators and have a “Proceed
+Visually” segment between the MAP and the heliport.
+Public procedures are developed as a PinS approach with a
+“Proceed VFR” segment between the MAP and the landing
+area. These PinS “Proceed VFR” procedures specify a course
+and distance from the MAP to the available heliports in the
+area.
+Approach to a PinS
+The note associated with these procedures is: “PROCEED
+VFR FROM (NAMED MAP) OR CONDUCT THE SPECIFIED
+MISSED APPROACH.” They may be developed as a special
+or public procedure where the MAP is located more than 2
+SM from the landing site, the turn from the final approach
+to the visual segment is greater than 30 degrees, or the VFR
+segment from the MAP to the landing site has obstructions
+that require pilot actions to avoid them. Figure 7-13 is an
+example of a public PinS approach that allows the pilot to
+fly to one of four heliports after reaching the MAP.
+For Part 135 operations, pilots may not begin the instrument
+approach unless the latest weather report indicates that the
+weather conditions are at or above the authorized IFR or VFR
+minimums as required by the class of airspace, operating rule
+and/or OpSpecs, whichever is higher. Visual contact with the
+landing site is not required; however, prior to the MAP, for
+either Part 91 or 135 operators, the pilot must determine if
+the flight visibility meets the basic VFR minimums required
+by the class of airspace, operating rule and/or OpSpecs
+(whichever is higher). The visibility is limited to no lower
+than that published in the procedure until canceling IFR. If
+VFR minimums do not exist, then the published MAP must
+be executed. The pilot must contact air traffic control (ATC)
+upon reaching the MAP, or as soon as practical after that, and
+advise whether executing the missed approach or canceling
+IFR and proceeding VFR.
+To proceed VFR in uncontrolled airspace, Part 135 operators
+must observe minimum regulatory VFR conditions, but
+under some conditions, such as provided for in 14 CFR
+135.613 for HAA operators, specific weather minimums are
+required when near the MAP and the heliport of intended
+landing. These minimums apply regardless of whether the
+approach is located on the plains of Oklahoma or in the
+Colorado mountains. However, for heliports located farther
+than 3 NM from the heliport, Part135 HAA operators are
+held to an even higher standard and the minimums and
+lighting conditions contained in Figure 7-15 apply to the
+entire route. Mountainous terrain at night with low light
+conditions requires a ceiling of 1,000 feet and either 3 SM or
+5 SM visibility depending on whether it has been determined
+as part of the operator’s local flying area.
+In Class B, C, D, and E surface area airspace, a SVFR clearance
+may be obtained if SVFR minimums exist. On your flight plan,
+give ATC a heads up about your intentions by entering the
+following in the remarks section: “Request SVFR clearance
+after the MAP.”
+Approach to a Specific VFR Heliport
+The note associated with these procedures is: “PROCEED
+VISUALLY FROM (NAMED MAP) OR CONDUCT THE
+SPECIFIED MISSED APPROACH.” Due to their unique
+characteristics, these approaches require training. They
+are developed for hospitals, oil rigs, private heliports, etc.
+As Specials, they require Flight Standards approval by a
+Letter of Authorization (LOA) for Part 91 operators or by
+OpSpecs for Part 135 operators. For public procedures, the
+heliport associated with these procedures must be located
+within 2 SM of the MAP, the visual segment between the
+MAP and the heliport evaluated for obstacle hazards,
+and the heliport must meet the appropriate VFR heliport
+recommendations of AC 150/5390-2, Heliport Design.
+The PinS optimum location is 0.65 NM from the heliport.
+This provides an adequate distance to decelerate and land
+from an approach speed of 70 KIAS. Certain airframes may
+be certified to fly at reduced VMINI or below VMINI speeds
+as a result of flight control design or adherence to AC
+29-2, Certification of Transport Category Rotorcraft. In
+these cases, an approach procedure stating the minimum
+
+Figure 7-13. COPTER RNAV (GPS) 250° at New York/La Guardia Airport.
+
+Point-in-Space Approach Examples
+Under Part 91, the operator flies the published IFR PinS approach procedure that has a charted MDA of 340 mean sea level (MSL)
+and visibility of ¾ SM. When approaching the MAP at an altitude of 340 feet MSL, the pilot transitions from Instrument Meteorological
+Conditions (IMC) to Visual Meteorological Conditions (VMC) and determines that the flight visibility is ½ SM. The pilot must determine
+prior to the MAP whether the applicable basic VFR weather minimums can be maintained from the MAP to the heliport or execute a
+missed approach. If the pilot determines that the applicable basic VFR weather minimums can be maintained to the heliport, the pilot
+may proceed VFR. If the visual segment is in Class B, C, D, or the surface area of Class E airspace, it may require the pilot to obtain
+a Special VFR clearance.
+For an operator to proceed VFR under Part 135, a minimum visibility of ½ SM during the day and 1 SM at night with a minimum
+ceiling of 300 feet. If prior to commencing the approach, the pilot determines the reported visibility is ¾ SM during the day, the pilot
+descends IMC to an altitude no lower than the MDA and transitions to VMC. If the pilot determines prior to the MAP that the flight
+visibility is less than ½ SM in the visual segment, a missed approach must be executed at the MAP.
+Figure 7-15. Point-in-space (PinS) approach examples for Part 91 and Part 135 operations.
+certified airspeed or flight below VMINI should be annotated
+on the approach procedure. The distance also permits
+optimal blending of obstacle clearance criteria with non-
+instrument heliport approach areas.
+The visibility minimum is based on the distance from the
+MAP to the heliport, among other factors (e.g., height
+above the heliport elevation when at the MAP MDA). The
+pilot is required to acquire and maintain visual contact
+with the heliport final approach and takeoff (FATO) area
+at or prior to the MAP. Obstacle or terrain avoidance from
+the MAP to the heliport is the responsibility of the pilot.
+Pilots need to level off when reaching the MDA, which
+may occur before arriving at the MAP, until reaching the
+visual approach angle on the approach path to clear the
+obstacles. If the required weather minimums do not exist,
+then the published MAP must be executed at the MAP
+because IFR obstruction clearance areas are not applied to
+the visual segment of the approach and a missed approach
+segment protection is not provided between the MAP
+and the heliport. As soon as practicable after reaching
+the MAP, the pilot advises ATC whether cancelling IFR and
+proceeding visually or executing the missed approach.
+Inadvertent IMC
+Whether it is a corporate or HAA operation, helicopter pilots
+sometimes operate in challenging weather conditions. An
+encounter with weather that does not permit continued
+flight under VFR might occur when conditions do not allow
+for the visual determination of a usable horizon (e.g., fog,
+snow showers, or night operations over unlit surfaces such
+as water). Flight in conditions of limited visual contrast
+should be avoided since this can result in a loss of horizontal
+or surface reference, and obstacles such as wires become
+perceptually invisible. To prevent spatial disorientation, loss
+of control (LOC) or CFIT, pilots should slow the helicopter to a
+speed that provides a controlled deceleration in the distance
+equal to the forward visibility. The pilot should look for terrain
+that provides sufficient contrast to either continue the flight
+or to make a precautionary landing. If spatial disorientation
+occurs and a climb into IMC is not feasible due to fuel state,
+icing conditions, equipment, etc., make every effort to land
+the helicopter with a slight forward descent to prevent any
+sideward or rearward motion.
+All helicopter pilots should receive training on avoidance
+and recovery from inadvertent IMC with emphasis on
+avoidance. An unplanned transition from VMC to IMC flight
+is an emergency that involves a different set of pilot actions.
+It requires the use of different navigation and operational
+procedures, interaction with ATC, and crewmember resource
+management (CRM). Consideration should be given to the
+local flying area’s terrain, airspace, air traffic facilities, weather
+(including seasonal affects such as icing and thunderstorms),
+and available airfield/heliport approaches.
+Training should emphasize the identification of
+circumstances conducive to inadvertent IMC and a
+strategy to abandon continued VFR flight in deteriorating
+conditions. This strategy should include a minimum
+altitude/airspeed combination that provides for an off­
+
+airport/heliport landing, diverting to better conditions,
+or initiating an emergency transition to IFR. Pilots should
+be able to readily identify the minimum initial altitude
+and course in order to avoid CFIT. Current IFR en route
+and approach charts for the route of flight are essential.
+A GPS navigation receiver with a moving map provides
+exceptional situational awareness for terrain and obstacle
+avoidance.
+Training for an emergency transition to IFR should
+include full and partial panel instrument flight, unusual
+attitude recovery, ATC communications, and instrument
+approaches. If an ILS is available and the helicopter is
+equipped, an ILS approach should be made. Otherwise, if
+the helicopter is equipped with an IFR approach-capable
+GPS receiver with a current database, a GPS approach
+should be made. If neither, an ILS or GPS procedure is
+available use another instrument approach.
+Upon entering inadvertent IMC, priority must be given
+to control of the helicopter. Keep it simple and take one
+action at a time.
+Control. First use the wings on the attitude indicator
+to level the helicopter. Maintain heading and
+increase to climb power. Establish climb airspeed
+at the best angle of climb but no slower than VMINI.
+Climb. Climb straight ahead until your crosscheck is
+established. Then make a turn only to avoid terrain
+or objects. If an altitude has not been previously
+established with ATC to climb to for inadvertent IMC,
+then you should climb to an altitude that is at least
+1,000 feet above the highest known object and that
+allows for contacting ATC.
+Communicate. Attempt to contact ATC as soon as
+the helicopter is stabilized in the climb and headed
+away from danger. If the appropriate frequency is
+not known, you should attempt to contact ATC on
+either very high frequency (VHF) 121.5 or ultra high
+frequency (UHF) 243.0. Initial information provided
+to ATC should be your approximate location, that
+inadvertent IMC has been encountered and an
+emergency climb has been made, your altitude,
+amount of flight time remaining (fuel state), and
+number of persons on board. You should then
+request a vector to either VFR weather conditions
+or to the nearest suitable airport/heliport that
+conditions will support a successful approach. If
+unable to contact ATC and a transponder code
+has not been previously established with ATC for
+inadvertent IMC, change the transponder code to
+7700.
+A radio altimeter is a necessity for alerting the pilot
+when inadvertently going below the minimum altitude.
+Barometric altimeters are subject to inaccuracies that
+become important in helicopter IFR operations, especially
+in cold temperatures.
+IFR Heliports
+AC 150/5390-2, Heliport Design, provides recommendations
+for heliport design to support non-precision, approach with
+vertical guidance (APV), and precision approaches to a
+heliport. When a heliport does not meet the criteria of AC
+150/5390-2, FAA Order 8260.42, United States Standard
+for Helicopter Area Navigation (RNAV), requires that an
+instrument approach be published as a Special procedure
+with annotations that special aircrew qualifications are
+required to fly the procedure. Currently, there are no
+operational civil IFR heliports in the U.S., although the U.S.
+military has some non-precision and precision approach
+procedures to IFR heliports.
+
+Appendix A
+Emergency Procedures
+Introduction
+Changing weather conditions, air traffic control (ATC), aircraft, and pilots are variables that make instrument flying an
+unpredictable and challenging operation. Safety of the flight depends on the pilot’s ability to manage these variables
+while maintaining positive aircraft control and adequate situational awareness (SA). This appendix discusses recognition
+and suggested remedies for emergency events related to un-forecasted, adverse weather, aircraft system malfunctions,
+communication/navigation system malfunctions, loss of SA, and inadvertent instrument meteorological conditions
+(IIMCs).
+Emergencies
+An emergency can be either a distress or urgency condition as defined in the pilot/controller glossary. Distress is defined
+as a condition of being threatened by serious and/or imminent danger and requiring immediate assistance. Urgency is
+defined as a condition of being concerned about safety and requiring timely but not immediate assistance; a potential
+distress condition.
+Pilots do not hesitate to declare an emergency when faced with distress conditions, such as fire, mechanical failure,
+or structural damage. However, some are reluctant to report an urgency condition when encountering situations that
+may not be immediately perilous but are potentially catastrophic. An aircraft is in an urgency condition the moment
+that the pilot becomes doubtful about position, fuel endurance, weather, or any other condition that could adversely
+affect flight safety. The time for a pilot to request assistance is when an urgent situation may, or has just occurred, not
+after it has developed into a distress situation.
+The pilot in command (PIC) is responsible for crew, passengers, and operation of the aircraft at all times. Title 14 of the
+Code of Federal Regulations (14 CFR) part 91, § 91.3 allows deviations from regulations during emergencies that allow
+the PIC to make the best decision to ensure safety of all personnel during these contingencies. Also, by declaring an
+emergency during flight, that aircraft becomes a priority to land safely. Pilots who become apprehensive for their safety
+for any reason should request assistance immediately. Assistance is available in the form of radio, radar, direction finding
+(DF) stations, and other aircraft.
+Inadvertent Thunderstorm Encounter
+A pilot should always avoid intentionally flying through a thunderstorm of any intensity; however, certain conditions may
+be present that could lead to an inadvertent thunderstorm encounter. For example, flying in areas where thunderstorms
+are embedded in large cloud masses may make thunderstorm avoidance difficult, even when the aircraft is equipped
+with thunderstorm detection equipment. Pilots must be prepared to deal with inadvertent thunderstorm penetration.
+At the very least, a thunderstorm encounter subjects the aircraft to turbulence that could be severe. The pilot, as well
+as the crew and any passengers, should tighten seat belts and shoulder harnesses and secure any loose items in the
+cabin or flight deck.
+As with any emergency, the first order of business is to fly the aircraft. The pilot workload is high; therefore, increased
+concentration is necessary to maintain an instrument scan. Once in a thunderstorm, it is better to maintain a course
+straight through the thunderstorm rather than turning around. A straight course most likely gets the pilot out of the
+hazard in the least amount of time, and turning maneuvers only increase structural stress on the aircraft.
+Reduce power to a setting that maintains a recommended turbulence penetration speed as described in the appropriate
+aircraft operator’s manual, and try to minimize additional power adjustments. Concentrate on keeping the aircraft in
+
+a level attitude while allowing airspeed and altitude to fluctuate. Similarly, if using autopilot, disengage altitude and
+speed hold modes because they only increase the aircraft’s maneuvering, which increases structural stress.
+During a thunderstorm encounter, the potential for icing also exists. As soon as possible, if the aircraft is so equipped,
+turn on anti-icing/deicing equipment. Icing can be rapid at any altitude, and may lead to power failure and/or loss of
+airspeed indication. Lightning is also present in a thunderstorm and can temporarily blind the pilot. To reduce risk,
+turn up flight deck lights to the highest intensity, concentrate on flight instruments, and resist the urge to look outside.
+Inadvertent Icing Encounter
+Because icing is unpredictable, pilots may find themselves in icing conditions although they have done everything to
+avoid the condition. To stay alert to this possibility while operating in visible moisture, pilots should monitor the outside
+air temperature (OAT).
+Anti-icing/de-icing equipment is critical to safety of the flight. If anti-icing/de-icing equipment is not used before
+sufficient ice has accumulated, it may not be able to remove all ice accumulation. Use of anti-icing/de-icing reduces
+power availability; therefore, pilots should be familiar with the aircraft operator’s manual for use of anti-icing/de-icing
+equipment.
+Before entering visible moisture with temperatures at five degrees above freezing or cooler, activate appropriate
+anti-icing/de-icing equipment in anticipation of ice accumulation; early ice detection is critical. Detecting ice may be
+particularly difficult during night flight. The pilot may need to use a flashlight to check for ice accumulation on the
+wings, fuselage, landing gear, and horizontal stabilizer. At the first indication of ice accumulation, the pilot must act
+to circumvent icing conditions. Options for action once ice has begun to accumulate on the aircraft are the following:
+Move to an altitude with significantly colder temperatures.
+Move to an altitude with temperatures above freezing.
+Fly to an area clear of visible moisture.
+Change the heading, and fly to an area of known non-icing conditions.
+If these options are not available, consider an immediate landing at the nearest suitable airport. Anti-icing/de-icing
+equipment does not allow aircraft to operate in icing conditions indefinitely; it only provides more time to evade icing
+conditions. If icing is encountered, an aircraft controllability check should be considered in the landing configuration.
+Give careful consideration to configuration changes that might produce unanticipated aircraft flight dynamics.
+Precipitation Static
+Precipitation static occurs when accumulated static electricity discharges from extremities of the aircraft. This discharge
+has the potential to create problems with the aircraft’s instruments. These problems range from serious, such as
+complete loss of VHF communications and erroneous magnetic compass readings, to the annoyance of high-pitched
+audio squealing.
+Precipitation static is caused when an aircraft encounters airborne particles during flight (rain or snow) and develops a
+negative charge. It can also result from atmospheric electric fields in thunderstorm clouds. When a significant negative
+voltage level is reached, the aircraft discharges it, creating electrical disturbances. To reduce problems associated with
+precipitation static, the pilot ensures that the aircraft’s static wicks are maintained and accounted for. All broken or
+missing static wicks should be replaced before an instrument flight.
+Aircraft System Malfunction
+Preventing aircraft system malfunctions that might lead to an in-flight emergency begins with a thorough preflight
+inspection. In addition to items normally checked before visual flight rules (VFR) flight, pilots intending to fly instrument
+flight rules (IFR) should pay particular attention to antennas, static wicks, anti-icing/de-icing equipment, pitot tube, and
+static ports. During taxi, verify operation and accuracy of all flight instruments. The pilots must ensure that all systems
+are operational before departing into IFR conditions.
+
+Generator Failure
+Depending on aircraft being flown, a generator failure is indicated in different ways. Some aircraft use an ammeter
+that indicates the state of charge or discharge of the battery. A positive indication on the ammeter indicates a charge
+condition; a negative indication reveals a discharge condition. Other aircraft use a load meter to indicate the load being
+carried by the generator. If the generator fails, a zero load indication is shown on the load meter. Review the appropriate
+aircraft operator’s manual for information on the type of systems installed in the aircraft.
+Once a generator failure is detected, the pilot must reduce electrical load on the battery and land as soon as practical.
+Depending on electrical load and condition of the battery, sufficient power may be available for an hour or more of
+flight or for only a matter of minutes. The pilot must be familiar with systems requiring electricity to run and which
+continue to operate without power. In aircraft with multiple generators, care should be taken to reduce electrical load
+to avoid overloading the operating generator(s). The pilot can attempt to troubleshoot generator failure by following
+established procedures published in the appropriate aircraft operator’s manual. If the generator cannot be reset, inform
+ATC of an impending electrical failure.
+Instrument Failure
+System or instrument failure is usually identified by a warning indicator or an inconsistency between indications on
+the attitude indicator, supporting performance instruments, and instruments at the other pilot station, if so equipped.
+Aircraft control must be maintained while the pilot identifies the failed components and expedite cross-check including
+all flight instruments. The problem may be individual instrument failure or a system failure affecting several instruments.
+One method of identification involves an immediate comparison of the attitude indicator with rate-of-turn indicator
+and vertical speed indicator (VSI). Along with providing pitch-and-bank information, this technique compares the static
+system with the pressure system and electrical system. Identify the failed components and use remaining functional
+instruments to maintain aircraft control. Attempt to restore inoperative components by checking the appropriate power
+source, changing to a backup or alternate system, and resetting the instrument if possible. Covering failed instruments
+may enhance the ability to maintain aircraft control and navigate the aircraft. ATC should be notified of the problem
+and, if necessary, declare an emergency before the situation deteriorates beyond the ability to recover.
+Pitot/Static System Failure
+A pitot or static system failure can also cause erratic and unreliable instrument indications. When a static system
+problem occurs, it affects the airspeed indicator, altimeter, and VSI. In the absence of an alternate static source in an
+unpressurized aircraft, the pilot could break the glass on the VSI because it is not required for instrument flight. Breaking
+the glass provides both the altimeter and airspeed indicator a source of static pressure, but pilots should be cautious
+because breaking the glass can cause additional instrument errors. Before considering, pilots should be familiar with
+their aircraft’s specific procedures for static problems.
+Loss of Situational Awareness (SA)
+SA is an overall assessment of environmental elements and how they affect flight. SA permits the pilot to make decisions
+ahead of time and allows evaluation of several different options. Conversely, a pilot who is missing important information
+about the flight is apt to make reactive decisions. Poor SA means that the pilot lacks vision regarding future events
+that can force him or her to make decisions quickly often with limited options. During an IFR flight, pilots operate at
+varying levels of SA. For example, a pilot may be en route to a destination with a high level of SA when ATC issues an
+unexpected standard terminal arrival route (STAR). Because the STAR is unexpected and the pilot is unfamiliar with the
+procedure, SA is reduced. However, after becoming familiar with the STAR and resuming normal navigation, the pilot
+returns to a higher level of SA.
+Factors reducing SA include distractions, unusual or unexpected events, complacency, high workload, unfamiliar
+situations, and inoperative equipment. In some situations, a loss of SA may be beyond a pilot’s control. With an electrical
+system failure and associated loss of an attitude indication, a pilot may find the aircraft in an unusual attitude. In this
+
+situation, established procedures are used to regain SA and aircraft control. Pilots must be alert to loss of SA especially
+when hampered by a reactive mindset. To regain SA, reassess the situation and work toward understanding what the
+problem is. The pilot may need to seek additional information from other sources, such as navigation instruments, other
+crewmembers, or ATC.
+Inadvertent Instrument Meteorological Condition (IIMC)
+Some pilots have the misconception that inadvertent instrument meteorological condition (IIMC) does not apply to an IFR
+flight. The following examples could cause a pilot to inadvertently encounter IMC.
+1. The aircraft has entered visual meteorological conditions (VMC) during an instrument approach procedure
+(IAP) and while circling to land encounters IMC.
+2. During a non-precision IAP, the aircraft, in VMC, levels at the MDA just below the overcast. Suddenly, the
+aircraft re-enters the overcast because either the pilot was unable to correctly hold his or her altitude and
+climbed back into the overcast, or the overcast sloped downward ahead of the aircraft and, while maintaining
+the correct MDA, the aircraft re-entered the clouds.
+3. After inadvertently re-entering the clouds, the pilot maintains aircraft control, and then maneuvers to the
+published holding fix, while contacting ATC. If navigational guidance or pilot SA were lost, the pilot would
+then climb to the published MSA (see AIM paragraph 5-4-7c).
+In order to survive an encounter with IIMC, a pilot must recognize and accept the seriousness of the situation. The pilot
+will need to immediately commit to the instruments and perform the proper recovery procedures.
+Maintaining Aircraft Control
+Once the crewmembers recognize the situation, they commit to controlling the aircraft by using and trusting flight
+instruments. Attempting to search outside the flight deck for visual confirmation can result in spatial disorientation
+and complete loss of control. The crew must rely on instruments and depend on crew coordination to facilitate that
+transition. The pilot or flight crew must abandon their efforts to establish visual references and fly the aircraft by their
+flight instruments.
+The most important concern, along with maintaining aircraft control, is to initiate a climb immediately. An immediate
+climb provides a greater separation from natural and manmade obstacles, as well as improve radar reception of the
+aircraft by ATC. An immediate climb should be appropriate for the current conditions, environment, and known or
+perceived obstacles. Listed below are procedures that can assist in maintaining aircraft control after encountering IIMC
+with the most critical action being to immediately announce IIMC and begin a substantial climb while procedures are
+being performed. These procedures are performed nearly simultaneously:
+Attitude—level wings on the attitude indicator.
+Heading—maintain heading; turn only to avoid known obstacles.
+Power—adjust power as necessary for desired climb rate.
+Airspeed—adjust airspeed as necessary. Complete the IIMC recovery according to local and published
+regulations and policies.
+In situations where the pilot encounters IIMC while conducting an instrument maneuver, the best remedy is immediate
+execution of the published missed approach.
+The pilot must trust the flight instruments concerning the aircraft’s attitude regardless of intuition or visual interpretation.
+The vestibular sense (motion sensing by the inner ear) can confuse the pilot. Because of inertia, sensory areas of the
+inner ear cannot detect slight changes in aircraft attitude nor can they accurately sense attitude changes that occur at
+a uniform rate over time. Conversely, false sensations often push the pilot to believe that the attitude of the aircraft has
+changed when in fact it has not, resulting in spatial disorientation.
+
+ATC Requirements During an In-Flight Emergency
+ATC personnel can help pilots during in-flight emergency situations. Pilots should understand the services provided
+by ATC and the resources and options available. These services enable pilots to focus on aircraft control and help them
+make better decisions in a time of stress.
+Provide Information
+During emergency situations, pilots should provide as much information as possible to ATC. ATC uses the information to
+determine what kind of assistance it can provide with available assets and capabilities. Information requirements vary
+depending on the existing situation. ATC requires at a minimum, the following information for in-flight emergencies:
+Aircraft identification and type
+Nature of the emergency
+Pilot’s desires
+If time and the situation permits, the pilot should provide ATC with more information. Listed below is additional
+information that would help ATC in further assisting the pilot during an emergency situation.
+Aircraft altitude
+Point of departure and destination
+Airspeed
+Fuel remaining in time
+Heading since last known position
+Visible landmarks
+Navigational aids (NAVAID) signals received
+Time and place of last known position
+Aircraft color
+Pilot reported weather
+Emergency equipment on board
+Number of people on board
+Pilot capability for IFR flight
+Navigation equipment capability
+When the pilot requests, or when deemed necessary, ATC can enlist services of available radar facilities and DF facilities
+operated by the FAA. ATC can also coordinate with other agencies, such as the U.S. Coast Guard (USCG) and other local
+authorities and request their emergency services.
+Radar Assistance
+Radar is an invaluable asset that can be used by pilots during emergencies. With radar, ATC can provide navigation
+assistance to aircraft and provide last-known location during catastrophic emergencies. If a VFR aircraft encounters or
+is about to encounter IMC weather conditions, the pilot can request radar vectors to VFR airports or VFR conditions. If
+the pilot determines that he or she is qualified and the aircraft is capable of conducting IFR flight, the pilot should file
+an IFR flight plan and request a clearance from ATC to the destination airport as appropriate. If the aircraft has already
+encountered IFR conditions, ATC can inform the pilot of appropriate terrain/obstacle clearance minimum altitude. If the
+aircraft is below appropriate terrain/obstacle clearance minimum altitude and sufficiently accurate position information
+has been received or radar identification is established, ATC can furnish a heading or radial on which to climb to reach
+appropriate terrain/ obstacle clearance minimum altitude.
+
+Emergency Airports
+ATC personnel consider how much remaining fuel in relation to the distance to the airport and weather conditions
+when recommending an emergency airport to aircraft requiring assistance. Depending on the nature of the emergency,
+certain weather phenomena may deserve weighted consideration. A pilot may elect to fly further to land at an airport
+with VFR conditions instead of closer airfield with IFR conditions. Other considerations are airport conditions, NAVAID
+status, aircraft type, pilot’s qualifications, and vectoring or homing capability to the emergency airport. In addition,
+ATC and pilots should determine which guidance can be used to fly to the emergency airport. The following options
+may be available:
+Radar
+DF
+Following another aircraft
+NAVAIDs
+Pilotage by landmarks
+Compass headings
+Emergency Obstruction Video Map (EOVM)
+The emergency obstruction video map (EOVM) is intended to facilitate advisory service in an emergency situation when
+appropriate terrain/obstacle clearance minimum altitude cannot be maintained. The EOVM, and the service provided,
+are used only under the following conditions:
+1. The pilot has declared an emergency.
+2. The controller has determined an emergency condition exists or is imminent because of the pilots inability to
+maintain an appropriate terrain/obstacle clearance minimum altitude.
+Note: Appropriate terrain/obstacle clearance minimum altitudes may be defined as minimum IFR altitude (MIA), minimum
+en route altitude (MEA), minimum obstacle clearance altitude (MOCA), or minimum vectoring altitude (MVA).
+When providing emergency vectoring service, the controller advises the pilot that any headings issued are emergency
+advisories intended only to direct the aircraft toward and over an area of lower terrain/obstacle elevation. Altitudes and
+obstructions depicted on the EOVM are actual altitudes and locations of the obstacle/terrain and contain no lateral or
+vertical buffers for obstruction clearance.
+Responsibility
+ATC, in communication with an aircraft in distress, should handle the emergency and coordinate and direct the activities
+of assisting facilities. ATC will not transfer this responsibility to another facility unless that facility can better handle the
+situation. When an ATC facility receives information about an aircraft in distress, they forward detailed data to the center
+in the area of the emergency. Centers serve as central points for collecting information, coordinating with search and
+rescue (SAR) and distributing information to appropriate agencies.
+Although 121.5 megahertz and 243.0 megahertz are emergency frequencies, the pilot should keep the aircraft on the
+initial contact frequency. The pilot should change frequencies only when a valid reason exists. When necessary, and
+if weather and circumstances permit, ATC should recommend that aircraft maintain or increase altitude to improve
+communications, radar, or DF reception.
+Escort
+An escort aircraft, if available, should consider and evaluate an appropriate formation. Special consideration must be
+given if maneuvers take the aircraft through clouds. Aircraft should not execute an in-flight join up during emergency
+conditions unless both crews involved are familiar with and capable of formation flight and can communicate and have
+visual contact with each other.
+
+Appendix B
+Acronyms
+A
+AAC—Aircraft Administration Communications
+AAUP—Attention All Users Page
+AC—Advisory Circular
+ACARS—Aircraft Communications Addressing and Reporting System
+ADCs—Air Data Computer
+ADDS—Aviation Digital Data Services
+ADF—Automatic Direction Finder
+ADS—Automatic Dependent Surveillance
+ADS-B—Automatic Dependent Surveillance-Broadcast
+AEG—Aircraft Evaluation Group
+A/FD—Airport/Facility Directory section of the Chart Supplement (CS)
+AFM—Aircraft Flight Manual
+AFMS—Aircraft Flight Manual Supplements
+AFS—Aircraft Flight Safety
+AFS—Flight Standards Service
+AFSS—Automated Flight Service Station
+AGL—Above Ground Level
+AIM—Aeronautical Information Manual
+AIP—Aeronautical Information Publication
+AIR—Aircraft Certification Service
+AIRMET—Airman’s Meteorological Information
+ALT ACQ—Altitude Acquire
+ALT Hold—Altitude Hold
+ANP—Actual Navigation Performance
+AOC—Aircraft Operational Communications
+APT WP—Airport Waypoint
+APV—Approach with Vertical Guidance
+ARINC—Aeronautical Radio Incorporated
+A-RNAV—Advanced Area Navigation
+ARTCC—Air Route Traffic Control Center
+ARTS—Automated Radar Terminal System
+ASDA—Accelerate-Stop Distance Available
+ASDE-X—Airport Surface Detection Equipment-Model X
+A-SMGCS—Advanced Surface Movement Guidance and Control System
+ASOS—Automated Surface Observing System
+ASR—Airport Surveillance Radar
+ASRS—Aviation Safety Reporting System
+ATA—Air Transport Association
+ATC—Air Traffic Control
+ATCAA—Air Traffic Control Assigned Airspace
+ATCRBS—Air Traffic Control Radar Beacon System
+ATCS—Air Traffic Control Specialist
+ATD—Along-Track Distance
+
+C
+ATIS—Automatic Terminal Information Service
+ATS—Air Traffic Service
+AWC—Aviation Weather Center
+AWOS—Automated Weather Observing System
+AWSS—Automated Weather Sensor System
+B
+Baro-VNAV—Barometric Vertical Navigation
+B-RNAV—European Basic RNAV
+CAT—Category
+CDI—Course Deviation Indicator
+CDL—Configuration Deviation List
+CENRAP—Center Radar ARTS Processing
+CFA—Controlled Firing Areas
+CFIT—Controlled Flight Into Terrain
+CFR—Code of Federal Regulations
+CNF—Computer Navigation Fix
+COP—Changeover Point
+COTS—Commercial Off-The-Shelf
+CRC—Cyclic Redundancy Check
+CS—Chart Supplement
+CTAF—Common Traffic Advisory Frequency
+CVFP—Charted Visual Flight Procedure
+CWAS—Center Weather Advisories
+D
+DA—Density Altitude; Decision Altitude
+D-ATIS—Digital Automatic Terminal Information Service
+D-CS—Digital Chart Supplement
+DDA—Derived Decision Altitude
+DEM—Digital Elevation Model
+DER—Departure End of the Runway
+DF—Direction Finding
+DH—Decision Height
+DME—Distance Measuring Equipment
+DOD—Department of Defense
+DOT—Department of Transportation
+DPs—Departure Procedures
+DRVSM—Domestic Reduced Vertical Separation Minimums
+DUATS—Direct User Access Terminal System
+DVA—Diverse Vector Area
+E
+E/D—End of Decent
+EDCT—Expect Departure Clearance Time
+EFAS—En-Route Flight Advisory Service
+EFB—Electronic Flight Bag
+EFC—Expect Further Clearance
+EFV—Enhanced Flight Visibility
+
+EFVS—Enhanced Flight Vision System
+EGPWS—Enhanced Ground Proximity Warning System
+EOPs—Engine Out Procedures
+EOVM—Emergency Obstruction Video Map
+ER-OPS—Extended Range Operations
+ETA—Estimated Time of Arrival
+EV—Enhanced Vision
+EVO—Equivalent Visual Operations
+EWINS—Enhanced Weather Information System
+F
+FAA—Federal Aviation Administration
+FAF—Final Approach Fix
+FAP—Final Approach Point
+FB—Fly-By
+FCC—Federal Communications Commission
+FD—Flight Director
+FDP—Flight Data Processing
+FE—Flight Engineer
+FIR—Flight Information Region
+FIS—Flight Information System
+FIS-B—Flight Information Services–Broadcast
+FISDL—Flight Information Services Data Link
+FL—Flight Level
+FL CHG—Flight Level Change
+FLIR—Forward Looking Infra-Red
+FMC—Flight Management Computer
+FMS—Flight Management System
+FO—Fly-Over
+FOM—Flight Operations Manual
+FPA—Flight Path Angle
+FPV—Flight Path Vector
+FSB—Flight Standardization Board
+FSDO—Flight Standards District Office
+FSL—NOAA Forecast Systems Laboratory
+FSS—Flight Service Station
+G
+GBAS—Ground-Based Augmentation System
+GCA—Ground Controlled Approach
+GCO—Ground Communication Outlet
+GDP—Ground Delay Programs
+GDPE—Ground Delay Program Enhancements
+GLS—Ground Based Augmentation System Landing System
+GNSS—Global Navigation Satellite System
+GPS—Global Positioning System
+GPWS—Ground Proximity Warning System
+G/S—Glide Slope
+GS—Ground Speed
+GWS—Graphical Weather Service
+
+H
+HAA—Height Above Airport
+HAR—High Altitude Redesign
+HAT—Height Above Touchdown
+HAZMAT—Hazardous Materials
+HDD—Head-Down Display
+HF—High Frequency
+HGS—Head-up Guidance System
+HIWAS—Hazardous In-flight Weather Advisory Service
+HSI—Horizontal Situation Indicator
+HUD—Head-up Display
+I
+IAF—Initial Approach Fix
+IAP—Instrument Approach Procedure
+IAS—Indicated Air Speed
+ICAO—International Civil Aviation Organization
+IF—Intermediate Fix
+IFR—Instrument Flight Rules
+IIMC—Inadvertent Instrument Meteorological Condition
+ILS—Instrument Landing System
+IMC—Instrument Meteorological Conditions
+INS—Inertial Navigation System
+IOC—Initial Operational Capability
+IRU—Inertial Reference Unit
+K
+KIAS—knots indicated airspeed
+KLAX—Los Angeles International Airport
+KLMU—Monroe Regional Airport
+L
+LAAS—Local Area Augmentation System
+LAHSO—Land And Hold Short Operations
+LDA—Localizer-type Directional Aid; Landing Distance Available
+LF—Low Frequency
+LNAV—Lateral Navigation
+LOC—Localizer
+LOM—Locator Outer Marker
+LPV—Localizer Performance with Vertical Guidance
+LTP—Landing Threshold Point
+LVL CHG—Level Change
+M
+MAA—Maximum Authorized Altitude
+MAHWP—Missed Approach Holding Waypoint
+MAMS—Military Airspace Management System
+MAP—Missed Approach Point
+MCA—Minimum Crossing Altitude
+
+MDA—Minimum Descent Altitude
+MDH—Minimum Descent Height
+MEA—Minimum En-route Altitude
+MEL—Minimum Equipment List
+METAR—Aviation Routine Weather Report
+MF—Medium Frequency
+MIA—Minimum IFR Altitude
+MLS—Microwave Landing System
+MMWR—Millimeter Wave Radar
+MNPS—Minimum Navigation Performance Specifications
+MOA—Military Operations Area
+MOCA—Minimum Obstruction Clearance Altitude
+MOPS—Minimum Operational Performance Standards
+MORA—Minimum Off-Route Altitude
+MRA—Minimum Reception Altitude
+MSA—Minimum Safe Altitude
+MSAW—Minimum Safe Altitude Warning
+MSL—Mean Sea Level
+MTA—Minimum Turning Altitude
+MTR—Military Training Route
+MVA—Minimum Vectoring Altitude
+N
+NA—Not Authorized
+NACO—National Aeronautical Charting Office
+NAS—National Airspace System
+NASA—National Aeronautics and Space Administration
+NAT—North Atlantic
+NAVAID—Navigational Aid
+NCAR—National Center for Atmospheric Research
+NDB—Non-Directional Beacon
+NextGen—Next Generation Air Transportation System
+NFDC—National Flight Data Center
+NGA—National Geospatial- Intelligence Agency
+NM—Nautical Mile
+NMAC—Near Mid-Air Collision
+NNEW—Next Generation Network-Enabled
+NOAA—National Oceanic and Atmospheric Administration
+NO A/G—No Air-to-Ground Communication
+NOPAC—North Pacific
+NOTAM—Notice to Airmen
+NOZ—Normal Operating Zone
+NPA—Non-Precision Approach
+NRR—Non-Restrictive Routing
+NRS—National Reference System
+NTAP—Notice to Airmen Publication
+NTSB—National Transportation Safety Board
+NTZ—No Transgression Zone
+NVS—NAS voice switch
+NWS—National Weather Service
+
+O
+OAT—Outside Air Temperature
+OBS—Omni Bearing Selector
+OCS—Obstacle Clearance Surface
+ODP—Obstacle Departure Procedure
+OpSpecs—Operations Specifications
+OROCA—Off-Route Obstruction Clearance Altitude
+OSV—Operational Service Volume
+P
+PA—Precision Approach
+PAR—Precision Approach Radar
+PCG—Positive Course Guidance
+PDC—Pre-Departure Clearance
+PDR—Preferential Departure Route
+PF—Pilot Flying
+PFD—Primary Flight Display
+PI—Principal Inspector
+PIC—Pilot In Command
+PIREP—Pilot Weather Report
+PKI—Public/Private Key Technology
+PM—Pilot Monitoring
+POH—Pilot’s Operating Handbook
+POI—Principle Operations Inspector
+PRM—Precision Runway Monitor
+P-RNAV—European Precision RNAV
+PT—Procedure Turn
+PTP—Point-To-Point
+Q
+QFE—Transition Height
+QNE—Transition Level
+QNH—Transition Altitude
+R
+RA—Resolution Advisory; Radio Altitude
+RAIM—Receiver Autonomous Integrity Monitoring
+RAL—Research Applications Laboratory
+RCO—Remote Communications Outlet
+RJ—Regional Jet
+RNAV—Area Navigation
+RNP—Required Navigation Performance
+RNP AR—Required Navigation Performance Authorization Required
+ROC—Required Obstacle Clearance
+RSP—Runway Safety Program
+RVR—Runway Visual Range
+RVSM—Reduced Vertical Separation Minimums
+RVV—Runway Visibility Value
+RWY—Runway
+RWY WP—Runway Waypoint
+
+S
+SA—Situational Awareness
+SAMS—Special Use Airspace Management System
+SAR—Search and Rescue
+SAS—Stability Augmentation System
+SDF—Simplified Directional Facility
+SDR—Service Difficulty Reports
+SER—Start End of Runway
+SIAP—Standard Instrument Approach Procedure
+SID—Standard Instrument Departure
+SIGMET—Significant Meteorological Information
+SM—Statute Mile
+SMA—Surface Movement Advisor
+SMGCS—Surface Movement Guidance and Control System
+SOIA—Simultaneous Offset Instrument Approaches
+SOP—Standard Operating Procedure
+SPECI—Non-routine (Special) Aviation Weather Report
+SSV—Standard Service Volume
+STAR—Standard Terminal Arrival
+STARS—Standard Terminal Automation Replacement System
+STC—Supplemental Type Certificate
+SUA—Special Use Airspace
+SUA/ISE—Special Use Airspace/In-flight Service Enhancement
+SVFR—Special Visual Flight Rules
+SVGS – Synthetic Vision Guidance System
+SVS—Synthetic Vision System
+SWAP—Severe Weather Avoidance Plan
+SWIM—System Wide Information Management
+T
+TA—Traffic Advisory
+TAA—Terminal Arrival Area
+TACAN—Tactical Air Navigation
+TAF—Terminal Aerodrome Forecast
+TAS—True Air Speed
+TAWS—Terrain Awareness and Warning Systems
+TB—Track Bar
+TCAS—Traffic Alert and Collision Avoidance System
+TCH—Threshold Crossing Height
+TDLS—Terminal Data Link System
+TDZ—Touchdown Zone
+TDZE—Touchdown Zone Elevation
+TEC—Tower En-route Control
+TERPS—Terminal Instrument Procedures
+TFR—Temporary Flight Restriction
+TIBS—Telephone Information Briefing Service
+TIS-B—Traffic Information Service-Broadcast
+TIBS—Telephone Information Briefing Service
+TOC—Top Of Climb
+TOD—Top Of Descent
+TODA—Takeoff Distance Available
+TOGA—Takeoff/Go Around
+
+V
+TORA—Takeoff Runway Available
+TPP—Terminal Procedures Publication
+TRACAB—Terminal Radar Approach Control in Tower Cab
+TSO—Technical Standard Order
+TSOA—Technical Standing Order Authorization
+U
+UHF—Ultra High Frequency
+UNICOM—Universal Communications
+U.S.—United States
+USAF—United States Air Force
+USDA—United States Department of Agriculture
+VCOA—Visual Climb Over Airport / Airfield
+VDA—Vertical Descent Angle
+VDP—Visual Descent Point
+VFR—Visual Flight Rules
+VGSI—Visual Glide Slope Indicator
+VHF—Very High Frequency
+VLJ—Very Light Jet
+VMC—Visual Meteorological Conditions
+VMINI—Minimum Speed–IFR
+VNAV—Vertical Navigation
+VNEI—Never-Exceed Speed-IFR
+VSI—Vertical Speed Indicator
+VOR—Very High-Frequency Omnidirectional Range
+VORTAC—Very High Frequency Omnidirectional Range/Tactical Air Navigation
+VOT—VOR Test Facility Signal
+VPA—Vertical Path Angle
+VREF—Reference Landing Speed
+V/S—Vertical Speed
+VSO—Stalling Speed or the Minimum Steady Flight Speed in the Landing Configuration
+W
+WAAS—Wide Area Augmentation System
+WAC—World Aeronautical Chart
+WAM—Wide Area Multi-lateration
+WP—Waypoint
+Z
+ZFW—Fort Worth Air Route Traffic Control Center
+
+Glossary
+Abeam Fix. A fix, NAVAID, point, or object positioned
+approximately 90 degrees to the right or left of the aircraft
+track along a route of flight. Abeam indicates a general
+position rather than a precise point.
+Accelerate-Stop Distance Available (ASDA). The runway
+plus stopway length declared available and suitable for
+the acceleration and deceleration of an airplane aborting a
+takeoff.
+Advanced Surface Movement Guidance and Control
+System (A-SMGCS). A system providing routing, guidance
+and surveillance for the control of aircraft and vehicles,
+in order to maintain the declared surface movement rate
+under all weather conditions within the aerodrome visibility
+operational level (AVOL) while maintaining the required
+level of safety.
+Aircraft Approach Category. A grouping of aircraft based
+on reference landing speed (VREF), if specified, or if VREF is
+not specified, 1.3 VSO (the stalling speed or minimum steady
+flight speed in the landing configuration) at the maximum
+certificated landing weight.
+Airport Diagram. A full-page depiction of the airport that
+includes the same features of the airport sketch plus
+additional details, such as taxiway identifiers, airport
+latitude and longitude, and building identification. Airport
+diagrams are located in the U.S. Terminal Procedures
+booklet following the instrument approach charts for a
+particular airport.
+Airport/Facility Directory (A/FD). Section within the Chart
+Supplement regional booklets published by Aeronautical
+Information Services that provides information about all
+airports in the region. The A/FD section includes runway
+length and width, runway surface, load bearing capacity,
+runway slope, airport services, and hazards, such as birds
+and reduced visibility.
+Airport Sketch. Depicts the runways and their length, width,
+and slope, the touchdown zone elevation, the lighting
+system installed on the end of the runway, and taxiways.
+Airport sketches are located on the lower left or right
+portion of the instrument approach chart.
+Airport Surface Detection Equipment-Model X
+(ASDE-X). Enables air traffic controllers to detect potential
+runway conflicts by providing detailed coverage of movement
+on runways and taxiways. By collecting data from a variety of
+sources, ASDE-X is able to track vehicles and aircraft on the
+airport movement area and obtain identification information
+from aircraft transponders.
+Air Route Traffic Control Center (ARTCC). A facility
+established to provide air traffic control service to aircraft
+operating on IFR flight plans within controlled airspace and
+principally during the en route phase of flight
+Air Traffic Service (ATS). Air traffic service is an ICAO
+generic term meaning variously, flight information service,
+alerting service, air traffic advisory service, air traffic control
+service (area control service, approach control service, or
+aerodrome control service).
+Approach End of Runway (AER). The first portion of the
+runway available for landing. If the runway threshold is
+displaced, use the displaced threshold latitude/longitude
+as the AER.
+Approach Fix. From a database coding standpoint, an
+approach fix is considered to be an identifiable point
+in space from the intermediate fix (IF) inbound. A fix
+located between the initial approach fix (IAF) and the IF is
+considered to be associated with the approach transition
+or feeder route.
+
+Approach Gate. An imaginary point used by ATC to vector
+aircraft to the final approach course. The approach gate
+is established along the final approach course 1 NM from
+the final approach fix (FAF) on the side away from the
+airport and is located no closer than 5 NM from the landing
+threshold.
+Area Navigation (RNAV). A method of navigation that
+permits aircraft operations on any desired course within
+the coverage of station referenced navigation signals or
+within the limits of self contained system capability.
+Automated Surface Observing System (ASOS)/Automated
+Weather Sensor System (AWSS). The ASOS/AWSS is the
+primary surface weather observing system of the U.S.
+Automated Surface Observing System (ASOS). A weather
+observing system that provides minute-by minute weather
+observations, such as temperature, dew point, wind, altimeter
+setting, visibility, sky condition, and precipitation. Some
+ASOS stations include a precipitation discriminator that can
+differentiate between liquid and frozen precipitation.
+Automated Weather Observing System (AWOS). A suite
+of sensors that measure, collect, and disseminate weather
+data. AWOS stations provide a minute-by-minute update
+of weather parameters, such as wind speed and direction,
+temperature and dew point, visibility, cloud heights and types,
+precipitation, and barometric pressure. A variety of AWOS
+system types are available (from AWOS 1 to AWOS 3), each
+of which includes a different sensor array.
+Automated Weather Sensor System (AWSS). The AWSS
+is part of the Aviation Surface Weather Observation Network
+suite of programs and provides pilots and other users
+with weather information through the Automated Surface
+Observing System. The AWSS sensor suite automatically
+collects, measures, processes, and broadcasts surface
+weather data.
+Automated Weather System. Any of the automated
+weather sensor platforms that collect weather data at
+airports and disseminate the weather information via
+radio and/or landline. The systems currently consist of the
+Automated Surface Observing System (ASOS), Automated
+Weather Sensor System (AWSS), and Automated Weather
+Observation System (AWOS).
+Automatic Dependent Surveillance-Broadcast (ADS-B).
+A surveillance system that continuously broadcasts GPS
+position information, aircraft identification, altitude,
+velocity vector, and direction to all other aircraft and air
+traffic control facilities within a specific area. Automatic
+dependent surveillance-broadcast (ADS-B) information
+is displayed in the flight deck via a flight deck display of
+traffic information (CDTI) unit, providing the pilot with
+greater situational awareness. ADS-B transmissions also
+provides controllers with a more complete picture of traffic
+and updates that information more frequently than other
+surveillance equipment.
+Automatic Terminal Information Service (ATIS). A
+recorded broadcast available at most airports with an
+operating control tower that includes crucial information
+about runways and instrument approaches in use, specific
+outages, and current weather conditions, including visibility.
+Center Radar ARTS Presentation/Processing (CENRAP).
+CENRAP was developed to provide an alternative to a
+non-radar environment at terminal facilities should an ASR
+fail or malfunction. CENRAP sends aircraft radar beacon
+target information to the ASR terminal facility equipped
+with ARTS.
+Changeover Point (COP). A COP indicates the point where
+a frequency change is necessary between navigation aids,
+when other than the midpoint on an airway, to receive
+course guidance from the facility ahead of the aircraft
+instead of the one behind. These COPs divide an airway
+or route segment and ensure continuous reception of
+navigational signals at the prescribed minimum en route
+IFR altitude.
+Chart Supplement (CS or d-CS for digital Chart Supplement).
+Regional booklets published by Aeronautical Information
+Services that provides general information (graphic and
+textual) about all airports, both VFR and IFR (in the A/FD
+section), Notices, Associated Data and Airport Diagrams.
+The A/FD section includes runway length and width,
+runway surface, load bearing capacity, runway slope,
+airport services, and hazards such as birds and reduced
+visibility.
+Charted Visual Flight Procedure (CVFP). A CVFP may be
+established at some towered airports for environmental
+or noise considerations, as well as when necessary for the
+safety and efficiency of air traffic operations. Designed
+primarily for turbojet aircraft, CVFPs depict prominent
+landmarks, courses, and recommended altitudes to specific
+runways.
+
+Closely Spaced Dependent Approaches. Identifies
+dependent approaches to parallel runways spaced less
+than 2,500 feet apart where ATC is permitted to apply
+reduced diagonal separation and special wake turbulence
+procedures. turbulence procedures.
+Cockpit Display of Traffic Information (CDTI). The display
+and user interface for information about air traffic within
+approximately 80 miles. It typically combines and shows
+traffic data from TCAS, TIS-B, and ADS-B. Depending on
+features, the display may also show terrain, weather, and
+navigation information.
+Collision Hazard. A condition, event, or circumstance
+that could induce an occurrence of a collision or surface
+accident or incident.
+Columns. See database columns.
+Contact Approach. An approach where an aircraft on an
+IFR flight plan, having an air traffic control authorization,
+operating clear of clouds with at least one mile flight
+visibility, and a reasonable expectation of continuing to
+the destination airport in those conditions, may deviate
+from the instrument approach procedure and proceed to
+the destination airport by visual reference to the surface.
+This approach is only authorized when requested by the
+pilot and the reported ground visibility at the destination
+airport is at least one statute mile.
+Controlled Flight Into Terrain (CFIT). A situation where a
+mechanically normally functioning aircraft is inadvertently
+flown into the ground, water, or an obstacle. There are
+two basic causes of CFIT accidents; both involve flight
+crew situational awareness. One definition of situational
+awareness is an accurate perception by pilots of the factors
+and conditions currently affecting the safe operation of the
+aircraft and the crew. The causes of CFIT are the flight crews’
+lack of vertical position awareness or their lack of horizontal
+position awareness in relation to terrain and obstacles.
+Database Columns. The spaces for data entry on each
+record. One column can accommodate one character.
+Database Field. The collection of characters needed to
+define one item of information.
+Database Identifier. A specific geographic point in space
+identified on an aeronautical chart and in a naviation
+database, officially designated by the controlling state
+authority or derived by Jeppesen. It has no ATC function
+and should not be used in filing flight plans nor used when
+communicating with ATC.
+Database Record. A single line of computer data made up
+of the fields necessary to define fully a single useful piece
+of data.
+Decision Altitude (DA). A specified altitude in the precision
+approach at which a missed approach must be initiated
+if the required visual reference to continue the approach
+has not been established. The term “Decision Altitude (DA)”
+is referenced to mean sea level and the term “Decision
+Height (DH)” is referenced to the threshold elevation. Even
+though DH is charted as an altitude above MSL, the U.S.
+has adopted the term“DA” as a step toward harmonization
+of the United States and international terminology. At
+some point, DA will be published for all future instrument
+approach procedures with vertical guidance.
+Decision Height (DH). See Decision Altitude.
+Departure End of Runway (DER). The end of runway
+available for the ground run of an aircraft departure. The
+end of the runway that is opposite the landing threshold,
+sometimes referred to as the stop end of the runway.
+Altitude, velocity vector, and direction to all other aircraft
+and air traffic control facilities within a specific area.
+Automatic dependent surveillance-broadcast (ADS-B)
+information is displayed in the flight deck via a cockpit
+display of traffic information (CDTI) unit, providing the pilot
+with greater situational awareness. ADS-B transmissions
+also provide controllers with a more complete picture of
+traffic and update that information more frequently than
+other surveillance equipment.
+Descend Via. A descend via clearance instructs you to follow
+the altitudes published on a STAR. You are not authorized to
+leave your last assigned altitude unless specifically cleared
+to do so. If ATC amends the altitude or route to one that
+is different from the published procedure, the rest of the
+charted descent procedure is canceled. ATC will assign
+you any further route, altitude, or airspeed clearances, as
+necessary.
+Digital ATIS (D-ATIS). An alternative method of receiving
+ATIS reports by aircraft equipped with datalink services
+capable of receiving information in the flight deck over
+their Aircraft Communications Addressing and Reporting
+System (ACARS) unit.
+Digital Elevation Model (DEM). A digital representation of
+ground surface topography or terrain.
+
+Diverse Vector Area (DVA). An airport may establish a
+diverse vector area if it is necessary to vector aircraft below
+the minimum vectoring altitude to assist in the efficient
+flow of departing traffic. DVA design requirements are
+outlined in FAA Order 8260.3 and allow for the vectoring
+of aircraft immediately off the departure end of the runway
+below the MVA.
+Dynamic Magnetic Variation. A field that is simply a
+computer model calculated value instead of a measured
+value contained in the record for a waypoint.
+EFVS Operation. An operation in which visibility conditions
+require an EFVS to be used in lieu of natural vision to
+perform an approach or landing, determine enhanced
+flight visibility, identify required visual references, or
+conduct a rollout.
+Electronic Flight Bag (EFB). An electronic display system
+intended primarily for flight deck or cabin use. EFB devices
+can display a variety of aviation data or perform basic
+calculations (e.g., performance data, fuel calculations, etc.).
+In the past, some of these functions were traditionally
+accomplished using paper references or were based on
+data provided to the flight crew by an airline’s flight dispatch
+function.The scope of the EFB system functionality may also
+include various other hosted databases and applications.
+Physical EFB displays may use various technologies,
+formats, and forms of communication. These devices are
+sometimes referred to as auxiliary performance computers
+(APC) or laptop auxiliary performance computers (LAPC).
+Ellipsoid of Revolution. The surface that results when an
+ellipse is rotated about one of its axes.
+En Route Obstacle Clearance Areas. Obstacle clearance
+areas for en route planning are identified as primary,
+secondary, and turning areas, and they are designed to
+provide obstacle clearance route protection width for
+airways and routes.
+Enhanced Flight Vision System (EFVS). An installed aircraft
+system which uses an electronic means to provide a display
+of the forward external scene topography (the natural or
+manmade features of a place or region especially in a way to
+show their relative positions and elevation) through the use
+of imaging sensors, including but not limited to forward-
+looking infrared, millimeter wave radiometry, millimeter
+wave radar, or low-light level image intensification. An
+EFVS includes the display element, sensors, computers and
+power supplies, indications, and controls.
+Expanded Service Volume. When ATC or a procedures
+specialist requires the use of a NAVAID beyond the
+limitations specified for standard service volume, an
+expanded service volume (ESV) may be established. See
+standard service volume.
+Feeder Route. A feeder route is a route depicted on IAP
+charts to designate courses for aircraft to proceed from the
+en route structure to the IAF. Feeder routes, also referred
+to as approach transitions, technically are not considered
+approach segments but are an integral part of many IAPs.
+Field. See database field.
+Final Approach and Takeoff Area (FATO). The FATO is a
+defined heliport area over which the final approach to a
+hover or a departure is made. The touchdown and lift-off
+area (TLOF) where the helicopter is permitted to land is
+normally centered in the FATO. A safety area is provided
+around the FATO.
+Fix. A geographical position determined by visual reference
+to the surface, by reference to one or more radio NAVAIDs,
+by celestial plotting, or by another navigational device.
+Note: Fix is a generic name for a geographical position
+and is referred to as a fix, waypoint, intersection, reporting
+point, etc.
+Flight Information Region (FIR). A FIR is an airspace of
+defined dimensions within which Flight Information Service
+and Alerting Service are provided. Flight Information Service
+(FIS) is a service provided for the purpose of giving advice
+and information useful for the safe and efficient conduct
+of flights. Alerting Service is a service provided to notify
+appropriate organizations regarding aircraft in need of search
+and rescue aid, and assist such organizations as required.
+Flight Level (FL). A flight level is a level of constant
+atmospheric pressure related to a reference datum of
+29.92 "Hg. Each flight level is stated in three digits that
+represents hundreds of feet. For example, FL 250 represents
+an altimeter indication of 25,000 feet.
+Floating Waypoints. Floating waypoints represent
+airspace fixes at a point in space not directly associated
+with a conventional airway. In many cases, they may be
+established for such purposes as ATC metering fixes,
+holding points, RNAV-direct routing, gateway waypoints,
+STAR origination points leaving the en route structure,
+and SID terminating points joining the en route structure.
+Fly-by (FB) Waypoint. A waypoint that requires the use of
+turn anticipation to avoid overshooting the next flight
+segment.
+
+Fly-over (FO) Waypoint. A waypoint that precludes any turn
+until the waypoint is overflown, and is followed by either
+an intercept maneuver of the next flight segment or direct
+flight to the next waypoint.
+Four Corner Post Configuration. An arrangement of air
+traffic pathways in a terminal area that brings incoming
+flights over fixes at four corners of the traffic area, while
+outbound flights depart between the fixes, thus minimizing
+conflicts between arriving and departing traffic.
+Gateway Fix. A navigational aid or fix where an aircraft
+transitions between the domestic route structure and the
+oceanic route airspace.
+Geodetic Datum. The reference plane from which geodetic
+calculations are made. Or, according to ICAO Annex 15, the
+numerical or geometrical quantity or set of such quantities
+(mathematical model) that serves as a reference for
+computing other quantities in a specific geographic region,
+such as the latitude and longitude of a point.
+Glidepath Angle (GPA). The angular displacement of the
+vertical guidance path from a horizontal plane that passes
+through the reference datum point (RDP). This angle is
+published on approach charts (e.g., 3.00°, 3.20°, etc.). GPA
+is sometimes referred to as vertical path angle (VPA).
+Global Navigation Satellite System (GNSS). An umbrella term
+adopted by the International Civil Aviation Organization
+(ICAO) to encompass any independent satellite navigation
+system used by a pilot to perform onboard position
+determinations from the satellite data.
+Gross Navigation Error (GNE). In the North Atlantic area of
+operations, a gross navigation error is a lateral separation
+of more than 25 NM from the centerline of an aircraft’s
+cleared route, which generates an Oceanic Navigation Error
+Report. This report is also generated by a vertical separation
+if you are more than 300 feet off your assigned flight level.
+Ground Communication Outlet (GCO). An unstaffed,
+remotely controlled ground/ground communications
+facility. Pilots at uncontrolled airports may contact ATC and
+AFSS via very high frequency (VHF) radio to a telephone
+connection. This lets pilots obtain an instrument clearance
+or close a VFR/IFR flight plan.
+Head-Up Display (HUD). See head-up guidance system
+(HGS).
+Head-up Guidance System (HGS). A system that projects
+critical flight data on a display positioned between the pilot
+and the windscreen. In addition to showing primary flight
+information, the HUD computes an extremely accurate
+instrument approach and landing guidance solution, and
+displays the result as a guidance cue for head-up viewing
+by the pilot.
+Height Above Touchdown (HAT). The height of the DA
+above touchdown zone elevation (TDZE).
+Highway in the Sky (HITS). A graphically intuitive pilot
+interface system that provides an aircraft operator with all
+of the attitude and guidance inputs required to safely fly
+an aircraft in close conformance to air traffic procedures.
+Initial Climb Area (ICA). An area beginning at the departure
+end of runway (DER) to provide unrestricted climb to at
+least 400 feet above DER elevation.
+Instrument Approach Waypoint. Fixes used in defining
+RNAV IAPs, including the feeder waypoint (FWP), the initial
+approach waypoint (IAWP), the intermediate waypoint
+(IWP), the final approach waypoint (FAWP), the RWY WP,
+and the APT WP, when required.
+Instrument Landing System (ILS). A precision instrument
+approach system that normally consists of the following
+electronic components and visual aids: localizer, glide
+slope, outer marker, middle marker, and approach lights.
+Instrument Procedure with Vertical Guidance (IPV). Satellite
+or flight management system (FMS) lateral navigation
+(LNAV) with computed positive vertical guidance based
+on barometric or satellite elevation. This term has been
+renamed APV.
+International Civil Aviation Organization (ICAO).
+ICAO is a specialized agency of the United Nations whose
+objective is to develop standard principles and techniques
+of international air navigation and to promote development
+of civil aviation.
+Intersection. Typically, the point at which two VOR radial
+position lines cross on a route, usually intersecting at a good
+angle for positive indication of position, resulting in a VOR/
+VOR fix.
+Landing Distance Available (LDA). ICAO defines LDA as the
+length of runway, that is declared available and suitable for
+the ground run of an aeroplane landing.
+
+Lateral Navigation (LNAV). Azimuth navigation without
+positive vertical guidance. This type of navigation is
+associated with nonprecision approach procedures or en
+route.
+Local Area Augmentation System (LAAS). LAAS further
+increases the accuracy of GPS and improves signal integrity
+warnings.
+Localizer Performance with Vertical Guidance (LPV). LPV is
+one of the four lines of approach minimums found on an
+RNAV (GPS) approach chart. Lateral guidance accuracy is
+equivalent to a localizer. The HAT is published as a DA since
+it uses an electronic glide path that is not dependent on
+any ground equipment or barometric aiding and may be
+as low as 200 feet and 1⁄2 SM visibility depending on the
+airport terrain and infrastructure. WAAS avionics approved
+for LPV is required. Baro-VNAV is not authorized to fly the
+LPV line of minimums on a RNAV (GPS) procedure since it
+uses an internally generated descent path that is subject to
+cold temperature effects and incorrect altimeter settings.
+Loss of Separation. An occurrence or operation that results
+in less than prescribed separation between aircraft, or
+between an aircraft and a vehicle, pedestrian, or object.
+LPV. See Localizer Performance with Vertical Guidance.
+Magnetic Variation. The difference in degrees between
+the measured values of true north and magnetic north at
+that location.
+Maximum Authorized Altitude (MAA). An MAA is a
+published altitude representing the maximum usable
+altitude or flight level for an airspace structure or route
+segment. It is the highest altitude on a Federal airway, jet
+route, RNAV low or high route, or other direct route for
+which an MEA is designated at which adequate reception
+of navigation signals is assured.
+Metering Fix. A fix along an established route over which
+aircraft are metered prior to entering terminal airspace.
+Normally, this fix should be established at a distance from
+the airport which facilitates a profile descent 10,000 feet
+above airport elevation (AAE) or above.
+Mid-RVR. The RVR readout values obtained from sensors
+located midfield of the runway.
+Mileage Break. A point on a route where the leg segment
+mileage ends, and a new leg segment mileage begins, often
+at a route turning point.
+Military Airspace Management System (MAMS). A
+Department of Defense system to collect and disseminate
+information on the current status of special use airspace.
+This information is provided to the Special Use Airspace
+Management System (SAMS). The electronic interface
+also provides SUA schedules and historical activation and
+utilization data.
+Minimum Crossing Altitude (MCA). An MCA is the lowest
+altitude at certain fixes at which the aircraft must cross
+when proceeding in the direction of a higher minimum en
+route IFR altitude. MCAs are established in all cases where
+obstacles intervene to prevent pilots from maintaining
+obstacle clearance during a normal climb to a higher MEA
+after passing a point beyond which the higher MEA applies.
+Minimum Descent Altitude (MDA). The lowest altitude,
+expressed in feet above mean sea level, to which descent
+is authorized on final approach or during circle-to-land
+maneuvering in execution of a standard instrument
+approach procedure where no electronic glide slope is
+provided.
+Minimum En Route Altitude (MEA). The MEA is the lowest
+published altitude between radio fixes that assures
+acceptable navigational signal coverage and meets
+obstacle clearance requirements between those fixes. The
+MEA prescribed for a Federal Airway or segment, RNAV low
+or high route, or other direct route applies to the entire
+width of the airway, segment, or route between the radio
+fixes defining the airway, segment, or route.
+Minimum IFR Altitude (MIA). Minimum altitudes for IFR
+operations are prescribed in 14 CFR Part 91. These MIAs are
+published on IFR charts and prescribed in 14 CFR Part 95
+for airways and routes, and in 14 CFR Part 97 for standard
+instrument approach procedures.
+Minimum Navigation Performance Specifications (MNPS).
+A set of standards that require aircraft to have a minimum
+navigation performance capability in order to operate in
+MNPS designated airspace. In addition, aircraft must be
+certified by their State of Registry for MNPS operation.
+Under certain conditions, non-MNPS aircraft can operate
+in MNPS airspace, however, standard oceanic separation
+minima is provided between the non-MNPS aircraft and
+other traffic.
+Minimum Obstruction Clearance Altitude (MOCA). The
+MOCA is the lowest published altitude in effect between
+radio fixes on VOR airways, off-airway routes, or route
+segments that meets obstacle clearance requirements
+for the entire route segment. This altitude also assures
+acceptable navigational signal coverage only within 22
+NM of a VOR.
+
+Minimum Reception Altitude (MRA). An MRA is determined
+by FAA flight inspection traversing an entire route of flight
+to establish the minimum altitude the navigation signal can
+be received for the route and for off-course NAVAID facilities
+that determine a fix. When the MRA at the fix is higher than
+the MEA, an MRA is established for the fix, and is the lowest
+altitude at which an intersection can be determined.
+Minimum Safe Altitude (MSA). MSAs are published for
+emergency use on IAP charts. For conventional navigation
+systems, the MSA is normally based on the primary
+omnidirectional facility on which the IAP is predicated.
+For RNAV approaches, the MSA is based on the runway
+waypoint (RWY WP) for straight-in approaches, or the
+airport waypoint (APT WP) for circling approaches. For
+GPS approaches, the MSA center is the Missed Approach
+Waypoint (MAWP).
+Minimum Vectoring Altitude (MVA). Minimum vectoring
+altitude charts are developed for areas where there are
+numerous minimum vectoring altitudes due to variable
+terrain features or man-made obstacles. MVAs are
+established for use by ATC when radar ATC is exercised.
+Missed Approach Holding Waypoint. An approach
+waypoint sequenced during the holding portion of the
+missed approach procedure that is a fly-over waypoint.
+Missed Approach Waypoint (MAWP). An approach waypoint
+sequenced during the missed approach procedure that is
+a fly-over waypoint.
+National Airspace System (NAS). Consists of a complex
+collection of facilities, systems, equipment, procedures, and
+airports operated by thousands of people to provide a safe
+and efficient flying environment.
+Navigational Gap. A navigational course guidance gap,
+referred to as an MEA gap, describes a distance along an
+airway or route segment where a gap in navigational signal
+coverage exists. The navigational gap may not exceed a
+specific distance that varies directly with altitude.
+Next Generation Air Transportation System (NextGen).
+Ongoing, wide-ranging transformation of the National
+Airspace System (NAS). NextGen represents an evolution
+from a ground-based system of air traffic control to a satellite-
+based system of air traffic management.
+Non-Directional Radio Beacon (NDB). An L/MF or UHF
+radio beacon transmitting nondirectional signals whereby
+the pilot of an aircraft equipped with direction finding
+equipment can determine bearing to or from the radio
+beacon and “home”on or track to or from the station. When
+the radio beacon is installed in conjunction with the ILS
+marker, it is normally called a compass locator.
+Non-RNAV DP. A DP whose ground track is based on
+ground-based NAVAIDS and/or dead reckoning navigation.
+Obstacle Clearance Surface (OCS). An inclined or level
+surface associated with a defined area for obstruction
+evaluation.
+Obstacle Departure Procedure (ODP). A procedure that
+provides obstacle clearance. ODPs do not include ATC
+related climb requirements. In fact, the primary emphasis
+of ODP design is to use the least erroneous route of flight to
+the en route structure while attempting to accommodate
+typical departure routes.
+Obstacle Identification Surface (OIS). The design of a
+departure procedure is based on FAA Order 8260.3, a living
+document that is updated frequently. Departure design
+criteria assumes an initial climb of 200 Ft/NM after crossing
+the departure end of the runway (DER) at a height of at
+least 35 feet above the ground. Assuming a 200 Ft/NM
+climb, the departure is structured to provide at least 48 Ft/
+NM of clearance above objects that do not penetrate the
+obstacle slope. The slope, known as the OIS, is based on a
+40 to 1 ratio, which is the equivalent of a 152 Ft/NM slope.
+Off-Airway Routes. The FAA prescribes altitudes governing
+the operation of aircraft under IFR for fairway routes in a
+similar manner to those on federal airways, jet routes, area
+navigation low or high altitude routes, and other direct
+routes for which an MEA is designated.
+Off-Route Obstruction Clearance Altitude (OROCA). An off-
+route altitude that provides obstruction clearance with a
+1,000-foot buffer in nonmountainous terrain areas and a
+2,000-foot buffer in designated mountainous areas within
+the U.S. This altitude may not provide signal coverage from
+groundbased navigational aids, air traffic control radar, or
+communications coverage.
+Operations Specifications (OpSpecs). A published
+document providing the conditions under which an air carrier
+and operator for compensation or hire must operate in order
+to retain approval from the FAA.
+
+Pilot Briefing Information. The current format for charted
+IAPs issued by Aeronautical Information Services. The
+information is presented in a logical order facilitating
+pilot briefing of the procedures. Charts include formatted
+information required for quick pilot or flight crew reference
+located at the top of the chart.
+Point-in-Space (PinS) Approach. An approach normally
+developed to heliports that do not meet the IFR heliport
+design standards but meet the standards for a VFR
+heliport. A helicopter PinS approach can be developed
+using conventional NAVAIDs or RNAV systems. These
+procedures have either a VFR or visual segment between the
+MAP and the landing area. The procedure specifies a course
+and distance from the MAP to the heliport(s) and includes a
+note to proceed VFR or visually from the MAP to the heliport,
+or conduct the missed approach.
+Positive Course Guidance (PCG). The continuous display
+of accurate course and flight path data that enables a pilot
+to precisely fly along a specific track or course using RNAV,
+a ground-based NAVAID or a radar vector. For RNAV or a
+ground-based NAVAID, the guidance is displayed in the
+aircraft; for a radar vector, the guidance data is displayed
+in the radar facility
+Precision Runway Monitor (PRM). Provides air traffic
+controllers with high precision secondary surveillance
+data for aircraft on final approach to parallel runways that
+have extended centerlines separated by less than 4,300
+feet. High resolution color monitoring displays (FMA) are
+required to present surveillance track data to controllers
+along with detailed maps depicting approaches and a no
+transgression zone.
+Preferential Departure Route (PDR). A specific departure
+route from an airport or terminal area to an en route point
+where there is no further need for flow control. It may be
+included in an instrument Departure Procedure (DP) or a
+Preferred IFR Route.
+Preferred IFR Routes. A system of preferred IFR routes
+guides you in planning your route of flight to minimize
+route changes during the operational phase of flight, and
+to aid in the efficient orderly management of air traffic
+using federal airways.
+Principal Operations Inspector (POI). Scheduled air carriers
+and operators for compensation or hire are assigned a POI
+who works directly with the company and coordinates FAA
+operating approval.
+Record. See Database Record.
+Reduced Vertical Separation Minimums (RVSM). RVSM
+airspace is where air traffic control separates aircraft by
+a minimum of 1,000 feet vertically between flight level
+(FL) 290 and FL 410 inclusive. RVSM airspace is special
+qualification airspace; the operator and the aircraft used
+by the operator must be approved by the Administrator.
+Air traffic control notifies operators of RVSM by providing
+route planing information.
+Reference Landing Speed (VREF). The speed of the aircraft,
+in a specified landing configuration, at the point where it
+descends through the 50-foot height in the determination
+of the landing distance.
+Remote Communications Outlet (RCO). An unmanned
+communications facility remotely controlled by air traffic
+personnel. RCOs serve FSSs and may be UHF or VHF. RCOs
+extend the communication range of the air traffic facility.
+RCOs were established to provide ground-to-ground
+communications between air traffic control specialists
+and pilots located at a satellite airport for delivering en
+route clearances, issuing departure authorizations, and
+acknowledging IFR cancellations or departure/landing
+times.
+Reporting Point. A geographical location in relation
+to which the position of an aircraft is reported. (See
+Compulsory Reporting Points).
+Required Navigation Performance (RNP). RNP is a statement
+of the navigation performance necessary for operation
+within a defined airspace. On-board monitoring and
+alerting is required.
+RNAV DP. A Departure Procedure developed for RNAV-
+equipped aircraft whose ground track is based on satellite
+or DME/DME navigation systems.
+Roll-Out RVR. The RVR readout values obtained from
+sensors located nearest the rollout end of the runway.
+Runway Heading. The magnetic direction that corresponds
+with the runway centerline extended, not the painted
+runway numbers on the runway. Pilots cleared to “fly or
+maintain runway heading” are expected to fly or maintain
+the published heading that corresponds with the extended
+centerline of the departure runway (until otherwise
+instructed by ATC), and are not to apply drift correction
+(e.g., RWY 4, actual magnetic heading of the runway
+centerline 044.22°, fly 044°).
+
+Runway Hotspots. Locations on a particular airport that
+historically have hazardous intersections. Hot spots alert
+pilots to the fact that there may be a lack of visibility at
+certain points or the tower may be unable to see that
+particular intersection. Whatever the reason, pilots need
+to be aware that these hazardous intersections exist and
+they should be increasingly vigilant when approaching
+and taxiing through these intersections. Pilots are typically
+notified of these areas by a Letter to Airmen or by accessing
+the FAA Office of Runway Safety.
+Runway Incursion. An occurrence at an airport involving
+an aircraft, vehicle, person, or object on the ground that
+creates a collision hazard or results in a loss of separation
+with an aircraft that is taking off, intending to take off,
+landing, or intending to land.
+Runway Safety Program (RSP). Designed to create and
+execute a plan of action that reduces the number of runway
+incursions at the nation’s airports.
+Runway Visual Range (RVR). An estimate of the maximum
+distance at which the runway, or the specified lights or
+markers delineating it, can be seen from a position above
+a specific point on the runway centerline. RVR is normally
+determined by visibility sensors or transmissometers
+located alongside and higher than the centerline of the
+runway. RVR is reported in hundreds of feet.
+Runway Visibility Value (RVV). The visibility determined
+for a particular runway by a transmissometer. A meter
+provides a continuous indication of the visibility (reported
+in miles or fractions of miles) for the runway. RVV is used
+in lieu of prevailing visibility in determining minimums for
+a particular runway.
+Significant Point. [ICAO Annex 11] A specified geographical
+location used in defining an ATS route or the flightpath
+of an aircraft and for other navigation and ATS purposes.
+Special Instrument Approach Procedure. A procedure
+approved by the FAA for individual operators, but not
+published in 14 CFR Part 97 for public use.
+Special Use Airspace Management System (SAMS). A
+joint FAA and military program designed to improve civilian
+access to special use airspace by providing information on
+whether the airspace is active or scheduled to be active. The
+information is available to authorized users via an Internet
+website.
+Standard Instrument Departure (SID). An ATC requested
+and developed departure route designed to increase capacity
+of terminal airspace, effectively control the flow of traffic
+with minimal communication, and reduce environmental
+impact through noise abatement procedures.
+Standard Service Volume. Most air navigation radio aids
+that provide positive course guidance have a designated
+standard service volume (SSV). The SSV defines the
+reception limits of unrestricted NAVAIDS that are usable for
+random/unpublished route navigation. Standard service
+volume limitations do not apply to published IFR routes or
+procedures. See the AIM (Chapter 1) for the SSV for specific
+NAVAID types.
+Standard Terminal Arrival (STAR). Provides a common
+method for departing the en route structure and navigating
+to your destination. A STAR is a preplanned instrument
+flight rule ATC arrival procedure published for pilot use
+in graphic and textual form to simplify clearance delivery
+procedures. STARs provide you with a transition from
+the en route structure to an outer fix or an instrument
+approach fix or arrival waypoint in the terminal area. STARs
+usually terminate with an instrument or visual approach
+procedure, but may also terminate with a heading or course
+to fly for radar vectors.
+Standard Terminal Arrival (STAR) Charts. Designed to
+expedite air traffic control arrival procedures and to
+facilitate transition between en route and instrument
+approach operations. Each STAR procedure is presented
+as a separate chart and may serve a single airport or more
+than one airport in a given geographical location
+Standardized Taxi Routes. Coded taxi routes that follow
+typical taxiway traffic patterns to move aircraft between
+gates and runways. ATC issues clearances using these
+coded routes to reduce radio communication and eliminate
+taxi instruction misinterpretation.
+STAR Transition. A published segment used to connect
+one or more en route airways, jet routes, or RNAV routes
+to the basic STAR procedure. It is one of several routes that
+bring traffic from different directions into one STAR. STARs
+are published for airports with procedures authorized by
+the FAA, and these STARs are included at the front of each
+Terminal Procedures Publication regional booklet.
+Start End of Runway (SER). The beginning of the takeoff
+runway available.
+
+Station Declination. The angular difference between true
+north and the zero radial of a VOR at the time the VOR was
+last site-checked.
+Surface Incident. An event during which authorized or
+unauthorized/unapproved movement occurs in the
+movement area or an occurrence in the movement area
+associated with the operation of an aircraft that affects or
+could affect the safety of flight.
+Surface Movement Guidance Control System (SMGCS).
+Facilitates the safe movement of aircraft and vehicles
+at airports where scheduled air carriers are conducting
+authorized operations. The SMGCS low visibility taxi plan
+includes the improvement of taxiway and runway signs,
+markings, and lighting, as well as the creation of SMGCS
+low visibility taxi route charts.
+Synthetic Vision Guidance System (SVGS). SVGS is a
+combination of flight guidance display technology and
+high precision position assurance monitors. The SVGS flight
+instrument display provides a continuous, geo-spatially
+correct depiction of the external scene topography,
+including obstacles, augmented by the display of the
+runway of intended landing. The SVGS display may be
+implemented on a head down Primary Flight Display, and/
+or a Head-Up Display (HUD). SVGS includes additional
+symbology elements, integrity and performance monitors
+and annunciations that support and enable low visibility
+operations. Additional flight instrument symbology and
+monitors to assure accurate rendering of the external
+scene are included.
+Synthetic Vision System (SVS). An electronic means to
+display a synthetic vision image of the external scene
+topography to the flight crew.
+System Wide Information Management (SWIM).
+An advanced technology program designed to facilitate
+greater sharing of Air Traffic Management (ATM) system
+information, such as airport operational status, weather
+information, flight data, status of special use airspace,
+and National Airspace System (NAS) restrictions. SWIM
+supports current and future NAS programs by providing
+flexible and secure information management architecture for
+sharing NAS information.
+Takeoff Distance Available (TODA). ICAO defines TODA as
+the length of the takeoff runway available plus the length
+of the clearway, if provided.
+Takeoff Runway Available (TORA). ICAO defines TORA as
+the length of runway declared available and suitable for
+the ground run of an aeroplane takeoff.
+Tangent Point (TP). The point on the VOR/DME RNAV route
+centerline from which a line perpendicular to the route
+centerline would pass through the reference facility.
+Terminal Arrival Area (TAA). TAAs are the method by which
+aircraft are transitioned from the RNAV en route structure
+to the terminal area with minimal ATC interaction. The TAA
+consists of a designated volume of airspace designed to
+allow aircraft to enter a protected area, offering guaranteed
+obstacle clearance where the initial approach course is
+intercepted based on the location of the aircraft relative
+to the airport.
+Threshold. The beginning of the part of the runway usable
+for landing.
+Top Of Climb (TOC). An identifiable waypoint representing
+the point at which cruise altitude is first reached. TOC is
+calculated based on your current aircraft altitude, climb
+speed, and cruise altitude. There can only be one TOC
+waypoint at a time.
+Top Of Descent (TOD). Generally utilized in flight
+management systems, top of descent is an identifiable
+waypoint representing the point at which descent is first
+initiated from cruise altitude. TOD is generally calculated
+using the destination elevation (if available) and the
+descent speed schedule.
+Touchdown and Lift-Off Area (TLOF). The TLOF is a load
+bearing, usually paved, area at a heliport where the
+helicopter is permitted to land. The TLOF can be located
+at ground or rooftop level, or on an elevated structure. The
+TLOF is normally centered in the FATO.
+Touchdown RVR. The RVR visibility readout values
+obtained from sensors serving the runway touchdown zone.
+Touchdown Zone Elevation (TDZE). The highest elevation
+in the first 3,000 feet of the landing surface.
+Tower En Route Control (TEC). The control of IFR en route
+traffic within delegated airspace between two or more
+adjacent approach control facilities. This service is designed
+to expedite air traffic and reduces air traffic control and
+pilot communication requirements.
+TRACAB. A new type of air traffic facility that consists of
+a radar approach control facility located in the tower cab of
+the primary airport, as opposed to a separate room.
+Traffic Information Service-Broadcast (TIS-B). An air
+traffic surveillance system that combines all available traffic
+information on a single display.
+
+Traffic Management Advisor (TMA). A software suite that
+helps air traffic controllers to sequence arriving air traffic.
+Transition Altitude (QNH). The altitude in the vicinity of an
+airport at or below which the vertical position of an aircraft
+is controlled by reference to altitudes (MSL).
+Transition Height (QFE). Transition height is the height in
+the vicinity of an airport at or below which the vertical
+position of an aircraft is expressed in height above the
+airport reference datum.
+Transition Layer. Transition layer is the airspace between
+the transition altitude and the transition level. Aircraft
+descending through the transition layer will set altimeters
+to local station pressure, while departing aircraft climbing
+through the transition layer will be using standard altimeter
+setting (QNE) of 29.92 inches of Mercury, 1013.2 millibars,
+or 1013.2 hectopascals.
+Transition Level (QNE). The lowest flight level available for
+use above the transition altitude.
+Turn Anticipation. The capability of RNAV systems to
+determine the point along a course, prior to a turn WP,
+where a turn should be initiated to provide a smooth path
+to intercept the succeeding course and to enunciate the
+information to the pilot.
+Turn WP (Turning Point). A WP that identifies a change from
+one course to another.
+Universal Communications (UNICOM). An air-ground
+communication facility operated by a private agency to
+provide advisory service at uncontrolled aerodromes and
+airports.
+User-Defined Waypoint. User-defined waypoints typically
+are created by pilots for use in their own random RNAV
+direct navigation. They are newly established, unpublished
+airspace fixes that are designated geographic locations/
+positions that help provide positive course guidance for
+navigation and a means of checking progress on a flight.
+They may or may not be actually plotted by the pilot on
+en route charts, but would normally be communicated to
+ATC in terms of bearing and distance or latitude/longitude.
+An example of user-defined waypoints typically includes
+those derived from database-driven area navigation (RNAV)
+systems whereby latitude/longitude coordinate-based
+waypoints are generated by various means including
+keyboard input, and even electronic map mode functions
+used to establish waypoints with a cursor on the display.
+Another example is an offset phantom waypoint, which
+is a point in space formed by a bearing and distance from
+NAVAIDs, such as VORs, VORTACs, and TACANs, using a
+variety of navigation systems.
+User Request Evaluation Tool (URET). The URET helps
+provide enhanced, automated flight data management.
+URET is an automated tool provided at each radar position
+in selected en route facilities. It uses flight and radar data
+to determine present and future trajectories for all active
+and proposed aircraft flights. A graphic plan display
+depicts aircraft, traffic, and notification of predicted
+conflicts. Graphic routes for current plans and trial plans
+are displayed upon controller request. URET can generate
+a predicted conflict of two aircraft, or between aircraft
+and airspace.
+Vertical Navigation (VNAV). Traditionally, the only way
+to get glidepath information during an approach was to
+use a ground-based NAVAID, but modern area navigation
+systems allow flight crews to display an internally
+generated descent path that allows a constant rate descent
+to minimums during approaches that would otherwise
+include multiple level-offs.
+Vertical Navigation Planning. Included within certain STARs
+is information provided to help you reduce the amount of
+low altitude flying time for high performance aircraft, like
+jets and turboprops. An expected altitude is given for a key
+fix along the route. By knowing an intermediate altitude in
+advance when flying a high performance aircraft, you can
+plan the power or thrust settings and aircraft configurations
+that result in the most efficient descent, in terms of time,
+fuel requirements, and engine wear.
+Visual Approach. A visual approach is an ATC authorization
+for an aircraft on an IFR flight plan to proceed visually to
+the airport of intended landing; it is not an IAP. Also, there
+is no missed approach segment. When it is operationally
+beneficial, ATC may authorize pilots to conduct a visual
+approach to the airport in lieu of the published IAP. A visual
+approach can be initiated by a pilot or the controller.
+Visual Climb Over the Airport (VCOA). An option to allow
+an aircraft to climb over the airport with visual reference
+to obstacles to attain a suitable altitude from which to
+proceed with an IFR departure.
+Waypoints. Area navigation waypoints are specified
+geographical locations, or fixes, used to define an area
+navigation route or the flightpath of an aircraft employing
+area navigation. Waypoints may be any of the following
+types: predefined, published, floating, user-defined, fly-by,
+or fly-over.
+
+Waypoint (WP). A predetermined geographical position
+used for route/instrument approach definition, progress
+reports, published VFR routes, visual reporting points or
+points for transitioning and/or circumnavigating controlled
+and/or special use airspace, that is defined relative
+to a VORTAC station or in terms of latitude/longitude
+coordinates.
+Wide Area Augmentation System (WAAS). A method of
+navigation based on GPS. Ground correction stations transmit
+position corrections that enhance system accuracy and add
+vertical navigation (VNAV) features.

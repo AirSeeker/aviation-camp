@@ -1,0 +1,2841 @@
+{
+  "bookName": "InstrumentProcedures",
+  "sourcePdf": "resources/library/InstrumentProcedures/Instrument Procedures Handbook FAA-H-8083-16B.pdf",
+  "chapters": [
+    {
+      "chapter": "ch01",
+      "startPage": 17,
+      "endPage": 60,
+      "images": [
+        {
+          "page": 17,
+          "file": "img_p17_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p17_1.png",
+          "figureRef": "Figure 17-1",
+          "index": 1
+        },
+        {
+          "page": 20,
+          "file": "img_p20_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p20_2.png",
+          "figureRef": "Figure 20-2",
+          "index": 2
+        },
+        {
+          "page": 23,
+          "file": "img_p23_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p23_3.png",
+          "figureRef": "Figure 23-3",
+          "index": 3
+        },
+        {
+          "page": 23,
+          "file": "img_p23_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p23_4.png",
+          "figureRef": "Figure 23-4",
+          "index": 4
+        },
+        {
+          "page": 25,
+          "file": "img_p25_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p25_5.png",
+          "figureRef": "Figure 25-5",
+          "index": 5
+        },
+        {
+          "page": 26,
+          "file": "img_p26_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p26_6.png",
+          "figureRef": "Figure 26-6",
+          "index": 6
+        },
+        {
+          "page": 26,
+          "file": "img_p26_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p26_7.png",
+          "figureRef": "Figure 26-7",
+          "index": 7
+        },
+        {
+          "page": 26,
+          "file": "img_p26_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p26_8.png",
+          "figureRef": "Figure 26-8",
+          "index": 8
+        },
+        {
+          "page": 27,
+          "file": "img_p27_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p27_9.png",
+          "figureRef": "Figure 27-9",
+          "index": 9
+        },
+        {
+          "page": 28,
+          "file": "img_p28_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p28_10.png",
+          "figureRef": "Figure 28-10",
+          "index": 10
+        },
+        {
+          "page": 29,
+          "file": "img_p29_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p29_12.png",
+          "figureRef": "Figure 29-12",
+          "index": 12
+        },
+        {
+          "page": 29,
+          "file": "img_p29_13.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p29_13.png",
+          "figureRef": "Figure 29-13",
+          "index": 13
+        },
+        {
+          "page": 29,
+          "file": "img_p29_14.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p29_14.png",
+          "figureRef": "Figure 29-14",
+          "index": 14
+        },
+        {
+          "page": 34,
+          "file": "img_p34_15.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p34_15.png",
+          "figureRef": "Figure 34-15",
+          "index": 15
+        },
+        {
+          "page": 35,
+          "file": "img_p35_17.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p35_17.png",
+          "figureRef": "Figure 35-17",
+          "index": 17
+        },
+        {
+          "page": 35,
+          "file": "img_p35_18.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p35_18.png",
+          "figureRef": "Figure 35-18",
+          "index": 18
+        },
+        {
+          "page": 38,
+          "file": "img_p38_19.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p38_19.png",
+          "figureRef": "Figure 38-19",
+          "index": 19
+        },
+        {
+          "page": 40,
+          "file": "img_p40_20.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p40_20.png",
+          "figureRef": "Figure 40-20",
+          "index": 20
+        },
+        {
+          "page": 40,
+          "file": "img_p40_21.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p40_21.png",
+          "figureRef": "Figure 40-21",
+          "index": 21
+        },
+        {
+          "page": 41,
+          "file": "img_p41_22.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p41_22.png",
+          "figureRef": "Figure 41-22",
+          "index": 22
+        },
+        {
+          "page": 43,
+          "file": "img_p43_23.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p43_23.png",
+          "figureRef": "Figure 43-23",
+          "index": 23
+        },
+        {
+          "page": 44,
+          "file": "img_p44_24.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p44_24.png",
+          "figureRef": "Figure 44-24",
+          "index": 24
+        },
+        {
+          "page": 44,
+          "file": "img_p44_25.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p44_25.png",
+          "figureRef": "Figure 44-25",
+          "index": 25
+        },
+        {
+          "page": 45,
+          "file": "img_p45_26.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p45_26.png",
+          "figureRef": "Figure 45-26",
+          "index": 26
+        },
+        {
+          "page": 50,
+          "file": "img_p50_27.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p50_27.png",
+          "figureRef": "Figure 50-27",
+          "index": 27
+        },
+        {
+          "page": 51,
+          "file": "img_p51_28.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p51_28.png",
+          "figureRef": "Figure 51-28",
+          "index": 28
+        },
+        {
+          "page": 52,
+          "file": "img_p52_29.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p52_29.png",
+          "figureRef": "Figure 52-29",
+          "index": 29
+        },
+        {
+          "page": 52,
+          "file": "img_p52_30.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p52_30.png",
+          "figureRef": "Figure 52-30",
+          "index": 30
+        },
+        {
+          "page": 52,
+          "file": "img_p52_31.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p52_31.png",
+          "figureRef": "Figure 52-31",
+          "index": 31
+        },
+        {
+          "page": 52,
+          "file": "img_p52_32.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p52_32.png",
+          "figureRef": "Figure 52-32",
+          "index": 32
+        },
+        {
+          "page": 52,
+          "file": "img_p52_33.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p52_33.png",
+          "figureRef": "Figure 52-33",
+          "index": 33
+        },
+        {
+          "page": 52,
+          "file": "img_p52_34.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p52_34.png",
+          "figureRef": "Figure 52-34",
+          "index": 34
+        },
+        {
+          "page": 53,
+          "file": "img_p53_35.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p53_35.png",
+          "figureRef": "Figure 53-35",
+          "index": 35
+        },
+        {
+          "page": 53,
+          "file": "img_p53_36.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p53_36.png",
+          "figureRef": "Figure 53-36",
+          "index": 36
+        },
+        {
+          "page": 54,
+          "file": "img_p54_37.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p54_37.png",
+          "figureRef": "Figure 54-37",
+          "index": 37
+        },
+        {
+          "page": 55,
+          "file": "img_p55_38.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p55_38.png",
+          "figureRef": "Figure 55-38",
+          "index": 38
+        },
+        {
+          "page": 55,
+          "file": "img_p55_39.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p55_39.png",
+          "figureRef": "Figure 55-39",
+          "index": 39
+        },
+        {
+          "page": 56,
+          "file": "img_p56_41.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p56_41.png",
+          "figureRef": "Figure 56-41",
+          "index": 41
+        },
+        {
+          "page": 56,
+          "file": "img_p56_42.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p56_42.png",
+          "figureRef": "Figure 56-42",
+          "index": 42
+        },
+        {
+          "page": 57,
+          "file": "img_p57_43.png",
+          "relativePath": "/images/InstrumentProcedures/ch01/img_p57_43.png",
+          "figureRef": "Figure 57-43",
+          "index": 43
+        }
+      ]
+    },
+    {
+      "chapter": "ch02",
+      "startPage": 61,
+      "endPage": 112,
+      "images": [
+        {
+          "page": 61,
+          "file": "img_p61_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p61_1.png",
+          "figureRef": "Figure 61-1",
+          "index": 1
+        },
+        {
+          "page": 62,
+          "file": "img_p62_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p62_2.png",
+          "figureRef": "Figure 62-2",
+          "index": 2
+        },
+        {
+          "page": 62,
+          "file": "img_p62_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p62_3.png",
+          "figureRef": "Figure 62-3",
+          "index": 3
+        },
+        {
+          "page": 63,
+          "file": "img_p63_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p63_4.png",
+          "figureRef": "Figure 63-4",
+          "index": 4
+        },
+        {
+          "page": 63,
+          "file": "img_p63_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p63_5.png",
+          "figureRef": "Figure 63-5",
+          "index": 5
+        },
+        {
+          "page": 63,
+          "file": "img_p63_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p63_6.png",
+          "figureRef": "Figure 63-6",
+          "index": 6
+        },
+        {
+          "page": 64,
+          "file": "img_p64_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p64_7.png",
+          "figureRef": "Figure 64-7",
+          "index": 7
+        },
+        {
+          "page": 64,
+          "file": "img_p64_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p64_8.png",
+          "figureRef": "Figure 64-8",
+          "index": 8
+        },
+        {
+          "page": 65,
+          "file": "img_p65_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p65_9.png",
+          "figureRef": "Figure 65-9",
+          "index": 9
+        },
+        {
+          "page": 65,
+          "file": "img_p65_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p65_10.png",
+          "figureRef": "Figure 65-10",
+          "index": 10
+        },
+        {
+          "page": 65,
+          "file": "img_p65_11.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p65_11.png",
+          "figureRef": "Figure 65-11",
+          "index": 11
+        },
+        {
+          "page": 65,
+          "file": "img_p65_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p65_12.png",
+          "figureRef": "Figure 65-12",
+          "index": 12
+        },
+        {
+          "page": 65,
+          "file": "img_p65_13.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p65_13.png",
+          "figureRef": "Figure 65-13",
+          "index": 13
+        },
+        {
+          "page": 66,
+          "file": "img_p66_14.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p66_14.png",
+          "figureRef": "Figure 66-14",
+          "index": 14
+        },
+        {
+          "page": 66,
+          "file": "img_p66_15.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p66_15.png",
+          "figureRef": "Figure 66-15",
+          "index": 15
+        },
+        {
+          "page": 66,
+          "file": "img_p66_16.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p66_16.png",
+          "figureRef": "Figure 66-16",
+          "index": 16
+        },
+        {
+          "page": 68,
+          "file": "img_p68_17.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p68_17.png",
+          "figureRef": "Figure 68-17",
+          "index": 17
+        },
+        {
+          "page": 68,
+          "file": "img_p68_18.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p68_18.png",
+          "figureRef": "Figure 68-18",
+          "index": 18
+        },
+        {
+          "page": 71,
+          "file": "img_p71_19.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p71_19.png",
+          "figureRef": "Figure 71-19",
+          "index": 19
+        },
+        {
+          "page": 72,
+          "file": "img_p72_20.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p72_20.png",
+          "figureRef": "Figure 72-20",
+          "index": 20
+        },
+        {
+          "page": 72,
+          "file": "img_p72_21.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p72_21.png",
+          "figureRef": "Figure 72-21",
+          "index": 21
+        },
+        {
+          "page": 73,
+          "file": "img_p73_22.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p73_22.png",
+          "figureRef": "Figure 73-22",
+          "index": 22
+        },
+        {
+          "page": 73,
+          "file": "img_p73_23.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p73_23.png",
+          "figureRef": "Figure 73-23",
+          "index": 23
+        },
+        {
+          "page": 74,
+          "file": "img_p74_24.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p74_24.png",
+          "figureRef": "Figure 74-24",
+          "index": 24
+        },
+        {
+          "page": 75,
+          "file": "img_p75_25.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p75_25.png",
+          "figureRef": "Figure 75-25",
+          "index": 25
+        },
+        {
+          "page": 75,
+          "file": "img_p75_26.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p75_26.png",
+          "figureRef": "Figure 75-26",
+          "index": 26
+        },
+        {
+          "page": 75,
+          "file": "img_p75_27.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p75_27.png",
+          "figureRef": "Figure 75-27",
+          "index": 27
+        },
+        {
+          "page": 75,
+          "file": "img_p75_28.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p75_28.png",
+          "figureRef": "Figure 75-28",
+          "index": 28
+        },
+        {
+          "page": 76,
+          "file": "img_p76_29.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p76_29.png",
+          "figureRef": "Figure 76-29",
+          "index": 29
+        },
+        {
+          "page": 76,
+          "file": "img_p76_30.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p76_30.png",
+          "figureRef": "Figure 76-30",
+          "index": 30
+        },
+        {
+          "page": 77,
+          "file": "img_p77_31.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p77_31.png",
+          "figureRef": "Figure 77-31",
+          "index": 31
+        },
+        {
+          "page": 77,
+          "file": "img_p77_32.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p77_32.png",
+          "figureRef": "Figure 77-32",
+          "index": 32
+        },
+        {
+          "page": 77,
+          "file": "img_p77_33.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p77_33.png",
+          "figureRef": "Figure 77-33",
+          "index": 33
+        },
+        {
+          "page": 79,
+          "file": "img_p79_34.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p79_34.png",
+          "figureRef": "Figure 79-34",
+          "index": 34
+        },
+        {
+          "page": 80,
+          "file": "img_p80_35.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p80_35.png",
+          "figureRef": "Figure 80-35",
+          "index": 35
+        },
+        {
+          "page": 81,
+          "file": "img_p81_36.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p81_36.png",
+          "figureRef": "Figure 81-36",
+          "index": 36
+        },
+        {
+          "page": 81,
+          "file": "img_p81_37.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p81_37.png",
+          "figureRef": "Figure 81-37",
+          "index": 37
+        },
+        {
+          "page": 82,
+          "file": "img_p82_38.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p82_38.png",
+          "figureRef": "Figure 82-38",
+          "index": 38
+        },
+        {
+          "page": 82,
+          "file": "img_p82_39.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p82_39.png",
+          "figureRef": "Figure 82-39",
+          "index": 39
+        },
+        {
+          "page": 82,
+          "file": "img_p82_40.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p82_40.png",
+          "figureRef": "Figure 82-40",
+          "index": 40
+        },
+        {
+          "page": 84,
+          "file": "img_p84_41.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p84_41.png",
+          "figureRef": "Figure 84-41",
+          "index": 41
+        },
+        {
+          "page": 84,
+          "file": "img_p84_42.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p84_42.png",
+          "figureRef": "Figure 84-42",
+          "index": 42
+        },
+        {
+          "page": 87,
+          "file": "img_p87_43.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p87_43.png",
+          "figureRef": "Figure 87-43",
+          "index": 43
+        },
+        {
+          "page": 87,
+          "file": "img_p87_44.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p87_44.png",
+          "figureRef": "Figure 87-44",
+          "index": 44
+        },
+        {
+          "page": 88,
+          "file": "img_p88_45.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p88_45.png",
+          "figureRef": "Figure 88-45",
+          "index": 45
+        },
+        {
+          "page": 90,
+          "file": "img_p90_46.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p90_46.png",
+          "figureRef": "Figure 90-46",
+          "index": 46
+        },
+        {
+          "page": 90,
+          "file": "img_p90_47.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p90_47.png",
+          "figureRef": "Figure 90-47",
+          "index": 47
+        },
+        {
+          "page": 90,
+          "file": "img_p90_48.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p90_48.png",
+          "figureRef": "Figure 90-48",
+          "index": 48
+        },
+        {
+          "page": 91,
+          "file": "img_p91_49.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p91_49.png",
+          "figureRef": "Figure 91-49",
+          "index": 49
+        },
+        {
+          "page": 93,
+          "file": "img_p93_50.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p93_50.png",
+          "figureRef": "Figure 93-50",
+          "index": 50
+        },
+        {
+          "page": 93,
+          "file": "img_p93_51.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p93_51.png",
+          "figureRef": "Figure 93-51",
+          "index": 51
+        },
+        {
+          "page": 93,
+          "file": "img_p93_52.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p93_52.png",
+          "figureRef": "Figure 93-52",
+          "index": 52
+        },
+        {
+          "page": 93,
+          "file": "img_p93_53.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p93_53.png",
+          "figureRef": "Figure 93-53",
+          "index": 53
+        },
+        {
+          "page": 93,
+          "file": "img_p93_54.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p93_54.png",
+          "figureRef": "Figure 93-54",
+          "index": 54
+        },
+        {
+          "page": 93,
+          "file": "img_p93_55.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p93_55.png",
+          "figureRef": "Figure 93-55",
+          "index": 55
+        },
+        {
+          "page": 94,
+          "file": "img_p94_56.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p94_56.png",
+          "figureRef": "Figure 94-56",
+          "index": 56
+        },
+        {
+          "page": 94,
+          "file": "img_p94_57.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p94_57.png",
+          "figureRef": "Figure 94-57",
+          "index": 57
+        },
+        {
+          "page": 96,
+          "file": "img_p96_58.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p96_58.png",
+          "figureRef": "Figure 96-58",
+          "index": 58
+        },
+        {
+          "page": 96,
+          "file": "img_p96_59.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p96_59.png",
+          "figureRef": "Figure 96-59",
+          "index": 59
+        },
+        {
+          "page": 97,
+          "file": "img_p97_60.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p97_60.png",
+          "figureRef": "Figure 97-60",
+          "index": 60
+        },
+        {
+          "page": 97,
+          "file": "img_p97_61.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p97_61.png",
+          "figureRef": "Figure 97-61",
+          "index": 61
+        },
+        {
+          "page": 97,
+          "file": "img_p97_62.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p97_62.png",
+          "figureRef": "Figure 97-62",
+          "index": 62
+        },
+        {
+          "page": 98,
+          "file": "img_p98_63.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p98_63.png",
+          "figureRef": "Figure 98-63",
+          "index": 63
+        },
+        {
+          "page": 99,
+          "file": "img_p99_64.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p99_64.png",
+          "figureRef": "Figure 99-64",
+          "index": 64
+        },
+        {
+          "page": 100,
+          "file": "img_p100_65.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p100_65.png",
+          "figureRef": "Figure 100-65",
+          "index": 65
+        },
+        {
+          "page": 100,
+          "file": "img_p100_66.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p100_66.png",
+          "figureRef": "Figure 100-66",
+          "index": 66
+        },
+        {
+          "page": 100,
+          "file": "img_p100_67.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p100_67.png",
+          "figureRef": "Figure 100-67",
+          "index": 67
+        },
+        {
+          "page": 101,
+          "file": "img_p101_68.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p101_68.png",
+          "figureRef": "Figure 101-68",
+          "index": 68
+        },
+        {
+          "page": 102,
+          "file": "img_p102_69.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p102_69.png",
+          "figureRef": "Figure 102-69",
+          "index": 69
+        },
+        {
+          "page": 102,
+          "file": "img_p102_70.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p102_70.png",
+          "figureRef": "Figure 102-70",
+          "index": 70
+        },
+        {
+          "page": 102,
+          "file": "img_p102_71.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p102_71.png",
+          "figureRef": "Figure 102-71",
+          "index": 71
+        },
+        {
+          "page": 102,
+          "file": "img_p102_72.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p102_72.png",
+          "figureRef": "Figure 102-72",
+          "index": 72
+        },
+        {
+          "page": 102,
+          "file": "img_p102_73.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p102_73.png",
+          "figureRef": "Figure 102-73",
+          "index": 73
+        },
+        {
+          "page": 102,
+          "file": "img_p102_74.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p102_74.png",
+          "figureRef": "Figure 102-74",
+          "index": 74
+        },
+        {
+          "page": 104,
+          "file": "img_p104_75.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p104_75.png",
+          "figureRef": "Figure 104-75",
+          "index": 75
+        },
+        {
+          "page": 104,
+          "file": "img_p104_76.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p104_76.png",
+          "figureRef": "Figure 104-76",
+          "index": 76
+        },
+        {
+          "page": 104,
+          "file": "img_p104_77.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p104_77.png",
+          "figureRef": "Figure 104-77",
+          "index": 77
+        },
+        {
+          "page": 104,
+          "file": "img_p104_78.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p104_78.png",
+          "figureRef": "Figure 104-78",
+          "index": 78
+        },
+        {
+          "page": 104,
+          "file": "img_p104_79.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p104_79.png",
+          "figureRef": "Figure 104-79",
+          "index": 79
+        },
+        {
+          "page": 107,
+          "file": "img_p107_80.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p107_80.png",
+          "figureRef": "Figure 107-80",
+          "index": 80
+        },
+        {
+          "page": 110,
+          "file": "img_p110_81.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p110_81.png",
+          "figureRef": "Figure 110-81",
+          "index": 81
+        },
+        {
+          "page": 110,
+          "file": "img_p110_82.png",
+          "relativePath": "/images/InstrumentProcedures/ch02/img_p110_82.png",
+          "figureRef": "Figure 110-82",
+          "index": 82
+        }
+      ]
+    },
+    {
+      "chapter": "ch03",
+      "startPage": 113,
+      "endPage": 140,
+      "images": [
+        {
+          "page": 113,
+          "file": "img_p113_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p113_1.png",
+          "figureRef": "Figure 113-1",
+          "index": 1
+        },
+        {
+          "page": 115,
+          "file": "img_p115_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p115_2.png",
+          "figureRef": "Figure 115-2",
+          "index": 2
+        },
+        {
+          "page": 115,
+          "file": "img_p115_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p115_3.png",
+          "figureRef": "Figure 115-3",
+          "index": 3
+        },
+        {
+          "page": 116,
+          "file": "img_p116_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p116_4.png",
+          "figureRef": "Figure 116-4",
+          "index": 4
+        },
+        {
+          "page": 117,
+          "file": "img_p117_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p117_5.png",
+          "figureRef": "Figure 117-5",
+          "index": 5
+        },
+        {
+          "page": 117,
+          "file": "img_p117_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p117_6.png",
+          "figureRef": "Figure 117-6",
+          "index": 6
+        },
+        {
+          "page": 118,
+          "file": "img_p118_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p118_7.png",
+          "figureRef": "Figure 118-7",
+          "index": 7
+        },
+        {
+          "page": 119,
+          "file": "img_p119_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p119_8.png",
+          "figureRef": "Figure 119-8",
+          "index": 8
+        },
+        {
+          "page": 120,
+          "file": "img_p120_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_9.png",
+          "figureRef": "Figure 120-9",
+          "index": 9
+        },
+        {
+          "page": 120,
+          "file": "img_p120_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_10.png",
+          "figureRef": "Figure 120-10",
+          "index": 10
+        },
+        {
+          "page": 120,
+          "file": "img_p120_11.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_11.png",
+          "figureRef": "Figure 120-11",
+          "index": 11
+        },
+        {
+          "page": 120,
+          "file": "img_p120_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_12.png",
+          "figureRef": "Figure 120-12",
+          "index": 12
+        },
+        {
+          "page": 120,
+          "file": "img_p120_13.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_13.png",
+          "figureRef": "Figure 120-13",
+          "index": 13
+        },
+        {
+          "page": 120,
+          "file": "img_p120_14.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_14.png",
+          "figureRef": "Figure 120-14",
+          "index": 14
+        },
+        {
+          "page": 120,
+          "file": "img_p120_15.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_15.png",
+          "figureRef": "Figure 120-15",
+          "index": 15
+        },
+        {
+          "page": 120,
+          "file": "img_p120_16.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p120_16.png",
+          "figureRef": "Figure 120-16",
+          "index": 16
+        },
+        {
+          "page": 122,
+          "file": "img_p122_17.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p122_17.png",
+          "figureRef": "Figure 122-17",
+          "index": 17
+        },
+        {
+          "page": 122,
+          "file": "img_p122_18.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p122_18.png",
+          "figureRef": "Figure 122-18",
+          "index": 18
+        },
+        {
+          "page": 123,
+          "file": "img_p123_19.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p123_19.png",
+          "figureRef": "Figure 123-19",
+          "index": 19
+        },
+        {
+          "page": 125,
+          "file": "img_p125_20.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p125_20.png",
+          "figureRef": "Figure 125-20",
+          "index": 20
+        },
+        {
+          "page": 126,
+          "file": "img_p126_21.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p126_21.png",
+          "figureRef": "Figure 126-21",
+          "index": 21
+        },
+        {
+          "page": 127,
+          "file": "img_p127_22.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p127_22.png",
+          "figureRef": "Figure 127-22",
+          "index": 22
+        },
+        {
+          "page": 129,
+          "file": "img_p129_23.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p129_23.png",
+          "figureRef": "Figure 129-23",
+          "index": 23
+        },
+        {
+          "page": 130,
+          "file": "img_p130_24.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p130_24.png",
+          "figureRef": "Figure 130-24",
+          "index": 24
+        },
+        {
+          "page": 130,
+          "file": "img_p130_25.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p130_25.png",
+          "figureRef": "Figure 130-25",
+          "index": 25
+        },
+        {
+          "page": 131,
+          "file": "img_p131_26.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p131_26.png",
+          "figureRef": "Figure 131-26",
+          "index": 26
+        },
+        {
+          "page": 132,
+          "file": "img_p132_27.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p132_27.png",
+          "figureRef": "Figure 132-27",
+          "index": 27
+        },
+        {
+          "page": 132,
+          "file": "img_p132_28.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p132_28.png",
+          "figureRef": "Figure 132-28",
+          "index": 28
+        },
+        {
+          "page": 132,
+          "file": "img_p132_29.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p132_29.png",
+          "figureRef": "Figure 132-29",
+          "index": 29
+        },
+        {
+          "page": 132,
+          "file": "img_p132_30.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p132_30.png",
+          "figureRef": "Figure 132-30",
+          "index": 30
+        },
+        {
+          "page": 133,
+          "file": "img_p133_31.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p133_31.png",
+          "figureRef": "Figure 133-31",
+          "index": 31
+        },
+        {
+          "page": 133,
+          "file": "img_p133_32.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p133_32.png",
+          "figureRef": "Figure 133-32",
+          "index": 32
+        },
+        {
+          "page": 133,
+          "file": "img_p133_33.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p133_33.png",
+          "figureRef": "Figure 133-33",
+          "index": 33
+        },
+        {
+          "page": 134,
+          "file": "img_p134_34.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p134_34.png",
+          "figureRef": "Figure 134-34",
+          "index": 34
+        },
+        {
+          "page": 134,
+          "file": "img_p134_35.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p134_35.png",
+          "figureRef": "Figure 134-35",
+          "index": 35
+        },
+        {
+          "page": 135,
+          "file": "img_p135_36.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p135_36.png",
+          "figureRef": "Figure 135-36",
+          "index": 36
+        },
+        {
+          "page": 137,
+          "file": "img_p137_37.png",
+          "relativePath": "/images/InstrumentProcedures/ch03/img_p137_37.png",
+          "figureRef": "Figure 137-37",
+          "index": 37
+        }
+      ]
+    },
+    {
+      "chapter": "ch04",
+      "startPage": 141,
+      "endPage": 232,
+      "images": [
+        {
+          "page": 141,
+          "file": "img_p141_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p141_1.png",
+          "figureRef": "Figure 141-1",
+          "index": 1
+        },
+        {
+          "page": 143,
+          "file": "img_p143_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p143_2.png",
+          "figureRef": "Figure 143-2",
+          "index": 2
+        },
+        {
+          "page": 150,
+          "file": "img_p150_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p150_3.png",
+          "figureRef": "Figure 150-3",
+          "index": 3
+        },
+        {
+          "page": 151,
+          "file": "img_p151_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p151_4.png",
+          "figureRef": "Figure 151-4",
+          "index": 4
+        },
+        {
+          "page": 151,
+          "file": "img_p151_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p151_5.png",
+          "figureRef": "Figure 151-5",
+          "index": 5
+        },
+        {
+          "page": 152,
+          "file": "img_p152_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p152_6.png",
+          "figureRef": "Figure 152-6",
+          "index": 6
+        },
+        {
+          "page": 152,
+          "file": "img_p152_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p152_7.png",
+          "figureRef": "Figure 152-7",
+          "index": 7
+        },
+        {
+          "page": 153,
+          "file": "img_p153_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p153_8.png",
+          "figureRef": "Figure 153-8",
+          "index": 8
+        },
+        {
+          "page": 153,
+          "file": "img_p153_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p153_9.png",
+          "figureRef": "Figure 153-9",
+          "index": 9
+        },
+        {
+          "page": 153,
+          "file": "img_p153_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p153_10.png",
+          "figureRef": "Figure 153-10",
+          "index": 10
+        },
+        {
+          "page": 153,
+          "file": "img_p153_11.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p153_11.png",
+          "figureRef": "Figure 153-11",
+          "index": 11
+        },
+        {
+          "page": 154,
+          "file": "img_p154_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p154_12.png",
+          "figureRef": "Figure 154-12",
+          "index": 12
+        },
+        {
+          "page": 156,
+          "file": "img_p156_13.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p156_13.png",
+          "figureRef": "Figure 156-13",
+          "index": 13
+        },
+        {
+          "page": 158,
+          "file": "img_p158_14.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p158_14.png",
+          "figureRef": "Figure 158-14",
+          "index": 14
+        },
+        {
+          "page": 160,
+          "file": "img_p160_15.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p160_15.png",
+          "figureRef": "Figure 160-15",
+          "index": 15
+        },
+        {
+          "page": 161,
+          "file": "img_p161_16.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p161_16.png",
+          "figureRef": "Figure 161-16",
+          "index": 16
+        },
+        {
+          "page": 161,
+          "file": "img_p161_17.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p161_17.png",
+          "figureRef": "Figure 161-17",
+          "index": 17
+        },
+        {
+          "page": 162,
+          "file": "img_p162_18.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p162_18.png",
+          "figureRef": "Figure 162-18",
+          "index": 18
+        },
+        {
+          "page": 163,
+          "file": "img_p163_19.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p163_19.png",
+          "figureRef": "Figure 163-19",
+          "index": 19
+        },
+        {
+          "page": 164,
+          "file": "img_p164_20.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p164_20.png",
+          "figureRef": "Figure 164-20",
+          "index": 20
+        },
+        {
+          "page": 165,
+          "file": "img_p165_21.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p165_21.png",
+          "figureRef": "Figure 165-21",
+          "index": 21
+        },
+        {
+          "page": 165,
+          "file": "img_p165_22.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p165_22.png",
+          "figureRef": "Figure 165-22",
+          "index": 22
+        },
+        {
+          "page": 167,
+          "file": "img_p167_23.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p167_23.png",
+          "figureRef": "Figure 167-23",
+          "index": 23
+        },
+        {
+          "page": 168,
+          "file": "img_p168_24.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p168_24.png",
+          "figureRef": "Figure 168-24",
+          "index": 24
+        },
+        {
+          "page": 169,
+          "file": "img_p169_25.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p169_25.png",
+          "figureRef": "Figure 169-25",
+          "index": 25
+        },
+        {
+          "page": 171,
+          "file": "img_p171_26.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p171_26.png",
+          "figureRef": "Figure 171-26",
+          "index": 26
+        },
+        {
+          "page": 171,
+          "file": "img_p171_27.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p171_27.png",
+          "figureRef": "Figure 171-27",
+          "index": 27
+        },
+        {
+          "page": 172,
+          "file": "img_p172_28.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p172_28.png",
+          "figureRef": "Figure 172-28",
+          "index": 28
+        },
+        {
+          "page": 172,
+          "file": "img_p172_29.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p172_29.png",
+          "figureRef": "Figure 172-29",
+          "index": 29
+        },
+        {
+          "page": 172,
+          "file": "img_p172_30.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p172_30.png",
+          "figureRef": "Figure 172-30",
+          "index": 30
+        },
+        {
+          "page": 174,
+          "file": "img_p174_31.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p174_31.png",
+          "figureRef": "Figure 174-31",
+          "index": 31
+        },
+        {
+          "page": 178,
+          "file": "img_p178_32.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p178_32.png",
+          "figureRef": "Figure 178-32",
+          "index": 32
+        },
+        {
+          "page": 180,
+          "file": "img_p180_33.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p180_33.png",
+          "figureRef": "Figure 180-33",
+          "index": 33
+        },
+        {
+          "page": 184,
+          "file": "img_p184_34.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p184_34.png",
+          "figureRef": "Figure 184-34",
+          "index": 34
+        },
+        {
+          "page": 185,
+          "file": "img_p185_35.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p185_35.png",
+          "figureRef": "Figure 185-35",
+          "index": 35
+        },
+        {
+          "page": 186,
+          "file": "img_p186_36.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p186_36.png",
+          "figureRef": "Figure 186-36",
+          "index": 36
+        },
+        {
+          "page": 186,
+          "file": "img_p186_37.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p186_37.png",
+          "figureRef": "Figure 186-37",
+          "index": 37
+        },
+        {
+          "page": 186,
+          "file": "img_p186_38.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p186_38.png",
+          "figureRef": "Figure 186-38",
+          "index": 38
+        },
+        {
+          "page": 187,
+          "file": "img_p187_39.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p187_39.png",
+          "figureRef": "Figure 187-39",
+          "index": 39
+        },
+        {
+          "page": 188,
+          "file": "img_p188_40.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p188_40.png",
+          "figureRef": "Figure 188-40",
+          "index": 40
+        },
+        {
+          "page": 190,
+          "file": "img_p190_41.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p190_41.png",
+          "figureRef": "Figure 190-41",
+          "index": 41
+        },
+        {
+          "page": 191,
+          "file": "img_p191_42.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p191_42.png",
+          "figureRef": "Figure 191-42",
+          "index": 42
+        },
+        {
+          "page": 192,
+          "file": "img_p192_43.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p192_43.png",
+          "figureRef": "Figure 192-43",
+          "index": 43
+        },
+        {
+          "page": 193,
+          "file": "img_p193_44.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p193_44.png",
+          "figureRef": "Figure 193-44",
+          "index": 44
+        },
+        {
+          "page": 195,
+          "file": "img_p195_45.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p195_45.png",
+          "figureRef": "Figure 195-45",
+          "index": 45
+        },
+        {
+          "page": 195,
+          "file": "img_p195_46.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p195_46.png",
+          "figureRef": "Figure 195-46",
+          "index": 46
+        },
+        {
+          "page": 196,
+          "file": "img_p196_47.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p196_47.png",
+          "figureRef": "Figure 196-47",
+          "index": 47
+        },
+        {
+          "page": 197,
+          "file": "img_p197_48.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p197_48.png",
+          "figureRef": "Figure 197-48",
+          "index": 48
+        },
+        {
+          "page": 199,
+          "file": "img_p199_49.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p199_49.png",
+          "figureRef": "Figure 199-49",
+          "index": 49
+        },
+        {
+          "page": 201,
+          "file": "img_p201_50.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p201_50.png",
+          "figureRef": "Figure 201-50",
+          "index": 50
+        },
+        {
+          "page": 202,
+          "file": "img_p202_51.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p202_51.png",
+          "figureRef": "Figure 202-51",
+          "index": 51
+        },
+        {
+          "page": 207,
+          "file": "img_p207_52.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p207_52.png",
+          "figureRef": "Figure 207-52",
+          "index": 52
+        },
+        {
+          "page": 208,
+          "file": "img_p208_53.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p208_53.png",
+          "figureRef": "Figure 208-53",
+          "index": 53
+        },
+        {
+          "page": 210,
+          "file": "img_p210_54.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p210_54.png",
+          "figureRef": "Figure 210-54",
+          "index": 54
+        },
+        {
+          "page": 211,
+          "file": "img_p211_55.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p211_55.png",
+          "figureRef": "Figure 211-55",
+          "index": 55
+        },
+        {
+          "page": 213,
+          "file": "img_p213_56.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p213_56.png",
+          "figureRef": "Figure 213-56",
+          "index": 56
+        },
+        {
+          "page": 214,
+          "file": "img_p214_57.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p214_57.png",
+          "figureRef": "Figure 214-57",
+          "index": 57
+        },
+        {
+          "page": 214,
+          "file": "img_p214_58.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p214_58.png",
+          "figureRef": "Figure 214-58",
+          "index": 58
+        },
+        {
+          "page": 214,
+          "file": "img_p214_59.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p214_59.png",
+          "figureRef": "Figure 214-59",
+          "index": 59
+        },
+        {
+          "page": 214,
+          "file": "img_p214_60.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p214_60.png",
+          "figureRef": "Figure 214-60",
+          "index": 60
+        },
+        {
+          "page": 215,
+          "file": "img_p215_61.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p215_61.png",
+          "figureRef": "Figure 215-61",
+          "index": 61
+        },
+        {
+          "page": 215,
+          "file": "img_p215_62.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p215_62.png",
+          "figureRef": "Figure 215-62",
+          "index": 62
+        },
+        {
+          "page": 215,
+          "file": "img_p215_63.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p215_63.png",
+          "figureRef": "Figure 215-63",
+          "index": 63
+        },
+        {
+          "page": 215,
+          "file": "img_p215_64.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p215_64.png",
+          "figureRef": "Figure 215-64",
+          "index": 64
+        },
+        {
+          "page": 215,
+          "file": "img_p215_65.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p215_65.png",
+          "figureRef": "Figure 215-65",
+          "index": 65
+        },
+        {
+          "page": 216,
+          "file": "img_p216_66.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p216_66.png",
+          "figureRef": "Figure 216-66",
+          "index": 66
+        },
+        {
+          "page": 216,
+          "file": "img_p216_67.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p216_67.png",
+          "figureRef": "Figure 216-67",
+          "index": 67
+        },
+        {
+          "page": 216,
+          "file": "img_p216_68.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p216_68.png",
+          "figureRef": "Figure 216-68",
+          "index": 68
+        },
+        {
+          "page": 216,
+          "file": "img_p216_69.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p216_69.png",
+          "figureRef": "Figure 216-69",
+          "index": 69
+        },
+        {
+          "page": 216,
+          "file": "img_p216_70.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p216_70.png",
+          "figureRef": "Figure 216-70",
+          "index": 70
+        },
+        {
+          "page": 216,
+          "file": "img_p216_71.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p216_71.png",
+          "figureRef": "Figure 216-71",
+          "index": 71
+        },
+        {
+          "page": 217,
+          "file": "img_p217_72.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p217_72.png",
+          "figureRef": "Figure 217-72",
+          "index": 72
+        },
+        {
+          "page": 217,
+          "file": "img_p217_73.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p217_73.png",
+          "figureRef": "Figure 217-73",
+          "index": 73
+        },
+        {
+          "page": 217,
+          "file": "img_p217_74.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p217_74.png",
+          "figureRef": "Figure 217-74",
+          "index": 74
+        },
+        {
+          "page": 217,
+          "file": "img_p217_75.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p217_75.png",
+          "figureRef": "Figure 217-75",
+          "index": 75
+        },
+        {
+          "page": 217,
+          "file": "img_p217_76.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p217_76.png",
+          "figureRef": "Figure 217-76",
+          "index": 76
+        },
+        {
+          "page": 217,
+          "file": "img_p217_77.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p217_77.png",
+          "figureRef": "Figure 217-77",
+          "index": 77
+        },
+        {
+          "page": 219,
+          "file": "img_p219_78.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p219_78.png",
+          "figureRef": "Figure 219-78",
+          "index": 78
+        },
+        {
+          "page": 220,
+          "file": "img_p220_79.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p220_79.png",
+          "figureRef": "Figure 220-79",
+          "index": 79
+        },
+        {
+          "page": 220,
+          "file": "img_p220_80.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p220_80.png",
+          "figureRef": "Figure 220-80",
+          "index": 80
+        },
+        {
+          "page": 220,
+          "file": "img_p220_81.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p220_81.png",
+          "figureRef": "Figure 220-81",
+          "index": 81
+        },
+        {
+          "page": 221,
+          "file": "img_p221_82.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p221_82.png",
+          "figureRef": "Figure 221-82",
+          "index": 82
+        },
+        {
+          "page": 222,
+          "file": "img_p222_83.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p222_83.png",
+          "figureRef": "Figure 222-83",
+          "index": 83
+        },
+        {
+          "page": 222,
+          "file": "img_p222_84.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p222_84.png",
+          "figureRef": "Figure 222-84",
+          "index": 84
+        },
+        {
+          "page": 223,
+          "file": "img_p223_85.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p223_85.png",
+          "figureRef": "Figure 223-85",
+          "index": 85
+        },
+        {
+          "page": 224,
+          "file": "img_p224_86.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p224_86.png",
+          "figureRef": "Figure 224-86",
+          "index": 86
+        },
+        {
+          "page": 224,
+          "file": "img_p224_87.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p224_87.png",
+          "figureRef": "Figure 224-87",
+          "index": 87
+        },
+        {
+          "page": 225,
+          "file": "img_p225_88.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p225_88.png",
+          "figureRef": "Figure 225-88",
+          "index": 88
+        },
+        {
+          "page": 225,
+          "file": "img_p225_89.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p225_89.png",
+          "figureRef": "Figure 225-89",
+          "index": 89
+        },
+        {
+          "page": 225,
+          "file": "img_p225_90.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p225_90.png",
+          "figureRef": "Figure 225-90",
+          "index": 90
+        },
+        {
+          "page": 225,
+          "file": "img_p225_91.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p225_91.png",
+          "figureRef": "Figure 225-91",
+          "index": 91
+        },
+        {
+          "page": 226,
+          "file": "img_p226_95.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p226_95.png",
+          "figureRef": "Figure 226-95",
+          "index": 95
+        },
+        {
+          "page": 226,
+          "file": "img_p226_96.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p226_96.png",
+          "figureRef": "Figure 226-96",
+          "index": 96
+        },
+        {
+          "page": 227,
+          "file": "img_p227_97.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p227_97.png",
+          "figureRef": "Figure 227-97",
+          "index": 97
+        },
+        {
+          "page": 228,
+          "file": "img_p228_98.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p228_98.png",
+          "figureRef": "Figure 228-98",
+          "index": 98
+        },
+        {
+          "page": 229,
+          "file": "img_p229_99.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p229_99.png",
+          "figureRef": "Figure 229-99",
+          "index": 99
+        },
+        {
+          "page": 230,
+          "file": "img_p230_100.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p230_100.png",
+          "figureRef": "Figure 230-100",
+          "index": 100
+        },
+        {
+          "page": 231,
+          "file": "img_p231_101.png",
+          "relativePath": "/images/InstrumentProcedures/ch04/img_p231_101.png",
+          "figureRef": "Figure 231-101",
+          "index": 101
+        }
+      ]
+    },
+    {
+      "chapter": "ch05",
+      "startPage": 233,
+      "endPage": 250,
+      "images": [
+        {
+          "page": 233,
+          "file": "img_p233_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p233_1.png",
+          "figureRef": "Figure 233-1",
+          "index": 1
+        },
+        {
+          "page": 234,
+          "file": "img_p234_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_2.png",
+          "figureRef": "Figure 234-2",
+          "index": 2
+        },
+        {
+          "page": 234,
+          "file": "img_p234_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_3.png",
+          "figureRef": "Figure 234-3",
+          "index": 3
+        },
+        {
+          "page": 234,
+          "file": "img_p234_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_4.png",
+          "figureRef": "Figure 234-4",
+          "index": 4
+        },
+        {
+          "page": 234,
+          "file": "img_p234_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_5.png",
+          "figureRef": "Figure 234-5",
+          "index": 5
+        },
+        {
+          "page": 234,
+          "file": "img_p234_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_6.png",
+          "figureRef": "Figure 234-6",
+          "index": 6
+        },
+        {
+          "page": 234,
+          "file": "img_p234_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_7.png",
+          "figureRef": "Figure 234-7",
+          "index": 7
+        },
+        {
+          "page": 234,
+          "file": "img_p234_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_8.png",
+          "figureRef": "Figure 234-8",
+          "index": 8
+        },
+        {
+          "page": 234,
+          "file": "img_p234_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_9.png",
+          "figureRef": "Figure 234-9",
+          "index": 9
+        },
+        {
+          "page": 234,
+          "file": "img_p234_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_10.png",
+          "figureRef": "Figure 234-10",
+          "index": 10
+        },
+        {
+          "page": 234,
+          "file": "img_p234_11.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_11.png",
+          "figureRef": "Figure 234-11",
+          "index": 11
+        },
+        {
+          "page": 234,
+          "file": "img_p234_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_12.png",
+          "figureRef": "Figure 234-12",
+          "index": 12
+        },
+        {
+          "page": 234,
+          "file": "img_p234_13.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_13.png",
+          "figureRef": "Figure 234-13",
+          "index": 13
+        },
+        {
+          "page": 234,
+          "file": "img_p234_14.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_14.png",
+          "figureRef": "Figure 234-14",
+          "index": 14
+        },
+        {
+          "page": 234,
+          "file": "img_p234_15.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_15.png",
+          "figureRef": "Figure 234-15",
+          "index": 15
+        },
+        {
+          "page": 234,
+          "file": "img_p234_16.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_16.png",
+          "figureRef": "Figure 234-16",
+          "index": 16
+        },
+        {
+          "page": 234,
+          "file": "img_p234_17.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_17.png",
+          "figureRef": "Figure 234-17",
+          "index": 17
+        },
+        {
+          "page": 234,
+          "file": "img_p234_18.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_18.png",
+          "figureRef": "Figure 234-18",
+          "index": 18
+        },
+        {
+          "page": 234,
+          "file": "img_p234_19.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_19.png",
+          "figureRef": "Figure 234-19",
+          "index": 19
+        },
+        {
+          "page": 234,
+          "file": "img_p234_20.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_20.png",
+          "figureRef": "Figure 234-20",
+          "index": 20
+        },
+        {
+          "page": 234,
+          "file": "img_p234_21.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_21.png",
+          "figureRef": "Figure 234-21",
+          "index": 21
+        },
+        {
+          "page": 234,
+          "file": "img_p234_22.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_22.png",
+          "figureRef": "Figure 234-22",
+          "index": 22
+        },
+        {
+          "page": 234,
+          "file": "img_p234_23.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_23.png",
+          "figureRef": "Figure 234-23",
+          "index": 23
+        },
+        {
+          "page": 234,
+          "file": "img_p234_24.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_24.png",
+          "figureRef": "Figure 234-24",
+          "index": 24
+        },
+        {
+          "page": 234,
+          "file": "img_p234_25.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_25.png",
+          "figureRef": "Figure 234-25",
+          "index": 25
+        },
+        {
+          "page": 234,
+          "file": "img_p234_26.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_26.png",
+          "figureRef": "Figure 234-26",
+          "index": 26
+        },
+        {
+          "page": 234,
+          "file": "img_p234_27.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_27.png",
+          "figureRef": "Figure 234-27",
+          "index": 27
+        },
+        {
+          "page": 234,
+          "file": "img_p234_28.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_28.png",
+          "figureRef": "Figure 234-28",
+          "index": 28
+        },
+        {
+          "page": 234,
+          "file": "img_p234_29.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_29.png",
+          "figureRef": "Figure 234-29",
+          "index": 29
+        },
+        {
+          "page": 234,
+          "file": "img_p234_30.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_30.png",
+          "figureRef": "Figure 234-30",
+          "index": 30
+        },
+        {
+          "page": 234,
+          "file": "img_p234_31.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_31.png",
+          "figureRef": "Figure 234-31",
+          "index": 31
+        },
+        {
+          "page": 234,
+          "file": "img_p234_32.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_32.png",
+          "figureRef": "Figure 234-32",
+          "index": 32
+        },
+        {
+          "page": 234,
+          "file": "img_p234_33.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_33.png",
+          "figureRef": "Figure 234-33",
+          "index": 33
+        },
+        {
+          "page": 234,
+          "file": "img_p234_34.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p234_34.png",
+          "figureRef": "Figure 234-34",
+          "index": 34
+        },
+        {
+          "page": 235,
+          "file": "img_p235_35.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p235_35.png",
+          "figureRef": "Figure 235-35",
+          "index": 35
+        },
+        {
+          "page": 235,
+          "file": "img_p235_36.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p235_36.png",
+          "figureRef": "Figure 235-36",
+          "index": 36
+        },
+        {
+          "page": 235,
+          "file": "img_p235_37.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p235_37.png",
+          "figureRef": "Figure 235-37",
+          "index": 37
+        },
+        {
+          "page": 235,
+          "file": "img_p235_38.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p235_38.png",
+          "figureRef": "Figure 235-38",
+          "index": 38
+        },
+        {
+          "page": 235,
+          "file": "img_p235_39.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p235_39.png",
+          "figureRef": "Figure 235-39",
+          "index": 39
+        },
+        {
+          "page": 235,
+          "file": "img_p235_40.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p235_40.png",
+          "figureRef": "Figure 235-40",
+          "index": 40
+        },
+        {
+          "page": 236,
+          "file": "img_p236_41.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_41.png",
+          "figureRef": "Figure 236-41",
+          "index": 41
+        },
+        {
+          "page": 236,
+          "file": "img_p236_42.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_42.png",
+          "figureRef": "Figure 236-42",
+          "index": 42
+        },
+        {
+          "page": 236,
+          "file": "img_p236_43.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_43.png",
+          "figureRef": "Figure 236-43",
+          "index": 43
+        },
+        {
+          "page": 236,
+          "file": "img_p236_44.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_44.png",
+          "figureRef": "Figure 236-44",
+          "index": 44
+        },
+        {
+          "page": 236,
+          "file": "img_p236_45.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_45.png",
+          "figureRef": "Figure 236-45",
+          "index": 45
+        },
+        {
+          "page": 236,
+          "file": "img_p236_46.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_46.png",
+          "figureRef": "Figure 236-46",
+          "index": 46
+        },
+        {
+          "page": 236,
+          "file": "img_p236_47.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_47.png",
+          "figureRef": "Figure 236-47",
+          "index": 47
+        },
+        {
+          "page": 236,
+          "file": "img_p236_48.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_48.png",
+          "figureRef": "Figure 236-48",
+          "index": 48
+        },
+        {
+          "page": 236,
+          "file": "img_p236_49.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_49.png",
+          "figureRef": "Figure 236-49",
+          "index": 49
+        },
+        {
+          "page": 236,
+          "file": "img_p236_50.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_50.png",
+          "figureRef": "Figure 236-50",
+          "index": 50
+        },
+        {
+          "page": 236,
+          "file": "img_p236_51.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_51.png",
+          "figureRef": "Figure 236-51",
+          "index": 51
+        },
+        {
+          "page": 236,
+          "file": "img_p236_52.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_52.png",
+          "figureRef": "Figure 236-52",
+          "index": 52
+        },
+        {
+          "page": 236,
+          "file": "img_p236_53.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_53.png",
+          "figureRef": "Figure 236-53",
+          "index": 53
+        },
+        {
+          "page": 236,
+          "file": "img_p236_54.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_54.png",
+          "figureRef": "Figure 236-54",
+          "index": 54
+        },
+        {
+          "page": 236,
+          "file": "img_p236_55.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_55.png",
+          "figureRef": "Figure 236-55",
+          "index": 55
+        },
+        {
+          "page": 236,
+          "file": "img_p236_56.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_56.png",
+          "figureRef": "Figure 236-56",
+          "index": 56
+        },
+        {
+          "page": 236,
+          "file": "img_p236_57.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_57.png",
+          "figureRef": "Figure 236-57",
+          "index": 57
+        },
+        {
+          "page": 236,
+          "file": "img_p236_58.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_58.png",
+          "figureRef": "Figure 236-58",
+          "index": 58
+        },
+        {
+          "page": 236,
+          "file": "img_p236_59.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_59.png",
+          "figureRef": "Figure 236-59",
+          "index": 59
+        },
+        {
+          "page": 236,
+          "file": "img_p236_60.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_60.png",
+          "figureRef": "Figure 236-60",
+          "index": 60
+        },
+        {
+          "page": 236,
+          "file": "img_p236_61.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_61.png",
+          "figureRef": "Figure 236-61",
+          "index": 61
+        },
+        {
+          "page": 236,
+          "file": "img_p236_62.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_62.png",
+          "figureRef": "Figure 236-62",
+          "index": 62
+        },
+        {
+          "page": 236,
+          "file": "img_p236_63.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_63.png",
+          "figureRef": "Figure 236-63",
+          "index": 63
+        },
+        {
+          "page": 236,
+          "file": "img_p236_64.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_64.png",
+          "figureRef": "Figure 236-64",
+          "index": 64
+        },
+        {
+          "page": 236,
+          "file": "img_p236_65.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_65.png",
+          "figureRef": "Figure 236-65",
+          "index": 65
+        },
+        {
+          "page": 236,
+          "file": "img_p236_66.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_66.png",
+          "figureRef": "Figure 236-66",
+          "index": 66
+        },
+        {
+          "page": 236,
+          "file": "img_p236_67.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_67.png",
+          "figureRef": "Figure 236-67",
+          "index": 67
+        },
+        {
+          "page": 236,
+          "file": "img_p236_68.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_68.png",
+          "figureRef": "Figure 236-68",
+          "index": 68
+        },
+        {
+          "page": 236,
+          "file": "img_p236_69.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p236_69.png",
+          "figureRef": "Figure 236-69",
+          "index": 69
+        },
+        {
+          "page": 237,
+          "file": "img_p237_70.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p237_70.png",
+          "figureRef": "Figure 237-70",
+          "index": 70
+        },
+        {
+          "page": 237,
+          "file": "img_p237_71.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p237_71.png",
+          "figureRef": "Figure 237-71",
+          "index": 71
+        },
+        {
+          "page": 237,
+          "file": "img_p237_72.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p237_72.png",
+          "figureRef": "Figure 237-72",
+          "index": 72
+        },
+        {
+          "page": 237,
+          "file": "img_p237_73.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p237_73.png",
+          "figureRef": "Figure 237-73",
+          "index": 73
+        },
+        {
+          "page": 237,
+          "file": "img_p237_74.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p237_74.png",
+          "figureRef": "Figure 237-74",
+          "index": 74
+        },
+        {
+          "page": 237,
+          "file": "img_p237_75.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p237_75.png",
+          "figureRef": "Figure 237-75",
+          "index": 75
+        },
+        {
+          "page": 238,
+          "file": "img_p238_76.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_76.png",
+          "figureRef": "Figure 238-76",
+          "index": 76
+        },
+        {
+          "page": 238,
+          "file": "img_p238_77.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_77.png",
+          "figureRef": "Figure 238-77",
+          "index": 77
+        },
+        {
+          "page": 238,
+          "file": "img_p238_78.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_78.png",
+          "figureRef": "Figure 238-78",
+          "index": 78
+        },
+        {
+          "page": 238,
+          "file": "img_p238_79.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_79.png",
+          "figureRef": "Figure 238-79",
+          "index": 79
+        },
+        {
+          "page": 238,
+          "file": "img_p238_80.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_80.png",
+          "figureRef": "Figure 238-80",
+          "index": 80
+        },
+        {
+          "page": 238,
+          "file": "img_p238_81.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_81.png",
+          "figureRef": "Figure 238-81",
+          "index": 81
+        },
+        {
+          "page": 238,
+          "file": "img_p238_82.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_82.png",
+          "figureRef": "Figure 238-82",
+          "index": 82
+        },
+        {
+          "page": 238,
+          "file": "img_p238_83.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p238_83.png",
+          "figureRef": "Figure 238-83",
+          "index": 83
+        },
+        {
+          "page": 239,
+          "file": "img_p239_84.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_84.png",
+          "figureRef": "Figure 239-84",
+          "index": 84
+        },
+        {
+          "page": 239,
+          "file": "img_p239_85.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_85.png",
+          "figureRef": "Figure 239-85",
+          "index": 85
+        },
+        {
+          "page": 239,
+          "file": "img_p239_86.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_86.png",
+          "figureRef": "Figure 239-86",
+          "index": 86
+        },
+        {
+          "page": 239,
+          "file": "img_p239_87.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_87.png",
+          "figureRef": "Figure 239-87",
+          "index": 87
+        },
+        {
+          "page": 239,
+          "file": "img_p239_88.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_88.png",
+          "figureRef": "Figure 239-88",
+          "index": 88
+        },
+        {
+          "page": 239,
+          "file": "img_p239_89.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_89.png",
+          "figureRef": "Figure 239-89",
+          "index": 89
+        },
+        {
+          "page": 239,
+          "file": "img_p239_90.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p239_90.png",
+          "figureRef": "Figure 239-90",
+          "index": 90
+        },
+        {
+          "page": 240,
+          "file": "img_p240_91.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p240_91.png",
+          "figureRef": "Figure 240-91",
+          "index": 91
+        },
+        {
+          "page": 240,
+          "file": "img_p240_92.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p240_92.png",
+          "figureRef": "Figure 240-92",
+          "index": 92
+        },
+        {
+          "page": 240,
+          "file": "img_p240_93.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p240_93.png",
+          "figureRef": "Figure 240-93",
+          "index": 93
+        },
+        {
+          "page": 241,
+          "file": "img_p241_94.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p241_94.png",
+          "figureRef": "Figure 241-94",
+          "index": 94
+        },
+        {
+          "page": 241,
+          "file": "img_p241_95.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p241_95.png",
+          "figureRef": "Figure 241-95",
+          "index": 95
+        },
+        {
+          "page": 241,
+          "file": "img_p241_96.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p241_96.png",
+          "figureRef": "Figure 241-96",
+          "index": 96
+        },
+        {
+          "page": 242,
+          "file": "img_p242_97.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p242_97.png",
+          "figureRef": "Figure 242-97",
+          "index": 97
+        },
+        {
+          "page": 242,
+          "file": "img_p242_98.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p242_98.png",
+          "figureRef": "Figure 242-98",
+          "index": 98
+        },
+        {
+          "page": 242,
+          "file": "img_p242_99.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p242_99.png",
+          "figureRef": "Figure 242-99",
+          "index": 99
+        },
+        {
+          "page": 242,
+          "file": "img_p242_100.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p242_100.png",
+          "figureRef": "Figure 242-100",
+          "index": 100
+        },
+        {
+          "page": 243,
+          "file": "img_p243_101.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p243_101.png",
+          "figureRef": "Figure 243-101",
+          "index": 101
+        },
+        {
+          "page": 243,
+          "file": "img_p243_102.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p243_102.png",
+          "figureRef": "Figure 243-102",
+          "index": 102
+        },
+        {
+          "page": 245,
+          "file": "img_p245_103.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p245_103.png",
+          "figureRef": "Figure 245-103",
+          "index": 103
+        },
+        {
+          "page": 246,
+          "file": "img_p246_104.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p246_104.png",
+          "figureRef": "Figure 246-104",
+          "index": 104
+        },
+        {
+          "page": 247,
+          "file": "img_p247_105.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p247_105.png",
+          "figureRef": "Figure 247-105",
+          "index": 105
+        },
+        {
+          "page": 248,
+          "file": "img_p248_106.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p248_106.png",
+          "figureRef": "Figure 248-106",
+          "index": 106
+        },
+        {
+          "page": 249,
+          "file": "img_p249_107.png",
+          "relativePath": "/images/InstrumentProcedures/ch05/img_p249_107.png",
+          "figureRef": "Figure 249-107",
+          "index": 107
+        }
+      ]
+    },
+    {
+      "chapter": "ch06",
+      "startPage": 251,
+      "endPage": 268,
+      "images": [
+        {
+          "page": 251,
+          "file": "img_p251_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p251_1.png",
+          "figureRef": "Figure 251-1",
+          "index": 1
+        },
+        {
+          "page": 252,
+          "file": "img_p252_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p252_2.png",
+          "figureRef": "Figure 252-2",
+          "index": 2
+        },
+        {
+          "page": 252,
+          "file": "img_p252_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p252_3.png",
+          "figureRef": "Figure 252-3",
+          "index": 3
+        },
+        {
+          "page": 252,
+          "file": "img_p252_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p252_4.png",
+          "figureRef": "Figure 252-4",
+          "index": 4
+        },
+        {
+          "page": 252,
+          "file": "img_p252_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p252_5.png",
+          "figureRef": "Figure 252-5",
+          "index": 5
+        },
+        {
+          "page": 253,
+          "file": "img_p253_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p253_6.png",
+          "figureRef": "Figure 253-6",
+          "index": 6
+        },
+        {
+          "page": 253,
+          "file": "img_p253_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p253_7.png",
+          "figureRef": "Figure 253-7",
+          "index": 7
+        },
+        {
+          "page": 253,
+          "file": "img_p253_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p253_8.png",
+          "figureRef": "Figure 253-8",
+          "index": 8
+        },
+        {
+          "page": 255,
+          "file": "img_p255_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p255_9.png",
+          "figureRef": "Figure 255-9",
+          "index": 9
+        },
+        {
+          "page": 255,
+          "file": "img_p255_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p255_10.png",
+          "figureRef": "Figure 255-10",
+          "index": 10
+        },
+        {
+          "page": 260,
+          "file": "img_p260_11.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p260_11.png",
+          "figureRef": "Figure 260-11",
+          "index": 11
+        },
+        {
+          "page": 261,
+          "file": "img_p261_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p261_12.png",
+          "figureRef": "Figure 261-12",
+          "index": 12
+        },
+        {
+          "page": 261,
+          "file": "img_p261_13.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p261_13.png",
+          "figureRef": "Figure 261-13",
+          "index": 13
+        },
+        {
+          "page": 262,
+          "file": "img_p262_14.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p262_14.png",
+          "figureRef": "Figure 262-14",
+          "index": 14
+        },
+        {
+          "page": 263,
+          "file": "img_p263_15.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p263_15.png",
+          "figureRef": "Figure 263-15",
+          "index": 15
+        },
+        {
+          "page": 263,
+          "file": "img_p263_16.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p263_16.png",
+          "figureRef": "Figure 263-16",
+          "index": 16
+        },
+        {
+          "page": 263,
+          "file": "img_p263_17.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p263_17.png",
+          "figureRef": "Figure 263-17",
+          "index": 17
+        },
+        {
+          "page": 263,
+          "file": "img_p263_18.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p263_18.png",
+          "figureRef": "Figure 263-18",
+          "index": 18
+        },
+        {
+          "page": 263,
+          "file": "img_p263_19.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p263_19.png",
+          "figureRef": "Figure 263-19",
+          "index": 19
+        },
+        {
+          "page": 263,
+          "file": "img_p263_20.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p263_20.png",
+          "figureRef": "Figure 263-20",
+          "index": 20
+        },
+        {
+          "page": 264,
+          "file": "img_p264_21.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p264_21.png",
+          "figureRef": "Figure 264-21",
+          "index": 21
+        },
+        {
+          "page": 266,
+          "file": "img_p266_22.png",
+          "relativePath": "/images/InstrumentProcedures/ch06/img_p266_22.png",
+          "figureRef": "Figure 266-22",
+          "index": 22
+        }
+      ]
+    },
+    {
+      "chapter": "ch07",
+      "startPage": 269,
+      "endPage": 312,
+      "images": [
+        {
+          "page": 269,
+          "file": "img_p269_1.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p269_1.png",
+          "figureRef": "Figure 269-1",
+          "index": 1
+        },
+        {
+          "page": 270,
+          "file": "img_p270_2.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p270_2.png",
+          "figureRef": "Figure 270-2",
+          "index": 2
+        },
+        {
+          "page": 274,
+          "file": "img_p274_3.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p274_3.png",
+          "figureRef": "Figure 274-3",
+          "index": 3
+        },
+        {
+          "page": 274,
+          "file": "img_p274_4.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p274_4.png",
+          "figureRef": "Figure 274-4",
+          "index": 4
+        },
+        {
+          "page": 274,
+          "file": "img_p274_5.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p274_5.png",
+          "figureRef": "Figure 274-5",
+          "index": 5
+        },
+        {
+          "page": 274,
+          "file": "img_p274_6.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p274_6.png",
+          "figureRef": "Figure 274-6",
+          "index": 6
+        },
+        {
+          "page": 275,
+          "file": "img_p275_7.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p275_7.png",
+          "figureRef": "Figure 275-7",
+          "index": 7
+        },
+        {
+          "page": 277,
+          "file": "img_p277_8.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p277_8.png",
+          "figureRef": "Figure 277-8",
+          "index": 8
+        },
+        {
+          "page": 279,
+          "file": "img_p279_9.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p279_9.png",
+          "figureRef": "Figure 279-9",
+          "index": 9
+        },
+        {
+          "page": 280,
+          "file": "img_p280_10.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p280_10.png",
+          "figureRef": "Figure 280-10",
+          "index": 10
+        },
+        {
+          "page": 281,
+          "file": "img_p281_11.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p281_11.png",
+          "figureRef": "Figure 281-11",
+          "index": 11
+        },
+        {
+          "page": 283,
+          "file": "img_p283_12.png",
+          "relativePath": "/images/InstrumentProcedures/ch07/img_p283_12.png",
+          "figureRef": "Figure 283-12",
+          "index": 12
+        }
+      ]
+    }
+  ]
+}

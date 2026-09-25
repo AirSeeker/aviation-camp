@@ -1,0 +1,733 @@
+{
+  "chapter": "ch14",
+  "images": [
+    {
+      "page": 97,
+      "file": "img_p97_1.png",
+      "relativePath": "/images/Instrument/ch14/img_p97_1.png",
+      "figureRef": "Figure 97-1",
+      "index": 1
+    },
+    {
+      "page": 97,
+      "file": "img_p97_2.png",
+      "relativePath": "/images/Instrument/ch14/img_p97_2.png",
+      "figureRef": "Figure 97-2",
+      "index": 2
+    },
+    {
+      "page": 98,
+      "file": "img_p98_3.png",
+      "relativePath": "/images/Instrument/ch14/img_p98_3.png",
+      "figureRef": "Figure 98-3",
+      "index": 3
+    },
+    {
+      "page": 98,
+      "file": "img_p98_4.png",
+      "relativePath": "/images/Instrument/ch14/img_p98_4.png",
+      "figureRef": "Figure 98-4",
+      "index": 4
+    },
+    {
+      "page": 99,
+      "file": "img_p99_5.png",
+      "relativePath": "/images/Instrument/ch14/img_p99_5.png",
+      "figureRef": "Figure 99-5",
+      "index": 5
+    },
+    {
+      "page": 99,
+      "file": "img_p99_6.png",
+      "relativePath": "/images/Instrument/ch14/img_p99_6.png",
+      "figureRef": "Figure 99-6",
+      "index": 6
+    },
+    {
+      "page": 99,
+      "file": "img_p99_7.png",
+      "relativePath": "/images/Instrument/ch14/img_p99_7.png",
+      "figureRef": "Figure 99-7",
+      "index": 7
+    },
+    {
+      "page": 99,
+      "file": "img_p99_8.png",
+      "relativePath": "/images/Instrument/ch14/img_p99_8.png",
+      "figureRef": "Figure 99-8",
+      "index": 8
+    },
+    {
+      "page": 99,
+      "file": "img_p99_9.png",
+      "relativePath": "/images/Instrument/ch14/img_p99_9.png",
+      "figureRef": "Figure 99-9",
+      "index": 9
+    },
+    {
+      "page": 99,
+      "file": "img_p99_10.png",
+      "relativePath": "/images/Instrument/ch14/img_p99_10.png",
+      "figureRef": "Figure 99-10",
+      "index": 10
+    },
+    {
+      "page": 103,
+      "file": "img_p103_11.png",
+      "relativePath": "/images/Instrument/ch14/img_p103_11.png",
+      "figureRef": "Figure 103-11",
+      "index": 11
+    },
+    {
+      "page": 104,
+      "file": "img_p104_12.png",
+      "relativePath": "/images/Instrument/ch14/img_p104_12.png",
+      "figureRef": "Figure 104-12",
+      "index": 12
+    },
+    {
+      "page": 104,
+      "file": "img_p104_13.png",
+      "relativePath": "/images/Instrument/ch14/img_p104_13.png",
+      "figureRef": "Figure 104-13",
+      "index": 13
+    },
+    {
+      "page": 106,
+      "file": "img_p106_14.png",
+      "relativePath": "/images/Instrument/ch14/img_p106_14.png",
+      "figureRef": "Figure 106-14",
+      "index": 14
+    },
+    {
+      "page": 107,
+      "file": "img_p107_15.png",
+      "relativePath": "/images/Instrument/ch14/img_p107_15.png",
+      "figureRef": "Figure 107-15",
+      "index": 15
+    },
+    {
+      "page": 107,
+      "file": "img_p107_16.png",
+      "relativePath": "/images/Instrument/ch14/img_p107_16.png",
+      "figureRef": "Figure 107-16",
+      "index": 16
+    },
+    {
+      "page": 107,
+      "file": "img_p107_17.png",
+      "relativePath": "/images/Instrument/ch14/img_p107_17.png",
+      "figureRef": "Figure 107-17",
+      "index": 17
+    },
+    {
+      "page": 107,
+      "file": "img_p107_18.png",
+      "relativePath": "/images/Instrument/ch14/img_p107_18.png",
+      "figureRef": "Figure 107-18",
+      "index": 18
+    },
+    {
+      "page": 108,
+      "file": "img_p108_20.png",
+      "relativePath": "/images/Instrument/ch14/img_p108_20.png",
+      "figureRef": "Figure 108-20",
+      "index": 20
+    },
+    {
+      "page": 109,
+      "file": "img_p109_21.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_21.png",
+      "figureRef": "Figure 109-21",
+      "index": 21
+    },
+    {
+      "page": 109,
+      "file": "img_p109_22.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_22.png",
+      "figureRef": "Figure 109-22",
+      "index": 22
+    },
+    {
+      "page": 109,
+      "file": "img_p109_23.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_23.png",
+      "figureRef": "Figure 109-23",
+      "index": 23
+    },
+    {
+      "page": 109,
+      "file": "img_p109_24.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_24.png",
+      "figureRef": "Figure 109-24",
+      "index": 24
+    },
+    {
+      "page": 109,
+      "file": "img_p109_25.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_25.png",
+      "figureRef": "Figure 109-25",
+      "index": 25
+    },
+    {
+      "page": 109,
+      "file": "img_p109_26.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_26.png",
+      "figureRef": "Figure 109-26",
+      "index": 26
+    },
+    {
+      "page": 109,
+      "file": "img_p109_27.png",
+      "relativePath": "/images/Instrument/ch14/img_p109_27.png",
+      "figureRef": "Figure 109-27",
+      "index": 27
+    },
+    {
+      "page": 110,
+      "file": "img_p110_28.png",
+      "relativePath": "/images/Instrument/ch14/img_p110_28.png",
+      "figureRef": "Figure 110-28",
+      "index": 28
+    },
+    {
+      "page": 111,
+      "file": "img_p111_29.png",
+      "relativePath": "/images/Instrument/ch14/img_p111_29.png",
+      "figureRef": "Figure 111-29",
+      "index": 29
+    },
+    {
+      "page": 111,
+      "file": "img_p111_30.png",
+      "relativePath": "/images/Instrument/ch14/img_p111_30.png",
+      "figureRef": "Figure 111-30",
+      "index": 30
+    },
+    {
+      "page": 111,
+      "file": "img_p111_31.png",
+      "relativePath": "/images/Instrument/ch14/img_p111_31.png",
+      "figureRef": "Figure 111-31",
+      "index": 31
+    },
+    {
+      "page": 111,
+      "file": "img_p111_32.png",
+      "relativePath": "/images/Instrument/ch14/img_p111_32.png",
+      "figureRef": "Figure 111-32",
+      "index": 32
+    },
+    {
+      "page": 111,
+      "file": "img_p111_33.png",
+      "relativePath": "/images/Instrument/ch14/img_p111_33.png",
+      "figureRef": "Figure 111-33",
+      "index": 33
+    },
+    {
+      "page": 114,
+      "file": "img_p114_34.png",
+      "relativePath": "/images/Instrument/ch14/img_p114_34.png",
+      "figureRef": "Figure 114-34",
+      "index": 34
+    },
+    {
+      "page": 114,
+      "file": "img_p114_35.png",
+      "relativePath": "/images/Instrument/ch14/img_p114_35.png",
+      "figureRef": "Figure 114-35",
+      "index": 35
+    },
+    {
+      "page": 114,
+      "file": "img_p114_36.png",
+      "relativePath": "/images/Instrument/ch14/img_p114_36.png",
+      "figureRef": "Figure 114-36",
+      "index": 36
+    },
+    {
+      "page": 114,
+      "file": "img_p114_37.png",
+      "relativePath": "/images/Instrument/ch14/img_p114_37.png",
+      "figureRef": "Figure 114-37",
+      "index": 37
+    },
+    {
+      "page": 115,
+      "file": "img_p115_38.png",
+      "relativePath": "/images/Instrument/ch14/img_p115_38.png",
+      "figureRef": "Figure 115-38",
+      "index": 38
+    },
+    {
+      "page": 116,
+      "file": "img_p116_39.png",
+      "relativePath": "/images/Instrument/ch14/img_p116_39.png",
+      "figureRef": "Figure 116-39",
+      "index": 39
+    },
+    {
+      "page": 117,
+      "file": "img_p117_40.png",
+      "relativePath": "/images/Instrument/ch14/img_p117_40.png",
+      "figureRef": "Figure 117-40",
+      "index": 40
+    },
+    {
+      "page": 117,
+      "file": "img_p117_41.png",
+      "relativePath": "/images/Instrument/ch14/img_p117_41.png",
+      "figureRef": "Figure 117-41",
+      "index": 41
+    },
+    {
+      "page": 117,
+      "file": "img_p117_42.png",
+      "relativePath": "/images/Instrument/ch14/img_p117_42.png",
+      "figureRef": "Figure 117-42",
+      "index": 42
+    },
+    {
+      "page": 117,
+      "file": "img_p117_43.png",
+      "relativePath": "/images/Instrument/ch14/img_p117_43.png",
+      "figureRef": "Figure 117-43",
+      "index": 43
+    },
+    {
+      "page": 118,
+      "file": "img_p118_44.png",
+      "relativePath": "/images/Instrument/ch14/img_p118_44.png",
+      "figureRef": "Figure 118-44",
+      "index": 44
+    },
+    {
+      "page": 118,
+      "file": "img_p118_45.png",
+      "relativePath": "/images/Instrument/ch14/img_p118_45.png",
+      "figureRef": "Figure 118-45",
+      "index": 45
+    },
+    {
+      "page": 118,
+      "file": "img_p118_46.png",
+      "relativePath": "/images/Instrument/ch14/img_p118_46.png",
+      "figureRef": "Figure 118-46",
+      "index": 46
+    },
+    {
+      "page": 118,
+      "file": "img_p118_47.png",
+      "relativePath": "/images/Instrument/ch14/img_p118_47.png",
+      "figureRef": "Figure 118-47",
+      "index": 47
+    },
+    {
+      "page": 118,
+      "file": "img_p118_48.png",
+      "relativePath": "/images/Instrument/ch14/img_p118_48.png",
+      "figureRef": "Figure 118-48",
+      "index": 48
+    },
+    {
+      "page": 118,
+      "file": "img_p118_49.png",
+      "relativePath": "/images/Instrument/ch14/img_p118_49.png",
+      "figureRef": "Figure 118-49",
+      "index": 49
+    },
+    {
+      "page": 119,
+      "file": "img_p119_50.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_50.png",
+      "figureRef": "Figure 119-50",
+      "index": 50
+    },
+    {
+      "page": 119,
+      "file": "img_p119_51.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_51.png",
+      "figureRef": "Figure 119-51",
+      "index": 51
+    },
+    {
+      "page": 119,
+      "file": "img_p119_52.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_52.png",
+      "figureRef": "Figure 119-52",
+      "index": 52
+    },
+    {
+      "page": 119,
+      "file": "img_p119_53.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_53.png",
+      "figureRef": "Figure 119-53",
+      "index": 53
+    },
+    {
+      "page": 119,
+      "file": "img_p119_54.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_54.png",
+      "figureRef": "Figure 119-54",
+      "index": 54
+    },
+    {
+      "page": 119,
+      "file": "img_p119_55.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_55.png",
+      "figureRef": "Figure 119-55",
+      "index": 55
+    },
+    {
+      "page": 119,
+      "file": "img_p119_56.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_56.png",
+      "figureRef": "Figure 119-56",
+      "index": 56
+    },
+    {
+      "page": 119,
+      "file": "img_p119_57.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_57.png",
+      "figureRef": "Figure 119-57",
+      "index": 57
+    },
+    {
+      "page": 119,
+      "file": "img_p119_58.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_58.png",
+      "figureRef": "Figure 119-58",
+      "index": 58
+    },
+    {
+      "page": 119,
+      "file": "img_p119_59.png",
+      "relativePath": "/images/Instrument/ch14/img_p119_59.png",
+      "figureRef": "Figure 119-59",
+      "index": 59
+    },
+    {
+      "page": 120,
+      "file": "img_p120_60.png",
+      "relativePath": "/images/Instrument/ch14/img_p120_60.png",
+      "figureRef": "Figure 120-60",
+      "index": 60
+    },
+    {
+      "page": 120,
+      "file": "img_p120_61.png",
+      "relativePath": "/images/Instrument/ch14/img_p120_61.png",
+      "figureRef": "Figure 120-61",
+      "index": 61
+    },
+    {
+      "page": 121,
+      "file": "img_p121_62.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_62.png",
+      "figureRef": "Figure 121-62",
+      "index": 62
+    },
+    {
+      "page": 121,
+      "file": "img_p121_63.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_63.png",
+      "figureRef": "Figure 121-63",
+      "index": 63
+    },
+    {
+      "page": 121,
+      "file": "img_p121_64.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_64.png",
+      "figureRef": "Figure 121-64",
+      "index": 64
+    },
+    {
+      "page": 121,
+      "file": "img_p121_65.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_65.png",
+      "figureRef": "Figure 121-65",
+      "index": 65
+    },
+    {
+      "page": 121,
+      "file": "img_p121_66.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_66.png",
+      "figureRef": "Figure 121-66",
+      "index": 66
+    },
+    {
+      "page": 121,
+      "file": "img_p121_67.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_67.png",
+      "figureRef": "Figure 121-67",
+      "index": 67
+    },
+    {
+      "page": 121,
+      "file": "img_p121_68.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_68.png",
+      "figureRef": "Figure 121-68",
+      "index": 68
+    },
+    {
+      "page": 121,
+      "file": "img_p121_69.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_69.png",
+      "figureRef": "Figure 121-69",
+      "index": 69
+    },
+    {
+      "page": 121,
+      "file": "img_p121_70.png",
+      "relativePath": "/images/Instrument/ch14/img_p121_70.png",
+      "figureRef": "Figure 121-70",
+      "index": 70
+    },
+    {
+      "page": 122,
+      "file": "img_p122_71.png",
+      "relativePath": "/images/Instrument/ch14/img_p122_71.png",
+      "figureRef": "Figure 122-71",
+      "index": 71
+    },
+    {
+      "page": 123,
+      "file": "img_p123_72.png",
+      "relativePath": "/images/Instrument/ch14/img_p123_72.png",
+      "figureRef": "Figure 123-72",
+      "index": 72
+    },
+    {
+      "page": 123,
+      "file": "img_p123_73.png",
+      "relativePath": "/images/Instrument/ch14/img_p123_73.png",
+      "figureRef": "Figure 123-73",
+      "index": 73
+    },
+    {
+      "page": 123,
+      "file": "img_p123_74.png",
+      "relativePath": "/images/Instrument/ch14/img_p123_74.png",
+      "figureRef": "Figure 123-74",
+      "index": 74
+    },
+    {
+      "page": 124,
+      "file": "img_p124_75.png",
+      "relativePath": "/images/Instrument/ch14/img_p124_75.png",
+      "figureRef": "Figure 124-75",
+      "index": 75
+    },
+    {
+      "page": 125,
+      "file": "img_p125_76.png",
+      "relativePath": "/images/Instrument/ch14/img_p125_76.png",
+      "figureRef": "Figure 125-76",
+      "index": 76
+    },
+    {
+      "page": 126,
+      "file": "img_p126_77.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_77.png",
+      "figureRef": "Figure 126-77",
+      "index": 77
+    },
+    {
+      "page": 126,
+      "file": "img_p126_78.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_78.png",
+      "figureRef": "Figure 126-78",
+      "index": 78
+    },
+    {
+      "page": 126,
+      "file": "img_p126_79.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_79.png",
+      "figureRef": "Figure 126-79",
+      "index": 79
+    },
+    {
+      "page": 126,
+      "file": "img_p126_80.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_80.png",
+      "figureRef": "Figure 126-80",
+      "index": 80
+    },
+    {
+      "page": 126,
+      "file": "img_p126_81.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_81.png",
+      "figureRef": "Figure 126-81",
+      "index": 81
+    },
+    {
+      "page": 126,
+      "file": "img_p126_82.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_82.png",
+      "figureRef": "Figure 126-82",
+      "index": 82
+    },
+    {
+      "page": 126,
+      "file": "img_p126_83.png",
+      "relativePath": "/images/Instrument/ch14/img_p126_83.png",
+      "figureRef": "Figure 126-83",
+      "index": 83
+    },
+    {
+      "page": 127,
+      "file": "img_p127_84.png",
+      "relativePath": "/images/Instrument/ch14/img_p127_84.png",
+      "figureRef": "Figure 127-84",
+      "index": 84
+    },
+    {
+      "page": 127,
+      "file": "img_p127_85.png",
+      "relativePath": "/images/Instrument/ch14/img_p127_85.png",
+      "figureRef": "Figure 127-85",
+      "index": 85
+    },
+    {
+      "page": 127,
+      "file": "img_p127_86.png",
+      "relativePath": "/images/Instrument/ch14/img_p127_86.png",
+      "figureRef": "Figure 127-86",
+      "index": 86
+    },
+    {
+      "page": 127,
+      "file": "img_p127_87.png",
+      "relativePath": "/images/Instrument/ch14/img_p127_87.png",
+      "figureRef": "Figure 127-87",
+      "index": 87
+    },
+    {
+      "page": 128,
+      "file": "img_p128_88.png",
+      "relativePath": "/images/Instrument/ch14/img_p128_88.png",
+      "figureRef": "Figure 128-88",
+      "index": 88
+    },
+    {
+      "page": 128,
+      "file": "img_p128_89.png",
+      "relativePath": "/images/Instrument/ch14/img_p128_89.png",
+      "figureRef": "Figure 128-89",
+      "index": 89
+    },
+    {
+      "page": 128,
+      "file": "img_p128_90.png",
+      "relativePath": "/images/Instrument/ch14/img_p128_90.png",
+      "figureRef": "Figure 128-90",
+      "index": 90
+    },
+    {
+      "page": 128,
+      "file": "img_p128_91.png",
+      "relativePath": "/images/Instrument/ch14/img_p128_91.png",
+      "figureRef": "Figure 128-91",
+      "index": 91
+    },
+    {
+      "page": 128,
+      "file": "img_p128_92.png",
+      "relativePath": "/images/Instrument/ch14/img_p128_92.png",
+      "figureRef": "Figure 128-92",
+      "index": 92
+    },
+    {
+      "page": 129,
+      "file": "img_p129_93.png",
+      "relativePath": "/images/Instrument/ch14/img_p129_93.png",
+      "figureRef": "Figure 129-93",
+      "index": 93
+    },
+    {
+      "page": 130,
+      "file": "img_p130_94.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_94.png",
+      "figureRef": "Figure 130-94",
+      "index": 94
+    },
+    {
+      "page": 130,
+      "file": "img_p130_95.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_95.png",
+      "figureRef": "Figure 130-95",
+      "index": 95
+    },
+    {
+      "page": 130,
+      "file": "img_p130_96.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_96.png",
+      "figureRef": "Figure 130-96",
+      "index": 96
+    },
+    {
+      "page": 130,
+      "file": "img_p130_97.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_97.png",
+      "figureRef": "Figure 130-97",
+      "index": 97
+    },
+    {
+      "page": 130,
+      "file": "img_p130_98.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_98.png",
+      "figureRef": "Figure 130-98",
+      "index": 98
+    },
+    {
+      "page": 130,
+      "file": "img_p130_99.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_99.png",
+      "figureRef": "Figure 130-99",
+      "index": 99
+    },
+    {
+      "page": 130,
+      "file": "img_p130_100.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_100.png",
+      "figureRef": "Figure 130-100",
+      "index": 100
+    },
+    {
+      "page": 130,
+      "file": "img_p130_101.png",
+      "relativePath": "/images/Instrument/ch14/img_p130_101.png",
+      "figureRef": "Figure 130-101",
+      "index": 101
+    },
+    {
+      "page": 131,
+      "file": "img_p131_102.png",
+      "relativePath": "/images/Instrument/ch14/img_p131_102.png",
+      "figureRef": "Figure 131-102",
+      "index": 102
+    },
+    {
+      "page": 131,
+      "file": "img_p131_103.png",
+      "relativePath": "/images/Instrument/ch14/img_p131_103.png",
+      "figureRef": "Figure 131-103",
+      "index": 103
+    },
+    {
+      "page": 131,
+      "file": "img_p131_104.png",
+      "relativePath": "/images/Instrument/ch14/img_p131_104.png",
+      "figureRef": "Figure 131-104",
+      "index": 104
+    },
+    {
+      "page": 131,
+      "file": "img_p131_105.png",
+      "relativePath": "/images/Instrument/ch14/img_p131_105.png",
+      "figureRef": "Figure 131-105",
+      "index": 105
+    }
+  ]
+}

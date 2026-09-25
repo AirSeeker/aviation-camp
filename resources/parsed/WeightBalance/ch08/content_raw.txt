@@ -1,0 +1,303 @@
+Introduction
+Weight and balance considerations of a helicopter are similar
+to those of an airplane, except they are far more critical,
+and the center of gravity (CG) range is much more limited.
+[Figures 8-1 and 8-2] The engineers who design a helicopter
+determine the amount of cyclic control authority that is
+available, and establish both the longitudinal and lateral CG
+envelopes that allow the pilot to load the helicopter so there
+is sufficient cyclic control for all flight conditions
+Weight and Balance Control—
+Helicopter
+
+Figure 8-1. Weight and balance data needed to determine proper
+loading of a helicopter.
+Helicopter basic empty weight 1,545.0 lb, EWCG +101.4
+(+0.2 lateral offset)
+CG range
+(+92.0) to (+98.0) at 1,600 lb
+(+92.0) to (+95.0) at 2,250 lb
+Empty weight CG range
+None
+Maximum weight
+2,250 lb
+Number of seats
+2 at (+64.0) (L−13.5) (R+13.5)
+lateral offset
+Maximum baggage
+(100 lb) at +105.0 (0.0 lateral offset)
+Fuel capacity
+50 gal (48 gal usable);
+288 lb at (+96.0) (−8.4 lateral offset)
+Oil capacity
+4.3 qt at (+90) (0.0 lateral)
+Figure 8-2. Typical helicopter datum, flight stations, and butt line
+locations.
+Datum FS 0.0
+FS 68.0
+FS 254.5
+BL 27.4 R
+BL −38.7 L
+Butt
+line
+zero
+Figure 8-3. Typical helicopter CG envelopes.
+2,400
+2,200
+2,000
+1,800
+1,600
+Longitudinal CG (inches aft of datum)
+Gross Weight (lb)
+Longitudinal CG Envelope
+Approved Area
+2,203
+2,027
+1,877
+2,300
+2,200
+2,100
+2,000
+1,900
+1,800
+1,700
+1,600
+−5,000 −3,000 −1,000 0 1,000 3,000 5,000
+Left Lateral Offset Moment Right
+(lb-in)
+Gross Weight (lb)
+Lateral Offset Moment Envelope
+2,203
+2,027
+1,877
+−1,705
+−326
+1,699
+If the CG is ahead of the forward limit, the helicopter tilts
+and the rotor disk has a forward pull. To counteract this
+and maintain a stationary position, rearward cyclic stick
+displacement would be required. If the CG is too far forward,
+there may not be enough available cyclic authority to allow
+the helicopter to flare during landing, and it consequently
+requires an excessive landing distance.
+If the CG is aft of the allowable limits, the helicopter flies
+with a tail-low attitude and may need more forward cyclic
+stick displacement than is available to maintain a hover in a
+no-wind condition. There might not be enough cyclic travel
+to prevent the tail boom from striking the ground. If gusty
+winds should cause the helicopter to pitch up during high
+speed fl ght, there might not be enough forward cyclic control
+to safely lower the nose.
+Helicopters are approved for a specifi maximum gross
+weight, but it is not safe to operate them at this weight under
+some conditions. A high density altitude decreases the safe
+maximum weight as it affects the hovering, takeoff, climb,
+autorotation, and landing performance.
+The fuel tanks on some helicopters are behind the CG,
+causing it to shift forward as fuel is used. Under some flight
+conditions, the balance may shift enough that there is not
+sufficient cyclic authority to flare for landing. For these
+helicopters, the loaded CG should be computed for both
+takeoff and landing weights.
+Lateral balance of an airplane is usually of little concern
+and is not normally calculated. Some helicopters, especially
+those equipped for hoist operations, are sensitive to the lateral
+position of the CG and their Pilot’s Operating Handbook/
+Rotorcraft Flight Manual (POH/RFM) include both
+longitudinal and lateral CG envelopes, as well as information
+on the maximum permissible hoist load. Figure 8-3 is an
+example of such CG envelopes.
+
+Determining the Loaded CG of a
+Helicopter
+The empty weight and empty weight center of gravity
+(EWCG) of a helicopter are determined in the same way
+as for an airplane. See Chapter 5, Single-Engine Aircraft
+Weight and Balance Computations. The weights recorded
+on the scales supporting the helicopter are added and their
+distances from the datum are used to compute the moments
+at each weighing point. The total moment is divided by the
+total weight to determine the location of the CG in inches
+from the datum. The datum of some helicopters is located at
+the center of the rotor mast, but since this causes some arms
+to be positive (behind the datum) and others negative (ahead
+of the datum), most modern helicopters have the datum
+located ahead of the aircraft, as do most modern airplanes.
+When the datum is ahead of the aircraft, all longitudinal
+arms are positive.
+The lateral CG is determined in the same way as the
+longitudinal CG, except the distances between the scales and
+butt line zero (BL 0) are used as the arms. Arms to the right
+of BL 0 are positive and those to the left are negative. The
+butt line zero (or sometimes referred to as the buttock) is a
+line through the symmetrical center of an aircraft from nose
+to tail. It serves as the datum for measuring the arms used to
+find the lateral CG. Lateral moments that cause the aircraft
+to roll clockwise are positive (+), and those that cause it to
+roll counterclockwise are negative (–).
+To determine whether or not a helicopter is within both
+longitudinal and lateral weight and balance limits, construct
+a table like the one in Figure 8-4, with the following data
+specific to the aircraft
+Empty weight ������������������������������������� 1,545 lb
+EWCG ������������������������������������������������ 101.4 inches aft of
+the datum
+Lateral balance ����������������������������������� arm. 0.2 inches right
+Maximum allowable gross weight ����� 2,250 lb
+Pilot ���������������������������������������������������� 200 lb @ 64 inches
+aft of datum and
+13.5 inches right of
+Passenger ������������������������������������������� 170 lb @ 64 inches
+aft of datum and
+–13.5 in left of BL 0
+Fuel (48 gal) ��������������������������������������� 288 lb @ 96 inches
+aft of datum and
+–8.4 inches left of
+Check the helicopter CG envelopes in Figure 8-3 to determine
+whether or not the CG is within limits both longitudinally
+and laterally.
+In the longitudinal CG envelope, draw a line vertically
+upward from the CG of 94.4 inches aft of datum and a
+horizontal line from the weight of 2,203 pounds gross weight.
+These lines cross within the approved area.
+In the lateral offset moment envelope, draw a line vertically
+upward from the –1,705 lb-in point (on the left side of the
+horizontal axis) and a line horizontally from 2,203 pounds on
+the gross weight index. These lines cross within the envelope,
+showing the lateral balance is also within limits.
+Effects of Offloading Passengers an
+Using Fuel
+Consider the helicopter in Figure 8-4. The first leg of the
+flight consumes 26 gallons of fuel, and at the end of this leg,
+the passenger deplanes. Is the helicopter still within allowable
+CG limits for takeoff? To findout, make a new chart like the
+one in Figure 8-5 to show the new loading conditions of the
+helicopter at the beginning of the second leg of the flight
+Under these conditions, according to the helicopter CG
+envelopes in Figure 8-3, both the longitudinal CG and the
+lateral offset moment fall outside of the approved area of
+the envelope. The aircraft longitudinal CG is too far aft and
+the potential for excessive tail-low attitudes is very high.
+Under these conditions, it is possible that there will not be
+enough forward cyclic authority to maintain level flight
+The helicopter’s lateral offset moment is too far right and
+may lead to control issues, as well as an increased hazard of
+dynamic rollover. One possible option to bring the aircraft
+loading conditions within the approved envelope is to load
+either ballast or a passenger, as computed in Figure 8-6 and
+plotted in Figure 8-3.
+
+Figure 8-6. Determining the longitudinal CG and the lateral offset moment for the second leg of the flight with ballast and/or a different
+passenger.
+Item
+Weight
+Weight
+Longitude
+Arm
+Latitude
+Arm
+Longitude
+Moment
+Longitude
+CG
+Lateral Offset
+Moment
+Helicopter empty weight
+Pilot
+Ballast/Passenger
+Fuel (22 gallons)
+156,663
+12,800
+9,600
+14,976
+194,039
+1,545
+2,027
++2,700
+−2,025
+−1,310
+−731
+1,545
+2,027
++0.2
++13.5
+−13.5
+−8.4
+x
+x
+=
+=
+Figure 8-5. Determining the longitudinal CG and the lateral offset moment for the second leg of the flight.
+Item
+Weight
+Weight
+Longitude
+Arm
+Latitude
+Arm
+Longitude
+Moment
+Longitude
+CG
+Lateral Offset
+Moment
+Helicopter empty weight
+Pilot
+Fuel (22 gallons)
+156,663
+12,800
+14,976
+184,439
+1,545
+1,877
++2,700
+−1,310
++1,699
+1,545
+1,877
++0.2
++13.5
+−8.4
+x
+x
+=
+=
+Figure 8-4. Determining the longitudinal CG and the lateral offset moment.
+Item
+Weight
+Weight
+Longitude
+Arm
+Latitude
+Arm
+Longitude
+Moment
+Longitude
+CG
+Lateral Offset
+Moment
+Helicopter empty weight
+Pilot
+Passenger
+Fuel (48 gallons)
+156,663
+12,800
+10,880
+27,648
+207,991
+1,545
+2,203
++2,700
+−2,295
+−2,419
+−1,705
+1,545
+2,203
++0.2
++13.5
+−13.5
+−8.4
+x
+x
+=
+=
