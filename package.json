@@ -2,7 +2,7 @@
   "name": "aviation-camp",
   "version": "0.1.0",
   "private": true,
-  "scripts": { "dev": "next dev", "build": "next build", "start": "next start", "lint": "next lint" },
+  "scripts": { "dev": "next dev", "build": "next build", "postbuild": "node scripts/verify_pages_export.mjs", "start": "next start", "lint": "next lint" },
   "dependencies": {
     "@mdx-js/loader": "^3.0.1",
     "@mdx-js/react": "^3.0.1",

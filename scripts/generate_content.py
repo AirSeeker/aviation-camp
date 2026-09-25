@@ -21,18 +21,6 @@ DOCS_OUTPUT_ROOT = ROOT / "src" / "content" / "docs"
 
 load_dotenv(ROOT / ".env")
 
-EASA_SUBJECTS = [
-    "Air Law",
-    "Aircraft General Knowledge",
-    "Flight Performance and Planning",
-    "Human Performance",
-    "Meteorology",
-    "Navigation",
-    "Operational Procedures",
-    "Principles of Flight",
-    "Communications",
-]
-
 GLOSSARY = {
     "Angle of Attack": "Angle of Attack",
     "Stall": "Stall",
@@ -110,39 +98,24 @@ def estimate_read_time_minutes(content: str) -> int:
 
 def infer_title_from_chapter(book_name: str, chapter_name: str, subject: str, content: str = "") -> str:
     chapter_num = maybe_infer_chapter_number(chapter_name)
-    text = (content or "").lower()
-    if "stall" in text:
-        title = f"Chapter {chapter_num}: Stall Awareness and Recovery"
-    elif "lift" in text and "drag" in text:
-        title = f"Chapter {chapter_num}: Aerodynamic Principles"
-    elif "weight" in text and "balance" in text:
-        title = f"Chapter {chapter_num}: Weight and Balance Fundamentals"
-    elif "weather" in text or "wind" in text:
-        title = f"Chapter {chapter_num}: Weather and Atmospheric Effects"
-    elif "navigation" in text or "heading" in text or "course" in text:
-        title = f"Chapter {chapter_num}: Navigation Fundamentals"
-    else:
-        title = f"Chapter {chapter_num}: {subject}"
-
-    if title.endswith(f": {subject}") and (book_name and subject):
-        return f"{subject} — Chapter {chapter_num}"
-    return title
+    return f"{subject} — Chapter {chapter_num}"
 
 
-def subject_for_book(book_name: str) -> str:
+def source_book_title(book_name: str) -> str:
     lower_name = book_name.lower()
-    mapping = {
-        "ppl": "Principles of Flight",
-        "afh": "Air Law",
-        "instrument": "Navigation",
-        "instrumentprocedures": "Operational Procedures",
-        "weather": "Meteorology",
-        "weightbalance": "Aircraft General Knowledge",
-        "riskmanagement": "Human Performance",
-        "phak": "Principles of Flight",
-        "navigation": "Navigation",
+    titles = {
+        "afh": "Airplane Flying Handbook",
+        "instrument": "Instrument Flying Handbook",
+        "instrumentprocedures": "Instrument Procedures Handbook",
+        "weather": "Aviation Weather Handbook",
+        "weightbalance": "Aircraft Weight and Balance Handbook",
+        "riskmanagement": "Risk Management Handbook",
+        "phak": "Pilot's Handbook of Aeronautical Knowledge",
     }
-    return mapping.get(lower_name, "Principles of Flight")
+    try:
+        return titles[lower_name]
+    except KeyError as exc:
+        raise ValueError(f"No display title exists for book {book_name!r}") from exc
 
 
 def normalize_text(raw_text: str) -> str:
@@ -210,14 +183,15 @@ def build_glossary_prompt() -> str:
 
 def build_system_prompt(subject: str) -> str:
     return f"""
-You are a Senior Technical Writer and Certified Flight Instructor (CFI) creating English-language MDX training content for a PPL aviation learning platform.
+You are a Senior Technical Writer and Certified Flight Instructor (CFI) creating English-language MDX study content grounded in a named FAA reference handbook.
 
-Your task is to convert raw PDF text into clear, accurate, modern MDX lesson pages for the FAA/EASA training curriculum.
+Your task is to convert raw PDF text into clear, accurate MDX study pages. Do not claim that one handbook covers an entire EASA syllabus subject.
 
 Required rules:
 - Write all output in English only, including titles, headings, explanations, callouts, and quiz questions.
 - Use standard FAA/EASA aviation terminology throughout.
 - Do not invent facts that are not supported by the source text.
+- Use the supplied handbook name as the subject and use a neutral chapter title unless the source clearly provides a chapter title.
 - Preserve operational accuracy and safe training context.
 - Use the glossary below when relevant terms appear in the source text.
 - Structure the page with a clear progression: introduction, core concepts, practical application, safety considerations, and summary.
@@ -263,7 +237,7 @@ Output requirements:
 6. Insert image placeholders in appropriate places using JSX <img src="..." alt="..." />.
 7. End the page with a JSX Quiz block containing 3–5 questions.
 8. Keep the chapter concise, practical, and suitable for a PPL student.
-9. Use standard FAA/EASA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
+9. Use standard FAA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
 """
 
 
@@ -473,7 +447,7 @@ def process_book(book_dir: Path, dry_run: bool = False, serial: bool = False, de
         chapter_name = chapter.get("chapter", "ch01")
         chapter_path = book_dir / chapter_name
         payload = load_chapter_files(book_dir, chapter_name)
-        subject = subject_for_book(book_name)
+        subject = source_book_title(book_name)
         mdx = generate_mdx_for_chapter(book_name, chapter_name, payload, subject)
         target_path = output_dir / f"{chapter_name}.mdx"
         if dry_run:

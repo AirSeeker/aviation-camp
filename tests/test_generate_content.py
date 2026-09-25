@@ -6,6 +6,7 @@ from scripts.generate_content import (
     estimate_read_time_minutes,
     generate_fallback_mdx,
     infer_title_from_chapter,
+    source_book_title,
     translation_key_for,
 )
 
@@ -42,8 +43,17 @@ class GenerateContentTests(unittest.TestCase):
         self.assertEqual(translation_key_for("WeightBalance", "ch03"), "weightbalance-ch03")
 
     def test_infer_title_uses_subject_context(self) -> None:
-        self.assertIn('Stall Awareness and Recovery', infer_title_from_chapter("PHAK", "ch04", "Principles of Flight", "stall recovery and aerodynamic limits"))
-        self.assertIn('Weight and Balance Fundamentals', infer_title_from_chapter("WeightBalance", "ch02", "Aircraft General Knowledge", "weight and balance"))
+        self.assertEqual(infer_title_from_chapter("Weather", "ch01", "Meteorology", "stall recovery and wind"), "Meteorology — Chapter 1")
+        self.assertEqual(infer_title_from_chapter("WeightBalance", "ch02", "Flight Performance and Planning", "weight and balance"), "Flight Performance and Planning — Chapter 2")
+
+    def test_book_title_uses_the_actual_handbook_name(self) -> None:
+        self.assertEqual(source_book_title("AFH"), "Airplane Flying Handbook")
+        self.assertEqual(source_book_title("PHAK"), "Pilot's Handbook of Aeronautical Knowledge")
+        self.assertEqual(source_book_title("WeightBalance"), "Aircraft Weight and Balance Handbook")
+
+    def test_unknown_book_has_no_guessed_subject(self) -> None:
+        with self.assertRaisesRegex(ValueError, "No display title"):
+            source_book_title("UnknownBook")
 
     def test_english_guardrails_detect_non_english_text(self) -> None:
         self.assertTrue(contains_non_english_text("Ключові принципи і правила польотів"))
