@@ -1,5 +1,3 @@
-Figure 7-39. Fixed (left) and retractable (right) gear airplanes.
-Figure 7-38. Tailwheel landing gear.
 allows adequate ground clearance for a larger propeller
 and is more desirable for operations on unimproved fields.
 [Figure 7-38]
@@ -19,6 +17,9 @@ Fixed and Retractable Landing Gear
 Landing gear can also be classified as either fixed or
 retractable. Fixed landing gear always remains extended
 and has the advantage of simplicity combined with low
+Figure 7-38. Tailwheel landing gear.
+Figure 7-39. Fixed (left) and retractable (right) gear airplanes.
+7-34
 maintenance. Retractable landing gear is designed to
 streamline the airplane by allowing the landing gear to
 be stowed inside the structure during cruising flight.
@@ -53,64 +54,6 @@ air into the sealed fuselage. Piston-powered aircraft may use
 air supplied from each engine turbocharger through a sonic
 venturi (flow limiter). Air is released from the fuselage by
 
-Figure 7-40. High performance airplane pressurization system.
-CODE
-Ambient air
-Compressor discharge air
-Pressurization air
-Pre-heated ambient air
-Conditioned pressurization air
-Pressurized cabin
-Air scoops
-Turbocharger
-compressor
-section
-Heat shroud
-Heat exchanger
-Forward
-air outlets
-Cabin heat
-valve
-Floor level outlets
-Safety/dump valve
-Flow control
-venturi
-To cabin altitude
-controller
-Outflow valve
-Figure 7-41. Standard atmospheric pressure chart.
-Altitude (ft)
-Pressure (psi)
-Atmosphere pressure
-Sea level
-2,000
-4,000
-6,000
-8,000
-10,000
-12,000
-14,000
-16,000
-18,000
-20,000
-22,000
-24,000
-26,000
-28,000
-30,000
-At an altitude of 28,000
-feet, standard atmo-
-spheric pressure is 4.8
-psi. By adding this
-pressure to the cabin
-pressure differential of
-6.1 psi difference (psid),
-a total air pressure of
-10.9 psi is obtained.
-The altitude at which the
-standard air pressure is
-equal to 10.9 psi can be
-found at 8,000 feet.
 a device called an outflow valve. By regulating the air exit,
 the outflow valve allows for a constant inflow of air to the
 pressurized area. [Figure 7-40]
@@ -131,26 +74,70 @@ oxygen equipment is not required. The flight crew in this
 type of aircraft must be aware of the danger of accidental
 loss of cabin pressure and be prepared to deal with such an
 emergency whenever it occurs.
+Cabin heat
+valve
+Heat shroud
+Forward
+air outlets
+Floor level outlets
+Safety/dump valve
+Ambient air
+Compressor discharge air
+CODE
+Pressurization air
+Pre-heated ambient air
+Conditioned pressurization air
+Pressurized cabin
+Figure 7-40. High performance airplane pressurization system.
+The altitude at which the
+standard air pressure is
+equal to 10.9 psi can be
+found at 8,000 feet.
+At an altitude of 28,000
+feet, standard atmo-
+spheric pressure is 4.8
+psi. By adding this
+pressure to the cabin
+pressure differential of
+6.1 psi difference (psid),
+a total air pressure of
+10.9 psi is obtained.
+Figure 7-41. Standard atmospheric pressure chart.
 The following terms will aid in understanding the operating
 principles of pressurization and air conditioning systems:
+•
 Aircraft altitude—the actual height above sea level at
 which the aircraft is flying
+•
 Ambient temperature—the temperature in the area
+Air scoops
 immediately surrounding the aircraft
+•
 Ambient pressure—the pressure in the area
+Heat exchanger
 immediately surrounding the aircraft
+Turbocharger
+•
 Cabin altitude—cabin pressure in terms of equivalent
+compressor
 altitude above sea level
+section
+•
 Differential pressure—the difference in pressure
+Flow control
 between the pressure acting on one side of a wall
+venturi
 and the pressure acting on the other side of the
 wall. In aircraft air-conditioning and pressurizing
 systems, it is the difference between cabin pressure
+To cabin altitude
+controller
 and atmospheric pressure.
 The cabin pressure control system provides cabin pressure
 regulation, pressure relief, vacuum relief, and the means
 for selecting the desired cabin altitude in the isobaric and
 differential range. In addition, dumping of the cabin pressure
+Outflow valve
 is a function of the pressure control system. A cabin pressure
 regulator, an outflow valve, and a safety valve are used to
 accomplish these functions.
@@ -161,37 +148,43 @@ aircraft reaches the altitude at which the difference between
 the pressure inside and outside the cabin is equal to the
 highest differential pressure for which the fuselage structure
 is designed, a further increase in aircraft altitude will result
+Atmosphere pressure
+Altitude (ft)
+Pressure (psi)
+Sea level
+14.7
+2,000
+13.7
+4,000
+12.7
+6,000
+11.8
+8,000
+10.9
+10,000
+10.1
+12,000
+9.4
+14,000
+8.6
+16,000
+8.0
+18,000
+7.3
+20,000
+6.8
+22,000
+6.2
+24,000
+5.7
+26,000
+5.2
+28,000
+4.8
+30,000
+4.4
+7-35
 
-Figure 7-42. Cabin pressurization instruments.
-Cabin rate-of-climb indicator
-Cabin/diﬀerential pressure indicator
-I
-I
-CABIN CLIMB
-THOUSAND FT PER MIN
-.5
-.5
-PSI
-C
-A
-BI
-N
-A
-LT
-DIFF
-PRESS
-Fe
-et
-Cabin pressure
-altitude indicator
-(thousands of feet)
-Maximum cabin
-diﬀerential pressure
-limit
-Cabin diﬀerential
-pressure indicator
-(pounds per square
-inch diﬀerential)
 in a corresponding increase in cabin altitude. Differential
 control is used to prevent the maximum differential pressure,
 for which the fuselage was designed, from being exceeded.
@@ -223,12 +216,22 @@ of the system. In some cases, these two instruments are
 combined into one. A third instrument indicates the cabin rate
 of climb or descent. A cabin rate-of-climb instrument and a
 cabin altimeter are illustrated in Figure 7-42.
+I
+CABIN CLIMB
+.5
+THOUSAND FT PER MIN
+.5
+I
+Cabin rate-of-climb indicator
+Figure 7-42. Cabin pressurization instruments.
+7-36
 Decompression is defined as the inability of the aircraft’s
 pressurization system to maintain its designed pressure
 differential. This can be caused by a malfunction in the
 pressurization system or structural damage to the aircraft.
 Physiologically, decompressions fall into the following two
 categories:
+•
 Explosive decompression—a change in cabin pressure
 faster than the lungs can decompress, possibly
 resulting in lung damage. Normally, the time required
@@ -236,6 +239,7 @@ to release air from the lungs without restrictions, such
 as masks, is 0.2 seconds. Most authorities consider any
 decompression that occurs in less than 0.5 seconds to
 be explosive and potentially dangerous.
+•
 Rapid decompression—a change in cabin pressure in
 which the lungs decompress faster than the cabin.
 During an explosive decompression, there may be noise,
@@ -256,8 +260,29 @@ higher). It is recommended that the crewmembers select the
 100 percent oxygen setting on the oxygen regulator at high
 altitude if the aircraft is equipped with a demand or pressure
 demand oxygen system.
+Cabin diﬀerential
+LT
+A
+pressure indicator
+N
+BI
+et
+A
+Fe
+C
+(pounds per square
+inch diﬀerential)
+DIFF
+PRESS
+Cabin pressure
+PSI
+altitude indicator
+(thousands of feet)
+Maximum cabin
+diﬀerential pressure
+limit
+Cabin/diﬀerential pressure indicator
 
-Figure 7-43. Oxygen system regulator.
 The primary danger of decompression is hypoxia. Quick,
 proper utilization of oxygen equipment is necessary to avoid
 unconsciousness. Another potential danger that pilots, crew,
@@ -345,8 +370,9 @@ location and functioning of oxygen pressure gauges, flow
 indicators, and connections. The mask should be donned and
 the system should be tested. After any oxygen use, verify that
 all components and valves are shut off.
+Figure 7-43. Oxygen system regulator.
+7-37
 
-Figure 7-44. Cannula with green flow detector.
 Oxygen Masks
 There are numerous types and designs of oxygen masks in
 use. The most important factor in oxygen mask use is to
@@ -375,6 +401,8 @@ Cannulas are typically more comfortable than masks, but
 may not provide an adequate flow of oxygen as reliably as
 masks when operating at higher altitudes. Airplanes certified
 to older regulations had cannulas installed with an on-board
+Figure 7-44. Cannula with green flow detector.
+7-38
 oxygen system. However, current regulations require aircraft
 with oxygen systems installed and certified for operations
 above 18,000 feet to be equipped with oxygen masks instead
@@ -425,8 +453,6 @@ provide oxygen flow during the initial portion of inhalation.
 Pulse demand systems do not waste oxygen during the
 
 Figure 7-45. Continuous flow mask and rebreather bag.
-Figure 7-46. EDS-011 portable pulse-demand oxygen system.
-Figure 7-47. Onyx pulse oximeter.
 breathing cycle because oxygen is only delivered during
 inhalation. Compared to continuous-flow systems, the pulse-
 demand method of oxygen delivery can reduce the amount
@@ -455,6 +481,7 @@ Before servicing any aircraft with oxygen, consult the
 specific aircraft service manual to determine the type of
 equipment required and procedures to be used. Certain
 precautions should be observed whenever aircraft oxygen
+Figure 7-46. EDS-011 portable pulse-demand oxygen system.
 systems are to be serviced. Oxygen system servicing should
 be accomplished only when the aircraft is located outside
 of the hangars. Personal cleanliness and good housekeeping
@@ -464,10 +491,9 @@ with petroleum products. Service people should be certain to
 wash dirt, oil, and grease (including lip salves and hair oil)
 from their hands before working around oxygen equipment. It
 is also essential that clothing and tools are free of oil, grease,
+Figure 7-47. Onyx pulse oximeter.
+7-39
 
-Figure 6-48. Deicing boots on the leading edge of the wing.
-Tubes deflated
-Tubes inflated
 and dirt. Aircraft with permanently installed oxygen tanks
 usually require two persons to accomplish servicing of the
 system. One should be stationed at the service equipment
@@ -516,6 +542,10 @@ Many deicing boot systems use the instrument system suction
 gauge and a pneumatic pressure gauge to indicate proper boot
 operation. These gauges have range markings that indicate
 the operating limits for boot operation. Some systems may
+7-40
+Tubes deflated
+Tubes inflated
+Figure 6-48. Deicing boots on the leading edge of the wing.
 also incorporate an annunciator light to indicate proper boot
 operation.
 Proper maintenance and care of deicing boots are important
@@ -539,24 +569,6 @@ prior to entering icing conditions.
 An alternate type of leading edge protection that is not as
 common as thermal anti-ice and deicing boots is known
 
-Figure 7-50. Prop ammeter and anti-ice boots.
-The boot is divided into two sections: inboard and outboard.
-When the anti-ice is operating, the inboard section heats on
-each blade, and then cycles to the outboard section. If a boot
-fails to heat properly on one blade, unequal ice loading may
-result causing severe vibration.
-Prop anti-ice boot
-PROP DEICER
-AMPS
-When the system is operating,
-the prop ammeter indicates
-normal operating range. As each
-boot section cycles, the ammeter
-fluctuates.
-Prop anti-ice ammeter
-Outboard section
-Inboard section
-Figure 7-49. TKS weeping wing anti-ice/deicing system.
 as a weeping wing. The weeping-wing design uses small
 holes located in the leading edge of the wing to prevent
 the formation and build-up of ice. An antifreeze solution
@@ -594,6 +606,7 @@ The boots are also grooved to help direct the flow of alcohol.
 This prevents ice from forming on the leading edge of the
 propeller. Propellers can also be fitted with propeller anti-ice
 boots. The propeller boot is divided into two sections—the
+Figure 7-49. TKS weeping wing anti-ice/deicing system.
 inboard and the outboard sections. The boots are imbedded
 with electrical wires that carry current for heating the
 propeller. The prop anti-ice system can be monitored for
@@ -616,6 +629,24 @@ Chapter Summary
 All aircraft have a requirement for essential systems such
 as the engine, propeller, induction, ignition systems as well
 as the fuel, lubrication, cooling, electrical, landing gear, and
+Prop anti-ice ammeter
+When the system is operating,
+the prop ammeter indicates
+normal operating range. As each
+boot section cycles, the ammeter
+PROP DEICER
+fluctuates.
+AMPS
+Outboard section
+Inboard section
+Prop anti-ice boot
+The boot is divided into two sections: inboard and outboard.
+When the anti-ice is operating, the inboard section heats on
+each blade, and then cycles to the outboard section. If a boot
+fails to heat properly on one blade, unequal ice loading may
+result causing severe vibration.
+Figure 7-50. Prop ammeter and anti-ice boots.
+7-41
 
 environmental control systems to support flight. Understanding
 the aircraft systems of the aircraft being flown is critical to
@@ -623,3 +654,4 @@ its safe operation and proper maintenance. Consult the AFM/
 POH for specific information pertaining to the aircraft being
 flown. Various manufacturer and owners group websites can
 also be a valuable source of additional information.
+7-42

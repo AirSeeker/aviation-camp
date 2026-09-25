@@ -1,6 +1,3 @@
-O
-F
-F
 Figure 11-8. Vacuum failure.
 system’s vacuum/pressure gauge. This can be a hazardous
 situation with the potential to lead the unsuspecting pilot into
@@ -31,6 +28,13 @@ what altitude to fly, and when to continue beyond a clearance
 limit. Title 14 of the Code of Federal Regulations (14 CFR)
 part 91 describes the procedures to be followed in case of a
 two-way radio communications failure. If operating in VFR
+11-8
+O
+F
+F
+29.8
+29.9
+30.0
 conditions at the time of the failure, the pilot should continue
 the flight under VFR and land as soon as practicable. If the
 failure occurs in IFR conditions, or if VFR conditions cannot
@@ -65,95 +69,112 @@ expected in a further clearance.
 In addition to route and altitude, the pilot must also plan the
 progress of the flight to leave the clearance limit.
 
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
-NRST
-AL
-REF
-200 GND R LCL 16
-Figure 11-9. The default soft key menu that is displayed on the PFD contains a “NRST” (Nearest Airport) soft key. Pressing this soft
-key opens a text box that displays the nearest 25 airports.
 GPS Nearest Airport Function
-Procedures for accessing the nearest airport information vary
-by the type of display installed in an aircraft. Pilots can obtain
-information relative to the nearest airport by using the PFD,
-multi-function display (MFD), or the nearest function on the
-GPS receiver. The following examples are based on a popular
-system. Pilots should become familiar with the operational
-characteristics of the equipment to be used.
-Nearest Airports Using the PFD
-With the advancements in electronic databases, diverting to
-alternate airports has become easier. Simply by pressing a soft
-key on the PFD, pilots can access information for up to 25 of
-the nearest airports that meet the criteria set in the systems
-configuration page. [Figure 11-9] Pilots are able to specify
-what airports are acceptable for their aircraft requirements
-based on landing surface and length of runway.
-When the text box opens, the flashing cursor is located over
-the nearest airport that meets the criteria set in the auxiliary
-setup page as shown in Figure 11-10. Scrolling through the
-25 airports is accomplished by turning the outer FMS knob,
-which is located on the lower right corner of the display
-screen. Turning the FMS knob clockwise moves the blinking
-cursor to the next closest airport. By continuing to turn the
-knob, the pilot is able to scroll through all 25 nearest airports.
-Each airport box contains the information illustrated in
 1.
 When the clearance limit is a fix from which an
 approach begins, commence descent or descent
+Procedures for accessing the nearest airport information vary
 and approach as close as possible to the expect-
+by the type of display installed in an aircraft. Pilots can obtain
 further-clearance time if one has been received. If an
+information relative to the nearest airport by using the PFD,
 expect-further-clearance time has not been received,
+multi-function display (MFD), or the nearest function on the
 commence descent or descent and approach as close as
+GPS receiver. The following examples are based on a popular
 possible to the estimated time of arrival as calculated
+system. Pilots should become familiar with the operational
 from the filed or amended (with ATC) estimated time
+characteristics of the equipment to be used.
 en route.
+Nearest Airports Using the PFD
 2.
 If the clearance limit is not a fix from which an
 approach begins, leave the clearance limit at the
+With the advancements in electronic databases, diverting to
 expect-further-clearance time if one has been received.
+alternate airports has become easier. Simply by pressing a soft
 If no expect-further-clearance time has been received,
+key on the PFD, pilots can access information for up to 25 of
 leave the clearance limit upon arrival over it, and
+the nearest airports that meet the criteria set in the systems
 proceed to a fix from which an approach begins and
+configuration page. [Figure 11-9] Pilots are able to specify
 commence descent or descent and approach as close as
+what airports are acceptable for their aircraft requirements
 possible to the estimated time of arrival as calculated
+based on landing surface and length of runway.
 from the filed or amended (with ATC) estimated time
 en route. [Figure 11-8]
+When the text box opens, the flashing cursor is located over
+the nearest airport that meets the criteria set in the auxiliary
 While following these procedures, set the transponder to
+setup page as shown in Figure 11-10. Scrolling through the
 code 7600, and use all means possible to reestablish two-way
+25 airports is accomplished by turning the outer FMS knob,
 radio communication with ATC. This includes monitoring
+which is located on the lower right corner of the display
 navigational aids (NAVAIDs), attempting radio contact with
+screen. Turning the FMS knob clockwise moves the blinking
 other aircraft, and attempting contact with a nearby flight
+cursor to the next closest airport. By continuing to turn the
 service station (FSS).
+knob, the pilot is able to scroll through all 25 nearest airports.
+Each airport box contains the information illustrated in
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+200 GND R LCL 16
+NRST
+REF
+AL
+ALERTS
+Figure 11-9. The default soft key menu that is displayed on the PFD contains a “NRST” (Nearest Airport) soft key. Pressing this soft
+key opens a text box that displays the nearest 25 airports.
+11-9
 
+Flashing
+Figure 11-10. An enlargement of the box shown in the lower right
+of Figure 11-9. Note that KGNV would be flashing.
+Figure 11-11, which the pilot can utilize to determine which
+airport best suits their individual needs.
 Airport identifier
-Best approach available
 Airport symbol
+Best approach available
 Distance to the airport
 from present position
-Longest runway available
 Communication frequency and type
+Longest runway available
 Figure 11-11. Information shown on the nearest airport page.
+Additional Information for a Specific Airport
+In addition to the information that is presented on the first
+screen, the pilot can view additional information as shown in
+Figure 11-12 by highlighting the airport identifier and then
+pressing the enter key.
+From this menu or the previous default nearest airport screen,
+the pilot is able to activate the Direct-To function, which
+provides a direct GPS course to the airport. In addition,
+the pilot can auto-tune communication frequencies by
+highlighting the appropriate frequency and then pressing
+the enter key. The frequency is placed in the stand-by box
+of either COM1 or COM2, whichever frequency has the
+cyan box around it.
+11-10
 Airport identifier
 Airport symbol
 Closest city
+ALERTS
+Field elevation
 Name of the airport
 Type of airport
-Field elevation
 Geographic region
 Fuel available
 Lat/long coordinates
 Figure 11-12. Information shown on the additional information
 page that will aid the pilot in making a more informed decision
 about which airport to choose when diverting.
-ALERTS
-Flashing
-Figure 11-10. An enlargement of the box shown in the lower right
-of Figure 11-9. Note that KGNV would be flashing.
 Nearest Airports Using the MFD
 A second way to determine the nearest airport is by
 referencing the NRST Page Group located on the MFD. This
@@ -182,47 +203,17 @@ Figure 11-16 illustrates four specific soft keys that allow
 the pilot to access independent windows of the airport page.
 Selection of each of these windows can also be accomplished
 by utilizing the MENU hard key.
-Figure 11-11, which the pilot can utilize to determine which
-airport best suits their individual needs.
-Additional Information for a Specific Airport
-In addition to the information that is presented on the first
-screen, the pilot can view additional information as shown in
-Figure 11-12 by highlighting the airport identifier and then
-pressing the enter key.
-From this menu or the previous default nearest airport screen,
-the pilot is able to activate the Direct-To function, which
-provides a direct GPS course to the airport. In addition,
-the pilot can auto-tune communication frequencies by
-highlighting the appropriate frequency and then pressing
-the enter key. The frequency is placed in the stand-by box
-of either COM1 or COM2, whichever frequency has the
-cyan box around it.
 
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+MAP - NAVIGATION MAP
 MAP
 DCLTR
-MAP - NAVIGATION MAP
-Figure 11-13. The MFD is another means of viewing the nearest airports.
 ALERTS
-DCLTR
-Figure 11-14. Page groups. As the FMS outer knob is rotated, the
-current page group is indicated by highlighting the specific group
-indicator. Notice that the MAP page group is highlighted.
-The soft keys and functions are as follows: Scroll through
-each section with the cursor, then press enter to accept the
-selection.
-1.
-APT. Allows the user access to scroll through the
-25 nearest airports. The white arrow indicates which
-airport is selected. The INFORMATION window
-is slaved to the white arrow. The INFORMATION
-window decodes the airport identifier. Scroll through
-the 25 airports by turning the outer FMS knob.
+Figure 11-13. The MFD is another means of viewing the nearest airports.
 2.
 RNWY. Moves the cursor into the Runways section
 and allows the user to scroll through the available
@@ -233,222 +224,218 @@ indicates additional runways to view.
 FREQ. Moves the cursor into the Frequencies section
 and allows the pilot to highlight and auto-tune the
 frequency into the selected standby box.
+DCLTR
+ALERTS
 4.
 APR. Moves the cursor into the Approach section and
 allows the pilot to review approaches and load them
 into the flight plan. When the APR soft key is selected,
 an additional soft key appears. The LD APR (Load
 Approach) soft key must be pressed once the desired
+Figure 11-14. Page groups. As the FMS outer knob is rotated, the
 instrument approach procedure has been highlighted.
+current page group is indicated by highlighting the specific group
 Once the soft key is pressed, the screen changes to the
+indicator. Notice that the MAP page group is highlighted.
 PROC Page Group. From this page, the pilot is able to
+The soft keys and functions are as follows: Scroll through
 choose the desired approach, the transition, and choose
+each section with the cursor, then press enter to accept the
 the option to activate the approach or just load it into
+selection.
 the flight plan.
+1.
+APT. Allows the user access to scroll through the
 Situational Awareness
+25 nearest airports. The white arrow indicates which
+airport is selected. The INFORMATION window
 Situational awareness is not simply a mental picture of
+is slaved to the white arrow. The INFORMATION
 aircraft location; rather, it is an overall assessment of each
+window decodes the airport identifier. Scroll through
 element of the environment and how it affects a flight. On
+the 25 airports by turning the outer FMS knob.
 one end of the situational awareness spectrum is a pilot who
+11-11
 
-RNWY
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
-MAP
-APT
-FREQ
-APR
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
 NRST - NEAREST AIRPORTS
+APR
+MAP
+FREQ
+ALERTS
+RNWY
+APT
 Figure 11-15. The page group of nearest airports has been selected.
 is knowledgeable of every aspect of the flight; consequently,
+cause a pilot to find his or her aircraft in an unusual attitude.
 this pilot’s decision-making is proactive. With good
+In this situation, established procedures must be used to
 situational awareness, this pilot is able to make decisions
+regain situational awareness.
 well ahead of time and evaluate several different options.
 On the other end of the situational awareness spectrum is a
-pilot who is missing important pieces of the puzzle: “I knew
-exactly where I was when I ran out of fuel.” Consequently,
-this pilot’s decision-making is reactive. With poor situational
-awareness, a pilot lacks a vision of future events and is forced
-to make decisions quickly, often with limited options.
-During a typical IFR flight, a pilot operates at varying levels
-of situational awareness. For example, a pilot may be cruising
-to his or her destination with a high level of situational
-awareness when ATC issues an unexpected standard terminal
-arrival route (STAR). Since the pilot was not expecting the
-STAR and is not familiar with it, situational awareness is
-lowered. However, after becoming familiar with the STAR
-and resuming normal navigation, the pilot returns to a higher
-level of situational awareness.
-Factors that reduce situational awareness include: distractions,
-unusual or unexpected events, complacency, high workload,
-unfamiliar situations, and inoperative equipment. In some
-situations, a loss of situational awareness may be beyond a
-pilot’s control. For example, a pneumatic system failure and
-associated loss of the attitude and heading indicators could
-cause a pilot to find his or her aircraft in an unusual attitude.
-In this situation, established procedures must be used to
-regain situational awareness.
 Pilots should be alert to a loss of situational awareness
+pilot who is missing important pieces of the puzzle: “I knew
 anytime they are in a reactive mindset. To regain situational
+exactly where I was when I ran out of fuel.” Consequently,
 awareness, reassess the situation and seek additional
+this pilot’s decision-making is reactive. With poor situational
 information from other sources, such as the navigation
+awareness, a pilot lacks a vision of future events and is forced
 instruments or ATC.
+to make decisions quickly, often with limited options.
 Traffic Avoidance
+During a typical IFR flight, a pilot operates at varying levels
 EFDs have the capability of displaying transponder-equipped
+of situational awareness. For example, a pilot may be cruising
 aircraft on the MFD, as well as the inset map on the PFD.
+to his or her destination with a high level of situational
 However, due to the limitations of the systems, not all traffic
+awareness when ATC issues an unexpected standard terminal
 is displayed. Some traffic information service (TIS) units
+arrival route (STAR). Since the pilot was not expecting the
 display only eight intruding targets within the service volume.
+STAR and is not familiar with it, situational awareness is
 The normal service volume has altitude limitations of 3,500
+lowered. However, after becoming familiar with the STAR
 feet below the aircraft to 3,500 feet above the aircraft. The
+and resuming normal navigation, the pilot returns to a higher
 lateral limitation is 7 NM. [Figure 11-17] Pilots unfamiliar
+level of situational awareness.
 with the limitations of the system may rely on the aural
 warnings to alert them to approaching traffic.
+Factors that reduce situational awareness include: distractions,
+unusual or unexpected events, complacency, high workload,
 In addition to an outside visual scan of traffic, a pilot should
+unfamiliar situations, and inoperative equipment. In some
 incorporate any traffic information electronically displayed,
+situations, a loss of situational awareness may be beyond a
 such as TIS. This innovation in traffic alerting reinforces and
+pilot’s control. For example, a pneumatic system failure and
 adds synergy to the ability to see and avoid. However, it is
+associated loss of the attitude and heading indicators could
 an aid and not a replacement for the responsibilities of the
+11-12
 
-RNWY
+Green arrow indicates
+B
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _°T TRK 360°T
+134.000 118.000 COM1
+additional runways to view.
+123.800 118.000 COM2
+NRST - NEAREST AIRPORTS
+A
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 134.000 118.000 COM1
 123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
-APT
-FREQ
-APR
 NRST - NEAREST AIRPORTS
-APT
-RN
-APT
+T
 RNWY
-APR
-FREQ
+F
 The white arrow
 indicates which
 airport is selected.
-A
-A
+APR
+FREQ
+ALERTS
+RNWY
+APT
 C
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+134.000 118.000 COM1
+123.800 118.000 COM2
+NRST - NEAREST AIRPORTS
+Standby box
+APT
+RN
+APR
+FREQ
+ALERTS
+RNWY
+APT
+APR
+FREQ
+APT
+RNWY
+WY
+FREQ
+A
+APR
+FREQ
+ALERTS
+RNWY
+APT
+A
 B
+C
 D
 Airport Runway
 Frequency
 Approach
-Figure 11-16. The four soft keys at the bottom of the MFD are airport (A), runway (B), frequency (C), and approach (D).
-RNWY
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _°T TRK 360°T
-ALERTS
-APT
-FREQ
-APR
-NRST - NEAREST AIRPORTS
-F
-T
-RNWY
-Green arrow indicates
-additional runways to view.
-B
-RNWY
-134.000 118.000 COM1
-123.800 118.000 COM2
+D
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
-APT
-FREQ
-APR
-WY
-FREQ
-A
-Standby box
-C
-NRST - NEAREST AIRPORTS
-RNWY
 134.000 118.000 COM1
 123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
-APT
-FREQ
-APR
 NRST - NEAREST AIRPORTS
-RNWY
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _°T TRK 360°T
-M
-BUS
-E
-VOLTS
-M
-BATT
-E
-AMPS
-ELECTRICAL
 NAV1 108.00 113.00
-NAV2 108.00 110.60
 134.000 118.000 COM1
-123.800 118.000 COM2
+NAV1 108.00 113.00
+134.000 118.000 COM1
 GS 0KT
 XTK 0.00NM
 ETE 02:58
 ESA 2600FT
+NAV2 108.00 110.60
+123.800 118.000 COM2
+NAV2 108.00 110.60
+123.800 118.000 COM2
 WPT - APPROACH LOADING
 NORTH UP
+27.4
+10.0
+61.9
+5N
 Q
 APR
-5N
+ELECTRICAL
+M
+BUS
+E
+39.3
+0.0
+VOLTS
+M
+BATT
+E
+0.0
+0.0
+AMPS
+RNWY
 From this page, the pilot is able to choose the desired
 approach, transition, and choose the option to activate
-the approach or just load it into the flight plan.
-D
-
-3,500'
-3,500'
-7 NMI
-Figure 11-17. The area surrounding the aircraft for coverage
-using TIS.
-MODE
-MAP WPT AUX NRST
-VOLTS 28.1
-RUDDER TRIM
-L R
-ELECTRICAL
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+APR
+FREQ
 ALERTS
-MAP - TRAFFIC MAP
-TRAFFIC MODE
-OPERATE
-FLAPS
-ELEV
-TRIM
-UP
-DN TA OFF SCALE
-HDG UP
-12NM
-6NM
-+05
-+05
-Figure 11-18. A typical display on aircraft MFD when using TIS.
+RNWY
+APT
+the approach or just load it into the flight plan.
+Figure 11-16. The four soft keys at the bottom of the MFD are airport (A), runway (B), frequency (C), and approach (D).
+11-13
+
 pilot. Systems such as TIS provide a visual representation
+7 NMI
 of nearby traffic and displays a symbol on the moving map
 display with relative information about altitude, vertical
 trends, and direction of flight. [Figure 11-18]
 It is important to remember that most systems display only a
 specific maximum number of targets allowed. Therefore, it
+3,500'
 does not mean that the targets displayed are the only aircraft
 in the vicinity. The system displays only the closest aircraft.
 In addition, the system does not display aircraft that are not
@@ -459,7 +446,44 @@ available in some areas of the United States. Traffic advisory
 software is to be utilized only for increased situational
 awareness and not the sole means of traffic avoidance. There is
 no substitute for a good visual scan of the surrounding sky.
+3,500'
+Figure 11-17. The area surrounding the aircraft for coverage
+using TIS.
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+MAP - TRAFFIC MAP
+TRAFFIC MODE
+HDG UP
+OPERATE
+12NM
+27.4
+6NM
+10.0
++05
++05
+61.9
+FLAPS
+-03
+ELEV
+TRIM
+UP
+ELECTRICAL
+VOLTS 28.1
+SATZ AMPS 0
+RUDDER TRIM
+DN TA OFF SCALE
+MAP WPT AUX NRST
+L R
+MODE
+ALERTS
+Figure 11-18. A typical display on aircraft MFD when using TIS.
+11-14
 
+Appendix A
+Clearance Shorthand
 The following shorthand system is recommended by the
 Federal Aviation Administration (FAA). Applicants for the
 instrument rating may use any shorthand system, in any
@@ -501,7 +525,6 @@ At or Below....................................................................
 (ATC) Advises................................................................CA
 (ATC) Clears or Cleared.................................................. C
 (ATC) Requests..............................................................CR
-Appendix A
 Back Course....................................................................BC
 Bearing...........................................................................BR
 Before (Reaching, Passing)...............................................>
@@ -527,7 +550,6 @@ Cross...........................................................................
 Cruise..............................................................................
 Delay Indefinite............................................................ DLI
 Depart (Direction, if Specified)................................ T
-( )
 Departure Control........................................................ DPC
 Descend To (Altitude, Hundreds of Feet)...................... 70
 Direct..............................................................................DR
@@ -544,7 +566,8 @@ Enter Control Area.......................................................
 Estimated Time of Arrival........................................... ETA
 Expect.............................................................................EX
 Expect-Further-Clearance.............................................EFC
-Clearance Shorthand
+( )
+A-1
 
 Fan Marker.................................................................... FM
 Final...................................................................................F
@@ -582,6 +605,7 @@ Precision Approach Radar........................................... PAR
 Procedure Turn............................................................... PT
 Radar Vector...................................................................RV
 Radial (080° Radial)................................................... 080R
+A-2
 Reduce Speed 20 Knots..............................................-20 K
 Remain This Frequency................................................RTF
 Remain Well to Left Side............................................... LS
@@ -603,7 +627,6 @@ Standby......................................................................STB
 Straight-in Approach........................................................SI
 Surveillance Radar Approach...................................... ASR
 Takeoff (Direction)....................................................T
-N
 Tower.................................................................................Z
 Turn Left......................................................................... TL
 Turn Right......................................................................TR
@@ -618,3 +641,4 @@ VOR.............................................................................
 VOR Approach...............................................................VR
 VORTAC.......................................................................
 While in Control Area..................................................
+N

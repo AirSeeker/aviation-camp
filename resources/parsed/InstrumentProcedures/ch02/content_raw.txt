@@ -1,3 +1,5 @@
+Chapter 2
+En Route Operations
 Introduction
 The en route phase of flight is defined as that segment of
 flight from the termination point of a departure procedure
@@ -8,7 +10,7 @@ by 14 CFR [Figure 2-1], FAA Order 8260.3, and related
 publications. These standards establish courses to be flown,
 obstacle clearance criteria, minimum altitudes, navigation
 performance, and communications requirements.
-En Route Operations
+2-1
 
 Figure 2-1. Code of Federal Regulations, Title 14 Aeronautics and Space.
 En Route Navigation
@@ -24,6 +26,8 @@ phases of flight, to include en route navigation.
 14 CFR Part 91, § 91.181, is the basis for the course to be
 flown. Unless authorized by ATC, to operate an aircraft
 within controlled airspace under IFR, pilots must either
+Figure 2-2. Airways depicted on an aeronautical chart.
+2-2
 fly along the centerline when on a Federal airway or,
 on routes other than Federal airways, along the direct
 course between NAVAIDs or fixes defining the route. The
@@ -57,86 +61,86 @@ have names consisting of one or more letters followed by
 one or more digits (e.g., V484 or UA419).
 The en route airspace structure of the National Airspace
 System (NAS) consists of three strata. The first stratum low
-Figure 2-2. Airways depicted on an aeronautical chart.
 
+Air Route Traffic Control Centers
 altitude airways in the United States can be navigated
 using NAVAIDs, have names that start with the letter V, and
+The FAA defines an Air Route Traffic Control Center (ARTCC)
 are called Victor Airways. [Figure 2-3] They cover altitudes
+as a facility established to provide air traffic control (ATC)
 from approximately 1,200 feet above ground level (AGL)
+service to aircraft operating on IFR flight plans within
 up to, but not including 18,000 feet above mean sea level
+controlled airspace, principally during the en route phase
 (MSL). The second stratum high altitude airways in the
+of flight. When equipment capabilities and controller
 United States all have names that start with the letter J,
+workload permit, certain advisory/assistance services may
 and are called Jet Routes. [Figure 2-4] These routes run
+be provided to VFR aircraft.
 from 18,000 feet to 45,000 feet. The third stratum allows
 random operations above flight level (FL) 450. The altitude
-separating the low and high airway structure varies from
-county to country. For example, in Switzerland it is 19,500
-feet and 25,000 feet in Egypt.
-Air Route Traffic Control Centers
-The FAA defines an Air Route Traffic Control Center (ARTCC)
-as a facility established to provide air traffic control (ATC)
-service to aircraft operating on IFR flight plans within
-controlled airspace, principally during the en route phase
-of flight. When equipment capabilities and controller
-workload permit, certain advisory/assistance services may
-be provided to VFR aircraft.
 ARTCCs, usually referred to as Centers, are established
+separating the low and high airway structure varies from
 primarily to provide air traffic service to aircraft operating
+county to country. For example, in Switzerland it is 19,500
 on IFR flight plans within the controlled airspace, and
+feet and 25,000 feet in Egypt.
 principally during the en route phase of flight. There are
 Figure 2-3. Victor airways.
 Figure 2-4. Jet routes.
-ZID
-ZMP
-ZOB
-ZBW
-ZNY
-ZNY
-ZDC
-ZAU
-ZKC
-ZME
-ZTL
-ZJX
-ZMA
-ZHU
-ZFW
-ZAB
-ZDV
-ZLA
-ZOA
-ZLC
-ZSE
-ZHN
-ZAN
-Cleveland Center
-Albuquerque Center
 Seattle Center
-Atlanta Center
-Chicago Center
+ZSE
+ZMP
+Minneapolis Center
 Boston Center
-Washington
-Center (DC)
+ZLC
+ZBW
+Salt Lake City Center
+ZAU
+ZOB
+Chicago Center
+ZNY
+Cleveland Center
+ZDV
 Denver Center
-Fort Worth Center
-Houston Center
+ZNY
+ZKC
+ZID
+ZOA
+New York
+Kansas City Center
 Indianapolis
 Center
-Jacksonville Center
-Kansas City Center
-Los Angeles Center
-Salt Lake City Center
-Miami Center
-Memphis Center
-Minneapolis Center
-New York
-Center
 Oakland Center
+ZDC
+Center
+Washington
+Memphis Center
+Center (DC)
+Atlanta Center
+ZME
+ZLA
+ZTL
+Los Angeles Center
+ZAB
+ZFW
+Albuquerque Center
+Fort Worth Center
+ZJX
+Jacksonville Center
+Houston Center
+ZHU
+ZAN
+Miami Center
+ZHN
+Anchorage
+ZMA
+Center
 Honolulu
 Center
-Anchorage
-Center
 Figure 2-5. Air Route Traffic Control Centers.
+2-3
 
 21 ARTCC’s in the United States. [Figure 2-5] Any aircraft
 operating under IFR within the confines of an ARTCC’s
@@ -165,9 +169,11 @@ way, the specialist ensures that the aircraft are separated
 by the following criteria:
 • Laterally—5 miles
 • Vertically—
+•
 1,000 feet (if the aircraft is below FL 290, or
 between FL 290 and FL 410 for RVSM compliant
 aircraft)
+•
 2,000 feet (if the aircraft is at FL 290 or above)
 The controllers can accomplish this separation by issuing
 instructions to the pilots of the aircraft involved. Altitude
@@ -185,6 +191,7 @@ possible to determine potential conflicts long before the
 aircraft are even visible on the Center controller’s display.
 In areas where radar coverage is not available, this is the
 sole means of separating aircraft.
+2-4
 Figure 2-6. Boston Air Route Traffic Control Center.
 The strips, one for each en route point from which the
 pilot reports his or her position, are posted on a slotted
@@ -227,10 +234,15 @@ Figure 2-11. High altitude sectors.
 Figure 2-12. Ultra high altitude sectors.
 The ARTCC at Fort Worth, Texas is subdivided into sectors
 that are categorized as follows:
+2-5
 
+•
 Eighteen low altitude sectors. [Figure 2-9]
+•
 Seven intermediate altitude sectors. [Figure 2-10]
+•
 Sixteen high altitude sectors. [Figure 2-11]
+•
 One ultra high altitude sector. [Figure 2-12]
 From one to three controllers may work a sector, depending
 upon the amount of air traffic. Each controller is assigned
@@ -252,6 +264,9 @@ assuming the aircraft does not change its course. This is
 a helpful tool to determine if aircraft flying intersecting
 routes pass safely within the separation standard, or if they
 conflict with each other. In addition to vector lines, the
+NOT FOR NAVIGATION
+Figure 2-13. Air Route Traffic Control Centers and sector frequencies.
+2-6
 controller can also display a route line for any given aircraft
 on his or her radar screen. This tells the controller where
 a particular aircraft is in specified number of minutes, as
@@ -277,15 +292,15 @@ Figure 2-13, notice the boundary between Memphis,
 Tennessee and Atlanta, Georgia Centers, and the remote
 sites with discrete very high frequency (VHF) and ultra high
 frequency (UHF) for communicating with the appropriate
-NOT FOR NAVIGATION
-MEMPHIS
-Huntsville
 ATLANTA
 Chattanooga
 132.05 353.8
 MEMPHIS
+Huntsville
+307.0
+120.8
+MEMPHIS
 ATLANTA
-Figure 2-13. Air Route Traffic Control Centers and sector frequencies.
 
 ARTCC. These Center frequency boxes can be used for
 finding the nearest frequency within the aircraft range.
@@ -386,6 +401,7 @@ preferred IFR route that is appropriate for the departure or
 arrival point listed. Preferred IFR routes are correlated with
 departure procedures (DPs) and STARs and may be defined
 by airways, jet routes, direct routes between NAVAIDs,
+2-7
 
 Figure 2-14. Chart Supplement (includes Airport/Facility Directory
 section).
@@ -393,6 +409,8 @@ waypoints, NAVAID radials/ distance measuring equipment
 (DME), or any combinations thereof.
 Preferred IFR routes are published in the CS for the low and
 high altitude stratum. If they begin or end with an airway
+Figure 2-15 Preferred IFR routes.
+2-8
 number, it indicates that the airway essentially overlies
 the airport and flights normally are cleared directly on the
 airway. Preferred IFR routes beginning or ending with a fix
@@ -420,321 +438,295 @@ of air traffic using Federal airways. Preferred IFR routes
 are designed to serve the needs of airspace users and
 to provide for a systematic flow of air traffic in the major
 terminal and en route flight environments. Cooperation by
-Figure 2-15 Preferred IFR routes.
 
+Substitute Airway En Route Flight Procedures
 all pilots in filing preferred routes results in fewer air traffic
 delays and better efficiency for departure, en route, and
-arrival air traffic service. [Figure 2-15]
-Substitute Airway or Route Structures
-ARTCCs are responsible for specifying essential substitute
-airway or route segments (sub-routes) and fixes for use
-during scheduled or unscheduled VOR/VORTAC shutdowns.
-Scheduled shutdowns of navigational facilities require
-planning and coordination to ensure an uninterrupted
-flow of air traffic. Aeronautical Information Services, in
-coordination with the ARTCCs, determine when the length
-of outages or other factors require publication of sub-
-routes and Flight Program Operations (AJW-3) provides
-flight inspection services, obstacle clearance verification,
-certification, and final approval of substitute routes.
-Substitute Airway En Route Flight Procedures
 A schedule of proposed facility shutdowns within the region
+arrival air traffic service. [Figure 2-15]
 is maintained and forwarded as far in advance as possible
 to enable the substitute routes to be published. Substitute
+Substitute Airway or Route Structures
 routes are normally based on VOR/VORTAC facilities
+ARTCCs are responsible for specifying essential substitute
 established and published for use in the appropriate
+airway or route segments (sub-routes) and fixes for use
 altitude strata. In the case of substitute routes in the upper
+during scheduled or unscheduled VOR/VORTAC shutdowns.
 airspace stratum, it may be necessary to establish routes by
+Scheduled shutdowns of navigational facilities require
 reference to VOR/VORTAC facilities used in the low altitude
+planning and coordination to ensure an uninterrupted
 system. Non-directional (radio) beacon (NDB) facilities may
+flow of air traffic. Aeronautical Information Services, in
 only be used where VOR/VORTAC coverage is inadequate
+coordination with the ARTCCs, determine when the length
 and ATC requirements necessitate use of such NAVAIDs.
+of outages or other factors require publication of sub-
 Where operational necessity dictates, NAVAIDs may be
+routes and Flight Program Operations (AJW-3) provides
 used beyond their standard service volume (SSV) limits that
+flight inspection services, obstacle clearance verification,
 define the reception limits of unrestricted NAVAIDs, which
+certification, and final approval of substitute routes.
 are usable for random/unpublished route navigation,
 provided that the routes can be given adequate frequency
 protection.
 Uncontrolled airspace
-BCD vortac (shutdown)
+Sub-route V-98
 ABC vortac
-CDE vortac
+V-98
+V-98
 Obstacle study and flight
 inspection of sub-route required
 (Centerline must be in
 controlled airspace)
+BCD vortac (shutdown)
 Figure 2-16 14 CFR Part 95 sub-routes.
 Uncontrolled airspace
-BCD vortac (shutdown)
-ABC vortac
 Off-airway sub-route
-CDE vortac
+ABC vortac
+V-98
+V-98
 Obstacle study and flight
 inspection of sub-route required
+BCD vortac (shutdown)
 Figure 2-17 Non-Part 95 sub-routes.
+CDE vortac
+CDE vortac
+2-9
 
 GHI vortac
-IJK vortac (L)
 HIJ vortac
+IJK vortac (L)
+V-204
+V-204
 Obstacle study flight
 inspection and ESV’s
 required
 GHI vortac
 IJK vortac (L)
-HIJ vortac (shutdown)
 60*
+SUB-ROUTE V-204
+HIJ vortac (shutdown)
 Figure 2-18 Sub-route wider than existing route.
 The centerline of substitute routes must be contained
+used by non-turbojet aircraft operating at and below
 within controlled airspace [Figure 2-16], although substitute
+10,000 feet but a few facilities, such as Milwaukee and
 routes for off-airway routes may not be in controlled air-
+Chicago, have allowed turbojets to proceed between
 space. [Figure 2-17] Substitute routes are flight inspected
+city pairs. Participating flights are relatively short with a
 to verify clearance of controlling obstacles and to check for
+duration of two hours or less.
 satisfactory facility performance. If substitute routes do not
 overlie existing routes, or are wider than existing routes,
+TEC is referred to as tower en route, or tower-to-tower, and
 map studies are required to identify controlling obstacles.
+allows flight beneath the en route structure. TEC reallocates
 [Figure 2-18] The format for describing substitute routes
+airspace both vertically and geographically to allow flight
 is from navigational fix to navigational fix. A minimum en
+planning between city pairs while remaining with approach
 route altitude (MEA) and a maximum authorized altitude
+control airspace. All users are encouraged to use the TEC
 (MAA) are provided for each route segment. Temporary
+route descriptions located in the CS when filing flight plans.
 reporting points may be substituted for the out-of-service
+[Figure 2-20] All published TEC routes are designed to avoid
 facility and only those other reporting points that are
+en route airspace, and the majority is within radar coverage.
 essential for ATC. Normally, temporary reporting points
+Tower En Route Control Route Descriptions
 over intersections are not necessary where Center radar
 coverage exists. A minimum reception altitude (MRA) is
-established for each temporary reporting point.
-Tower En Route Control
-Tower en route control (TEC) is an ATC program available
-to pilots that provides a service to aircraft proceeding to
-and from metropolitan areas. It links designated approach
-control areas by a network of identified routes made up
-of the existing airway structure of the NAS, which makes
-it possible to fly an IFR flight without leaving approach
-control airspace. [Figure 2-19] This service is designed
-to help expedite air traffic and reduces ATC and pilot
-communication requirements. The program is generally
-used by non-turbojet aircraft operating at and below
-10,000 feet but a few facilities, such as Milwaukee and
-Chicago, have allowed turbojets to proceed between
-city pairs. Participating flights are relatively short with a
-duration of two hours or less.
-TEC is referred to as tower en route, or tower-to-tower, and
-allows flight beneath the en route structure. TEC reallocates
-airspace both vertically and geographically to allow flight
-planning between city pairs while remaining with approach
-control airspace. All users are encouraged to use the TEC
-route descriptions located in the CS when filing flight plans.
-[Figure 2-20] All published TEC routes are designed to avoid
-en route airspace, and the majority is within radar coverage.
-Tower En Route Control Route Descriptions
 The graphic depiction of TEC routes located in the CS is not
+established for each temporary reporting point.
 to be used for navigation or for detailed flight planning
 because not all city pairs are depicted. The information
+Tower En Route Control
 is intended to show geographic areas connected by TEC.
+Tower en route control (TEC) is an ATC program available
 [Figure 2-19] Pilots should refer to the route descriptions
+to pilots that provides a service to aircraft proceeding to
 for specific flight planning.
+and from metropolitan areas. It links designated approach
+control areas by a network of identified routes made up
 As shown in Figure 2-20, the route description contains four
+of the existing airway structure of the NAS, which makes
 columns of information. The first column is the approach
+it possible to fly an IFR flight without leaving approach
 control area within which the departure airport is located,
+control airspace. [Figure 2-19] This service is designed
 which are listed alphabetically. The second column shows
+to help expedite air traffic and reduces ATC and pilot
 the specific route, airway, or radial that is to be used.
+communication requirements. The program is generally
 The third column shows the highest altitude allowed for
+2-10
 
 TOWER EN ROUTE CONTROL (TEC)
 Northeast U.S. (Eastern)
+BUF
 (Lines connecting airports
 depict adjacent approach
+BGM
 control facilities)
+ELM
+ERI
+AVP
+YNG
 CLE
-Radar approach control area
-PIT
-CKB
-ROA
-RIC
-IAD
-HAR
-RDG
 ABE
+PENNSYLVANIA
+CAK
+RDG
 NYC
-ACY
-WRI
+PIT
+HAR
 PHL
+WRI
+NEW JERSEY
+MARYLAND
+ACY
+CKB
 BWI
 DOV
-AVP
-BGM
-ELM
-DCA
-PXT
-ORF
-CRW
-GSO
-ERI
-BUF
-YNG
-CAK
-HTS
-DC
-PENNSYLVANIA
+IAD
 WEST VIRGINIA
-VIRGINIA
-MARYLAND
-NEW JERSEY
+DC
 DELAWARE
+DCA
+HTS
+PXT
+CRW
+VIRGINIA
+RIC
+ROA
+ORF
+GSO
 LEGEND
+Radar approach control area
 Figure 2-19. Tower En Route Control (TEC) Northeast U.S. (Eastern).
 the route, and the fourth shows the destination airport,
+or following the identifier, the routing is understood to be
 which are also listed alphabetically. When flight planning,
+direct to or from that point unless otherwise cleared by ATC.
 it is important to always check current publications for
+Routes beginning and ending with an airway indicate that
 information about the departure and destination airport.
+the airway essentially overflies the airport, or radar vectors
 Routes are effective only during each respective terminal
+are issued. [Figure 2-21] Where more than one route is listed
 facilities normal operating hours. Always check NOTAMs
+to the same destination, ensure that the correct route for
 to ensure that appropriate terminal facilities are operating
+the type of aircraft classification has been filed. These are
 for the planned flight time. Altitudes are always listed in
+denoted after the route in the altitude column using J (jet
 thousands of feet. ATC may request that the pilot changes
+powered), M (turbo props/special, cruise speed 190 knots
 altitude while in flight in order to maintain the flight within
+or greater), P (non-jet, cruise speed 190 knots or greater),
 approach control airspace. ATC provides radar monitoring
+or Q (non-jet, cruise speed 189 knots or less). [Figure 2-22]
 and, if necessary, course guidance if the highest altitude
+Although all airports are not listed under the destination
 assigned is below the MEA.
+column, IFR flights may be planned to satellite airports in
+the proximity of major airports via the same routing. When
 Shown in Figure 2-21, under the second column, the word
+filing flight plans, the coded route identifier (i.e., BURL 1,
 “Direct” appears as the route when radar vectors are used
+VTUL4, or POML3) may be used in lieu of the route of flight.
 or no airway exists. This also indicates that a SID or STAR
 may be assigned by ATC. When a NAVAID or intersection
 identifier appears with no airway immediately preceding
-or following the identifier, the routing is understood to be
-direct to or from that point unless otherwise cleared by ATC.
-Routes beginning and ending with an airway indicate that
-the airway essentially overflies the airport, or radar vectors
-are issued. [Figure 2-21] Where more than one route is listed
-to the same destination, ensure that the correct route for
-the type of aircraft classification has been filed. These are
-denoted after the route in the altitude column using J (jet
-powered), M (turbo props/special, cruise speed 190 knots
-or greater), P (non-jet, cruise speed 190 knots or greater),
-or Q (non-jet, cruise speed 189 knots or less). [Figure 2-22]
-Although all airports are not listed under the destination
-column, IFR flights may be planned to satellite airports in
-the proximity of major airports via the same routing. When
-filing flight plans, the coded route identifier (i.e., BURL 1,
-VTUL4, or POML3) may be used in lieu of the route of flight.
+2-11
 
-Highest
-Route
-Altitude Destination
-............ V93 LRP V39 ETX
+Approach Control Area
+(Including Satellites)
+Baltimore
+Figure 2-20. Chart Supplement (NE), Tower En Route Control route descriptions (Baltimore).
+Approach Control Area
+(Including Satellites)
 Allentown
-............ V268 LEEAH V229
-Atlantic City
+Figure 2-21. Chart Supplement (NE), Tower En Route Control route descriptions (Allentown).
+2-12
+TOWER EN ROUTE CONTROL
+Route
+............ V93 LRP V39 ETX
 ............ V268 ENO V16 JFK V229 HFD CLOWW (Single
-Bangor
+............ V268 LEEAH V229
 engine and /E, /F. /G only)
 ............ V268 ENO V16 JFK V229 HFD CLOWW (Single
-Bar Harbor
 engine and /E, /F. /G only)
 ............ V93 LRP V499
-Binghamton
 ............ V268 ENO V16 JFK V229
-Boston (North)
 HFD HFDO53 DREEM (Single engine only)
 ............ V268 ENO V16 JFK V229 HFD V3 WOONS
-Boston
 (Single engine only)
 ............ V268 ENO V16 JFK V229 BDR BDR014
-Boston
 JUDDS (Single engine only)
 ............ V268 ENO V16 JFK V229 BDR (Single
-Bradley
-engine only)
 ............ V268 ENO V16 JFK V229 BDR (Single
-Bridgeport
+engine only)
 engine only)
 ............ V31 HAR
-Capital City
 ............ V268 ENO
-Dover AFB
-............ V44 MRB
-Dulles
 ............ V268 ENO V16 JFK V229 BRD MAD
-Groton
+............ V44 MRB
 MAD126 MONDI (Single engine only)
 TOWER EN ROUTE CONTROL
-Approach Control Area
-(Including Satellites)
-Baltimore
-Highest
 Route
-Altitude Destination
 ............ EJC V149 LHY
-Albany
 ............ ETX LHY
-Albany
 ............ V149 MAZIE ARD CYN
-Atlantic City
 ............ V93 LRP
-Baltimore
 ............ EXT V162 DUMMR V93 LRP
-Baltimore
 ............ V39 LRP
-Baltimore
 ............ V130
-Bradley
 ............ Direct
-Bradley
 ............ FJC STW
-Caldwell
 ............ (2) EXT V30 SBJ
-Farmingdale
 ............ ETX V162 HAR
-Harrisburg
 ............ Direct
-Hartford
 ............ EXT ETX004 WEISS
-Hazleton
 ............ EXT V39
-Lancaster
-TOWER EN ROUTE CONTROL
-Approach Control Area
-(Including Satellites)
-Allentown
-Figure 2-20. Chart Supplement (NE), Tower En Route Control route descriptions (Baltimore).
-Figure 2-21. Chart Supplement (NE), Tower En Route Control route descriptions (Allentown).
-
 Highest
-Route
 Altitude Destination
-............ V229 DIXIE V276 ARD
 Allentown
-............ V1 DIXIE V276 ARD (Single engine only)
-Allentown
-............ V1 ATR V308 OTT
-Andrews, AFB
-............ LEEAH V268 BAL
-Baltimore
-............ V1 JFK V229 HFD CLOWM (Single engine and
+Atlantic City
 Bangor
-/E, /F, /G only)
-............ V1 JFK V229 HFD CLOWM (Single engine and
 Bar Harbor
-/E, /F, /G only)
-............ V1 JFK V229 HFD HFD053 DREEM (Single
+Binghamton
 Boston (North)
-(Single engine only)
-............ V1 JFK V229 HFD V3 WOONS (Single engine
 Boston
-only
-............ V1 JFK V229 HFD FOSTY WOONS (Single
 Boston
-engine only)
-............ V1 JFK V229 BDR BDR14 JUDDS (Single
 Bradley
-engine only)
-............ V184 ZIGGI JFK 210 JFK V229 BDR (Twins
 Bridgeport
-only, n/a between 1400-2100)
-............ HOWIE V1 JFK V229 BDR (Single engine only)
-Bridgeport
-............ V184 00D DQO V469 HAR
 Capital City
-TOWER EN ROUTE CONTROL
+Dover AFB
+Dulles
+Groton
+Highest
+Altitude Destination
+Albany
+Albany
+Atlantic City
+Baltimore
+Baltimore
+Baltimore
+Bradley
+Bradley
+Caldwell
+Farmingdale
+Harrisburg
+Hartford
+Hazleton
+Lancaster
+
 Approach Control Area
 (Including Satellites)
 Atlantic City
@@ -759,9 +751,47 @@ FAA, Aeronautical Information Services publishes and
 distributes U.S. Government Civil Aeronautical Charts and
 flight information publications. IFR en route navigation
 information is provided on three charts: IFR en route low
-Figure 2-23. Low frequency airway G13.
 altitude chart, IFR en route high altitude chart, and Terminal
 Area Chart (TAC). [Figure 2-24A and B]
+TOWER EN ROUTE CONTROL
+Route
+............ V229 DIXIE V276 ARD
+............ V1 DIXIE V276 ARD (Single engine only)
+............ V1 ATR V308 OTT
+............ V1 JFK V229 HFD CLOWM (Single engine and
+............ LEEAH V268 BAL
+............ V1 JFK V229 HFD CLOWM (Single engine and
+/E, /F, /G only)
+............ V1 JFK V229 HFD HFD053 DREEM (Single
+/E, /F, /G only)
+(Single engine only)
+............ V1 JFK V229 HFD V3 WOONS (Single engine
+............ V1 JFK V229 HFD FOSTY WOONS (Single
+only
+............ V1 JFK V229 BDR BDR14 JUDDS (Single
+engine only)
+............ V184 ZIGGI JFK 210 JFK V229 BDR (Twins
+engine only)
+only, n/a between 1400-2100)
+............ HOWIE V1 JFK V229 BDR (Single engine only)
+............ V184 00D DQO V469 HAR
+Figure 2-23. Low frequency airway G13.
+Highest
+Altitude Destination
+Allentown
+Allentown
+Andrews, AFB
+Baltimore
+Bangor
+Bar Harbor
+Boston (North)
+Boston
+Boston
+Bradley
+Bridgeport
+Bridgeport
+Capital City
+2-13
 
 Figure 2-24. IFR en route low altitude (left) and high altitude (right) charts.
 IFR En Route Low Altitude Chart
@@ -769,18 +799,27 @@ En route low altitude charts provide aeronautical
 information for navigation under IFR conditions below
 18,000 feet MSL. Low altitude charts [Figure 2-25] include
 the following information:
+•
 Airways [Figure 2-25A]
+•
 RNAV routes [Figure 2-25B]
+•
 Limits of controlled airspace [Figure 2-25C]
+•
 VHF radio aids to navigation (frequency, identification,
 channel, geographic coordinates) [Figure 2-25D]
+•
 Airports that have an instrument approach procedure
 or a minimum 3,000 foot hard surface runway
 [Figure 2-25E]
+•
 Off-route obstruction clearance altitudes (OROCA)
 [Figure 2-25F]
+•
 Reporting points [Figure 2-25G]
+•
 Special use airspace areas [Figure 2-25H]
+•
 Military training routes [Figure 2-25I]
 IFR aeronautical charts depict VOR airways (airways based
 on VOR or VORTAC NAVAIDs) in black, identified by a “V”
@@ -789,6 +828,7 @@ on VOR or VORTAC NAVAIDs) in black, identified by a “V”
 are sometimes referred to as colored airways because they
 are identified by color name and number (e.g., Amber One,
 charted as A1). Green and red airways are plotted east and
+2-14
 west, and amber and blue airways are plotted north and
 south. Regardless of their color identifier, LF/MF airways
 are depicted in brown. [Figure 2-27]
@@ -812,230 +852,289 @@ Low altitude RNAV only routes are identified by the letter
 “T” prefix, followed by a three digit number (T-200 to T-500).
 RNAV routes are depicted in aeronautical blue, as well as the
 RNAV route data, which includes the following [Figure 2-28]:
+•
 Route line
+•
 Identification boxes
 
-Figure 2-25. Information found on en route low altitude charts.
-Figure 2-26. Victor airways.
-Figure 2-27. LF/MF airways.
-E
-VALENTINE
-Miller Fld
-(VTN)
-L
-VALENTINE
-314 VTN
-TAFOY
-F
-x
-D
-G
 A
-Victor Route (with RNAV/GPS
-MEA shown in blue)
-*35 00
-3 50 0G
 B
-5000G
-*5400
+S 50 0
+Magnetic reference bearing
+3 50 0G
+GRANT
+*35 00
 6000G
 NGOZI
-GRANT
+*5400
+V4
+T270
+5000G
+T270
+Victor Route (with RNAV/GPS
 Waypoint
-Magnetic reference bearing
+MEA shown in blue)
+D
+E
 C
-Hot Springs Muni
-(HSR)
-L
+VALENTINE
+122.4
+Miller Fld
+H
 AINSWORTH
+(VTN)
+L
 112.7 ANW 74
 N42°34.15' W99°59.38'
-H
 COLUMBUS
-D
 +
+VALENTINE
+314 VTN
+Hot Springs Muni
+V190
+(HSR)
+D
+F
+G
+L
+V60
+L 83
+28.55
 H
-SPECIAL USE AIRSPACE
-MOA
-MOA
+x
 Exclusion area and note
+SPECIAL USE AIRSPACE
+P-00
 Line delimits
+R-000
+WALL 1
 internal separation
+W-000
+MOA
 of same special
+A-000
+TAFOY
+WALL 2
+CYR-000
 use area or
+MOA
+CYA-000
 exclusion areas
-I
+(MU) D-000
 AINSWORTH
+I
 114.0 MAI 87
 N30°47.17' W85°07.47'
 GAINESVILLE
+IR-15-17
+Figure 2-25. Information found on en route low altitude charts.
+Figure 2-27. LF/MF airways.
+Figure 2-26. Victor airways.
+2-15
 
 Figure 2-28. Low altitude RNAV routes.
+•
 Mileages
-Waypoints
-Waypoint names
-Magnetic reference bearings
-MEAs
-Magnetic reference bearings are shown originating from a
-waypoint, fix/reporting point, or NAVAID. A GNSS MEA for
-each segment is established to ensure obstacle clearance
-Figure 2-29. Low altitude RNAV route data.
 and communications reception. All MEAs are identified
 with a “G” suffix. [Figure 2-29]
+•
+Waypoints
+•
+Waypoint names
 Joint Victor/RNAV routes are depicted using black for
 the victor airways and blue for the RNAV routes, and the
+•
+Magnetic reference bearings
 identification boxes for each are shown adjacent to one
+•
+MEAs
 another. Magnetic reference bearings are not shown. MEAs
 are stacked in pairs or in two separate columns, GNSS
+Magnetic reference bearings are shown originating from a
 and Victor. On joint routes, or victor routes, RNAV specific
+waypoint, fix/reporting point, or NAVAID. A GNSS MEA for
 information is printed in blue. [Figure 2-30]
-5000G
-*5400
+each segment is established to ensure obstacle clearance
+Magnetic reference bearing
+GRANT
 6000G
 NGOZI
-GRANT
+*5400
+T270
+5000G
+T270
 Waypoint
-Magnetic reference bearing
-JES
+Figure 2-29. Low altitude RNAV route data.
+7000G
+8000G
 VAL
+YATES
+JES
 BILLY
 TOMMY
-YATES
-7000G
 *6700
-8000G
 *6700
+V333
+T228
 Figure 2-30. Joint Victor/RNAV airway.
+2-16
 
-N39'
-DRIVL
-SAAGS
-CORIM
-HUGIN
-FONIX
+J26
 KIDER
-BRAYMER
-BQS[L] 49
-NAPOLEON
-ANX[L] 87
 ROBINSON
 RBA[L] 19
-COLUMBIA 122.6
-115.9 SUM 106
+108.2
 ST JOSEPH
+FONIX
 Rosaceach Mem
+060°
 [STJ]
-Sherman AAF
-(FLV)
-Lawrence Muni
-(LWC)
-TOPEKA
-Philip Billard Muni
-(TOP)
+HUGIN
+AGENT
+CORIM
+J26
+BRAYMER
+BQS[L] 49
+111.2
+SAAGS
+115.9 SUM 106
 Kansas City Intl
+J80
 (MCI)
-KANSAS CITY
-Charles B Wheeler
-Downtown
-(MKC)
+J96
+Sherman AAF
 MOSBY
+J87
+(FLV)
 Midwest National
 Air Control
+091°
 (GPH)
+J24
+DRIVL
+KANSAS CITY
+Charles B Wheeler
+NAPOLEON
+TOPEKA
+190°
+Downtown
+ANX[L] 87
+114.0
+Philip Billard Muni
+(MKC)
+(TOP)
 Marshall Mem Muni
 (MHI)
-AGENT
-091°
-190°
-060°
+Lawrence Muni
+COLUMBIA 122.6
+N39'
+(LWC)
+J87
 Figure 2-31. IFR en route high altitude chart.
+Waypoint
 IFR En Route High Altitude Chart
-En route high altitude charts provide aeronautical
-information for navigation under IFR conditions at and
-above FL 180. [Figure 2-31] High altitude charts include
-the following information:
-Jet route structure
-RNAV Q-routes
-VHF radio aids to navigation (frequency, ID, channel,
-geographic coordinates)
-Selected airports
-Reporting points
-Navigation reference system (NRS) waypoints
-[Figure 2-32]
-Jet routes are depicted in black with a “J” identifier followed
-by the route number (e.g., “J12”) and are based on VOR or
-Figure 2-32. Navigation reference system (NRS) waypoints.
-W122°
-N40°
-RED BLUFF
-115.7 RBA 104
-H
-Chico Muni
-(CIC)
-KO63E
-KO60E
+1300-06002
+Q3
 Redding Muni
 (RDD)
-Red Bluff Muni
-(RBL)
+1300-06002
 MEA-24000D
-MEA CAP
-MEA-24000D
+En route high altitude charts provide aeronautical
+Q5
+KO63E
+information for navigation under IFR conditions at and
 MEA-26000D
-Waypoint
-Waypoint
-RANCHO MURIETA
+122.4
+MEA-22000
+H
+RED BLUFF
+above FL 180. [Figure 2-31] High altitude charts include
+J501
+115.7 RBA 104
+1300-06002
+Q1
 N40°05.93'
 W122°14.18'
+the following information:
+RANCHO MURIETA
+MEA-24000D
+Red Bluff Muni
+•
+Jet route structure
+(RBL)
+J189
+KO60E
+•
+RNAV Q-routes
+N40°
+MEA CAP
+W122°
+Waypoint
+•
+VHF radio aids to navigation (frequency, ID, channel,
+Chico Muni
+(CIC)
+geographic coordinates)
+•
+Selected airports
+Figure 2-32. Navigation reference system (NRS) waypoints.
+•
+Reporting points
 VORTAC NAVAIDs. [Figure 2-33] RNAV “Q” Route MEAs are
+•
+Navigation reference system (NRS) waypoints
 shown when other than 18,000 feet. [Figure 2-34] MEAs
+[Figure 2-32]
 for GNSS RNAV aircraft are identified with a “G” suffix.
 MEAs for DME/DME/IRU RNAV aircraft do not have a “G”
+Jet routes are depicted in black with a “J” identifier followed
 suffix. All RNAV routes and associated data is charted in
+by the route number (e.g., “J12”) and are based on VOR or
 aeronautical blue and magnetic reference bearings are
-(OFTEC)
-SAKES
+J80
 Green River Muni
+J196
 (U34)
-Honksville
 MOAB
 Camyonland’s Fld
-(CNY)
 CEDAR CITY 111.2
+(CNY)
+(OFTEC)
 X
+SAKES
+R-6413
+MEA-33000
+J80
+J196
+J28
+J28
+Honksville
 Figure 2-33. High altitude jet routes.
+2-17
 
-Figure 2-34. MEAs on RNAV (Q) routes.
-MEA-24000D
-MEA-24000D
-MEA-26000D
-115.9 SUM 106
-ENVIE
-FINER
-HOMEG
-OTTOO
-W123°
-MEA - 23000G
-JointJet/RNAV Route
-Figure 2-35. Joint jet/RNAV routes.
-shown originating from a waypoint, fix/reporting point, or
-NAVAID. When joint Jet/RNAV routes are depicted, the route
-identification boxes are located adjacent to each other with
-the route charted in black. [Figure 2-35] With the exception
-of “Q” routes in the Gulf of Mexico, GNSS or DME/DME/IRU
-RNAV equipment is required along with radar monitoring
 capabilities. For aircraft that have DME/DME/IRU RNAV
 equipment, refer to the CS for specific DME information.
 VHF Airways
+W123°
 Victor airways are a system of established routes that
+1300-06002
 run along specified VOR radials, from one VOR station to
+Q3
 another. The purpose is to make flight planning easier
+1300-06002
 and they help ATC to organize and regulate the air traffic
+Q1
 flow. Almost all commercial flights are routed along these
+1300-06002
+Q5
 airways but they are available for use by any pilot provided
 that the proper altitudes are employed.
+MEA-24000D
+115.9 SUM 106
+MEA-24000D
 Victor Airway Navigation Procedures
 The procedure for getting established on a victor airway
+MEA-26000D
 is to either fly directly to a nearby VOR or to intercept
 an airway radial along the route of flight. Once the pilot
 is established on an airway, it is important to follow the
@@ -1046,130 +1145,137 @@ pilot to jump from one VOR to another, but must navigate
 from one to the next by using the alternating outbound/
 inbound procedure of linking VORs. For example, when
 departing from Zanesville VOR on V-214, the pilot selects
+OTTOO
+ENVIE
 the 090° radial with a FROM indication on the course
+HOMEG
 deviation indicator (CDI) and should correct as necessary
 to continuously maintain track on the centerline of the
+FINER
 airway. [Figure 2-36] The pilot should continue on this
 course until it is time to change over to the inbound course
 to the Bellaire VOR.
 LF/MF Airways
 The basic LF/MF airway width is 4.34 nautical miles (NM)
 on each side of the centerline; the width expands by five
+Figure 2-34. MEAs on RNAV (Q) routes.
 degrees when the distance from the facility providing
 course guidance is greater than 49.66 NM. [Figure 2-37]
 En Route Obstacle Clearance Areas
+MEA - 27000
+MEA - 23000G
 All published routes in the NAS are based on specific
+J12
+Q7
 obstacle clearance criteria. An understanding of en route
 obstacle clearance areas helps with SA and may help avoid
 controlled flight into terrain (CFIT). Obstacle clearance
+JointJet/RNAV Route
 areas for the en route phase of flight are identified as
 primary, secondary, and turning areas.
+Figure 2-35. Joint jet/RNAV routes.
 The primary and secondary area obstacle clearance
+shown originating from a waypoint, fix/reporting point, or
 criteria, airway and route widths, and the ATC separation
+NAVAID. When joint Jet/RNAV routes are depicted, the route
 procedures for en route segments are a function of
+identification boxes are located adjacent to each other with
 safety and practicality in flight procedures. These flight
+the route charted in black. [Figure 2-35] With the exception
 procedures are dependent upon the pilot, the aircraft, and
+of “Q” routes in the Gulf of Mexico, GNSS or DME/DME/IRU
 the navigation system being used, resulting in a total VOR
+RNAV equipment is required along with radar monitoring
 system accuracy factor along with an associated probability
+2-18
 
-SABGE
-090°
-N40°
-LORES
-ZANDR
-MUNCE
-HISOM
-Barnesville Brodfield
-(6G5)
-4D
-L
+V11
+59-115
+122.5 122.2 122.1R
 [2P7]
 1187 L*28
-Cambridge Muni
-(CDI)
+A
+ZANESVILLE
+CLEVELAND
+111.4 ZZV 51
+Bolonl
+Barnesville Brodfield
+N42°34.15' W99°59.38'
+120.4 257.975
+CLEVELAND
+(6G5)
+ZANDR
+4D
 L
+N40°
+LORES
+V214
+SABGE
+090°
+Cambridge Muni
 Zoneville Muni
+(CDI)
 (ZZV)
 L
-ZANESVILLE
-111.4 ZZV 51
-N42°34.15' W99°59.38'
+122.1R
+MUNCE
+L
 A
-CLEVELAND
-122.5 122.2 122.1R
+HISOM
 BELLAIRE
 117.1AIR 118
+V117
 N40°31.00' W99°49.04'
-A
 CLEVELAND
-122.1R
-CLEVELAND
-Bolonl
-120.4 257.975
 Figure 2-36. Zanesville VOR/Victor Airway 214.
-5°
-NBD
-4.34 NM
 49.66 NM
-NBD
 5°
+5°
+4.34 NM
+NBD
+NBD
 5°
 5°
 Figure 2-37. LF/MR airway width.
+Primary and Secondary En Route Obstacle
 factor. The pilot/aircraft information component of these
+Clearance Areas
 criteria includes pilot ability to track the radial and the flight
 track resulting from turns at various speeds and altitudes
+The primary obstacle clearance area has a protected width
 under different wind conditions. The navigation system
+of 8 NM with 4 NM on each side of the centerline. The
 information includes navigation facility radial alignment
+primary area has widths of route protection based upon
 displacement, transmitter monitor tolerance, and receiver
+system accuracy of a ±4.5° angle from the NAVAID. These
 accuracy. All of these factors were considered during
+4.5° lines extend out from the NAVAID and intersect the
 development of en route criteria. From this analysis, the
+boundaries of the primary area at a point approximately
 computations resulted in a total system accuracy of ±4.5°
+51 NM from the NAVAID. Ideally, the 51 NM point is where
 95 percent of the time and ±6.7° 99 percent of the time.
+pilots would change over from navigating away from the
 The 4.5° value became the basis for primary area obstacle
+facility, to navigating toward the next facility, although this
 clearance criteria, airway and route widths, and the ATC
+ideal is rarely achieved. [Figure 2-38]
 separation procedures. The 6.7° value provides secondary
 obstacle clearance area dimensions.
-Primary and Secondary En Route Obstacle
-Clearance Areas
-The primary obstacle clearance area has a protected width
-of 8 NM with 4 NM on each side of the centerline. The
-primary area has widths of route protection based upon
-system accuracy of a ±4.5° angle from the NAVAID. These
-4.5° lines extend out from the NAVAID and intersect the
-boundaries of the primary area at a point approximately
-51 NM from the NAVAID. Ideally, the 51 NM point is where
-pilots would change over from navigating away from the
-facility, to navigating toward the next facility, although this
-ideal is rarely achieved. [Figure 2-38]
-4.5°
-4.5°
-4.5°
-4.5°
 4 NM
+4.5°
+4.5°
+V214
+4.5°
+4.5°
 4 NM
 Primary obstacle clearance area
 Figure 2-38. Primary obstacle clearance area.
+2-19
 
 Primary en route obstacle clearance area
 1,000 feet above highest obstacle
-Figure 2-39. Non-mountainous obstacle clearance in the primary
-area.
-If the distance from the NAVAID to the change-over point
-(COP) is more than 51 NM, the outer boundary of the
-primary area extends beyond the 4 NM width along the
-4.5° line when the COP is at midpoint. This means the
-primary area, along with its obstacle clearance criteria, is
-extended out into what would have been the secondary
-area. Additional differences in the obstacle clearance area
-result in the case of the effect of an offset COP or dogleg
-segment. For protected en route areas, the minimum
-obstacle clearance in the primary area, not designated as
-mountainous under 14 CFR Part 95—IFR altitude, is 1,000
-feet over the highest obstacle. [Figure 2-39] The secondary
-obstacle clearance area extends along a line 2 NM on each
-side of the primary area. Navigation system accuracy in
-the secondary area has widths of route protection of a
 Figure 2-41. Primary and secondary obstacle clearance area.
 ±6.7° angle from the NAVAID. These 6.7° lines intersect the
 outer boundaries of the secondary areas at the same point
@@ -1178,82 +1284,104 @@ from the NAVAID to the COP is more than 51 NM, the
 secondary area extends along the 6.7° line when the COP
 is at mid-point. [Figure 2-40] In all areas, mountainous and
 non-mountainous, obstacles that are located in secondary
+Figure 2-39. Non-mountainous obstacle clearance in the primary
 areas are considered as obstacles to air navigation if they
+area.
 extend above the secondary obstacle clearance plane.
 This plane begins at a point 500 feet above the obstacles
+If the distance from the NAVAID to the change-over point
 (natural or man-made) upon which the primary obstacle
+(COP) is more than 51 NM, the outer boundary of the
 clearance area is based, and slants upward at an angle that
+primary area extends beyond the 4 NM width along the
 causes it to intersect the outer edge of the secondary area
+4.5° line when the COP is at midpoint. This means the
 at a point 500 feet higher. [Figure 2-41]
+primary area, along with its obstacle clearance criteria, is
+extended out into what would have been the secondary
 Changeover Points
+area. Additional differences in the obstacle clearance area
+result in the case of the effect of an offset COP or dogleg
 When flying airways, pilots normally change frequencies
+segment. For protected en route areas, the minimum
 midway between NAVAIDs, although there are times
+obstacle clearance in the primary area, not designated as
 when this is not practical. If the navigation signals cannot
+mountainous under 14 CFR Part 95—IFR altitude, is 1,000
 be received from the second VOR at the midpoint of the
+feet over the highest obstacle. [Figure 2-39] The secondary
 route, a COP is depicted and shows the distance in NM to
+obstacle clearance area extends along a line 2 NM on each
 each NAVAID. [Figure 2-42] COPs indicate the point where a
+side of the primary area. Navigation system accuracy in
 frequency change is necessary to receive course guidance
+the secondary area has widths of route protection of a
 from the facility ahead of the aircraft instead of the one
-6.7°
-6.7°
-6.7°
-6.7°
+2 NM
 4 NM
+6.7°
+6.7°
+V214
+6.7°
+6.7°
 4 NM
 2 NM
 Secondary obstacle clearance area
-2 NM
 Figure 2-40. Secondary obstacle clearance area.
+2-20
 
-13,000 ft
+V344
 13,000
+13,000 ft
 Figure 2-42. Changeover points.
 behind. These COPs divide an airway or route segment and
-ensure continuous reception of navigation signals at the
-prescribed minimum en route IFR altitude. They also ensure
-that other aircraft operating within the same portion of
-an airway or route segment receive consistent azimuth
-signals from the same navigation facilities regardless of
-the direction of flight.
-Where signal coverage from two VORs overlaps at the MEA,
-the COP normally is designated at the midpoint. Where
-radio frequency interference or other navigation signal
-problems exist, the COP is placed at the optimum location,
-taking into consideration the signal strength, alignment
-error, or any other known condition that affects reception.
-The COP has an effect on the primary and secondary
-obstacle clearance areas. On long airway or route segments,
 if the distance between two facilities is over 102 NM and the
+ensure continuous reception of navigation signals at the
 COP is placed at the midpoint, the system accuracy lines
+prescribed minimum en route IFR altitude. They also ensure
 extend beyond the minimum widths of 8 and 12 NM, and a
+that other aircraft operating within the same portion of
 flare or spreading outward results at the COP. [Figure 2-43]
+an airway or route segment receive consistent azimuth
 Offset COP and dogleg segments on airways or routes can
+signals from the same navigation facilities regardless of
 also result in a flare at the COP.
+the direction of flight.
 Direct Route Flights
+Where signal coverage from two VORs overlaps at the MEA,
 Direct route flights are flights that are not flown on the
+the COP normally is designated at the midpoint. Where
 radials or courses of established airways or routes. Direct
+radio frequency interference or other navigation signal
 route flights must be defined by indicating the radio fixes
+problems exist, the COP is placed at the optimum location,
 over which the flight passes. Fixes selected to define the
+taking into consideration the signal strength, alignment
 route should be those over which the position of the aircraft
+error, or any other known condition that affects reception.
 can be accurately determined. Such fixes automatically
+The COP has an effect on the primary and secondary
 become compulsory reporting points for the flight, unless
+obstacle clearance areas. On long airway or route segments,
 advised otherwise by ATC. Only those NAVAIDs established
-Figure 2-43. Changeover point effect on long airway or route segment.
-4.5°
+Flare
+2 NM
+4 NM
 6.7°
+4.5°
+V214
 4.5°
 6.7°
 4 NM
-4 NM
+2 NM
 Secondary areas
+Flare
 Primary areas
-2 NM
-2 NM
-Flare
-Flare
+Figure 2-43. Changeover point effect on long airway or route segment.
+2-21
 
-NOT FOR NAVIGATION
 OR NAVIGAT
+NOT FOR NAVIGATION
 Figure 2-44. Direct route navigation.
 for use in a particular structure (i.e., in the low or high
 structures) may be used to define the en route phase of a
@@ -1275,6 +1403,7 @@ are intended for application to established airway and route
 use and to provide guidance for planning flights outside
 of established airways or routes. These areas of airspace
 are expressed in terms of cylindrical service volumes of
+2-22
 specified dimensions called class limits or categories.
 An operational service volume has been established
 for each class in which adequate signal coverage and
@@ -1394,18 +1523,8 @@ deceleration and while in supersonic flight.
 3. Where applicable, a supplementary letter may be
 added after the basic designator of the ATS route as
 a suffix as follows:
+2-23
 
-Figure 2-45. Published RNAV jet routes.
-NOT FOR NAVIGATION
-N60°53.97´ W 151°2163´
-114.3 ANC 221.3°-37.0
-AMOTT
-J888R
-J996R
-J804R
-61°
-226°
-AMOTT
 a.
 F—to indicate that on the route or portion thereof
 advisory service only is provided;
@@ -1427,6 +1546,9 @@ segments defined with a radius of 15 NM.
 Note: RNAV Q-routes require en route RNAV 2, corresponding
 NAV/E2 code and PBN/C1-C4 based on navigation system
 update source.
+NOT FOR NAVIGATION
+Figure 2-45. Published RNAV jet routes.
+2-24
 Use of Designators in Communications
 In voice communications, the basic letter of a designator
 should be spoken in accordance with the International Civil
@@ -1444,6 +1566,17 @@ A11—Alpha Eleven
 UR5—Upper Romeo Five
 KB34—Kopter Bravo Thirty Four
 UW456—Upper Whiskey Four Fifty Six
+AMOTT
+N60°53.97´ W 151°2163´
+114.3 ANC 221.3°-37.0
+61°
+MEA-28000
+AMOTT
+J888R
+226°
+J804R
+61.2
+J996R
 
 The en route chart excerpt depicts three published RNAV jet
 routes: J804R, J888R, and J996R. [Figure 2-45] The R suffix
@@ -1549,6 +1682,7 @@ latitude/ longitude coordinates and a fix identifier
 as shown in the example below.
 MIA1 SRQ2 3407/106153 3407/11546 TNP4 LAX5
 1Departure airport
+2-25
 
 2Departure fix
 3Intermediate fix (turning point)
@@ -1556,6 +1690,7 @@ MIA1 SRQ2 3407/106153 3407/11546 TNP4 LAX5
 5Destination airport
 Or:
 ORD1 IOW2 KP49G3 KD34U4 KL16O5 OAL6 MOD27
+SFO8
 1Departure airport
 2Transition fix (pitch point)
 3Minneapolis ARTCC waypoint
@@ -1574,13 +1709,18 @@ of the flight.
 9. Make any in-flight requests for random RNAV
 clearances or route amendments to an en route ATC
 facility.
-Figure 2-46. Excerpt of authorized areas of en route operation.
+Authorized areas of
+Limitations, provisions,
 SAMPLE NOT FOR
-ACTUAL USE
+en route operation
+and reference paragraphs
 The 48 contiguous United
+Note 1
 States and the District of
 Columbia
+ACTUAL USE
 Canada, excluding Canadian
+Note 3
 MNPS airspace and the areas
 of magnetic unreliability as
 established in the Canadian
@@ -1591,10 +1731,8 @@ range system is authorized only within this area of en route
 operation.
 Note 3 - Only B-747 and DC-10 operations authorized in these
 areas.
-Authorized areas of
-en route operation
-Limitations, provisions,
-and reference paragraphs
+Figure 2-46. Excerpt of authorized areas of en route operation.
+2-26
 Off-Airway Routes
 14 CFR Part 95 prescribes altitudes governing the operation
 of aircraft under IFR on Federal airways, jet routes, RNAV low
@@ -1634,25 +1772,37 @@ range navigation equipment. Minimum equipment lists
 range navigation equipment. Examples of other selected
 areas requiring specialized en route authorization include
 the following:
+•
 Class I navigation in the United States Class A
 airspace using area of long range navigation system.
+•
 Class II navigation using multiple long range
 navigation systems.
+•
 Operations in central East Pacific airspace.
+•
 North Pacific operations.
+•
 Operations within North Atlantic (NAT) minimum
 navigation performance specifications (MNPS)
 airspace.
 
+•
 Operations in areas of magnetic unreliability.
+•
 North Atlantic operation (NAT/OPS) with two engine
 aircraft under 14 CFR Part 121.
+•
 Extended range operations (ER-OPS) with two
 engine aircraft under 14 CFR Part 121.
+•
 Special fuel reserves in international operations.
+•
 Planned in-flight re-dispatch or re-release en route.
+•
 Extended over water operations using a single long-
 range communication system.
+•
 Operations in reduced vertical separation minimum
 (RVSM) airspace.
 Off-Route Obstruction Clearance Altitude
@@ -1662,6 +1812,8 @@ with a 1,000-foot buffer in non-mountainous terrain areas
 and a 2,000-foot buffer in designated mountainous areas
 within the United States. This altitude may not provide
 signal coverage from ground-based NAVAIDs, ATC radar,
+NOT FOR NAVIGATION
+Figure 2-47. Off-route obstacle clearance altitude.
 or communications coverage. OROCAs are intended
 primarily as a pilot tool for emergencies and SA. OROCAs
 depicted on en route charts do not provide the pilot with
@@ -1683,8 +1835,7 @@ obstruction clearance until reaching the MEA, MIA, or MVA.
 If unable to visually maintain terrain/obstruction clearance,
 pilots should advise ATC and state intentions of the flight.
 [Figure 2-47]
-NOT FOR NAVIGATION
-Figure 2-47. Off-route obstacle clearance altitude.
+2-27
 
 Figure 2-48. Random RNAV route.
 For all random RNAV flights, there needs to be at least one
@@ -1698,6 +1849,7 @@ planned to avoid prohibited or restricted airspace by at
 least 3 NM. If a bend in a direct route is required to avoid
 special use airspace, the turning point needs to be part
 of the flight plan. Two of the most prominent long range
+2-28
 navigation systems today include FMS with integrated GPS
 and stand-alone GPS. The following example is a simplified
 overview showing how the RNAV systems might be used
@@ -1807,49 +1959,51 @@ steps used for a VOT:
 frequencies can be found in the CS. [Figure 2-50]
 These frequencies are coded with a series of Morse
 code dots or a continuous 1020-cycle tone.
+2-29
 
-Sample: Enter with MEA of 13,000 feet. Read allowable gap 18.5 NM.
-Allowable navigation course guidance gap (NM)
 NOT FOR
 NAVIGATION
 MEA of airway or route segment (thousands of feet)
+Sample: Enter with MEA of 13,000 feet. Read allowable gap 18.5 NM.
+Allowable navigation course guidance gap (NM)
 Figure 2-49. Navigational course guidance gaps.
+2. On the VOR, set the course selector to 0° and the
 VOR test facilities (VOT)
+track bar (TB) indicator should read center. The TO­
 Facility Name ..............................
 Type VOT
+FROM indicator should read FROM.
 (Airport Name) ...........Frequency
 Facility
 Remarks
+3. Set the course selector to 180° and the TO-FROM
 Bradlay Intl .................... 111.40
 G
+indicator should read TO and the TB should then be
 Bridgeport ..................... 109.25
 G
+centered.
 Groton ........................... 110.25
 G
 Hartford ......................... 108.20
 G
-Figure 2-50. VOR test facilities (VOT) frequencies.
-Figure 2-51. VOR checkpoint signs.
-VOR 116.4
-147° 4.1 NM
-DME and VOR check radial
-2. On the VOR, set the course selector to 0° and the
-track bar (TB) indicator should read center. The TO­
-FROM indicator should read FROM.
-3. Set the course selector to 180° and the TO-FROM
-indicator should read TO and the TB should then be
-centered.
 Note: Determining the exact error in the receiver is done
+Figure 2-50. VOR test facilities (VOT) frequencies.
 by turning the track selector until the TB is centered and
 noting the degrees difference between 180° or 0°. The
 maximum bearing error with the VOT system check is plus
+VOR 116.4
 or minus 4° and apparent errors greater than 4° indicate
 that the VOR receiver is beyond acceptable tolerance.
+147° 4.1 NM
 VOR Checkpoint Signs
 Many aerodromes have VOR checkpoint signs that are
+DME and VOR check radial
 located beside the taxiways. [Figure 2-51] These signs
+Figure 2-51. VOR checkpoint signs.
 indicate the exact point on the aerodrome that there is
 sufficient signal strength from a VOR to check the aircraft’s
+2-30
 
 VOR receiver against the radial designated on the sign.
 Listed below are the steps to use at a VOR checkpoint:
@@ -1857,51 +2011,51 @@ Listed below are the steps to use at a VOR checkpoint:
 Tune the proper VOR frequency.
 2.
 Identify the VOR frequency.
-V
 3.
 Set the published radial on the course deviation
-fl
 indicator (CDI).
-r
 4.
 Confirm that the TB is centered.
-t
-o
 5.
 Check the needle sensitivity by changing the
 omnibearing select (OBS) 10° each way.
 6.
 Set the reciprocal of the radial and check the TO
-T
 FROM flag change.
-n
 7.
 The maximum permissible difference between
-f
 aircraft equipment and the designated radial is 4°
-i
 and 0.5 NM of the posted distance.
-s
-­
 Dual VOR Check
 If a VOT or VOR checkpoint is not available and the aircraft is
 equipped with dual VORs, the equipment may be checked
 against one another by tuning both sets to the VOR facility
 at the same time and noting the indicated bearings to that
 station. [Figure 2-52] A difference greater than 4° between
+Figure 2-52. Instrument panel with dual VORs.
 the two VORs indicates that one of the receivers may be
 out of tolerance.
 Airborne VOR Check
+V
 OR equipment can also be checked for accuracy while in
+fl
 ight by flying over a fix or landmark located on a published
+r
 adial and noting the indicated radial. Variances of more
+t
 han 6° from the published radial should be considered out
+o
 f tolerance and not be used for IFR navigation.
 NDB Accuracy Check
+T
 he pilot must identify an NDB before using it for
+n
 avigation, and continuously monitor it while using it
+f
 or an instrument approach. The lack of an IDENT may
+i
 ndicate that the NDB is out of service, even though it may
+s
 till be transmitting (for instance for maintenance or test
 purposes). If an incorrect IDENT is heard, then the NDB
 should not be used.
@@ -1909,93 +2063,94 @@ RNAV Accuracy Check
 RNAV accuracy checks may differ depending on the
 different type of equipment and manufacturer. When
 available, all written procedures should be followed.
-Figure 2-52. Instrument panel with dual VORs.
+2-31
 
+intersection of two straight paths, with the transition from
 Below is a list of generic checks that should be used when
+one path to another being made by the aircraft using a
 checking the accuracy of the system prior to flight.
+precisely calculated turn that flies by but does not vertically
 1. System initialization—pilots should confirm that
+cross the waypoint. [Figure 2-53]
 the navigation database is current and verify that the
 aircrafts present position has been entered correctly.
-2. Active flight plan check—the active flight plan
-should be checked by comparing the aeronautical
-charts, departure and arrival procedures, and other
-applicable documents with the map display.
-Figure 2-53. Fly-by and fly-over waypoints.
-Fly-by waypoint
-Fly-over waypoint
-Alpha
-Bravo
-Bravo
-Alpha
-3. Prior to takeoff—ensure that the RNAV system is
-available. If possible, check to see that the system
-is updating when aircraft position is changing.
-Note: While in flight, continue to verify system accuracy
-by displaying bearing/range to a VOR/DME on the RNAV
-system and compare it to the actual RMI reading of that
-particular NAVAID.
-Waypoints
-Waypoints are predetermined geographical locations that
-are defined in terms of latitude/longitude coordinates or
-fixes, used to define an RNAV route or the flight path of
-an aircraft employing RNAV. Waypoints may be a simple
-named point in space or may be associated with existing
-NAVAIDs, intersections, or fixes. A waypoint is most often
-used to indicate a change in direction, speed, or altitude
-along the desired path. Aviation RNAV procedures make
-use of both fly-over and fly-by waypoints. A fly-over
-waypoint is a waypoint that must be crossed vertically by
-an aircraft. A fly-by waypoint is a waypoint that marks the
-intersection of two straight paths, with the transition from
-one path to another being made by the aircraft using a
-precisely calculated turn that flies by but does not vertically
-cross the waypoint. [Figure 2-53]
 User-Defined Waypoints
+2. Active flight plan check—the active flight plan
 Pilots typically create user-defined waypoints for use in
+should be checked by comparing the aeronautical
 their own random RNAV direct navigation. They are newly
+charts, departure and arrival procedures, and other
 established, unpublished airspace fixes that are designated
+applicable documents with the map display.
 geographic locations/positions that help provide positive
 course guidance for navigation and a means of checking
 progress on a flight. They may or may not be actually
+Alpha
 plotted by the pilot on en route charts, but would normally
 be communicated to ATC in terms of bearing and distance
+Fly-by waypoint
 or latitude/longitude. An example of user-defined
 waypoints typically includes those generated by various
 means including keyboard input, and even electronic map
 mode functions used to establish waypoints with a cursor
 on the display.
+Alpha
 Another example is an offset phantom waypoint, which is
+Fly-over waypoint
 a point-in-space formed by a bearing and distance from
+Bravo
 NAVAIDs, such as VORTACs and tactical air navigation
 (TACAN) stations, using a variety of navigation systems.
 When specifying unpublished waypoints in a flight plan,
 they can be communicated using the frequency/bearing/
 distance format or latitude and longitude, and they
 automatically become compulsory reporting points unless
+Bravo
 otherwise advised by ATC. All aircraft with latitude and
 longitude navigation systems flying above FL 390 must use
+Figure 2-53. Fly-by and fly-over waypoints.
 latitude and longitude to define turning points.
 Floating Waypoints
+3. Prior to takeoff—ensure that the RNAV system is
+available. If possible, check to see that the system
 Floating waypoints, or reporting points, represent
+is updating when aircraft position is changing.
 airspace fixes at a point in space not directly associated
 with a conventional airway. In many cases, they may be
+Note: While in flight, continue to verify system accuracy
 established for such purposes as ATC metering fixes,
+by displaying bearing/range to a VOR/DME on the RNAV
 holding points, RNAV-direct routing, gateway waypoints,
+system and compare it to the actual RMI reading of that
 STAR origination points leaving the en route structure,
+particular NAVAID.
 and SID terminating points joining the en route structure.
 In the top example of Figure 2-54, a low altitude en route
+Waypoints
 chart depicts three floating waypoints that have been
+Waypoints are predetermined geographical locations that
 highlighted: SCORR, FILUP, and CHOOT. Notice that
+are defined in terms of latitude/longitude coordinates or
 waypoints are named with five-letter identifiers that are
+fixes, used to define an RNAV route or the flight path of
 unique and pronounceable. Pilots must be careful of
+an aircraft employing RNAV. Waypoints may be a simple
 similar waypoint names. Notice on the high altitude en
+named point in space or may be associated with existing
 route chart excerpt in the bottom example, the similar
+NAVAIDs, intersections, or fixes. A waypoint is most often
 sounding and spelled floating waypoint named SCOOR,
+used to indicate a change in direction, speed, or altitude
 rather than SCORR. This emphasizes the importance
+along the desired path. Aviation RNAV procedures make
 of correctly entering waypoints into database-driven
+use of both fly-over and fly-by waypoints. A fly-over
 navigation systems. One waypoint character incorrectly
+waypoint is a waypoint that must be crossed vertically by
 entered into your navigation system could adversely affect
+an aircraft. A fly-by waypoint is a waypoint that marks the
 your flight. The SCOOR floating reporting point also is
+2-32
 
 Figure 2-54. Floating waypoints.
 depicted on a Severe Weather Avoidance Plan (SWAP) en
@@ -2032,6 +2187,7 @@ the point is indicated by an X. The CNF name is not used in
 filing a flight plan or in aircraft/ATC communications. Use
 current phraseology (e.g., facility name, radial, distance) to
 describe these fixes.
+2-33
 
 NOT FOR NAVIGATION
 Figure 2-55. Computer navigation fix.
@@ -2052,6 +2208,16 @@ onboard navigation monitoring and alerting. RNP is also
 a statement of navigation performance necessary for
 operation within a defined airspace. A critical component
 of RNP is the ability of the aircraft navigation system to
+RNP Level
+Typical Application
+0.1 to 1.0
+RNP AR Approach Segments
+0.3 to 1.0
+RNP Approach Segments
+Terminal and En Route
+En Route
+Figure 2-56. U.S. standard RNP levels.
+2-34
 monitor its achieved navigation performance, and to
 identify for the pilot whether the operational requirement
 is, or is not being met during an operation. This onboard
@@ -2069,18 +2235,11 @@ the aircraft equipment and the navigation infrastructure.
 For example, an aircraft may be equipped and certified
 for RNP 1.0, but may not be capable of RNP 1.0 operations
 due to limited NAVAID coverage.
-0.1 to 1.0
-0.3 to 1.0
-RNP AR Approach Segments
-RNP Approach Segments
-Terminal and En Route
-En Route
-0.1 to 1.0
-0.3 to 1.0
-RNP Level
-Typical Application
 Primary Route Width (NM) - Centerline to Boundary
-Figure 2-56. U.S. standard RNP levels.
+0.1 to 1.0
+0.3 to 1.0
+1.0
+2.0
 
 RNP Levels
 An RNP level or type is applicable to a selected airspace,
@@ -2176,10 +2335,10 @@ can be determined.
 Maximum Authorized Altitude (MAA)
 An MAA is a published altitude representing the maximum
 usable altitude or flight level for an airspace structure
+2-35
 
 Figure 2-57. Maximum authorized altitude (MAA).
 Figure 2-58. Minimum obstacle clearance altitude (MOCA).
-Minimum obstacle clearance altitude
 or route segment. [Figure 2-57] It is the highest altitude
 on a Federal airway, jet route, RNAV low or high route,
 or other direct route for which an MEA is designated at
@@ -2190,6 +2349,8 @@ frequency interference of ground-based facilities.
 Minimum Obstruction Clearance Altitude
 (MOCA)
 The MOCA is the lowest published altitude in effect between
+2-36
+Minimum obstacle clearance altitude
 fixes on VOR airways, off-airway routes, or route segments
 that meets obstacle clearance requirements for the entire
 route segment. [Figure 2-58] This altitude also assures
@@ -2206,164 +2367,161 @@ MTA
 V330 E to V520 W 16000
 V465 NE to 330 W or V520 W 16000
 Figure 2-59. Minimum turning altitude (MTA).
-Centerline
-3.6°
-4.5°
 Fix displacement area
-En route facility
-Facility providing intersection radial
 Primary area
 Secondary area
+3.6°
+4.5°
+Centerline
+Facility providing intersection radial
+En route facility
 Figure 2-60. Turning area at the intersection fix with NAVAID distance less than 51 NM.
+2-37
 
 feet is added in mountainous areas, in most cases.
-ATC controllers have an important role in helping pilots
-remain clear of obstructions. Controllers are instructed to
-issue a safety alert if the aircraft is in a position that, in their
-judgment, places the pilot in unsafe proximity to terrain,
-obstructions, or other aircraft. Once pilots inform ATC of
-action being taken to resolve the situation, the controller
-may discontinue the issuance of further alerts. A typical
-terrain/obstruction alert may sound like this: “(Aircraft call
-sign ), Low altitude alert. Check your altitude immediately.
-The MOCA in your area is 12,000.”
-Minimum Turning Altitude (MTA)
-Minimum turning altitude (MTA) is a charted altitude
-providing vertical and lateral obstruction clearance based
-on turn criteria over certain fixes, NAVAIDs, waypoints,
-and on charted route segments. [Figure 2-59] When a
-VHF airway or route terminates at a NAVAID or fix, the
-primary area extends beyond that termination point.
-When a change of course on VHF airways and routes is
-necessary, the en route obstacle clearance turning area
-extends the primary and secondary obstacle clearance
-areas to accommodate the turn radius of the aircraft. Since
-turns at or after fix passage may exceed airway and route
-boundaries, pilots are expected to adhere to airway and
-route protected airspace by leading turns early before a
 fix. The turn area provides obstacle clearance for both turn
 anticipation (turning prior to the fix) and flyover protection
+ATC controllers have an important role in helping pilots
 (turning after crossing the fix). This does not violate the
+remain clear of obstructions. Controllers are instructed to
 requirement to fly the centerline of the airway. Many factors
+issue a safety alert if the aircraft is in a position that, in their
 enter into the construction and application of the turning
+judgment, places the pilot in unsafe proximity to terrain,
 area to provide pilots with adequate obstacle clearance
+obstructions, or other aircraft. Once pilots inform ATC of
 protection. These may include aircraft speed, the amount
+action being taken to resolve the situation, the controller
 of turn versus NAVAID distance, flight track, curve radii,
+may discontinue the issuance of further alerts. A typical
 MEAs, and MTA. [Figure 2-60]
+terrain/obstruction alert may sound like this: “(Aircraft call
+sign ), Low altitude alert. Check your altitude immediately.
 Due to increased airspeeds at 10,000 feet MSL or above, an
+The MOCA in your area is 12,000.”
 expanded area in the vicinity of the turning fix is examined
 to ensure the published MEA is sufficient for obstacle
+Minimum Turning Altitude (MTA)
 clearance. In some locations (normally mountainous),
 terrain/obstacles in the expanded search area may obviate
+Minimum turning altitude (MTA) is a charted altitude
 the published MEA and necessitate a higher minimum
+providing vertical and lateral obstruction clearance based
 altitude while conducting the turning maneuver. Turning
+on turn criteria over certain fixes, NAVAIDs, waypoints,
 fixes requiring a higher MTA are charted with a flag along
+and on charted route segments. [Figure 2-59] When a
 with accompanying text describing the MTA restriction.
+VHF airway or route terminates at a NAVAID or fix, the
 [Figure 2-59]
+primary area extends beyond that termination point.
+When a change of course on VHF airways and routes is
 An MTA restriction normally consists of the ATS route
+necessary, the en route obstacle clearance turning area
 leading to the turning fix, the ATS route leading from the
+extends the primary and secondary obstacle clearance
 turning fix, and an altitude (e.g., MTA V330 E TO V520
+areas to accommodate the turn radius of the aircraft. Since
 W 16000). When an MTA is applicable for the intended
+turns at or after fix passage may exceed airway and route
 route of flight, pilots must ensure they are at or above the
+boundaries, pilots are expected to adhere to airway and
 charted MTA prior to beginning the turn and maintain at
+route protected airspace by leading turns early before a
+Transmittal of Airways/Route Data
 Airway
+Routine
+Controlling @
+Flight
+From
+MRA
+MAA
+GNSS
+Change
+Fix
 number
+or docket
+terrain/Obstruction
+Remarks
+inspection
+MEA
+over point
+MRA/MCA
+To
+MOCA
+MEA
 or route
-*9500E
-# MTA
-* 13400W
+number
+and coordinates
+dates
+Tree 6177 @
 300 MTN ROC RED
+Idaho Falls, ID VOR/DME
+432912.00N/1114118.00W
 DEL MCA ATIDA
+V330
+*9500E
+Terrain 6077
 COME ADD MCA
+--7900-­
+*Osity, ID
+432912.00N/1114118.00W
 AT OSITY DEC MOCA
+DEL directional MEA
+MEA CARONIAL ALT
+AAO 12138 (SEC) @
+Osity, ID
 INC MCA PRECIP
+434118.30N/1104858.30W
+# MTA
+V330
 TER DEC MOCA
+JAC 10
+Terrain 11132
+* 13400W
 MEA CARDINAL ALT
+--13600-­
+# Jackson, WY VOR/DME
+433900.00N/1105057.00W
 JAC R-251 UNUSABLE
 BYD 10 # CHART:
 MTA V330 E TO
-DEL directional MEA
-MEA CARONIAL ALT
+VS20W 16000
 Date
 Office
 Title
 Signature
-From
-To
-Idaho Falls, ID VOR/DME
-*Osity, ID
-Osity, ID
-# Jackson, WY VOR/DME
-Routine
-or docket
-number
-GNSS
-MEA
-Change
-over point
-Fix
-MRA/MCA
-Remarks
-Flight
-inspection
-dates
-Controlling @
-terrain/Obstruction
-and coordinates
-Tree 6177 @
-432912.00N/1114118.00W
-432912.00N/1114118.00W
-AAO 12138 (SEC) @
-434118.30N/1104858.30W
-433900.00N/1105057.00W
-MRA
-MOCA
-MAA
-MEA
---7900-­
---13600-­
-Transmittal of Airways/Route Data
+AJW-3773
 Manager
 Ray Nussear
 Figure 2-61. Minimum turning altitude information located in the remarks section of FAA Form 8260-16 Transmittal of Airways/Route Data.
+2-38
 
 Figure 2-62. Minimum crossing altitude (MCA).
 or above the MTA until joining the centerline of the ATS
-route following the turn. Once established on the centerline
-following the turning fix, the MEA/MOCA determines the
-minimum altitude available for assignment.
-An MTA may also preclude the use of a specific altitude or
-a range of altitudes during a turn. For example, the MTA
-may restrict the use of 10,000 through 11,000 feet MSL.
-In this case, any altitude greater than 11,000 feet MSL is
-unrestricted, as are altitudes less than 10,000 feet MSL
-provided MEA/MOCA requirements are satisfied.
-All MTA information associated with the airway/route
-inbound to the turn fix/facility is put in the remarks section
 of FAA Form 8260-16, Transmittal of Airways/Route Data,
+route following the turn. Once established on the centerline
 using the following format [Figure 2-61]:
+following the turning fix, the MEA/MOCA determines the
 #CHART: MTA V330 E TO V520 W 16000
+minimum altitude available for assignment.
 (Document on V330 FAA Form 8260-16)
 #CHART: MTA V465 NE TO V330 W OR V520 W 16000
+An MTA may also preclude the use of a specific altitude or
 (Document on V465 FAA Form 8260-16)
+a range of altitudes during a turn. For example, the MTA
+may restrict the use of 10,000 through 11,000 feet MSL.
 When an MTA is required by FAA Order 8260.3, paragraph
+In this case, any altitude greater than 11,000 feet MSL is
 15-1-5c, enter the MTA information in the REMARKS section
+unrestricted, as are altitudes less than 10,000 feet MSL
 of FAA Form 8260-2, Radio Fix and Holding Data Record, as
+provided MEA/MOCA requirements are satisfied.
 specified on the appropriate FAA Form 8260-16, Transmittal
 of Airways/Route Data, using the following format:
+All MTA information associated with the airway/route
+inbound to the turn fix/facility is put in the remarks section
 MTA: V330 E TO V520 W 16000
-700'
-3200'
-2000'
-6 NM
-4620' MSL
-120' per NM required
-Multiply by 6 NM −720 feet
-Maximum Displacement
-MSL
-X
-MEA 5200'
-MCA 5900' E
 Obstruction height
 4,620'
 Required clearance
@@ -2374,10 +2532,23 @@ Climb value*
 −720'
 MCA required
 =5,900'
+120' per NM required
+Multiply by 6 NM −720 feet
 * Based upon 6 NM @ 120 feet per NM
-Obstacle Line
+MCA 5900' E
+X
+MEA 5200'
+4620' MSL
+700'
 2000'
+2000'
+6 NM
+Maximum Displacement
+Obstacle Line
+3200'
+MSL
 Figure 2-63. Minimum crossing altitude (MCA) determination point.
+2-39
 
 MTA: V465 NE TO V330 W OR V520 W 16000
 Minimum Crossing Altitude (MCA)
@@ -2394,14 +2565,20 @@ requirements for the primary and secondary areas are
 considered in the determination of the MCA. The standard
 for determining the MCA is based upon the following climb
 gradients and is computed from the flight altitude:
+•
 Sea level through 5,000 feet MSL—150 feet per NM
+•
 5000 feet through 10,000 feet MSL—120 feet per
 NM
+•
 10,000 feet MSL and over—100 feet per NM
 To determine the MCA seen on an en route chart, the
 distance from the obstacle to the fix is computed from
 the point where the centerline of the en route course in
 the direction of flight intersects the farthest displacement
+NOT FOR NAVIGATION
+Figure 2-64. En route chart minimum crossing altitude data (outside of the U.S.).
+2-40
 from the fix. [Figure 2-63] When a change of altitude is
 involved with a course change, course guidance must be
 provided if the change of altitude is more than 1,500 feet
@@ -2427,199 +2604,211 @@ MIAs are published on aeronautical charts and prescribed
 in 14 CFR Part 95 for airways and routes, and in
 14 CFR Part 97 for standard instrument approach
 procedures. If no applicable minimum altitude is prescribed
-NOT FOR NAVIGATION
 IN CANADA CROSS EACH FIX AT OR
 ABOVE THE HIGHER MINIMUM EN ROUTE
 IFR ALTITUDE APPLICABLE TO FLIGHT.
-Figure 2-64. En route chart minimum crossing altitude data (outside of the U.S.).
 
-SAMPLE NOT
-FOR ACTUAL USE
-Figure 2-65. MVA chart.
-in 14 CFR Parts 95 or 97, the following MIA applies: In
-designated mountainous areas, 2,000 feet above the
-highest obstacle within a horizontal distance of 4 NM
-from the course to be flown; or other than mountainous
-areas, 1,000 feet above the highest obstacle within a
-horizontal distance of 4 NM from the course to be flown; or
-as otherwise authorized by the Administrator or assigned
-by ATC. MIAs are not flight checked for communication.
-Minimum Vectoring Altitudes (MVA)
-MVAs are established for use by ATC when radar ATC is
-exercised. The MVA provides 1,000 feet of clearance above
-the highest obstacle in non-mountainous areas and 2,000
 10,000
 RIW
+RKS 325
 15,800
-14,500
+SAMPLE NOT
 12,000
+RKS 003
+14,500
+FOR ACTUAL USE
+CKW
 13,700
 10,700
+RKS 080
+RKS
+RKS 269
 11,000
-12,400
 12,000
+12,400
+FBR
+14,500
 15,500
 14,200
-11,000
+VEL
 13,800
+RKS 160
+11,000
 13,300
 12,300
-14,500
-CKW
-VEL
-FBR
-RKS
+Figure 2-65. MVA chart.
+in 14 CFR Parts 95 or 97, the following MIA applies: In
 feet above the highest obstacle in designated mountainous
+designated mountainous areas, 2,000 feet above the
 areas. Because of the ability to isolate specific obstacles,
+highest obstacle within a horizontal distance of 4 NM
 some MVAs may be lower than MEAs, MOCAs, or other
+from the course to be flown; or other than mountainous
 minimum altitudes depicted on charts for a given location.
+areas, 1,000 feet above the highest obstacle within a
 While being radar vectored, IFR altitude assignments by
+horizontal distance of 4 NM from the course to be flown; or
 ATC are normally at or above the MVA.
+as otherwise authorized by the Administrator or assigned
+by ATC. MIAs are not flight checked for communication.
 Air traffic controllers use MVAs only when they are assured
 an adequate radar return is being received from the aircraft.
+Minimum Vectoring Altitudes (MVA)
 Charts depicting MVAs are available to controllers and have
 recently become available to pilots. They can be found
+MVAs are established for use by ATC when radar ATC is
 at http://www.faa.gov/air_traffic/flight_info/aeronav/
+exercised. The MVA provides 1,000 feet of clearance above
 digital_products/mva_mia/ Situational Awareness is
+the highest obstacle in non-mountainous areas and 2,000
+2-41
 
+CRUISING ALTITUDES
+18,000' MSL to flight level 290
+Flight level 290 and above
+IFR within controlled airspace as assigned by ATC
+°
+°
+IFR
 IFR
 EVEN
+EVEN
+IFR
+2,000'
+IFR
+4,000'
+ODD
+°
+°
+4,000'
+M
+M
+Intervals
 2,000'
 Intervals
+Intervals
+begin at
+begin at
+Intervals
+NO VFR FLIGHTS WITHIN
 begin at
 18,000' MSL
+FL 310
+begin at
+VFR or
+FL 290
+CLASS A AIRSPACE
+VFR or
+FL 190
+VFR or
+VFR-ON-TOP
+VFR-ON-TOP
 VFR or
 VFR-ON-TOP
 EVEN
+4,000'
+VFR-ON-TOP
+4,000'
 2,000'
-Intervals
-begin at
-IFR
 ODD
+Intervals
+Intervals
+Intervals
 2,000'
-Intervals
-begin at
-VFR or
-VFR-ON-TOP
-ODD
-2,000'
-Intervals
+VFR above 3000' AGL unless otherwise
 begin at
 °
-M
 °
-°
-°
-M
-18,000' MSL to flight level 290
-IFR
-EVEN
-4,000'
-Intervals
 begin at
-VFR or
-VFR-ON-TOP
-4,000'
-Intervals
 begin at
-IFR
-4,000'
+authorized by ATC IFR outside controlled
+M
+M
+FL 320
 Intervals
+FL 300
+airspace all courses are magnetic
+FL 185
 begin at
-VFR or
-VFR-ON-TOP
-4,000'
-Intervals
-begin at
-°
-M
+FL 195
 °
 °
-°
-M
-Flight level 290 and above
-IFR
-EVEN
-thousands
-VFR or
-ON-TOP
-EVEN
-thousands
-plus
-500'
-IFR
-ODD
-thousands
-VFR or
-ON-TOP
-ODD
-thousands
-plus
-500'
-°
-M
-°
-°
-°
-M
 Cruising altitudes - U.S.
 IFR within controlled airspace as assigned by ATC
-For additional symbol information
-refer to the chart user’s guide.
-VFR above 3000' AGL unless otherwise
-authorized by ATC IFR outside controlled
-airspace all courses are magnetic
-NO VFR FLIGHTS WITHIN
-CLASS A AIRSPACE
-CRUISING ALTITUDES
-IFR within controlled airspace as assigned by ATC
+°
+IFR
+EVEN
+°
+IFR
+M
+thousands
+ODD
+thousands
+VFR or
+ON-TOP
+VFR or
+EVEN
+ON-TOP
+thousands
+ODD
+plus
+thousands
+500'
+plus
+°
+M
+500'
 VFR above 3,000' AGL unless otherwise
+For additional symbol information
+°
 authorized by ATC IFR outside controlled
+refer to the chart user’s guide.
 airspace all courses are magnetic
 Figure 2-66. Cruising altitude or flight level.
 always important, especially when being radar vectored
+of two minutes or less or while turning) if operating an
 during a climb into an area with progressively higher MVA
+aircraft under IFR in level cruising flight, an appropriate
 sectors, similar to the concept of MCA. Except where diverse
+altitude as depicted in the legend of IFR en route high
 vector areas have been established, when climbing, pilots
+and low altitude charts must be maintained. [Figure 2-66]
 should not be vectored into a sector with a higher MVA
 unless at or above the next sector’s MVA. Where lower
-MVAs are required in designated mountainous areas to
-achieve compatibility with terminal routes or to permit
-vectoring to an instrument approach procedure, 1,000 feet
-of obstacle clearance may be authorized with the use of
-Airport Surveillance Radar (ASR). The MVA provides at least
-300 feet above the floor of controlled airspace. The MVA
-charts are developed to the maximum radar range. Sectors
-provide separation from terrain and obstructions. Each MVA
-chart has sectors large enough to accommodate vectoring
-of aircraft within the sector at the MVA. [Figure 2-65]
-IFR Cruising Altitude or Flight Level
-In controlled airspace, pilots must maintain the altitude or
-flight level assigned by ATC, although if the ATC clearance
-assigns “VFR conditions on-top,” an altitude or flight level as
-prescribed by 14 CFR Part 91, § 91.159 must be maintained.
-In uncontrolled airspace (except while in a holding pattern
-of two minutes or less or while turning) if operating an
-aircraft under IFR in level cruising flight, an appropriate
-altitude as depicted in the legend of IFR en route high
-and low altitude charts must be maintained. [Figure 2-66]
 When operating on an IFR flight plan below 18,000 feet
+MVAs are required in designated mountainous areas to
 MSL in accordance with a VFR-on-top clearance, any VFR
+achieve compatibility with terminal routes or to permit
 cruising altitude appropriate to the direction of flight
+vectoring to an instrument approach procedure, 1,000 feet
 between the MEA and 18,000 feet MSL may be selected that
+of obstacle clearance may be authorized with the use of
 allows the flight to remain in VFR conditions. Any change in
+Airport Surveillance Radar (ASR). The MVA provides at least
 altitude must be reported to ATC, and pilots must comply
+300 feet above the floor of controlled airspace. The MVA
 with all other IFR reporting procedures. VFR-on-top is not
+charts are developed to the maximum radar range. Sectors
 authorized in Class A airspace. When cruising below 18,000
+provide separation from terrain and obstructions. Each MVA
 feet MSL, the altimeter must be adjusted to the current
+chart has sectors large enough to accommodate vectoring
 setting, as reported by a station within 100 NM of your
+of aircraft within the sector at the MVA. [Figure 2-65]
 position. In areas where weather-reporting stations are
 more than 100 NM from the route, the altimeter setting of
+IFR Cruising Altitude or Flight Level
 a station that is closest may be used.
+In controlled airspace, pilots must maintain the altitude or
 During IFR flight, ATC advises flights periodically of the
+flight level assigned by ATC, although if the ATC clearance
 current altimeter setting, but it remains the responsibility
+assigns “VFR conditions on-top,” an altitude or flight level as
 of the pilot or flight crew to update altimeter settings in a
+prescribed by 14 CFR Part 91, § 91.159 must be maintained.
 timely manner. Altimeter settings and weather information
+In uncontrolled airspace (except while in a holding pattern
+2-42
 
 are available from weather reporting facilities operated or
 approved by the U.S. National Weather Service, or a source
@@ -2721,27 +2910,12 @@ atmospheric pressure in the area of operation. As local
 altimeter settings fall below 29.92 " Hg, pilots operating
 in Class A airspace must cruise at progressively higher
 indicated altitudes to ensure separation from aircraft
+2-43
 
-FAA AIR SERVICE OUTSIDE U.S. AIRSPACE
-IS PROVIDED IN ACCORDANCE WITH
-ARTICLE 12 AND ANNEX 11 OF ICAO
-CONVENTION. ICAO CONVENTION NOT
-APPLICABLE TO STATE AIRCRAFT BUT
-COMPLIANCE WITH ICAO STANDARDS
-AND PRACTICES IS ENCOURAGED.
 NOT FOR NAVIGATION
-MONCTON FIR
-CZQM
-ALTIMETER
-QNH
-QNE
-CRABB
-N42°13.00´
-W65°44.00´
 Figure 2-67. Altimeter setting changes.
 operating in the low altitude structure as follows:
 Current Altimeter Setting
-Lowest Usable Flight Level
 29.92 or higher
 29.91 to 29.42
 29.41 to 28.92
@@ -2754,13 +2928,27 @@ the minimum altitude plus the number of feet specified
 according to the lowest flight level correction factor as
 follows:
 Altimeter Setting
-Correction Factor
 29.92 or higher
-—
 29.91 to 29.42
-500 feet
+2-44
+MONCTON FIR
+CRABB
+N42°13.00´
+CZQM
+W65°44.00´
+ALTIMETER
+QNH
+QNE
+FAA AIR SERVICE OUTSIDE U.S. AIRSPACE
+IS PROVIDED IN ACCORDANCE WITH
+ARTICLE 12 AND ANNEX 11 OF ICAO
+CONVENTION. ICAO CONVENTION NOT
+APPLICABLE TO STATE AIRCRAFT BUT
+COMPLIANCE WITH ICAO STANDARDS
+AND PRACTICES IS ENCOURAGED.
 Altimeter Setting
 Correction Factor
+Lowest Usable Flight Level
 29.41 to 28.92
 1,000 feet
 28.91 to 28.42
@@ -2777,90 +2965,94 @@ flying into Canada as depicted in Figure 2-67, notice the
 change from transition level (QNE) to transition altitude
 (QNH) when flying north-bound into the Moncton flight
 information region (FIR).
+Correction Factor
 Operations in international airspace demand that pilots
+—
 are aware of, and understand the use of, the three types
+500 feet
 of altimeter settings. Most overseas airports give altimeter
 
 RADAR/NON-RADAR REPORTS
 These reports should be made at all times without a specific ATC request.
+REPORTS
 Leaving one assigned flight altitude or flight level for another
+"Marathon 564, leaving 8,000, climb to 10,000."
 VFR-on-top change in altitude
+"Marathon 564, VFR-on-top, climbing to 10,500."
 Leaving any assigned holding fix or point
+"Marathon 564, leaving FARGO Intersection."
 Missed approach
+"Marathon 564, missed approach, request clearance to Chicago."
 Unable to climb or descend at least 500 fpm
+"Marathon 564, maximum climb rate 400 feet per minute."
 TAS variation from filed speed of 5% or 10 knots, whichever
+"Marathon 564, advises TAS decrease to140 knots."
 is greater
 Time and altitude or flight level upon reaching a holding fix
+"Marathon 564, FARGO Intersection at 05, 10,000, holding east."
 or clearance limit
 Loss of Nav/Comm capability (required by Part 91.187)
-Unforecast weather conditions or other information relating
-to the safety of flight (required by Part 91.183)
-"Marathon 564, leaving 8,000, climb to 10,000."
-"Marathon 564, VFR-on-top, climbing to 10,500."
-"Marathon 564, leaving FARGO Intersection."
-"Marathon 564, missed approach, request clearance to Chicago."
-"Marathon 564, maximum climb rate 400 feet per minute."
-"Marathon 564, advises TAS decrease to140 knots."
-"Marathon 564, FARGO Intersection at 05, 10,000, holding east."
 "Marathon 564, ILS receiver inoperative."
+Unforecast weather conditions or other information relating
 "Marathon 564, experiencing moderate turbulence at 10,000."
+to the safety of flight (required by Part 91.183)
 NON-RADAR REPORTS
 When you are not in radar contact, these reports should be made without a specific request from ATC.
+REPORTS
 Leaving FAF or OM inbound on final approach
-Revised ETA of more than three minutes
 "Marathon 564, outer marker inbound, leaving 2,000."
+Revised ETA of more than three minutes
 "Marathon 564, revising SCURRY estimate to 55."
-REPORTS
-EXAMPLE
-REPORTS
-EXAMPLE
 Figure 2-68. ATC reporting procedures.
 settings in hectopascals (hPa) (millibars). Therefore, it is
+pressure measured at an airport altimeter datum and
 imperative that pilots or on-board equipment are able
+corrected to sea level pressure. At the airport altimeter
 to accurately convert inches of mercury to hPa, or hPa to
+datum, an altimeter set to QNH indicates airport elevation
 inches of mercury.
+above mean sea level (MSL). Altimeters are set to QNH
+while operating at and below the transition altitude and
 Altitude Above Ground (QFE)
+below the transition level.
 A local altimeter setting equivalent to the barometric
+For flights in the vicinity of airports, express the vertical
 pressure measured at an airport altimeter datum, usually
+position of aircraft in terms of QNH or QFE at or below the
 signifying the approach end of the runway is in use. At the
+transition altitude and in terms of QNE at or above the
 airport altimeter datum, an altimeter set to QFE indicates
+transition level. While passing through the transition layer,
 zero altitude. If required to use QFE altimetry, altimeters
+express vertical position in terms of FLs when ascending
 are set to QFE while operating at or below the transition
+and in terms of altitudes when descending.
 altitude and below the transition level. On the airport, the
 altimeter will read “0” feet.
+When an aircraft that receives a clearance as number one
+to land completes its approach using QFE, express the
 Barometric Pressure for Standard Altimeter
+vertical position of the aircraft in terms of height above
 Setting (QNE)
+the airport elevation during that portion of its flight for
 Use the altimeter setting (en route) at or above the
+which you may use QFE.
 transition altitude (FL 180 in the United States). The
 altimeter setting is always 29.92 inches of mercury/1013.2
+It is important to remember that most pressure altimeters
 hPa for a QNE altitude. Transition levels differ from country
+are subject to mechanical, elastic, temperature, and
 to country and pilots should be particularly alert when
+installation errors. In addition, extremely cold temperature
 making a climb or descent in a foreign area.
+differences may also require altimeter correction factors
+as appropriate.
 Barometric Pressure for Local Altimeter Setting
 (QNH)
 A local altimeter setting equivalent to the barometric
-pressure measured at an airport altimeter datum and
-corrected to sea level pressure. At the airport altimeter
-datum, an altimeter set to QNH indicates airport elevation
-above mean sea level (MSL). Altimeters are set to QNH
-while operating at and below the transition altitude and
-below the transition level.
-For flights in the vicinity of airports, express the vertical
-position of aircraft in terms of QNH or QFE at or below the
-transition altitude and in terms of QNE at or above the
-transition level. While passing through the transition layer,
-express vertical position in terms of FLs when ascending
-and in terms of altitudes when descending.
-When an aircraft that receives a clearance as number one
-to land completes its approach using QFE, express the
-vertical position of the aircraft in terms of height above
-the airport elevation during that portion of its flight for
-which you may use QFE.
-It is important to remember that most pressure altimeters
-are subject to mechanical, elastic, temperature, and
-installation errors. In addition, extremely cold temperature
-differences may also require altimeter correction factors
-as appropriate.
+EXAMPLE
+EXAMPLE
+2-45
 
 En Route Reporting Procedures
 In addition to acknowledging a handoff to another Center
@@ -2912,6 +3104,7 @@ Contact,” pilots should discontinue position reports over
 designated reporting points. They should resume normal
 position reporting when ATC advises “radar contact lost”
 or “radar service terminated.” ATC informs pilots that they
+2-46
 are in radar contact:
 1. When their aircraft is initially identified in the
 ATC system; and
@@ -3038,25 +3231,33 @@ designated in the CFRs to ensure aircraft separation.
 If pilots must continue their flight under IFR after
 experiencing two-way radio communication failure, they
 should fly one of the following routes:
+•
 The route assigned by ATC in the last clearance
 received.
+•
 If being radar vectored, the direct route from the
 point of radio failure to the fix, route, or airway
 specified in the radar vector clearance.
+•
 In the absence of an assigned route, the route ATC
 has advised to expect in a further clearance.
+•
 In the absence of an assigned or expected route, the
 route filed in the flight plan.
+2-47
 
 It is also important to fly a specific altitude should two-way
 radio communications be lost. The altitude to fly after a
 communication failure can be found in 14 CFR Part 91, §
 91.185 and must be the highest of the following altitudes
 for each route segment flown.
+•
 The altitude or flight level assigned in the last ATC
 clearance.
+•
 The minimum altitude or flight level for IFR
 operations.
+•
 The altitude or flight level ATC has advised to expect
 in a further clearance.
 In some cases, the assigned or expected altitude may not be as
@@ -3098,6 +3299,7 @@ practicable, and ask for instructions. However,
 when the next normal frequency change along
 the route is known to involve another ATC facility,
 the pilot should contact that facility, if feasible,
+2-48
 for instructions. If communications cannot be
 reestablished by either method, the pilot is expected
 to request communication instructions from the FSS
@@ -3174,6 +3376,9 @@ having different usages. They may be used in clearances
 involving climbs, descents, turns, or speed changes. In the
 flight deck, the words “reaching” and “leaving” sound much
 alike.
+Facility
+Primary area holding pattern airspace area
+Figure 2-70. Holding pattern design criteria template.
 For altitude awareness during climb, pilots often call out
 altitudes on the flight deck. The pilot monitoring may call
 2,000 and 1,000 feet prior to reaching an assigned altitude.
@@ -3200,34 +3405,15 @@ route including great circle direct routes, and continuous
 evaluation and prediction of fuel consumption along with
 changing clearance data.
 Secondary area
-Primary area holding pattern airspace area
+Facility
 Fix displacement area
-Facility
-Facility
-Figure 2-70. Holding pattern design criteria template.
+2-49
 
-NOT FOR NAVIGATION
-"...Hold southeast
-of PINNE Intersection as published.
-Expect further clearance at 1645."
 There are at least three items in a clearance for a charted holding pattern:
 • Direction to hold from the holding fix
 • Holding fix
 • Expect further clearance time
-A clearance for an uncharted holding pattern contains additional information:
-• Direction to hold from holding fix
-• Holding fix
-• The holding course (a specified radial,
-magnetic bearing, airway or route number)
-• The outbound leg length in minutes or
-nautical miles when DME is used
-• Nonstandard pattern, if used
-• Expect further clearance time
-"...Hold west
-of Horst Intersection
-5 mile legs
-left turns
-expect further clearance at 1430."
+NOT FOR NAVIGATION
 Figure 2-71. ATC holding instructions.
 Aircraft Speed and Altitude
 During the en route descent phase of flight, an additional
@@ -3236,14 +3422,27 @@ descent to your destination airport. This allows an
 uninterrupted profile descent from level cruising altitude
 to an appropriate MIA, except where level flight is required
 for speed adjustment. Controllers anticipate and plan that
+V214
 Figure 2-72. Clearance limit holding.
-CHERRELYN
-D
-( H )117.2 CHL
-331°
-269°
-221°
-126°
+2-50
+"...Hold southeast
+of PINNE Intersection as published.
+Expect further clearance at 1645."
+A clearance for an uncharted holding pattern contains additional information:
+• Direction to hold from holding fix
+• Holding fix
+"...Hold west
+• The holding course (a specified radial,
+of Horst Intersection
+magnetic bearing, airway or route number)
+on Victor 8
+• The outbound leg length in minutes or
+5 mile legs
+nautical miles when DME is used
+left turns
+• Nonstandard pattern, if used
+expect further clearance at 1430."
+• Expect further clearance time
 the pilot may level off at 10,000 feet MSL on descent to
 comply with the 14 CFR Part 91 indicated airspeed limit of
 250 knots. Leveling off at any other time on descent may
@@ -3255,11 +3454,18 @@ ATC issues speed adjustments if the flight is being radar
 controlled to achieve or maintain required or desired
 spacing. They express speed adjustments in terms of knots
 based on indicated airspeed in 10 knot increments except
+CHERRELYN
 that at or above FL 240 speeds may be expressed in terms
+D
+( H )117.2 CHL
 of Mach numbers in 0.01 increments. The use of Mach
+331°
 numbers by ATC is restricted to turbojets. If complying
 with speed adjustments, pilots are expected to maintain
 that speed within plus or minus 10 knots or 0.02 Mach.
+269°
+126°
+221°
 Speed and altitude restrictions in clearances are subject
 to misinterpretation, as evidenced in this case where a
 corporate flight crew treated instructions in a published
@@ -3267,23 +3473,8 @@ procedure as a clearance. The aircraft was at FL 310 and
 had already programmed the ‘expect-crossing altitude’ of
 
 Maximum Holding Airspeed:
-KIAS
 Maximum Holding Airspeed:
-KIAS
 Maximum Holding Airspeed:
-KIAS
-14,001'
-MSL
-14,000'
-MSL
-6,000'
-MSL
-Minimum
-Holding
-Altitude
-(MHA)
-6,001'
-MSL
 Figure 2-73. Maximum holding speeds for different altitudes.
 17,000 feet at the VOR. When the altitude alerter sounded,
 the pilot advised Center that we were leaving FL 310. ATC
@@ -3319,18 +3510,33 @@ tolerance, effect of wind, flight procedures, application of
 ATC, outbound leg length, maximum holding airspeeds,
 fix to NAVAID distance, DME slant range effect, holding
 airspace size, and altitude holding levels.
+14,001'
 ATC Holding Instructions
+MSL
+KIAS
 When controllers anticipate a delay at a clearance limit or
 fix, pilots are usually issued a holding clearance at least
+14,000'
+MSL
 five minutes before the ETA at the clearance limit or fix. If
 the holding pattern assigned by ATC is depicted on the
 appropriate aeronautical chart, pilots are expected to
+6,001'
 hold as charted. In the following example, the controller
+MSL
+KIAS
 issues a holding clearance that includes the name of the
 fix, directs the pilot to hold as charted, and includes an
+6,000'
+MSL
 expect further clearance (EFC) time. “Marathon five sixty
+Minimum
 four, hold east of MIKEY Intersection as published, expect
+Holding
 further clearance at 1521.”
+Altitude
+(MHA)
+KIAS
 When ATC issues a clearance requiring you to hold at a fix
 where a holding pattern is not charted, pilots are issued
 complete holding instructions. The holding instructions
@@ -3364,6 +3570,7 @@ turns, as depicted. If this holding pattern is not charted,
 hold west of the VOR on V214 using right-hand turns.
 Where required for aircraft separation, ATC may request
 that the pilot hold at any designated reporting point in a
+2-51
 
 standard holding pattern at the MEA or the MRA, whichever
 altitude is the higher at locations where a minimum holding
@@ -3412,6 +3619,7 @@ to monitor the time and fuel remaining during an IFR flight.
 For example, on a flight scheduled for one hour or less, the
 flight crew may record the time and fuel remaining at the
 top of climb (TOC) and at one additional waypoint listed
+2-52
 in the flight plan. Generally, TOC is used in aircraft with an
 FMS, and represents the point at which cruise altitude is first
 reached. TOC is calculated based on current altitude, climb
@@ -3444,10 +3652,13 @@ airplane must exist so as not to block the operation of any
 recovery aircraft. In addition, those airports designated
 for use must be capable of protecting the safety of all
 personnel by being able to:
+•
 Offload the passengers and flight crew in a safe
 manner during possible adverse weather conditions.
+•
 Provide for the physiological needs of the passengers
 and flight crew for the duration until safe evacuation.
+•
 Be able to safely extract passengers and flight crew
 as soon as possible. Execution and completion of the
 recovery is expected within 12 to 48 hours following

@@ -1,3 +1,7 @@
+Chapter 3
+Weighing the Aircraft and
+Determining the Empty Weight
+Center of Gravity
 Introduction
 Chapter 2, Weight and Balance Theory, explained the theory
 of weight and balance and gave examples of the way the
@@ -7,11 +11,8 @@ of weighing an airplane and locating its CG are discussed.
 Formulas are introduced that allow the CG location to be
 measured in inches from various datum locations and in
 percentage of the mean aerodynamic chord (MAC).
-Weighing the Aircraft and
-Determining the Empty Weight
-Center of Gravity
+3-1
 
-Figure 3-1. Platform scales.
 Requirements
 Regulations do not require periodic weighing of privately
 owned and operated aircraft. Such aircraft are usually
@@ -62,6 +63,7 @@ Record the new empty weight center of gravity
 manual or issued operating limitations.
 When an aircraft has undergone extensive repair or major
 alteration, it should be reweighed and a new weight and
+3-2
 balance record started. The A&P FAA-certificatedmechanic
 or repairman responsible for the work must provide the pilot
 with current and accurate aircraft weight information and
@@ -79,6 +81,7 @@ scale pad at ground level. With one scale per wheel, each
 device should be capable of measuring up to at least 60,000
 pounds since the weight on each wheel rarely exceeds this
 figure
+Figure 3-1. Platform scales.
 Load cell scales [Figure 3-3] are also a reliable means to
 weigh aircraft and are typically cheaper than the platform
 type.Using load cell scales allows for the aircraft to be set
@@ -119,239 +122,234 @@ use and set to zero. This is done by adding and removing
 a weight, then rechecking for zero. This process should be
 repeated until a steady zero setting is obtained. The scales
 should be located in the same environment in which they
+3-3
 
-Figure 3-4. Standard fuels and weights with temperatures of 32 °F
-and 59 °F.
-Weighing Point
-AVGAS (Aviation Gasoline)
-Water
-Oil
-Pounds per U.S. Gallon
-32 °F
-59 °F
 are to be used and allowed to come up to temperature at
+the aircraft is in level-flight attitude. Any fuel remaining in
 least 2 hours prior to use. Scales should not be used in
+the system is considered residual or unusable fuel and is part
 temperature extremes below 40 °F or above 100 °F unless the
+of the aircraft empty weight.
 scale is specifically designed for use in those temperatures.
 Electronic scales are very sensitive and, if subjected to
-freezing temperatures, the liquid displays may be damaged
-beyond use.
-Weigh Clean Aircraft Inside Hangar
-The aircraft should be weighed inside a hangar where wind
-cannot blow over the surface and cause fluctuating or false
-scale readings. The aircraft should be clean inside and out,
-with special attention paid to the bilge area to ensure that no
-water or debris is trapped there. The outside of the aircraft
-should be as free as possible of all mud and dirt.
-Equipment List
-All of the required equipment must be properly installed, and
-there should be no equipment installed that is not included in
-the equipment list. If such equipment is installed, the weight
-and balance record must be corrected to indicate it.
-Ballast
-All required permanent ballasts must be properly secured in
-place. All temporary ballasts must be removed.
-Standard Weights
-Standard weights are established weights for numerous items
-involved in weight and balance computations. These weights
-should not be used if actual weights are available. Some of
-the standard weights are listed in Figure 3-4.
-Note the difference in weight as temperatures change.
-Although this change is a very small amount per gallon, it could
-end up in a significanttotal weight gain when dealing with large
-quantities of fluids,such as those found in commercial aircraft.
-Draining the Fuel
-Drain fuel from the tanks in the manner specified by the
-aircraft manufacturer. If there are no specific instructions,
-drain the fuel until the fuel quantity gauges read empty when
-the aircraft is in level-flight attitude. Any fuel remaining in
-the system is considered residual or unusable fuel and is part
-of the aircraft empty weight.
 The amount of residual fuel and its arm are normally found
+freezing temperatures, the liquid displays may be damaged
 in Note 1 in the section of the Type Certificate Data Sheets
+beyond use.
 (TCDS), “Data pertaining to all Models.” For additional fuel
 capacity information, see Chapter 2, Weight and Balance
+Weigh Clean Aircraft Inside Hangar
 Theory.
+The aircraft should be weighed inside a hangar where wind
 If it is not feasible to drain the fuel, the tanks can be topped
+cannot blow over the surface and cause fluctuating or false
 off to be sure of the quantity they contain and the aircraft
+scale readings. The aircraft should be clean inside and out,
 weighed with full fuel. After weighing is complete, the
+with special attention paid to the bilge area to ensure that no
 weight of the fuel and its moment are subtracted from those
+water or debris is trapped there. The outside of the aircraft
 of the aircraft as weighed. To correct the empty weight for
+should be as free as possible of all mud and dirt.
 the residual fuel, add its weight and moment.
+Equipment List
 When computing the weight of the fuel (e.g., a tank full of
+All of the required equipment must be properly installed, and
 jet fuel), measure its specific gravity (sg) with a hydrometer
+there should be no equipment installed that is not included in
 and multiply it by 8.345 (the nominal weight of 1 gallon of
+the equipment list. If such equipment is installed, the weight
 pure water whose sg is 1.0). If the ambient temperature is
+and balance record must be corrected to indicate it.
 high and the jet fuel in the tank is hot enough for its specific
 gravity to reach 0.81 rather than its nominal sg of 0.82, the
+Ballast
 fuel actually weighs 6.76 pounds per gallon rather than its
+All required permanent ballasts must be properly secured in
 normal weight of 6.84 pounds per gallon.
+place. All temporary ballasts must be removed.
 Oil
+Standard Weights
 The empty weight for aircraft certificated under the Civilian
+Standard weights are established weights for numerous items
 Air Regulations (CAR) part 3 does not include the engine
+involved in weight and balance computations. These weights
 lubricating oil. The oil must either be drained before the
+should not be used if actual weights are available. Some of
 aircraft is weighed, or its weight must be subtracted from
+the standard weights are listed in Figure 3-4.
 the scale readings to determine the empty weight. To weigh
 an aircraft that does not include the engine lubricating oil
+Pounds per U.S. Gallon
 as part of the empty weight, place it in level flight attitude,
+Weighing Point
 then open the drain valves and allow the oil to drain out.
+32 °F
+59 °F
 Any remaining is undrainable oil and is part of the empty
+6.01
+6.14
+AVGAS (Aviation Gasoline)
 weight. Aircraft certificated under Title 14 of the Code of
+6.68
+6.75
+JET A & A-1
 Federal Regulations (14 CFR) parts 23 and 25 include full
+8.33
+8.35
+Water
 oil as part of the empty weight. If it is impractical to drain the
+7.43
+7.50
+Oil
 oil, the reservoir can be filled to the specified level and the
 weight of the oil computed at 7.5 pounds per gallon. Then,
+Figure 3-4. Standard fuels and weights with temperatures of 32 °F
 its weight and moment are subtracted from the weight and
+and 59 °F.
 moment of the aircraft as weighed. The amount and arm of
 the undrainable oil are found in Note 1 of the TCDS, and
 this must be added to the empty weight.
+Note the difference in weight as temperatures change.
+Although this change is a very small amount per gallon, it could
 Other Fluids
+end up in a significanttotal weight gain when dealing with large
 The hydraulic fluid reservoir and all other reservoirs
+quantities of fluids,such as those found in commercial aircraft.
 containing fluidsrequired for normal operation of the aircraft
 should be full. Fluids not considered to be part of the empty
+Draining the Fuel
 weight of the aircraft are potable (drinkable) water, lavatory
+Drain fuel from the tanks in the manner specified by the
 precharge water, and water for injection into the engines.
+aircraft manufacturer. If there are no specific instructions,
+drain the fuel until the fuel quantity gauges read empty when
+3-4
 
-Figure 3-5. Locating the CG of an airplane relative to the datum.
+conditions of both longitudinal and lateral level.
+Configuration of the Aircraf
+The actual adjustments to level the aircraft using load cells
+are made with the jacks. When weighing from the wheels,
+Consult the aircraft service manual regarding position of
+leveling is normally done by adjusting the air pressure in the
+the landing gear shock struts and the control surfaces for
+nosewheel shock strut.
+weighing. When weighing a helicopter, the main rotor must
+be in its correct position.
+Safety Considerations
+Jacking the Aircraft
+Special precautions must be taken when raising an aircraft
+on jacks.
+Aircraft are often weighed by rolling them onto ramps in
+which load cells are embedded. This eliminates the problems
+1.
+Stress plates must be installed under the jack pads if
+associated with jacking the aircraft off the ground. However,
+the manufacturer specifies them
+many aircraft are weighed by jacking the aircraft up and then
+2.
+If anyone is required to be in the aircraft while it is
+lowering them onto scales or load cells.
+being jacked, there must be no movement.
+Extra care must be used when raising an aircraft on jacks for
+3.
+The jacks must be straight under the jack pads before
+weighing. If the aircraft has spring steel landing gear and it
+beginning to raise the aircraft.
+is jacked at the wheel, the landing gear will slide inward as
+4.
+All jacks must be raised simultaneously and the safety
+the weight is taken off of the tire, and care must be taken to
+devices are against the jack cylinder to prevent the
+prevent the jack from tipping over.
+aircraft tipping if any jack should lose pressure. Not
+all jacks have screw down collars, some use drop pins
+For some aircraft, stress panels or plates must be installed before
+or friction locks.
+the aircraft is raised with wing jacks to distribute the weight
+over the jack pad. Be sure to follow the recommendations
+Determining the CG
+of the aircraft manufacturer in detail anytime an aircraft is
+When the aircraft is in its level flight attitude, drop a plumb
+jacked. When using two wing jacks, take special care to raise
+line from the datum and make a mark on the hangar floor
+them simultaneously, keeping the aircraft so it does not slip
+below the tip of the bob. Draw a chalk line through this point
+off the jacks. As the jacks are raised, keep the safety collars
+parallel to the longitudinal axis of the aircraft.
+screwed down against the jack cylinder to prevent the aircraft
+from tilting if one of the jacks should lose hydraulic pressure.
+Then, draw lateral lines between the actual weighing
+points for the main wheels, and make a mark along the
+Leveling the Aircraft
+longitudinal line at the weighing point for the nosewheel
+When an aircraft is weighed, it must be in its level fligh
+or the tailwheel. These lines and marks on the floor allow
+attitude so that all of the components are at their correct
+accurate measurements between the datum and the weighting
+distance from the datum. This attitude is determined by
+points to determine their arms.
+information in the TCDS. Some aircraft require a plumb line
+to be dropped from a specifiedlocation so that the point of the
+Determine the CG by adding the weight and moment of
+weight (the bob) hangs directly above an identifiable point.
+each weighing point to determine the total weight and total
+Others specify that a spirit level be placed across two leveling
+moment. Then, divide the total moment by the total weight
+lugs, often special screws on the outside of the fuselage. Other
+to determine the CG relative to the datum. As an example of
+aircraft call for a spirit level to be placed on the upper door sill.
+locating the CG with respect to the datum, which in this case
+is the firewall, consider the tricycle landing gear airplane as
+Lateral level is not specified for all light aircraft, but
+detailed in the Figure 3-5 table and illustrated in Figure 3-6.
+provisions are normally made on helicopters for determining
+both longitudinal and lateral level. This may be done by
+When the airplane is on the scales with the parking brakes
+built-in leveling indicators, or by a plumb bob that shows the
 Weighing point
-Net weight (lb)
-TARE weight (lb)
 Scale reading (lb)
+TARE weight (lb)
+Net weight (lb)
 Arm (in)
 Moment (lb-in)
 CG
-−32.0
-Right side
-Left side
-Nose
-Total
-2,006
 38,180
+Right side
+46.0
 38,456
+46.0
+Left side
 −10,880
+Nose
+−32.0
+32.8
 65,756
-Configuration of the Aircraf
-Consult the aircraft service manual regarding position of
-the landing gear shock struts and the control surfaces for
-weighing. When weighing a helicopter, the main rotor must
-be in its correct position.
-Jacking the Aircraft
-Aircraft are often weighed by rolling them onto ramps in
-which load cells are embedded. This eliminates the problems
-associated with jacking the aircraft off the ground. However,
-many aircraft are weighed by jacking the aircraft up and then
-lowering them onto scales or load cells.
-Extra care must be used when raising an aircraft on jacks for
-weighing. If the aircraft has spring steel landing gear and it
-is jacked at the wheel, the landing gear will slide inward as
-the weight is taken off of the tire, and care must be taken to
-prevent the jack from tipping over.
-For some aircraft, stress panels or plates must be installed before
-the aircraft is raised with wing jacks to distribute the weight
-over the jack pad. Be sure to follow the recommendations
-of the aircraft manufacturer in detail anytime an aircraft is
-jacked. When using two wing jacks, take special care to raise
-them simultaneously, keeping the aircraft so it does not slip
-off the jacks. As the jacks are raised, keep the safety collars
-screwed down against the jack cylinder to prevent the aircraft
-from tilting if one of the jacks should lose hydraulic pressure.
-Leveling the Aircraft
-When an aircraft is weighed, it must be in its level fligh
-attitude so that all of the components are at their correct
-distance from the datum. This attitude is determined by
-information in the TCDS. Some aircraft require a plumb line
-to be dropped from a specifiedlocation so that the point of the
-weight (the bob) hangs directly above an identifiable point.
-Others specify that a spirit level be placed across two leveling
-lugs, often special screws on the outside of the fuselage. Other
-aircraft call for a spirit level to be placed on the upper door sill.
-Lateral level is not specified for all light aircraft, but
-provisions are normally made on helicopters for determining
-both longitudinal and lateral level. This may be done by
-built-in leveling indicators, or by a plumb bob that shows the
-conditions of both longitudinal and lateral level.
-The actual adjustments to level the aircraft using load cells
-are made with the jacks. When weighing from the wheels,
-leveling is normally done by adjusting the air pressure in the
-nosewheel shock strut.
-Safety Considerations
-Special precautions must be taken when raising an aircraft
-on jacks.
-1.
-Stress plates must be installed under the jack pads if
-the manufacturer specifies them
-2.
-If anyone is required to be in the aircraft while it is
-being jacked, there must be no movement.
-3.
-The jacks must be straight under the jack pads before
-beginning to raise the aircraft.
-4.
-All jacks must be raised simultaneously and the safety
-devices are against the jack cylinder to prevent the
-aircraft tipping if any jack should lose pressure. Not
-all jacks have screw down collars, some use drop pins
-or friction locks.
-Determining the CG
-When the aircraft is in its level flight attitude, drop a plumb
-line from the datum and make a mark on the hangar floor
-below the tip of the bob. Draw a chalk line through this point
-parallel to the longitudinal axis of the aircraft.
-Then, draw lateral lines between the actual weighing
-points for the main wheels, and make a mark along the
-longitudinal line at the weighing point for the nosewheel
-or the tailwheel. These lines and marks on the floor allow
-accurate measurements between the datum and the weighting
-points to determine their arms.
-Determine the CG by adding the weight and moment of
-each weighing point to determine the total weight and total
-moment. Then, divide the total moment by the total weight
-to determine the CG relative to the datum. As an example of
-locating the CG with respect to the datum, which in this case
-is the firewall, consider the tricycle landing gear airplane as
-detailed in the Figure 3-5 table and illustrated in Figure 3-6.
-When the airplane is on the scales with the parking brakes
+2,006
+Total
+Figure 3-5. Locating the CG of an airplane relative to the datum.
+3-5
 
-Figure 3-9. Determining the CG with datum forward of an airplane
-with nosewheel landing gear.
-CG
-F × L
-W
-= D −
-= 128 −
-=
-( )
-340 × 78
-2,006
-( )
-Figure 3-8. The datum is 100 inches forward of the wing root
-leading edge.
-D = 128.0
 Datum
-L = 78.0
-Figure 3-10. The datum is aft of the main wheels at the wing
-trailing edge.
-D = 75
-Datum
-L = 78.0
-Figure 3-7. Determining the CG.
-CG
-Total moment
-Total weight
-=
-65,756
-2,006
-=
-32.8 inches behind the datum
-=
+32.8
+46.0
 Figure 3-6. The datum is located at the firewall.
-Datum
 off, place chocks around the wheels to keep the airplane
 from rolling. Subtract the weight of the chocks, called tare
 weight, from the scale reading to determine the net weight
 at each weighing point. Multiply each net weight by its arm
 to determine its moment, and then determine the total weight
 and total moment. The CG is determined by dividing the total
+Total moment
+=
+CG
+Total weight
+65,756
+=
+2,006
+=
+32.8 inches behind the datum
+Figure 3-7. Determining the CG.
 moment by the total weight. [Figure 3-7]
 The airplane illustrated in Figures 3-5 and 3-6 has a net
 weight of 2,006 pounds, and its CG is 32.8 inches behind
@@ -374,10 +372,32 @@ Datum Forward of the Airplane—Nosewheel
 Landing Gear
 The datum of the airplane in Figure 3-8 is 100 inches forward
 of the leading edge of the wing root or 128 inches forward
+3-6
+Datum
+D = 128.0
+114.8
+100.0
+13.2
+L = 78.0
+Figure 3-8. The datum is 100 inches forward of the wing root
+leading edge.
 of the main-wheel weighing points. This is distance (D). The
 weight of the nosewheel (F) is 340 pounds, and the distance
 between main wheels and nosewheel (L) is 78 inches. The
 total weight of the airplane (W) is 2,006 pounds. Determine
+( )
+F × L
+= D −
+CG
+W
+( )
+340 × 78
+= 128 −
+2,006
+=
+114.8
+Figure 3-9. Determining the CG with datum forward of an airplane
+with nosewheel landing gear.
 the CG by using the formula in Figure 3-9.
 The CG is 114.8 inches aft of the datum. This is 13.2 inches
 forward of the main-wheel weighing points, which proves
@@ -390,59 +410,31 @@ wheels. The airplane in this example is the same one just
 discussed, but the datum is at the intersection of the trailing
 edge of the wing with the fuselage. The distance (D) between
 the datum of the airplane in Figure 3-10 and the main-wheel
+Datum
+88.2
+D = 75
+L = 78.0
+Figure 3-10. The datum is aft of the main wheels at the wing
+trailing edge.
 
-Figure 3-13. Determining the CG with datum forward of the main
-wheels in an airplane with tailwheel landing gear.
-CG
-R × L
-W
-= D +
-= 7.5 +
-=
-( )
-67 × 222
-1,218
-( )
-Figure 3-11. Determining the CG with datum aft of the main wheels
-of an airplane with nosewheel landing gear.
-CG
-F × L
-W
-= − D +
-= − 75 +
-−88.2
-=
-( )
-340 × 78
-2,006
-( )
-Figure 3-12. The datum of this tailwheel airplane is the wing root
-leading edge.
-D = 7.5
-Datum
-L = 222.0
-Datum
-L = 222.0
-D = −80
-Figure 3-14. The datum is aft of the main wheels, at the intersection
-of the wing trailing edge and the fuselage.
-CG
-R × L
-W
-= −D +
-= −80 +
-= −67.8
-( )
-67 × 222
-1,218
-( )
-Figure 3-16. Determining the CG with datum aft of the main wheels
-in an airplane with tailwheel landing gear.
 weighing points is 75 inches, the weight of the nosewheel
 (F) is 340 pounds, and the distance between main wheels
 and nosewheel (L) is 78 inches. The total net weight of the
 airplane (W) is 2,006 pounds.
 The location of the CG may be determined by using the
+( )
+F × L
+= − D +
+CG
+W
+( )
+340 × 78
+= − 75 +
+2,006
+=
+−88.2
+Figure 3-11. Determining the CG with datum aft of the main wheels
+of an airplane with nosewheel landing gear.
 formula in Figure 3-11.
 The CG location is a negative value, which means it is 88.2
 inches forward of the datum. This places it 13.2 inches
@@ -456,14 +448,34 @@ Landing Gear
 Locating the CG of a tailwheel airplane is done in the same
 way as locating it for a nosewheel airplane except the formula
 is .
+R × L
+W
 The distance (D) between the datum of the airplane in
 Figure 3-12 and the main-gear weighing points is 7.5 inches,
 the weight of the tailwheel (R) is 67 pounds, and the distance
 (L) between the main-wheel and the tailwheel weighing points
 is 222 inches. The total weight of the airplane (W) is 1,218
 pounds. Determine the CG by using the formula in Figure 3-13.
+Datum
+19.7
+D = 7.5
+L = 222.0
+229.5
+Figure 3-12. The datum of this tailwheel airplane is the wing root
+leading edge.
+( )
 R × L
+= D +
+CG
 W
+( )
+67 × 222
+= 7.5 +
+1,218
+=
+19.7
+Figure 3-13. Determining the CG with datum forward of the main
+wheels in an airplane with tailwheel landing gear.
 The CG is 19.7 inches behind the datum.
 Datum Aft of the Main Wheels—Tailwheel
 Landing Gear
@@ -474,22 +486,30 @@ net weight of the tailwheel (R) is 67 pounds, the distance
 between the main wheels and the tailwheel (L) is 222 inches,
 and the total net weight (W) of the airplane is 1,218 pounds.
 Since the datum is aft of the main wheels, use the formula
+Datum
+67.8
+D = −80
+L = 222.0
+Figure 3-14. The datum is aft of the main wheels, at the intersection
+of the wing trailing edge and the fuselage.
+( )
+R × L
+= −D +
+CG
+W
+( )
+67 × 222
+= −80 +
+1,218
+= −67.8
+Figure 3-16. Determining the CG with datum aft of the main wheels
+in an airplane with tailwheel landing gear.
 found in Figure 3-15.
 The CG is 67.8 inches forward of the datum or 12.2 inches
 aft of the main-gear weighing points. The CG is in exactly
 the same location relative to the main wheels, regardless of
+3-7
 
-Figure 3-16. The MAC is the chord drawn through the geographic
-center of the plan area of the wing.
-CG
-MAC
-Trailing edge mean
-aerodynamic chord
-Leading edge mean
-aerodynamic chord
-TEMAC
-LEMAC
-Datum
 where the datum is located.
 Center of Gravity (CG) and Mean
 Aerodynamic Chord (MAC)
@@ -537,6 +557,9 @@ that has the same aerodynamic characteristics as the actual
 airfoil. You can also think of it as the chord drawn through
 the geographic center of the plan area of the wing.
 Usually listed in the aircraft’s TCDS when it is required for
+3-8
+Figure 3-16. The MAC is the chord drawn through the geographic
+center of the plan area of the wing.
 weight and balance computations, the MAC is established
 by the manufacturer, defining its leading edge (LEMAC)
 and trailing edge (TEMAC) in terms of inches from the
@@ -565,40 +588,43 @@ located at station 161.
 MAC = TEMAC – LEMAC
 MAC = 206" – 144"
 MAC = 62"
+Datum
+Leading edge mean
+aerodynamic chord
+LEMAC
+MAC
+CG
+TEMAC
+Trailing edge mean
+aerodynamic chord
 
-Figure 3-18. Formula for determining the CG expressed in percent
-MAC.
-CG inches % MAC = Distance aft of LEMAC × 100
-MAC
-=
-= 27.4
-17 × 100
-Figure 3-17. Large aircraft weight and balance calculation diagram.
-CG = 27.4%
-CG = 161
-MAC
+Station 144"
+Station 206"
 TEMAC
 LEMAC
 Datum
+MAC
+MAC
+CG = 27.4%
 CG = 27.4%
 CG
 CG
 = 161
-MAC
-Station 144"
-Station 206"
-Figure 3-19. Formula for determining the CG in inches from the
-datum.
-CG inches from datum = LEMAC + MAC × CG % MAC
-= 144 +
-= 160.9
-62 × 27.4
+CG = 161
+Figure 3-17. Large aircraft weight and balance calculation diagram.
 CG = 161"
 In order to findthe percent MAC, firs determine the distance
 of the CG from LEMAC.
 CG – LEMAC = Distance from LEMAC
 161" – 144" = 17"
 The location of the CG expressed in percent MAC is
+CG inches % MAC = Distance aft of LEMAC × 100
+MAC
+17 × 100
+=
+= 27.4
+Figure 3-18. Formula for determining the CG expressed in percent
+MAC.
 determined using the formula found in Figure 3-18. The CG
 of the airplane is located at 27.4 percent MAC.
 It is sometimes necessary to determine the location of the
@@ -607,6 +633,12 @@ MAC is known.
 The CG of the airplane is located at 27.4 percent MAC.
 MAC = 206 – 144 = 62
 LEMAC = station 144
+CG inches from datum = LEMAC + MAC × CG % MAC
+62 × 27.4
+= 144 +
+= 160.9
+Figure 3-19. Formula for determining the CG in inches from the
+datum.
 Determine the location of the CG in inches from the datum
 by using the formula found in Figure 3-19.
 The CG of this airplane is located at station 160.9 inches aft
@@ -614,3 +646,6 @@ of the datum. It is important for longitudinal stability that the
 CG be located ahead of the center of lift of a wing. Since the
 center of lift is expressed as percent MAC, the location of
 the CG is expressed in the same terms.
+3-9
+
+3-10

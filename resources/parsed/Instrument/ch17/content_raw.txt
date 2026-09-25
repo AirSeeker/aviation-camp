@@ -1,3 +1,7 @@
+Chapter 6, Section II
+Airplane Attitude
+Instrument Flying
+Using an Electronic Flight Display
 Introduction
 Attitude instrument flying is defined as the control of an
 aircraft’s spatial position by using instruments rather than
@@ -9,345 +13,344 @@ The improvements in avionics coupled with the introduction
 of EFDs to general aviation aircraft offer today’s pilot an
 unprecedented array of accurate instrumentation to use in
 the support of instrument flying.
-Airplane Attitude
-Instrument Flying
-Chapter 6, Section II
-Using an Electronic Flight Display
+6-15
 
-XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 100KT
-OAT 7°C
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-DC ELEC
-L
-R
-Figure 6-21. Primary flight display (PFD) and analog counterparts.
 Until recently, most general aviation aircraft were equipped
+reference points on the aircraft. In order to operate the aircraft
 with individual instruments utilized collectively to safely
+in other than VFR weather, with no visual reference to the
 maneuver the aircraft by instrument reference alone. With
+natural horizon, pilots need to develop additional skills.
 the release of the EFD system, the conventional instruments
+These skills come from the ability to maneuver the aircraft by
 have been replaced by multiple liquid crystal display (LCD)
+reference to flight instruments alone. These flight instruments
 screens. The first screen is installed in front of the left seat
+replicate all the same key elements that a VFR pilot utilizes
 pilot position and is referred to as the primary flight display
+during a normal flight. The natural horizon is replicated on
 (PFD). [Figure 6-21] The second screen is positioned in
+the attitude indicator by the artificial horizon.
 approximately the center of the instrument panel and is
 referred to as the multifunction display (MFD). [Figure 6-22]
-The pilot can use the MFD to display navigation information
-(moving maps), aircraft systems information (engine
-monitoring), or should the need arise, a PFD. [Figure 6-23]
-With just these two screens, aircraft designers have been able
-to declutter instrument panels while increasing safety. This
-has been accomplished through the utilization of solid-state
-instruments that have a failure rate far lower than those of
-conventional analog instrumentation.
-However, in the event of electrical failure, the pilot still
-has emergency instruments as a backup. These instruments
-either do not require electrical power, or as in the case
-of many attitude indicators, they are battery equipped.
-[Figure 6-24]
-Pilots flying under visual flight rules (VFR) maneuver their
-aircraft by reference to the natural horizon, utilizing specific
-reference points on the aircraft. In order to operate the aircraft
-in other than VFR weather, with no visual reference to the
-natural horizon, pilots need to develop additional skills.
-These skills come from the ability to maneuver the aircraft by
-reference to flight instruments alone. These flight instruments
-replicate all the same key elements that a VFR pilot utilizes
-during a normal flight. The natural horizon is replicated on
-the attitude indicator by the artificial horizon.
 Understanding how each flight instrument operates and
+The pilot can use the MFD to display navigation information
 what role it plays in controlling the attitude of the aircraft
+(moving maps), aircraft systems information (engine
 is fundamental in learning attitude instrument flying. When
+monitoring), or should the need arise, a PFD. [Figure 6-23]
 the pilot understands how all the instruments are used in
+With just these two screens, aircraft designers have been able
 establishing and maintaining a desired aircraft attitude, the
+to declutter instrument panels while increasing safety. This
 pilot is better prepared to control the aircraft should one
+has been accomplished through the utilization of solid-state
 or more key instruments fail or if the pilot should enter
+instruments that have a failure rate far lower than those of
 instrument flight conditions.
+conventional analog instrumentation.
 Learning Methods
+However, in the event of electrical failure, the pilot still
 There are two basic methods utilized for learning attitude
+has emergency instruments as a backup. These instruments
 instrument flying. They are “control and performance” and
+either do not require electrical power, or as in the case
 “primary and supporting.” These methods rely on the same
+of many attitude indicators, they are battery equipped.
 flight instruments and require the pilot to make the same
+[Figure 6-24]
 adjustments to the flight and power controls to control aircraft
 attitude. The main difference between the two methods is the
+Pilots flying under visual flight rules (VFR) maneuver their
 importance that is placed on the attitude indicator and the
+aircraft by reference to the natural horizon, utilizing specific
 interpretation of the other flight instruments.
-
-Figure 6-22. Multifunction display (MFD).
-Figure 6-23. Reversionary displays.
+L
+R
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+DC ELEC
+NAV2 108.00 110.60
+123.800 118.000 COM2
+270°
+TAS 100KT
+VOR 1
 XPDR 5537 IDNT LCL23:00:34
+OAT 7°C
+Figure 6-21. Primary flight display (PFD) and analog counterparts.
+6-16
+
 270°
 TAS 106KT
+VOR 1
+XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
+Figure 6-22. Multifunction display (MFD).
+Figure 6-23. Reversionary displays.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
 MAP - NAVIGATION MAP
-XPDR 1200 STBY LCL23:00:34
+27.3
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+TRAFFIC
+18.0
 270°
+13.7
 TAS 100KT
 OAT 7°C
 ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-ALERTS
+VOR 1
 BACKUP PATH - AHRS using backup
 data path.
 TRAFFIC FAIL - Traffic device
 has failed.
 XPDR1 CONFIG - XPDR1 config
 error. config service req’d.
-TRAFFIC
+XPDR 1200 STBY LCL23:00:34
+ALERTS
+6-17
 
-Figure 6-24. Emergency back-up of the airspeed indicator, attitude indicator, and altitude indicator.
-XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 100KT
-OAT 7°C
-ALERTS
-NAV1 117.60 117.90
-NAV2 117.90 117.60
-132.675 120.000 COM1
-118.525 132.900 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-N-S
 E-W
-VOLTS
-NAV1 117.60 117.90
-NAV2 117.90 117.60
-132.675 120.000 COM1
-118.525 132.900 COM2
+N-S
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 117.60 117.90
+132.675 120.000 COM1
+NAV1 117.60 117.90
+132.675 120.000 COM1
+NAV2 117.90 117.60
+118.525 132.900 COM2
+NAV2 117.90 117.60
+118.525 132.900 COM2
 MAP - NAVIGATION MAP
-Figure 6-25. Control instruments.
-XPDR 5537 IDNT LCL23:00:34
+27.3
 270°
 TAS 100KT
+VOR 1
+VOLTS
+XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-N-S
-E-W
+Figure 6-24. Emergency back-up of the airspeed indicator, attitude indicator, and altitude indicator.
 Control and Performance Method
-Aircraft performance is accomplished by controlling the
-aircraft attitude and power output. Aircraft attitude is the
-relationship of its longitudinal and lateral axes to the Earth’s
-horizon. When flying in instrument flight conditions, the
-pilot controls the attitude of the aircraft by referencing the
-flight instruments and manipulating the power output of the
-engine to achieve the performance desired. This method can
-be used to achieve a specific performance level enabling a
-pilot to perform any basic instrument maneuver.
 The instrumentation can be broken up into three different
 categories: control, performance, and navigation.
+Aircraft performance is accomplished by controlling the
+aircraft attitude and power output. Aircraft attitude is the
 Control Instruments
+relationship of its longitudinal and lateral axes to the Earth’s
+horizon. When flying in instrument flight conditions, the
 The control instruments depict immediate attitude and power
+pilot controls the attitude of the aircraft by referencing the
 changes. The instrument for attitude display is the attitude
+flight instruments and manipulating the power output of the
 indicator. Power changes are directly reflected on the manifold
+engine to achieve the performance desired. This method can
 pressure gauge and the tachometer. [Figure 6-25] All three
+be used to achieve a specific performance level enabling a
 of these instruments can reflect small adjustments, allowing
+pilot to perform any basic instrument maneuver.
 for precise control of aircraft attitude.
-
-Figure 6-26. Performance instruments.
-XPDR 5537 IDNT LCL23:00:34
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+E-W
+N-S
+23.0
+-500
+13.7
 270°
 TAS 100KT
+VOR 1
+XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-N-S
-E-W
-Airspeed indicator
-Vertical speed indicator
-Heading indicator
-Slip/skid indicator
-Pitch indicator
+Figure 6-25. Control instruments.
+6-18
+
+Navigation Instruments
 In addition, the configuration of the power indicators installed
 in each aircraft may vary to include the following types of
-power indicators: tachometers, manifold pressure indicator,
-engine pressure ratio indicator, fuel flow gauges, etc.
-The control instruments do not indicate how fast the aircraft
-is flying or at what altitude it is flying. In order to determine
-these variables and others, a pilot needs to refer to the
-performance instruments.
-Performance Instruments
-The performance instruments directly reflect the performance
-the aircraft is achieving. The speed of the aircraft can be
-referenced on the airspeed indicator. The altitude can be
-referenced on the altimeter. The aircraft’s climb performance
-can be determined by referencing the vertical speed indicator
-(VSI). [Figure 6-26] Other performance instruments
-available are the heading indicator, pitch attitude indicator,
-and the slip/skid indicator.
-The performance instruments most directly reflect a change
-in acceleration, which is defined as change in velocity
-or direction. Therefore, these instruments indicate if the
-aircraft is changing airspeed, altitude, or heading, which are
-horizontal, vertical, or lateral vectors.
-Navigation Instruments
 The navigation instruments are comprised of global
+power indicators: tachometers, manifold pressure indicator,
 positioning system (GPS) displays and indicators, very high
+engine pressure ratio indicator, fuel flow gauges, etc.
 frequency omnidirectional range/nondirectional radio beacon
 (VOR/NDB) indicators, moving map displays, localizer, and
+The control instruments do not indicate how fast the aircraft
 glideslope (GS) indicators. [Figure 6-27] The instruments
+is flying or at what altitude it is flying. In order to determine
 indicate the position of the aircraft relative to a selected
+these variables and others, a pilot needs to refer to the
 navigation facility or fix. Navigation instruments allow
+performance instruments.
 the pilot to maneuver the aircraft along a predetermined
 path of ground-based or spaced-based navigation signals
+Performance Instruments
 without reference to any external visual cues. The navigation
+The performance instruments directly reflect the performance
 instruments can support both lateral and visual inputs.
+the aircraft is achieving. The speed of the aircraft can be
 The Four-Step Process Used to Change Attitude
+referenced on the airspeed indicator. The altitude can be
 In order to change the attitude of the aircraft, the pilot must
+referenced on the altimeter. The aircraft’s climb performance
 make the proper changes to the pitch, bank, or power settings
+can be determined by referencing the vertical speed indicator
 of the aircraft. Four steps (establish, trim, cross-check, and
+(VSI). [Figure 6-26] Other performance instruments
 adjust) have been developed in order to aid in the process.
+available are the heading indicator, pitch attitude indicator,
+and the slip/skid indicator.
 Establish
+The performance instruments most directly reflect a change
 Any time the attitude of the aircraft requires changing, the
+in acceleration, which is defined as change in velocity
 pilot must adjust the pitch and/or bank in conjunction with
+or direction. Therefore, these instruments indicate if the
 power to establish the desired performance. The changes
+aircraft is changing airspeed, altitude, or heading, which are
 in pitch and bank require the pilot to reference the attitude
+horizontal, vertical, or lateral vectors.
 indicator in order to make precise changes. Power changes
 should be verified on the tachometer, manifold pressure
 gauge, etc. To ease the workload, the pilot should become
-
-Figure 6-27. Navigation instruments.
-XPDR 5537 IDNT LCL23:00:34
+Vertical speed indicator
+Airspeed indicator
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+Slip/skid indicator
+E-W
+N-S
+23.0
+13.7
 270°
 TAS 100KT
+Pitch indicator
+Heading indicator
+VOR 1
+XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
-NAV1 117.60 117.90
-NAV2 117.90 117.60
-132.675 120.000 COM1
-118.525 132.900 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 117.60 117.90
-NAV2 117.90 117.60
-132.675 120.000 COM1
-118.525 132.900 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-MAP - NAVIGATION MAP
-DME TUNING
-Course deviation indicator
-NAV controls
+Figure 6-26. Performance instruments.
+6-19
+
 COM frequency window
 NAV frequency window
 COM controls
+Moving map
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 117.60 117.90
+132.675 120.000 COM1
+NAV1 117.60 117.90
+132.675 120.000 COM1
+NAV2 117.90 117.60
+118.525 132.900 COM2
+NAV2 117.90 117.60
+118.525 132.900 COM2
+MAP - NAVIGATION MAP
 Com section
+NAV controls
 audio panel
+Glideslope/vertical guidance indicator
+270°
+GPS/NDB
+VOR
+TAS 100KT
+DME TUNING
+DME MODE NAV1
+VOR 1
+Course deviation indicator
 NAV section
 audio panel
+XPDR 5537 IDNT LCL23:00:34
+OAT 7°C
 DME tuning window
-Glideslope/vertical guidance indicator
-Moving map
-VOR
-GPS/NDB
+ALERTS
+Figure 6-27. Navigation instruments.
 familiar with the approximate pitch and power changes
-necessary to establish a specified attitude.
-Trim
-Another important step in attitude instrument flying is
-trimming the aircraft. Trim is utilized to eliminate the need
-to apply force to the control yoke in order to maintain the
-desired attitude. When the aircraft is trimmed appropriately,
-the pilot is able to relax pressure on the control yoke and
-momentarily divert attention to another task at hand without
-deviating from the desired attitude. Trimming the aircraft is
-very important, and poor trim is one of the most common
-errors instructors note in instrument students.
-Cross-Check
-Once the initial attitude changes have been made, the pilot
-should verify the performance of the aircraft. Cross-checking
-the control and performance instruments requires the pilot
-to visually scan the instruments, as well as interpret the
-indications. All the instruments must be utilized collectively
-in order to develop a full understanding of the aircraft attitude.
-During the cross-check, the pilot needs to determine the
-magnitude of any deviations and determine how much of a
-change is required. All changes are then made based on the
-control instrument indications.
-Adjust
-The final step in the process is adjusting for any deviations
-that have been noted during the cross-check. Adjustments
-should be made in small increments. The attitude indicator
-and the power instruments are graduated in small increments
-to allow for precise changes to be made. The pitch should be
-made in reference to bar widths on the miniature airplane.
-The bank angle can be changed in reference to the roll scale
-and the power can be adjusted in reference to the tachometer,
-manifold pressure gauge, etc.
 By utilizing these four steps, pilots can better manage the
+necessary to establish a specified attitude.
 attitude of their aircraft. One common error associated with
 this process is making a larger than necessary change when
+Trim
 a deviation is noted. Pilots need to become familiar with the
 aircraft and learn how great a change in attitude is needed to
+Another important step in attitude instrument flying is
 produce the desired performance.
+trimming the aircraft. Trim is utilized to eliminate the need
+to apply force to the control yoke in order to maintain the
 Applying the Four-Step Process
+desired attitude. When the aircraft is trimmed appropriately,
 In attitude instrument flight, the four-step process is used to
+the pilot is able to relax pressure on the control yoke and
 control pitch attitude, bank attitude, and power application of
+momentarily divert attention to another task at hand without
 the aircraft. The EFD displays indications precisely enough
+deviating from the desired attitude. Trimming the aircraft is
 that a pilot can apply control more accurately.
+very important, and poor trim is one of the most common
+errors instructors note in instrument students.
 Pitch Control
+Cross-Check
 The pitch control is indicated on the attitude indicator,which
 spans the full width of the PFD. Due to the increased size
+Once the initial attitude changes have been made, the pilot
 of the display, minute changes in pitch can be made and
+should verify the performance of the aircraft. Cross-checking
 corrected. The pitch scale on the attitude indicator is graduated
+the control and performance instruments requires the pilot
 in 5-degree increments that allow the pilot to make corrections
+to visually scan the instruments, as well as interpret the
 with precision to approximately 1⁄2 degree. The miniature
+indications. All the instruments must be utilized collectively
 airplane utilized to represent the aircraft in conventional
+in order to develop a full understanding of the aircraft attitude.
 attitude indicators is replaced in glass panel displays by a
+During the cross-check, the pilot needs to determine the
 yellow chevron. [Figure 6-28] Representing the nose of the
+magnitude of any deviations and determine how much of a
 aircraft, the point of the chevron affords the pilot a much
+change is required. All changes are then made based on the
 more precise indication of the degree of pitch and allows
+control instrument indications.
 the pilot to make small, precise changes should the desired
 aircraft performance change. When the desired performance
+Adjust
 is not being achieved, precise pitch changes should be made
+The final step in the process is adjusting for any deviations
 by referencing the point of the yellow chevron.
+that have been noted during the cross-check. Adjustments
+should be made in small increments. The attitude indicator
 Bank Control
+and the power instruments are graduated in small increments
 Precise bank control can be developed utilizing the roll
+to allow for precise changes to be made. The pitch should be
 pointer in conjunction with the roll index displayed on the
+made in reference to bar widths on the miniature airplane.
 attitude indicator. The roll index is sectioned by hash marks at
+The bank angle can be changed in reference to the roll scale
 0°, 10°, 20°, 30°, 45°, 60° and the horizon line, which depicts
+and the power can be adjusted in reference to the tachometer,
 90° of bank. [Figure 6-29] The addition of the 45° hash mark
+manifold pressure gauge, etc.
 is an improvement over conventional attitude indicators.
+6-20
 
-Figure 6-28. The chevron’s relationship to the horizon line indicates
-the pitch of the aircraft.
-270°
-TAS 100KT
-Figure 6-29. Bank indicator index lines.
-XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 106KT
-OAT 7°C
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _°T TRK 360°T
-0°
-10°
-20°
-30°
-45°
-60°
 In addition to the roll index, the instrument pilot utilizes
 the turn rate indicator to maintain the aircraft in a standard
 rate turn (3° per second). Most instrument maneuvers can
@@ -357,16 +360,21 @@ Power Control
 The power instruments indicate how much power is being
 generated by the engine. They are not affected by turbulence,
 improper trim, or control pressures. All changes in power
+270°
 should be made with reference to power instruments and
 cross-checked on performance instruments.
+TAS 100KT
 Power control needs to be learned from the beginning of
+VOR 1
 flight training. Attitude instrument flying demands increased
 precision when it comes to power control. As experience
 increases, pilots begin to know approximately how much
 change in throttle position is required to produce the desired
 change in airspeed. Different aircraft demand differing
 amounts of throttle change to produce specific performance.
+Figure 6-28. The chevron’s relationship to the horizon line indicates
 It is imperative that the pilot make the specific changes on the
+the pitch of the aircraft.
 power instruments and allow the performance to stabilize.
 Avoid the tendency to overcontrol.
 One common error encountered with glass panel displays
@@ -376,153 +384,231 @@ establishing the exact power setting.
 Control and power instruments are the foundation for precise
 attitude instrument flying. The keys to attitude instrument
 flying are establishing the desired aircraft attitude on the
+0°
 attitude indicator and selecting the desired engine output on
+10°
 the power instruments. Cross-checking is the vital ingredient
+20°
 in maintaining precise attitude instrument flight.
+30°
+45°
 Attitude Instrument Flying—Primary and
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _°T TRK 360°T
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
 Supporting Method
+60°
 The second method for performing attitude instrument
 flight is a direct extension of the control/power method.
 By utilizing the primary and supporting flight instruments
 in conjunction with the control and power instruments, the
+270°
 pilot can precisely maintain aircraft attitude. This method
+TAS 106KT
 utilizes the same instruments as the control/power method;
+VOR 1
 however, it focuses more on the instruments that depict the
 most accurate indication for the aspect of the aircraft attitude
+XPDR 5537 IDNT LCL23:00:34
+OAT 7°C
 being controlled. The four key elements (pitch, bank, roll,
 and trim) are discussed in detail.
 Similar to the control/power method, all changes to aircraft
 attitude need to be made using the attitude indicator and the
 power instruments (tachometer, manifold pressure gauge,
 etc.). The following explains how each component of the
+Figure 6-29. Bank indicator index lines.
 aircraft attitude is monitored for performance.
+6-21
 
-Figure 6-30. Pitch of the aircraft.
-XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 100KT
-OAT 7°C
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-N-S
-E-W
-Artificial horizon
-Slip/skid indicator
-Pitch attitude of aircraft
 Pitch Control
-The pitch of the aircraft refers to the angle between the
-longitudinal axis of the aircraft and the natural horizon. When
-flying in instrument meteorological conditions (IMC), the
-natural horizon is unavailable for reference and an artificial
-horizon is utilized in its place. [Figure 6-30] The only
-instrument capable of depicting the aircraft attitude is the
-attitude indicator displayed on the PFD. The attitude and
-heading reference system (AHRS) is the engine that drives
-the attitude display. The AHRS unit is capable of precisely
-tracking minute changes in the pitch, bank, and yaw axes,
-thereby making the PFD very accurate and reliable. The
-AHRS unit determines the angle between the aircraft’s
-longitudinal axis and the horizon line on initialization. There
-is no need or means for the pilot to adjust the position of the
-yellow chevron, which represents the nose of the aircraft.
-Straight-and-Level Flight
-In straight-and-level flight, the pilot maintains a constant
-altitude, airspeed and, for the most part, heading for extended
-periods of time. To achieve this, the three primary instruments
-that need to be referenced in order to maintain these three
-variables are the altitude, airspeed, and heading indicators.
-Primary Pitch
-When the pilot is maintaining a constant altitude, the primary
-instrument for pitch is the altimeter. As long as the aircraft
-maintains a constant airspeed and pitch attitude, the altitude
-should remain constant.
 Two factors that cause the altitude to deviate are turbulence
 and momentary distractions. When a deviation occurs, a
+The pitch of the aircraft refers to the angle between the
 change in the pitch needs to be made on the attitude indicator.
+longitudinal axis of the aircraft and the natural horizon. When
 Small deviations require small corrections, while large
+flying in instrument meteorological conditions (IMC), the
 deviations require larger corrections. Pilots should avoid
+natural horizon is unavailable for reference and an artificial
 making large corrections that result in rapid attitude changes,
+horizon is utilized in its place. [Figure 6-30] The only
 for this may lead to spatial disorientation. Smooth, timely
+instrument capable of depicting the aircraft attitude is the
 corrections should be made to bring the aircraft back to the
+attitude indicator displayed on the PFD. The attitude and
 desired attitude.
+heading reference system (AHRS) is the engine that drives
+the attitude display. The AHRS unit is capable of precisely
 Pay close attention to indications on the PFD. An increase
+tracking minute changes in the pitch, bank, and yaw axes,
 in pitch of 2.5° produces a climb rate of 450 feet per minute
+thereby making the PFD very accurate and reliable. The
 (fpm). Small deviations do not require large attitude changes.
+AHRS unit determines the angle between the aircraft’s
 A rule of thumb for correcting altitude deviations is to
+longitudinal axis and the horizon line on initialization. There
 establish a change rate of twice the altitude deviation, not to
+is no need or means for the pilot to adjust the position of the
 exceed 500 fpm. For example, if the aircraft is off altitude
+yellow chevron, which represents the nose of the aircraft.
 by 40 feet, 2 × 40 = 80 feet, so a descent of approximately
 100 fpm allows the aircraft to return to the desired altitude
+Straight-and-Level Flight
 in a controlled, timely fashion.
+In straight-and-level flight, the pilot maintains a constant
+altitude, airspeed and, for the most part, heading for extended
 In addition to the primary instrument, there are also
+periods of time. To achieve this, the three primary instruments
 supporting instruments that assist the pilot in cross-checking
+that need to be referenced in order to maintain these three
 the pitch attitude. The supporting instruments indicate trend,
+variables are the altitude, airspeed, and heading indicators.
 but they do not indicate precise attitude indications. Three
 instruments (vertical speed, airspeed, and altitude trend
+Primary Pitch
 tape) indicate when the pitch attitude has changed and that
+When the pilot is maintaining a constant altitude, the primary
 the altitude is changing. [Figure 6-31] When the altitude is
+instrument for pitch is the altimeter. As long as the aircraft
 constant, the VSI and altitude trend tape are not shown on
+maintains a constant airspeed and pitch attitude, the altitude
 the PFD. When these two trend indicators are displayed, the
-
-Figure 6-31. Supporting instruments.
-270°
-TAS 100KT
-270°
-Altitude trend vector
-Turn rate trend vector
-Airspeed trend (increasing)
-Figure 6-32. Primary bank.
-XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 100KT
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
+should remain constant.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-Roll scale zero
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
 Slip/skid indicator
-Skidding turn
+E-W
+N-S
+23.0
+Artificial horizon
+Pitch attitude of aircraft
+13.7
 270°
-Roll pointer
-Standard rate
-Heading
-1/2 standard rate
-Turn rate trend vector
+TAS 100KT
+VOR 1
+XPDR 5537 IDNT LCL23:00:34
+OAT 7°C
+ALERTS
+Figure 6-30. Pitch of the aircraft.
+6-22
+
 regarding the direction and rate of altitude deviations. The
+Airspeed trend (increasing)
 pilot is thus able to make corrections to the pitch attitude
 before a large deviation in altitude occurs. The airspeed
 indicator depicts an increase if the pitch attitude is lowered.
+Altitude trend vector
 Conversely, when the pitch attitude increases, the pilot should
 note a decrease in the airspeed.
+-375
+-500
 Primary Bank
 When flying in IMC, pilots maintain preplanned or assigned
+270°
 headings. With this in mind, the primary instrument for bank
+-250
+TAS 100KT
 angle is the heading indicator. Heading changes are displayed
+270°
 instantaneously. The heading indicator is the only instrument
+3975 -125
+VOR 1
 that displays the current magnetic heading, provided that
 it is matched to the magnetic compass with all deviation
+Turn rate trend vector
 adjustments accounted for. [Figure 6-32]
 There are supporting instruments associated with bank as
+Figure 6-31. Supporting instruments.
 well. The turn rate trend indicator shows the pilot when the
 aircraft is changing heading. The magnetic compass is also
-useful for maintaining a heading; however, it is influenced
-by several errors in various phases of flight.
-Primary Yaw
-The slip/skid indicator is the primary instrument for yaw.
-It is the only instrument that can indicate if the aircraft is
 pilot is made aware that the pitch attitude of the aircraft has
+useful for maintaining a heading; however, it is influenced
 changed and may need adjustment. Notice in Figure 6-31
+by several errors in various phases of flight.
 that the aircraft is descending at a rate of 500 fpm.
+Primary Yaw
 The instrument cross-check necessitates utilizing these
+The slip/skid indicator is the primary instrument for yaw.
 supporting instruments to better manage altitude control.
+It is the only instrument that can indicate if the aircraft is
 The VSI and trend tape provide the pilot with information
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+Roll scale zero
+23.0
+Roll pointer
+Slip/skid indicator
+Skidding turn
+Heading
+1/2 standard rate
+270°
+13.7
+270°
+Standard rate
+TAS 100KT
+Turn rate trend vector
+VOR 1
+XPDR 5537 IDNT LCL23:00:34
+ALERTS
+Figure 6-32. Primary bank.
+6-23
 
+moving through the air with the longitudinal axis of the
+aircraft aligned with the relative wind.
+Primary Power
+The primary power instrument for straight-and-level flight is
+the airspeed indicator. The main focus of power is to maintain
+a desired airspeed during level flight. No other instrument
+delivers instantaneous indication.
+Learning the primary and supporting instruments for
+each variable is the key to successfully mastering attitude
+instrument flying. At no point does the primary and supporting
+method devalue the importance of the attitude indicator or the
+power instruments. All instruments (control, performance,
+primary, and supporting) must be utilized collectively.
+Fundamental Skills of Attitude Instrument
+Flying
+When first learning attitude instrument flying, it is very
+important that two major skills be mastered. Instrument cross-
+check and instrument interpretation comprise the foundation
+for safely maneuvering the aircraft by reference to instruments
+alone. Without mastering both skills, the pilot is not able to
+maintain precise control of aircraft attitude.
+Instrument Cross-Check
+The first fundamental skill is cross-checking (also call
+“scanning”). Cross-checking is the continuous observation of
+the indications on the control and performance instruments.
+It is imperative that the new instrument pilot learn to
+observe and interpret the various indications in order to
+control the attitude and performance of the aircraft. Due to
+the configuration of some glass panel displays, such as the
+Garmin G1000, one or more of the performance instruments
+may be located on an MFD installed to the right of the pilot’s
+direct forward line of sight.
+How a pilot gathers the necessary information to control
+the aircraft varies by individual pilot. No specific method of
+cross-checking (scanning) is recommended; the pilot must
+learn to determine which instruments give the most pertinent
+information for any particular phase of a maneuver. With
+practice, the pilot is able to observe the primary instruments
+quickly and cross-check with the supporting instruments
+in order to maintain the desired attitude. At no time during
+instrument flying should the pilot stop cross-checking
+the instrumentation.
+Scanning Techniques
+Since most of the primary and supporting aircraft attitude
+information is displayed on the PFD, standard scanning
+techniques can be utilized. It is important to remember
+6-24
 to include the stand-by flight instruments as well as the
 engine indications in the scan. Due to the size of the
 attitude instrument display, scanning techniques have been
@@ -571,124 +657,61 @@ change and verify the result. Once the desired altitude has been
 verified, return to the center of the display. Transition down to
 the heading indicator to verify the desired heading. When the
 heading has been confirmed, scan to the center of the display.
-moving through the air with the longitudinal axis of the
-aircraft aligned with the relative wind.
-Primary Power
-The primary power instrument for straight-and-level flight is
-the airspeed indicator. The main focus of power is to maintain
-a desired airspeed during level flight. No other instrument
-delivers instantaneous indication.
-Learning the primary and supporting instruments for
-each variable is the key to successfully mastering attitude
-instrument flying. At no point does the primary and supporting
-method devalue the importance of the attitude indicator or the
-power instruments. All instruments (control, performance,
-primary, and supporting) must be utilized collectively.
-Fundamental Skills of Attitude Instrument
-Flying
-When first learning attitude instrument flying, it is very
-important that two major skills be mastered. Instrument cross-
-check and instrument interpretation comprise the foundation
-for safely maneuvering the aircraft by reference to instruments
-alone. Without mastering both skills, the pilot is not able to
-maintain precise control of aircraft attitude.
-Instrument Cross-Check
-The first fundamental skill is cross-checking (also call
-“scanning”). Cross-checking is the continuous observation of
-the indications on the control and performance instruments.
-It is imperative that the new instrument pilot learn to
-observe and interpret the various indications in order to
-control the attitude and performance of the aircraft. Due to
-the configuration of some glass panel displays, such as the
-Garmin G1000, one or more of the performance instruments
-may be located on an MFD installed to the right of the pilot’s
-direct forward line of sight.
-How a pilot gathers the necessary information to control
-the aircraft varies by individual pilot. No specific method of
-cross-checking (scanning) is recommended; the pilot must
-learn to determine which instruments give the most pertinent
-information for any particular phase of a maneuver. With
-practice, the pilot is able to observe the primary instruments
-quickly and cross-check with the supporting instruments
-in order to maintain the desired attitude. At no time during
-instrument flying should the pilot stop cross-checking
-the instrumentation.
-Scanning Techniques
-Since most of the primary and supporting aircraft attitude
-information is displayed on the PFD, standard scanning
-techniques can be utilized. It is important to remember
 
-Figure 6-33. Selected radial cross-check.
-XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 100KT
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 Slip/skid indicator
-Heading
-Airspeed indicator
 Altitude indicator
 Vertical speed indicator
-Artificial horizon
-Pitch Attitude
-Slip/skid indicator
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
 Airspeed indicator
+Slip/skid indicator
+NAV2 108.00 110.60
+123.800 118.000 COM2
+Pitch Attitude
 Altitude indicator/VSI
+23.0
+Airspeed indicator
 Heading indicator
 SCAN PATTERN
+Heading
+Artificial horizon
 Scan pattern should start with
 left (airspeed indicator), then
+13.7
+270°
 right (altitude indicator/VSI),
 then up (slip/skid indicator),
+TAS 100KT
 then down (heading indicator).
 The pilot should return attention
 back to the center (pitch
+VOR 1
 attitude) before proceeding to
 the next direction. For example:
 left, center, right, center, up,
 center, down, center.
 XPDR 5537 IDNT LCL23:00:34
-270°
-TAS 100KT
 ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
+Figure 6-33. Selected radial cross-check.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
 Roll pointer
+NAV2 108.00 110.60
+123.800 118.000 COM2
 Slip/skid indicator
 Rudder
+23.0
+13.7
+270°
+TAS 100KT
+VOR 1
+XPDR 5537 IDNT LCL23:00:34
+ALERTS
 Figure 6-34. Roll pointer and slip/skid indicator.
+6-25
 
-TAS 120KT
-Airspeed trend indicator
-shows airspeed will be
-approximately 126 kts in
-6 seconds.
-Figure 6-35. Airspeed trend indicators.
-Figure 6-36. Airspeed indicators with no trend present.
-TAS 120KT
-Airspeed indicator
-showing stabilized
-airspeed (no trend
-indicator present).
-Figure 6-37. Altimeter trend indicators.
-Trend indicator shows
-altitude will be approxi-
-mately 1,780 ft in 6
-seconds.
-VSI arrow has moved up
-to indicate a 1,500 fpm
-rate of climb.
-Note
-1,500 fpm ÷ 60 sec = 25 ft
-25 ft per sec x 6 sec = 150 ft
-150 ft + 1,630 ft = 1,780 ft
 It is also important to include the engine indications in the
 scan. Individualized scan methods may require adjustment
 if engine indications are presented on a separate MFD. A
@@ -715,12 +738,37 @@ displayed if there is no change to the associated tape and the
 value remains constant [Figure 6-36] or if there is a failure
 in some portion of the system that would preclude the vector
 from being determined.
+Airspeed trend indicator
+shows airspeed will be
+approximately 126 kts in
+6 seconds.
+TAS 120KT
+Figure 6-35. Airspeed trend indicators.
 Trend vectors are a very good source of information for the
 new instrument rated pilot(s). Pilots who utilize good scanning
 techniques can pick up subtle deviations from desired
 parameters and make small correction to the desired attitude.
 As soon as a trend is indicated on the PFD, a conscientious
 pilot can adjust to regain the desired attitude. [Figure 6-37]
+6-26
+Airspeed indicator
+showing stabilized
+airspeed (no trend
+indicator present).
+TAS 120KT
+Figure 6-36. Airspeed indicators with no trend present.
+Trend indicator shows
+altitude will be approxi-
+mately 1,780 ft in 6
+seconds.
+VSI arrow has moved up
+Note
+to indicate a 1,500 fpm
+rate of climb.
+1,500 fpm ÷ 60 sec = 25 ft
+25 ft per sec x 6 sec = 150 ft
+150 ft + 1,630 ft = 1,780 ft
+Figure 6-37. Altimeter trend indicators.
 Another advancement in attitude instrument flying is the
 turn rate trend indicator. As in the cases of airspeed, altitude,
 and vertical speed trend indicators, the turn rate trend
@@ -734,51 +782,45 @@ In Figure 6-39, when the aircraft begins its turn to the left,
 the magenta trend indicator elongates proportionally with the
 rate of turn. To initiate a half-standard rate turn, position the
 
-XPDR 5537 IDNT LCL23:00:34
-GPS TERM
-197°
-357°
-HDG
-152°
-CRS
-TAS 120KT
-OAT 7°C
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
 TRAFFIC
 Heading
 1/2 standard rate
-Standard rate
-Turn rate trend vector
-Figure 6-38. Horizontal situation indicator (HSI) trend indicator elongates proportionally with the rate of turn.
 197°
-357°
-HDG
-152°
-CRS
-Heading
-1/2 standard rate
 Standard rate
+152°
+357°
+CRS
+HDG
+TAS 120KT
 Turn rate trend vector
-Figure 6-39. HSI indicator (enlargement).
-indicator on the first tick mark. A standard rate turn would
-be indicated by the trend indicator extending to the second
-tick mark. A turn rate in excess of standard rate would be
-indicated by the trend indicator extending past the second tick
-mark. This trend indicator shows what the aircraft’s heading
-will be in 6 seconds, but is limited to indicate no more than
+GPS TERM
+XPDR 5537 IDNT LCL23:00:34
+OAT 7°C
+ALERTS
+Figure 6-38. Horizontal situation indicator (HSI) trend indicator elongates proportionally with the rate of turn.
 24° in front of the aircraft or 4° per second. When the aircraft
+Heading
 exceeds a turning rate of 25° in 6 seconds, the trend indicator
+1/2 standard rate
+197°
 has an arrowhead attached to it.
+152°
+357°
+CRS
+HDG
+Standard rate
 Trend indicators are very useful when leveling off at a specific
 altitude, when rolling out on a heading, or when stabilizing
 airspeed. One method of determining when to start to level
 off from a climb or descent is to start leveling at 10 percent
 of the vertical speed rate prior to the desired altitude.
+Turn rate trend vector
+VOR1
 As the aircraft approaches the desired altitude, adjust the
 pitch attitude to keep the trend indicator aligned with the
 target altitude. As the target approaches, the trend indicator
@@ -786,12 +828,20 @@ gradually shrinks until altitude stabilizes. Trend indicators
 should be used as a supplement, not as a primary means of
 determining pitch change.
 Common Errors
+Figure 6-39. HSI indicator (enlargement).
 Fixation
+indicator on the first tick mark. A standard rate turn would
 Fixation, or staring at one instrument, is a common error
+be indicated by the trend indicator extending to the second
 observed in pilots first learning to utilize trend indicators.
+tick mark. A turn rate in excess of standard rate would be
 The pilot may initially fixate on the trend indicator and make
+indicated by the trend indicator extending past the second tick
 adjustments with reference to that alone. Trend indicators are
+mark. This trend indicator shows what the aircraft’s heading
 not the only tools to aid the pilot in maintaining the desired
+will be in 6 seconds, but is limited to indicate no more than
+6-27
 
 power or attitude; they should be used in conjunction with the
 primary and supporting instruments in order to better manage
@@ -821,3 +871,4 @@ for guidance. When rolling out of a 180° turn, the attitude
 indicator, heading indicator, slip/skid indicator, and altimeter
 need to be referenced. If a pilot omits the slip/skid indicator,
 coordination is sacrificed.
+6-28

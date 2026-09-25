@@ -1,169 +1,183 @@
+Chapter 6
+Multiengine Aircraft
+Weight and Balance
+Computations
 Introduction
 Weight and balance computations for small multiengine
 airplanes are similar to those discussed for single-engine
 airplanes. See Figure 6-1 for an example of weight and
 balance data for a typical light twin-engine airplane.
-Multiengine Aircraft
-Weight and Balance
-Computations
+6-1
 
-Figure 6-1. Typical weight and balance data for a light twin-engine
-airplane.
+Weight with fuel drained and oil full:
 Datum
 Forward face of fuselage bulkhead ahead of
 rudder pedals
+Right wheel scales.........................1,084 lb, tare 8 lb
+Left wheel scales...........................1,148 lb, tare 8 lb
 Seats
 2 at 37.0
 2 at 75.0
+Nose wheel scales.......................1,202 lb, tare 14 lb
 1 at 113.0: 200 lb limit
+Determine the Loaded CG
 Fuel
 213.4 gal (2 wing tanks, 105.0 gal each 103.0 gal
 usable at +61.0)
+First, add the weights indicated by the individual scales and
 Undrainable fuel: 1.6 lb at +62
+then subtract the tare weights to determine the BEW. Next,
 Oil
 24 quarts (12 quarts in each engine): −3.3
+using the BEW and EWCG, the loaded weight and CG of the
+aircraft can be determined with data from Figure 6-2, using
 Baggage
 Forward 100 lb limit : −15
 Aft 200 lb limit: +113
+a chart such as the one in Figure 6-3.
 CG Range (+38) to (+43.1) at 5,200 lb
+The aircraft is loaded as shown:
 (+43.6) at 4,800 lb
 (+32) to (+43.6) at 4,300 lb or less
+Fuel (140 gal)................................................. 840 lb
 Straight line variation between points given
+Front seats...................................................... 320 lb
 Engine
 2 240-horsepower horizontally opposed engines
 Fuel burn: 24 gph for 65% cruise at 175 knots
+Row 2 seats.................................................... 310 lb
 29 gph for 75% cruise at 180 knots
+Forward baggage............................................ 100 lb
+Aft baggage...................................................... 90 lb
+Figure 6-1. Typical weight and balance data for a light twin-engine
+airplane.
+Chart Method Using Weight, Arm, and Moments
+The airplane in this example was weighed to determine its
+Make a chart showing the weight, arm, and moments of the
+basic empty weight (BEW) and empty weight center of
+airplane and its load.
+gravity (EWCG). The weighing conditions and results are:
+CG limits
 Datum
+32.0
+43.6
+EWCG 35.28
+100 lb baggage −15
 Front seats +37
 2nd seats +75
 3rd seat or baggage limit 200 lb +113
 Fuel +61
-100 lb baggage −15
-EWCG 35.28
-CG limits
 MAC = 61.6
+20.1
 Figure 6-2. Twin-engine airplane weight and balance diagram.
+=
+x
 Item
 Weight (lb) (5,200 max.)
 Arm (in)
 Moment (lb-in)
-CG
-120,093
-51,240
-11,840
-23,250
-−1,500
-10,170
-215,093
-Airplane
-Fuel (140 gal)
-Front seat
-Row 2 seats
-Foward baggage
-Aft baggage
-Total
+35.28
 3,404
-5,064
+Airplane
+120,093
+61.0
+Fuel (140 gal)
+51,240
+37.0
+Front seat
+11,840
+75.0
+Row 2 seats
+23,250
 −15.0
-x
-=
+Foward baggage
+−1,500
+113.0
+Aft baggage
+10,170
+5,064
+Total
+215,093
 Figure 6-3. Determining the loaded CG of the sample airplane in Figure 6-2.
-The airplane in this example was weighed to determine its
-basic empty weight (BEW) and empty weight center of
-gravity (EWCG). The weighing conditions and results are:
-Weight with fuel drained and oil full:
-Right wheel scales.........................1,084 lb, tare 8 lb
-Left wheel scales...........................1,148 lb, tare 8 lb
-Nose wheel scales.......................1,202 lb, tare 14 lb
-Determine the Loaded CG
-First, add the weights indicated by the individual scales and
-then subtract the tare weights to determine the BEW. Next,
-using the BEW and EWCG, the loaded weight and CG of the
-aircraft can be determined with data from Figure 6-2, using
-a chart such as the one in Figure 6-3.
-The aircraft is loaded as shown:
-Fuel (140 gal)................................................. 840 lb
-Front seats...................................................... 320 lb
-Row 2 seats.................................................... 310 lb
-Forward baggage............................................ 100 lb
-Aft baggage...................................................... 90 lb
-Chart Method Using Weight, Arm, and Moments
-Make a chart showing the weight, arm, and moments of the
-airplane and its load.
+6-2
+CG
+42.47
 
-5,200
-5,000
-4,800
-4,600
-4,400
-4,200
-4,000
-Inches from the datum
-Weight (lb)
-Figure 6-4. Sample CG range chart.
-CG in % MAC
-CG in inches from LEMAC x 100
-MAC
-=
-22.37 x 100
-=
-36.3% MAC
-=
-Figure 6-5. Finding CG in percent MAC.
 The loaded weight for this fl ght is 5,064 pounds, and the CG
-is located at 42.47 inches aft of the datum.
-To determine that the weight and CG are within the allowable
-range, refer to the CG range chart in Figure 6-4. Draw a line
-vertically upward from 42.47 inches from the datum and one
-horizontally from 5,064 pounds. These lines cross inside the
-envelope, showing that the airplane is properly loaded.
-Determining the CG in Percentage of Mean
-Aerodynamic Chord (MAC)
-Refer again to Figures 6-2 and 6-3.
-The loaded CG is 42.47 inches aft of the datum.
-The MAC is 61.6 inches long.
-The LEMAC is located at station 20.1.
-The CG is 42.47 – 20.1 = 22.37 inches aft of LEMAC.
-Use the formula in Figure 6-5 to findthe CG in percent MAC.
-The loaded CG is located at 36.3 percent MAC.
 The Chart Method Using Weight and Moment
 Indexes
+is located at 42.47 inches aft of the datum.
 As mentioned in the previous chapter, anything that can be
+To determine that the weight and CG are within the allowable
 done to make careful preflight planning easier makes flying
+range, refer to the CG range chart in Figure 6-4. Draw a line
 safer. Many manufacturers furnish charts in the Pilot’s
+vertically upward from 42.47 inches from the datum and one
 Operating Handbook/Aircraft Flight Manual (POH/AFM)
+horizontally from 5,064 pounds. These lines cross inside the
 that use weight and moment indexes rather than weight, arm,
+envelope, showing that the airplane is properly loaded.
 and moments. The charts also help reduce errors by including
 tables of moment indexes for the various weights.
 Consider the loading for this particular flight
+5,200
 Cruise fuel flow = 16 gallons per hou
+5,000
 Estimated time en route = 2 hours, 10 minutes
 Reserve fuel = 45 minutes = 12 gallons
+4,800
 Total required fuel = 47 gallons
+Weight (lb)
+4,600
 The pilot completes a chart like the one in Figure 6-6 using
 moment indexes from tables in Figures 6-7 and 6-8.
+4,400
 The moments divided by 100 in the index column are found
 in the charts in Figures 6-7 through 6-9. If the exact weight
+4,200
 is not in the chart, interpolate between the weights that are
 included. When a weight is greater than any of those shown
+4,000
 in the charts, add the moment indexes for a combination of
 weights to get that which is desired. For example, to get the
+Inches from the datum
 moments divided by 100 for the 320 pounds in the front seats,
 add the moment index for 100 pounds (105) to that for 220
+Figure 6-4. Sample CG range chart.
 pounds (231). This gives the moment index of 336 for 320
 pounds in the front seats.
+Determining the CG in Percentage of Mean
+Aerodynamic Chord (MAC)
 Use the moment limits versus weight envelope in Figure 6-10
+Refer again to Figures 6-2 and 6-3.
 to determine if the weight and balance conditions are
+The loaded CG is 42.47 inches aft of the datum.
 within allowable limits for both takeoff and landing at the
 destination. The moment limits versus weight envelope is an
+The MAC is 61.6 inches long.
 enclosed area on a graph of three parameters. The diagonal
+The LEMAC is located at station 20.1.
 line representing the moment divided by 100 crosses the
 horizontal line representing the weight at the vertical line
+The CG is 42.47 – 20.1 = 22.37 inches aft of LEMAC.
 representing the CG location in inches aft of the datum. When
 the lines cross inside the envelope, the aircraft is loaded
+Use the formula in Figure 6-5 to findthe CG in percent MAC.
 within its weight and CG limits.
 Takeoff: – 3,781 lb and 4,296 moment divided by 100
+CG in inches from LEMAC x 100
+=
+CG in % MAC
+MAC
 Landing: – 3,571 lb and 4,050 moment divided by 100
+22.37 x 100
+=
+61.6
+=
+36.3% MAC
+Figure 6-5. Finding CG in percent MAC.
+The loaded CG is located at 36.3 percent MAC.
+6-3
 
 Weight and Balance Loading Form
 Model _________________________________________________ Date ____________________________________________________
@@ -171,51 +185,52 @@ Serial Number___________________________________________ Reg. Number ___________
 Item
 Pounds (3,900 max.)
 Index moment/100
+2,864
+2,625
 Airplane basic empty weight
 Front seat occupants
 Row 2 seats
 Baggage (200 lb max.)
+3,762
+3,325
 Subtotal
 Zero fuel condition (3,500 max.)
 Fuel loading (gallons)
+4,324
+3,805
 Subtotal
 Ramp condition
+−28
+−24
 * Less fuel for start, taxi, and takeoff
+4,296
+3,781
 Subtotal
 Takeoff condition
+−246
+−210
 Less fuel to destination (gallons)
+4,050
+3,571
 Landing condition
 * Fuel for start, taxi, and takeoff is normally 24 pounds at a moment index of 28.
-2,625
-3,325
-3,805
-−24
-3,781
-−210
-3,571
-2,864
-3,762
-4,324
-−28
-4,296
-−246
-4,050
 Figure 6-6. Typical weight and balance loading form.
-Occupant Moments/100
-Weight
-Front seats
-Arm +105
-Row 2 seats
-Arm +142
-Figure 6-7. Sample weight and moment index for occupants.
 Locate the moment divided by 100 diagonal line for 4,296 and
+Occupant Moments/100
 follow it down until it crosses the horizontal line for 3,781
 pounds. These lines cross inside the envelope at the vertical
+Front seats
+Row 2 seats
+Weight
+Arm +105
+Arm +142
 line for a CG location of 114 (113.6) inches aft of the datum.
 The maximum allowable takeoff weight is 3,900 pounds, and
 this airplane weighs 3,781 pounds. The CG limits for 3,781
 pounds are 109.8 to 117.5. The CG of 114 (113.6) inches
 falls within these allowable limits.
+Figure 6-7. Sample weight and moment index for occupants.
+6-4
 
 Baggage Moments/100
 Weight
@@ -226,49 +241,56 @@ Gallons
 Pounds
 Moment/100
 Figure 6-9. Sample weight and moment index for fuel.
+6-5
 
-4,000
-3,900
-3,800
-3,600
-3,500
-3,400
-3,200
-3,000
-2,800
-2,600
-2,400
-CG inches aft of datum
-Weight (lb)
-3,900
-4,600
-4,500
 4,400
+4,500
 4,300
+4,600
 4,200
 4,100
 4,000
+4,000
+3,900
+Maximum takeoff
+and landing weight
+3,900
+3,800
 3,800
 3,700
 3,600
+Maximum zero fuel weight
+3,600
+3,500
 3,500
 3,400
-3,100
+3,400
 3,300
 3,200
+3,200
+Moment/100
+Weight (lb)
+3,100
+3,000
 3,000
 2,900
 2,800
+2,800
 2,700
 2,600
-Maximum zero fuel weight
-Moment/100
+2,600
+2,400
+108 110
+CG inches aft of datum
 Envelope based on the following weight and CG limit data (landing gear down)
 Weight condition
 FWD CG limit
 Aft CG limit
 3,900 pounds (max takeoff/landing)
+110.6
+117.5
 3,250 pounds or less
-Maximum takeoff
-and landing weight
+106.6
+117.5
 Figure 6-10. Sample moment limits versus weight envelope.
+6-6

@@ -1,3 +1,5 @@
+Chapter 5
+Improvement Plans
 Introduction
 In the upcoming years, exciting new technologies will
 be developed and implemented to help ease air traffic
@@ -7,59 +9,59 @@ pilots. Others will entail learning new procedures, aircraft
 equipment, and systems that will introduce powerful new
 capabilities and dramatically increase the safety of all flight
 operations.
-Improvement Plans
+5-1
 
 Next Generation Air Transportation (NextGen)
 entire United States air transportation system. NextGen
 System
 consists of the following five systems:
-Next Generation Air Transportation System (NextGen) is a
-comprehensive overhaul of the National Airspace System
-(NAS) designed to make air travel more convenient and
-dependable, while ensuring flights are as safe and secure
-as possible. It moves away from ground-based surveillance
-and navigation to new and more dynamic satellite-based
-systems and procedures, and introduces new technological
-innovations in areas such as weather forecast, digital
-communications, and networking. [Figure 5-1] When fully
-implemented, NextGen will safely allow aircraft to fly more
-closely together on more direct routes, reducing delays,
-and providing unprecedented benefits for the environment
-and the economy through reductions in carbon emissions,
-fuel consumption, and noise. [Figure 5-2]
-Implementation in stages across the United States is due
-between 2012 and 2025. In order to implement NextGen,
-the FAA will undertake a wide-range transformation of the
 1.
 Automatic dependent surveillance-broadcast
+Next Generation Air Transportation System (NextGen) is a
 (ADS-B)—automatically broadcasts the aircraft’s
+comprehensive overhaul of the National Airspace System
 position and other aircraft specific information to
+(NAS) designed to make air travel more convenient and
 air traffic control (ATC) ground facilities and nearby
+dependable, while ensuring flights are as safe and secure
 aircraft equipped with ADS-B In. Effective January
+as possible. It moves away from ground-based surveillance
 1, 2020 all aircraft operating in certain controlled
+and navigation to new and more dynamic satellite-based
 U.S. airspace will be required to operate ADS-B Out
+systems and procedures, and introduces new technological
 equipment at all times. While Global Navigation
+innovations in areas such as weather forecast, digital
 Satellite System (GNSS) is not mandated by rule
+communications, and networking. [Figure 5-1] When fully
 as the position sensor, it is currently the only
+implemented, NextGen will safely allow aircraft to fly more
 position source that meets the rule’s performance
+closely together on more direct routes, reducing delays,
 requirements. Aircraft broadcasting ADS-B Out data
+and providing unprecedented benefits for the environment
 provide ATC and cooperating ADS-B-In aircraft more
+and the economy through reductions in carbon emissions,
 precise on-the- ground or in-the-air positioning
+fuel consumption, and noise. [Figure 5-2]
 information based on the increased frequency of the
 data broadcasts and the accuracy of GNSS. ADS-B
+Implementation in stages across the United States is due
 will provide a complete picture of air traffic for ATC
+between 2012 and 2025. In order to implement NextGen,
 and pilots of ADS-B In-equipped aircraft. The FAA’s
-DOT
-FAA
-DOD
-DHS
+the FAA will undertake a wide-range transformation of the
 DOC
-State/Local
-Government
+DHS
 NASA
+DOD
 OSTP
+FAA
 NGATS
+State/Local
+DOT
 Institute
+Government
 Industry &
 Community
 Air Navigation Operations and Support
@@ -68,33 +70,34 @@ Flight Operations and Support
 Global
 Harmonization
 Super Density
-Operations
 Policy & Regulations
+Operations
 Equivalent
 Visual Operations
 Airport Operations and Support
+Aeronautical
+Performance
+Geospatial
 Flight Planning
 Flight Data
-Aeronautical
-Information
-Enterprise Services
-Geospatial
-Information
 Communication
-Performance
+Information
+Information
 Metrics
-Environment
+Enterprise Services
 Layered
-Adaptive Security
-Surveillance
 Position, Navigation,
-and Timing
+Environment
+Surveillance
 Safety
 Weather
+Adaptive Security
+and Timing
 Net Centric Infrastructure Services
 Network-Enabled Information Acess
 Figure 5-1. Next Generation Air Transportation System (NEXGEN) introduces new technological innovations for weather forecasting,
 digital communications, and networking.
+5-2
 
 Figure 5-2. Satellite-based navigation and tracking allows more aircraft to fly closely together on more direct routes.
 Figure 5-3. Automatic Dependent Surveillance-Broadcast (ADS-B)
@@ -139,10 +142,8 @@ making. [Figure 5-6]
 seventeen different voice switching systems in the
 NAS; some in use for more than twenty years. NVS
 will replace these systems with a single air/ground
+5-3
 
-ARTCCS
-TRACONS
-TOWERS
 Today
 Enterprise Management
 Existing systems communication
@@ -165,33 +166,36 @@ Aeronautical
 Information
 Figure 5-4. System wide information management (SWIM)—an information management system that helps deliver high quality, timely
 data to improve the efficiency of the national airspace.
+ARTCCS
+TRACONS
 Trajectory Based Operations
+TOWERS
 High Performance Airspeed
-Clearances
 WX Reroutes
+Clearances
 Time Based Metering
 Fix
 Optimized
 Descents
 (TAPs/CDAs)
 ARTCCs
-User Flight
+VDL-2
+VDL-2
 Network
+User Flight
 Operations
-Control
 Tower
+Control
 ARTCSCC
-Taxi Instructions
 TRACONs
+Taxi Instructions
 Digital ATIS
 Departure Clearance
 Figure 5-5. Next generation data communications provides an additional means of two-way communication for ATC clearances,
 instructions, advisories, flight crew requests, and reports.
+5-4
 
 Figure 5-6. Next generation network enabled weather (NNEW) provides a common weather picture across the NAS.
-Figure 5-7. National airspace voice switch (NVS) will replace
-existing voice switching systems with single air/ground and ground/
-ground voice communication systems.
 and ground/ground voice communications system.
 [Figure 5-7]
 NextGen Existing Improvements
@@ -209,57 +213,61 @@ never before possible, using the satellite-based
 technology of ADS-B. For aircraft flying over the
 Gulf of Mexico, where no radar coverage is available,
 ATC can safely and more efficiently separate air
+Figure 5-7. National airspace voice switch (NVS) will replace
 traffic with the real-time visual representation of air
+existing voice switching systems with single air/ground and ground/
 traffic provided by ADS-B. It also provides pilots with
-Final approach/landing
+ground voice communication systems.
+Takeoff
+Domestic/oceanic cruise
+Descent
+Taxi
 Flight planning
 Push back
-Domestic/oceanic cruise
-Taxi
-Takeoff
-Descent
+Final approach/landing
 Figure 5-8. ADS-B services provide real-time precise positioning capability to ATC and ADS-B In-equipped aircraft throughout the
 NAS, in all phases of flight operations.
+5-5
 
 GPS satellites
 Barrow
 Kotzebue
-Bethel
 Fairbanks
 Iqaluit
+Bethel
 Anchorage
 Juneau
 Cold Bay
 Goose Bay
-Winnipeg
 Gander
+Winnipeg
 Auburn
 Billings
-Olathe
 Farmington
 Nashua
+Olathe
 Ronkonkoma
+Oberlin
 Freemont
 Salt Lake
 Aurora
-Oberlin
-Longmont
 Leesburg
+Longmont
 Palmdale
 Memphis
-Fort Worth
 Hampton
+Fort Worth
+Jacksonville
 Albuquerque
 Houston
-Jacksonville
 Miami
-San Jose Del Cabo
 San Juan
-Honolulu
-GEO satellite
-Puert Vallarta
-Mexico City
+San Jose Del Cabo
 Merida
+Honolulu
+Puert Vallarta
+GEO satellite
+Mexico City
 Tapachula
 Legend
 GEO satellite
@@ -269,60 +277,55 @@ Wide-area master station (WMS)
 Ground uplink station
 Figure 5-9. Wide Area Augmentation System (WAAS).
 more safety benefits such as improved situational
-awareness (SA), near real-time weather information,
-and additional voice communications.
-2.
-ADS-B services have been deployed to all 24
-modernized enroute ARTCCs and the largest
-terminal radar approach control facilities in the NAS.
-In 2020, ADS-B will be mandatory for all aircraft in
-almost all NAS controlled airspace. [Figure 5-8]
-3.
-Satellite-based technologies, including the Wide
-Area Augmentation System (WAAS), are improving
-access to runways at both large and small airports.
-[Figure 5-9] Directions and maps have been published
-for more than 500 precision-like approaches
-enabled by WAAS. Localizer performance with
-vertical guidance (LPV) procedures improves
-access to airports in lower visibility conditions and
-where obstacles are present. These procedures
-are particularly valuable for smaller airports used
-by general aviation. There are now oer 2,300
-LPV procedures available at runways where no
-instrument landing system (ILS) is present.
 4.
 The Ground-Based Augmentation System (GBAS) has
+awareness (SA), near real-time weather information,
 been approved for Category I operations and the
+and additional voice communications.
 first satellite-based system has been approved for
 this category of precision approach which enables
+2.
+ADS-B services have been deployed to all 24
 instrument-based operations down to 200 feet
+modernized enroute ARTCCs and the largest
 above the surface even during reduced visibility.
+terminal radar approach control facilities in the NAS.
 [Figure 5-10] GBAS was installed at Houston, Texas
+In 2020, ADS-B will be mandatory for all aircraft in
 and Newark, New Jersey airport in 2009.
+almost all NAS controlled airspace. [Figure 5-8]
 5.
 Multilateration, a ground-based surveillance
+3.
+Satellite-based technologies, including the Wide
 technology, is being implemented to help improve
+Area Augmentation System (WAAS), are improving
 runway access. The FAA installed and is now using
+access to runways at both large and small airports.
 wide area multilateration (WAM) systems to control
+[Figure 5-9] Directions and maps have been published
 air traffic in Juneau, Alaska, and at four airports in
+for more than 500 precision-like approaches
 Colorado. This allows air traffic to be safely separated
+enabled by WAAS. Localizer performance with
 by five miles whereas before each aircraft had to clear
+vertical guidance (LPV) procedures improves
 the airspace around the airport before the next could
+access to airports in lower visibility conditions and
 enter.
+where obstacles are present. These procedures
+are particularly valuable for smaller airports used
 6.
 New runways at Chicago O’Hare, Washington
+by general aviation. There are now oer 2,300
 Dulles, and Seattle-Tacoma Airports opened in
+LPV procedures available at runways where no
 November of 2008, which are now beginning to
+instrument landing system (ILS) is present.
 have a reduction in delays.
+5-6
 
-GPS satellites
 Ranging sources
-Differential corrections, integrity data and path definition
-Omnidirectional VHF data broadcast (VDB) signal
-GBAS reference receivers
-GBAS ground facility
-Status information
 Figure 5-10. Ground-Based Augmentation System (GBAS).
 Benefits of NextGen
 The implementation of NextGen will allow pilots and
@@ -344,6 +347,12 @@ information sharing, new technology to sense and
 Figure 5-11. NextGen improves airport surface movements, reduces
 spacing and separation requirements, and better manages the
 overall flows into and out of busy airports.
+GPS satellites
+GBAS ground facility
+GBAS reference receivers
+Status information
+Differential corrections, integrity data and path definition
+Omnidirectional VHF data broadcast (VDB) signal
 mitigate the impacts of the weather, and to improve
 weather forecasts and decision-making. Better forecasts,
 coupled with greater automation, will minimize airspace
@@ -375,6 +384,7 @@ became more complex, it became very difficult for pilots
 to focus on flying the aircraft while also monitoring a large
 number of navigation, flight, and systems instruments. To
 overcome this problem, the head-up display (HUD) was
+5-7
 
 Figure 5-12. Head-up guidance system (HGS).
 Figure 5-13. HGS using a holographic display.
@@ -389,6 +399,7 @@ nearby HUD. Today’s head-up guidance systems (HGS)
 use holographic displays. [Figure 5-13] Everything from
 weapons status to approach information can be shown
 on current military and civilian HGS displays.
+5-8
 Figure 5-14. A synthetic vision system (SVS) is an electronic means to
 display a synthetic vision image of the external scene topography to the
 flight crew to assist during takeoffs, landings, and en route operations.
@@ -463,6 +474,7 @@ real-time EFVS imagery with a database-derived synthetic
 rendering of surrounding terrain, obstacles, and flight
 environment, to provide a virtual visual flight depiction
 for the pilot.
+5-9
 
 Electronic Flight Bag (EFB)
 The electronic flight bag (EFB) is a system for pilots or
@@ -487,6 +499,7 @@ device, commonly referred to as a portable electronic
 device (PED), is not considered to be an EFB unless the
 Figure 5-27. Restricted airspace.
 Figure 5-28. Prohibited airspace.
+5-10
 Figure 5-29. Military operations area (MOA).
 Figure 5-30. Warning area.
 hardware device hosts and actively displays either Type
@@ -506,15 +519,20 @@ the following FAA guidance and policy can be accessed
 from the FAA’s website (http://www.faa.gov) or FAA’s
 Flight Standards Information Management System (FSIMS
 http://fsims.faa.gov).
+•
 AC 120-76, Guidelines for the Certification,
 Airworthiness, and Operational Use of Electronic
 Flight Bags;
+•
 AC 91-78, Use of Class 1 or Class 2 Electronic Flight
 Bag (EFB);
+•
 AC 20-173, Installation of Electronic Flight Bag
 Components;
+•
 FAA Order 8900.1 Volume 4, Chapter 15, § 1,
 Electronic Flight Bag authorization for use; and
+•
 FAA Order 8900.1 Volume 3, Chapter 18, § 3, Part A
 Operations Specifications - General
 Access to Special Use Airspace
@@ -562,32 +580,33 @@ work together to ensure that the FAA and system users
 have current information on a daily basis. This information
 is available 24 hours a day at the following link: http://sua.
 faa.gov. The website merges information for both special
+5-11
 
 SPECIAL USE AIRSPACE ON JACKSONVILLE SECTIONAL CHART
-Unless otherwise noted are MSL and in feet.
 † Other times by NOTAM.
-Time is local. “TO” an altitude means “To and including.”
+Unless otherwise noted are MSL and in feet.
 NOTAM – Use of this term in Restricted Areas
-FL – Flight Level
+Time is local. “TO” an altitude means “To and including.”
 indicates FAA and DoD NOTAM systems.
-NO A/G – No air to ground communications.
+FL – Flight Level
 Use of this term in all other Special Use areas indicates
-Contact nearest FSS for information.
+NO A/G – No air to ground communications.
 the DoD NOTAM system.
+Contact nearest FSS for information.
 U.S. P–PROHIBITED, R–RESTRICTED, W–WARNING, A–ALERT, MOA–MILITARY OPERATIONS AREA
+CONTROLLING AGENCY/
 NUMBER
 ALTITUDE
 TIME OF USE
-CONTROLLING AGENCY/
 CONTACT FACILITY
-FREQUENCIES
 TO BUT NOT
 CONTINUOUS
+P-50
 NO A/G
 INCL 3,000
-R-2903 A
 TO BUT NOT
 INTERMITTENT
+R-2903 A
 JACKSONVILLE CNTR
 INCL 23,000
 0700-1900 TUE-SUN
@@ -611,54 +630,67 @@ JACKSONVILLE TRACON
 INCL 1,800
 0800-1700 SAT-SUN (SEP-MAR)
 †24 HRS IN ADVANCE
+R-2906
 TO 14,000
 INTERMITTENT
 JACKSONVILLE TRACON
+0500-0100
 †6 HRS IN ADVANCE
 R-2907 A
+TO FL 230
 INTERMITTENT
 JACKSONVILLE CNTR
+0500-0100
 †6 HRS IN ADVANCE
 Figure 5-33. Special use airspace charted on an aeronautical chart.
 use airspace and TFR making it a single comprehensive
-source to review airspace closure information.
-The website contains two tabbed pages, List and Map, that
-display the scheduling and Notice to Airmen (NOTAM) data
-for SUAs, military training routes (MTRs), and TFRs. [Figure
-5-34] By default, the List tabbed page displays all airspace
-types, and the Map tabbed page displays all airspace types
-apart from MTRs and ATC Assigned Airspaces (ATCAAs).
-Both the List and Map tabbed pages can be filtered to
-display specific data for an airspace name, type, or group.
-Groups include SUA, MTR, or TFR. The Map tabbed page
-provides a graphical depiction of scheduled airspaces
-that may be customized using a fly-out menu of map
-display options. This tabbed page also contains look-up
-functionality that allows a user to locate one or more
-airports within the map. [Figures 5-35 through 5-38]
 Additional navigation features are included which allows
+source to review airspace closure information.
 the user to pan in any direction by dragging the cursor
 within the map. A permalink feature is also available that
+The website contains two tabbed pages, List and Map, that
 enables a user to bookmark a customized set of map layers
+display the scheduling and Notice to Airmen (NOTAM) data
 that can easily be added to their Internet browser favorites
+for SUAs, military training routes (MTRs), and TFRs. [Figure
 list. Once a specific set of customized map layers has been
+5-34] By default, the List tabbed page displays all airspace
 bookmarked, a user may open that customized map display
+types, and the Map tabbed page displays all airspace types
 using the favorites option within their browser menu. The
+apart from MTRs and ATC Assigned Airspaces (ATCAAs).
 List tabbed page allows a user to view all SUA and MTR
+Both the List and Map tabbed pages can be filtered to
 scheduling data and NOTAM text for a TFR. This text may
+display specific data for an airspace name, type, or group.
 be viewed for each NOTAM ID by expanding the NOTAM
+Groups include SUA, MTR, or TFR. The Map tabbed page
 text section within the List grid or clicking the NOTAM ID
+provides a graphical depiction of scheduled airspaces
 to open a TFR Details page. The TFR Details page displays
+that may be customized using a fly-out menu of map
 NOTAM text in a form layout for easy reading and includes
+display options. This tabbed page also contains look-up
 a mapped image and sectional navigation map if available
+functionality that allows a user to locate one or more
 for the TFR.
+airports within the map. [Figures 5-35 through 5-38]
+5-12
+FREQUENCIES
 
 Figure 5-34. FAA website providing information for both special use airspace and temporary flight restrictions.
+5-13
 
 Figure 5-35. Center locations and information available to pilots through the FAA website.
+5-14
 
 Figure 5-36. State information available to pilots through the FAA website.
+5-15
 
 Figure 5-37. Map layer options and information available to pilots through the FAA website.
+5-16
 
 Figure 5-38. Airport information available to pilots through the FAA website.
+5-17
+
+5-18

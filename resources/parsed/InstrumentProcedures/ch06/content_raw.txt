@@ -1,3 +1,5 @@
+Chapter 6
+Airborne Navigation Databases
 Introduction
 Area Navigation (RNAV) systems, aeronautical applications,
 and functions that depend on databases are widespread.
@@ -12,7 +14,7 @@ integrated flight management systems (FMS) that are now
 installed in almost all corporate and commercial aircraft,
 the need for reliable and consistent airborne navigation
 databases is more important than ever.
-Airborne Navigation Databases
+6-1
 
 Figure 6-1. Area navigation (RNAV) receivers.
 The capabilities of airborne navigation databases depend
@@ -27,6 +29,7 @@ RNAV would be extremely limited. In order to understand
 the capabilities and limitations of airborne navigation
 databases, pilots must understand the way databases
 are compiled and revised by the database provider and
+6-2
 processed by the avionics manufacturer. Vital to this
 discussion is understanding of the regulations guiding
 database maintenance and use.
@@ -39,42 +42,79 @@ position; however, it must use an airborne navigation
 database to determine its direction or distance from
 another location. The database provides the GPS with
 
-I
-Figure 6-2. GPS with a flight route on display.
+position information for navigation fixes so it may perform
+the required geodetic calculations to determine the
+The display allows you to view information stored in the FMS.
+appropriate tracks, headings, and distances to be flown.
+[Figure 6-3]
+. nm
 RNG
-PULL SCAN
-PUSH ON
-BRT
 PROC
 CRSR
+DTK
+Modern FMS are capable of a large number of functions
+TK
+MENU
+PUSH ON
+LEG
+BRT
+including basic en route navigation, complex departure
+APT 1
+VOR NDB INT USR ACT NAV FPL SET AUX
+and arrival navigation, fuel planning, and precise vertical
+D
 MSG
 OBS
 ALT
 NRST
 CLR
 ENT
-D
+PULL SCAN
+navigation. Unlike stand-alone navigation systems, most
+FMS/
+FMS use several navigation inputs. Typically, they formulate
+RANGE
+NAV-COM
+PFD
 MENU
-DTK
-TK
-. nm
-LEG
-VOR NDB INT USR ACT NAV FPL SET AUX
+−
++
+the aircraft’s current position using a combination of
+FPL
+PROC
+Controls such as
+PUSH CRSR/PUSH 1-2
+PUSH
+PAN
+conventional distance measuring equipment (DME) signals,
+buttons and knobs
+PFD
+MFD
 A
 B
 C
 D
+inertial navigation systems (INS), GPS receivers, or other
+allow you to make
 E
 F
 G
 H
+entries into the FMS.
+EMERG
+RNAV devices. Like stand-alone navigation avionics, they
+NAV
+COM
+I
 J
 K
 L
+rely heavily on airborne navigation databases to provide
 M
 N
 O
 P
+the information needed to perform their numerous
 Q
 R
 S
@@ -83,59 +123,24 @@ U
 V
 W
 X
+functions.
 Y
 Z
 SPC
 BKSP
-PFD
-MFD
-NAV
-COM
-PFD
-MENU
-FPL
-PROC
-CLR
-ENT
-SEL
+−
++
 DFLT MAP
 SOFTKEY SELECT
-EMERG
-PUSH CRSR/PUSH 1-2
-FMS/
-NAV-COM
-PUSH
-PAN
-RANGE
-+
-−
-−
-+
-The display allows you to view information stored in the FMS.
-Controls such as
-buttons and knobs
-allow you to make
-entries into the FMS.
-position information for navigation fixes so it may perform
-the required geodetic calculations to determine the
-appropriate tracks, headings, and distances to be flown.
-[Figure 6-3]
-Modern FMS are capable of a large number of functions
-including basic en route navigation, complex departure
-and arrival navigation, fuel planning, and precise vertical
-navigation. Unlike stand-alone navigation systems, most
-FMS use several navigation inputs. Typically, they formulate
-the aircraft’s current position using a combination of
-conventional distance measuring equipment (DME) signals,
-inertial navigation systems (INS), GPS receivers, or other
-RNAV devices. Like stand-alone navigation avionics, they
-rely heavily on airborne navigation databases to provide
-the information needed to perform their numerous
-functions.
 Airborne Navigation Database Standardization
+SEL
+CLR
+ENT
 Beginning in the 1970s, the requirement for airborne
 navigation databases became more critical. In 1973,
+Figure 6-2. GPS with a flight route on display.
 Figure 6-3. FMS display.
+6-3
 
 National Airlines installed the Collins ANS-70 and AINS­
 70 RNAV systems in their DC-10 fleet, which marked the
@@ -155,6 +160,7 @@ databases. In 1975, the committee published the first
 standard, ARINC Specification 424, which has remained the
 worldwide accepted format for transmission of navigation
 databases.
+ARINC 424
 ARINC 424 is the air transport industry’s recommended
 standard for the preparation and transmission of data for
 the assembly of airborne system navigation databases. The
@@ -184,6 +190,7 @@ procedure. The navigation database allows an FMS or GPS
 navigator to create a continuous display of navigational
 data, thus enabling an aircraft to be flown along a specific
 route. Vertical navigation can also be coded.
+6-4
 The data included in an airborne navigation database is
 organized into ARINC 424 records. These records are strings
 of characters that make up complex descriptions of each
@@ -234,62 +241,63 @@ Simple Route Records
 Route records are those that describe a flightpath
 instead of a fixed position. Simple route records contain
 
+Fly-by
+Waypoint
+Waypoint
 Flight plan path
 Aircraft track
-Waypoint
-Waypoint
-Fly-by
-Fly-over
 Figure 6-4. Fly-by-waypoints and fly-over-waypoints.
 strings of fix records and information pertaining to how
-the fixes should be used by the navigation avionics.
-A Victor Airway, for example, is described in the database by
-a series of en route airway records that contain the names
-of fixes in the airway and information about how those
-fixes make up the airway.
-Complex Route Records
-Complex route records include those strings of fixes that
-describe complex flightpaths like standard instrument
-departures (SIDs), standard terminal arrival routes (STARs),
-and instrument approach procedures (IAPs). Like simple
-routes, these records contain the names of fixes to be
-used in the route, as well as instructions on how the route
-is flown.
-Miscellaneous Records
-There are several other types of information that is coded
-into airborne navigation databases, most of which deal
-with airspace or communications. The receiver may contain
-additional information, such as restricted airspace, airport
-minimum safe altitudes, and grid minimum off route
-altitudes (MORAs).
-Path and Terminator Concept
-The path and terminator concept is a means to permit
 coding of terminal area procedures, SIDs, STARs, and
+the fixes should be used by the navigation avionics.
 approach procedures. Simply put, a textual description of
 a route or a terminal procedure is translated into a format
 that is useable in RNAV systems. One of the most important
+A Victor Airway, for example, is described in the database by
 concepts for pilots to learn regarding the limitations of
+a series of en route airway records that contain the names
 RNAV equipment has to do with the way these systems
+of fixes in the airway and information about how those
 deal with the path and terminator field included in complex
+fixes make up the airway.
 route records.
+Complex Route Records
 The first RNAV systems were capable of only one type of
+Complex route records include those strings of fixes that
 navigation; they could fly directly to a fix. This was not a
+describe complex flightpaths like standard instrument
 problem when operating in the en route environment
+departures (SIDs), standard terminal arrival routes (STARs),
 in which airways are mostly made up of direct routes
+and instrument approach procedures (IAPs). Like simple
 between fixes. The early approaches for RNAV did not
+routes, these records contain the names of fixes to be
 present problems for these systems and the databases
+used in the route, as well as instructions on how the route
 they used because they consisted mainly of DME/DME
+is flown.
 overlay approaches flown only direct point-to-point
 navigation. The desire for RNAV equipment to have the
+Miscellaneous Records
 ability to follow more complicated flightpaths necessitated
+There are several other types of information that is coded
 the development of the path and terminator field that is
+into airborne navigation databases, most of which deal
 included in complex route records.
+with airspace or communications. The receiver may contain
 Path and Terminator Legs
+additional information, such as restricted airspace, airport
+minimum safe altitudes, and grid minimum off route
 There are currently 23 different leg types, or path and
+altitudes (MORAs).
 terminators that have been created in the ARINC 424
 standard that enable RNAV systems to follow the complex
+Path and Terminator Concept
 paths that make up instrument departures, arrivals, and
+The path and terminator concept is a means to permit
 approaches. They describe to navigation avionics a path
+Fly-over
+6-5
 
 to be followed and the criteria that must be met before
 the path concludes and the next path begins. Although
@@ -299,18 +307,6 @@ Pilots must continue to monitor procedures for accuracy
 and not rely solely on the information that the database
 is showing. If the RNAV system does not have the leg type
 Figure 6-5. Initial fix.
-Figure 6-7. Constant radius arc or RF leg.
-Next
-segment
-R
-F
-LE
-G
-ARC
-CENTER
-FIX
-Previous
-segment
 demanded by procedures, data packers have to select one
 or a combination of available lleg types to give the best
 approximation, which can result in an incorrect execution
@@ -318,238 +314,282 @@ of the procedure. Below is a list of the 23 leg types and
 their uses that may or may not be used by all databases.
 TF LEG
 Figure 6-6. Track to a fix leg type.
-Figure 6-8. Course to a fix or CF leg.
-CF LEG
-080°
-Course is flown making adjustment for wind
-DF LEG
-Unspecified position
+•
 Initial fix or IF leg—defines a database fix as a point
 in space and is only required to define the beginning
 of a route or procedure. [Figure 6-5]
+•
 Track to a fix or TF leg—defines a great circle track
 over the ground between two known database
 fixes and the preferred method for specification of
 straight legs (course or heading can be mentioned
 on charts but designer should ensure TF leg is used
 for coding). [Figure 6-6]
+•
 Constant radius arc or RF leg—defines a constant
 radius turn between two databases fixes, lines
 tangent to the arc, and a center fix. [Figure 6-7]
+•
 Course to a fix or CF leg—defines a specified course
 to a specific database fix. Whenever possible, TF legs
+6-6
+G
+Next
+LE
+segment
+F
+R
+ARC
+CENTER
+FIX
+segment
+Previous
+Figure 6-7. Constant radius arc or RF leg.
+CF LEG
+080°
+Course is flown making adjustment for wind
+Figure 6-8. Course to a fix or CF leg.
+Unspecified position
+DF LEG
 Figure 6-9. Direct to a fix or DF leg.
-Figure 6-10. Fix to an altitude or FA leg.
+Unspecified position
 FA LEG
 080°
-Unspecified position
 8,000'
 FA leg is flown making adjustment for wind
+Figure 6-10. Fix to an altitude or FA leg.
 
 should be used instead of CF legs to avoid magnetic
-variation issues. [Figure 6-8]
 database fix until manual termination of the leg.
+variation issues. [Figure 6-8]
 [Figure 6-13]
+•
 Direct to a fix or DF leg—defines an unspecified track
-starting from an undefined position to a specified
-fix. [Figure 6-9]
+•
 Course to an altitude or CA leg—defines a specified
+starting from an undefined position to a specified
 course to a specific altitude at an unspecified
+fix. [Figure 6-9]
 position. [Figure 6-14]
+•
 Fix to an altitude or FA leg—defines a specified track
+•
 Course to a DME distance or CD leg—defines a
-Figure 6-11. Track from a fix from a distance or FC leg.
+Unspecified position
+090°
 FC LEG
+CA LEG
+080°
 9 NM
+9,000'
+Course is flown making adjustment for wind
+Figure 6-11. Track from a fix from a distance or FC leg.
+Figure 6-14. Course to an altitude or CA leg.
 080°
-Figure 6-12. Track from a fix to a DME distance or FD leg.
+D 10
 FD LEG
-080°
-FM LEG
-080°
+D 10
+090°
+CD LEG
+Figure 6-12. Track from a fix to a DME distance or FD leg.
+Figure 6-15. Course to a DME distance of CD leg.
 Manual
 termination
+080°
+FM LEG
+Next leg
+070°
+090°
 FM leg is flown making adjustment for wind
+CI LEG
 Figure 6-13. From a fix to a manual termination or FM leg.
+Figure 6-16. Course to an intercept or CI leg.
 over the ground from a database fix to a specified
 altitude at an unspecified position. [Figure 6-10]
+•
 Track from a fix from a distance or FC leg—defines
 a specified track over the ground from a database
+120°
+CR LEG
 fix for a specific distance. [Figure 6-11]
+170°
+•
 Track from a fix to a distance measuring equipment
 (DME) distance or FD leg—defines a specified track
 over the ground from a database fix to a specific
 DME distance that is from a specific database DME
 NAVAID. [Figure 6-12]
+•
 From a fix to a manual termination or FM leg—
-defines a specified track over the ground from a
-Figure 6-14. Course to an altitude or CA leg.
-CA LEG
-090°
-Unspecified position
-9,000'
-Course is flown making adjustment for wind
-Figure 6-15. Course to a DME distance of CD leg.
-CD LEG
-090°
-Figure 6-16. Course to an intercept or CI leg.
-CI LEG
-090°
-070°
-Next leg
 Figure 6-17. Course to a radial termination or CR leg.
-CR LEG
-120°
-170°
+defines a specified track over the ground from a
+6-7
 
 specified course to a specific DME distance that is
-from a specific database DME NAVAID. [Figure 6-15]
-Course to an intercept or CI leg—defines a specified
-course to intercept a subsequent leg. [Figure 6-16]
-Course to a radial termination or CR leg—defines a
-course to a specified radial from a specific database
-VOR NAVAID. [Figure 6-17]
 defines a specified heading to a specific altitude
+from a specific database DME NAVAID. [Figure 6-15]
 termination at an unspecified position. [Figure 6-19]
+•
+Course to an intercept or CI leg—defines a specified
+•
 Heading to a DME distance termination or VD
+course to intercept a subsequent leg. [Figure 6-16]
 leg—defines a specified heading terminating at a
 specified DME distance from a specific database
+•
+Course to a radial termination or CR leg—defines a
 DME NAVAID. [Figure 6-20]
+course to a specified radial from a specific database
+VOR NAVAID. [Figure 6-17]
+•
 Heading to an intercept or VI leg—defines a
-Figure 6-18. Arc to a fix or AF leg.
-Boundary radial
-245°
-A
-F
-LE
-G
-Figure 6-19. Heading to an altitude termination or VA leg.
-VA LEG
-Unspecified position
-8,000'
-090°
-No correction made for wind
-Arc to a fix or AF leg—defines a track over the ground
-at a specified constant distance from a database
-DME NAVAID. [Figure 6-18]
-Heading to an altitude termination or VA leg—
-VD LEG
-090°
-Figure 6-20. Heading to a DME distance termination or VD leg.
-Figure 6-21. Heading to an intercept or VI leg.
-VI LEG
-090°
-070°
-Next leg
 specified heading to intercept the subsequent leg
 at an unspecified position. [Figure 6-21]
+Next leg
+070°
+G
+LE
+090°
+D10
+F
+A
+VI LEG
+Figure 6-21. Heading to an intercept or VI leg.
+Boundary radial
+245°
+070°
+Manual termination
+VM LEG
+Figure 6-18. Arc to a fix or AF leg.
+No correction made for wind
+Unspecified position
+Figure 6-22. Heading to a manual termination or VM leg.
+090°
+•
 Heading to a manual termination or VM leg—
+VA LEG
 defines a specified heading until a manual
 termination. [Figure 6-22]
+8,000'
+•
 Heading to a radial termination or VR leg—defines a
-specified heading to a specified radial from a specific
-VM LEG
-Manual termination
-070°
 No correction made for wind
-Figure 6-22. Heading to a manual termination or VM leg.
-Figure 6-23. Heading to a radial termination or VR leg.
-VR LEG
+specified heading to a specified radial from a specific
+Figure 6-19. Heading to an altitude termination or VA leg.
+•
+Arc to a fix or AF leg—defines a track over the ground
 120°
+at a specified constant distance from a database
+VR LEG
+DME NAVAID. [Figure 6-18]
 170°
+•
+Heading to an altitude termination or VA leg—
+D 10
+Figure 6-23. Heading to a radial termination or VR leg.
+090°
+VD LEG
+Figure 6-20. Heading to a DME distance termination or VD leg.
+6-8
 
-Figure 6-24. Procedure turn or PI leg.
-PI
-063°
-018°
-database VOR NAVAID. [Figure 6-23]
-Procedure turn or PI leg—defines a course reversal
-starting at a specific database fix and includes
-outbound leg followed by a left or right turn and
-180° course reversal to intercept the next leg. [Figure
-6-24]
-Racetrack course reversal or altitude termination
-(HA), single circuit terminating at the fix (base turn)
-(HF), or manual termination (HM) leg types—define
-racetrack pattern or course reversals at a specified
-database fix. [Figure 6-25]
-Figure 6-25. Racetrack course reversal or HA, HF, and HM leg.
-HA, HF, HM
-076°
-Previous leg
-HA - Terminates at an altitude
-HF - Terminates at the fix after one orbit
-HM - Manually terminated
-The GRAND JUNCTION FIVE DEPARTURE for Grand Junction
-Regional in Grand Junction, Colorado, provides a good
-example of different types of path and terminator legs
-used. [Figure 6-26] When this procedure is coded into the
-navigation database, the person entering the data into the
-records must identify the individual legs of the flightpath
-and then determine which type of terminator should be
-used.
-The first leg of the departure for Runway 11 is a climb
-via runway heading to 6,000 feet mean sea level (MSL)
-and then a climbing right turn direct to a fix. When this is
-entered into the database, a heading to an altitude (VA)
-value must be entered into the record’s path and terminator
 field for the first leg of the departure route. This path and
 terminator tells the avionics to provide course guidance
 based on heading, until the aircraft reaches 6,000 feet,
+018°
 and then the system begins providing course guidance
 for the next leg. After reaching 6,000 feet, the procedure
+PI
 calls for a right turn direct to the Grand Junction (JNC)
 VORTAC. This leg is coded into the database using the path
+063°
 and terminator direct to a fix (DF) value, which defines an
 unspecified track starting from an undefined position to a
 specific database fix.
 Another commonly used path and terminator value is
+Figure 6-24. Procedure turn or PI leg.
 heading to a radial (VR) which is shown in Figure 6-27
+database VOR NAVAID. [Figure 6-23]
 using the CHANNEL ONE DEPARTURE procedure for Santa
+•
+Procedure turn or PI leg—defines a course reversal
 Ana, California. The first leg of the runway 19L/R procedure
+starting at a specific database fix and includes
 requires a climb on runway heading until crossing the I-SNA
+outbound leg followed by a left or right turn and
 1 DME fix or the SLI R-118, this leg must be coded into the
+180° course reversal to intercept the next leg. [Figure
 database using the VR value in the Path and Terminator
+6-24]
 field. After crossing the I-SNA 1 DME fix or the SLI R-118, the
 avionics should cycle to the next leg of the procedure that
+•
+Racetrack course reversal or altitude termination
 in this case, is a climb on a heading of 175° until crossing SLI
+(HA), single circuit terminating at the fix (base turn)
 R-132. This leg is also coded with a VR Path and Terminator.
+(HF), or manual termination (HM) leg types—define
 The next leg of the procedure consists of a heading of 200°
+racetrack pattern or course reversals at a specified
 until intercepting the SXC R-084. In order for the avionics to
+database fix. [Figure 6-25]
 correctly process this leg, the database record must include
 the heading to an intercept (VI) value in the Path and
 Terminator field. This value directs the avionics to follow
+HA, HF, HM
 a specified heading to intercept the subsequent leg at an
+076°
 unspecified position.
 The path and terminator concept is a very important part
 of airborne navigation database coding. In general, it is not
+Previous leg
 necessary for pilots to have an in-depth knowledge of the
+HA - Terminates at an altitude
 ARINC coding standards; however, pilots should be familiar
+HF - Terminates at the fix after one orbit
 with the concepts related to coding in order to understand
+HM - Manually terminated
 the limitations of specific RNAV systems that use databases.
+Figure 6-25. Racetrack course reversal or HA, HF, and HM leg.
 Path and Terminator Limitations
 How a specific RNAV system deals with Path and
+The GRAND JUNCTION FIVE DEPARTURE for Grand Junction
 Terminators is of great importance to pilots operating
+Regional in Grand Junction, Colorado, provides a good
 with airborne navigation databases. Some early RNAV
+example of different types of path and terminator legs
 systems may ignore this field completely. The ILS or LOC/
+used. [Figure 6-26] When this procedure is coded into the
 DME RWY 3 approach at Durango, Colorado, provides an
+navigation database, the person entering the data into the
 example of problems that may arise from the lack of path
+records must identify the individual legs of the flightpath
 and terminator capability in RNAV systems. Although
+and then determine which type of terminator should be
 approaches of this type are authorized only for sufficiently
+used.
 equipped RNAV systems, it is possible that a pilot may elect
 to fly the approach with conventional navigation, and then
+The first leg of the departure for Runway 11 is a climb
 re-engage RNAV during a missed approach. If this missed
+via runway heading to 6,000 feet mean sea level (MSL)
 approach is flown using an RNAV system that does not use
+and then a climbing right turn direct to a fix. When this is
 Path and terminator values or the wrong leg types, then
+entered into the database, a heading to an altitude (VA)
 the system will most likely ignore the first two legs of the
+value must be entered into the record’s path and terminator
 procedure. This will cause the RNAV equipment to direct
+6-9
 
 Figure 6-26. Grand Junction Five Departure.
+6-10
 
 NOT FOR NAVIGATION
 Figure 6-27. Channel One Departure.
+6-11
 
 Figure 6-28. ILS or LOC/DME RWY 3 in Durango, Colorado.
+6-12
 
 the pilot to make an immediate turn toward the Durango
 VOR instead of flying the series of headings that terminate
@@ -581,6 +621,7 @@ reach the coding phase prior to its cutoff date (the date that
 new aeronautical information can no longer be included
 in the next update), it is held out of revision until the next
 cycle. The cutoff date for aeronautical databases is typically
+Figure 6-29. Naming conventions of three different systems for the VOR 34 Approach.
 21 days prior to the effective date of the revision.
 The integrity of the data is ensured through a process called
 cyclic redundancy check (CRC). A CRC is an error detection
@@ -613,7 +654,7 @@ pilot. This means that although the database may specify
 EUGA <VOR 34
 >APR
 IAF / TRAN: D130NIF
-Figure 6-29. Naming conventions of three different systems for the VOR 34 Approach.
+6-13
 
 the approach identifier field for the VOR/DME Runway
 34 approach at Eugene Mahlon Sweet Airport (KEUG) in
@@ -645,6 +686,7 @@ must update databases in accordance with their approved
 maintenance program. For Part 135 helicopter operators,
 this includes maintenance by the pilot in accordance with
 Figure 6-30. Database rolls.
+6-14
 14 CFR Part 43, § 43.3(h).
 Pilots using the databases are ultimately responsible for
 ensuring that the database they are operating with is
@@ -790,6 +832,7 @@ replaced with the new designation.
 NAVAIDs are also subject to naming discrepancies as well.
 This problem is complicated by the fact that multiple
 NAVAIDs can be designated with the same identifier. VOR
+6-15
 
 XYZ may occur several times in a provider’s database, so
 the avionics manufacturer must design a way to identify
@@ -825,6 +868,8 @@ manufacturer may refer to it as VOR34. These differences
 can cause visual inconsistencies between chart and GPS
 displays, as well as confusion with approach clearances
 and other ATC instructions for pilots unfamiliar with specific
+Figure 6-31. Manufacturer’s naming conventions.
+6-16
 manufacturer’s naming conventions.
 For detailed operational guidance, refer to Advisory Circular
 (AC) 90-100, U.S. Terminal and En Route Area Navigation
@@ -859,7 +904,6 @@ calculated course might be different from the course
 depicted on the charts. Using the magnetic variation for the
 region instead of the actual station declination can result
 in differences between charted and calculated courses and
-Figure 6-31. Manufacturer’s naming conventions.
 
 incorrect ground track. Station declination is only updated
 when a NAVAID is site checked by the governing authority
@@ -897,3 +941,6 @@ the last day that changes can be made in the revision, and
 the date the information becomes effective. Aeronautical
 charts typically have a cutoff date of 10 days prior to the
 effective date of the charts.
+6-17
+
+6-18

@@ -1,3 +1,5 @@
+Chapter 6
+Flight Controls
 Introduction
 This chapter focuses on the flight control systems a pilot uses
 to control the forces of flight and the aircraft’s direction and
@@ -11,211 +13,201 @@ flight deck controls to the control surfaces. Mechanical flight
 control systems are still used today in small general and
 sport category aircraft where the aerodynamic forces are not
 excessive. [Figure 6-1]
-Flight Controls
+6-1
 
-Anti-torque pedals
-Cyclic stick
-Collective lever
-Cyclic
-Cyclic
-Cyclic
-Cyclic
-Yaw
-Yaw
-Yaw
-Yaw
-Collective
-Collective
-Collective
-Collective
-Figure 6-3. Helicopter flight control system.
-Hydraulic pressure
-Hydraulic return
-Pivot point
-LEGEND
-Elevator (UP)
-Control stick (AFT—nose up)
-Control cables
-Power cylinder
-Neutral
-Neutral
-Control valves
-Neutral
-Power disconnect linkage
-Figure 6-2. Hydromechanical flight control system.
-Elevator
-Control stick
-Cable
-Pulleys
-Push rod
-Figure 6-1. Mechanical flight control system.
-As aviation matured and aircraft designers learned more about
-aerodynamics, the industry produced larger and faster aircraft.
-Therefore, the aerodynamic forces acting upon the control
-surfaces increased exponentially. To make the control force
-required by pilots manageable, aircraft engineers designed
-more complex systems. At first, hydromechanical designs,
-consisting of a mechanical circuit and a hydraulic circuit,
-were used to reduce the complexity, weight, and limitations
-of mechanical flight controls systems. [Figure 6-2]
-As aircraft became more sophisticated, the control surfaces
-were actuated by electric motors, digital computers, or fiber
-optic cables. Called “fly-by-wire,” this flight control system
-replaces the physical connection between pilot controls and
-the flight control surfaces with an electrical interface. In
-addition, in some large and fast aircraft, controls are boosted
-by hydraulically or electrically actuated systems. In both
-the fly-by-wire and boosted controls, the feel of the control
-reaction is fed back to the pilot by simulated means.
-Current research at the National Aeronautics and Space
-Administration (NASA) Dryden Flight Research Center
-involves Intelligent Flight Control Systems (IFCS). The goal
 of this project is to develop an adaptive neural network-based
+Control stick
 flight control system. Applied directly to flight control system
 feedback errors, IFCS provides adjustments to improve
+Elevator
 aircraft performance in normal flight, as well as with system
 failures. With IFCS, a pilot is able to maintain control and
+Pulleys
 safely land an aircraft that has suffered a failure to a control
 surface or damage to the airframe. It also improves mission
 capability, increases the reliability and safety of flight, and
 eases the pilot workload.
 Today’s aircraft employ a variety of flight control systems.
+Cable
+Push rod
 For example, some aircraft in the sport pilot category rely on
 weight-shift control to fly while balloons use a standard burn
+Figure 6-1. Mechanical flight control system.
 technique. Helicopters utilize a cyclic to tilt the rotor in the
 desired direction along with a collective to manipulate rotor
 pitch and anti-torque pedals to control yaw. [Figure 6-3]
+As aviation matured and aircraft designers learned more about
+aerodynamics, the industry produced larger and faster aircraft.
 For additional information on flight control systems, refer
+Therefore, the aerodynamic forces acting upon the control
 to the appropriate handbook for information related to the
+surfaces increased exponentially. To make the control force
 flight control systems and characteristics of specific types
+required by pilots manageable, aircraft engineers designed
 of aircraft.
+more complex systems. At first, hydromechanical designs,
+consisting of a mechanical circuit and a hydraulic circuit,
 Flight Control Systems
+were used to reduce the complexity, weight, and limitations
+of mechanical flight controls systems. [Figure 6-2]
 Flight Controls
 Aircraft flight control systems consist of primary and
+As aircraft became more sophisticated, the control surfaces
 secondary systems. The ailerons, elevator (or stabilator),
+were actuated by electric motors, digital computers, or fiber
 and rudder constitute the primary control system and are
+optic cables. Called “fly-by-wire,” this flight control system
 required to control an aircraft safely during flight. Wing flaps,
+replaces the physical connection between pilot controls and
 leading edge devices, spoilers, and trim systems constitute
+the flight control surfaces with an electrical interface. In
 the secondary control system and improve the performance
+addition, in some large and fast aircraft, controls are boosted
 characteristics of the airplane or relieve the pilot of excessive
+by hydraulically or electrically actuated systems. In both
 control forces.
+the fly-by-wire and boosted controls, the feel of the control
+reaction is fed back to the pilot by simulated means.
 Primary Flight Controls
 Aircraft control systems are carefully designed to provide
+Current research at the National Aeronautics and Space
 adequate responsiveness to control inputs while allowing a
+Administration (NASA) Dryden Flight Research Center
+involves Intelligent Flight Control Systems (IFCS). The goal
+Yaw
+Yaw
+Neutral
+Collective
+Collective
+Control stick (AFT—nose up)
+Cyclic
+Cyclic
+Cyclic stick
+LEGEND
+Hydraulic pressure
+Hydraulic return
+Yaw
+Yaw
+Pivot point
+Cyclic
+Cyclic
+Elevator (UP)
+Control cables
+Control valves
+Collective
+Collective
+Neutral
+Anti-torque pedals
+Collective lever
+Power disconnect linkage
+Neutral
+Power cylinder
+Figure 6-3. Helicopter flight control system.
+Figure 6-2. Hydromechanical flight control system.
+6-2
 
+Ailerons
+natural feel. At low airspeeds, the controls usually feel soft
+and sluggish, and the aircraft responds slowly to control
+Ailerons control roll about the longitudinal axis. The ailerons
+applications. At higher airspeeds, the controls become
+are attached to the outboard trailing edge of each wing and
+increasingly firm and aircraft response is more rapid.
+move in the opposite direction from each other. Ailerons are
+connected by cables, bellcranks, pulleys, and/or push-pull
+Movement of any of the three primary flight control surfaces
+tubes to a control wheel or control stick.
+(ailerons, elevator or stabilator, or rudder), changes the
+airflow and pressure distribution over and around the airfoil.
+Moving the control wheel, or control stick, to the right
+These changes affect the lift and drag produced by the airfoil/
+causes the right aileron to deflect upward and the left aileron
+control surface combination, and allow a pilot to control the
+to deflect downward. The upward deflection of the right
+aircraft about its three axes of rotation.
+aileron decreases the camber resulting in decreased lift on
+the right wing. The corresponding downward deflection of
+Design features limit the amount of deflection of flight
+the left aileron increases the camber resulting in increased
+control surfaces. For example, control-stop mechanisms may
+lift on the left wing. Thus, the increased lift on the left wing
+be incorporated into the flight control linkages, or movement
+and the decreased lift on the right wing causes the aircraft
+of the control column and/or rudder pedals may be limited.
+to roll to the right.
+The purpose of these design limits is to prevent the pilot from
+inadvertently overcontrolling and overstressing the aircraft
+Adverse Yaw
+during normal maneuvers.
+Since the downward deflected aileron produces more lift as
+evidenced by the wing raising, it also produces more drag.
+A properly designed aircraft is stable and easily controlled
+This added drag causes the wing to slow down slightly.
+during normal maneuvering. Control surface inputs cause
+This results in the aircraft yawing toward the wing which
+movement about the three axes of rotation. The types of
+had experienced an increase in lift (and drag). From the
+stability an aircraft exhibits also relate to the three axes of
+pilot’s perspective, the yaw is opposite the direction of the
+rotation. [Figure 6-4]
+bank. The adverse yaw is a result of differential drag and the
+slight difference in the velocity of the left and right wings.
+Elevator—Pitch
+[Figure 6-5]
+Rudder—Yaw
+Vertical axis
 Lateral axis
+(directional
 (longitudinal
+Adverse yaw becomes more pronounced at low airspeeds.
+stability)
 stability)
 Aileron—Roll
-Rudder—Yaw
-Elevator—Pitch
+At these slower airspeeds, aerodynamic pressure on control
 Longitudinal
+surfaces are low, and larger control inputs are required to
 axis (lateral
 stability)
-Vertical axis
-(directional
-stability)
+Lift
+Drag
+Primary
+Airplane
+Axes of
+Type of
+Control
+Lift
+A
+Drag
+Movement
+Rotation
+Stability
+d
+Surface
+v
+e
+w
+r
+a
+se y
 Aileron
 Roll
 Longitudinal
 Lateral
+Elevator/
+Pitch
+Lateral
+Longitudinal
+Stabilator
 Rudder
 Yaw
 Vertical
 Directional
-Elevator/
-Stabilator
-Pitch
-Lateral
-Longitudinal
-Primary
-Control
-Surface
-Airplane
-Movement
-Axes of
-Rotation
-Type of
-Stability
-Figure 6-4. Airplane controls, movement, axes of rotation, and
-type of stability.
 Figure 6-5. Adverse yaw is caused by higher drag on the outside
+Figure 6-4. Airplane controls, movement, axes of rotation, and
 wing that is producing more lift.
-Lift
-Drag
-Lift
-Drag
-A
-d
-v
-e
-r
-se y
-a
-w
-natural feel. At low airspeeds, the controls usually feel soft
-and sluggish, and the aircraft responds slowly to control
-applications. At higher airspeeds, the controls become
-increasingly firm and aircraft response is more rapid.
-Movement of any of the three primary flight control surfaces
-(ailerons, elevator or stabilator, or rudder), changes the
-airflow and pressure distribution over and around the airfoil.
-These changes affect the lift and drag produced by the airfoil/
-control surface combination, and allow a pilot to control the
-aircraft about its three axes of rotation.
-Design features limit the amount of deflection of flight
-control surfaces. For example, control-stop mechanisms may
-be incorporated into the flight control linkages, or movement
-of the control column and/or rudder pedals may be limited.
-The purpose of these design limits is to prevent the pilot from
-inadvertently overcontrolling and overstressing the aircraft
-during normal maneuvers.
-A properly designed aircraft is stable and easily controlled
-during normal maneuvering. Control surface inputs cause
-movement about the three axes of rotation. The types of
-stability an aircraft exhibits also relate to the three axes of
-rotation. [Figure 6-4]
-Ailerons
-Ailerons control roll about the longitudinal axis. The ailerons
-are attached to the outboard trailing edge of each wing and
-move in the opposite direction from each other. Ailerons are
-connected by cables, bellcranks, pulleys, and/or push-pull
-tubes to a control wheel or control stick.
-Moving the control wheel, or control stick, to the right
-causes the right aileron to deflect upward and the left aileron
-to deflect downward. The upward deflection of the right
-aileron decreases the camber resulting in decreased lift on
-the right wing. The corresponding downward deflection of
-the left aileron increases the camber resulting in increased
-lift on the left wing. Thus, the increased lift on the left wing
-and the decreased lift on the right wing causes the aircraft
-to roll to the right.
-Adverse Yaw
-Since the downward deflected aileron produces more lift as
-evidenced by the wing raising, it also produces more drag.
-This added drag causes the wing to slow down slightly.
-This results in the aircraft yawing toward the wing which
-had experienced an increase in lift (and drag). From the
-pilot’s perspective, the yaw is opposite the direction of the
-bank. The adverse yaw is a result of differential drag and the
-slight difference in the velocity of the left and right wings.
-[Figure 6-5]
-Adverse yaw becomes more pronounced at low airspeeds.
-At these slower airspeeds, aerodynamic pressure on control
-surfaces are low, and larger control inputs are required to
+type of stability.
+6-3
 
-Aile
-ron
-deflec
-ted up
-Aileron deflected down
-Differential aileron
-Figure 6-6. Differential ailerons.
-Lowered
-Neutral
-Raised
-Drag
-Figure 6-7. Frise-type ailerons.
 effectively maneuver the aircraft. As a result, the increase
 in aileron deflection causes an increase in adverse yaw. The
 yaw is especially evident in aircraft with long wing spans.
@@ -263,6 +255,14 @@ With a frise-type aileron, when pressure is applied to the
 control wheel, or control stick, the aileron that is being raised
 pivots on an offset hinge. This projects the leading edge of
 the aileron into the airflow and creates drag. It helps equalize
+6-4
+Aile
+ron
+deflec
+ted up
+Differential aileron
+Aileron deflected down
+Figure 6-6. Differential ailerons.
 the drag created by the lowered aileron on the opposite wing
 and reduces adverse yaw. [Figure 6-7]
 The frise-type aileron also forms a slot so air flows smoothly
@@ -277,29 +277,12 @@ Coupled ailerons and rudder are linked controls. This is
 accomplished with rudder-aileron interconnect springs, which
 help correct for aileron drag by automatically deflecting
 the rudder at the same time the ailerons are deflected. For
+Neutral
+Raised
+Drag
+Lowered
+Figure 6-7. Frise-type ailerons.
 
-Rudder/Aileron interconnecting springs
-Rudder deflects with ailerons
-Figure 6-8. Coupled ailerons and rudder.
-Figure 6-9. Flaperons on a Skystar Kitfox MK 7.
-N
-os
-e
-up
-T
-ai
-l
-do
-w
-n
-Control column
-aft
-Up elevator
-Downward
-aerodynamic force
-CG
-Figure 6-10. The elevator is the primary control for changing the
-pitch attitude of an aircraft.
 example, when the control wheel, or control stick, is moved
 to produce a left roll, the interconnect cable and spring pulls
 forward on the left rudder pedal just enough to prevent the
@@ -321,6 +304,10 @@ Elevator
 The elevator controls pitch about the lateral axis. Like the
 ailerons on small aircraft, the elevator is connected to the
 control column in the flight deck by a series of mechanical
+Rudder deflects with ailerons
+Rudder/Aileron interconnecting springs
+Figure 6-8. Coupled ailerons and rudder.
+Figure 6-9. Flaperons on a Skystar Kitfox MK 7.
 linkages. Aft movement of the control column deflects
 the trailing edge of the elevator surface up. This is usually
 referred to as the up-elevator position. [Figure 6-10]
@@ -341,9 +328,26 @@ the pitching moment occurs about the CG.
 As mentioned earlier, stability, power, thrustline, and the
 position of the horizontal tail surfaces on the empennage
 are factors in elevator effectiveness controlling pitch. For
-
+n
+Control column
+w
+do
+aft
+l
+Up elevator
+ai
+T
 CG
-Figure 6-11. Aircraft with a T-tail design at a high AOA and an aft CG.
+N
+os
+e
+up
+Downward
+aerodynamic force
+Figure 6-10. The elevator is the primary control for changing the
+pitch attitude of an aircraft.
+6-5
+
 example, the horizontal tail surfaces may be attached near
 the lower part of the vertical stabilizer, at the midpoint, or
 at the high point, as in the T-tail design.
@@ -392,6 +396,7 @@ diminished significantly. In these circumstances, elevator or
 stabilator control is reduced (or perhaps eliminated) making
 it difficult to recover from the stall. It should be noted that an
 aft CG is often a contributing factor in these incidents, since
+6-6
 similar recovery problems are also found with conventional
 tail aircraft with an aft CG. [Figure 6-11] Deep stalls can
 occur on any aircraft but are more likely to occur on aircraft
@@ -426,22 +431,14 @@ The elevator must also have sufficient authority to hold the
 nose of the aircraft up during the roundout for a landing. In
 this case, a forward CG may cause a problem. During the
 landing flare, power is usually reduced, which decreases the
+CG
+Figure 6-11. Aircraft with a T-tail design at a high AOA and an aft CG.
 
-Elevator
-Down spring
 Pivot points
 Bell crank
 Figure 6-12. When the aerodynamic efficiency of the horizontal tail
 surface is inadequate due to an aft CG condition, an elevator down
 spring may be used to supply a mechanical load to lower the nose.
-Antiservo tab
-Balance weight
-Stabilator
-Pivot point
-Figure 6-13. The stabilator is a one-piece horizontal tail surface
-that pivots up and down about a central hinge point.
-Figure 6-14. The Piaggio P180 includes a variable-sweep canard
-design that provides longitudinal stability about the lateral axis.
 airflow over the empennage. This, coupled with the reduced
 landing speed, makes the elevator less effective.
 As this discussion demonstrates, pilots must understand and
@@ -470,6 +467,14 @@ the forward portion of the stabilator tips. [Figure 6-13]
 Canard
 The canard design utilizes the concept of two lifting surfaces.
 The canard functions as a horizontal stabilizer located in front
+Down spring
+Elevator
+Antiservo tab
+Stabilator
+Pivot point
+Balance weight
+Figure 6-13. The stabilator is a one-piece horizontal tail surface
+that pivots up and down about a central hinge point.
 of the main wings. In effect, the canard is an airfoil similar to
 the horizontal surface on a conventional aft-tail design. The
 difference is that the canard actually creates lift and holds
@@ -487,28 +492,10 @@ wing configuration. Theoretically, the canard is considered
 more efficient because using the horizontal surface to help
 lift the weight of the aircraft should result in less drag for a
 given amount of lift.
+Figure 6-14. The Piaggio P180 includes a variable-sweep canard
+design that provides longitudinal stability about the lateral axis.
+6-7
 
-A
-er
-o
-d
-y
-n
-a
-m
-i
-c
-f
-or
-ce
-Left rudder
-CG
-Left rudder forward
-Y
-a
-w
-Figure 6-15. The effect of left rudder pressure.
-Figure 6-16. Beechcraft Bonanza V35.
 Rudder
 The rudder controls movement of the aircraft about its vertical
 axis. This motion is called yaw. Like the other primary control
@@ -537,6 +524,10 @@ hand, displacement of the rudder pedals moves the surfaces
 differentially, thereby providing directional control.
 When both rudder and elevator controls are moved by the
 pilot, a control mixing mechanism moves each surface the
+Left rudder
+Figure 6-15. The effect of left rudder pressure.
+6-8
+Figure 6-16. Beechcraft Bonanza V35.
 appropriate amount. The control system for the V-tail is more
 complex than the control system for a conventional tail. In
 addition, the V-tail design is more susceptible to Dutch roll
@@ -554,11 +545,16 @@ speed and low landing speed because they may be extended
 when needed and retracted into the wing’s structure when not
 needed. There are four common types of flaps: plain, split,
 slotted, and Fowler flaps. [Figure 6-17]
+w
+a
+Y
 The plain flap is the simplest of the four types. It increases
 the airfoil camber, resulting in a significant increase in the
 coefficient of lift (CL) at a given AOA. At the same time, it
 greatly increases drag and moves the center of pressure (CP)
 aft on the airfoil, resulting in a nose-down pitching moment.
+Left rudder forward
+CG
 The split flap is deflected from the lower surface of the airfoil
 and produces a slightly greater increase in lift than the plain
 flap. More drag is created because of the turbulent air pattern
@@ -567,21 +563,41 @@ and split flaps produce high drag with little additional lift.
 The most popular flap on aircraft today is the slotted flap.
 Variations of this design are used for small aircraft, as well
 as for large ones. Slotted flaps increase the lift coefficient
+A
+er
+ce
+o
+or
+d
+y
+f
 significantly more than plain or split flaps. On small aircraft,
+n
+c
+a
+i
+m
 the hinge is located below the lower surface of the flap, and
 
-Figure 6-17. Five common types of flaps.
-Plain flap
+when the flap is lowered, a duct forms between the flap well
+in the wing and the leading edge of the flap. When the slotted
+flap is lowered, high energy air from the lower surface is
+ducted to the flap’s upper surface. The high energy air from
+the slot accelerates the upper surface boundary layer and
+delays airflow separation, providing a higher CL. Thus, the
+slotted flap produces much greater increases in maximum
+coefficient of lift (CL-MAX) than the plain or split flap. While
+there are many types of slotted flaps, large aircraft often
+have double- and even triple-slotted flaps. These allow the
+maximum increase in drag without the airflow over the flaps
+separating and destroying the lift they produce.
 Basic section
+Plain flap
 Split flap
 Slotted flap
 Fowler flap
 Slotted Fowler flap
-Figure 6-18. Leading edge high lift devices.
-Leading edge cuff
-Leading edge flap
-Movable slot
-Fixed slot
+Figure 6-17. Five common types of flaps.
 Fowler flaps are a type of slotted flap. This flap design not
 only changes the camber of the wing, it also increases the
 wing area. Instead of rotating down on a hinge, it slides
@@ -600,55 +616,13 @@ the airfoil. The most common types are fixed slots, movable
 slats, leading edge flaps, and cuffs. [Figure 6-18]
 Fixed slots direct airflow to the upper wing surface and delay
 airflow separation at higher angles of attack. The slot does not
-when the flap is lowered, a duct forms between the flap well
-in the wing and the leading edge of the flap. When the slotted
-flap is lowered, high energy air from the lower surface is
-ducted to the flap’s upper surface. The high energy air from
-the slot accelerates the upper surface boundary layer and
-delays airflow separation, providing a higher CL. Thus, the
-slotted flap produces much greater increases in maximum
-coefficient of lift (CL-MAX) than the plain or split flap. While
-there are many types of slotted flaps, large aircraft often
-have double- and even triple-slotted flaps. These allow the
-maximum increase in drag without the airflow over the flaps
-separating and destroying the lift they produce.
+Fixed slot
+Movable slot
+Leading edge flap
+Leading edge cuff
+Figure 6-18. Leading edge high lift devices.
+6-9
 
-Figure 6-19. Spoilers reduce lift and increase drag during descent
-and landing.
-variables. Trim systems are used to relieve the pilot of the
-need to maintain constant pressure on the flight controls, and
-usually consist of flight deck controls and small hinged devices
-attached to the trailing edge of one or more of the primary flight
-control surfaces. Designed to help minimize a pilot’s workload,
-trim systems aerodynamically assist movement and position of
-the flight control surface to which they are attached. Common
-types of trim systems include trim tabs, balance tabs, antiservo
-tabs, ground adjustable tabs, and an adjustable stabilizer.
-Trim Tabs
-The most common installation on small aircraft is a single
-trim tab attached to the trailing edge of the elevator. Most trim
-tabs are manually operated by a small, vertically mounted
-control wheel. However, a trim crank may be found in some
-aircraft. The flight deck control includes a trim tab position
-indicator. Placing the trim control in the full nose-down
-position moves the trim tab to its full up position. With
-the trim tab up and into the airstream, the airflow over the
-horizontal tail surface tends to force the trailing edge of the
-elevator down. This causes the tail of the aircraft to move
-up and the nose to move down. [Figure 6-20]
-If the trim tab is set to the full nose-up position, the tab moves
-to its full down position. In this case, the air flowing under the
-horizontal tail surface hits the tab and forces the trailing edge
-of the elevator up, reducing the elevator’s AOA. This causes
-the tail of the aircraft to move down and the nose to move up.
-In spite of the opposing directional movement of the trim
-tab and the elevator, control of trim is natural to a pilot. If
-the pilot needs to exert constant back pressure on a control
-column, the need for nose-up trim is indicated. The normal
-trim procedure is to continue trimming until the aircraft is
-balanced and the nose-heavy condition is no longer apparent.
-Pilots normally establish the desired power, pitch attitude,
-and configuration first, and then trim the aircraft to relieve
 increase the wing camber, but allows a higher maximum CL
 because the stall is delayed until the wing reaches a greater AOA.
 Movable slats consist of leading edge segments that move on
@@ -697,20 +671,51 @@ Trim Systems
 Although an aircraft can be operated throughout a wide range
 of attitudes, airspeeds, and power settings, it can be designed to
 fly hands-off within only a very limited combination of these
+6-10
+Figure 6-19. Spoilers reduce lift and increase drag during descent
+and landing.
+variables. Trim systems are used to relieve the pilot of the
+need to maintain constant pressure on the flight controls, and
+usually consist of flight deck controls and small hinged devices
+attached to the trailing edge of one or more of the primary flight
+control surfaces. Designed to help minimize a pilot’s workload,
+trim systems aerodynamically assist movement and position of
+the flight control surface to which they are attached. Common
+types of trim systems include trim tabs, balance tabs, antiservo
+tabs, ground adjustable tabs, and an adjustable stabilizer.
+Trim Tabs
+The most common installation on small aircraft is a single
+trim tab attached to the trailing edge of the elevator. Most trim
+tabs are manually operated by a small, vertically mounted
+control wheel. However, a trim crank may be found in some
+aircraft. The flight deck control includes a trim tab position
+indicator. Placing the trim control in the full nose-down
+position moves the trim tab to its full up position. With
+the trim tab up and into the airstream, the airflow over the
+horizontal tail surface tends to force the trailing edge of the
+elevator down. This causes the tail of the aircraft to move
+up and the nose to move down. [Figure 6-20]
+If the trim tab is set to the full nose-up position, the tab moves
+to its full down position. In this case, the air flowing under the
+horizontal tail surface hits the tab and forces the trailing edge
+of the elevator up, reducing the elevator’s AOA. This causes
+the tail of the aircraft to move down and the nose to move up.
+In spite of the opposing directional movement of the trim
+tab and the elevator, control of trim is natural to a pilot. If
+the pilot needs to exert constant back pressure on a control
+column, the need for nose-up trim is indicated. The normal
+trim procedure is to continue trimming until the aircraft is
+balanced and the nose-heavy condition is no longer apparent.
+Pilots normally establish the desired power, pitch attitude,
+and configuration first, and then trim the aircraft to relieve
 
-Pivot point
-Stabilator
-Antiservo tab
-Figure 6-21. An antiservo tab attempts to streamline the control
-surface and is used to make the stabilator less sensitive by opposing
-the force exerted by the pilot.
 Nose-down trim
-Nose-up trim
-Trim tab
 Elevator
 Trim tab
-Elevator
 Tab up—elevator down
+Nose-up trim
+Elevator
+Trim tab
 Tab up—elevator up
 Figure 6-20. The movement of the elevator is opposite to the
 direction of movement of the elevator trim tab.
@@ -765,20 +770,14 @@ Many small aircraft have a nonmovable metal trim tab on the
 rudder. This tab is bent in one direction or the other while on
 the ground to apply a trim force to the rudder. The correct
 displacement is determined by trial and error. Usually, small
+Stabilator
+Pivot point
+Figure 6-21. An antiservo tab attempts to streamline the control
+surface and is used to make the stabilator less sensitive by opposing
+the force exerted by the pilot.
+Antiservo tab
+6-11
 
-Figure 6-24. Basic autopilot system integrated into the flight
-control system.
-Figure 6-23. Some aircraft, including most jet transports, use an
-adjustable stabilizer to provide the required pitch trim forces.
-Adjustable stabilizer
-Nose down
-Nose up
-Trim motor or trim cable
-Jackscrew
-Pivot
-Figure 6-22. A ground adjustable tab is used on the rudder of many
-small airplanes to correct for a tendency to fly with the fuselage
-slightly misaligned with the relative wind.
 adjustments are necessary until the aircraft no longer skids
 left or right during normal cruising flight. [Figure 6-22]
 Adjustable Stabilizer
@@ -809,6 +808,18 @@ vertical axes. Three different servos actuate ailerons, elevator,
 and rudder. More advanced systems often include a vertical
 speed and/or indicated airspeed hold mode. Advanced autopilot
 systems are coupled to navigational aids through a flight director.
+Figure 6-22. A ground adjustable tab is used on the rudder of many
+small airplanes to correct for a tendency to fly with the fuselage
+slightly misaligned with the relative wind.
+6-12
+Adjustable stabilizer
+Nose down
+Nose up
+Jackscrew
+Pivot
+Trim motor or trim cable
+Figure 6-23. Some aircraft, including most jet transports, use an
+adjustable stabilizer to provide the required pitch trim forces.
 The autopilot system also incorporates a disconnect safety
 feature to disengage the system automatically or manually.
 These autopilots work with inertial navigation systems,
@@ -827,3 +838,5 @@ flight control systems of the aircraft being flown. The
 primary source of this information is the AFM or the POH.
 Various manufacturer and owner group websites can also be
 a valuable source of additional information.
+Figure 6-24. Basic autopilot system integrated into the flight
+control system.

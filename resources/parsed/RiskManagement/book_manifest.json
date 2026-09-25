@@ -5,334 +5,647 @@
     {
       "chapter": "ch01",
       "startPage": 10,
-      "endPage": 11,
+      "endPage": 12,
       "images": [
         {
           "page": 10,
           "file": "img_p10_1.png",
           "relativePath": "/images/RiskManagement/ch01/img_p10_1.png",
           "figureRef": "Figure 10-1",
-          "index": 1
+          "index": 1,
+          "placements": [
+            {
+              "page": 10,
+              "bbox": [
+                129.00994873046875,
+                436.6600646972656,
+                481.47149658203125,
+                694.5015258789062
+              ]
+            }
+          ]
         },
         {
           "page": 11,
           "file": "img_p11_2.png",
           "relativePath": "/images/RiskManagement/ch01/img_p11_2.png",
           "figureRef": "Figure 11-2",
-          "index": 2
+          "index": 2,
+          "placements": [
+            {
+              "page": 11,
+              "bbox": [
+                81.21507263183594,
+                161.81773376464844,
+                342.5731201171875,
+                383.52142333984375
+              ]
+            }
+          ]
         },
         {
           "page": 11,
           "file": "img_p11_3.png",
           "relativePath": "/images/RiskManagement/ch01/img_p11_3.png",
           "figureRef": "Figure 11-3",
-          "index": 3
+          "index": 3,
+          "placements": [
+            {
+              "page": 11,
+              "bbox": [
+                105.54840087890625,
+                363.6942443847656,
+                366.90643310546875,
+                616.0399169921875
+              ]
+            }
+          ]
         },
         {
           "page": 11,
           "file": "img_p11_4.png",
           "relativePath": "/images/RiskManagement/ch01/img_p11_4.png",
           "figureRef": "Figure 11-4",
-          "index": 4
+          "index": 4,
+          "placements": [
+            {
+              "page": 11,
+              "bbox": [
+                280.3879089355469,
+                257.3486328125,
+                541.7459716796875,
+                400.6448974609375
+              ]
+            }
+          ]
         },
         {
           "page": 11,
           "file": "img_p11_5.png",
           "relativePath": "/images/RiskManagement/ch01/img_p11_5.png",
           "figureRef": "Figure 11-5",
-          "index": 5
+          "index": 5,
+          "placements": [
+            {
+              "page": 11,
+              "bbox": [
+                249.7459259033203,
+                447.50909423828125,
+                511.10394287109375,
+                672.8177490234375
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "chapter": "ch02",
-      "startPage": 12,
-      "endPage": 12,
-      "images": []
-    },
-    {
-      "chapter": "ch03",
       "startPage": 13,
-      "endPage": 17,
-      "images": []
-    },
-    {
-      "chapter": "ch04",
-      "startPage": 18,
       "endPage": 18,
       "images": []
     },
     {
-      "chapter": "ch05",
+      "chapter": "ch03",
       "startPage": 19,
-      "endPage": 32,
+      "endPage": 33,
       "images": [
         {
           "page": 24,
           "file": "img_p24_1.png",
-          "relativePath": "/images/RiskManagement/ch05/img_p24_1.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p24_1.png",
           "figureRef": "Figure 24-1",
-          "index": 1
+          "index": 1,
+          "placements": [
+            {
+              "page": 24,
+              "bbox": [
+                188.8206024169922,
+                44.9522705078125,
+                409.82061767578125,
+                239.9522705078125
+              ]
+            }
+          ]
         },
         {
           "page": 24,
           "file": "img_p24_2.png",
-          "relativePath": "/images/RiskManagement/ch05/img_p24_2.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p24_2.png",
           "figureRef": "Figure 24-2",
-          "index": 2
+          "index": 2,
+          "placements": [
+            {
+              "page": 24,
+              "bbox": [
+                351.8205871582031,
+                69.9522705078125,
+                430.8205871582031,
+                196.9522705078125
+              ]
+            }
+          ]
         },
         {
           "page": 27,
           "file": "img_p27_3.png",
-          "relativePath": "/images/RiskManagement/ch05/img_p27_3.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p27_3.png",
           "figureRef": "Figure 27-3",
-          "index": 3
+          "index": 3,
+          "placements": [
+            {
+              "page": 27,
+              "bbox": [
+                120.90625,
+                45.20220947265625,
+                490.09375,
+                289.5406188964844
+              ]
+            }
+          ]
         },
         {
           "page": 27,
           "file": "img_p27_4.png",
-          "relativePath": "/images/RiskManagement/ch05/img_p27_4.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p27_4.png",
           "figureRef": "Figure 27-4",
-          "index": 4
+          "index": 4,
+          "placements": [
+            {
+              "page": 27,
+              "bbox": [
+                157.375,
+                326.24066162109375,
+                453.625,
+                573.7406616210938
+              ]
+            }
+          ]
         },
         {
           "page": 30,
           "file": "img_p30_5.png",
-          "relativePath": "/images/RiskManagement/ch05/img_p30_5.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p30_5.png",
           "figureRef": "Figure 30-5",
-          "index": 5
+          "index": 5,
+          "placements": [
+            {
+              "page": 30,
+              "bbox": [
+                65.625,
+                45.2022705078125,
+                546.375,
+                419.4522705078125
+              ]
+            }
+          ]
         },
         {
           "page": 31,
           "file": "img_p31_6.png",
-          "relativePath": "/images/RiskManagement/ch05/img_p31_6.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p31_6.png",
           "figureRef": "Figure 31-6",
-          "index": 6
+          "index": 6,
+          "placements": [
+            {
+              "page": 31,
+              "bbox": [
+                53.68927001953125,
+                45.2022705078125,
+                558.3106689453125,
+                309.35003662109375
+              ]
+            }
+          ]
+        },
+        {
+          "page": 33,
+          "file": "img_p33_7.png",
+          "relativePath": "/images/RiskManagement/ch03/img_p33_7.png",
+          "figureRef": "Figure 33-7",
+          "index": 7,
+          "placements": [
+            {
+              "page": 33,
+              "bbox": [
+                53.750030517578125,
+                288.23028564453125,
+                557.25,
+                493.63104248046875
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "chapter": "ch04",
+      "startPage": 34,
+      "endPage": 38,
+      "images": []
+    },
+    {
+      "chapter": "ch05",
+      "startPage": 39,
+      "endPage": 43,
+      "images": [
+        {
+          "page": 41,
+          "file": "img_p41_1.png",
+          "relativePath": "/images/RiskManagement/ch05/img_p41_1.png",
+          "figureRef": "Figure 41-1",
+          "index": 1,
+          "placements": [
+            {
+              "page": 41,
+              "bbox": [
+                54.25,
+                242.7835693359375,
+                557.75,
+                515.6392211914062
+              ]
+            }
+          ]
         }
       ]
     },
     {
       "chapter": "ch06",
-      "startPage": 33,
-      "endPage": 33,
-      "images": [
-        {
-          "page": 33,
-          "file": "img_p33_1.png",
-          "relativePath": "/images/RiskManagement/ch06/img_p33_1.png",
-          "figureRef": "Figure 33-1",
-          "index": 1
-        }
-      ]
-    },
-    {
-      "chapter": "ch07",
-      "startPage": 34,
-      "endPage": 37,
-      "images": []
-    },
-    {
-      "chapter": "ch08",
-      "startPage": 38,
-      "endPage": 38,
-      "images": []
-    },
-    {
-      "chapter": "ch09",
-      "startPage": 39,
-      "endPage": 42,
-      "images": [
-        {
-          "page": 41,
-          "file": "img_p41_1.png",
-          "relativePath": "/images/RiskManagement/ch09/img_p41_1.png",
-          "figureRef": "Figure 41-1",
-          "index": 1
-        }
-      ]
-    },
-    {
-      "chapter": "ch10",
-      "startPage": 43,
-      "endPage": 43,
-      "images": []
-    },
-    {
-      "chapter": "ch11",
       "startPage": 44,
-      "endPage": 47,
-      "images": []
-    },
-    {
-      "chapter": "ch12",
-      "startPage": 48,
       "endPage": 49,
       "images": []
     },
     {
-      "chapter": "ch13",
+      "chapter": "ch07",
       "startPage": 50,
-      "endPage": 52,
+      "endPage": 53,
       "images": [
         {
           "page": 50,
           "file": "img_p50_1.png",
-          "relativePath": "/images/RiskManagement/ch13/img_p50_1.png",
+          "relativePath": "/images/RiskManagement/ch07/img_p50_1.png",
           "figureRef": "Figure 50-1",
-          "index": 1
+          "index": 1,
+          "placements": [
+            {
+              "page": 50,
+              "bbox": [
+                190.513427734375,
+                447.8582763671875,
+                446.513427734375,
+                684.6212768554688
+              ]
+            }
+          ]
         },
         {
           "page": 52,
           "file": "img_p52_2.png",
-          "relativePath": "/images/RiskManagement/ch13/img_p52_2.png",
+          "relativePath": "/images/RiskManagement/ch07/img_p52_2.png",
           "figureRef": "Figure 52-2",
-          "index": 2
+          "index": 2,
+          "placements": [
+            {
+              "page": 52,
+              "bbox": [
+                196.27813720703125,
+                43.683868408203125,
+                414.51751708984375,
+                257.67437744140625
+              ]
+            }
+          ]
         }
       ]
     },
     {
-      "chapter": "ch14",
-      "startPage": 53,
-      "endPage": 53,
-      "images": []
-    },
-    {
-      "chapter": "ch15",
+      "chapter": "ch08",
       "startPage": 54,
-      "endPage": 56,
+      "endPage": 80,
       "images": [
         {
           "page": 54,
           "file": "img_p54_1.png",
-          "relativePath": "/images/RiskManagement/ch15/img_p54_1.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p54_1.png",
           "figureRef": "Figure 54-1",
-          "index": 1
+          "index": 1,
+          "placements": [
+            {
+              "page": 54,
+              "bbox": [
+                356.50360107421875,
+                262.81610107421875,
+                501.28814697265625,
+                448.4849853515625
+              ]
+            }
+          ]
         },
         {
           "page": 54,
           "file": "img_p54_2.png",
-          "relativePath": "/images/RiskManagement/ch15/img_p54_2.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p54_2.png",
           "figureRef": "Figure 54-2",
-          "index": 2
+          "index": 2,
+          "placements": [
+            {
+              "page": 54,
+              "bbox": [
+                227.76609802246094,
+                237.22891235351562,
+                371.6304931640625,
+                422.3419189453125
+              ]
+            }
+          ]
         },
         {
           "page": 54,
           "file": "img_p54_3.png",
-          "relativePath": "/images/RiskManagement/ch15/img_p54_3.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p54_3.png",
           "figureRef": "Figure 54-3",
-          "index": 3
+          "index": 3,
+          "placements": [
+            {
+              "page": 54,
+              "bbox": [
+                160.888427734375,
+                212.73880004882812,
+                304.986572265625,
+                398.6682434082031
+              ]
+            }
+          ]
         },
         {
           "page": 54,
           "file": "img_p54_4.png",
-          "relativePath": "/images/RiskManagement/ch15/img_p54_4.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p54_4.png",
           "figureRef": "Figure 54-4",
-          "index": 4
+          "index": 4,
+          "placements": [
+            {
+              "page": 54,
+              "bbox": [
+                106.65279388427734,
+                199.5089569091797,
+                261.05535888671875,
+                392.9874572753906
+              ]
+            }
+          ]
         },
         {
           "page": 56,
           "file": "img_p56_5.png",
-          "relativePath": "/images/RiskManagement/ch15/img_p56_5.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p56_5.png",
           "figureRef": "Figure 56-5",
-          "index": 5
-        }
-      ]
-    },
-    {
-      "chapter": "ch16",
-      "startPage": 57,
-      "endPage": 80,
-      "images": [
-        {
-          "page": 60,
-          "file": "img_p60_1.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p60_1.png",
-          "figureRef": "Figure 60-1",
-          "index": 1
+          "index": 5,
+          "placements": [
+            {
+              "page": 56,
+              "bbox": [
+                107.0,
+                238.4022216796875,
+                505.0,
+                457.88128662109375
+              ]
+            }
+          ]
         },
         {
           "page": 60,
-          "file": "img_p60_2.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p60_2.png",
-          "figureRef": "Figure 60-2",
-          "index": 2
+          "file": "img_p60_6.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p60_6.png",
+          "figureRef": "Figure 60-6",
+          "index": 6,
+          "placements": [
+            {
+              "page": 60,
+              "bbox": [
+                131.50941467285156,
+                161.37387084960938,
+                334.39007568359375,
+                333.4726257324219
+              ]
+            }
+          ]
         },
         {
           "page": 60,
-          "file": "img_p60_3.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p60_3.png",
-          "figureRef": "Figure 60-3",
-          "index": 3
+          "file": "img_p60_7.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p60_7.png",
+          "figureRef": "Figure 60-7",
+          "index": 7,
+          "placements": [
+            {
+              "page": 60,
+              "bbox": [
+                150.39830017089844,
+                318.0816650390625,
+                353.2789611816406,
+                515.3656005859375
+              ]
+            }
+          ]
         },
         {
           "page": 60,
-          "file": "img_p60_4.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p60_4.png",
-          "figureRef": "Figure 60-4",
-          "index": 4
+          "file": "img_p60_8.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p60_8.png",
+          "figureRef": "Figure 60-8",
+          "index": 8,
+          "placements": [
+            {
+              "page": 60,
+              "bbox": [
+                286.2106628417969,
+                236.06240844726562,
+                489.09130859375,
+                346.5973815917969
+              ]
+            }
+          ]
+        },
+        {
+          "page": 60,
+          "file": "img_p60_9.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p60_9.png",
+          "figureRef": "Figure 60-9",
+          "index": 9,
+          "placements": [
+            {
+              "page": 60,
+              "bbox": [
+                262.3106384277344,
+                382.9076843261719,
+                465.1912841796875,
+                558.50439453125
+              ]
+            }
+          ]
         },
         {
           "page": 62,
-          "file": "img_p62_5.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p62_5.png",
-          "figureRef": "Figure 62-5",
-          "index": 5
+          "file": "img_p62_10.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p62_10.png",
+          "figureRef": "Figure 62-10",
+          "index": 10,
+          "placements": [
+            {
+              "page": 62,
+              "bbox": [
+                126.0,
+                44.9522705078125,
+                486.0,
+                113.2022705078125
+              ]
+            }
+          ]
         },
         {
           "page": 62,
-          "file": "img_p62_6.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p62_6.png",
-          "figureRef": "Figure 62-6",
-          "index": 6
+          "file": "img_p62_11.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p62_11.png",
+          "figureRef": "Figure 62-11",
+          "index": 11,
+          "placements": [
+            {
+              "page": 62,
+              "bbox": [
+                126.0,
+                222.2022705078125,
+                486.0,
+                360.2022705078125
+              ]
+            }
+          ]
         },
         {
           "page": 62,
-          "file": "img_p62_7.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p62_7.png",
-          "figureRef": "Figure 62-7",
-          "index": 7
+          "file": "img_p62_12.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p62_12.png",
+          "figureRef": "Figure 62-12",
+          "index": 12,
+          "placements": [
+            {
+              "page": 62,
+              "bbox": [
+                126.0,
+                453.7022705078125,
+                486.0,
+                662.9522705078125
+              ]
+            }
+          ]
         },
         {
           "page": 65,
-          "file": "img_p65_8.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p65_8.png",
-          "figureRef": "Figure 65-8",
-          "index": 8
+          "file": "img_p65_13.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p65_13.png",
+          "figureRef": "Figure 65-13",
+          "index": 13,
+          "placements": [
+            {
+              "page": 65,
+              "bbox": [
+                167.74757385253906,
+                122.18351745605469,
+                444.25244140625,
+                345.2659912109375
+              ]
+            }
+          ]
         },
         {
           "page": 66,
-          "file": "img_p66_9.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p66_9.png",
-          "figureRef": "Figure 66-9",
-          "index": 9
+          "file": "img_p66_14.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p66_14.png",
+          "figureRef": "Figure 66-14",
+          "index": 14,
+          "placements": [
+            {
+              "page": 66,
+              "bbox": [
+                148.0,
+                45.2022705078125,
+                464.0,
+                251.64910888671875
+              ]
+            }
+          ]
         },
         {
           "page": 69,
-          "file": "img_p69_10.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p69_10.png",
-          "figureRef": "Figure 69-10",
-          "index": 10
+          "file": "img_p69_15.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p69_15.png",
+          "figureRef": "Figure 69-15",
+          "index": 15,
+          "placements": [
+            {
+              "page": 69,
+              "bbox": [
+                62.125,
+                426.75830078125,
+                548.875,
+                610.50830078125
+              ]
+            }
+          ]
         },
         {
           "page": 70,
-          "file": "img_p70_11.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p70_11.png",
-          "figureRef": "Figure 70-11",
-          "index": 11
+          "file": "img_p70_16.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p70_16.png",
+          "figureRef": "Figure 70-16",
+          "index": 16,
+          "placements": [
+            {
+              "page": 70,
+              "bbox": [
+                109.5,
+                212.1022186279297,
+                502.5,
+                423.92718505859375
+              ]
+            }
+          ]
         },
         {
           "page": 71,
-          "file": "img_p71_12.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p71_12.png",
-          "figureRef": "Figure 71-12",
-          "index": 12
+          "file": "img_p71_17.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p71_17.png",
+          "figureRef": "Figure 71-17",
+          "index": 17,
+          "placements": [
+            {
+              "page": 71,
+              "bbox": [
+                96.88406372070312,
+                45.20228576660156,
+                515.1160278320312,
+                278.7808837890625
+              ]
+            }
+          ]
         },
         {
           "page": 72,
-          "file": "img_p72_13.png",
-          "relativePath": "/images/RiskManagement/ch16/img_p72_13.png",
-          "figureRef": "Figure 72-13",
-          "index": 13
+          "file": "img_p72_18.png",
+          "relativePath": "/images/RiskManagement/ch08/img_p72_18.png",
+          "figureRef": "Figure 72-18",
+          "index": 18,
+          "placements": [
+            {
+              "page": 72,
+              "bbox": [
+                170.04296875,
+                45.2022705078125,
+                441.95703125,
+                262.8790283203125
+              ]
+            }
+          ]
         }
       ]
     }

@@ -1,4 +1,3 @@
-Chapter 27, Forecasts
 In rare situations where observations have been missing for extended periods of time (i.e., more than one
 TAF cycle of six hours) and the total observation concept cannot provide sufficient information, the TAF
 may be suspended by the use of NIL TAF.
@@ -44,8 +43,9 @@ Example:
 TAF AMD
 KCOE 150202Z 1502/1524 text
 AMD LTD TO CLD VIS AND WIND 1505-1518=
-
 Chapter 27, Forecasts
+27-21
+
 The amended forecast indicates that amendments will only be issued for wind, visibility, and clouds,
 between the 15th day of the month at 0500Z and the 15th day of the month at 1800Z.
 An amendment includes forecasts for all appropriate TAF elements, even those not reported when the
@@ -80,12 +80,14 @@ and 18 hours in the future.
 These forecasts are presented on regional maps as well as a CONUS map. The regional maps provide more
 detail than the CONUS map. The NWS plans to expand the coverage beyond the CONUS.
 Complete product information can be found on the AWC’s website.
-
 Chapter 27, Forecasts
+27-22
+
 Figure 27-1. Aviation Surface Forecast Example
 Figure 27-2. Aviation Clouds Forecast Example
-
 Chapter 27, Forecasts
+27-23
+
 27.6 Area Forecasts (FA)
 An FA is an abbreviated plain language (text) forecast concerning the occurrence or expected occurrence
 of specified en route weather phenomena. FAs cover an 18- to 24-hour period, depending on the region, are
@@ -97,22 +99,29 @@ NWS’ GFA Tool (see Chapter 28) and the Aviation Surface Forecast and Aviation 
 (see Section 27.5). The NWS will continue producing text FAs for Alaska for the foreseeable future.
 27.6.1 FA Standardization
 Alaska FAs follow these standards:
+•
 All heights or altitudes are referenced to MSL, unless otherwise noted (i.e., prefaced by AGL or
 CIG), and annotated using the height in hundreds of feet, consisting of three digits (e.g., 040). For
 heights at or above 18,000 ft, the level is preceded by “FL” to represent flight levels (e.g., FL180).
 Tops are always referenced to MSL.
+•
 References to latitude and longitude are in whole degrees and minutes following the model:
 Nnn[nn] or Snn[nn], Wnnn[nn], or Ennn[nn] with a space between latitude and longitude and a
 hyphen between successive points (e.g., N3106 W07118 – N3011 W7209).
+•
 Messages are prepared in abbreviated plain language using contractions from Order JO 7340.2,
 Contractions, for domestic products, and from ICAO Doc 8400, ICAO Abbreviations and Codes,
 for products issued for Oceanic FIRs. A limited number of non-abbreviated words, geographical
 names, and numerical values of a self-explanatory nature may also be used.
+•
 Weather and obstructions to visibility are described using the weather abbreviations for surface
 weather observations (METAR/SPECI) (see Section 24.3).
 27.6.2 FA Issuance Schedule
 FAs for Alaska are scheduled products issued at the times listed in Table 27-8 below.
 Table 27-8. FA Issuance Schedule
+Note: DT—During Alaska Daylight Time; ST—During Alaska Standard Time;
+UTC—Coordinated Universal Time.
+Chapter 27, Forecasts
 Alaska
 (UTC)
 1st Issuance
@@ -123,10 +132,8 @@ Alaska
 2015 (DT)/2115 (ST)
 4th Issuance
 None
-Note: DT—During Alaska Daylight Time; ST—During Alaska Standard Time;
-UTC—Coordinated Universal Time.
+27-24
 
-Chapter 27, Forecasts
 27.6.3 FA Amendments and Corrections
 Amendments are issued whenever the weather significantly improves or deteriorates based upon the
 judgment of the forecaster. AMD is included after the date/time group. The date/time group on the WMO
@@ -144,69 +151,87 @@ during the first 18 hours of the forecast period.
 2. Significant Clouds and Weather: A description of the significant clouds and weather for
 each geographical zone during the first 12 hours of the forecast period, including the
 following elements:
+•
 AIRMET information for IFR ceiling and visibility, mountain obscuration, and strong surface
 winds.
+•
 Cloud amount (SCT, BKN, or OVC) with bases and tops.
+•
 Visibility below 7 SM and obstruction(s) to visibility.
+•
 Precipitation and thunderstorms.
+•
 Surface wind greater than 20 kt.
+•
 Mountain pass conditions using categorical terms (for selected zones only).
+•
 Categorical outlook (VFR, MVFR, and IFR) for 12 to 18 hours.
 3. Icing and Freezing Level: A description of expected icing conditions, including the
 following elements:
+•
 AIRMET information for icing and freezing precipitation.
+•
 Icing not meeting SIGMET or AIRMET criteria during the six-hour to 12-hour period.
+•
 Freezing level.
+•
 If no significant icing is forecast, NIL SIG will be entered, followed by the freezing level.
 4. Turbulence: A description of expected turbulence conditions, including the following
 elements:
+•
 AIRMET information for turbulence or LLWS.
+•
 Turbulence not meeting SIGMET or AIRMET criteria during the six-hour to 12-hour period.
+•
 If no significant turbulence is forecast, NIL SIG will be entered.
-
 Chapter 27, Forecasts
+27-25
+
 Figure 27-3. AAWU Flight Advisory and FA Zones—Alaska
 Table 27-9. AAWU Area Forecast (FA) Zones—Alaska
 Arctic Coast Coastal
-Southern Southeast Alaska
 North Slopes of the Brooks Range
-Coastal Southeast Alaska
 Upper Yukon Valley
-Eastern Gulf Coast
 Koyukuk and Upper Kobuk Valley
-Copper River Basin
 Northern Seward Peninsula–Lower Kobuk
 Valley
-Cook Inlet–Susitna Valley
 Southern Seward Peninsula–Eastern Norton
 Sound
-Central Gulf Coast
 Tanana Valley
-Kodiak Island
 Lower Yukon Valley
+Kuskokwim Valley
+Yukon-Kuskokwim Delta
+Bristol Bay
+Lynn Canal and Glacier Bay
+Central Southeast Alaska
+Chapter 27, Forecasts
+Southern Southeast Alaska
+Coastal Southeast Alaska
+Eastern Gulf Coast
+Copper River Basin
+Cook Inlet–Susitna Valley
+Central Gulf Coast
+Kodiak Island
 Alaska Peninsula–Port Heiden to
 Unimak Pass
-Kuskokwim Valley
 Unimak Pass to Adak
-Yukon-Kuskokwim Delta
 St. Lawrence Island-Bering Sea Coast
-Bristol Bay
 Adak to Attu
-Lynn Canal and Glacier Bay
 Pribilof Islands and Southeast Bering
 Sea
-Central Southeast Alaska
+27-26
 
-Chapter 27, Forecasts
 27.6.4.2 FA—Alaska Example
 FAAK47 PAWU 222010 (ICAO product header)
 FA7H (NWS AWIPS Communication header)
 JNUH FA 222015 (Area Forecast region, product type, issuance date/time)
 EASTERN GULF COAST AND SE AK...
 .
+AIRMETS VALID UNTIL 230415
 CB IMPLY POSSIBLE SEV OR GREATER TURB SEV ICE LLWS AND IFR CONDS.
 NON MSL HEIGHTS NOTED BY AGL OR CIG.
 .
+SYNOPSIS VALID UNTIL 231400
 989 MB LOW 275 NM SE KODIAK IS WILL MOV SE WARD TO ABOUT 350 NM S
 PASI BY 14Z WHILE FILLING TO 998 MB. ASSOCD OCFNT ARCING E AND SE FM
 LOW WILL MOV ONSHR SE AK AND DSIPT BY END OF PD.
@@ -244,12 +269,18 @@ AFT 02Z OUTER CST PAHY S ISOL MOD ICEIC 040-100. FZLVL 025.
 27.7 Alaska Graphical Forecasts
 The NWS AAWU produces a series of graphical forecasts to complement the text-based FA for Alaska
 (see Section 27.6.4.1). These forecasts are available from the AAWU’s website. Forecasts include:
+•
 Flying Weather,
+•
 Surface Forecast,
+•
 Icing Forecast,
-
 Chapter 27, Forecasts
+27-27
+
+•
 Turbulence Forecast, and
+•
 Convective Outlook (seasonal product and only issued from May 1 through September 30).
 Additional products may be available. Some of these may be labeled experimental; thus, the contents and
 format are subject to change.
@@ -269,8 +300,9 @@ pressure, areas of high and low pressure, fronts and troughs, and precipitation.
 surface weather that can be expected within one hour of the designated time.
 Areas of high pressure are depicted along with the maximum sea level pressure. Areas of low pressure are
 depicted with the minimum sea level pressure. The mean 12-hour motion of low-pressure systems is also
-
 Chapter 27, Forecasts
+27-28
+
 shown. Areas of occasional or continuous precipitation and/or fog are represented by shaded regions (green
 for precipitation, yellow for fog), whereas isolated or scattered precipitation is not shaded. This product is
 issued every six hours with forecasts valid for 00Z, 06Z, 12Z, and 18Z.
@@ -282,8 +314,9 @@ Freezing level heights are blue-filled contours (every 2,000 ft). Areas of isola
 icing are shaded yellow, areas of occasional (OCNL) or continuous (CONS) moderate icing are shaded
 orange, and red is used for moderate with isolated severe (SEV) icing (refer to SIGMETs for occasional or
 greater severe icing). These forecasts are issued every eight hours and amended as needed.
-
 Chapter 27, Forecasts
+27-29
+
 Figure 27-6. Alaska Icing Forecast Example
 27.7.4 Alaska Turbulence Forecast
 The Turbulence Forecast graphic (see Figure 27-7) depicts areas of significant turbulence at specified valid
@@ -293,8 +326,9 @@ continuous (CONS) moderate turbulence are shaded orange, and red is used for mod
 severe (SEV) turbulence (refer to SIGMETs for occasional or greater severe turbulence).
 Separate graphics are provided for low-level (defined for this product as FL180 and below) and high-level
 (defined for this product as above FL180) turbulence.
-
 Chapter 27, Forecasts
+27-30
+
 Figure 27-7. Alaska Turbulence Forecast Example
 27.7.5 Alaska Convective Outlook
 The Convective Outlook graphic (see Figure 27-8) is a seasonal product that provides information about
@@ -303,8 +337,9 @@ development of towering cumulus and thunderstorms.
 Locations of towering cumulus are depicted in yellow. Locations of isolated (ISOL), scattered (SCT), and
 widespread (WDSPRD) thunderstorms (TS) are depicted in orange, red, and dark red, respectively. Cloud
 bases and tops are also depicted.
-
 Chapter 27, Forecasts
+27-31
+
 Figure 27-8. Alaska Convective Outlook
 27.8 World Area Forecast System (WAFS)
 ICAO’s WAFS supplies aviation users with global aeronautical meteorological en route forecasts suitable
@@ -316,6 +351,7 @@ Kingdom.
 27.8.1 WAFS Forecasts
 Both WAFC Washington and WAFC London issue the following WAFS forecasts in accordance with
 ICAO Annex 3, Meteorological Service for International Air Navigation.
+•
 Global forecasts of:
 o Upper wind and temperature (i.e., wind and temperature aloft, which is also issued in chart
 form for select areas);
@@ -323,12 +359,15 @@ o Upper air humidity;
 o Geopotential altitude of FLs;
 o FL and temperature of tropopause (i.e., tropopause forecast);
 o Direction, speed, and FL of maximum wind;
-
 Chapter 27, Forecasts
+27-32
+
 o Cumulonimbus clouds;
 o Icing; and
 o Turbulence.
+•
 Global forecasts of SIGWX (i.e., High-Level SIGWX forecasts) (see Section 27.9.3).
+•
 Select regional areas of Mid-Level SIGWX forecasts (see Section 27.9.2).
 27.8.1.1 Issuance
 The WAFS forecasts of upper wind, temperature, and humidity; direction, speed, and FL of maximum
@@ -351,11 +390,13 @@ with the exception that wind speed for points in the Southern Hemisphere is flip
 points do not correspond to any airports or reference points with names or identifiers.
 WAFS global wind and temperature forecasts are provided in grid point format (e.g., computer format) for
 use in flight-planning systems. Chart format is also provided on the AWC’s website.
-
 Chapter 27, Forecasts
+27-33
+
 Figure 27-9. WAFS Wind and Temperature Six-Hour Forecast at FL390—Example
-
 Chapter 27, Forecasts
+27-34
+
 27.8.1.3 Humidity, Maximum Wind, and Tropopause Forecasts
 No specific charts are issued for global upper air humidity, maximum wind, height of tropopause, and
 altitude of FLs. These products are provided in grid point format (e.g., computer format) for use in
@@ -387,8 +428,9 @@ The Low-Level SIGWX Charts (see Figure 27-10) provide an overview of selected av
 hazards up to FL240 at 12 and 24 hours into the future.
 The forecast domain covers the CONUS and the coastal waters. Each depicts a “snapshot” of weather
 expected at the specified valid time.
-
 Chapter 27, Forecasts
+27-35
+
 Figure 27-10. 12-Hour Low-Level SIGWX Chart—Example
 27.9.1.1 Issuance
 Low-Level SIGWX Charts are issued four times per day by the NWS AWC (see Table 27-10). Two charts
@@ -418,8 +460,9 @@ Depending on the website or service provider, the Low-Level SIGWX Charts may be 
 Surface Prog Charts to create a four-panel presentation. For example, the left two panels represent the
 12-hour forecast interval and the right two panels represent the 24-hour forecast interval. The upper two
 panels depict the SIGWX Charts and the lower two panels the Surface Prog.
-
 Chapter 27, Forecasts
+27-36
+
 Note: The colors used in the Low-Level SIGWX Charts may vary
 depending on the website or service provider.
 Figure 27-11. Low-Level SIGWX Chart Symbols
@@ -432,8 +475,9 @@ Areas of moderate or greater turbulence are enclosed by bold, dashed, brown line
 Turbulence intensities are identified by standard symbols (see Figure 27-11). The vertical extent of
 turbulence layers is specified by top and base heights separated by a slant. The intensity symbols and height
 information may be located within or adjacent to the forecasted areas of turbulence. If located adjacent to
-
 Chapter 27, Forecasts
+27-37
+
 an area, an arrow will point to the associated area. Turbulence height is depicted by two numbers separated
 by a solidus (/). For example, an area on the chart with turbulence indicated as 240/100 indicates that the
 turbulence can be expected from the top at FL240 to the base at 10,000 ft MSL. When the base height is
@@ -450,8 +494,9 @@ are drawn to the highest freezing level. For example, 80 identifies the 8,000-ft
 The freezing level for locations between lines is determined by interpolation. For example, the freezing
 level midway between the 4,000 and 8,000-ft lines is 6,000 ft.
 Figure 27-14. Low-Level SIGWX Chart Freezing Level Forecast—Example
-
 Chapter 27, Forecasts
+27-38
+
 Multiple freezing levels occur when the temperature is 0°C at more than one altitude aloft (see Figure
 27-15). Multiple freezing levels can be forecasted on the Low-Level SIGWX Prog Charts in situations
 where the temperature is below freezing (negative) at the surface with multiple freezing levels aloft.
@@ -471,26 +516,28 @@ The Mid-Level SIGWX Chart provides a forecast of significant en route weather ph
 of FLs from 10,000 ft MSL to FL450. The chart depicts a “snapshot” of weather expected at the specified
 valid time. It can be used by airline dispatchers for flight planning and weather briefings before departure
 and by flightcrew members during flight.
-
 Chapter 27, Forecasts
+27-39
+
 Figure 27-16. Mid-Level SIGWX Chart—Example
 27.9.2.1 Issuance
 The AWC in Kansas City, MO, has the responsibility, as part of the WAFC Washington, to provide global
 weather forecasts of SIGWX phenomena. The AWC issues a 24-hour Mid-Level SIGWX Chart, four times
 daily, for the North Atlantic Ocean Region (see Table 27-11).
 Table 27-11. Mid-Level SIGWX Chart Issuance Schedule
-Issued (UTC)
-Valid (UTC)
-0000 (next day)
-0600 (next day)
-1200 (next day)
 27.9.2.2 Content
 The Mid-Level SIGWX Chart depicts numerous weather elements that can be hazardous to aviation. The
 weather elements and their presentation are the same as in the High-Level SIGWX Charts
 (see Section 27.9.3) except for the addition of non-convective clouds with moderate or severe icing and/or
 moderate or severe turbulence. See Section 27.9.3.2 for details on these other weather elements.
-
 Chapter 27, Forecasts
+Issued (UTC)
+Valid (UTC)
+0000 (next day)
+0600 (next day)
+1200 (next day)
+27-40
+
 27.9.2.2.1 Non-Convective Clouds with Moderate or Severe Icing and/or Moderate or
 Severe Turbulence
 Areas of non-convective clouds with moderate or severe icing and/or moderate or severe turbulence are
@@ -503,10 +550,10 @@ The identification box uses the standard icing symbol (see Table 27-12). The ver
 layer is specified by top and base heights. When the bases extend below 10,000 ft MSL, they are identified
 with XXX.
 Table 27-12. Icing and Turbulence Intensity Symbols
-Intensity
 Icing
-Symbol
 Turbulence
+Intensity
+Symbol
 Symbol
 Moderate
 Severe
@@ -519,14 +566,16 @@ implementation of new WAFS SIGWX forecasts, which will have 3-hour time steps (v
 High-Level SIGWX forecasts are provided for the en route portion of international flights. These products
 are used by airline dispatchers for flight planning and weather briefings before departure and by flightcrew
 members during flight.
-
 Chapter 27, Forecasts
+27-41
+
 Figure 27-17. High-Level SIGWX Chart—Example
 27.9.3.1 Issuance
 In accordance with the WAFS of ICAO, High-Level SIGWX forecasts are provided for the en route portion
 of international flights.
-
 Chapter 27, Forecasts
+27-42
+
 High-Level SIGWX forecasts are issued as a global data set in digital format by two WAFCs, one at the
 NWS AWC and the other at the United Kingdom’s Meteorological Office. Each center produces a global
 data set of SIGWX that is then made available (displayed) in chart form for different areas of the globe.
@@ -534,11 +583,6 @@ These charts are available on the AWC’s website.
 Corrections are issued for format errors or missing information. These charts are not amended.
 Table 27-13 provides the issuance schedule.
 Table 27-13. High-Level SIGWX Forecast Issuance Schedule
-Issued (UTC)
-Valid (UTC)
-0000 (next day)
-0600 (next day)
-1200 (next day)
 27.9.3.2 Content
 27.9.3.2.1 Thunderstorms and Cumulonimbus Clouds
 The abbreviation CB is only included where it refers to the expected occurrence of an area of widespread
@@ -563,8 +607,14 @@ turbulence, and hail).
 Forecast areas of moderate or severe turbulence (see Figure 27-18) associated with wind shear zones and/or
 mountain waves are enclosed by bold yellow dashed lines. Intensities are identified by standard symbols
 (see Table 27-12).
-
 Chapter 27, Forecasts
+Issued (UTC)
+Valid (UTC)
+0000 (next day)
+0600 (next day)
+1200 (next day)
+27-43
+
 The vertical extent of turbulence layers is specified by top and base heights, separated by a horizontal line.
 Turbulence bases that extend below FL250 are identified with XXX.
 Convective or thunderstorm turbulence is not identified.
@@ -584,12 +634,9 @@ defined as the vertical depths to the 80-kt wind field above and below the jet s
 depth information is placed at the maximum speed point only, normally at one point on each jet stream.
 When the jet stream is very long and there are several wind maxima, then each maximum should include
 forecasts of the vertical depth.
-
 Chapter 27, Forecasts
-Forecast maximum speeds of 100 kt at FL310 at one location
-and 120 kt at FL290 at another location. At the latter location,
-the base of the 80-kt wind field is FL210, and the top of the
-80-kt wind field is FL340.
+27-44
+
 Figure 27-19. High-Level SIGWX Chart Jet Stream—Example
 27.9.3.2.5 Tropopause Heights
 Tropopause heights are plotted at selected locations on the chart. They are enclosed by rectangles and
@@ -600,8 +647,13 @@ Figure 27-20. High-Level SIGWX Chart Tropopause Height—Examples
 Tropical cyclones (i.e., with surface wind speed 34 kt or greater) are depicted by the symbol in Figure 27-21
 with the storm’s name positioned adjacent to the symbol. Cumulonimbus clouds meeting chart criteria are
 identified and characterized relative to each storm.
-
 Chapter 27, Forecasts
+Forecast maximum speeds of 100 kt at FL310 at one location
+and 120 kt at FL290 at another location. At the latter location,
+the base of the 80-kt wind field is FL210, and the top of the
+80-kt wind field is FL340.
+27-45
+
 Figure 27-21. High-Level SIGWX Chart Tropical Cyclone—Examples
 27.9.3.2.7 Volcanic Eruption Sites
 Volcanic eruption sites are identified by a trapezoidal symbol depicted in Figure 27-22. The dot on the base
@@ -617,8 +669,9 @@ The AAWU issues the Alaska SIGWX Charts (see Figure 27-23). These charts are iss
 0530 and 1330 UTC during Alaska Standard Time, and 0430 and 1230 UTC during Alaska Daylight Time.
 The 1330/1230 UTC-issued 24-hour SIGWX chart may be updated around 2145/2045 UTC valid at
 1200 UTC the next day.
-
 Chapter 27, Forecasts
+27-46
+
 Figure 27-23. Alaska SIGWX Chart—Example
 27.9.4.1.1 Content
 27.9.4.1.1.1 Surface Pressure Systems and Fronts
@@ -635,8 +688,9 @@ Note: Areas of in-flight icing forecasts are not included in the Alaska SIGWX fo
 Areas of forecast moderate or greater non-convective low-level turbulence are depicted with black dots.
 Turbulence altitudes are not included but can be considered as turbulence that is near the surface as a result
 of wind interactions with the terrain. In most cases, it would be within 6,000 ft above the terrain.
-
 Chapter 27, Forecasts
+27-47
+
 27.9.4.1.1.5 Thunderstorms
 Areas of forecast thunderstorms are depicted with red dots. Thunderstorm areal coverage, cloud bases, and
 tops are not included.
@@ -649,39 +703,51 @@ The Short-Range Surface Prog Charts combine WPC forecasts of fronts, isobars, an
 systems with the NWS’ National Digital Forecast Database (NDFD) digital forecasts from the NWS WFO.
 The Short-Range Surface Prog Forecasts are issued by the WPC in College Park, MD.
 Figure 27-24. NDFD Short-Range Surface Prog Forecast—Example
-
 Chapter 27, Forecasts
+27-48
+
 27.10.1 Content
 27.10.1.1 Precipitation
 The Short-Range Surface Prog Forecast provides precipitation forecasts in the following depiction:
+•
 NDFD Rain (Chance—light green): There is a 25 to less than 55 percent probability of measurable
 rain (≥0.01 in) at the valid time.
+•
 NDFD Rain (Likely—dark green): There is a greater than or equal to 55 percent probability for
 measurable rain (≥0.01 in) at the valid time.
+•
 NDFD Snow (Chance—light blue): There is a 25 to less than 55 percent probability of measurable
 snowfall (≥0.01 in liquid equivalent) at the valid time.
+•
 NDFD Snow (Likely—dark blue): There is a greater than or equal to 55 percent probability of
 measurable snow (≥0.01 in liquid equivalent) at the valid time.
+•
 NDFD Mix (Chance—light purple): There is a 25 to less than 55 percent probability of measurable
 mixed precipitation (≥0.01 in liquid equivalent) at the valid time. “Mix” can refer to precipitation
 where a combination of rain and snow, rain and sleet, or snow and sleet are forecast.
+•
 NDFD Mix (Likely—dark purple): There is a greater than or equal to 55 percent probability of
 measurable mixed precipitation (≥0.01 in liquid equivalent) at the valid time. “Mix” can refer to
 precipitation where a combination of rain and snow, rain and sleet, or snow and sleet are forecast.
+•
 NDFD Ice (Chance—light brown): There is a 25 to less than 55 percent probability of measurable
 freezing rain (≥0.01 in) at the valid time.
+•
 NDFD Ice (Likely—brown): There is a greater than or equal to 55 percent probability of
 measurable freezing rain (≥0.01 in) at the valid time.
+•
 NDFD T-Storm (Chance—red hatching): There is a 25 to less than 55 percent probability of
 thunderstorms at the valid time. Areas are displayed with diagonal red hatching enclosed in a
 red border.
+•
 NDFD T-Storm (Likely and/or Severe—dark red): There is a greater than or equal to 55 percent
 probability of thunderstorms, and/or the potential exists for some storms to reach severe levels at
 the valid time.
 27.10.1.2 Symbols
 Figure 27-25 shows the Surface Prog Forecast symbols.
-
 Chapter 27, Forecasts
+27-49
+
 Figure 27-25. Surface Prog Forecast Symbols
 27.10.1.3 Pressure Systems
 Pressure systems are depicted by pressure centers, troughs, isobars, drylines, tropical waves, tropical
@@ -699,8 +765,9 @@ and upper-air guidance products, valid from model run time (i.e., 00-hour) out t
 (e.g., 340 hours after model run time) depending on the model. Their “Model Analyses and Guidance”
 website (see Figure 27-26) contains a User’s Guide as well as a Product Description Document that provides
 details on the various products.
-
 Chapter 27, Forecasts
+27-50
+
 A User’s Guide, located below the image (lower left), provides descriptions, details, and examples of the
 various products.
 Figure 27-26. NWS NCO Model Analyses and Guidance Website
@@ -717,8 +784,9 @@ Pressure patterns cause and characterize much of the weather. Typically, lows an
 with clouds and precipitation while highs and ridges are associated with fair weather, except in winter when
 valley fog may occur. The location and strength of the jet stream can be viewed at 300 mb, 250 mb,
 and 200 mb levels.
-
 Chapter 27, Forecasts
+27-51
+
 Contours of the height of the 300 mb surface are presented as solid lines. Wind barbs are used to show the
 direction and speed of the wind. Shading is done for wind speeds greater than 70 kt and generally
 represents the jet stream.
@@ -737,27 +805,10 @@ Many constant pressure levels are available for display, depending on the model.
 constant pressure levels contained in Table 27-14. It should be noted that the levels provided on the website
 are only a subset of the levels available from the model that are routinely made available to NWS
 meteorologists and others (e.g., 400 mb, 600 mb).
-
 Chapter 27, Forecasts
+27-52
+
 Table 27-14. Select Constant Pressure Levels from the GFS Model
-Constant Pressure
-Level
-Approximate Altitude
-(MSL)
-925 mb
-2,500
-850 mb
-5,000
-700 mb
-10,000
-500 mb
-18,000
-300 mb
-30,000
-250 mb
-34,000
-200 mb
-39,000
 27.12 Freezing Level Forecast Graphics
 The freezing level forecast graphics provide an initial analysis and forecasts at specified times into the
 future. The forecasts are based on output from NWS computer models. They supplement the forecast
@@ -784,11 +835,33 @@ FIPs will continue to evolve over the coming years with increased model resoluti
 layers, and improvements to the algorithms and/or data sets used to produce the products. Along with these
 improvements may come a change in references to the product update version. Users can find additional
 information on these products and any changes on the AWC’s “Icing” web page.
-
 Chapter 27, Forecasts
+Constant Pressure
+Approximate Altitude
+Level
+(MSL)
+925 mb
+2,500
+850 mb
+5,000
+700 mb
+10,000
+500 mb
+18,000
+300 mb
+30,000
+250 mb
+34,000
+200 mb
+39,000
+27-53
+
 The FIP suite as it appears on the AWC’s website consists of three graphics, including:
+•
 Icing Probability;
+•
 Icing Severity; and
+•
 Icing Severity plus SLD.
 The FIPs are generated for select altitudes from 1,000 ft MSL to FL300. FIPs are available at select forecast
 times through 18 hours.
@@ -826,13 +899,17 @@ through the first three hours, followed by forecasts at three-hour intervals thr
 are available at select altitudes from 1,000 ft MSL through FL450. GTG forecasts are also scaled to three
 ICAO weight class sizes for aircraft, with light-sized aircraft being less than 15,500 lb, heavy-sized aircraft
 being more than 300,000 lb, and medium-sized in between.
-
 Chapter 27, Forecasts
+27-54
+
 GTG does not specifically predict turbulence associated with convective clouds or small-scale local terrain
 features, but it does predict turbulence associated with upper-level clear and mountain wave sources.
 GTG provides three depictions of turbulence:
+•
 CAT,
+•
 MWT, and
+•
 Combined Turbulence (the Combined GTG product depicts the higher of CAT values and MWT
 values at any given point).
 This turbulence product will continue to evolve over the coming years with increased model resolutions,
@@ -868,8 +945,9 @@ guidance to Alaska airports that have AWOS or ASOS observations, but do not have
 The AAG is a decoded plain language forecast valid for six hours and updated hourly.
 Refer to the FAA’s Information for Operators (InFO) 20002, Use of the Experimental Alaskan Aviation
 Guidance (AAG) Weather Product, dated March 25, 2020, for additional information and use of the AAG.
-
 Chapter 27, Forecasts
+27-55
+
 27.16.1.1 AAG Example
 Guidance for: PXXX (Someplace, AK) issued at 0900 UTC 12 Jun 2019
 Forecast period: 0900 to 1000 UTC 12 June 2019
@@ -883,8 +961,11 @@ Weather: -RA BR (light rain, mist)
 27.17 Additional Products for Convection
 This section will describe the following additional thunderstorm forecast products produced by the NWS
 that are of interest to aviation users:
+•
 Convective Outlook,
+•
 TCF, and
+•
 ECFP.
 Note: The National Convective Weather Forecast (NCWF) was retired in 2018.
 27.17.1 Convective Outlook (AC)
@@ -897,8 +978,9 @@ severe weather based on a percentage probability, which varies for time periods 
 and then two probabilistic thresholds for days four through eight. The day one, day two, and day three
 Convective Outlooks also depict areas of general thunderstorms (TSTM). The outlooks in graphical (see
 Figure 27-28) and text formats are available on the SPC’s website. See Figure 27-29 for the legend.
-
 Chapter 27, Forecasts
+27-56
+
 Figure 27-28. Day 1 Categorical Convective Outlook Graphic Example
 Figure 27-29. Categorical Outlook Legend for Days 1-3 Convective Outlook Graphic Example
 27.17.2 Traffic Flow Management (TFM) Convective Forecast (TCF)
@@ -915,8 +997,9 @@ Lines of convection in the TCF include any lines of convective cells meeting the
 minimum):
 1. Composite radar reflectivity of at least 40 dBZ having a length of at least 100 NM;
 2. Linear coverage of 75 percent or greater;
-
 Chapter 27, Forecasts
+27-57
+
 3. Echo tops at or above FL250; and
 4. Forecaster confidence of at least 50 percent (high) that criteria 1, 2, and 3 will be met.
 All four of the threshold criteria listed above for both areas and lines of convection are necessary for
@@ -941,8 +1024,9 @@ weather mitigation strategies within the NAS. It is designed to meet the needs o
 the FAA’s ATCSCC, the FAA’s ARTCC TMUs, and airline and corporate flight operations centers (FOC).
 Figure 27-30 shows an example of a TCF.
 Figure 27-30. TCF Example
-
 Chapter 27, Forecasts
+27-58
+
 27.17.3 Extended Convective Forecast Product (ECFP)
 The ECFP planning tool (see Figure 27-31) is a graphical representation of the forecast probability of
 thunderstorms and is intended to support the long-range planning for convective constraints in the NAS.
@@ -961,11 +1045,15 @@ Figure 27-31. ECFP Example
 The NWS SPC issues severe weather Watch Notification Messages to provide an area threat alert for the
 aviation meteorology community to forecast organized severe thunderstorms that may produce tornadoes,
 large hail, and/or convective damaging winds within the CONUS.
-
 Chapter 27, Forecasts
+27-59
+
 The SPC issues three types of Watch Notification Messages:
+•
 Aviation Watch Notification Message (SAW),
+•
 Public Severe Thunderstorm Watch Notification Message, and
+•
 Public Tornado Watch Notification Message.
 The SAW was formerly known as the Alert Severe Weather Watch Bulletin (AWW), as well as the Severe
 Weather Forecast Alert. The NWS no longer uses these titles or acronym for this product. The NWS uses
@@ -988,8 +1076,9 @@ The SAW product is an approximation of the area in a watch. For the official are
 the corresponding Public Watch product. To illustrate, Figure 27-32 is an example of the Aviation Watch
 (polygon) compared to the Public Watch (shaded). Also, the SAW is easier to communicate verbally over
 the radio and telephone than reciting the entire Public Watch product.
-
 Chapter 27, Forecasts
+27-60
+
 Figure 27-32. Aviation Watch (polygon) Compared to Public Watch (shaded) Example
 The SPC will issue the SAW after the proposed convective watch area has been collaborated with the
 impacted NWS WFOs defining the approximate areal outline of the watch.
@@ -1005,10 +1094,14 @@ state distances will be in nautical miles. Valid times will be in UTC. The watch
 miles. The SAW will contain hail size in inches or half inches (forecaster discretion for tornado watches
 associated with hurricanes) surface and aloft, surface convective wind gusts in knots, maximum cloud tops
 and the Mean Storm Motion Vector, and replacement information, if necessary.
+WWUS30 KWNS 271559
+SAW2
+SPC AWW 271559
 WW 568 TORNADO AR LA MS 271605Z - 280000Z
 AXIS..65 STATUTE MILES EAST AND WEST OF LINE..
-
 Chapter 27, Forecasts
+27-61
+
 45ESE HEZ/NATCHEZ MS/ - 50N TUP/TUPELO MS/
 ..AVIATION COORDS.. 55NM E/W /18WNW MCB - 60E MEM/
 HAIL SURFACE AND ALOFT..3 INCHES. WIND GUSTS..70 KNOTS. MAX TOPS TO 550. MEAN
@@ -1019,64 +1112,71 @@ COMPLETE DEPICTION OF THE WATCH SEE WOUS64 KWNS
 FOR WOU2.
 Table 27-15. Decoding an Aviation Weather Watch Notification Message
 Line(s)
+WWUS30 KWNS 271559
+SAW2
+SPC
+AWW
+WW 568
+TORNADO
+AR LA MS
+271605Z - 280000Z
+AXIS..65 STATUTE MILES EAST AND WEST
+OF A LINE...
+45ESE HEZ/NATCHEZ MS/ - 50N
+TUP/TUPELO MS/
+…AVIATION COORDS..55NM E/W /18WNW MCB
+- 60E MEM/
+HAIL SURFACE AND ALOFT…3 INCHES. WIND
+GUSTS..70 KNOTS. MAX TOPS TO 550.
+8–9
+MEAN STORM MOTION VECTOR 26030.
+(blank line)
+LAT...LON 31369169 34998991 4998762
+(blank line)
+THIS IS AN APPROXIMATION TO THE WATCH
+AREA. FOR A COMPLETE DEPICTION OF THE
+13–15
+WATCH SEE WOUS64 KWNS FOR WOU2.
+27.17.4.2 Public Severe Thunderstorm Watch Notification Message
+The SPC issues a Public Severe Thunderstorm Watch Notification Message when forecasting six or more
+hail events of one inch (quarter-sized) diameter or greater or damaging winds of 50 kt (58 mph) or greater.
+The forecast event minimum threshold is at least two hours over an area of at least 8,000 mi2. Below these
+thresholds, the SPC, in collaboration with affected NWS offices, may issue a watch for smaller areas and
+Chapter 27, Forecasts
 Content
 Description
 Communication header with issuance
 date/time
 NWS product type (SAW) and
 issuance number (2)
-SPC
-AWW
 Issuing office
 Product type
 Issuance date/time
-TORNADO
-AR LA MS
-271605Z - 280000Z
 Watch number
 Watch type
 States affected
 Valid date/time period
-AXIS..65 STATUTE MILES EAST AND WEST
-OF A LINE...
 Watch axis
-45ESE HEZ/NATCHEZ MS/ - 50N
-TUP/TUPELO MS/
 Anchor points
-…AVIATION COORDS..55NM E/W /18WNW MCB
-- 60E MEM/
 Aviation coordinates
-8–9
-HAIL SURFACE AND ALOFT…3 INCHES. WIND
-GUSTS..70 KNOTS. MAX TOPS TO 550.
-MEAN STORM MOTION VECTOR 26030.
 Type, intensity, max tops and mean
 storm motion using standard
 contractions.
-(blank line)
-LAT...LON 31369169 34998991 4998762
 Latitude and longitude coordinates
-(blank line)
-13–15
-THIS IS AN APPROXIMATION TO THE WATCH
-AREA. FOR A COMPLETE DEPICTION OF THE
-WATCH SEE WOUS64 KWNS FOR WOU2.
 Notice that this is an approximation
 of the watch area and for users to
 refer to the referenced product for the
 actual area
-27.17.4.2 Public Severe Thunderstorm Watch Notification Message
-The SPC issues a Public Severe Thunderstorm Watch Notification Message when forecasting six or more
-hail events of one inch (quarter-sized) diameter or greater or damaging winds of 50 kt (58 mph) or greater.
-The forecast event minimum threshold is at least two hours over an area of at least 8,000 mi2. Below these
-thresholds, the SPC, in collaboration with affected NWS offices, may issue a watch for smaller areas and
+27-62
 
-Chapter 27, Forecasts
 for shorter periods of time when conditions warrant, and for convective watches along coastlines, near the
 Canadian border, and near the Mexican border.
 A Public Severe Thunderstorm Watch Notification Message contains three bulleted blocks of information:
+•
 The geographic area of the watch,
+•
 The valid time of the watch, and
+•
 A description of the primary threats anticipated within the watch.
 A plain text watch summary is included beneath the bulleted information followed by a more detailed
 description of the area and axis of the watch.
@@ -1093,14 +1193,23 @@ two hours over an area at least 8,000 mi2. Below these thresholds, the SPC, in c
 NWS offices, may issue a watch for smaller areas and for shorter periods of time when conditions warrant,
 and for convective watches along coastlines, near the Canadian border, and near the Mexican border.
 A Public Tornado Watch Notification Message contains the following:
+•
 The area description and axis,
+•
 The watch expiration time,
+•
 The term “damaging tornadoes,”
+•
 A description of the largest hail size and strongest thunderstorm wind gusts expected,
+•
 The definition of the watch,
+•
 A call-to-action statement,
+•
 A list of other valid watches,
+•
 A brief discussion of meteorological reasoning, and
+•
 Technical information for the aviation community.
 The SPC may enhance a Public Tornado Watch Notification Message by using the words “THIS IS A
 PARTICULARLY DANGEROUS SITUATION” when there is a likelihood of multiple strong (damage of
@@ -1110,8 +1219,9 @@ Pacific/Atlantic coast or the Gulf of America. Adjacent coastal waters refers to
 responsibility (out to 20 NM for oceans), which includes portions of the Great Lakes.
 The SPC issues a watch cancellation message whenever it cancels a watch prior to the expiration time. The
 text of the message will specify the number and area of the cancelled watch.
-
 Chapter 27, Forecasts
+27-63
+
 27.17.5 Corridor Integrated Weather System (CIWS) and Consolidated Storm
 Prediction for Aviation (CoSPA)
 The CIWS and CoSPA are fully automated weather analysis and forecast systems developed for the FAA
@@ -1135,11 +1245,14 @@ Figure 27-33. CIWS and CoSPA
 27.18 Route Forecast (ROFOR)
 The ROFOR product is no longer issued by the NWS and has been replaced by the GFA in the Pacific. See
 Section 28.2 for information on the GFA.
-
 Chapter 27, Forecasts
+27-64
+
 27.19 Aviation Forecast Discussion (AFD)
 AFDs describe the weather conditions within a multistate or substate-sized area. They also may:
+•
 Describe the weather conditions as they relate to a specific TAF or group of TAFs; and
+•
 Provide additional aviation weather-related issues that cannot be encoded into the TAF, such as the
 reasoning behind the forecast.
 AFDs are a free-form plain language text product. Common or well-known aviation weather contractions
@@ -1164,8 +1277,9 @@ TREASURE AND MAGIC VALLEYS FOR A FEW HOURS THIS AFTERNOON...DROPPING DOWN TO
 20-30 KTS OVERNIGHT INTO THE MORNING IN THE MAGIC VALLEY AND 5-10 KTS ELSEWHERE.
 WINDS ALOFT NEAR 10K FT MSL...NW 30-40 KTS...40-50 KTS OVER THE UPPER TREASURE
 AND MAGIC VALLEYS OVERNIGHT...BECOMING 20-30 KTS BY 15/12Z.
-
 Chapter 27, Forecasts
+27-65
+
 27.20 Meteorological Impact Statement (MIS)
 The MIS is a nontechnical plain language product intended primarily for FAA traffic managers and those
 involved in planning aircraft routing. MISs are issued by the NWS CWSU.
@@ -1187,6 +1301,7 @@ of soaring forecasts and their content. Soaring pilots should consult with the N
 area for more information.
 27.21.1 Example
 The following example is for Salt Lake City, Utah:
+UXUS97 KSLC 091233
 SRGSLC
 Soaring Forecast
 National Weather Service Salt Lake City, Utah
@@ -1206,8 +1321,9 @@ Thermal soaring outlook for Wednesday 07/10.... Excellent
 Wave Soaring Index............................. Not available
 Remarks...
 Sunrise/Sunset.................... 06:05:02 / 21:01:07 MDT
-
 Chapter 27, Forecasts
+27-66
+
 Total possible sunshine........... 14 hr. 56 min 5 sec (896 min 5 sec)
 Altitude of sun at 13:33:04 MDT... 70.27 degrees
 Upper air data from rawinsonde observation taken on 07/09/2019 at 0600 MDT
@@ -1235,6 +1351,7 @@ variations of balloon forecasts and their content. Balloon pilots should consult
 area for more information.
 27.22.1 Example
 The following example is for St. Louis, Missouri:
+SXUS43 KLSX 090850
 RECSTL
 Morning Hot Air Balloon Forecast
 National Weather Service Saint Louis MO
@@ -1243,47 +1360,49 @@ National Weather Service Saint Louis MO
 FOR THE SAINT LOUIS METROPOLITAN AREA...
 .THIS MORNING...
 Sunrise:
-545 AM.
 Surface Wind Forecast:
+Latest Geostrophic Wind:
+Boundary Layer Wind:
+NWS Doppler Winds (at 0334 AM): 1000ft...130/15 mph.
+Chapter 27, Forecasts
+545 AM.
 6 AM...110/05 mph.
 8 AM...120/05 mph.
-Latest Geostrophic Wind:
 1 AM...160/15 mph.
-Boundary Layer Wind:
 7 AM...120/06 mph.
 10 AM...160/12 mph.
-NWS Doppler Winds (at 0334 AM): 1000ft...130/15 mph.
+27-67
 
-Chapter 27, Forecasts
-2000ft...150/22 mph.
-3000ft...160/20 mph.
 Surface Lifted Index:
-7 AM...+3.
-10 AM...-1.
 Density Altitude:
-6 AM...1708 FT.
-8 AM...1948 FT.
 Additional Weather Info:
-Slight chance of thunderstorms.
 .OUTLOOK FOR THIS EVENING...
 Sunset:
-829 PM.
 Weather:
-Chance of thunderstorms.
 Surface Wind:
-6 PM...150/07 mph.
-8 PM...150/06 mph.
 Boundary Wind:
-4 PM...160/14 mph.
-7 PM...160/08 mph.
 This forecast is not routinely updated or amended outside of scheduled
 issuances.
 &&
 This forecast is also available at phone number 636-441-8467 ext. 5.
 $$
 TES
+Chapter 27, Forecasts
+829 PM.
+Chance of thunderstorms.
+6 PM...150/07 mph.
+8 PM...150/06 mph.
+4 PM...160/14 mph.
+7 PM...160/08 mph.
+2000ft...150/22 mph.
+3000ft...160/20 mph.
+7 AM...+3.
+10 AM...-1.
+6 AM...1708 FT.
+8 AM...1948 FT.
+Slight chance of thunderstorms.
+27-68
 
-Chapter 28, Aviation Weather Tools
 28 Aviation Weather Tools
 28.1 Introduction
 The fifth of five types of aviation weather information discussed in this handbook is aviation weather tools.
@@ -1295,8 +1414,9 @@ Helicopter Emergency Medical Services HEMS) Tool.
 This chapter describes these web-based displays as they are configured in 2022. Enhancements to these
 displays will likely occur in the coming years as technology improves. Users will find information on any
 enhancements on the providers’ websites.
-
 Chapter 28, Aviation Weather Tools
+28-1
+
 28.2 Graphical Forecasts for Aviation (GFA) Tool
 The GFA Tool is a set of web-based displays intended to provide the necessary aviation weather information
 to give users a complete picture of the weather that may impact their flight operations. It is a one-stop shop
@@ -1334,26 +1454,40 @@ of weather and aeronautical information. Users logged in to the website are able
 information to display the flightpath on the map. Two primary types of weather information can be
 displayed on the map: overlay data and weather imagery.
 Overlay data includes the following and can be displayed simultaneously:
+•
 Winds aloft,
+•
 METARs,
+•
 TAFs,
+•
 PIREPs,
+•
 SIGMETs,
-
 Chapter 28, Aviation Weather Tools
+28-2
+
+•
 AIRMETs,
+•
 CWAs, and
+•
 NWS’ severe weather watches and warnings.
 Weather imagery includes the following and can only be displayed one product at a time:
+•
 Radar (NEXRAD precipitation),
+•
 Satellite,
+•
 CIP/FIP, and
+•
 GTG.
 Certain products will enable additional controls, such as an FL slider, a time slider, and animation controls.
 Information on the above products and imagery is presented in other chapters of this handbook, as well as
 in the User Guide provided on Flight Service’s website.
+Chapter 28, Aviation Weather Tools
+28-3
 
-Appendix A, Cloud Types
 Appendix A Cloud Types
 In each level, the clouds may be divided by type (genera). The definitions of the cloud types (given below)
 do not cover all possible aspects, but they are limited to a description of the main types and of the essential
@@ -1379,8 +1513,9 @@ an appreciable speed of fall; therefore, the cloud elements often trail downward
 “mares’ tails.” Cirrus clouds in themselves have little effect on aircraft and contain no significant icing or
 turbulence.
 Figure A-1. Cirrus (Ci)
-
 Appendix A, Cloud Types
+A-1
+
 A.1.2 Cirrocumulus (Cc)
 Cirrocumulus (Cc) is a cirriform cloud type appearing as a thin white patch, sheet, or layer of cloud without
 shading and is composed of very small elements in the form of grains, ripples, etc. The elements may be
@@ -1404,8 +1539,9 @@ prevents the casting of shadows by terrestrial objects, and a halo might be comp
 progressively lower angles of the Sun, halos become fragmentary, and light intensity noticeably decreases.
 When near the horizon, cirrostratus may be impossible to distinguish from cirrus.
 Cirrostratus clouds are composed primarily of ice crystals and contain little, if any, icing and no turbulence.
-
 Appendix A, Cloud Types
+A-2
+
 Figure A-3. Cirrostratus (Cs)
 A.2 Middle Clouds
 Altocumulus (Ac), altostratus (As), and nimbostratus (Ns) are mid-level clouds. They are composed
@@ -1424,8 +1560,9 @@ Pilots flying through altocumulus can expect some turbulence and small amounts o
 The altocumulus in Figure A-4 is a single level, the greater part of which is sufficiently transparent to reveal
 the position of the Sun and Moon. The clouds do not progressively invade the sky, and the individual
 elements change very little. These thin altocumulus clouds usually produce a corona.
-
 Appendix A, Cloud Types
+A-3
+
 Figure A-4. Altocumulus (Ac)
 A.2.1.1 Altocumulus Lenticularis
 Altocumulus Lenticularis, commonly known as “Altocumulus Standing Lenticular (ACSL)” (see Figure
@@ -1441,8 +1578,9 @@ intensity of turbulence or strength of updrafts and downdrafts. This is because 
 lifting and moisture. A well-defined wave may be visible (i.e., ACSL cloud) in weak updrafts where there
 is an adequate supply of moisture but may not be visible when the environment is very dry, even if the wave
 is intense.
-
 Appendix A, Cloud Types
+A-4
+
 Figure A-5. Altocumulus Standing Lenticular (ACSL)
 A.2.2 Altostratus (As)
 Altostratus (As) (see Figure A-6) is a cloud type in the form of a gray or bluish (never white) sheet or layer
@@ -1464,8 +1602,9 @@ moderate icing in the supercooled water regions.
 Thin altostratus usually evolves from the gradual thickening of a veil of cirrostratus. This means that unlike
 most clouds, which increase in height as they grow, altostratus (and nimbostratus) grow as the base of the
 cloud lowers.
-
 Appendix A, Cloud Types
+A-5
+
 Figure A-6. Thin Altostratus (As)
 A.2.3 Nimbostratus (Ns)
 Nimbostratus (Ns) (see Figure A-7) is a gray cloud layer, often dark, rendered diffuse by more or less
@@ -1486,8 +1625,9 @@ base, the cloud may begin to produce precipitation, at which point it is called 
 charts will depict nimbostratus as a low-level cloud. This is because oftentimes, during continuously falling
 precipitation, the base of nimbostratus clouds decreases into the low level. But officially and historically,
 nimbostratus is classified as a mid-level cloud.
-
 Appendix A, Cloud Types
+A-6
+
 Figure A-7. Thick Altostratus (As) or Nimbostratus (Ns)
 A.3 Low Clouds
 Cumulus (Cu), towering cumulus (TCu), stratocumulus (Sc), stratus (St), and cumulonimbus (Cb) are low
@@ -1513,8 +1653,9 @@ can expect very strong turbulence and some clear icing above the freezing level 
 negative). Towering cumulus (see Figure A-9) is also referred to as the first stage of a thunderstorm.
 13 Virga are wisps or streaks of water or ice particles falling out of a cloud but vaporizing before reaching the Earth’s
 surface as precipitation.
-
 Appendix A, Cloud Types
+A-7
+
 Figure A-8. Cumulus (Cu) with Little Vertical Development
 Cumulus formation is often preceded by hazy spots out of which the clouds evolve. When completely
 formed, the clouds have clear-cut horizontal bases and flattened or slightly rounded tops. At this stage of
@@ -1527,8 +1668,9 @@ Stratocumulus (Sc) (see Figure A-10) is a cloud type, predominantly stratiform, 
 whitish layer or patch, that nearly always has dark parts and is nonfibrous (except for virga). Its elements
 are tessellated, rounded, roll-shaped, etc., may or may not be merged, and are usually arranged in orderly
 groups, lines, or undulations, giving the appearance of a simple (or occasionally a cross-pattern) wave
-
 Appendix A, Cloud Types
+A-8
+
 system. These elements are generally flat-topped, smooth, and large; observed at an angle of more than 30
 degrees above the horizon, the individual stratocumulus element subtends an angle of greater than five
 degrees. When a layer is continuous, the elemental structure is revealed in true relief on its undersurface.
@@ -1556,8 +1698,9 @@ stratus gives off a weak, uniform luminance.
 The particulate composition of stratus is quite uniform, usually of fairly widely dispersed water droplets
 and, at lower temperatures, of ice crystals (although this is much less common). Halo phenomena may occur
 with this latter composition.
-
 Appendix A, Cloud Types
+A-9
+
 Stratus produces little or no turbulence, but temperatures near or below freezing can create hazardous icing
 conditions. When stratus is associated with fog or precipitation, the combination can become troublesome
 for visual flying.
@@ -1572,8 +1715,9 @@ that always appear in association with other clouds for a short time before, dur
 precipitation. They often form beneath lowering altostratus (As) or nimbostratus (Ns). They also occur
 beneath cumulonimbus (Cb) and precipitating cumulus (Cu) and are collectively known as “scud clouds.”
 Figure A-12. Stratus Fractus (StFra) and/or Cumulus Fractus (CuFra) of Bad Weather
-
 Appendix A, Cloud Types
+A-10
+
 A.3.4 Cumulonimbus (Cb)
 Cumulonimbus (Cb) (see Figure A-13 and Figure A-14) is a cloud type, exceptionally dense and vertically
 developed, occurring either as isolated clouds or as a line or wall of clouds with separated upper portions.
@@ -1602,15 +1746,18 @@ can merge to form a continuous layer. Mammatus (a cellular pattern of pouches) m
 the underside of the projecting anvil, and may appear particularly prominent when the Sun is low in the
 sky. A whole variety of other clouds, such as dense cirrus, altocumulus, altostratus, stratocumulus, cumulus,
 and stratus may also be present.
-
 Appendix A, Cloud Types
-Figure A-14. Cumulonimbus (Cb) with Anvil
+A-11
 
-Appendix B, Standard Conversion Chart
+Figure A-14. Cumulonimbus (Cb) with Anvil
+Appendix A, Cloud Types
+A-12
+
 Appendix B Standard Conversion Chart
 Figure B-1. Standard Conversion Chart
+Appendix B, Standard Conversion Chart
+B-1
 
-Appendix C, Density Altitude Calculation
 Appendix C Density Altitude Calculation
 To determine density altitude:
 1. Set the aircraft’s altimeter to 29.92 inHg. The altimeter will indicate pressure altitude.
@@ -1618,8 +1765,9 @@ To determine density altitude:
 3. Mark the intersection of pressure altitude (diagonal) and temperature (vertical) lines on Figure C-1.
 4. Read the density altitude from the horizontal lines on Figure C-1.
 Figure C-1. Density Altitude Computation Chart
+Appendix C, Density Altitude Calculation
+C-1
 
-Appendix D, STOP for Operations in a Noncontiguous State
 Appendix D Special Terminal Operation
 Procedures (STOP) for Operations in a
 Noncontiguous State
@@ -1657,8 +1805,9 @@ The AAG forecast product provides TAF-like information for locations where an NW
 not available at the intended destination in Alaska. The AAG is intended for use under visual meteorological
 conditions (VMC). Operators conducting operations under 14 CFR part 121 cannot use the AAG at alternate
 airports. The AAG is also limited for flight times of two hours or less in duration. The AAG, in conjunction
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-1
+
 with METARs, PIREPs, the FA, SIGMETs, and AIRMETs, helps inform operators of the weather
 conditions at the ETA and whether those conditions will be at or above the minimums, which determines
 whether operations can be conducted within the performance limitations of the aircraft per
@@ -1669,70 +1818,80 @@ available, can determine if hazardous convective weather will be present when th
 Table D-1 lists weather products that supplement NWS or EWINS TAFs.
 Table D-1. Weather Products to Supplement NWS or EWINS TAFs
 Weather Product
+AIRMET
+Alaska Aviation Guidance (AAG)
+AAWU Flying Weather
+Alaska Surface Forecast
+Alaska
+Alaska Icing Forecast
+Graphical
+Forecasts
+Alaska Turbulence
+Forecast
+Alaska Convective Outlook 27.7.5
+Alaska Significant Weather Forecasts
+Area Forecast (FA)1
+Center Weather Advisory (CWA)
+FAA Aviation Weather Cameras
+Graphical Forecasts for Aviation (GFA)
+Localized Aviation Model-Output
+Statistic (MOS) Product (LAMP)
+Pilot Weather Reports (PIREP)
+Real-Time Mesoscale Analysis (RTMA)
+Runway Visual Range (RVR)
+Appendix D, STOP for Operations in a Noncontiguous State
 Location in
 Handbook
 (Section)
-Website
-AIRMET
 https://www.weather.gov/aawu/airmets
+26.3
 https://www.weather.gov/aawu
-Alaska Aviation Guidance (AAG)
 27.16.1
 https://www.weather.gov/arh/aag
-Alaska
-Graphical
-Forecasts
-AAWU Flying Weather
 27.7.1
-https://www.weather.gov/aawu/#map
-Alaska Surface Forecast
 27.7.2
-Alaska Icing Forecast
 27.7.3
-Alaska Turbulence
-Forecast
+https://www.weather.gov/aawu/#map
 27.7.4
-Alaska Convective Outlook 27.7.5
-Alaska Significant Weather Forecasts
 27.9.4
 https://www.weather.gov/aawu/4panelsigwx
+27.6
 https://www.weather.gov/aawu/areaforecasts
-Center Weather Advisory (CWA)
+26.4
 https://aviationweather.gov/gfa/#cwa
-FAA Aviation Weather Cameras
+24.9
 https://weathercams.faa.gov
-Graphical Forecasts for Aviation (GFA)
+28.2
 https://aviationweather.gov/gfa
-Localized Aviation Model-Output
-Statistic (MOS) Product (LAMP)
+27.16
 https://vlab.noaa.gov/web/mdl/lamp
-Pilot Weather Reports (PIREP)
 24.5.1
 https://aviationweather.gov/data/pirep
-Real-Time Mesoscale Analysis (RTMA)
 https://nomads.ncep.noaa.gov/pub/data/nccf/com/rtma/
+25.7
 prod/airport_temps
-Runway Visual Range (RVR)
 24.4.3.7
 https://rvr.data.faa.gov/cgi-bin/rvr-status.pl is the status
 monitor site
+Website
+D-2
 
-Appendix D, STOP for Operations in a Noncontiguous State
-Weather Product
 Location in
+Weather Product
 Handbook
 (Section)
-Website
-SIGMET
 https://www.weather.gov/aawu/sigmets
+SIGMET
+26.2
 https://aviationweather.gov/gfa/#sigmet
-Surface
 METAR
 24.4.1
-https://www.weather.gov/aawu/obs
-https://www.weather.gov/aawu
 SPECI
 24.4.2
+Surface
+https://www.weather.gov/aawu/obs
+Observations2
+https://www.weather.gov/aawu
 ASOS
 24.3.1
 AWOS
@@ -1746,13 +1905,20 @@ applicable alternates.
 2. Aircraft performance is predicated on aircraft weight, ambient temperature, wind direction, wind
 speed, and altimeter setting. In order to ensure aircraft takeoff and landing limitations are met and
 obstacles are avoided, a surface observation contains at least the following elements:
+•
 The station identifier (e.g., airport code),
+•
 Date and time of observation (to establish relevance of the report),
+•
 Ambient air temperature at the station (e.g., airport or seaport),
+•
 Wind speed and direction,
+•
 Altimeter setting at the station (unless the current published approach plate lists an
 alternate source),
+•
 Visibility (for obstacle avoidance and IAPs), and
+•
 Ceiling.
 D.2.3 Manual Surface Observations by Flightcrews Using a Portable Weather
 Observation Device at STOP Airports
@@ -1765,8 +1931,10 @@ preflight preparation. An acceptable portable weather observation device provide
 4. Temperature (°C)
 5. Dewpoint temperature (°C)
 6. Altimeter or pressure (inHg)
-
 Appendix D, STOP for Operations in a Noncontiguous State
+Website
+D-3
+
 Note: Apply the appropriate variation to get the wind direction in true north, which is needed for
 documentation and reporting.
 Calibration of the device is done in accordance with the manufacturer’s procedures. A log with the date of
@@ -1779,8 +1947,11 @@ distance visually or with FAA cameras).
 D.2.3.3 Ceiling Estimation by the Pilot
 Ceilings can be estimated using geographical features or prominent obstructions of a known elevation of
 height. Ceilings can be estimated using:
+•
 Known geographic points;
+•
 The conditions on arrival, provided they have not radically changed; and
+•
 Temperature/dewpoint spread, which is the difference between the temperature and dewpoint,
 divided by 2.5, multiplied by 1,000.
 o If the temperature is 18°C and the dewpoint 9°C, a difference of 9°C exists.
@@ -1793,19 +1964,29 @@ Prior to departure, the PIC records all required elements on the weather record 
 the responsible aircraft dispatcher or flight follower. A mutual agreement is achieved on these conditions
 for a flight release. In this process, the PIC advises, and the aircraft dispatcher records the following
 information:
+•
 Station identifier.
+•
 Date and time.
+•
 Wind direction (degrees true north).
+•
 Wind speed (knots).
+•
 Visibility (SM).
+•
 Ceiling (BKN, OVC).
+•
 Temperature (°C).
+•
 Dewpoint temperature (°C).
+•
 Altimeter (inHg).
 This information is part of the dispatch and flight release documents and is retained in the company’s
 three-month retention file.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-4
+
 D.3 Airport Data
 D.3.1 Data Maintenance
 All airports and runways on which STOP operations are conducted are documented in the CH’s Safety
@@ -1846,8 +2027,9 @@ If temporary lighting (e.g., flare pots) are used, they are evenly spaced on eac
 at least 50 percent of the normal lights. If permanent lighting is not installed at the airport, the temporary
 light spacing is 200 ft apart. Four lights are placed at each runway end to clearly mark the threshold and
 runway end. Lights are turned on 30 minutes prior to arrival and for 30 minutes after departure.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-5
+
 The Director of Operations (DO), PIC, dispatcher, or flight follower should agree that the lighting is
 adequate for the proposed operation, with the approval by the DO or designee annotated on the flight
 release. Temporary lighting may be placed and illuminated by qualified company personnel who are
@@ -1884,8 +2066,9 @@ The Administrator considers the ETA at the destination and the arrival minimums 
 contribute to mitigating risks and hazards to STOP destinations and will allow the CH to operate at the
 highest level of safety. The aforementioned weather minimums apply even if the whole weather report is
 missing or missing a required element.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-6
+
 D.4.6.1 Domestic Operations
 Forecast weather conditions one hour before and one hour after ETA at the STOP destination airport to be
 at least a cloud ceiling of 3,500 ft above the airport elevation and visibility of 5 SM, and appropriate wind
@@ -1914,15 +2097,22 @@ and the secondary alternates must have a complete METAR and TAF at ETA.
 D.4.9 Minimum Equipment List (MEL) Restrictions
 When required by an MEL, flight operations to airports with weather reporting deficiencies are not to be
 initiated with, or continue with, the following items deferred or inoperative:
+•
 Any long-range navigation systems (LRNS) (e.g., GPS) that may be installed on the aircraft. In a
 dual installation, one must be operational.
+•
 OAT reporting system installed on the aircraft.
+•
 One or both flight management system(s) (FMS).
+•
 One or both radio altimeter system(s).
+•
 Ground proximity system.
+•
 Satellite voice communication available over the entire route and at any destination airport.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-7
+
 D.5 Preflight Planning and Briefing to STOP Airport
 D.5.1 Preflight Planning
 See Sections D.2, D.3, and D.4 for weather, airport data, and flight planning information.
@@ -1940,12 +2130,18 @@ Prior to conducting a STOP flight operation on a flight to an unfamiliar destina
 or a route they have not flown over in the last 90 days, the PIC and second in command (SIC) update
 themselves using all information pertinent to the safe conduct of the flight. This may include, but is not
 limited to, one or more of the following resources:
+•
 Personal briefing (route qualification required by 14 CFR § 121.463).
+•
 Aeronautical charts, with regard to prominent geographical features such as mountain ranges and
 passes, rising terrain, locally hazardous areas, lakes, rivers, and coastlines.
+•
 FAA webcams (https://weathercams.faa.gov).
+•
 The Alaska Airport/Facilities Directory website (https://dot.alaska.gov/airport-portal.shtml).
+•
 Appropriate company wind chart(s) for airport runway reports (if available).
+•
 NOTAMs.
 D.6 En Route, Flight Monitoring, and Communications
 D.6.1 General
@@ -1961,8 +2157,9 @@ D.6.2 Domestic Operations
 Title 14 CFR § 121.601(c) requires the aircraft dispatcher to report to the PIC any additional information
 that could affect the safety of the flight. This information may be delivered by voice message or by other
 means, such as the ACARS.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-8
+
 D.6.3 Supplemental Operations
 Title 14 CFR § 121.603(b) requires that during a flight, the PIC shall obtain any additional available
 information of meteorological conditions and irregularities of facilities and services that may affect the
@@ -1971,6 +2168,7 @@ D.6.4 Flight Monitoring
 All flights released under STOP are monitored, tracked, and controlled by a dispatcher or flight follower.
 For flights to remote sites without phone service, flightcrews are provided with appropriate satellite
 communications. During the flight:
+•
 The dispatcher or flight follower:
 o Provides the PIC with any additional available information of meteorological conditions
 (including any changes in primary weather information or adverse weather phenomena, such
@@ -1981,6 +2179,7 @@ to 14 CFR § 121.601).
 o Monitors any and all information available for weather at the destination and alternates, as well
 as the progress of the flight. All flights on an IFR flight plan are tracked using aircraft situation
 display software.
+•
 The PIC:
 o Ensures contact is established with the dispatcher or flight follower as soon as practical after
 takeoff, reaching cruise altitude in non-turbine airplanes or leaving 10,000 MSL in turbine
@@ -2004,8 +2203,9 @@ at the transition point the crew is unable to establish and maintain VFR through
 proceeds to the primary alternate. If the weather unexpectedly begins to deteriorate while en route to the
 destination, but after transitioning to VFR, a course change may need to be made to maintain VFR. If VFR
 cannot be maintained to destination, coordinate with ATC for an IFR clearance to the alternate airport.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-9
+
 Maintain terrain clearance visually until at or above minimum safe altitudes and an IFR clearance has been
 obtained.
 D.7 Destination Approach and Arrival
@@ -2040,10 +2240,14 @@ D.8.2 Departures
 Departures from airports with weather deficiencies are done in VFR until reaching the minimum IFR
 altitude. Where an ODP is published, it is briefed immediately before departure and adhered to as published
 until:
+•
 A safe altitude is reached,
+•
 The flight has joined the IFR structure, or
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-10
+
+•
 The flight is in VMC where the terrain and obstacles are clearly identified and avoided by a
 minimum of 1,000 ft.
 D.8.3 Departure Data
@@ -2054,69 +2258,115 @@ D.9 Training for Dispatchers, Flight Followers, and Flightcrew
 D.9.1 General
 The training curriculum ensures that the dispatcher, flight follower, and flightcrew learn and are able to
 demonstrate understanding of the following policies and procedures associated with STOP:
+•
 When the program applies.
+•
 The requirements for releasing flights under the program.
+•
 A proven understanding about the pilot and management notification requirements when a flight is
 released under the program.
 The STOP training is required for both initial and annual recurrent training events. Documentation of both
 initial and annual recurrent training is maintained for each individual.
 D.9.2 Introduction for Dispatchers and Flight Followers
 Introduction to STOP training for dispatchers and flight followers covers the following topics:
+•
 Regulatory basis for the approved program.
+•
 Minimum weather requirements.
+•
 Dispatch and flight following procedures in accordance with STOP.
+•
 Verification of need for STOP.
+•
 Notification and approval requirements.
+•
 Contents of the weather package.
+•
 Civil twilight or nighttime operational requirements.
+•
 Fuel requirements.
+•
 Briefing requirements.
+•
 Airport risk assessment, strip check, or airport condition report.
+•
 Flight operation in accordance with STOP.
+•
 Airport and runway requirements.
+•
 Operations in Class G Airspace.
+•
 Portable weather observation devices.
+•
 Usage.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-11
+
+•
 Storage.
+•
 Weather Device Observation Log.
 D.9.3 Introduction for Flightcrews
 Introduction to STOP training for flightcrews covers the following topics:
+•
 Regulatory basis for the approved program.
+•
 Flightcrew member procedures in accordance with STOP.
+•
 Verification of a need for STOP.
+•
 Notification and approval requirements.
+•
 Weather and daylight requirements (or lighting).
+•
 Fuel requirements—inclusion of 15 minutes additional fuel for airport survey.
+•
 Briefing requirements, including pictorials as available and risk assessment factors, in accordance
 with 14 CFR § 121.463 route qualification.
+•
 Flight operation in accordance with STOP.
+•
 Flight planning (IFR and/or VFR).
+•
 Airport and runway requirements.
+•
 Operations in Class G Airspace.
+•
 Operations within 50 NM of the departure point.
+•
 Operations 50 NM from the IFR en route system.
+•
 Operations when an approach is not possible (diversion).
+•
 Required communications during STOP.
+•
 Use of portable weather observation devices.
+•
 Storage of devices.
+•
 Weather Device Observation Log.
+•
 Classroom training with devices.
+•
 Calibration training.
+•
 Taking a weather observation and recording that information.
 D.10 Approval
 STOP programs are approved by the CH’s certificate management office (CMO).
 The approved STOP program can be a standalone approved manual, or it may be incorporated into the CH’s
 accepted manual system.
-
 Appendix D, STOP for Operations in a Noncontiguous State
+D-12
+
 D.11 Compliance Monitoring, Quality Assurance (QA), and Auditing
 D.11.1 Compliance Monitoring
 Compliance monitoring is intended to ensure, through a department audit, the following:
+•
 The dispatcher, flight follower, and flightcrew comply with the procedures, provisions, and
 limitations of the STOP program.
+•
 They all perform the process and procedures required to support the STOP,
+•
 Compliance monitoring is documented, including the individual who conducted the audit and the
 date it was completed.
 D.11.2 Quality Assurance (QA)
@@ -2140,8 +2390,9 @@ if the deficiency is associated with the basic design of the control (e.g., inad
 SRM process would be repeated to revise the procedure in the areas where it was found deficient (per
 14 CFR § 5.73(b)). The performance, results, and corrective actions of these audits are measured at least
 annually through the company’s quality audit program.
+Appendix D, STOP for Operations in a Noncontiguous State
+D-13
 
-Appendix E, Abbreviations, Acronyms, and Initialisms
 Appendix E Abbreviations, Acronyms,
 and Initialisms
 14 CFR
@@ -2196,8 +2447,9 @@ ATC
 Air Traffic Control
 ATCSCC
 Air Traffic Control Systems Command Center
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-1
+
 ATCT
 Airport Traffic Control Tower
 ATIS
@@ -2256,8 +2508,9 @@ CPHC
 Central Pacific Hurricane Center
 CRC
 China-Russian Federation Consortium
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-2
+
 cT
 Continental Tropical
 CWA
@@ -2318,8 +2571,9 @@ FIS-B
 Flight Information Service-Broadcast
 FL
 Flight Level
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-3
+
 FOC
 Flight Operations Center
 fpm
@@ -2380,8 +2634,9 @@ inHg
 inches of mercury
 IR
 Infrared
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-4
+
 ITCZ
 Intertropical Convergence Zone
 ITWS
@@ -2390,6 +2645,7 @@ J
 joule
 J/g
 joules per gram
+J g-1 K-1
 joules per gram Kelvin
 J/kg
 joules per kilogram
@@ -2435,13 +2691,15 @@ m
 Maritime
 m
 meter
+m3
 cubic meter
 mA
 Maritime Arctic
 mb or mbar
 millibar
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-5
+
 MCS
 Mesoscale Convective System
 MDA
@@ -2502,8 +2760,9 @@ NE
 Northeast
 NESDIS
 National Environmental Satellite, Data, and Information Service
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-6
+
 NEXRAD
 Next Generation Weather Radar
 NextGen
@@ -2564,8 +2823,9 @@ RCM
 Radar Coded Message
 RCO
 Remote Communications Outlet
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-7
+
 RH
 Relative Humidity
 ROFOR
@@ -2610,6 +2870,7 @@ SM
 statute mile
 SMS
 Safety Management System
+SO2
 Sulfur Dioxide
 SPC
 Storm Prediction Center
@@ -2625,8 +2886,9 @@ STOP
 Special Terminal Operation Procedures
 SUA
 Special Use Airspace
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-8
+
 SW
 Southwest
 SWPC
@@ -2687,8 +2949,9 @@ VHF
 Very High Frequency
 VMC
 Visual Meteorological Conditions
-
 Appendix E, Abbreviations, Acronyms, and Initialisms
+E-9
+
 VNR
 VFR Flight Not Recommended
 VOR
@@ -2699,6 +2962,7 @@ W
 watt
 W
 West
+W m-1 K-1
 watt per meter-Kelvin
 WADL
 West African Disturbance Line
@@ -2729,8 +2993,9 @@ yd
 yard
 Z or z
 Zulu
+Appendix E, Abbreviations, Acronyms, and Initialisms
+E-10
 
-Appendix F, Units of Measurement
 Appendix F Units of Measurement
 °C or C
 degrees Celsius or Celsius
@@ -2758,6 +3023,7 @@ J
 joule
 J/g
 joules per gram
+J g-1 K-1
 joules per gram-Kelvin
 J/kg
 joules per kilogram
@@ -2781,9 +3047,11 @@ lb
 pound
 m
 meter
+m3
 cubic meter
-
 Appendix F, Units of Measurement
+F-1
+
 mb or mbar
 millibar
 mg/m3
@@ -2810,58 +3078,94 @@ SM
 statute mile
 W
 watt
+W m-1 K-1
 watt per meter-Kelvin
 Note: The units of measurement shown above are occasionally listed in uppercase and/or lowercase in
 figures, tables, and examples throughout the document.
+Appendix F, Units of Measurement
+F-2
 
-Appendix G, Websites
 Appendix G Websites
+•
 Federal Aviation Administration (FAA) Aviation Weather Cameras: https://weathercams.faa.gov
+•
 FAA Air Traffic Notice to Airmen (NOTAM): https://www.faa.gov/pilots/safety/notams_tfr
+•
 FAA Flight Service: https://www.1800wxbrief.com
+•
 FAA home page: https://www.faa.gov
+•
 Flight Information Service-Broadcast (FIS-B) malfunctions not attributed to aircraft system
 failures or covered by active Notices to Airmen (NOTAM) via the ADS-B/TIS-B/FIS-B Problem
 Report: https://www.faa.gov/air_traffic/technology/adsb/adsb_reports.
+•
 FAA Runway Visual Range (RVR): https://rvr.data.faa.gov/cgi-bin/rvr-status.pl is the status monitor
 site.
+•
 International Civil Aviation Organization (ICAO) home page: https://www.icao.int
+•
 National Weather Service (NWS) Experimental Alaska Aviation Guidance (AAG):
 https://www.weather.gov/arh/aag
+•
 NWS Alaska Aviation Weather Unit (AAWU): https://www.weather.gov/aawu
+•
 NWS Alaska Aviation Weather Unit (AAWU) AIRMET: https://www.weather.gov/aawu/airmets
+•
 NWS Alaska Aviation Weather Unit (AAWU) Alaska Significant Weather Forecasts:
 https://www.weather.gov/aawu/4panelsigwx
+•
 NWS Alaska Aviation Weather Unit (AAWU) Area Forecast (FA):
 https://www.weather.gov/aawu/areaforecasts
+•
 NWS Aviation Weather Center (AWC): https://aviationweather.gov
+•
 NWS Center Weather Advisory (CWA): https://aviationweather.gov/gfa/#cwa
+•
 NWS Pilot Weather Reports (PIREP): https://aviationweather.gov/data/pirep
+•
 NWS Sigmets: https://www.weather.gov/aawu/sigmets
+•
 NWS Sigmets: https://aviationweather.gov/gfa/#sigmet
+•
 NWS Surface Observations: https://www.weather.gov/aawu/obs
+•
 NWS Center Weather Service Units (CWSU): https://www.weather.gov/aviation/cwsu
+•
 NWS Central Pacific Hurricane Center (CPHC): https://www.nhc.noaa.gov/?cpac
+•
 NWS Graphical Forecasts for Aviation (GFA) code charts:
 https://aviationweather.gov/gfa/help?page=products
+•
 NWS Localized Aviation Model Output Statistics (MOS) Program (LAMP) airports:
 https://vlab.noaa.gov/web/mdl/current-lamp-stations
+•
 NWS LAMP home page and description: https://vlab.noaa.gov/web/mdl/lamp
+•
 NWS National Centers for Environmental Prediction (NCEP) Central Operations (NCO) Model
 Analyses and Guidance: https://mag.ncep.noaa.gov
+•
 NWS National Hurricane Center (NHC): https://www.nhc.noaa.gov
+•
 NWS Ocean Prediction Center (OPC): https://ocean.weather.gov
-
 Appendix G, Websites
+G-1
+
+•
 NWS Real-Time Mesoscale Analysis (RTMA) Alternative Report of Surface Temperature:
 https://nomads.ncep.noaa.gov/pub/data/nccf/com/rtma/prod/airport_temps
+•
 National Oceanic and Atmospheric Administration (NOAA) Washington Volcanic Ash Advisory
 Center (VAAC): https://www.ospo.noaa.gov/Products/atmosphere/vaac
+•
 NWS Weather Forecast Office (WFO) Honolulu: https://www.weather.gov/HFO
+•
 NWS Weather Prediction Center (WPC): https://www.wpc.ncep.noaa.gov
+•
 Weather radars [Department of Defense (DOD), FAA, and NWS’ Next Generation Weather
 Radar (NEXRAD) and FAA’s terminal Doppler weather radar (TDWR)]:
 https://radar.weather.gov
+Appendix G, Websites
+G-2
 
 Aviation Weather Handbook Feedback Form
 If you find an error in this handbook, have recommendations for improving it, or have

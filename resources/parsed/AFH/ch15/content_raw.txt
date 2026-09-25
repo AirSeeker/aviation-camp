@@ -13,7 +13,6 @@ distinct occurrence in each cylinder. Also in a piston engine, an ignition event
 reciprocating engines, in gas turbine engines these phases of power occur simultaneously and continuously instead of successively
 one cycle at a time. Additionally, ignition occurs during the starting cycle and is continuous thereafter. The basic gas turbine engine
 contains four sections: intake, compression, combustion, and exhaust. [Figure 15-1]
-Figure 15-1. Basic components of a gas turbine engine.
 To start a gas turbine engine, the compressor section is normally rotated by an electric starter. As compressor revolutions per minute
 (rpm) increase, air flowing through the inlet is compressed to a high pressure, delivered to the combustion section, and ignited. In gas
 turbine engines, not all of the compressed air is used to support combustion. Some of the compressed air bypasses the burner section
@@ -28,6 +27,8 @@ supply.
 Note: Because compression produces heat and pressure, some pneumatic aircraft systems tap into the source of hot compressed air
 from the engine compressor (bleed air) and use it for engine anti-ice, airfoil anti-ice, aircraft pressurization, and other ancillary
 systems after further conditioning its internal pressure and temperature.
+Figure 15-1. Basic components of a gas turbine engine.
+15-1
 
 Turboprop Engines
 The turbojet engine (discussed in more detail in the Transition to Jet-Powered Airplanes chapter) excels the reciprocating engine in
@@ -77,8 +78,8 @@ ambient air is directed to the compressor section through the engine inlet. An a
 compressor increases air pressure and directs it rearward to a combustor. The combustor is made up of a combustion chamber, a
 transition liner, and a turbine plenum. Atomized fuel is added to the air in the combustion chamber. Air also surrounds the
 combustion chamber to provide for cooling and insulation of the combustor.
+15-2
 
-Figure 15-2. Fixed-shaft turboprop engine.
 The gas mixture is initially ignited by high-energy igniter plugs, and the expanding combustion gases flow to the turbine. The energy
 of the hot, high-velocity gases is converted to torque on the main shaft by the turbine rotors. The reduction gear converts the high
 rpm—low torque of the main shaft to low rpm—high torque to drive the accessories and the propeller. The spent gases leaving the
@@ -103,14 +104,17 @@ There is no mixture control and/or rpm lever as found on piston-engine airplanes
 On the fixed-shaft constant-speed turboprop engine, the power lever is advanced or retarded to increase or decrease forward thrust.
 The power lever is also used to provide reverse thrust. The condition lever sets the desired engine rpm within a narrow range between
 that appropriate for ground operations and flight.
+Figure 15-2. Fixed-shaft turboprop engine.
+15-3
 
-Figure 15-3. Powerplant controls—fixed-shaft turboprop engine.
 Powerplant instrumentation in a fixed-shaft turboprop engine typically consists of the following basic indicators. [Figure 15-4]
 1. Torque or horsepower
 2. Interturbine temperature (ITT)
 3. Fuel flow
 4. RPM
+Figure 15-3. Powerplant controls—fixed-shaft turboprop engine.
 Figure 15-4. Powerplant instrumentation—fixed-shaft turboprop engine.
+15-4
 
 Torque developed by the turbine section is measured by a torque sensor. The torque is then reflected on the instrument panel
 horsepower gauge calibrated in horsepower times 100. ITT is a measurement of the combustion gas temperature between the first and
@@ -132,7 +136,6 @@ In a free power-turbine engine, such as the Pratt & Whitney PT-6 engine, the pro
 reduction gearing. The propeller is not on the same shaft as the basic engine turbine and compressor. [Figure 15-5] Unlike the fixed-
 shaft engine, in the split-shaft engine the propeller can be feathered in flight or on the ground with the basic engine still running. The
 free power-turbine design allows the pilot to select a desired propeller governing rpm, regardless of basic engine rpm.
-Figure 15-5. Split shaft/free turbine engine.
 A typical free power-turbine engine has two independent counter-rotating turbines. One turbine drives the compressor, while the other
 drives the propeller through a reduction gearbox. The compressor in the basic engine consists of three axial flow compressor stages
 combined with a single centrifugal compressor stage. The axial and centrifugal stages are assembled on the same shaft and operate as
@@ -145,6 +148,8 @@ atmosphere through two exhaust ports near the front of the engine.
 A pneumatic fuel control system schedules fuel flow to maintain the power set by the gas generator power lever. Except in the beta
 range, propeller speed within the governing range remains constant at any selected propeller control lever position through the action
 of a propeller governor.
+Figure 15-5. Split shaft/free turbine engine.
+15-5
 
 The accessory drive at the aft end of the engine provides power to drive fuel pumps, fuel control, oil pumps, a starter/generator, and a
 tachometer transmitter. At this point, the speed of the drive (N1) is the true speed of the compressor side of the engine,
@@ -159,6 +164,7 @@ turboprop engine is really just an on/off valve for delivering fuel. There are H
 operations, but condition levers have no metering function. Leaning is not required in turbine engines; this function is performed
 automatically by a dedicated fuel control unit.
 Figure 15-6. Powerplant controls—split-shaft/free turbine engine.
+15-6
 
 Engine instruments in a split-shaft/free turbine engine typically consist of the following basic indicators.
 [Figure 15-7]
@@ -169,6 +175,7 @@ Engine instruments in a split-shaft/free turbine engine typically consist of the
 5. Fuel flow indicator
 6. Oil temperature/pressure indicator
 Figure 15-7. Engine instruments—split shaft/free turbine engine.
+15-7
 
 The ITT indicator gives an instantaneous reading of engine gas temperature between the compressor turbine and the power turbines.
 The torquemeter responds to power lever movement and gives an indication in foot-pounds (ft/lb) of the torque being applied to the
@@ -187,18 +194,17 @@ pitch,” shown in Figure 15-8B, is the blade position offering minimum resistan
 airplane.
 Figure 15-8A. Propeller forward pitch angle characteristics.
 Figure 15-8B. Propeller flat pitch characteristics.
+15-8
 
 The “feathered” position is the highest pitch angle obtainable. [Figure 15-8C] The feathered position produces no forward thrust.
 The propeller is generally placed in feather only in case of in-flight engine failure to minimize drag and prevent the air from using the
 propeller as a turbine.
-Figure 15-8C. Propeller feather (maximum forward pitch angle) characteristics.
 In the “reverse” pitch position, the engine/propeller turns in the same direction as in the normal (forward) pitch position, but the
 propeller blade angle is positioned to the other side of flat pitch. [Figure 15-8D] In reverse pitch, air is pushed away from the
 airplane rather than being drawn over it. Reverse pitch results in braking action, rather than forward thrust of the airplane. It is used
 for backing away from obstacles when taxiing, controlling taxi speed, or to aid in bringing the airplane to a stop during the landing
 roll. Reverse pitch does not mean reverse rotation of the engine. The engine delivers power just the same, no matter which side of flat
 pitch the propeller blades are positioned.
-Figure 15-8D. Propeller reverse pitch characteristics.
 With a turboprop engine, in order to obtain enough power for flight, the power lever is placed somewhere between flight idle (in
 some engines referred to as “high idle”) and maximum. The power lever directs signals to a fuel control unit to manually select fuel.
 The propeller governor selects the propeller pitch needed to keep the propeller/engine on speed. This is referred to as the propeller
@@ -210,6 +216,9 @@ beyond maximum flat pitch and into negative pitch, resulting in reverse thrust. 
 engine speed remains largely unchanged as the propeller blade angles achieve their negative values. On the split-shaft PT-6 engine, as
 the negative 5° position is reached, further aft movement of the power lever also results in a progressive increase in engine (N1) rpm
 until a maximum value of about negative 11° of blade angle and 85 percent N1 are achieved.
+Figure 15-8C. Propeller feather (maximum forward pitch angle) characteristics.
+Figure 15-8D. Propeller reverse pitch characteristics.
+15-9
 
 Operating in the beta range and/or with reverse thrust requires specific techniques and procedures depending on the particular
 airplane make and model. Specific engine parameters and limitations for operations within this area should be adhered to. It is
@@ -228,12 +237,12 @@ certain avionic, lighting, and indicator synchronization functions. This is acco
 The distribution of DC and AC power throughout the system is accomplished through the use of power distribution buses. These
 “buses” as they are called are actually common terminals from which individual electrical circuits get their power. [Figure 15-9]
 Figure 15-9. Typical individual power distribution bus.
+15-10
 
 Buses are usually named for what they power (avionics bus, for example) or for where they get their power (right generator bus,
 battery bus). The distribution of DC and AC power is often divided into functional groups (buses) that give priority to certain
 equipment during normal and emergency operations. Main buses serve most of the airplane’s electrical equipment. Essential buses
 feed power to equipment having top priority. [Figure 15-10]
-Figure 15-10. Simplified schematic of turboprop airplane electrical system.
 Multiengine turboprop airplanes normally have several power sources—at least one generator per engine and at least one battery for
 the airplane. The electrical systems are usually designed so that any bus can be energized by any of the power sources. For example, a
 typical system has a left and right engine generator-powered bus. While these buses are normally isolated, they may be fed from other
@@ -254,6 +263,8 @@ the ground while operating at or near flight idle. Although smooth power applica
 a greater physical movement of the power levers is required as compared to throttle movement in a piston engine. The pilot should
 understand the lag and anticipate and lead the power changes more than in the past and should keep in mind that the last 30 percent of
 engine rpm represents the majority of the engine thrust. Below that setting, the application of power has very little effect.
+Figure 15-10. Simplified schematic of turboprop airplane electrical system.
+15-11
 
 A second consideration for transitioning pilots concerns turbine engine heat sensitivity. A turbine engine cannot tolerate an over
 temperature condition for more than a very seconds without experiencing serious damage. Engine temperatures get hotter during
@@ -282,6 +293,7 @@ increased complexity of turboprop airplanes makes the standardization of procedu
 transitioning pilot should review the profile procedures before each takeoff to form a mental picture of the takeoff and departure
 process.
 Figure 15-11. Example of a typical turboprop airplane takeoff and departure profile.
+15-12
 
 For any given high-horsepower operation, the pilot can expect that the engine temperature will climb as altitude increases at a
 constant power. On a warm or hot day, maximum temperature limits may be reached at a rather low altitude, making it impossible to
@@ -293,7 +305,6 @@ Consequently, rapid descents with the propellers in low pitch can be dramaticall
 landing should be accomplished in accordance with a standard approach and landing profile. [Figure 15-12] However, when flying
 an airplane equipped with a split shaft/free turbine engine, the pilot should anticipate the demand for power and account for any lag in
 “spool-up” time.
-Figure 15-12. Example of a typical turboprop airplane arrival and landing profile.
 A stabilized approach is an essential part of the approach and landing process. In a stabilized approach, the airplane, depending on
 design and type, is placed in a stabilized descent on a glidepath ranging from 2.5 to 3.5°. The speed is stabilized at some reference
 from the AFM/POH—usually 1.25 to 1.30 times the stall speed in approach configuration. The descent rate is stabilized from 500
@@ -309,6 +320,8 @@ airplanes, particularly those who are not familiar with operations in the high/m
 turboprop transition training with this in mind. Thorough ground training should cover all aspects of high/medium altitude flight,
 including the flight environment, weather, flight planning and navigation, physiological aspects of high-altitude flight, oxygen and
 pressurization system operation, and high-altitude emergencies.
+Figure 15-12. Example of a typical turboprop airplane arrival and landing profile.
+15-13
 
 Flight training should prepare the pilot to demonstrate a comprehensive knowledge of airplane performance, systems, emergency
 procedures, and operating limitations, along with a high degree of proficiency in performing all flight maneuvers and in-flight
@@ -353,6 +366,7 @@ c. Failure of oxygen mask or complete loss of oxygen supply/system
 d. In-flight fire
 e. Flight into severe turbulence or thunderstorms
 f. Compressor stalls
+15-14
 
 Flight Training
 1. Preflight Briefing
@@ -378,3 +392,4 @@ differences are introduced specifically handling, powerplant, and the associated
 operational considerations are explained to include starting procedures and high temperature considerations. Training considerations
 are also discussed and a sample training syllabus is given to show the topics that a pilot should become proficient in when
 transitioning to a turbopropeller-powered airplane.
+15-15

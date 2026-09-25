@@ -41,6 +41,7 @@ to intentionally render the critical engine inoperative.
 ⦁ VREF —reference landing speed—an airspeed used for final approach, which is normally 1.3 times
 VSO, the stall speed in the landing configuration. The pilot may adjust the approach speed for winds
 and gusty conditions by using VREF plus an additional number of units (e.g.,VREF+5).
+13-1
 
 ⦁ VMC —currently defined in 14 CFR part 23, section 23.2135(c) as the calibrated airspeed at which, following
 the sudden critical loss of thrust, it is possible to maintain control of the airplane. VMC is typically marked
@@ -52,7 +53,6 @@ definition still applies to airplanes certified under that regulation. There is 
 determination that the airplane be capable of climbing at this airspeed. VMC only addresses directional
 control. Further discussion of VMC as determined during airplane certification and demonstrated in pilot
 training follows later in this chapter.
-Figure 13-1. Airspeed indicator markings for a multiengine airplane
 Unless otherwise noted, when V-speeds are given in the AFM/POH, they apply to sea level, standard day conditions at maximum
 takeoff weight. Performance speeds vary with aircraft weight, configuration, and atmospheric conditions. The speeds may be stated in
 statute miles per hour (mph) or knots (kt), and they may be given as calibrated airspeeds (CAS) or indicated airspeeds (IAS). As a
@@ -62,6 +62,8 @@ published indicated airspeeds.
 Rate of climb is the altitude gain per unit of time, while climb gradient is the actual measure of altitude gained per 100 feet of
 horizontal travel, expressed as a percentage. An altitude gain of 1.5 feet per 100 feet of travel (or 15 feet per 1,000 or 150 feet per
 10,000) is a climb gradient of 1.5 percent.
+Figure 13-1. Airspeed indicator markings for a multiengine airplane
+13-2
 
 There is a dramatic performance loss associated with the loss of an engine, particularly just after takeoff. Any airplane’s
 climb performance is a function of thrust horsepower, which is in excess of that required for level flight. In a hypothetical twin
@@ -109,10 +111,11 @@ At the smaller blade angles near the flat pitch position, the drag added by the 
 propeller windmilling at high revolutions per minute (rpm) can create enough drag to make the airplane difficult or impossible to
 control. A propeller windmilling at high speed in the low range of blade angles can produce parasite drag as great as the parasite drag
 of the entire airframe.
+13-3
 
 Figure 13-2. Feathered propeller.
+13-4
 
-Figure 13-3. Propeller drag contribution.
 As a review, the constant-speed propellers on almost all single-engine airplanes are of the non-feathering, oil-pressure-to-increase­
 pitch design. In this design, increased oil pressure from the propeller governor drives the blade angle towards high pitch, low rpm.
 In contrast, the constant-speed propellers installed on most multiengine airplanes are full feathering, counterweighted, oil-pressure-to­
@@ -130,8 +133,9 @@ To feather the propeller, the propeller control is brought fully aft. All oil pr
 counterweights drive the propeller blades toward feather. As centrifugal force acting on the counterweights decays from decreasing
 rpm, additional forces are needed to completely feather the blades. This additional force comes from either a spring or high-pressure
 air stored in the propeller dome, which forces the blades into the feathered position. The entire process may take up to 10 seconds.
+Figure 13-3. Propeller drag contribution.
+13-5
 
-Figure 13-4. Pitch change forces.
 Feathering a propeller only alters blade angle and stops engine rotation. To completely secure the engine, the pilot turns off the fuel
 (mixture, electric boost pump, and fuel selector), ignition, alternator/generator, and closes the cowl flaps. If the airplane is
 pressurized, there may also be an air bleed to close for the failed engine. Some airplanes are equipped with firewall shutoff valves that
@@ -153,6 +157,8 @@ present, the engine starts and runs. High oil pressure from the propeller govern
 rotation begins making it available for another unfeathering cycle, if needed. For airplanes used in training, an unfeathering
 accumulator may prolong the life of the electric starter and battery. If the accumulator fails to bring the propeller out of feather, the
 electric starter may be engaged.
+Figure 13-4. Pitch change forces.
+13-6
 
 In any event, the AFM/POH procedures should be followed for the exact unfeathering procedure. Both feathering and starting a
 feathered reciprocating engine on the ground are strongly discouraged by manufacturers due to the excessive stress and vibrations
@@ -201,6 +207,7 @@ they are used from time to time and drained using their external drains during p
 completing a flight with one engine inoperative when an alternate airport is nearby. Pilots should never use crossfeed during takeoff
 or for normal landing operations with both engines operating. A landing with one engine inoperative using crossfeed may be
 necessary if setting normal fuel flow would cause the operative engine to fail.
+13-7
 
 Combustion Heater
 Combustion heaters are another common item on multiengine airplanes not found on single-engine airplanes. A combustion heater is
@@ -247,6 +254,7 @@ airplanes provide another, more vital function of damping Dutch roll characteris
 seated in the rear of the airplane, when the yaw damper is engaged. The yaw damper should be off for takeoff and landing. There may
 be additional restrictions against its use with one engine inoperative. Most yaw dampers can be engaged independently of the
 autopilot.
+13-8
 
 Alternator/Generator
 On a multiengine aircraft, each engine has an alternator or generator installed. Alternator or generator paralleling circuitry matches
@@ -294,6 +302,7 @@ static source becomes blocked. In non-pressurized airplanes, most alternate stat
 airplanes, they are usually plumbed to a non-pressurized baggage compartment. The pilot may activate the alternate static source by
 opening a valve or a fitting in the flight deck. Activation may create airspeed indicator, altimeter, or vertical speed indicator (VSI)
 errors. A correction table is frequently provided in the AFM/POH.
+13-9
 
 Anti-icing/deicing equipment only eliminates ice from the protected surfaces. Significant ice accumulations may form on unprotected
 areas, even with proper use of anti-ice and deice systems. Flight at high angles of attack (AOA) or even normal climb speeds permit
@@ -328,8 +337,8 @@ distance to the vertical distance (10:1, for example). [Figure 13-5B] Unlike rat
 gradient is affected by wind. Climb gradient is improved with a headwind component and reduced
 with a tailwind component.
 Figure 13-5A. Accelerate-stop distance and accelerate-go distance.
+13-10
 
-Figure 13-5B. Climb gradient.
 ⦁ The all-engine service ceiling of multiengine airplanes is the highest altitude at which the airplane can
 maintain a steady rate of climb of 100 fpm with both engines operating. The airplane has reached its
 absolute ceiling when climb is no longer possible.
@@ -344,13 +353,15 @@ single-engine climb performance is adequate for continued flight, and the airpla
 climb after takeoff may be continued. If single-engine climb performance is such that climb is unlikely or impossible, a landing has to
 be made in the most suitable area. To be avoided above all is attempting to continue flight when it is not within the airplane’s
 performance capability to do so. [Figure 13-6]
-Figure 13-6. Area of decision for engine failure after lift-off.
 Takeoff planning factors include weight and balance, airplane performance (both single and multiengine), runway length, slope and
 contamination, terrain and obstacles in the area, weather conditions, and pilot proficiency. Most multiengine airplanes have
 AFM/POH performance charts and the pilot should be proficient in their use. Prior to takeoff, the multiengine pilot should ensure that
 the weight and balance limitations have been observed, the runway length is adequate, and the normal flightpath clears obstacles and
 terrain. The pilot should also consider the appropriate actions expected in the event of an engine failure at any point during the
 takeoff.
+Figure 13-5B. Climb gradient.
+Figure 13-6. Area of decision for engine failure after lift-off.
+13-11
 
 The regulations do not specifically require that the runway length be equal to or greater than the accelerate-stop distance. Most
 AFM/POHs publish accelerate-stop distances only as an advisory. It becomes a limitation only when published in the limitations
@@ -397,6 +408,7 @@ includes the weight of all equipment installed beyond standard. Basic empty weig
 equipment. Note that basic empty weight includes no usable fuel, but full oil.
 Airplanes manufactured prior to the GAMA format generally utilize the following terminology for weight and balance, although the
 exact terms may vary somewhat:
+13-12
 
 empty weight + unusable fuel = standard empty weight
 standard empty weight + optional equipment = licensed empty weight
@@ -440,6 +452,7 @@ Fuel allowed 800 lbs
 Assuming maximum payload, the only weight permitted in excess of the zero fuel weight should consist of usable fuel. In this case,
 133.3 gallons (gal).
 4. Calculate the payload at maximum fuel capacity (180 gal):
+13-13
 
 Basic empty weight 3,200 lbs
 Maximum usable fuel +1,080 lbs
@@ -487,6 +500,7 @@ The pilot should be aware, however, that making a sharp turn assisted by brakes 
 about a stationary inboard wheel and landing gear. The airplane was not designed for this action, and the pilot should not allow it to
 occur. Unless otherwise directed by the AFM/POH, all ground operations should be conducted with the cowl flaps fully open. The
 use of strobe lights is normally deferred until taxiing onto the active runway.
+13-14
 
 Normal and Crosswind Takeoff and Climb
 After completing the before takeoff checklist and pre-takeoff safety brief, and after receiving an air traffic control (ATC) clearance (if
@@ -540,6 +554,7 @@ will be an off-runway landing at the least. After leaving the ground, altitude g
 of airspeed. Experience has shown that excessive speed cannot be effectively converted into altitude in the event of an engine failure.
 Additional altitude increases the time available to recognize and respond to any aircraft abnormality or emergency during the climb
 segment.
+13-15
 
 Excessive climb attitudes can be just as dangerous as excessive airspeed. Steep climb attitudes limit forward visibility and impede the
 pilot’s ability to detect and avoid other traffic. The airplane should be allowed to accelerate in a shallow climb to attain VY, the best
@@ -570,6 +585,7 @@ manifold pressure and rpm somewhat for en route climb. The propellers are usuall
 the yaw damper, if installed, engaged. The AFM/POH may also recommend leaning the mixtures during climb. The climb checklist
 should be accomplished as traffic and work load allow. [Figure 13-7]
 Figure 13-7. Takeoff and climb profile.
+13-16
 
 Short-Field Takeoff and Climb
 The short-field takeoff and climb differs from the normal takeoff and climb in the airspeeds and initial climb profile. Some
@@ -579,7 +595,6 @@ operated only as recommended in the AFM/POH. No operations should be conducted c
 AFM/POH.
 On short-field takeoffs in general, just after rotation and lift-off, the airplane should be allowed to accelerate to VX, making the initial
 climb over obstacles at VX and transitioning to VY as obstacles are cleared. [Figure 13-8]
-Figure 13-8. Short-field takeoff and climb
 When partial flaps are recommended for short-field takeoffs, many light-twins have a strong tendency to become airborne prior to
 VMC plus 5 knots. Attempting to prevent premature lift-off with forward elevator pressure results in wheel barrowing. To prevent
 this, allow the airplane to become airborne, but only a few inches above the runway. The pilot should be prepared to promptly abort
@@ -603,6 +618,8 @@ achieved, and then cruise power and rpm should be set. To extract the maximum cr
 setting tables provided by the manufacturer should be closely followed. If the cylinder head and oil temperatures are within their
 normal ranges, the cowl flaps may be closed. When the engine temperatures have stabilized, the mixtures may be leaned per
 AFM/POH recommendations. The remainder of the cruise checklist should be completed by this point.
+Figure 13-8. Short-field takeoff and climb
+13-17
 
 Fuel management in multiengine airplanes is often more complex than in single-engine airplanes. Depending upon system design, the
 pilot may need to select between main tanks and auxiliary tanks or even employ fuel transfer from one tank to another. In complex
@@ -651,6 +668,7 @@ recovery will take considerable altitude; therefore, it is critical that correct
 Stall Training
 It is recommended that stalls be practiced at an altitude that allows recovery no lower than 3,000 feet AGL for multiengine airplanes,
 or higher if recommended by the AFM/POH. Losing altitude during recovery from a stall is to be expected.
+13-18
 
 Stall characteristics vary among multiengine airplanes just as they do with single-engine airplanes, and therefore, a pilot should be
 familiar with them. Yet, the most important stall recovery step in a multiengine airplane is the same as it is in all airplanes: reduce the
@@ -660,7 +678,6 @@ full application of power in a stalled condition has an associated risk due to t
 engine stalls, or stalls with significantly more power on one engine than the other, should not be attempted due to the likelihood of a
 departure from controlled flight and possible spin entry. Similarly, simulated engine failures should not be performed during stall
 entry and recovery.
-Figure 13-9. Stall recovery procedure.
 Power-Off Approach to Stall (Approach and Landing)
 A power-off approach to stall is trained and checked to simulate problematic approach and landing scenarios. A power-off approach
 to stall may be performed with wings level, or from shallow turns (up to 20 degrees of bank). To initiate a power-off approach to stall
@@ -690,6 +707,8 @@ power available for high gross weight and density altitude situations, the power
 specified. The landing gear should be retracted when a positive rate of climb is attained, and flaps retracted, if flaps were set
 for takeoff. The target airspeed on recovery is VX if (simulated) obstructions are present, or VY. The pilot should anticipate the need
 for nose-down trim as the airplane accelerates to VX or VY after recovery.
+Figure 13-9. Stall recovery procedure.
+13-19
 
 Full Stall
 It is not recommended that full stalls be practiced unless a qualified flight instructor is present. A power-off or power-on full stall
@@ -738,8 +757,8 @@ In the round out for landing, residual power is gradually reduced to idle. With 
 with the drag from two windmilling propellers, there is minimal float. Full stall landings are generally undesirable in twins. The
 airplane should be held off as with a high performance single-engine model, allowing touchdown of the main wheels prior to a full
 stall.
+13-20
 
-Figure 13-10. Normal two-engine approach and landing.
 Under favorable wind and runway conditions, the nose-wheel can be held off for best aerodynamic braking. Even as the nose-wheel is
 gently lowered to the runway centerline, continued elevator back pressure greatly assists the wheel brakes in stopping the airplane.
 If runway length is critical, or with a strong crosswind, or if the surface is contaminated with water, ice, or snow, it is undesirable to
@@ -768,6 +787,8 @@ heading to compensate for wind drift either left or right. Prior to touchdown, t
 lowered and opposite rudder applied to prevent a turn. The airplane touches down on the landing gear of the upwind wing first,
 followed by that of the downwind wing, and then the nose gear. Follow-through with the flight controls involves an increasing
 application of aileron into the wind until full control deflection is reached.
+Figure 13-10. Normal two-engine approach and landing.
+13-21
 
 The point at which the transition from the crab to the sideslip is made is dependent upon pilot familiarity with the airplane and
 experience. With high skill and experience levels, the transition can be made during the round out just before touchdown. With lesser
@@ -808,6 +829,7 @@ obstructions are present. With sufficient airspeed, the flaps should be retracte
 gear retracted when there is a positive rate of climb and no chance of runway contact. The remaining flaps should then be retracted.
 [Figure 13-11]
 Figure 13-11. Go-around procedure.
+13-22
 
 If the go-around was initiated due to conflicting traffic on the ground or aloft, the pilot should consider maneuvering to the side to
 keep the conflicting traffic in sight. This may involve a slight turn to offset from the runway/landing area.
@@ -833,7 +855,6 @@ There are two main considerations for OEI operations—performance and control. 
 maximum rate of climb performance at the blue radial indicated airspeed by training to fly without sideslip. Pilots also learn to
 recognize and recover from loss of directional control associated with the red radial indicated airspeed by performing a VMC
 demonstration. Since the object of
-a VMC demonstration is not performance, sideslip occurs during the maneuver. Detailed
 discussion on both the loss of directional control and maximum OEI climb performance follows.
 Derivation of VMC
 VMC is a speed established by the manufacturer, published in the AFM/POH, and marked on most airspeed indicators with a red
@@ -858,8 +879,9 @@ produce greater thrust than the ascending blade when the airplane is operated un
 descending propeller blade of the right engine is also a greater distance from the center of gravity, and therefore has a longer moment
 arm than the descending propeller blade of the left engine. As a result, failure of the left engine will result in the most asymmetrical
 thrust (adverse yaw) as the right engine will be providing the remaining thrust. [Figure 13-12]
+a VMC demonstration is not performance, sideslip occurs during the maneuver. Detailed
+13-23
 
-Figure 13-12. Forces created during single-engine operation.
 Many twins are designed with a counter-rotating right engine. With this design, the degree of asymmetrical thrust is the same
 with either engine inoperative. No engine is more critical than the other, and a VMC demonstration may be performed with either
 engine windmilling.
@@ -886,8 +908,9 @@ is reduced, as the CG is moved aft. For a typical light twin, the aft-most CG li
 CG position. Historically, 14 CFR part 23 calls for VMC to be determined at the most unfavorable weight.
 For twins certificated under CAR 3 or early 14 CFR part 23, the weight at which VMC was determined was
 not specified. VMC increases as weight is reduced. [Figure 13-13]
+Figure 13-12. Forces created during single-engine operation.
+13-24
 
-Figure 13-13. Effect of CG location on yaw.
 ⦁ Landing gear retracted (section 23.149(b)(4)). VMC increases when the landing gear is retracted.
 Extended landing gear aids directional stability, which tends to decrease VMC.
 ⦁ Flaps in the takeoff position (section 23.149(b)(3)). This normally includes wing flaps and cowl
@@ -916,6 +939,8 @@ be maintained within 20° of the original entry heading when a cut of the critic
 with both engines operating was high, and the pitch attitude following the engine cut had to be quickly lowered to regain the initial
 speed. Transitioning pilots should understand that attempting to demonstrate VMC with an engine cut from high power, or
 intentionally failing an engine at speeds less than VSSE creates a high likelihood for loss of control and an accident.
+Figure 13-13. Effect of CG location on yaw.
+13-25
 
 VMC Demo
 The actual demonstration of VMC and recovery in flight training more closely resembles static VMC determination in aircraft
@@ -963,8 +988,8 @@ While the VMC demonstration shows the earliest onset of a loss of directional co
 foregoing procedures, avoid a stalled condition. Avoid stalls with asymmetrical thrust, such that the VMC demonstration does not
 degrade into a single-engine stall. A VMC demonstration that is allowed to degrade into a single-engine stall with high asymmetrical
 thrust may result in an unrecoverable loss of control and a fatal accident.
+13-26
 
-Figure 13-14. Graph depicting relationship of VMC to VS.
 An actual demonstration of VMC may not be possible under certain conditions of density altitude, or with airplanes whose VMC is
 equal to or less than VS. Under those circumstances, as a training technique, a demonstration of VMC may safely be conducted by
 artificially limiting rudder travel to simulate maximum available rudder. A speed well above VS (approximately 20 knots) is
@@ -993,6 +1018,8 @@ engine inoperative flight were determined at zero sideslip, this technique shoul
 There are two different control inputs that can be used to counteract the asymmetric thrust of a failed engine:
 1. Yaw from the rudder
 2. The horizontal component of lift that results from bank with the ailerons
+Figure 13-14. Graph depicting relationship of VMC to VS.
+13-27
 
 Used individually, neither is correct. Used together in the proper combination, zero sideslip and best climb performance are achieved.
 Three different scenarios of airplane control inputs are presented below. The first two are not correct and can increase the risk of a
@@ -1001,19 +1028,19 @@ loss of control. They are presented to illustrate the reasons for the zero sides
 engine. [Figure 13-15] The result is a moderate sideslip toward the inoperative engine. Climb performance is
 reduced by the moderate sideslip. With wings level, VMC is significantly higher than published as there is no
 horizontal component of lift available to help the rudder combat asymmetrical thrust.
-Figure 13-15. Wings level engine-out flight.
 2. Engine inoperative flight using ailerons alone requires an 8–10° bank angle toward the operative engine.
 [Figure 13-16] This assumes no rudder input, the ball is displaced well toward the operative engine, and climb
 performance is greatly reduced by the large sideslip toward the operative engine. Due to the increased risk of
 loss of control, instructors should not normally demonstrate this.
+Figure 13-15. Wings level engine-out flight.
 Figure 13-16. Excessive bank engine-out flight.
+13-28
 
 3. Rudder and ailerons used together in the proper combination result in a bank of approximately 2° toward the
 operative engine. The ball is displaced approximately one-third to one-half toward the operative engine. The
 result is zero sideslip and maximum climb performance. [Figure 13-17] Any attitude other than zero sideslip
 increases drag, decreasing performance. VMC under these circumstances is higher than published, as less than
 the 5° bank certification limit is employed.
-Figure 13-17. Zero sideslip engine-out flight.
 When bank angle is plotted against climb performance for a hypothetical twin, zero sideslip results in the best (however marginal)
 climb performance or the least rate of descent. Whether the airplane can climb depends on the weight of the airplane, density altitude,
 and pilot technique. If the pilot uses zero bank (all rudder to counteract yaw), climb performance degrades as a result of moderate
@@ -1037,6 +1064,8 @@ In OEI flight at low altitudes and airspeeds such as the initial climb after tak
 against the three major accident factors: (1) loss of directional control, (2) loss of performance, and (3) loss of flying speed. All have
 equal potential to be lethal. Loss of flying speed is not a factor, however, when the airplane is operated with due regard for directional
 control and performance.
+Figure 13-17. Zero sideslip engine-out flight.
+13-29
 
 A takeoff or go-around is the most critical time to suffer an engine failure. The airplane will be slow, close to the ground, and may
 even have landing gear and flaps extended. Altitude and time is minimal. Until feathered, the propeller of the failed engine is
@@ -1055,7 +1084,6 @@ practical options. As discussed earlier, the chances of maintaining directional 
 gear, feathering the propeller, and accelerating are minimal. On some airplanes with a single-engine-driven hydraulic pump, failure of
 that engine means the only way to raise the landing gear is to allow the engine to windmill or to use a hand pump. This is not a viable
 alternative during takeoff.
-Figure 13-18. Engine failure on takeoff, landing gear down.
 Landing Gear Control Selected Up, Single-Engine Climb Performance Inadequate
 When operating near or above the single-engine ceiling and an engine failure is experienced shortly after lift-off, a landing needs to
 be accomplished on whatever essentially lies ahead. [Figure 13-19] There is also the option of continuing ahead, in a descent at
@@ -1063,7 +1091,9 @@ VYSE with the remaining engine producing power, as long as the pilot is not temp
 performance capability. Remaining airborne and bleeding off airspeed in a futile attempt to maintain altitude is almost invariably
 fatal. Landing under control is paramount. The greatest hazard in a single-engine takeoff is attempting to fly when it is not within the
 performance capability of the airplane to do so. An accident is inevitable.
+Figure 13-18. Engine failure on takeoff, landing gear down.
 Figure 13-19. Engine failure on takeoff, inadequate climb performance.
+13-30
 
 Analysis of engine failures on takeoff reveals a very high success rate of off-airport engine inoperative landings when the airplane is
 landed under control. Analysis also reveals a very high fatality rate in stall spin accidents when the pilot attempts flight beyond the
@@ -1074,7 +1104,6 @@ provide hydraulic pressure to raise the gear or raises it manually with a backup
 Landing Gear Control Selected Up, Single-Engine Climb Performance Adequate
 If the single-engine rate of climb is adequate, the procedures for continued flight should be followed. [Figure 13-20] There are four
 areas of concern: control, configuration, climb, and checklist.
-Figure 13-20. Landing gear up—adequate climb performance.
 Control
 The first consideration following engine failure during takeoff is to maintain control of the airplane. Maintaining directional control
 with prompt and often aggressive rudder application and STOPPING THE YAW is critical to the safety of flight. Ensure that
@@ -1092,13 +1121,14 @@ The memory items from the engine failure after takeoff checklist should be promp
 [Figure 13-21] The specific procedures to follow are found in the AFM/POH and checklist for the particular airplane. Most direct the
 pilot to assume VYSE, set takeoff power, retract the flaps and landing gear, identify, verify, and feather the failed engine. (On some
 airplanes, the landing gear is to be retracted before the flaps.)
+Figure 13-20. Landing gear up—adequate climb performance.
+13-31
 
 The “identify” step is for the pilot to initially identify the failed engine. Confirmation on the engine gauges may or may not be
 possible, depending upon the failure mode. Identification should be primarily through the control inputs required to maintain straight
 flight, not the engine gauges. The “verify” step directs the pilot to retard the throttle of the engine thought to have failed. No change
 in performance when the suspected throttle is retarded is verification that the correct engine has been identified as failed. The
 corresponding propeller control should be brought fully aft to feather the engine.
-Figure 13-21. Typical “engine failure after takeoff” emergency checklist.
 Climb
 As soon as directional control is established and the airplane configured for climb, the bank angle should be reduced to that
 producing best climb performance. Without specific guidance for zero sideslip, a bank of 2° and one-third to one-half ball deflection
@@ -1110,8 +1140,9 @@ Having accomplished the memory items from the engine failure after takeoff check
 permits. The securing failed engine checklist should then be accomplished. [Figure 13-22] Unless the pilot suspects an engine fire,
 the remaining items should be accomplished deliberately and without undue haste. Airplane control should never be sacrificed to
 execute the remaining checklists. The priority items have already been accomplished from memory.
+Figure 13-21. Typical “engine failure after takeoff” emergency checklist.
+13-32
 
-Figure 13-22. Typical “securing failed engine” emergency checklist.
 Other than closing the cowl flap of the failed engine, none of these items, if left undone, adversely affect airplane climb performance.
 There is a distinct possibility of actuating an incorrect switch or control if the procedure is rushed. The pilot should concentrate on
 flying the airplane and extracting maximum performance. If an ATC facility is available, an emergency should be declared.
@@ -1137,6 +1168,8 @@ Not all engine failures result in complete power loss. If there is a performance
 some power is still available. In this case, the pilot may consider allowing the engine to run until the airplane reaches a safe altitude
 and airspeed for single-engine flight. While shutdown of a malfunctioning engine may prevent additional damage to the engine in
 certain circumstances, shutting down an engine that can still produce partial power may increase risk for an accident.
+Figure 13-22. Typical “securing failed engine” emergency checklist.
+13-33
 
 Engine Failure During Flight
 Engine failures well above the ground are handled differently than those occurring at lower speeds and altitudes. Cruise airspeed
@@ -1188,6 +1221,7 @@ lighting aids should be utilized if available. Slightly steeper approaches may b
 should be avoided. Large, sudden power applications or reductions should also be avoided. Maintain VYSE until the landing is
 assured, then slow to 1.3 VSO or the AFM/POH recommended speed. The final flap setting may be delayed until the landing is
 assured or the airplane may be landed with partial flaps.
+13-34
 
 The airplane should remain in trim throughout. The pilot should be prepared, however, for a rudder trim change as the power of the
 operating engine is reduced to idle in the round out just prior to touchdown. With drag from only one windmilling propeller, the
@@ -1237,6 +1271,7 @@ smoothly. Other areas leading to dynamic counterweight damage include high rpm a
 boosting, and propeller feathering. Severe damage or repetitive abuse to counterweights will eventually lead to engine failure.
 Dynamic counterweights are found on larger, more complex engines—instructors may check with maintenance personnel or the
 engine manufacturer to determine if their airplane engines are so equipped.
+13-35
 
 When an instructor simulates an engine failure, the learner should respond with the appropriate memory items and retard the
 appropriate propeller control toward the FEATHER position. Assuming zero thrust will be set, the instructor promptly moves the
@@ -1288,6 +1323,7 @@ Following touchdown, the learner will ordinarily maintain directional control wh
 hand on the throttles. The instructor resets the flaps and trim and announces when the airplane has been reconfigured. The
 multiengine airplane uses considerably more runway to perform a touch-and-go than a single-engine airplane. A full stop-taxi back
 landing is preferable during initial familiarization. Solo touch-and-goes in twins are strongly discouraged.
+13-36
 
 Chapter Summary
 Small multiengine airplanes handle much like single-engine airplanes as long as both engines are functioning normally. A competent
@@ -1298,3 +1334,4 @@ an inoperative engine was also described in detail. These two considerations cor
 radial line (VYSE) on the airspeed indicator. The actions a pilot takes when dealing with stalls, VMC, or best performance vary
 greatly. Understanding these concepts, knowing how to mitigate the risks, and possessing the skills to handle an engine failure in a
 variety of situations, allows a pilot to enjoy the increased performance and safety provided when flying a multiengine airplane.
+13-37

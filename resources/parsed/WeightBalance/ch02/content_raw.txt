@@ -1,3 +1,5 @@
+Chapter 2
+Weight and Balance Theory
 Introduction
 Weight and balance in aircraft is based on the law of the lever.
 This chapter discusses the application of the law of the lever
@@ -6,46 +8,8 @@ beam or lever on which various weights are located or shifted.
 The chapter also discusses the documentation pertaining to
 weight and balance that is furnished by the Federal Aviation
 Administration (FAA) and aircraft manufacturers.
-Weight and Balance Theory
+2-1
 
-Figure 2-1. Balance lever.
-B = 200
-A = 100
-Arm B (+25")
-Arm A (−50")
-Fulcrum
-Datum
-− Moment
-+ Moment
-−F
-or
-ce
-s
-+F
-or
-ce
-s
-Figure 2-2. Balance point locations.
-Item
-Weight (lb)
-Arm (in)
-Moment (lb-in)
-−5,000
-+5,000
-Weight A
-Weight B
-−50
-+25
-Figure 2-3. Balance lever datum located off the lever.
-C = 200
-A = 100
-B = 100
-+50
-+90
-+110
-+150
-CG
-Datum
 Weight and Balance Theory
 Two elements are vital in the weight and balance considerations
 of an aircraft.
@@ -97,6 +61,7 @@ CG of a lever may be determined by using these four steps:
 1.
 Measure the arm of each weight in inches from the
 datum.
+2-2
 2.
 Multiply each arm by its weight in pounds to determine
 the moment in pound-inches of each weight.
@@ -117,230 +82,260 @@ forces that try to rotate it clockwise have the same magnitude
 as those that try to rotate it counterclockwise. If either weight
 is moved or changed, the balance point or CG changes and
 the lever becomes unbalanced.
-In Figure 2-3, the datum is located off the lever to the left
-of weight A. Using the information provided in Figure 2-3,
-
-Figure 2-4. Finding balance point with datum located off the lever.
-Item
-Weight (lb)
-Arm (in)
-Moment
-CG
-5,000
-9,000
-30,000
-44,000
-Weight A
-Weight B
-Weight C
-Figure 2-5. Locating balance point.
-C = 200
+Arm A (−50")
+Arm B (+25")
+B = 200
++F
+s
 A = 100
-B = 100
-−20
-−60
-+40
-CG
-Original datum
-New datum
-Figure 2-6. Proving balance point with three weights is correct.
+ce
+or
+or
+ce
+−F
+s
+Fulcrum
+Datum
+− Moment
++ Moment
+Figure 2-1. Balance lever.
 Item
 Weight (lb)
 Arm (in)
 Moment (lb-in)
-−6,000
-−2,000
-+8,000
+−50
 Weight A
+−5,000
++25
 Weight B
-Weight C
-−60
-−20
-+40
-Figure 2-7. Locating balance point with datum at C.
++5,000
+Figure 2-2. Balance point locations.
+In Figure 2-3, the datum is located off the lever to the left
+of weight A. Using the information provided in Figure 2-3,
+Datum
++150
++90
++50
 C = 200
 A = 100
 B = 100
-−60
-−100
-Datum
-Figure 2-8. Determining new balance point.
+CG
++110
+Figure 2-3. Balance lever datum located off the lever.
+
+determine the balance point by making a chart like the one
+its arm is negative or –60 inches. The new arm of weight B is
+in Figure 2-4.
+20 inches (110 – 90), and it is also to the left of the datum, so
+it is –20; the new arm of weight C is 40 inches (150 – 110).
 Item
 Weight (lb)
 Arm (in)
 Moment
 CG
-−10,000
-−6,000
-−16,000
-−40
+It is to the right of the datum and is therefore positive.
 Weight A
+5,000
+The lever is balanced when the sum of the moments is zero.
 Weight B
+9,000
+The location of the datum used for determining the arms of
 Weight C
+30,000
+the weights is not important; it may be in various locations,
+44,000
+but all of the measurements must be made from the same
+datum location.
+Figure 2-4. Finding balance point with datum located off the lever.
+As noted in Figure 2-4, A weighs 100 pounds and is 50 inches
+The procedure for finding the balance point is the same
+anywhere the datum is located. In Figure 2-7, the datum is
+from the datum; B weighs 100 pounds and is 90 inches from
+the datum; C weighs 200 pounds and is 150 inches from the
+located at C. Weight A has an arm of –100 inches (negative
+datum. The total of the weights is 400 pounds, and the total
+because it is to the left) of the datum and weight B has an
+arm of –60 inches from the datum. The table in Figure 2-8
+moment is 44,000 lb-in.
+is used to determine the new balance point.
+Determine the balance point by dividing the total moment
+by the total weight. A balance point is equal to the CG and
+Datum
+can be mathematically written as:
 −100
 −60
-Figure 2-9. Locating balance point with datum left of original.
+CG = total moment
+total weight
 C = 200
 A = 100
 B = 100
-−40
-Datum
-−20
-−60
-+40
-determine the balance point by making a chart like the one
-in Figure 2-4.
-As noted in Figure 2-4, A weighs 100 pounds and is 50 inches
-from the datum; B weighs 100 pounds and is 90 inches from
-the datum; C weighs 200 pounds and is 150 inches from the
-datum. The total of the weights is 400 pounds, and the total
-moment is 44,000 lb-in.
-Determine the balance point by dividing the total moment
-by the total weight. A balance point is equal to the CG and
-can be mathematically written as:
-CG = total moment
-total weight
 To prove this is the correct balance, move the datum to a
 location 110 inches to the right of the original datum and
 determine the arm of each weight from this new datum.
 [Figure 2-5] Then, make a new chart similar to the one in
+Figure 2-7. Locating balance point with datum at C.
 Figure 2-6. If the balance point is correct, the sum of the
-moments is zero.
-The new arm of weight A is 60 inches (the difference between
-110 and 50), and since this weight is to the left of the datum,
-its arm is negative or –60 inches. The new arm of weight B is
-20 inches (110 – 90), and it is also to the left of the datum, so
-it is –20; the new arm of weight C is 40 inches (150 – 110).
-It is to the right of the datum and is therefore positive.
-The lever is balanced when the sum of the moments is zero.
-The location of the datum used for determining the arms of
-the weights is not important; it may be in various locations,
-but all of the measurements must be made from the same
-datum location.
-The procedure for finding the balance point is the same
-anywhere the datum is located. In Figure 2-7, the datum is
-located at C. Weight A has an arm of –100 inches (negative
-because it is to the left) of the datum and weight B has an
-arm of –60 inches from the datum. The table in Figure 2-8
-is used to determine the new balance point.
-To verify that this is the correct balance point, move the datum
-40 inches to the left of the original datum and determine the
-arm of each weight from this new datum as in Figure 2-9.
-
-Figure 2-10. Proving the new balance point is correct.
 Item
 Weight (lb)
 Arm (in)
-Moment (lb-in)
-−6,000
-−2,000
-+8,000
+Moment
+CG
+moments is zero.
+−100
 Weight A
+−10,000
+−60
 Weight B
+−6,000
+Original datum
+New datum
++40
 Weight C
 −60
+−16,000
+−40
 −20
-Figure 2-11. Locating balance point with three weights.
+Figure 2-8. Determining new balance point.
 C = 200
-B = 200
 A = 100
+B = 100
+To verify that this is the correct balance point, move the datum
 CG
+40 inches to the left of the original datum and determine the
+arm of each weight from this new datum as in Figure 2-9.
 Datum
-Before Weight Shift
-Figure 2-12. Proving the new balance point is correct.
+Figure 2-5. Locating balance point.
++40
+−60
 Item
 Weight (lb)
 Arm (in)
 Moment (lb-in)
-−5,000
-+10,000
-+5,000
+−20
+−60
 Weight A
+−6,000
+C = 200
+−20
 Weight B
+−2,000
+A = 100
+B = 100
++40
 Weight C
++8,000
+−40
+Figure 2-6. Proving balance point with three weights is correct.
+Figure 2-9. Locating balance point with datum left of original.
+The new arm of weight A is 60 inches (the difference between
+110 and 50), and since this weight is to the left of the datum,
+2-3
+
+Determine the arm of weight B by dividing its moment,
+The new arm for weight A would be –100 + 40 = –60; for
+–5,000 lb-in, by its weight of 200 pounds. The arm is –25
+weight B, –60 + 40 = –20; and point C, is +40. The lever is
+inches. To balance the lever at its center, weight B must be
+balanced and the balance point is correct when the sum of
+the moments is zero. [Figure 2-10]
+placed so its CG is 25 inches to the left of the center of the
+lever. [Figure 2-13]
+Item
+Weight (lb)
+Arm (in)
+Moment (lb-in)
+After Weight Shift
+Weight A
+−60
+−6,000
+Datum
 −50
-+50
-Figure 2-13. Weight distribution to balance lever.
+Weight B
+−20
+−2,000
+−25
+Weight C
++8,000
 B = 200
 A = 100
 C = 100
-−50
-−25
+Figure 2-10. Proving the new balance point is correct.
 CG
-Datum
-After Weight Shift
-Figure 2-14. Weight shift provides correct CG.
+Shifting the Balance Point or CG
+One common weight and balance problem involves moving
+Figure 2-13. Weight distribution to balance lever.
+or shifting weight from one point to another in order to move
+the balance point or CG to a desired location. This can be
+Figure 2-14 indicates that the shift in weight depicted in
+demonstrated by using a lever with three weights to work
+Figure 2-13 allows the lever to balance as the sum of the
+out the problem.
+moments is zero.
 Item
 Weight (lb)
 Arm (in)
 Moment (lb-in)
-−5,000
-−5,000
-+10,000
-Weight A
-Weight B
-Weight C
-−50
-−25
-+50
-The new arm for weight A would be –100 + 40 = –60; for
-weight B, –60 + 40 = –20; and point C, is +40. The lever is
-balanced and the balance point is correct when the sum of
-the moments is zero. [Figure 2-10]
-Shifting the Balance Point or CG
-One common weight and balance problem involves moving
-or shifting weight from one point to another in order to move
-the balance point or CG to a desired location. This can be
-demonstrated by using a lever with three weights to work
-out the problem.
 Solution by Chart
 As the lever is loaded in Figure 2-11, it balances at a point
+−50
+Weight A
+−5,000
 72 inches from the CG of weight A.
-To shift weight B so the lever balances about its center, 50
-inches from the CG of weight A, first determine the arm of
-weight B that produces a moment that causes the total moment
-of all three weights around this desired balance point to be
-zero. The combined moment of weights A and C around this
-new balance point is 5,000 lb-in, so the moment of weight B
-must be –5,000 lb-in for the lever to balance. [Figure 2-12]
-Determine the arm of weight B by dividing its moment,
-–5,000 lb-in, by its weight of 200 pounds. The arm is –25
-inches. To balance the lever at its center, weight B must be
-placed so its CG is 25 inches to the left of the center of the
-lever. [Figure 2-13]
-Figure 2-14 indicates that the shift in weight depicted in
-Figure 2-13 allows the lever to balance as the sum of the
-moments is zero.
+−25
+Weight B
+−5,000
++50
+Weight C
++10,000
+Before Weight Shift
+Datum
+Figure 2-14. Weight shift provides correct CG.
 Basic Weight and Balance Equation
 The following formulas can be used to determine the distance
+B = 200
+C = 200
 weight must be shifted to obtain a desired change in the CG
+A = 100
 location. The equation can also be rearranged to fi d the
 amount of weight required to be shifted to move the CG
+CG
 to a desired location, to find the distance the CG is moved
 when a specified amount of weight is shifted, or to find the
 total weight that would allow shifting a specified amount of
+Figure 2-11. Locating balance point with three weights.
 weight to move the CG a given distance.
+To shift weight B so the lever balances about its center, 50
 Weight to be shifted = ∆ CG
+inches from the CG of weight A, first determine the arm of
 Total weight Distance weight is shifted
+weight B that produces a moment that causes the total moment
+of all three weights around this desired balance point to be
 Total weight = Weight shifted × Distance weight is shifted
+zero. The combined moment of weights A and C around this
 ∆ CG
+new balance point is 5,000 lb-in, so the moment of weight B
+must be –5,000 lb-in for the lever to balance. [Figure 2-12]
 Weight shifted = Total weight shifted × ∆ CG
 Distance weight is shifted
+Item
+Weight (lb)
+Arm (in)
+Moment (lb-in)
+−50
+Weight A
+−5,000
 ∆ CG = Weight shifted × Distance weight is shifted
+Weight B
 Total weight
+Weight C
++50
++10,000
 Distance weight is shifted = Total weight × ∆ CG
++5,000
 Weight shifted
+Figure 2-12. Proving the new balance point is correct.
+2-4
 
-Figure 2-14. Center of gravity expressed as percent mean
-aerodynamic chord.
-MAC
-MAC
-30% MAC
-15% MAC
-Datum
-Quarter chord
-Half
-semi-span
 Solution by Formula
 The problem in Figure 2-11 can be solved by using variations
 of this basic equation. First, rearrange the formula to
@@ -386,6 +381,7 @@ Weight to be shifted =
 ∆ CG
 Total weight Distance weight is shifted
 200 = 22
+500 55
 .4 = .4
 The equation is balanced.
 Mean Aerodynamic Chord
@@ -397,10 +393,21 @@ length of the mean aerodynamic chord (MAC) or “percent
 MAC.” [Figure 2-14] In order to make such a calculation,
 the position of the leading edge of the MAC must be known
 ahead of time.
+Datum
+15% MAC
+Quarter chord
+MAC
+MAC
+Half
+30% MAC
+semi-span
+Figure 2-14. Center of gravity expressed as percent mean
+aerodynamic chord.
 CG limits are specifiedforward and aft and/or lateral (left and
 right) limits within which the aircraft’s CG must be located
 during flight. The area between the limits is called the CG
 range of the aircraft.
+2-5
 
 The position of the fore and aft CG limits is measured as a
 percentage of MAC from the MAC leading edge. Usually for
@@ -447,6 +454,7 @@ taper to 141.0 in at 2,694 lb and 143.0 in at 2,900 lb
 Aft Limits: 144.6 in at 2,110 lb, with straight line taper to
 147.4 in at 2,570 lb, and to 147.9 in at 2,745 lb, and 148.2
 in at 2,900 lb
+2-6
 S/N 1148 through 1877, 1879 through 1885, and S/N 1005
 through 1147 if Cirrus Service Bulletin SB 20-01-00 is
 complied with:
@@ -487,14 +495,8 @@ Oil Capacity (Wet Sump)
 The quantity of the full oil supply and its arm are given: 8
 quarts at 76.2 in.
 
-Figure 2-15. Sample excerpt from TCDS A00009CH.
-Page No.
-Rev. No.
 DEPARTMENT OF TRANSPORTATION
 FEDERAL AVIATION ADMINISTRATION
-A00009CH
-Cirrus Design Corporation
-April 22, 2009
 TYPE CERTIFICATE DATA SHEET NO. A00009CH
 This data sheet, which is part of Type Certificate No. A00009CH, prescribes conditions and limitations under which the product
 for the which type certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations.
@@ -541,8 +543,17 @@ Low Pitch: 13.9°+/-0.5°
 High Pitch: 35.0°+/-1.0°
 No operating limitations to 2800 RPM
 Spinner: Hartzell P/N A-2295-1(P) NOTE: Spinner may be painted or polished.
+Page No.
+Rev. No.
+Figure 2-15. Sample excerpt from TCDS A00009CH.
+A00009CH
+Revision 16
+Cirrus Design Corporation
+SR20
+SR22
+April 22, 2009
+2-7
 
-Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
 A00009CH
 -2-
 Airspeed Limits
@@ -639,11 +650,10 @@ Zero Fuel:
 2900 lbs.
 S/N 1878, 1886 and subsequent:
 Takeoff and Landing: 3050 lbs.
+Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
+2-8
 
-Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
-Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
 -3-
-A00009CH
 Minimum Crew
 One (1) Pilot
 Number of Seats
@@ -690,13 +700,14 @@ The airplane shall be manufactured in accordance with the latest FAA approved re
 No. 12609 is the predecessor document to Document No. 13750.
 Serial Nos. Eligible
 1005 and on
+Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
 Data Pertinent to All Models
 Reference Datum
 100 inches in front of the forward face of firewall bulkhead
 Leveling Means
 Door sill and leveling points as defined in AFM
-Certification Basis
 Model SR20: 14 CFR Part 23 of the Federal Aviation Regulations effective February 1, 1965, as
+Certification Basis
 amended by 23-1 through 23-47, except as follows:
 14 CFR 23.573, 23.575, 23.611, 23.657, 23.673 through Amendment 23-48;
 14 CFR 23.783, 23.785, 23.867, 23.1303, 23.1307, 23.1309, 23.1311, 23.1321, 23.1323,
@@ -708,30 +719,10 @@ amended by 23-1 through 23-47, except as follows:
 through Amendment 23-51;
 14 CFR 23.1305 through Amendment 23-52
 Noise: 14 CFR Part 36 dated December 1, 1969 as amended by 36-1 through 36-21.
-
-Figure 2-16. Weight and balance report.
-Item
-C.G. Arm (in)
-Moment (lb-in/1,000)
-Standard empty weight
-Optional equipment
-Special installation
-Paint
-Unusable fuel
-Basic empty weight
-1,876.0
-—
-1,913.4
-67,798.6
-—
-1,380.0
-69,452.6
-—
-Aircraft Serial No. 18259080
-FAA Registration No. N42565
-Date: 4-22-09
-Weight (lb) ×
 Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
+A00009CH
+2-9
+
 Note 3.
 FAA approved Airworthiness Limitations are included in Section 4 of the Airplane Maintenance Manual (AMM)
 Document No. 12137-001 for model SR20, and 13773-001 for model SR22.
@@ -744,6 +735,7 @@ Design repair methods or other methods approved by the FAA.
 Note 6.
 For Model SR22 S/N 0002 thru 2333, 2335 thru 2419, and 2421 thru 2437 a maximum landing weight exists
 along the line between 141.4 inches at 3210 lbs and 142.7 inches at 3400 lbs.
+Figure 2-15. Sample excerpt from TCDS A00009CH (continued).
 Data Pertinent to all Models
 The location of the datum is specified and is described, for
 example, as: 100 inches in front of the forward face of the
@@ -764,6 +756,16 @@ equipment are included on the list and checked prior to the
 aircraft leaving the factory.
 When an aircraft mechanic or repairman adds or removes
 any item on the equipment list, he or she must change the
+Aircraft Serial No. 18259080
+Item
+Standard empty weight
+Optional equipment
+Special installation
+Paint
+Unusable fuel
+Basic empty weight
+Figure 2-16. Weight and balance report.
+2-10
 weight and balance record to indicate the new empty weight
 and EWCG, and the equipment list is revised to show
 which equipment is actually installed. Figure 2-17 is from a
@@ -783,7 +785,31 @@ In addition to the weight and balance report and equipment
 list, the manufacturer also provides a CG range chart. The
 CG range can be found in text form in the TCDS. The CG
 range chart is furnished in the POH.
+FAA Registration No. N42565
+Weight (lb) ×
+C.G. Arm (in)
+36.1
+1,876.0
+13.9
+1.2
+41.5
+6.2
+—
+—
+46.0
+30.0
+1,913.4
+Date: 4-22-09
+Moment (lb-in/1,000)
+67,798.6
+16.7
+257.3
+—
+1,380.0
+69,452.6
 
 Figure 2-17. Excerpt from a typical comprehensive equipment list.
+2-11
 
 Figure 2-17. Excerpt from a typical comprehensive equipment list (continued).
+2-12

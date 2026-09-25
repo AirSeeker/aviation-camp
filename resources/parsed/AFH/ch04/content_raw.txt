@@ -40,6 +40,7 @@ fixed reference point (mean sea level or MSL), not on the height above ground le
 elevation. Likewise, the indicated airspeed displayed in the airspeed indicator and its associated kinetic energy are based on the speed
 of the airplane relative to the air, not on the speed relative to the ground below, which varies with changes in wind speed and
 direction.
+4-1
 
 Note that changes in indicated altitude and airspeed are attained through forces resulting from the pilot’s direct manipulation of the
 controls. These direct control inputs determine the airplane’s ability to climb/descend or accelerate/decelerate. In contrast,
@@ -66,6 +67,7 @@ energy over altitude and airspeed may change dramatically during energy exchange
 remain the same at the end of the exchange maneuver [Figure 4-1F], as long as thrust is adjusted to match drag as the latter varies
 with changes in airspeed.
 Figure 4-1 A-F. Examples of typical energy transactions.
+4-2
 
 Managing Energy is a Balancing Act
 Since the airplane gains energy from engine thrust (T) and loses energy through aerodynamic drag (D), energy flows
@@ -80,7 +82,6 @@ W = aircraft weight
 More importantly, there is a fundamental relationship between changes in the airplane’s total energy resulting from this net energy
 flow on one hand, and changes in the energy stored as altitude and airspeed on the other. This fundamental relationship can be
 summarized through the airplane’s energy balance equation. [Figure 4-2]
-Figure 4-2. The energy balance equation.
 The left side of the energy balance equation represents the airplane’s net energy flow, while the right side reflects matching changes
 to the energy storage. Thus, changes to the airplane’s total energy affect the left side of the equation, while the right side shows
 possible changes in energy distribution between altitude and airspeed.
@@ -102,6 +103,8 @@ altitude” by modeling how throttle and elevator inputs affect the airplane’s
 problem of controlling vertical flight path and airspeed becomes one of handling the airplane’s energy state—the total amount
 of energy and its distribution over altitude and speed. Thus, rather than asking what controls altitude and what controls airspeed, a
 pilot can now ask what controls total energy and what controls its distribution over altitude and airspeed.
+Figure 4-2. The energy balance equation.
+4-3
 
 Primary Energy Role of the Throttle and Elevator
 The throttle, by increasing or decreasing engine thrust against drag, regulates changes in total mechanical energy. As illustrated
@@ -128,6 +131,7 @@ total energy between altitude and airspeed. Finally, when the throttle adjusts t
 total energy, but the energy stored as altitude and airspeed can be exchanged between the two reservoirs using the elevator, while total
 energy, at least short-term, remains constant.
 Figure 4-3. The reservoir analogy illustrating the primary role of the throttle and elevator to manage the airplane’s energy state.
+4-4
 
 Additional Role for the Elevator
 On the front side of the power required curve, where the airplane cruises at high speed (1 in Figure 4-4) and a low angle of attack
@@ -146,6 +150,7 @@ excessive deceleration or sink rate as illustrated later in the chapter (refer t
 section).
 Figure 4-4. The front side and backside of the power required curve, the power available curve, and the relative excess power
 available (power available - power required) at different speeds.
+4-5
 
 While the elevator can assist the throttle in changing T – D and PS through changes in airspeed via energy exchange as described
 above, occasionally the elevator can directly increase the “D” in T – D at any given speed during a level turn, thus helping the
@@ -162,6 +167,7 @@ The central principle encapsulating the role of the throttle and elevator for ma
 as follows: coordinated throttle and elevator inputs control the airplane’s energy state. Modifying a popular adage, the principle can
 be restated as “pitch plus power controls energy state.” This central principle serves to guide a set of general energy control rules to
 achieve and maintain any desired vertical flight path and airspeed targets within the airplane’s energy envelope.
+4-6
 
 Visualizing the Airplane’s Ability to “Move” Between Energy States
 To better understand the basic rules of energy control, a pilot needs to visualize an airplane’s energy state and its ability to switch
@@ -171,15 +177,16 @@ charts the status of the aircraft in terms of energy.
 In a navigation map, such as an aeronautical sectional chart, the geographic position of an airplane is determined by two variables—
 latitude and longitude. Likewise, in an “altitude-airspeed” or “energy” map the energy position of an airplane, its energy state,
 is defined by two variables—altitude and airspeed. [Figure 4-6]
-Figure 4-6. The altitude-speed “map” showing lines of constant energy height.
 The position of an airplane in the altitude-airspeed map represents its total specific energy or ES (which is simply the sum of its
 potential and kinetic energies divided by aircraft weight) as determined by its current altitude and airspeed.
+Figure 4-6. The altitude-speed “map” showing lines of constant energy height.
 ES = h + V²
 2g
 Where,
 g = gravitational constant
 h = height (altitude)
 V = velocity (airspeed)
+4-7
 
 Since the total specific energy, ES, has the units of height (e.g., feet), it is usually called energy height. It also gets this name from the
 fact that energy height is the maximum height that an airplane would reach from its current altitude, if it were to trade all its speed for
@@ -212,6 +219,7 @@ airspeeds. At VY then, the airplane can attain the maximum rate of climb while m
 without descending [Figure 4-7].
 Figure 4-7. Energy map depicting specific excess power (PS) contours (shown in feet per minute) and energy trajectories for a
 hypothetical airplane.
+4-8
 
 Three Basic Rules of Energy Control
 An “energy-control” map can help visualize the basic energy control rules. [Figure 4-8] The energy-control map depicts not only the
@@ -236,6 +244,7 @@ trajectory from 1-to-2 with that from 1-to-3 and notice the way the correspondin
 up-elevator; right green arrow = down-elevator) are positioned in relation to the throttle energy arrow (blue arrow = increased
 throttle).
 Figure 4-8. The energy-control map helping to visualize the basic energy control rules.
+4-9
 
 Thus, transitioning to a higher altitude at a constant speed (1-to-2) requires increased throttle and up-elevator to stay on speed, while
 transitioning to a faster airspeed at a constant altitude (1-to-3) demands increased throttle and (gradual) down-elevator to stay on path,
@@ -278,11 +287,11 @@ combining two control rules. One example is when, at maximum cruise airspeed in 
 level airspeed, there is no excess thrust available to increase the airplane’s total energy needed to climb. One solution is to initially
 trade kinetic for potential energy (rule 3.a), slowing down to an airspeed where drag is reduced below thrust, thus allowing the
 airplane to increase its total energy and climb at that slower airspeed (rule 1.a).
+4-10
 
 Mitigating Risks from Mismanagement of Energy
 Besides learning the proper use of the controls for normal energy management tasks, pilots should be equipped with the ability to
 identify, assess, and mitigate two major risks associated with mismanagement of energy: 1)
-unwanted deviations from the
 desired energy state; and 2) unintentional, irreversible deceleration and/or sink rate causing depletion of mechanical energy. The
 first risk involves unintended altitude-airspeed deviations (refer to Managing Energy Errors section). The second risk entails
 unforeseen, continuous airspeed and/or altitude loss coupled with little or no available excess power in a given flight condition (refer
@@ -290,14 +299,18 @@ to Preventing Irreversible Deceleration and/or Sink Rate section).
 Two Energy Management Scenarios
 Two flight scenarios illustrate the two major risks associated with failure to manage the airplane's energy state and how a pilot can
 identify, assess, and mitigate those risks.
+Scenario 1
 Unintentionally descending below the desired glideslope on final approach to landing and failing to make the proper correction.
 [Figure 4-9] To bring the airplane back to the desired glideslope, should the pilot pitch up, throttle up, or both?
-Figure 4-9. Descending below the desired glideslope.
+Scenario 2
 Flying toward rising terrain and not being able to fly up and over it before impacting terrain. [Figure 4-10] Note the rising terrain all
 along the departure corridor. What can the pilot do to prevent an impending crash?
 Figure 4-10. Departing from Runway 33, Aspen/Pitkin County Airport (KASE), elevation 7,820 feet.
 For both scenarios, this section will demonstrate how proper energy management can provide the pilot with the skill to manage the
 associated risks and avoid tragic results.
+Figure 4-9. Descending below the desired glideslope.
+4-11
+unwanted deviations from the
 
 Managing Energy Errors
 In addition to learning effective techniques for maintaining stabilized path-speed profiles (e.g., tracking the glideslope)
@@ -328,6 +341,7 @@ the goal is to return the airplane to its correct energy state (A), following a 
 Lower-and-slower (B) is fundamentally different from lower-and-faster (D). The former requires advancing the throttle forward to
 regain total energy (3 in Figure 4-12), while the latter requires pulling back on the yoke/stick to null the energy distribution error (9
 in Figure 4-12).
+4-12
 
 Figure 4-12. The control skills needed to correct total energy and energy distribution errors identified in Figure 4-11 with an
 additional column giving caution to the “very slow” condition where careful AOA management is needed in addition to energy
@@ -347,8 +361,8 @@ the use of both controls simultaneously.
 In all cases, path and speed should be monitored carefully as they are corrected, adjusting pitch attitude and throttle setting as
 appropriate. Once short-term deviations are corrected, the airplane will need to be trimmed for long-term control to maintain the
 desired path-speed profile (5 in Figure 4-12).
+4-13
 
-Figure 4-13. Energy error management.
 The above approach-to-landing scenario is just one example illustrating the risk of mismanaging altitude-speed deviations.
 Pilots need to be able to identify, assess, and mitigate altitude and/or airspeed deviations during any phase of flight, including traffic
 pattern operations, take-offs and climbs, cruise flight, descending flight, and any procedure or maneuver involving turns.
@@ -365,6 +379,8 @@ To help pilots understand the risk of unintended energy depletion, let’s take 
 scenario illustrates a situation that is all too common in general aviation: flying toward rising terrain and not being able to fly up and
 over it before impacting terrain.
 As shown in Figure 4-10, there is rising terrain all along the departure corridor. The scenario is as follows:
+Figure 4-13. Energy error management.
+4-14
 
 1. A pilot of a normally-aspirated, twin-engine airplane departs out of Rocky Mountain Metropolitan airport
 (KBJC) in the morning on a nice summer day and flies into Aspen/Pitkin County airport (KASE).
@@ -384,6 +400,7 @@ irreversible. This can be shown in two ways, using the traditional power curve [
 Figure 4-14. The energy depletion scenario viewed in the power required and available curve. Compared with the power available
 curve depicted in Figure 4-4, note the lower power available curve at this high elevation (7,820 feet at the departure airport) and
 higher density altitude than standard during a hot afternoon.
+4-15
 
 As illustrated in the airplane's power required and available curves [Figure 4-14], the airplane slows down, going from speed 1 where
 it is climbing (A: power available greater than power required), to speed 2, where it stops climbing (B: power available equal to
@@ -402,6 +419,7 @@ altitude initially to improve climbing performance with full throttle.
 The above recovery scenario is shown in the energy map Figure 4-16, which illustrates the important role of the elevator in
 assisting the pilot to recover from unintentional and dangerous deceleration and/or sink rate (refer to Additional Role for the Elevator
 section).
+4-16
 
 The airplane needs to gain speed at the expense of some altitude, moving from point 3 where the PS < 0 to point 4 where the PS > 0.
 The airplane can then initiate a constant airspeed climb to point 5, at the desired target altitude and airspeed [Figure 4-16]. Note that
@@ -424,6 +442,7 @@ level turns, and high-speed dives too close to the ground.
 The bottom line? Should the airplane ever experience unintended excessive negative energy rates with little or no excess power
 available under a given flight condition, the pilot needs to use proper energy management allowing a prompt recovery and a suitable
 follow-up action.
+4-17
 
 Review of Terms and Definitions
 The terms and definitions specific to this chapter appear below.
@@ -461,6 +480,7 @@ Specific Excess Power (PS)
 Measured in feet per minute or feet per second, it represents rate of energy change—the ability of an airplane to climb or accelerate
 from a given flight condition. Available specific excess power is found by dividing the difference between power available and power
 required by the airplane’s weight.
+4-18
 
 Energy Height or Total Specific Energy (ES)
 Measured in units of height (e.g., feet), it represents the airplane’s total energy per unit weight. It is found by dividing the sum
@@ -492,3 +512,4 @@ inflight (LOC-I), controlled flight into terrain (CFIT), and approach and landin
 to: 1) gain an understanding of basic energy management concepts; 2) learn the energy role of the controls for managing the
 airplane’s energy state; and 3) develop the ability to identify, assess, and mitigate risks associated with failure to manage the airplane’s
 energy state.
+4-19

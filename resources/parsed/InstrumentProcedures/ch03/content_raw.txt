@@ -1,3 +1,5 @@
+Chapter 3
+Arrivals
 Introduction
 Preparation for the arrival and approach begins long
 before the descent from the en route phase of flight.
@@ -6,7 +8,7 @@ pilot’s attention, leaves the pilot free to concentrate on
 precise control of the aircraft and better equipped to deal
 with problems that might arise during the last segment
 of the flight.
-Arrivals
+3-1
 
 This chapter focuses on the current procedures pilots and
 air traffic control (ATC) use for instrument flight rule (IFR)
@@ -57,6 +59,7 @@ other aircraft in adjacent airspace. Therefore, ATC’s ability
 to detect a navigational error and resolve collision hazards
 is seriously degraded when a deviation from a clearance
 occurs.
+3-2
 The concept of navigation performance, previously
 discussed in this book, involves the precision that must
 be maintained for both the assigned route and altitude.
@@ -109,80 +112,87 @@ operational service volumes of ICAO standard NAVAIDs.
 For example, aircraft equipped only with VORs conducts
 
 Class II navigation when the flight operates in an area
-outside the operational service volumes of federal VORs.
-Class II navigation does not automatically require the
-use of long-range, specialized navigational systems if
-special navigational techniques are used to supplement
-conventional NAVAIDs. Class II navigation includes
-transoceanic operations and operations in desolate and
-remote land areas, such as the Arctic. The primary types
-of specialized navigational systems approved for Class II
-operations include inertial navigation system (INS), Doppler,
-and global positioning system (GPS). Figure 3-1 provides
-several examples of Class I and II navigation.
-Descent Planning
-Planning the descent from cruise is important because of
-the need to dissipate altitude and airspeed in order to arrive
 at the approach gate properly configured. Descending early
+outside the operational service volumes of federal VORs.
 results in more flight at low altitudes with increased fuel
+Class II navigation does not automatically require the
 consumption, and starting down late results in problems
+use of long-range, specialized navigational systems if
 controlling both airspeed and descent rates on the
+special navigational techniques are used to supplement
 approach. Prior to flight, pilots need to calculate the fuel,
+conventional NAVAIDs. Class II navigation includes
 time, and distance required to descend from the cruising
+transoceanic operations and operations in desolate and
 altitude to the approach gate altitude for the specific
+remote land areas, such as the Arctic. The primary types
 instrument approach at the destination airport. While
+of specialized navigational systems approved for Class II
 in flight prior to the descent, it is important for pilots to
+operations include inertial navigation system (INS), Doppler,
 verify landing weather to include winds at their intended
+and global positioning system (GPS). Figure 3-1 provides
 destination. Inclimate weather at the destination airport can
+several examples of Class I and II navigation.
 cause slower descents and missed approaches that require
 a sufficient amount of fuel that should be calculated prior to
+Descent Planning
 starting the descent. In order to plan the descent, the pilot
 needs to know the cruise altitude, approach gate altitude
+Planning the descent from cruise is important because of
 or initial approach fix altitude, descent groundspeed, and
-C
-L
-AS
-S I
-C
-L
-AS
-S I
-C
-L
-AS
-S I
-C
-L
-AS
-S I
-C
-L
-AS
-S I
-C
-L
-AS
-S I
+the need to dissipate altitude and airspeed in order to arrive
 VORTAC A
 VORTAC B
+S I
+C
+L
+AS
+AS
+S I
+L
+C
 CLASS II
+S I
+AS
+L
+C
 1 hour or less
+C
+L
+AS
+S I
 CLASS II
+S I
+C
+AS
+L
+L
+C
+AS
 more than 1 hour
+S I
+NOTE:
 The area encompassed by the cylinders represents the volume of airspace within the operational service volume
 (OSV) of ICAO standard NAVAIDs. The altitude of your aircraft with respect to the location of the NAVAID is a
 primary factor in determining OSV range.”
 Your aircraft navigating from A to B is conducting Class I navigation because you remain within the OSV of
+Route 1
 ICAO standard NAVAIDs during your entire flight.
 Your aircraft navigating from A to B is conducting Class I navigation while within the OSV of the NAVAIDs.
+Route 2
 You are conducting Class II navigation during the portion of your route outside the OSV of the NAVAIDs.
 Because the duration of the Class II navigation is 1 hour or less, long-range navigation equipment or a flight
 navigator may not be required.
 Your aircraft navigating from A to B is conducting Class I navigation while within the OSV of the NAVAIDs.
+Route 3
 You are conducting Class II navigation when outside the OSV of the NAVAIDs. The duration of the Class II
 navigation is more than 1 hour. Therefore, long-range navigation equipment or a flight navigator is required.
-NOTE:
 Figure 3-1. Example of Class I and II navigation.
+Route 1
+Route 2
+Route 3
+3-3
 
 descent rate. This information must be updated while
 in flight for changes in altitude, weather, and wind. The
@@ -210,6 +220,8 @@ To determine ROD for a three-degree path, simply multiply
 your groundspeed by 5. If you are going 120 knots, your
 ROD to fly the desired path would be 600 fpm (120 × 5
 = 600). It was determined in the previous example that a
+Figure 3-2. VNAV path construction.
+3-4
 descent should be initiated at 20 NM to lose 6,000 feet. If
 the groundspeed is 120 knots, that means the aircraft is
 moving along at 2 NM per minute. So to go 20 NM, it takes
@@ -235,10 +247,10 @@ equipped aircraft. [Figure 3-2] The VNAV path is computed
 based upon the aircraft performance, approach constraints,
 weather data (winds, temperature, icing conditions, etc.)
 and aircraft weight.
-Figure 3-2. VNAV path construction.
 
 Figure 3-3. VNAV performance path.
 Figure 3-4. VNAV geometric path.
+3-5
 
 The two types of VNAV paths that the FMS use is either a
 performance path or a geometric path. The performance
@@ -259,43 +271,49 @@ LNAV/VNAV minimums make use of certified barometric
 VNAV (baro-VNAV) systems for vertical guidance and/or
 the wide area augmentation system (WAAS) to improve
 GPS accuracy for this purpose.
-GPS
-ENR
-FLAGGED
-A
-C
-T
-A
-C
-T
-S
-B
-Y
-S
-B
-Y
-S
-B
-Y
---.- vor
-MSG PROC FPL
-NAV
-ETE
-GS
-DIST
-BRG
-120kt
-9.74 n
-m
-332°
-TRK 332°
-Lnav/Vnav
-SUNOL
-RW34Lm
-DTK
-346°
 This GPS/RNAV provides lateral and vertical
 guidance during an RNAV approach.
+TRK 332°
+332°
+9.74 n
+119.000
+A
+C
+m
+T
+DIST
+BRG
+121.600
+S
+B
+Y
+DTK
+114.10
+A
+346°
+C
+T
+--.- vor
+116.00
+S
+B
+Y
+GS
+ETE
+S
+B
+04:52
+Y
+120kt
+Lnav/Vnav
+FLAGGED
+C345
+SUNOL
+RW34Lm
+GPS
+ENR
+MSG PROC FPL
+NAV
 Figure 3-5. WAAS data provide lateral and vertical guidance.
 Note: WAAS makes use of a collection of ground stations
 that are used to detect and correct inaccuracies in the
@@ -310,6 +328,7 @@ enabled GPS receiver [Figure 3-5] allows the pilot to load an
 RNAV approach and receive guidance along the lateral and
 vertical profile shown on the approach chart. [Figure 3-6]
 It is very important to know what kind of equipment is
+3-6
 installed in an aircraft, and what it is approved to do. It is
 also important to understand that the VNAV function of
 non-WAAS capable or non-WAAS equipped IFR-approved
@@ -361,33 +380,22 @@ is based on a Mach .80 airspeed until 280 knots indicated
 airspeed (KIAS) is obtained. The 250 knot airspeed limitation
 
 Figure 3-6. RNAV (GPS) approach.
+3-7
 
-Figure 3-7. Jet descent task.
-Pressure Altitude
-(1,000 feet)
-Note: Subtract 30 lb of fuel and 36 seconds for each
-1,000 feet that the destination airport is above sea level
-Time
-(minutes)
-Fuel
-(pounds)
-Distance
-(NM)
-NOTE:
-.80/280
-SAMPLE NOT FOR ACTUAL USE
-below 10,000 feet MSL is not included on the chart, since its
-effect is minimal. Also, the effect of temperature or weight
-variation is negligible and is therefore omitted.
-Due to the increased flight deck workload, pilots should
-get as much done ahead of time as possible. As with the
-climb and cruise phases of flight, aircrews should consult
-the proper performance charts to compute their fuel
-requirements, as well as the time and distance needed for
 their descent.
 During the cruise and descent phases of flight, pilots
+.80/280
 need to monitor and manage the aircraft according to
+Pressure Altitude
+Time
+Fuel
+Distance
+SAMPLE NOT FOR ACTUAL USE
 the appropriate manufacturer’s recommendations. Flight
+(1,000 feet)
+(minutes)
+(pounds)
+(NM)
 manuals and operating handbooks contain cruise and
 descent checklists, performance charts for specific cruise
 configurations, and descent charts that provide information
@@ -404,32 +412,45 @@ descent from cruising altitude so that the aircraft arrives at
 the approach gate altitude or initial approach fix altitude
 prior to beginning the instrument approach. For example,
 suppose you are asked to descend from 11,000 feet to
+NOTE:
 meet a crossing restriction at 3,000 feet. [Figure 3-8] Since
+Note: Subtract 30 lb of fuel and 36 seconds for each
+1,000 feet that the destination airport is above sea level
 there is a 200 knot speed restriction while approaching
 the destination airport, you choose a descent speed of
 190 knots and a descent rate of 1,000 fpm. Assuming a 10
+Figure 3-7. Jet descent task.
 knot headwind component, groundspeed in the descent
 is 180 knots.
+below 10,000 feet MSL is not included on the chart, since its
+effect is minimal. Also, the effect of temperature or weight
 Descending From the En Route Altitude
+variation is negligible and is therefore omitted.
 Making the transition from cruise flight to the beginning
+Due to the increased flight deck workload, pilots should
 of an instrument approach procedure sometimes requires
+get as much done ahead of time as possible. As with the
 arriving at a given waypoint at an assigned altitude. When
+climb and cruise phases of flight, aircrews should consult
 this requirement is prescribed by a published arrival
+the proper performance charts to compute their fuel
 procedure or issued by ATC, it is called a crossing restriction.
+requirements, as well as the time and distance needed for
 Even when ATC allows a descent at the pilot’s discretion,
-Wind
 Top-of-descent point
-Bottom-of-descent point
-ECA VOR
-Cruising altitude
-ft
-Assigned altitude
-ft
 Cruising speed
 knots
+Wind
+Cruising altitude
+ft
 Descent speed and rate
+Bottom-of-descent point
 knots @ 1,000 fpm
+Assigned altitude
+ft
+ECA VOR
 Figure 3-8. The descent planning task.
+3-8
 
 aircrews need to choose a waypoint and altitude for
 positioning convenient to start the approach. In either case,
@@ -528,8 +549,8 @@ terrain clearance. Know the height of the highest terrain
 and obstacles in the operating area and your position in
 relation to the surrounding high terrain.
 The following are excerpts from CFIT accidents related
+3-9
 
-“I need to check my altitude requirement.”
 “....cleared present position direct.....”
 Figure 3-9. Altitude management when cleared direct.
 to descending on arrival: “…delayed the initiation of the
@@ -566,6 +587,8 @@ out sights of interest, and filling out company payroll and
 related records are not required for the safe operation of
 the aircraft. (b) No flight crewmember may engage in, nor
 may any pilot in command permit, any activity during
+3-10
+“I need to check my altitude requirement.”
 a critical phase of flight that could distract any flight
 crewmember from the performance of his or her duties or
 which could interfere in any way with the proper conduct
@@ -601,6 +624,7 @@ pavement. This is primarily because STARs serve multiple
 runways and sometimes multiple airports.
 
 Figure 3-10. Arrival charts.
+3-11
 
 STARs greatly help to facilitate the transition between the
 en route and approach phases of flight. The STAR will end
@@ -650,6 +674,7 @@ the descent and deceleration profiles. RNAV STARs often
 are designed, coordinated, and approved by a joint effort
 between air carriers, commercial operators, and the ATC
 facilities that have jurisdiction for the affected airspace.
+3-12
 RNAV STAR procedure design, such as minimum leg
 length, maximum turn angles, obstacle assessment criteria,
 including widths of the primary and secondary areas, use
@@ -670,15 +695,18 @@ designated for high-traffic areas. Controllers may clear a
 pilot to use an RNAV STAR in various ways.
 If the pilots clearance simply states, “cleared HADLY ONE
 arrival,” the pilot is to use the arrival for lateral routing only.
+•
 A clearance such as “cleared HADLY ONE arrival,
 descend and maintain flight level two four zero,”
 clears the pilot to descend only to the assigned
 altitude, and then should maintain that altitude until
 cleared for further descent.
+•
 If the pilot is cleared using the phrase “descend via,”
 the controller expects the pilot to use the equipment
 for both lateral guidance and altitude restrictions, as
 published on the chart.
+•
 The controller may also clear the pilot to use the
 arrival with specific exceptions—for example,
 “Descend via the HARIS ONE arrival, except cross
@@ -688,6 +716,7 @@ arrival both laterally and vertically, descending so as
 to comply with all altitude and airspeed restrictions
 until reaching BRUNO, and then maintain 10,000 feet
 until cleared by ATC to continue to descend.
+•
 Pilots might also be given direct routing to intercept
 a STAR and then use it for both lateral guidance and
 altitude restrictions. For example, “Proceed direct
@@ -718,8 +747,10 @@ cleared to the Seattle/Tacoma International Airport as filed.
 Maintain 12,000. At the Ephrata VOR, intercept the 221°
 radial to CHINS Intersection. Intercept the 284° radial of the
 Yakima VOR to RADDY Intersection. Cross RADDY at 10,000.
+3-13
 
 Figure 3-12. Reducing pilot/controlling workload.
+3-14
 
 Continue via the Yakima 284° radial to AUBRN Intersection.
 Expect radar vectors to the final approach course.”
@@ -733,19 +764,25 @@ what to expect. Effective communication increases with the
 reduction of repetitive clearances, decreasing congestion
 on control frequencies. To accomplish this, STARs are
 developed according to the following criteria:
+Figure 3-13. STAR symbology.
+•
 STARs must be simple, easily understood and, if
 possible, limited to one page.
+•
 A STAR transition should be able to accommodate as
 many different types of aircraft as possible.
+•
 VHF Omnidirectional Range/Tactical Aircraft Control
 (VORTACs) are used wherever possible, with some
 exceptions on RNAV STARs, so that military and
 civilian aircraft can use the same arrival.
+•
 DME arcs within a STAR should be avoided since
 not all aircraft operating under IFR are equipped to
 navigate them.
+•
 Altitude crossing and airspeed restrictions are
-Figure 3-13. STAR symbology.
+3-15
 
 included when they are assigned by ATC a majority
 of the time. [Figure 3-12]
@@ -796,6 +833,7 @@ the en route structure to the final approach course. They
 also may lead to a fix where radar vectors are provided
 to intercept the final approach course. Pilots may have
 noticed that minimum crossing altitudes and airspeed
+3-16
 restrictions appear on some STARs. These expected
 altitudes and airspeeds are not part of the clearance until
 ATC includes them verbally. A STAR is simply a published
@@ -847,6 +885,7 @@ so on. (Naming conventions for approaches are covered in
 more depth in the next chapter). [Figure 3-15]
 
 Figure 3-14. Arrival clearance.
+3-17
 
 NOT FOR
 NAVIGATION
@@ -880,6 +919,7 @@ In the United States, Canada, and many other countries,
 the common altitude for changing to the standard
 altimeter setting of 29.92 inches of mercury ("Hg) (or
 1013.2 hectopascals or millibars) when climbing to the high
+3-18
 altitude structure is 18,000 feet. When descending from
 high altitude, the altimeter should be changed to the local
 altimeter setting when passing through FL 180, although
@@ -907,6 +947,7 @@ and begin their descent 30 to 40 NM from touchdown on
 the landing runway. Unless pilots indicate an operational
 need for a lower altitude, descent below 5,000 feet above
 the airport elevation is typically limited to an altitude where
+OV 2010
 
 Figure 3-16. Assigned altitudes.
 final descent and glideslope/glidepath intercept can be
@@ -934,24 +975,13 @@ approach and landing runway pilots use, ATC will not
 permit a change to another NAVAID that is not aligned with
 the landing runway. When altitude restrictions are required
 for separation purposes, ATC avoids assigning an altitude
+3-19
 
-NOT FOR NAVIGATION
-"
 "Piper 6319K, cross PENNS Intersection at 6,000, maintain 6,000.
-NE-2, 21 OCT 2010 to 18 NOV 2010
-If you are at RACKI Intersection at 12,000 feet
-MSL, you must adjust your rate of descent so
-you can reach 6,000 feet MSL in the distance
-available. At a groundspeed of 180 knots (3
-NM per minute), you will reach PENNS
-Intersection in approximately 8 minutes (23 ÷ 3
-= 7.6). You must descend at least 750 feet per
-minute to cross PENNS at 6,000 feet MSL
-(6,000 ÷ 8 = 750).
+NOT FOR NAVIGATION
 You are at HAYED Intersection at 12,000 feet MSL. Your planned rate of descent is 500 fpm and your groundspeed
 is approximately 180 knots (3 NM per minute). You should begin your descent no less than 36 NM from PENNS
 Intersection ([6,000 ÷ 500] x 3 = 36).
-NE-2, 21 OCT 2010 to 18 NOV 2010
 Figure 3-17. Altitude restrictions.
 below 5,000 feet above the airport elevation.
 There are numerous exceptions to the high performance
@@ -973,6 +1003,19 @@ ft/NM (approximately 10°).
 Remember during arrivals, when cleared for an instrument
 approach, maintain the last assigned altitude until
 established on a published segment of the approach or on
+3-20
+"
+NE-2, 21 OCT 2010 to 18 NOV 2010
+If you are at RACKI Intersection at 12,000 feet
+MSL, you must adjust your rate of descent so
+you can reach 6,000 feet MSL in the distance
+available. At a groundspeed of 180 knots (3
+NM per minute), you will reach PENNS
+Intersection in approximately 8 minutes (23 ÷ 3
+= 7.6). You must descend at least 750 feet per
+minute to cross PENNS at 6,000 feet MSL
+(6,000 ÷ 8 = 750).
+NE-2, 21 OCT 2010 to 18 NOV 2010
 a segment of a published route. If no altitude is assigned
 with the approach clearance and the aircraft is already on a
 published segment, the pilot can descend to its minimum
@@ -996,7 +1039,6 @@ airspeed by 10 knots, or multiples thereof. When the speed
 adjustment is no longer needed, ATC advises the pilot to “…
 resume normal speed.”
 
-T
 Keep in mind that the maximum speeds specified in 14 CFR
 Part 91, § 91.117 still apply during speed adjustments. It is
 the pilot’s responsibility to advise ATC if an assigned speed
@@ -1027,6 +1069,10 @@ expected to comply with the 200 KIAS limit specified in 14
 CFR Part 91, § 91.117(c). (See 14 CFR Part 91, § 91.117(c)
 and 91.703.) Approach clearances cancel any previously
 assigned speed adjustment.
+“...Viking 5786P, hold east of the 20 DME fix on the
+265° radial of the stedman VORTAC, 5 mile legs...”
+Figure 3-18. Instead of flying for a specific time after passing the holding fix, these holding patterns use distances to mark where the
+turns are made. The distances come from DME or IFR-certified GPS equipment.
 Holding Patterns
 If aircraft reach a clearance limit before receiving a further
 clearance from ATC, a holding pattern is required at the
@@ -1057,15 +1103,13 @@ entry and holding procedures as conventional holding
 patterns. The controller or the instrument approach
 procedure chart specifies the length of the outbound leg.
 The end of the outbound leg is determined by the DME
-Figure 3-18. Instead of flying for a specific time after passing the holding fix, these holding patterns use distances to mark where the
-turns are made. The distances come from DME or IFR-certified GPS equipment.
-SE
-“...Viking 5786P, hold east of the 20 DME fix on the
-265° radial of the stedman VORTAC, 5 mile legs...”
 “...Bonanza 8394K, hold
 northeast of the 16 DME fix on
 the 030° radial of the stedman
 VORTAC, 5 mile legs...”
+SE
+T
+3-21
 
 or the along track distance (ATD) readout. The holding
 fix on conventional procedures, or controller-defined
@@ -1085,6 +1129,9 @@ need to understand their aircraft’s FMS holding program to
 ensure that the holding entry procedures and leg lengths
 match the holding pattern. Some situations may require
 pilot intervention in order to stay within protected airspace.
+NOT FOR NAVIGATION
+Figure 3-19. Cleared present position direct from V295.
+3-22
 [Figure 3-18]
 Approach Clearance
 The approach clearance provides guidance to a position
@@ -1102,13 +1149,13 @@ issue a circling approach clearance, such as “…cleared
 for VOR Runway 17 approach, circle to land Runway 23.”
 Approaches whose final approach segment is more than 30
 degrees different from the landing runway alignment are
-NOT FOR NAVIGATION
-Figure 3-19. Cleared present position direct from V295.
 
 NOT FOR NAVIGATION
 SE-3, 21 OCT 2010 to 18 NOV 2010
-SE-3, 21 OCT 2010 to 18 NOV 2010
 Figure 3-20. Cleared for the Palm Beach ILS approach.
+Direct from V295
+SE-3, 21 OCT 2010 to 18 NOV 2010
+3-23
 
 always designated as circling approaches. Unless a specific
 landing runway is specified in the approach clearance,
@@ -1159,6 +1206,7 @@ Figure 3-19, after passing ZISUR intersection outbound,
 commence the descent to 2,000 feet for the course reversal.
 The ILS procedure relies heavily on the controller’s
 recognition of the restriction upon the pilot to maintain
+3-24
 the last assigned altitude until “established” on a published
 segment of the approach. Prior to issuing a clearance for the
 approach, the controller usually assigns the pilot an altitude
@@ -1168,18 +1216,18 @@ Radar Vectors to Final Approach Course
 Arriving aircraft usually are vectored to intercept the final
 approach course, except with vectors for a visual approach,
 at least 2 NM outside the approach gate unless one of the
-Figure 3-21. Arrival instructions when established.
-IAF
-IAF
 LIMA
 LOM
 6 DME
 X-RAY
 INT
 12 DME
-20 DME
 ALPHA
+20 DME
 INT
+IAF
+IAF
+Figure 3-21. Arrival instructions when established.
 
 following exists:
 1. When the reported ceiling is at least 500 feet above
@@ -1228,12 +1276,12 @@ established on a segment of the instrument approach
 procedure. “Seven miles from X-RAY. Cleared ILS runway
 three six approach.”
 Aircraft 2 is being vectored to a published segment of
-Figure 3-22. Arrival instructions when not established.
-12 DME
-ALPHA
 IAF
+ALPHA
 FAF
+12 DME
 Straight-in ILS
+Figure 3-22. Arrival instructions when not established.
 the final approach course, 4 NM from LIMA at 2,000 feet.
 The minimum vectoring altitude for this area is 2,000 feet.
 “Four miles from LIMA. Turn right heading three four zero.
@@ -1251,6 +1299,7 @@ When ATC issues a vector or clearance to the final approach
 course beyond the published segment, controllers assign
 an altitude to maintain until the aircraft is established on
 a segment of a published route or IAP. This ensures that
+3-25
 
 both the pilot and controller know precisely what altitude
 is to be flown and precisely where descent to appropriate
@@ -1278,6 +1327,23 @@ ILS final approach course, 3 NM from Alpha at 4,000 feet.
 The minimum vectoring altitude for this area is 4,000 feet.
 “Three miles from Alpha. Turn left heading two one zero.
 Maintain four thousand until established on the localizer.
+Special Airports
+Kodiak, AK
+Petersburg, AK
+Cape Newenham AFS, AK
+Washington, DC (National)
+Shenandoah Valley, VA
+(Stanton-Waynesboro-Harrisonburg)
+Aspen, CO
+Gunnison, CO
+Missoula, MT
+Jackson Hole, WY
+Hailey, ID (Friedman Memorial)
+Hayden, Yampa Valley, CO
+Lihue, Kauai, HI
+Ontario, CA
+Figure 3-27. Special airports and comments.
+3-26
 Cleared ILS runway one eight approach.”
 The ATC assigned altitude ensures IFR obstruction
 clearance from the point at which the approach clearance
@@ -1303,21 +1369,6 @@ the routes and into airports where scheduled operations
 are conducted, including areas, routes, and airports in
 which special pilot qualifications or special navigation
 qualifications are needed. For Part 119 certificate holders
-Special Airports
-Kodiak, AK
-Petersburg, AK
-Cape Newenham AFS, AK
-Washington, DC (National)
-Shenandoah Valley, VA
-(Stanton-Waynesboro-Harrisonburg)
-Aspen, CO
-Gunnison, CO
-Missoula, MT
-Jackson Hole, WY
-Hailey, ID (Friedman Memorial)
-Hayden, Yampa Valley, CO
-Lihue, Kauai, HI
-Ontario, CA
 Comments
 Airport is surrounded by mountainous terrain. Any go-around beyond ILS or GCA
 MAP will not provide obstruction clearance.
@@ -1336,10 +1387,12 @@ Mountainous terrain; no control tower; special engine-out procedures for certain
 large aircraft.
 High terrain; mountainous to 2,300 feet within 3 miles of the localizer.
 Mountainous terrain and extremely limited visibility in haze conditions.
-Figure 3-27. Special airports and comments.
 
 who conduct operations under 14 CFR Part 121, § 121.443,
 there are provisions in OpSpecs under which operators can
 comply with this regulation. Figure 3-27 provides some
 examples of special airports in the United States along with
 associated comments.
+3-27
+
+3-28

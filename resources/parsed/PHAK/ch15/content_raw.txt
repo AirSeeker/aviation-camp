@@ -1,3 +1,6 @@
+Chapter 4
+Principles of
+Flight
 Introduction
 This chapter examines the fundamental physical laws
 governing the forces acting on an aircraft in flight, and
@@ -18,11 +21,8 @@ The heavier elements, such as oxygen, settle to the surface
 of the Earth, while the lighter elements are lifted up to the
 region of higher altitude. Most of the atmosphere’s oxygen
 is contained below 35,000 feet altitude.
-Principles of
-Flight
+4-1
 
-Leading edge of wing under 1,500x magnification
-Figure 4-1. Microscopic surface of a wing.
 Air is a Fluid
 When most people hear the word “fluid,” they usually think
 of liquid. However, gasses, like air, are also fluids. Fluids
@@ -54,6 +54,9 @@ than grease and flows much more easily, but it is more viscous
 and flows more slowly than gasoline.
 All fluids are viscous and have a resistance to flow, whether
 or not we observe this resistance. We cannot easily observe
+Figure 4-1. Microscopic surface of a wing.
+4-2
+Leading edge of wing under 1,500x magnification
 the viscosity of air. However, since air is a fluid and has
 viscosity properties, it resists flow around any object to
 some extent.
@@ -84,63 +87,6 @@ a relative velocity near zero. The roughness of the surface
 impedes their motion. The layer of molecules that adhere to
 the wing surface is referred to as the boundary layer.
 
-Inches of
-Mercury
-Millibars
-Standard
-Sea Level
-Pressure
-Hg
-Standard
-Sea Level
-Pressure
-mb
-A t m o s p h e r i c P r e s s u r e
-Figure 4-2. Standard sea level pressure.
-Altitude (ft)
-Pressure (Hg)
-Temperature
-(°C)
-(°F)
-Standard Atmosphere
-1,000
-2,000
-3,000
-4,000
-5,000
-6,000
-7,000
-8,000
-9,000
-10,000
-11,000
-12,000
-13,000
-14,000
-15,000
-16,000
-17,000
-18,000
-19,000
-20,000
--0.9
--2.8
--4.8
--6.8
--8.8
--10.8
--12.7
--14.7
--16.7
--18.7
--20.7
--22.6
--24.6
--1.6
--5.2
--8.8
--12.3
-Figure 4-3. Properties of standard atmosphere.
 Once the boundary layer of the air adheres to the wing by
 friction, further resistance to the airflow is caused by the
 viscosity, the tendency of the air to stick to itself. When
@@ -189,10 +135,115 @@ when pressure decreases at a rate of approximately 1 "Hg
 per 1,000 feet of altitude gain to 10,000 feet. [Figure 4-3]
 The International Civil Aviation Organization (ICAO) has
 established this as a worldwide standard, and it is often
+Inches of
+Millibars
+Standard
+Standard
+Mercury
+Sea Level
+Sea Level
+Pressure
+Pressure
+29.92
+Hg
+mb
+A t m o s p h e r i c P r e s s u r e
+Figure 4-2. Standard sea level pressure.
+Standard Atmosphere
+Temperature
+Altitude (ft)
+Pressure (Hg)
+(°C)
+(°F)
+29.92
+15.0
+59.0
+1,000
+28.86
+13.0
+55.4
+2,000
+27.82
+11.0
+51.9
+3,000
+26.82
+9.1
+48.3
+4,000
+25.84
+7.1
+44.7
+5,000
+24.89
+5.1
+41.2
+6,000
+23.98
+3.1
+37.6
+7,000
+23.09
+1.1
+34.0
+8,000
+22.22
+-0.9
+30.5
+9,000
+21.38
+-2.8
+26.9
+10,000
+20.57
+-4.8
+23.3
+11,000
+19.79
+-6.8
+19.8
+12,000
+19.02
+-8.8
+16.2
+13,000
+18.29
+-10.8
+12.6
+14,000
+17.57
+-12.7
+9.1
+15,000
+16.88
+-14.7
+5.5
+16,000
+16.21
+-16.7
+1.9
+17,000
+15.56
+-18.7
+-1.6
+18,000
+14.94
+-20.7
+-5.2
+19,000
+14.33
+-22.6
+-8.8
+20,000
+13.74
+-24.6
+-12.3
+Figure 4-3. Properties of standard atmosphere.
 referred to as International Standard Atmosphere (ISA) or
 ICAO Standard Atmosphere. Any temperature or pressure
 that differs from the standard lapse rates is considered
 nonstandard temperature and pressure.
+4-3
 
 Since aircraft performance is compared and evaluated with
 respect to the standard atmosphere, all aircraft instruments are
@@ -228,8 +279,11 @@ level in the standard atmosphere at which a given density is
 to be found. The density of air has significant effects on the
 aircraft’s performance because as air becomes less dense,
 it reduces:
+•
 Power because the engine takes in less air
+•
 Thrust because a propeller is less efficient in thin air
+•
 Lift because the thin air exerts less force on the airfoils
 Density altitude is pressure altitude corrected for nonstandard
 temperature. As the density of the air increases (lower
@@ -242,6 +296,7 @@ aircraft performance because under standard atmospheric
 conditions, air at each level in the atmosphere not only has
 a specific density, its pressure altitude and density altitude
 identify the same level.
+4-4
 The computation of density altitude involves consideration
 of pressure (pressure altitude) and temperature. Since aircraft
 performance data at any level is based upon air density under
@@ -382,14 +437,8 @@ its direction.
 Newton’s Second Law: “Force is equal to the change in
 momentum per change in time. For a constant mass, force
 equals mass times acceleration.”
+4-5
 
-VELOCITY
-PRESSURE
-VELOCITY
-PRESSURE
-VELOCITY
-PRESSURE
-Figure 4-4. Air pressure decreases in a venturi tube.
 When a body is acted upon by a constant force, its resulting
 acceleration is inversely proportional to the mass of the body
 and is directly proportional to the applied force. This takes
@@ -424,6 +473,8 @@ amount of air to pass in the same amount of time as in all
 other parts of the tube. When the air speeds up, the pressure
 also decreases. Past the constriction, the airflow slows and
 the pressure increases. [Figure 4-4]
+Figure 4-4. Air pressure decreases in a venturi tube.
+4-6
 Since air is recognized as a body, and it is understood that
 air will follow the above laws, one can begin to see how
 and why an airplane wing develops lift. As the wing moves
@@ -458,139 +509,114 @@ connecting the extremities of the leading and trailing edges.
 The distance from this chord line to the upper and lower
 surfaces of the wing denotes the magnitude of the upper and
 lower camber at any point. Another reference line, drawn
+VELOCITY
+PRESSURE
+VELOCITY
+PRESSURE
+VELOCITY
+PRESSURE
+I0
+I0
+I0
+I0
+I0
+I0
 
-Early airfoil
-Later airfoil
-Laminar flow airfoil
-(Subsonic)
-Circular arc airfoil
-(Supersonic)
-Double wedge airfoil
-(Supersonic)
-Clark 'Y' airfoil
-(Subsonic)
-Figure 4-6. Airfoil designs.
-Ca
-mb
-er
+lift and is not suitable for high-speed flight. Advancements
+in engineering have made it possible for today’s high-speed
+Mean camber line
+Trailing edge
+jets to take advantage of the concave airfoil’s high lift
+characteristics. Leading edge (Kreuger) flaps and trailing
 of
 up
+er
 pe
+mb
 r s
+Ca
 urface
+edge (Fowler) flaps, when extended from the basic wing
+structure, literally change the airfoil shape into the classic
+surface
+ower
 Camb
 er of l
-ower
-surface
-Trailing edge
+concave form, thereby generating much greater lift during
+slow flight conditions.
 Leading edge
-Mean camber line
 Chord line
+On the other hand, an airfoil that is perfectly streamlined
+and offers little wind resistance sometimes does not have
 Figure 4-5. Typical airfoil section.
+enough lifting power to take the airplane off the ground.
+Thus, modern airplanes have airfoils that strike a medium
 from the leading edge to the trailing edge, is the mean camber
+between extremes in design. The shape varies according to
 line. This mean line is equidistant at all points from the upper
+the needs of the airplane for which it is designed. Figure 4-6
 and lower surfaces.
+shows some of the more common airfoil designs.
 An airfoil is constructed in such a way that its shape takes
+Low Pressure Above
 advantage of the air’s response to certain physical laws. This
+In a wind tunnel or in flight, an airfoil is simply a streamlined
 develops two actions from the air mass: a positive pressure
+object inserted into a moving stream of air. If the airfoil
 lifting action from the air mass below the wing, and a negative
+profile were in the shape of a teardrop, the speed and the
 pressure lifting action from lowered pressure above the wing.
+pressure changes of the air passing over the top and bottom
+would be the same on both sides. But if the teardrop shaped
 As the air stream strikes the relatively flat lower surface of
+airfoil were cut in half lengthwise, a form resembling the
 a wing or rotor blade when inclined at a small angle to its
+basic airfoil (wing) section would result. If the airfoil were
 direction of motion, the air is forced to rebound downward,
+then inclined so the airflow strikes it at an angle, the air
 causing an upward reaction in positive lift. At the same time,
+moving over the upper surface would be forced to move
 the air stream striking the upper curved section of the leading
+faster than the air moving along the bottom of the airfoil.
 edge is deflected upward. An airfoil is shaped to cause an
+This increased velocity reduces the pressure above the airfoil.
 action on the air, and forces air downward, which provides
 an equal reaction from the air, forcing the airfoil upward. If
+Applying Bernoulli’s Principle of Pressure, the increase in
 a wing is constructed in such form that it causes a lift force
+the speed of the air across the top of an airfoil produces a
 greater than the weight of the aircraft, the aircraft will fly.
 If all the lift required were obtained merely from the
+Early airfoil
 deflection of air by the lower surface of the wing, an aircraft
 would only need a flat wing like a kite. However, the balance
 of the lift needed to support the aircraft comes from the flow
+Later airfoil
 of air above the wing. Herein lies the key to flight.
 It is neither accurate nor useful to assign specific values to the
+Clark 'Y' airfoil
 percentage of lift generated by the upper surface of an airfoil
+(Subsonic)
 versus that generated by the lower surface. These are not
 constant values. They vary, not only with flight conditions,
+Laminar flow airfoil
 but also with different wing designs.
+(Subsonic)
 Different airfoils have different flight characteristics. Many
+Circular arc airfoil
 thousands of airfoils have been tested in wind tunnels and in
+(Supersonic)
 actual flight, but no one airfoil has been found that satisfies
 every flight requirement. The weight, speed, and purpose
+Double wedge airfoil
 of each aircraft dictate the shape of its airfoil. The most
+(Supersonic)
 efficient airfoil for producing the greatest lift is one that has
 a concave or “scooped out” lower surface. As a fixed design,
+Figure 4-6. Airfoil designs.
 this type of airfoil sacrifices too much speed while producing
-lift and is not suitable for high-speed flight. Advancements
-in engineering have made it possible for today’s high-speed
-jets to take advantage of the concave airfoil’s high lift
-characteristics. Leading edge (Kreuger) flaps and trailing
-edge (Fowler) flaps, when extended from the basic wing
-structure, literally change the airfoil shape into the classic
-concave form, thereby generating much greater lift during
-slow flight conditions.
-On the other hand, an airfoil that is perfectly streamlined
-and offers little wind resistance sometimes does not have
-enough lifting power to take the airplane off the ground.
-Thus, modern airplanes have airfoils that strike a medium
-between extremes in design. The shape varies according to
-the needs of the airplane for which it is designed. Figure 4-6
-shows some of the more common airfoil designs.
-Low Pressure Above
-In a wind tunnel or in flight, an airfoil is simply a streamlined
-object inserted into a moving stream of air. If the airfoil
-profile were in the shape of a teardrop, the speed and the
-pressure changes of the air passing over the top and bottom
-would be the same on both sides. But if the teardrop shaped
-airfoil were cut in half lengthwise, a form resembling the
-basic airfoil (wing) section would result. If the airfoil were
-then inclined so the airflow strikes it at an angle, the air
-moving over the upper surface would be forced to move
-faster than the air moving along the bottom of the airfoil.
-This increased velocity reduces the pressure above the airfoil.
-Applying Bernoulli’s Principle of Pressure, the increase in
-the speed of the air across the top of an airfoil produces a
+4-7
 
-High angle of attack
-Normal angle of attack
-Low angle of attack
-at
-ta
-ck
-of
-An
-gl
-e
--
-°
-CP
-at
-ta
-c
-k
-A
-n
-gl
-e
-of
-+
-°
-CP
-at
-ta
-ck
-of
-A
-n
-gl
-e
-+
-°
-CP
-Figure 4-7. Pressure distribution on an airfoil and CP changes
-with AOA.
 drop in pressure. This lowered pressure is a component of
 total lift. The pressure difference between the upper and
 lower surface of a wing alone does not account for the total
@@ -640,6 +666,45 @@ controllability are governed by changes in the CP.
 Airfoil Behavior
 Although specific examples can be cited in which each of
 the principles predict and contribute to the formation of lift,
+4-8
+Low angle of attack
+CP
+e
+°
+ck
+gl
+ta
+of
+An
+-
+at
+Normal angle of attack
+CP
+e
+ck
+°
+gl
+of
+ta
+n
++
+at
+A
+High angle of attack
+CP
+of
+k
+e
+°
+c
+ta
+gl
+at
+n
++
+A
+Figure 4-7. Pressure distribution on an airfoil and CP changes
+with AOA.
 lift is a complex subject. The production of lift is much more
 complex than a simple differential pressure between upper
 and lower airfoil surfaces. In fact, many lifting airfoils do
@@ -648,14 +713,6 @@ case of symmetrical airfoils. These are seen in high-speed
 aircraft having symmetrical wings, or on symmetrical rotor
 blades for many helicopters whose upper and lower surfaces
 
-v
-o
-r
-t
-e
-x
-Tip
-Figure 4-8. Tip vortex.
 are identical. In both examples, the only difference is the
 relationship of the airfoil with the oncoming airstream
 (angle). A paper airplane, which is simply a flat plate, has a
@@ -690,6 +747,14 @@ preventing the vortex from forming. Winglets can be on the
 top or bottom of the airfoil. Another method of countering
 the flow is to taper the airfoil tip, reducing the pressure
 differential and smoothing the airflow around the tip.
+Tip
+v
+o
+r
+t
+e
+x
+Figure 4-8. Tip vortex.
 Chapter Summary
 Modern general aviation aircraft have what may be considered
 high performance characteristics. Therefore, it is increasingly
@@ -699,3 +764,6 @@ information on the principles discussed in this chapter, visit
 the National Aeronautics and Space Administration (NASA)
 Beginner’s Guide to Aerodynamics at www.grc.nasa.gov/
 www/k-12/airplane/bga.html.
+4-9
+
+4-10

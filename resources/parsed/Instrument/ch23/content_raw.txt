@@ -1,3 +1,6 @@
+Chapter 11
+Emergency
+Operations
 Introduction
 Changing weather conditions, air traffic control (ATC), the
 aircraft, and the pilot are all variables that make instrument
@@ -9,8 +12,7 @@ recognition and suggested remedies for such abnormal and
 emergency events related to unforecasted, adverse weather;
 aircraft system malfunctions; communication/navigation
 system malfunctions; and loss of situational awareness.
-Emergency
-Operations
+11-1
 
 Unforecast Adverse Weather
 Inadvertent Thunderstorm Encounter
@@ -59,6 +61,7 @@ themselves in icing conditions even though they have done
 everything practicable to avoid it. In order to stay alert to this
 possibility while operating in visible moisture, pilots should
 monitor the outside air temperature (OAT).
+11-2
 The effects of ice on aircraft are cumulative—thrust is
 reduced, drag increases, lift lessens, and weight increases.
 The results are an increase in stall speed and a deterioration
@@ -111,12 +114,6 @@ the wings. At the first indication of ice accumulation, take
 action to get out of the icing conditions. Refer to the POH/
 AFM for the proper use of anti-icing/deicing equipment.
 
-Figure 11-2. One example of a static wick installed on aircraft
-control surface to bleed off static charges built up during flight.
-This prevents static buildup and St. Elmo’s fire by allowing the
-static electricity to dissipate harmlessly.
-Figure 11-1. St. Elmo’s Fire is harmless but may affect both communication and navigation radios, especially the lower frequencies
-such as those used on the automatic direction finding (ADF).
 Precipitation Static
 Precipitation static, often referred to as P-static, occurs
 when accumulated static electricity is discharged from the
@@ -144,85 +141,79 @@ replaced before an instrument flight. [Figure 11-2]
 Aircraft System Malfunctions
 Preventing aircraft system malfunctions that might lead
 to an inflight emergency begins with a thorough preflight
+Figure 11-1. St. Elmo’s Fire is harmless but may affect both communication and navigation radios, especially the lower frequencies
+such as those used on the automatic direction finding (ADF).
+Figure 11-2. One example of a static wick installed on aircraft
+control surface to bleed off static charges built up during flight.
+This prevents static buildup and St. Elmo’s fire by allowing the
+static electricity to dissipate harmlessly.
+11-3
 
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-MAP
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-GS 120KT XTK 0.07NM ETE 24:24 ESA 2800FT
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-DCLTR
-Normal Mode
-Display Failure / Reversionary Mode
-MAP - NAVIGATION MAP
-Figure 11-3. G1000 PFD display in normal mode and in the reversionary mode activated upon system failure.
 inspection. In addition to those items normally checked
-prior to a visual flight rules (VFR) flight, pilots intending to
-fly under instrument flight rules (IFR) should pay particular
-attention to the alternator belt, antennas, static wicks, anti-
-icing/deicing equipment, pitot tube, and static ports.
-During taxi, verify the operation and accuracy of all flight
-instruments. In addition, during the run-up, verify that the
-operation of the pneumatic system(s) is within acceptable
-parameters. It is critical that all systems are determined to be
-operational before departing into IFR conditions.
-Electronic Flight Display Malfunction
-When a pilot becomes familiar and comfortable with the
-new electronic displays, he or she also tends to become more
-reliant on the system. The system then becomes a primary
-source of navigation and data acquisition instead of the
-supplementary source of data as initially intended.
-Complete reliance on the moving map for navigation becomes
-a problem during a failure of one, more, or all of the flight
-display screens. Under these conditions, the systems revert to
-a composite mode (called reversionary), which eliminates the
 moving map display and combines the primary flight display
+prior to a visual flight rules (VFR) flight, pilots intending to
 (PFD) with the engine indicating system. [Figure 11-3] If a
+fly under instrument flight rules (IFR) should pay particular
 pilot has relied on the display for navigation information and
+attention to the alternator belt, antennas, static wicks, anti-
 situational awareness, he or she lacks any concept of critical
+icing/deicing equipment, pitot tube, and static ports.
 data such as the aircraft’s position, the nearest airport, or
 proximity to other aircraft.
+During taxi, verify the operation and accuracy of all flight
+instruments. In addition, during the run-up, verify that the
 The electronic flight display (EFD) is a supplementary source
+operation of the pneumatic system(s) is within acceptable
 of navigation data and does not replace en route charts.
+parameters. It is critical that all systems are determined to be
 To maintain situational awareness, a pilot must follow the
+operational before departing into IFR conditions.
 flight on the en route chart while monitoring the PFD. It is
 important for the pilot to know the location of the closest
+Electronic Flight Display Malfunction
 airport as well as surrounding traffic relative to the location
 of his or her aircraft. This information becomes critical
+When a pilot becomes familiar and comfortable with the
 should the EFD fail.
+new electronic displays, he or she also tends to become more
+reliant on the system. The system then becomes a primary
 For the pilot who utilizes the electronic database as a
+source of navigation and data acquisition instead of the
 substitute for the Airport/Facilities Directory (A/FD), screen
+supplementary source of data as initially intended.
 failure or loss of electrical power can mean the pilot is no
 longer able to access airport information. Once the pilot
+Complete reliance on the moving map for navigation becomes
 loses the ability to call up airport information, aeronautical
+a problem during a failure of one, more, or all of the flight
 decision-making (ADM) is compromised.
+display screens. Under these conditions, the systems revert to
+a composite mode (called reversionary), which eliminates the
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+GS 120KT XTK 0.07NM ETE 24:24 ESA 2800FT
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+NAV2 108.00 110.60
+123.800 118.000 COM2
+MAP - NAVIGATION MAP
+ALERTS
+DCLTR
+MAP
+Normal Mode
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+ALERTS
+Display Failure / Reversionary Mode
+Figure 11-3. G1000 PFD display in normal mode and in the reversionary mode activated upon system failure.
+11-4
 
-Figure 11-4. Ammeter (left) and loadmeter (right).
-Figure 11-5. Double rocker switch seen on many aircraft.
-IN.
-Hg.
-+ 60
-A
-M
-P
-V
-A
-C
-ALT AMPS
-Ammeter
-Loadmeter
 Alternator/Generator Failure
 Depending upon the aircraft being flown, an alternator failure
 is indicated in different ways. Some aircraft use an ammeter
@@ -239,39 +230,51 @@ Ensure that these safety indicators are visible during flight.
 When a loss of the electrical charging system is experienced,
 the pilot has approximately 40 minutes of battery life
 remaining before the system fails entirely. The time
+Figure 11-5. Double rocker switch seen on many aircraft.
 mentioned is an approximation and should not be relied upon
-as specific to all aircraft. In addition, the battery charge that
-exists in a battery may not be full, altering the time available
-before electrical exhaustion occurs. At no time should a pilot
-consider continuing a flight once the electrical charging
-system has failed. Land at the nearest suitable airport.
-Techniques for Electrical Usage
-Master Battery Switch
-One technique for conserving the main battery charge is
-to fly the aircraft to the airport of intended landing while
-operating with minimal power. If a two-position battery
-master/alternator rocker switch is installed, it can be utilized
-to isolate the main battery from the electrical system and
-conserve power. [Figure 11-5]
 Operating on the Main Battery
+as specific to all aircraft. In addition, the battery charge that
 While en route to the airport of intended landing, reduce the
+exists in a battery may not be full, altering the time available
 electrical load as much as practical. Turn off all unnecessary
+before electrical exhaustion occurs. At no time should a pilot
 electrical items, such as duplicate radios, non-essential
+consider continuing a flight once the electrical charging
 lighting, etc. If unable to turn off radios, lights, etc., manually,
+system has failed. Land at the nearest suitable airport.
 consider pulling circuit breakers to isolate those pieces of
 equipment from the electrical system. Maximum time of
+Techniques for Electrical Usage
 useful voltage may be between 30 and 40 minutes and is
+Master Battery Switch
 influenced by many factors, that degrade the useful time.
+One technique for conserving the main battery charge is
+to fly the aircraft to the airport of intended landing while
 Loss of Alternator/Generator for Electronic Flight
+operating with minimal power. If a two-position battery
 Instrumentation
+master/alternator rocker switch is installed, it can be utilized
 With the increase in electrical components being installed
+to isolate the main battery from the electrical system and
 in modern technically advanced aircraft, the power supply
+conserve power. [Figure 11-5]
 and the charging system need increased attention and
+Ammeter
+Loadmeter
++ 60
+A
+V
+IN.
+M
+A
+Hg.
+ALT AMPS
+P
+C
+- 60
+Figure 11-4. Ammeter (left) and loadmeter (right).
+11-5
 
-Double rocker switch
-Figure 11-6. Note the double rocker switch and the standby battery
-switch in this aircraft. The standby battery must be armed to work
-correctly; arming should be done prior to departure.
 understanding. Traditional round dial aircraft do not rely
 as heavily on electrical power for the primary six-pack
 instrumentation. Modern EFDs utilize the electrical system
@@ -323,6 +326,10 @@ power may be available for the use of flaps, gear, lights, etc. Do
 not rely on any power to be available after the standby battery
 has exhausted itself. Once the charging system has failed,
 flight with a powered electrical system is not guaranteed.
+11-6
+Figure 11-6. Note the double rocker switch and the standby battery
+switch in this aircraft. The standby battery must be armed to work
+correctly; arming should be done prior to departure.
 Operating on the Main Battery
 While en route to the airport of intended landing, reduce the
 electrical load as much as practical. Turn off all unnecessary
@@ -348,63 +355,65 @@ practical. Depending upon the electrical load and condition
 of the battery, there may be sufficient power available for
 45 minutes of flight—or for only a matter of minutes. Pilots
 should also know which systems on the aircraft are electric and
+Double rocker switch
 
-ALERTS
-NAV1 108.00 113.00
-NAV2 108.00 110.60
-134.000 118.000 COM1
-123.800 118.000 COM2
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-N-S
 E-W
+N-S
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
+ALERTS
 Figure 11-7. Emergency instrumentation available to the pilot on electronic flight instrumented aircraft.
 those that continue to operate without electrical power. Pilots
+Covering the failed instrument(s) may enhance a pilot’s
 can attempt to troubleshoot alternator failure by following the
+ability to maintain aircraft control and navigate the aircraft.
 established alternator failure procedure published in the POH/
+Usually, the next step is to advise ATC of the problem and,
 AFM. If the alternator cannot be reset, advise ATC of the
+if necessary, declare an emergency before the situation
 situation and inform them of the impending electrical failure.
+deteriorates beyond the pilot’s ability to recover.
 Analog Instrument Failure
+Pneumatic System Failure
 A warning indicator, or an inconsistency between indications
+One possible cause of instrument failure is a loss of the
 on the attitude indicator and the supporting performance
+suction or pressure source. This pressure or suction is
 instruments, usually identifies system or instrument failure.
+supplied by a vacuum pump mechanically driven off the
 Aircraft control must be maintained while identifying the
+engine. Occasionally these pumps fail, leaving the pilot with
 failed component(s). Expedite the cross-check and include
+inoperative attitude and heading indicators.
 all flight instruments. The problem may be individual
 instrument failure or a system failure affecting multiple
-instruments.
-One method of identification involves an immediate
-comparison of the attitude indicator with the rate-of-turn
-indicator and vertical speed indicator (VSI). Along with
-providing pitch-and-bank information, this technique
-compares the static system with the suction or pressure system
-and the electrical system. Identify the failed component(s)
-and use the remaining functional instruments to maintain
-aircraft control.
-Attempt to restore the inoperative component(s) by checking
-the appropriate power source, changing to a backup or
-alternate system, and resetting the instrument if possible.
-Covering the failed instrument(s) may enhance a pilot’s
-ability to maintain aircraft control and navigate the aircraft.
-Usually, the next step is to advise ATC of the problem and,
-if necessary, declare an emergency before the situation
-deteriorates beyond the pilot’s ability to recover.
-Pneumatic System Failure
-One possible cause of instrument failure is a loss of the
-suction or pressure source. This pressure or suction is
-supplied by a vacuum pump mechanically driven off the
-engine. Occasionally these pumps fail, leaving the pilot with
-inoperative attitude and heading indicators.
 Figure 11-8 illustrates inoperative vacuum driven attitude
+instruments.
 and heading indicators that can fail progressively. As the
 gyroscopes slow down, they may wander, which, if connected
+One method of identification involves an immediate
 to the autopilot and/or flight director, can cause incorrect
+comparison of the attitude indicator with the rate-of-turn
 movement or erroneous indications. In Figure 11-8, the
+indicator and vertical speed indicator (VSI). Along with
 aircraft is actually level and at 2,000 feet mean sea level
+providing pitch-and-bank information, this technique
 (MSL). It is not in a turn to the left which the pilot may
+compares the static system with the suction or pressure system
 misinterpret if he or she fails to see the off or failed flags.
+and the electrical system. Identify the failed component(s)
 If that occurs, the pilot may transform a normally benign
+and use the remaining functional instruments to maintain
 situation into a hazardous situation. Again, good decision-
+aircraft control.
 making by the pilot only occurs after a careful analysis of
 systems.
+Attempt to restore the inoperative component(s) by checking
+the appropriate power source, changing to a backup or
 Many small aircraft are not equipped with a warning system
+alternate system, and resetting the instrument if possible.
 for vacuum failure; therefore, the pilot should monitor the
+11-7
