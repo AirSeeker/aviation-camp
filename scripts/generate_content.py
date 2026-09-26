@@ -156,7 +156,9 @@ def load_book_manifest(book_dir: Path) -> Dict[str, Any]:
 
 def load_chapter_files(book_dir: Path, chapter_name: str) -> Dict[str, Any]:
     chapter_dir = book_dir / chapter_name
-    content_path = chapter_dir / "content_raw.txt"
+    content_path = chapter_dir / "content.md"
+    if not content_path.exists():
+        content_path = chapter_dir / "content_raw.txt"
     texts = content_path.read_text(encoding="utf-8") if content_path.exists() else ""
     manifest_path = chapter_dir / "images_manifest.json"
     images = []

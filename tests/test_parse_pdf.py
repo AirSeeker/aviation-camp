@@ -16,6 +16,7 @@ from scripts.parse_pdf import (
     find_book_output_collisions,
     infer_image_kind,
     load_chapter_overrides,
+    load_chapter_ranges,
     main,
     needs_ocr_retry,
     open_pdf_document,
@@ -53,6 +54,30 @@ class DetectChapterRangesTests(unittest.TestCase):
 
         try:
             self.assertEqual(detect_chapter_ranges(doc, 8, [2, 4, 7]), [(2, 3), (4, 6), (7, 8)])
+        finally:
+            doc.close()
+
+    def test_applies_explicit_ranges_and_skips_pages_outside_chapters(self) -> None:
+        doc = fitz.open()
+        for _ in range(8):
+            doc.new_page()
+
+        try:
+            self.assertEqual(
+                detect_chapter_ranges(doc, doc.page_count, chapter_ranges=[(2, 3), (5, 7)]),
+                [(2, 3), (5, 7)],
+            )
+        finally:
+            doc.close()
+
+    def test_rejects_overlapping_explicit_ranges(self) -> None:
+        doc = fitz.open()
+        for _ in range(5):
+            doc.new_page()
+
+        try:
+            with self.assertRaisesRegex(ValueError, "cannot overlap"):
+                detect_chapter_ranges(doc, doc.page_count, chapter_ranges=[(1, 3), (3, 5)])
         finally:
             doc.close()
 
@@ -107,6 +132,38 @@ class DetectChapterRangesTests(unittest.TestCase):
         finally:
             doc.close()
 
+    def test_uses_printed_chapter_page_labels_instead_of_contents_entries(self) -> None:
+        doc = fitz.open()
+        doc.new_page().insert_text((72, 72), "Table of Contents\nChapter 1: Basics\nChapter 2: Flight")
+        doc.new_page().insert_text((72, 72), "Chapter 2: Flight")
+        doc.new_page().insert_text((72, 72), "1-1\nIntroduction\nChapter 1 material")
+        doc.new_page().insert_text((72, 72), "Chapter 1 material continues")
+        doc.new_page().insert_text((72, 72), "2-1\nIntroduction\nChapter 2 material")
+        doc.new_page().insert_text((72, 72), "Chapter 2 material continues")
+
+        try:
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(3, 4), (5, 6)])
+        finally:
+            doc.close()
+
+    def test_uses_numbered_top_level_bookmarks_as_chapters(self) -> None:
+        doc = fitz.open()
+        for _ in range(7):
+            doc.new_page()
+        doc.set_toc(
+            [
+                [1, "1 Introduction", 2],
+                [1, "2 Aviation Weather", 4],
+                [2, "2.1 Forecasts", 5],
+                [1, "A Appendix A", 6],
+            ]
+        )
+
+        try:
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(2, 3), (4, 5)])
+        finally:
+            doc.close()
+
     def test_excludes_supplemental_pages_without_toc(self) -> None:
         doc = fitz.open()
         doc.new_page().insert_text((72, 72), "Chapter 1: Basics")
@@ -116,6 +173,29 @@ class DetectChapterRangesTests(unittest.TestCase):
 
         try:
             self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 2), (3, 3)])
+        finally:
+            doc.close()
+
+    def test_excludes_lettered_appendix_without_heading(self) -> None:
+        doc = fitz.open()
+        doc.new_page().insert_text((72, 72), "Chapter 1: Basics")
+        doc.new_page().insert_text((72, 72), "Chapter content")
+        doc.new_page().insert_text((72, 72), "B-1\nAppendix material without a heading")
+        doc.new_page().insert_text((72, 72), "More appendix material")
+
+        try:
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 2)])
+        finally:
+            doc.close()
+
+    def test_does_not_treat_body_references_as_supplemental(self) -> None:
+        doc = fitz.open()
+        doc.new_page().insert_text((72, 72), "Chapter 1: Basics")
+        doc.new_page().insert_text((72, 72), "References to medication usage are discussed in this chapter.")
+        doc.new_page().insert_text((72, 72), "Chapter content continues.")
+
+        try:
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 3)])
         finally:
             doc.close()
 
@@ -309,6 +389,12 @@ class OverrideAndIdentityTests(unittest.TestCase):
             path.write_text('{"Air Flight Handbook": [1, 12, 24]}', encoding="utf-8")
             self.assertEqual(load_chapter_overrides(path), {"Air_Flight_Handbook": [1, 12, 24]})
 
+    def test_loads_explicit_chapter_ranges_from_sidecar(self) -> None:
+        with TemporaryDirectory() as directory:
+            path = Path(directory) / "chapters.json"
+            path.write_text('{"chapters": [{"startPage": 2, "endPage": 8}]}', encoding="utf-8")
+            self.assertEqual(load_chapter_ranges(path), [(2, 8)])
+
     def test_detects_pdfs_sharing_an_output_folder(self) -> None:
         collisions = find_book_output_collisions(
             [Path("library/Book/first.pdf"), Path("library/Book/second.pdf"), Path("library/Other/book.pdf")]
@@ -418,12 +504,42 @@ class ParseBookIntegrationTests(unittest.TestCase):
 
             self.assertEqual(len(manifest["chapters"]), 1)
             self.assertEqual(
-                (output_root / "TestBook" / "ch01" / "content_raw.txt").read_text(encoding="utf-8"),
+                (output_root / "TestBook" / "ch01" / "content.md").read_text(encoding="utf-8"),
                 "Chapter 1: Basics\nAviation study text",
             )
+            self.assertFalse((output_root / "TestBook" / "ch01" / "content_raw.txt").exists())
             self.assertTrue((output_root / "TestBook" / "book_manifest.json").is_file())
             self.assertEqual(list(output_root.glob(".TestBook-parse-*")), [])
             self.assertEqual(list(images_root.glob(".TestBook-images-*")), [])
+
+    def test_uses_per_book_configured_ranges(self) -> None:
+        with TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as directory:
+            root = Path(directory)
+            source_dir = root / "ConfiguredBook"
+            source_dir.mkdir()
+            pdf_path = source_dir / "source.pdf"
+            doc = fitz.open()
+            for index in range(5):
+                doc.new_page().insert_text((72, 72), f"Page {index + 1} content")
+            doc.save(pdf_path)
+            doc.close()
+            (source_dir / "chapters.json").write_text(
+                '{"version": 1, "chapters": [{"number": 1, "startPage": 2, "endPage": 3}, '
+                '{"number": 2, "startPage": 5, "endPage": 5}]}',
+                encoding="utf-8",
+            )
+
+            output_root = root / "parsed"
+            manifest = parse_book(pdf_path, output_root, root / "images")
+
+            self.assertEqual(
+                [(chapter["startPage"], chapter["endPage"]) for chapter in manifest["chapters"]],
+                [(2, 3), (5, 5)],
+            )
+            self.assertEqual(
+                (output_root / "ConfiguredBook" / "ch01" / "content.md").read_text(encoding="utf-8"),
+                "Page 2 content\n\nPage 3 content",
+            )
 
     def test_skips_reparsing_when_pdf_hash_is_unchanged(self) -> None:
         with TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as directory:

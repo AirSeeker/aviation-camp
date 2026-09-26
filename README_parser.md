@@ -26,7 +26,7 @@ The parser performs the following steps:
 
 1. Discovers PDF files under `resources/library`
 2. Validates input PDFs and rejects empty or corrupt files
-3. Detects chapter boundaries from the PDF table of contents
+3. Reads explicit chapter page ranges from `chapters.json` next to each PDF, falling back to PDF bookmarks and heading detection when no config exists
 4. Excludes pages before the first educational chapter and supplemental sections after the last chapter
 5. Extracts text page-by-page
 6. Uses OCR fallback when extraction is sparse or weak
@@ -56,21 +56,25 @@ python scripts/parse_pdf.py --ocr --ocr-dpi 300 --ocr-retry-dpi 400 --workers 4
 - `--ocr-retry-dpi`: higher DPI used when sparse pages are retried
 - `--workers`: number of PDF books processed in parallel
 
-## Chapter overrides
+## Per-book chapter ranges
 
-Some PDFs have inconsistent or malformed table-of-contents metadata. You can override educational chapter starts using 1-based PDF page numbers; pages before the first start are excluded:
+Each book folder can contain a `chapters.json` file next to its PDF. Ranges use 1-based PDF page numbers and include both endpoints. Pages outside configured ranges, such as the table of contents and appendices, are not parsed as chapter content:
 
 ```json
 {
-  "BookFolderName": [1, 12, 27, 48]
+  "version": 1,
+  "chapters": [
+    { "number": 1, "startPage": 22, "endPage": 37 },
+    { "number": 2, "startPage": 38, "endPage": 61 }
+  ]
 }
 ```
 
-The parser reads this from:
+The parser validates that ranges are in order, inside the PDF, and do not overlap. Pages may be skipped between chapters. When a per-book config exists, it takes precedence over automatic detection and the legacy global overrides.
 
-- `resources/library/chapter_overrides.json`
+For compatibility, `resources/library/chapter_overrides.json` remains supported as a fallback for PDFs without a local `chapters.json`.
 
-If that file does not exist, overrides are ignored.
+If neither config exists, the parser falls back to PDF bookmarks and chapter-page headings.
 
 ## Output structure
 
@@ -80,10 +84,10 @@ If that file does not exist, overrides are ignored.
 resources/parsed/<BookName>/
   book_manifest.json
   ch01/
-    content_raw.txt
+    content.md
     images_manifest.json
   ch02/
-    content_raw.txt
+    content.md
     images_manifest.json
 ```
 

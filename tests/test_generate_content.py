@@ -6,12 +6,23 @@ from scripts.generate_content import (
     estimate_read_time_minutes,
     generate_fallback_mdx,
     infer_title_from_chapter,
+    load_chapter_files,
     source_book_title,
     translation_key_for,
 )
 
 
 class GenerateContentTests(unittest.TestCase):
+    def test_loads_parsed_markdown_with_legacy_text_fallback(self) -> None:
+        from pathlib import Path
+        from tempfile import TemporaryDirectory
+
+        with TemporaryDirectory() as directory:
+            chapter_dir = Path(directory) / "ch01"
+            chapter_dir.mkdir()
+            (chapter_dir / "content.md").write_text("Markdown source content", encoding="utf-8")
+            self.assertEqual(load_chapter_files(Path(directory), "ch01")["content"], "Markdown source content")
+
     def test_fallback_mdx_uses_english_frontmatter_and_i18n_fields(self) -> None:
         mdx = generate_fallback_mdx(
             "PHAK",

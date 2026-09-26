@@ -56,14 +56,32 @@ def chapter_title_matches(title: str) -> bool:
     return bool(re.search(r"(?:^|\s)(?:chapter|part|section|lesson)\b", title.strip(), re.I))
 
 
+def numbered_top_level_toc_entries(toc_entries: List[Tuple[int, str, int]]) -> List[Tuple[int, str, int]]:
+    if not toc_entries:
+        return []
+
+    top_level = min(level for level, _, _ in toc_entries)
+    numbered_entries = [
+        entry
+        for entry in toc_entries
+        if entry[0] == top_level and re.match(r"^\s*(\d{1,2})[.)]?\s+\S", entry[1])
+    ]
+    numbers = [int(re.match(r"^\s*(\d{1,2})", title).group(1)) for _, title, _ in numbered_entries]
+    if len(numbers) < 2 or numbers != list(range(numbers[0], numbers[0] + len(numbers))):
+        return []
+    return numbered_entries
+
+
 def supplemental_title_matches(title: str) -> bool:
+    value = normalize_line(title)
     return bool(
         re.match(
-            r"^(?:appendix(?:es)?|glossary|(?:subject |name )?index|references|bibliography|"
+            r"^(?:appendix(?:es)?|glossary|(?:subject |name )?index|bibliography|"
             r"answer key|answers to (?:the )?(?:review )?questions|acknowledgments?|acknowledgements?|credits)\b",
-            normalize_line(title),
+            value,
             re.I,
         )
+        or re.fullmatch(r"references?(?:\s+(?:and|&)\s+.{1,40})?", value, re.I)
     )
 
 
@@ -129,56 +147,109 @@ def validate_chapter_ranges(chapter_ranges: List[Tuple[int, int]], page_count: i
         expected_start = end + 1
 
 
+def validate_explicit_chapter_ranges(chapter_ranges: List[Tuple[int, int]], page_count: int) -> None:
+    if not chapter_ranges:
+        raise ValueError("Chapter ranges cannot be empty.")
+
+    previous_end = 0
+    for start, end in chapter_ranges:
+        if not isinstance(start, int) or not isinstance(end, int) or isinstance(start, bool) or isinstance(end, bool):
+            raise ValueError("Each chapter range must contain integer page numbers.")
+        if start < 1 or end < start or end > page_count:
+            raise ValueError(f"Chapter range ({start}, {end}) is outside the document bounds 1..{page_count}.")
+        if start <= previous_end:
+            raise ValueError("Explicit chapter ranges must be ordered and cannot overlap.")
+        previous_end = end
+
+
+def load_chapter_ranges(config_path: Path) -> List[Tuple[int, int]]:
+    try:
+        config = json.loads(config_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise ValueError(f"Unable to read chapter configuration from {config_path}: {error}") from error
+    if not isinstance(config, dict) or not isinstance(config.get("chapters"), list):
+        raise ValueError("Chapter configuration must contain a 'chapters' list.")
+
+    ranges: List[Tuple[int, int]] = []
+    for chapter in config["chapters"]:
+        if not isinstance(chapter, dict) or "startPage" not in chapter or "endPage" not in chapter:
+            raise ValueError("Each chapter configuration must contain startPage and endPage.")
+        ranges.append((chapter["startPage"], chapter["endPage"]))
+    if not ranges:
+        raise ValueError("Chapter configuration cannot have an empty 'chapters' list.")
+    return ranges
+
+
 def detect_chapter_ranges(
-    doc: fitz.Document, page_count: int, chapter_starts: List[int] | None = None
+    doc: fitz.Document,
+    page_count: int,
+    chapter_starts: List[int] | None = None,
+    chapter_ranges: List[Tuple[int, int]] | None = None,
 ) -> List[Tuple[int, int]]:
+    if chapter_ranges is not None:
+        validate_explicit_chapter_ranges(chapter_ranges, page_count)
+        return chapter_ranges
+
     if chapter_starts is not None:
         if not chapter_starts or any(not isinstance(start, int) or isinstance(start, bool) for start in chapter_starts):
             raise ValueError("Chapter overrides must be a non-empty list of integer page numbers.")
-        return ranges_from_starts(chapter_starts, page_count)
-
-    toc = doc.get_toc(simple=False)
-    toc_entries: List[Tuple[int, str, int]] = []
-
-    if toc:
-        for item in toc:
-            if len(item) < 3:
-                continue
-            level, title, page_num = item[:3]
-            if page_num and 1 <= int(page_num) <= page_count:
-                toc_entries.append((int(level), str(title), int(page_num)))
-
-    chapter_entries = [
-        entry
-        for entry in toc_entries
-        if re.search(r"(?:^|\s)(?:chapter|part)\b", entry[1].strip(), re.I)
-    ]
-    selected_entries = chapter_entries or [
-        entry for entry in toc_entries if chapter_title_matches(entry[1])
-    ]
-    if chapter_starts is not None:
         starts = list(chapter_starts)
-    elif selected_entries:
-        shallowest_level = min(level for level, _, _ in selected_entries)
-        starts = [
-            page_num
-            for level, _, page_num in selected_entries
-            if level == shallowest_level and 1 <= page_num <= page_count
-        ]
+        toc_entries: List[Tuple[int, str, int]] = []
+        selected_entries: List[Tuple[int, str, int]] = []
     else:
-        starts = []
+        toc = doc.get_toc(simple=False)
+        toc_entries = []
 
-    if not starts:
-        for page_idx in range(page_count):
-            page = doc.load_page(page_idx)
-            text = page.get_text("text")
-            if re.search(r"(?im)^(?:chapter|part|section|lesson)\s+[\d\.IVX]+", text):
-                starts.append(page_idx + 1)
+        if toc:
+            for item in toc:
+                if len(item) < 3:
+                    continue
+                level, title, page_num = item[:3]
+                if page_num and 1 <= int(page_num) <= page_count:
+                    toc_entries.append((int(level), str(title), int(page_num)))
 
-    if not starts:
-        raise ValueError(
-            "No educational chapter starts detected; add the book to chapter_overrides.json with 1-based PDF page numbers."
-        )
+        chapter_entries = [
+            entry
+            for entry in toc_entries
+            if re.search(r"(?:^|\s)(?:chapter|part)\b", entry[1].strip(), re.I)
+        ]
+        numbered_entries = numbered_top_level_toc_entries(toc_entries)
+        if numbered_entries and len(numbered_entries) >= max(2, len(chapter_entries) * 2):
+            selected_entries = numbered_entries
+        else:
+            selected_entries = chapter_entries or [
+                entry for entry in toc_entries if chapter_title_matches(entry[1])
+            ]
+
+        if selected_entries:
+            shallowest_level = min(level for level, _, _ in selected_entries)
+            starts = [
+                page_num
+                for level, _, page_num in selected_entries
+                if level == shallowest_level and 1 <= page_num <= page_count
+            ]
+        else:
+            starts = []
+
+        if not starts:
+            for page_idx in range(page_count):
+                page = doc.load_page(page_idx)
+                page_lines = page.get_text("text").splitlines()
+                if any(re.fullmatch(r"\s*\d{1,2}-1\s*", line) for line in page_lines):
+                    starts.append(page_idx + 1)
+
+        if not starts:
+            starts = []
+            for page_idx in range(page_count):
+                page = doc.load_page(page_idx)
+                text = page.get_text("text")
+                if re.search(r"(?im)^(?:chapter|part|section|lesson)\s+[\d\.IVX]+", text):
+                    starts.append(page_idx + 1)
+
+        if not starts:
+            raise ValueError(
+                "No educational chapter starts detected; add the book to chapter_overrides.json with 1-based PDF page numbers."
+            )
 
     ranges = ranges_from_starts(starts, page_count)
     last_chapter_start = max(starts)
@@ -198,7 +269,8 @@ def detect_chapter_ranges(
     supplemental_pages = []
     for page_num in range(last_chapter_start + 1, page_count + 1):
         page_lines = [normalize_line(line) for line in doc.load_page(page_num - 1).get_text("text").splitlines()]
-        if any(supplemental_title_matches(line) for line in page_lines[:8]):
+        has_lettered_appendix_start = any(re.fullmatch(r"[A-Z]-1", line) for line in page_lines[:4])
+        if has_lettered_appendix_start or any(supplemental_title_matches(line) for line in page_lines[:8]):
             supplemental_pages.append(page_num)
     if supplemental_pages:
         last_chapter_end = min(last_chapter_end, min(supplemental_pages) - 1)
@@ -389,15 +461,17 @@ def build_parse_cache_key(
     ocr_dpi: int,
     chapter_starts: List[int] | None,
     ocr_retry_dpi: int | None = None,
+    chapter_ranges: List[Tuple[int, int]] | None = None,
 ) -> str:
     payload = {
-        "parser_version": 2,
+        "parser_version": 4,
         "pdf": str(pdf_path.resolve()),
         "ocr": bool(ocr),
         "ocr_language": ocr_language,
         "ocr_dpi": int(ocr_dpi),
         "ocr_retry_dpi": int(ocr_retry_dpi) if ocr_retry_dpi is not None else None,
         "chapter_starts": chapter_starts or [],
+        "chapter_ranges": chapter_ranges or [],
     }
     digest = hashlib.sha256()
     digest.update(json.dumps(payload, sort_keys=True, separators=(",", ":")).encode("utf-8"))
@@ -454,6 +528,10 @@ def cleanup_stale_outputs(
             continue
 
         current_chapter = current_chapters.get(chapter_key)
+        chapter_dir = book_out_dir / chapter_key
+        legacy_text_path = chapter_dir / "content_raw.txt"
+        if legacy_text_path.is_file() and not legacy_text_path.is_symlink():
+            legacy_text_path.unlink()
         current_files = {
             image.get("file")
             for image in (current_chapter or {}).get("images", [])
@@ -474,8 +552,7 @@ def cleanup_stale_outputs(
                 image_path.unlink()
 
         if current_chapter is None:
-            chapter_dir = book_out_dir / chapter_key
-            for generated_name in ("content_raw.txt", "images_manifest.json"):
+            for generated_name in ("content.md", "content_raw.txt", "images_manifest.json"):
                 generated_path = chapter_dir / generated_name
                 if generated_path.is_file() and not generated_path.is_symlink():
                     generated_path.unlink()
@@ -562,7 +639,12 @@ def parse_book(
     output_root.mkdir(parents=True, exist_ok=True)
     public_images_root.mkdir(parents=True, exist_ok=True)
 
-    cache_key = build_parse_cache_key(pdf_path, ocr, ocr_language, ocr_dpi, chapter_starts, ocr_retry_dpi)
+    chapter_config_path = pdf_path.with_name("chapters.json")
+    configured_ranges = load_chapter_ranges(chapter_config_path) if chapter_config_path.exists() else None
+    effective_starts = None if configured_ranges is not None else chapter_starts
+    cache_key = build_parse_cache_key(
+        pdf_path, ocr, ocr_language, ocr_dpi, effective_starts, ocr_retry_dpi, configured_ranges
+    )
     if previous_manifest.get("cacheKey") == cache_key and manifest_path.exists():
         return previous_manifest
 
@@ -588,8 +670,11 @@ def parse_book(
                     page_list = ", ".join(str(page_num) for page_num in pages_without_text)
                     print(f"Warning: low-quality text extraction in {pdf_path} on page(s): {page_list}; OCR may be needed.", file=sys.stderr)
                 page_text_by_num = deduplicate_repeated_header_footer(page_text_by_num, edge_lines_by_num)
-                chapter_ranges = detect_chapter_ranges(doc, page_count, chapter_starts)
-                validate_chapter_ranges(chapter_ranges, page_count)
+                chapter_ranges = detect_chapter_ranges(
+                    doc, page_count, effective_starts, configured_ranges
+                )
+                if configured_ranges is None:
+                    validate_chapter_ranges(chapter_ranges, page_count)
 
                 chapter_manifest: List[Dict[str, Any]] = []
                 for index, (start_page, end_page) in enumerate(chapter_ranges, start=1):
@@ -598,7 +683,7 @@ def parse_book(
                     chapter_dir.mkdir(parents=True, exist_ok=True)
 
                     raw_text = chapter_text_from_range(page_text_by_num, start_page, end_page)
-                    (chapter_dir / "content_raw.txt").write_text(raw_text, encoding="utf-8")
+                    (chapter_dir / "content.md").write_text(raw_text, encoding="utf-8")
 
                     image_dir = staged_image_book_dir / chapter_key
                     image_dir.mkdir(parents=True, exist_ok=True)

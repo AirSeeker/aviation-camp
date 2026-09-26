@@ -1,4 +1,81 @@
 {
   "chapter": "ch01",
-  "images": []
+  "images": [
+    {
+      "page": 16,
+      "file": "img_p16_1.png",
+      "relativePath": "/images/Weather/ch01/img_p16_1.png",
+      "figureRef": "Figure 16-1",
+      "kind": "figure",
+      "index": 1,
+      "placements": [
+        {
+          "page": 16,
+          "bbox": [
+            -2.649899959564209,
+            2.44976806640625,
+            619.85009765625,
+            798.1497802734375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "file": "img_p16_2.png",
+      "relativePath": "/images/Weather/ch01/img_p16_2.png",
+      "figureRef": "Figure 16-2",
+      "kind": "figure",
+      "index": 2,
+      "placements": [
+        {
+          "page": 16,
+          "bbox": [
+            61.31999969482422,
+            64.62002563476562,
+            553.8599853515625,
+            487.20001220703125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "file": "img_p17_3.png",
+      "relativePath": "/images/Weather/ch01/img_p17_3.png",
+      "figureRef": "Figure 17-3",
+      "kind": "figure",
+      "index": 3,
+      "placements": [
+        {
+          "page": 17,
+          "bbox": [
+            -45.8499755859375,
+            -1.25,
+            614.5,
+            794.5
+          ]
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "file": "img_p17_4.png",
+      "relativePath": "/images/Weather/ch01/img_p17_4.png",
+      "figureRef": "Figure 17-4",
+      "kind": "figure",
+      "index": 4,
+      "placements": [
+        {
+          "page": 17,
+          "bbox": [
+            68.33999633789062,
+            59.34001159667969,
+            560.8800048828125,
+            284.8800048828125
+          ]
+        }
+      ]
+    }
+  ]
 }
