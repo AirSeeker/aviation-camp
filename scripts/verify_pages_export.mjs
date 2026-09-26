@@ -106,6 +106,24 @@ for (const file of lessonFiles) {
     if (!(await fileExists(imagePath))) throw new Error(`Missing lesson image ${imageUrl} in ${path.relative(root, file)}`);
     referencedImages.add(imageUrl);
   }
+
+  const imageManifestPath = path.join(parsedRoot, book, path.basename(file, '.mdx'), 'images_manifest.json');
+  try {
+    const imageManifest = JSON.parse(await readFile(imageManifestPath, 'utf8'));
+    const lessonFigures = [];
+    for (const image of imageManifest.images || []) {
+      const imageUrl = image.relativePath;
+      if (typeof imageUrl !== 'string' || !imageUrl.startsWith('/images/') || source.includes(imageUrl)) continue;
+      const imagePath = path.resolve(publicRoot, imageUrl.slice(1));
+      if (imagePath.startsWith(`${path.join(publicRoot, 'images')}${path.sep}`) && await fileExists(imagePath)) {
+        lessonFigures.push(imageUrl);
+      }
+      if (lessonFigures.length === 8) break;
+    }
+    lessonFigures.forEach((imageUrl) => referencedImages.add(imageUrl));
+  } catch {
+    // Some chapters may not have an image manifest.
+  }
 }
 
 const searchIndexPath = path.join(outRoot, 'search-index.json');

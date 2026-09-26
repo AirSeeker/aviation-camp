@@ -35,6 +35,10 @@
 .lesson-content p { margin:0 0 1em; }
 .lesson-content ul,.lesson-content ol { padding-left:24px; }
 .lesson-content img { height:auto; max-width:100%; }
+.lesson-figures { border-top:1px solid var(--line); display:grid; gap:24px; grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr)); margin-top:32px; padding-top:24px; }
+.lesson-figures figure { margin:0; min-width:0; }
+.lesson-figures img { background:#fff; border:1px solid var(--line); height:auto; max-width:100%; }
+.lesson-figures figcaption { color:#69756e; font-size:12px; margin-top:8px; }
 .lesson-quiz { background:#e9eee7; border-left:3px solid #a6c644; margin:40px 0; padding:24px; }
 .lesson-quiz h2 { margin-top:0; }
 .quiz-question { border:0; border-top:1px solid #d3ddd4; margin:22px 0 0; padding:18px 0 0; }

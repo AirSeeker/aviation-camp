@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { compileMDX } from 'next-mdx-remote/rsc';
 import { existsSync } from 'node:fs';
+import { readFile } from 'node:fs/promises';
 import type { ReactNode } from 'react';
 import path from 'node:path';
 import { ArrowLeft, Plane } from 'lucide-react';
@@ -9,6 +10,20 @@ import { LessonCompletion } from '../../../../components/StudyProgress';
 import { getLessons, subjects } from '../../../../src/content/subjects';
 
 export const dynamicParams = false;
+
+type LessonFigure = { relativePath: string; figureRef?: string; page?: number };
+
+async function getLessonFigures(book: string, chapter: string, source: string): Promise<LessonFigure[]> {
+  try {
+    const manifestPath = path.join(process.cwd(), 'resources', 'parsed', book, chapter, 'images_manifest.json');
+    const manifest = JSON.parse(await readFile(manifestPath, 'utf8')) as { images?: LessonFigure[] };
+    return (manifest.images || [])
+      .filter((image) => image.relativePath?.startsWith('/images/') && !source.includes(image.relativePath))
+      .slice(0, 8);
+  } catch {
+    return [];
+  }
+}
 
 function LessonImage({ src, alt }: { src?: string; alt?: string }) {
   const imagesRoot = path.resolve(process.cwd(), 'public', 'images');
@@ -35,6 +50,7 @@ export default async function LessonPage({ params }: { params: { subject: string
   const lesson = (await getLessons()).find((item) => item.slug === params.chapter && item.book === subject?.id);
   if (!subject || !lesson) return null;
 
+  const figures = await getLessonFigures(subject.id, lesson.slug, lesson.source);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
   try {
@@ -48,7 +64,7 @@ export default async function LessonPage({ params }: { params: { subject: string
     }));
   } catch {
     const paragraphs = lesson.source.replace(/<Quiz\b[\s\S]*?\/>/g, '')
-      .replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[ *_`]/g, '')
+      .replace(/<img\b[^>]*\/?\s*>/g, '').replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[*_`]/g, '')
       .split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
     content = <div>{paragraphs.map((paragraph, index) => <p key={index}>{paragraph.replace(/\n/g, ' ')}</p>)}</div>;
   }
@@ -65,6 +81,12 @@ export default async function LessonPage({ params }: { params: { subject: string
       {lesson.sourcePageStart && lesson.sourcePageEnd && <p className="source-citation">Source: {subject.title}, PDF pp. {lesson.sourcePageStart}–{lesson.sourcePageEnd}</p>}
       <LessonCompletion lessonId={lessonId} />
       <div className="lesson-content">{content}</div>
+      {figures.length > 0 && <section className="lesson-figures" aria-label="Chapter illustrations">
+        {figures.map((figure, index) => <figure key={figure.relativePath}>
+          <LessonImage src={figure.relativePath} alt={figure.figureRef || `Illustration ${index + 1}`} />
+          <figcaption>{figure.figureRef || `Illustration ${index + 1}`}{figure.page ? ` · PDF p. ${figure.page}` : ''}</figcaption>
+        </figure>)}
+      </section>}
     </article>
   </main>;
 }
