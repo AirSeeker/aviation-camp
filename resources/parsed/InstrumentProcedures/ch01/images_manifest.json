@@ -2,39 +2,751 @@
   "chapter": "ch01",
   "images": [
     {
-      "page": 1,
-      "file": "img_p1_1.png",
-      "relativePath": "/images/InstrumentProcedures/ch01/img_p1_1.png",
-      "figureRef": "Figure 1-1",
+      "page": 17,
+      "file": "img_p17_1.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p17_1.png",
+      "figureRef": "Figure 17-1",
       "kind": "figure",
       "index": 1,
       "placements": [
         {
-          "page": 1,
+          "page": 17,
           "bbox": [
-            -1.837982177734375,
-            -1.66217041015625,
-            595.837890625,
-            775.6621704101562
+            -1.0800001621246338,
+            -1.08001708984375,
+            595.0799560546875,
+            775.0799560546875
           ]
         }
       ]
     },
     {
-      "page": 5,
-      "file": "img_p5_2.png",
-      "relativePath": "/images/InstrumentProcedures/ch01/img_p5_2.png",
-      "figureRef": "Figure 5-2",
+      "page": 20,
+      "file": "img_p20_2.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p20_2.png",
+      "figureRef": "Figure 20-2",
       "kind": "figure",
       "index": 2,
       "placements": [
         {
-          "page": 5,
+          "page": 20,
           "bbox": [
-            53.19599914550781,
-            504.0,
-            201.8040008544922,
-            550.4400024414062
+            36.0,
+            43.647216796875,
+            521.6669921875,
+            409.81707763671875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "file": "img_p23_3.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p23_3.png",
+      "figureRef": "Figure 23-3",
+      "kind": "figure",
+      "index": 3,
+      "placements": [
+        {
+          "page": 23,
+          "bbox": [
+            84.87715911865234,
+            30.786590576171875,
+            528.384765625,
+            373.4969787597656
+          ]
+        }
+      ]
+    },
+    {
+      "page": 23,
+      "file": "img_p23_4.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p23_4.png",
+      "figureRef": "Figure 23-4",
+      "kind": "figure",
+      "index": 4,
+      "placements": [
+        {
+          "page": 23,
+          "bbox": [
+            68.5434341430664,
+            409.37152099609375,
+            341.93829345703125,
+            687.75537109375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 25,
+      "file": "img_p25_5.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p25_5.png",
+      "figureRef": "Figure 25-5",
+      "kind": "figure",
+      "index": 5,
+      "placements": [
+        {
+          "page": 25,
+          "bbox": [
+            72.0,
+            45.00006103515625,
+            557.99072265625,
+            601.9693603515625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "file": "img_p26_6.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p26_6.png",
+      "figureRef": "Figure 26-6",
+      "kind": "figure",
+      "index": 6,
+      "placements": [
+        {
+          "page": 26,
+          "bbox": [
+            284.4825744628906,
+            532.8181762695312,
+            523.24365234375,
+            710.0579833984375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "file": "img_p26_7.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p26_7.png",
+      "figureRef": "Figure 26-7",
+      "kind": "figure",
+      "index": 7,
+      "placements": [
+        {
+          "page": 26,
+          "bbox": [
+            -27.466899871826172,
+            418.687255859375,
+            288.53271484375,
+            840.6867065429688
+          ]
+        }
+      ]
+    },
+    {
+      "page": 26,
+      "file": "img_p26_8.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p26_8.png",
+      "figureRef": "Figure 26-8",
+      "kind": "figure",
+      "index": 8,
+      "placements": [
+        {
+          "page": 26,
+          "bbox": [
+            24.135574340820312,
+            522.7485961914062,
+            314.13519287109375,
+            914.7481079101562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "file": "img_p27_9.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p27_9.png",
+      "figureRef": "Figure 27-9",
+      "kind": "figure",
+      "index": 9,
+      "placements": [
+        {
+          "page": 27,
+          "bbox": [
+            321.65313720703125,
+            44.1396484375,
+            558.6048583984375,
+            325.6431884765625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 28,
+      "file": "img_p28_10.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p28_10.png",
+      "figureRef": "Figure 28-10",
+      "kind": "figure",
+      "index": 10,
+      "placements": [
+        {
+          "page": 28,
+          "bbox": [
+            26.049652099609375,
+            -61.7122802734375,
+            279.72393798828125,
+            353.39111328125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "file": "img_p29_11.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p29_11.png",
+      "figureRef": "Figure 29-11",
+      "kind": "figure",
+      "index": 11,
+      "placements": [
+        {
+          "page": 29,
+          "bbox": [
+            77.98301696777344,
+            -15.324462890625,
+            553.6719970703125,
+            689.7323608398438
+          ]
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "file": "img_p29_12.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p29_12.png",
+      "figureRef": "Figure 29-12",
+      "kind": "figure",
+      "index": 12,
+      "placements": [
+        {
+          "page": 29,
+          "bbox": [
+            91.27938079833984,
+            82.07359313964844,
+            452.2844543457031,
+            289.50189208984375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 29,
+      "file": "img_p29_13.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p29_13.png",
+      "figureRef": "Figure 29-13",
+      "kind": "figure",
+      "index": 13,
+      "placements": [
+        {
+          "page": 29,
+          "bbox": [
+            91.27938079833984,
+            82.07359313964844,
+            453.28167724609375,
+            289.50189208984375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "file": "img_p34_14.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p34_14.png",
+      "figureRef": "Figure 34-14",
+      "kind": "figure",
+      "index": 14,
+      "placements": [
+        {
+          "page": 34,
+          "bbox": [
+            127.72760772705078,
+            49.813079833984375,
+            456.9468688964844,
+            506.11700439453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "file": "img_p35_15.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p35_15.png",
+      "figureRef": "Figure 35-15",
+      "kind": "figure",
+      "index": 15,
+      "placements": [
+        {
+          "page": 35,
+          "bbox": [
+            135.3954620361328,
+            105.46900939941406,
+            516.5518188476562,
+            280.08251953125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 35,
+      "file": "img_p35_16.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p35_16.png",
+      "figureRef": "Figure 35-16",
+      "kind": "figure",
+      "index": 16,
+      "placements": [
+        {
+          "page": 35,
+          "bbox": [
+            135.3954620361328,
+            50.590476989746094,
+            516.5518188476562,
+            139.3939208984375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 38,
+      "file": "img_p38_17.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p38_17.png",
+      "figureRef": "Figure 38-17",
+      "kind": "figure",
+      "index": 17,
+      "placements": [
+        {
+          "page": 38,
+          "bbox": [
+            36.0,
+            304.4615478515625,
+            521.99072265625,
+            698.833984375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "file": "img_p40_18.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p40_18.png",
+      "figureRef": "Figure 40-18",
+      "kind": "figure",
+      "index": 18,
+      "placements": [
+        {
+          "page": 40,
+          "bbox": [
+            195.84080505371094,
+            49.92132568359375,
+            525.9310302734375,
+            542.5635986328125
+          ]
+        },
+        {
+          "page": 44,
+          "bbox": [
+            194.50779724121094,
+            26.35626220703125,
+            524.5980224609375,
+            518.99853515625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "file": "img_p40_19.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p40_19.png",
+      "figureRef": "Figure 40-19",
+      "kind": "figure",
+      "index": 19,
+      "placements": [
+        {
+          "page": 40,
+          "bbox": [
+            47.28538513183594,
+            135.76144409179688,
+            377.3756103515625,
+            624.4146728515625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "file": "img_p41_20.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p41_20.png",
+      "figureRef": "Figure 41-20",
+      "kind": "figure",
+      "index": 20,
+      "placements": [
+        {
+          "page": 41,
+          "bbox": [
+            72.00001525878906,
+            45.0,
+            557.99072265625,
+            620.9889526367188
+          ]
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "file": "img_p43_21.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p43_21.png",
+      "figureRef": "Figure 43-21",
+      "kind": "figure",
+      "index": 21,
+      "placements": [
+        {
+          "page": 43,
+          "bbox": [
+            72.00001525878906,
+            45.0,
+            557.99072265625,
+            620.9889526367188
+          ]
+        }
+      ]
+    },
+    {
+      "page": 44,
+      "file": "img_p44_22.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p44_22.png",
+      "figureRef": "Figure 44-22",
+      "kind": "figure",
+      "index": 22,
+      "placements": [
+        {
+          "page": 44,
+          "bbox": [
+            18.051733016967773,
+            161.69668579101562,
+            506.7049560546875,
+            491.78692626953125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 45,
+      "file": "img_p45_23.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p45_23.png",
+      "figureRef": "Figure 45-23",
+      "kind": "figure",
+      "index": 23,
+      "placements": [
+        {
+          "page": 45,
+          "bbox": [
+            72.0,
+            45.0,
+            557.99072265625,
+            577.2498168945312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "file": "img_p50_24.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p50_24.png",
+      "figureRef": "Figure 50-24",
+      "kind": "figure",
+      "index": 24,
+      "placements": [
+        {
+          "page": 50,
+          "bbox": [
+            36.0,
+            45.0,
+            521.99072265625,
+            683.3877563476562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 51,
+      "file": "img_p51_25.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p51_25.png",
+      "figureRef": "Figure 51-25",
+      "kind": "figure",
+      "index": 25,
+      "placements": [
+        {
+          "page": 51,
+          "bbox": [
+            72.00001525878906,
+            45.0,
+            557.99072265625,
+            662.38818359375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_26.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p52_26.png",
+      "figureRef": "Figure 52-26",
+      "kind": "figure",
+      "index": 26,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            59.453590393066406,
+            68.62954711914062,
+            498.0717468261719,
+            363.7814636230469
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_27.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p52_27.png",
+      "figureRef": "Figure 52-27",
+      "kind": "figure",
+      "index": 27,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            318.0287170410156,
+            126.1737060546875,
+            483.7715759277344,
+            229.20306396484375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_28.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p52_28.png",
+      "figureRef": "Figure 52-28",
+      "kind": "figure",
+      "index": 28,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            213.7870635986328,
+            288.6846008300781,
+            379.91015625,
+            377.73492431640625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_29.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p52_29.png",
+      "figureRef": "Figure 52-29",
+      "kind": "figure",
+      "index": 29,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            49.97269058227539,
+            59.411224365234375,
+            521.9974365234375,
+            386.7348937988281
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_30.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p52_30.png",
+      "figureRef": "Figure 52-30",
+      "kind": "figure",
+      "index": 30,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            308.43914794921875,
+            116.293701171875,
+            508.02679443359375,
+            253.01123046875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_31.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p52_31.png",
+      "figureRef": "Figure 52-31",
+      "kind": "figure",
+      "index": 31,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            203.65516662597656,
+            278.9576110839844,
+            404.24072265625,
+            401.7040100097656
+          ]
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "file": "img_p53_32.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p53_32.png",
+      "figureRef": "Figure 53-32",
+      "kind": "figure",
+      "index": 32,
+      "placements": [
+        {
+          "page": 53,
+          "bbox": [
+            92.59896087646484,
+            61.948272705078125,
+            531.5139770507812,
+            454.99603271484375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 53,
+      "file": "img_p53_33.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p53_33.png",
+      "figureRef": "Figure 53-33",
+      "kind": "figure",
+      "index": 33,
+      "placements": [
+        {
+          "page": 53,
+          "bbox": [
+            84.1330337524414,
+            53.10546875,
+            553.8385009765625,
+            434.0555419921875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "file": "img_p54_34.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p54_34.png",
+      "figureRef": "Figure 54-34",
+      "kind": "figure",
+      "index": 34,
+      "placements": [
+        {
+          "page": 54,
+          "bbox": [
+            43.26923751831055,
+            52.8931884765625,
+            526.651611328125,
+            377.1496887207031
+          ]
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "file": "img_p55_35.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p55_35.png",
+      "figureRef": "Figure 55-35",
+      "kind": "figure",
+      "index": 35,
+      "placements": [
+        {
+          "page": 55,
+          "bbox": [
+            77.61949920654297,
+            48.50213623046875,
+            570.0089721679688,
+            389.7720947265625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 55,
+      "file": "img_p55_36.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p55_36.png",
+      "figureRef": "Figure 55-36",
+      "kind": "figure",
+      "index": 36,
+      "placements": [
+        {
+          "page": 55,
+          "bbox": [
+            77.61949920654297,
+            358.74755859375,
+            570.0089721679688,
+            694.0127563476562
+          ]
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "file": "img_p56_37.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p56_37.png",
+      "figureRef": "Figure 56-37",
+      "kind": "figure",
+      "index": 37,
+      "placements": [
+        {
+          "page": 56,
+          "bbox": [
+            76.44625854492188,
+            415.43341064453125,
+            496.5164794921875,
+            607.0093994140625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "file": "img_p56_38.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p56_38.png",
+      "figureRef": "Figure 56-38",
+      "kind": "figure",
+      "index": 38,
+      "placements": [
+        {
+          "page": 56,
+          "bbox": [
+            76.44625854492188,
+            354.568115234375,
+            496.5164794921875,
+            450.3561096191406
+          ]
+        }
+      ]
+    },
+    {
+      "page": 57,
+      "file": "img_p57_39.png",
+      "relativePath": "/images/InstrumentProcedures/ch01/img_p57_39.png",
+      "figureRef": "Figure 57-39",
+      "kind": "figure",
+      "index": 39,
+      "placements": [
+        {
+          "page": 57,
+          "bbox": [
+            130.12049865722656,
+            49.8321533203125,
+            526.4340209960938,
+            671.3237915039062
           ]
         }
       ]

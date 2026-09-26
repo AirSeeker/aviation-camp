@@ -1,43 +1,17 @@
 {
   "bookName": "AFH",
   "sourcePdf": "resources/library/AFH/Airplane Flying Handbook (FAA-H-8083-3C) (full book).pdf",
-  "cacheKey": "45e237da3e491d1643e9fff61e80336f981db27e7c519d883961010380e83d0a",
+  "cacheKey": "bb85411bf5a91ef31c2595fd93778c7600680ddf075d62272e55b072e3e2c606",
   "chapters": [
     {
       "chapter": "ch01",
-      "startPage": 1,
-      "endPage": 21,
-      "images": [
-        {
-          "page": 1,
-          "file": "img_p1_1.png",
-          "relativePath": "/images/AFH/ch01/img_p1_1.png",
-          "figureRef": "Figure 1-1",
-          "kind": "figure",
-          "index": 1,
-          "placements": [
-            {
-              "page": 1,
-              "bbox": [
-                7.890376091003418,
-                7.897258758544922,
-                604.1095581054688,
-                784.1027221679688
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "chapter": "ch02",
       "startPage": 22,
       "endPage": 37,
       "images": [
         {
           "page": 22,
           "file": "img_p22_1.png",
-          "relativePath": "/images/AFH/ch02/img_p22_1.png",
+          "relativePath": "/images/AFH/ch01/img_p22_1.png",
           "figureRef": "Figure 22-1",
           "kind": "figure",
           "index": 1,
@@ -56,7 +30,7 @@
         {
           "page": 23,
           "file": "img_p23_2.png",
-          "relativePath": "/images/AFH/ch02/img_p23_2.png",
+          "relativePath": "/images/AFH/ch01/img_p23_2.png",
           "figureRef": "Figure 23-2",
           "kind": "figure",
           "index": 2,
@@ -75,7 +49,7 @@
         {
           "page": 24,
           "file": "img_p24_3.png",
-          "relativePath": "/images/AFH/ch02/img_p24_3.png",
+          "relativePath": "/images/AFH/ch01/img_p24_3.png",
           "figureRef": "Figure 24-3",
           "kind": "figure",
           "index": 3,
@@ -94,7 +68,7 @@
         {
           "page": 25,
           "file": "img_p25_4.png",
-          "relativePath": "/images/AFH/ch02/img_p25_4.png",
+          "relativePath": "/images/AFH/ch01/img_p25_4.png",
           "figureRef": "Figure 25-4",
           "kind": "figure",
           "index": 4,
@@ -113,7 +87,7 @@
         {
           "page": 26,
           "file": "img_p26_5.png",
-          "relativePath": "/images/AFH/ch02/img_p26_5.png",
+          "relativePath": "/images/AFH/ch01/img_p26_5.png",
           "figureRef": "Figure 26-5",
           "kind": "figure",
           "index": 5,
@@ -132,7 +106,7 @@
         {
           "page": 27,
           "file": "img_p27_6.png",
-          "relativePath": "/images/AFH/ch02/img_p27_6.png",
+          "relativePath": "/images/AFH/ch01/img_p27_6.png",
           "figureRef": "Figure 27-6",
           "kind": "figure",
           "index": 6,
@@ -151,7 +125,7 @@
         {
           "page": 28,
           "file": "img_p28_7.png",
-          "relativePath": "/images/AFH/ch02/img_p28_7.png",
+          "relativePath": "/images/AFH/ch01/img_p28_7.png",
           "figureRef": "Figure 28-7",
           "kind": "figure",
           "index": 7,
@@ -170,7 +144,7 @@
         {
           "page": 29,
           "file": "img_p29_8.png",
-          "relativePath": "/images/AFH/ch02/img_p29_8.png",
+          "relativePath": "/images/AFH/ch01/img_p29_8.png",
           "figureRef": "Figure 29-8",
           "kind": "figure",
           "index": 8,
@@ -189,7 +163,7 @@
         {
           "page": 30,
           "file": "img_p30_9.png",
-          "relativePath": "/images/AFH/ch02/img_p30_9.png",
+          "relativePath": "/images/AFH/ch01/img_p30_9.png",
           "figureRef": "Figure 30-9",
           "kind": "figure",
           "index": 9,
@@ -208,7 +182,7 @@
         {
           "page": 31,
           "file": "img_p31_10.png",
-          "relativePath": "/images/AFH/ch02/img_p31_10.png",
+          "relativePath": "/images/AFH/ch01/img_p31_10.png",
           "figureRef": "Figure 31-10",
           "kind": "figure",
           "index": 10,
@@ -227,7 +201,7 @@
         {
           "page": 32,
           "file": "img_p32_11.png",
-          "relativePath": "/images/AFH/ch02/img_p32_11.png",
+          "relativePath": "/images/AFH/ch01/img_p32_11.png",
           "figureRef": "Figure 32-11",
           "kind": "figure",
           "index": 11,
@@ -246,7 +220,7 @@
         {
           "page": 33,
           "file": "img_p33_12.png",
-          "relativePath": "/images/AFH/ch02/img_p33_12.png",
+          "relativePath": "/images/AFH/ch01/img_p33_12.png",
           "figureRef": "Figure 33-12",
           "kind": "figure",
           "index": 12,
@@ -265,7 +239,7 @@
         {
           "page": 34,
           "file": "img_p34_13.png",
-          "relativePath": "/images/AFH/ch02/img_p34_13.png",
+          "relativePath": "/images/AFH/ch01/img_p34_13.png",
           "figureRef": "Figure 34-13",
           "kind": "figure",
           "index": 13,
@@ -284,7 +258,7 @@
         {
           "page": 34,
           "file": "img_p34_14.png",
-          "relativePath": "/images/AFH/ch02/img_p34_14.png",
+          "relativePath": "/images/AFH/ch01/img_p34_14.png",
           "figureRef": "Figure 34-14",
           "kind": "figure",
           "index": 14,
@@ -303,7 +277,7 @@
         {
           "page": 35,
           "file": "img_p35_15.png",
-          "relativePath": "/images/AFH/ch02/img_p35_15.png",
+          "relativePath": "/images/AFH/ch01/img_p35_15.png",
           "figureRef": "Figure 35-15",
           "kind": "figure",
           "index": 15,
@@ -322,7 +296,7 @@
         {
           "page": 36,
           "file": "img_p36_16.png",
-          "relativePath": "/images/AFH/ch02/img_p36_16.png",
+          "relativePath": "/images/AFH/ch01/img_p36_16.png",
           "figureRef": "Figure 36-16",
           "kind": "figure",
           "index": 16,
@@ -341,7 +315,7 @@
         {
           "page": 37,
           "file": "img_p37_17.png",
-          "relativePath": "/images/AFH/ch02/img_p37_17.png",
+          "relativePath": "/images/AFH/ch01/img_p37_17.png",
           "figureRef": "Figure 37-17",
           "kind": "figure",
           "index": 17,
@@ -360,14 +334,14 @@
       ]
     },
     {
-      "chapter": "ch03",
+      "chapter": "ch02",
       "startPage": 38,
       "endPage": 61,
       "images": [
         {
           "page": 38,
           "file": "img_p38_1.png",
-          "relativePath": "/images/AFH/ch03/img_p38_1.png",
+          "relativePath": "/images/AFH/ch02/img_p38_1.png",
           "figureRef": "Figure 38-1",
           "kind": "figure",
           "index": 1,
@@ -386,7 +360,7 @@
         {
           "page": 39,
           "file": "img_p39_2.png",
-          "relativePath": "/images/AFH/ch03/img_p39_2.png",
+          "relativePath": "/images/AFH/ch02/img_p39_2.png",
           "figureRef": "Figure 39-2",
           "kind": "figure",
           "index": 2,
@@ -405,7 +379,7 @@
         {
           "page": 39,
           "file": "img_p39_3.png",
-          "relativePath": "/images/AFH/ch03/img_p39_3.png",
+          "relativePath": "/images/AFH/ch02/img_p39_3.png",
           "figureRef": "Figure 39-3",
           "kind": "figure",
           "index": 3,
@@ -424,7 +398,7 @@
         {
           "page": 40,
           "file": "img_p40_4.png",
-          "relativePath": "/images/AFH/ch03/img_p40_4.png",
+          "relativePath": "/images/AFH/ch02/img_p40_4.png",
           "figureRef": "Figure 40-4",
           "kind": "figure",
           "index": 4,
@@ -443,7 +417,7 @@
         {
           "page": 41,
           "file": "img_p41_5.png",
-          "relativePath": "/images/AFH/ch03/img_p41_5.png",
+          "relativePath": "/images/AFH/ch02/img_p41_5.png",
           "figureRef": "Figure 41-5",
           "kind": "figure",
           "index": 5,
@@ -462,7 +436,7 @@
         {
           "page": 43,
           "file": "img_p43_6.png",
-          "relativePath": "/images/AFH/ch03/img_p43_6.png",
+          "relativePath": "/images/AFH/ch02/img_p43_6.png",
           "figureRef": "Figure 43-6",
           "kind": "figure",
           "index": 6,
@@ -481,7 +455,7 @@
         {
           "page": 43,
           "file": "img_p43_7.png",
-          "relativePath": "/images/AFH/ch03/img_p43_7.png",
+          "relativePath": "/images/AFH/ch02/img_p43_7.png",
           "figureRef": "Figure 43-7",
           "kind": "figure",
           "index": 7,
@@ -500,7 +474,7 @@
         {
           "page": 44,
           "file": "img_p44_8.png",
-          "relativePath": "/images/AFH/ch03/img_p44_8.png",
+          "relativePath": "/images/AFH/ch02/img_p44_8.png",
           "figureRef": "Figure 44-8",
           "kind": "figure",
           "index": 8,
@@ -519,7 +493,7 @@
         {
           "page": 45,
           "file": "img_p45_9.png",
-          "relativePath": "/images/AFH/ch03/img_p45_9.png",
+          "relativePath": "/images/AFH/ch02/img_p45_9.png",
           "figureRef": "Figure 45-9",
           "kind": "figure",
           "index": 9,
@@ -538,7 +512,7 @@
         {
           "page": 45,
           "file": "img_p45_10.png",
-          "relativePath": "/images/AFH/ch03/img_p45_10.png",
+          "relativePath": "/images/AFH/ch02/img_p45_10.png",
           "figureRef": "Figure 45-10",
           "kind": "figure",
           "index": 10,
@@ -557,7 +531,7 @@
         {
           "page": 46,
           "file": "img_p46_11.png",
-          "relativePath": "/images/AFH/ch03/img_p46_11.png",
+          "relativePath": "/images/AFH/ch02/img_p46_11.png",
           "figureRef": "Figure 46-11",
           "kind": "figure",
           "index": 11,
@@ -576,7 +550,7 @@
         {
           "page": 46,
           "file": "img_p46_12.png",
-          "relativePath": "/images/AFH/ch03/img_p46_12.png",
+          "relativePath": "/images/AFH/ch02/img_p46_12.png",
           "figureRef": "Figure 46-12",
           "kind": "figure",
           "index": 12,
@@ -595,7 +569,7 @@
         {
           "page": 52,
           "file": "img_p52_13.png",
-          "relativePath": "/images/AFH/ch03/img_p52_13.png",
+          "relativePath": "/images/AFH/ch02/img_p52_13.png",
           "figureRef": "Figure 52-13",
           "kind": "figure",
           "index": 13,
@@ -614,7 +588,7 @@
         {
           "page": 55,
           "file": "img_p55_14.png",
-          "relativePath": "/images/AFH/ch03/img_p55_14.png",
+          "relativePath": "/images/AFH/ch02/img_p55_14.png",
           "figureRef": "Figure 55-14",
           "kind": "figure",
           "index": 14,
@@ -633,7 +607,7 @@
         {
           "page": 57,
           "file": "img_p57_15.png",
-          "relativePath": "/images/AFH/ch03/img_p57_15.png",
+          "relativePath": "/images/AFH/ch02/img_p57_15.png",
           "figureRef": "Figure 57-15",
           "kind": "figure",
           "index": 15,
@@ -652,14 +626,14 @@
       ]
     },
     {
-      "chapter": "ch04",
+      "chapter": "ch03",
       "startPage": 62,
       "endPage": 86,
       "images": [
         {
           "page": 62,
           "file": "img_p62_1.png",
-          "relativePath": "/images/AFH/ch04/img_p62_1.png",
+          "relativePath": "/images/AFH/ch03/img_p62_1.png",
           "figureRef": "Figure 62-1",
           "kind": "figure",
           "index": 1,
@@ -678,7 +652,7 @@
         {
           "page": 63,
           "file": "img_p63_2.png",
-          "relativePath": "/images/AFH/ch04/img_p63_2.png",
+          "relativePath": "/images/AFH/ch03/img_p63_2.png",
           "figureRef": "Figure 63-2",
           "kind": "figure",
           "index": 2,
@@ -697,7 +671,7 @@
         {
           "page": 65,
           "file": "img_p65_3.png",
-          "relativePath": "/images/AFH/ch04/img_p65_3.png",
+          "relativePath": "/images/AFH/ch03/img_p65_3.png",
           "figureRef": "Figure 65-3",
           "kind": "figure",
           "index": 3,
@@ -716,7 +690,7 @@
         {
           "page": 65,
           "file": "img_p65_4.png",
-          "relativePath": "/images/AFH/ch04/img_p65_4.png",
+          "relativePath": "/images/AFH/ch03/img_p65_4.png",
           "figureRef": "Figure 65-4",
           "kind": "figure",
           "index": 4,
@@ -735,7 +709,7 @@
         {
           "page": 66,
           "file": "img_p66_5.png",
-          "relativePath": "/images/AFH/ch04/img_p66_5.png",
+          "relativePath": "/images/AFH/ch03/img_p66_5.png",
           "figureRef": "Figure 66-5",
           "kind": "figure",
           "index": 5,
@@ -754,7 +728,7 @@
         {
           "page": 68,
           "file": "img_p68_6.png",
-          "relativePath": "/images/AFH/ch04/img_p68_6.png",
+          "relativePath": "/images/AFH/ch03/img_p68_6.png",
           "figureRef": "Figure 68-6",
           "kind": "figure",
           "index": 6,
@@ -773,7 +747,7 @@
         {
           "page": 68,
           "file": "img_p68_7.png",
-          "relativePath": "/images/AFH/ch04/img_p68_7.png",
+          "relativePath": "/images/AFH/ch03/img_p68_7.png",
           "figureRef": "Figure 68-7",
           "kind": "figure",
           "index": 7,
@@ -792,7 +766,7 @@
         {
           "page": 70,
           "file": "img_p70_8.png",
-          "relativePath": "/images/AFH/ch04/img_p70_8.png",
+          "relativePath": "/images/AFH/ch03/img_p70_8.png",
           "figureRef": "Figure 70-8",
           "kind": "figure",
           "index": 8,
@@ -811,7 +785,7 @@
         {
           "page": 71,
           "file": "img_p71_9.png",
-          "relativePath": "/images/AFH/ch04/img_p71_9.png",
+          "relativePath": "/images/AFH/ch03/img_p71_9.png",
           "figureRef": "Figure 71-9",
           "kind": "figure",
           "index": 9,
@@ -830,7 +804,7 @@
         {
           "page": 72,
           "file": "img_p72_10.png",
-          "relativePath": "/images/AFH/ch04/img_p72_10.png",
+          "relativePath": "/images/AFH/ch03/img_p72_10.png",
           "figureRef": "Figure 72-10",
           "kind": "figure",
           "index": 10,
@@ -849,7 +823,7 @@
         {
           "page": 73,
           "file": "img_p73_11.png",
-          "relativePath": "/images/AFH/ch04/img_p73_11.png",
+          "relativePath": "/images/AFH/ch03/img_p73_11.png",
           "figureRef": "Figure 73-11",
           "kind": "figure",
           "index": 11,
@@ -868,7 +842,7 @@
         {
           "page": 74,
           "file": "img_p74_12.png",
-          "relativePath": "/images/AFH/ch04/img_p74_12.png",
+          "relativePath": "/images/AFH/ch03/img_p74_12.png",
           "figureRef": "Figure 74-12",
           "kind": "figure",
           "index": 12,
@@ -887,7 +861,7 @@
         {
           "page": 74,
           "file": "img_p74_13.png",
-          "relativePath": "/images/AFH/ch04/img_p74_13.png",
+          "relativePath": "/images/AFH/ch03/img_p74_13.png",
           "figureRef": "Figure 74-13",
           "kind": "figure",
           "index": 13,
@@ -906,7 +880,7 @@
         {
           "page": 75,
           "file": "img_p75_14.png",
-          "relativePath": "/images/AFH/ch04/img_p75_14.png",
+          "relativePath": "/images/AFH/ch03/img_p75_14.png",
           "figureRef": "Figure 75-14",
           "kind": "figure",
           "index": 14,
@@ -925,7 +899,7 @@
         {
           "page": 75,
           "file": "img_p75_15.png",
-          "relativePath": "/images/AFH/ch04/img_p75_15.png",
+          "relativePath": "/images/AFH/ch03/img_p75_15.png",
           "figureRef": "Figure 75-15",
           "kind": "figure",
           "index": 15,
@@ -944,7 +918,7 @@
         {
           "page": 76,
           "file": "img_p76_16.png",
-          "relativePath": "/images/AFH/ch04/img_p76_16.png",
+          "relativePath": "/images/AFH/ch03/img_p76_16.png",
           "figureRef": "Figure 76-16",
           "kind": "figure",
           "index": 16,
@@ -963,7 +937,7 @@
         {
           "page": 76,
           "file": "img_p76_17.png",
-          "relativePath": "/images/AFH/ch04/img_p76_17.png",
+          "relativePath": "/images/AFH/ch03/img_p76_17.png",
           "figureRef": "Figure 76-17",
           "kind": "figure",
           "index": 17,
@@ -982,7 +956,7 @@
         {
           "page": 77,
           "file": "img_p77_18.png",
-          "relativePath": "/images/AFH/ch04/img_p77_18.png",
+          "relativePath": "/images/AFH/ch03/img_p77_18.png",
           "figureRef": "Figure 77-18",
           "kind": "figure",
           "index": 18,
@@ -1001,7 +975,7 @@
         {
           "page": 79,
           "file": "img_p79_19.png",
-          "relativePath": "/images/AFH/ch04/img_p79_19.png",
+          "relativePath": "/images/AFH/ch03/img_p79_19.png",
           "figureRef": "Figure 79-19",
           "kind": "figure",
           "index": 19,
@@ -1020,7 +994,7 @@
         {
           "page": 79,
           "file": "img_p79_20.png",
-          "relativePath": "/images/AFH/ch04/img_p79_20.png",
+          "relativePath": "/images/AFH/ch03/img_p79_20.png",
           "figureRef": "Figure 79-20",
           "kind": "figure",
           "index": 20,
@@ -1039,7 +1013,7 @@
         {
           "page": 80,
           "file": "img_p80_21.png",
-          "relativePath": "/images/AFH/ch04/img_p80_21.png",
+          "relativePath": "/images/AFH/ch03/img_p80_21.png",
           "figureRef": "Figure 80-21",
           "kind": "figure",
           "index": 21,
@@ -1058,7 +1032,7 @@
         {
           "page": 82,
           "file": "img_p82_22.png",
-          "relativePath": "/images/AFH/ch04/img_p82_22.png",
+          "relativePath": "/images/AFH/ch03/img_p82_22.png",
           "figureRef": "Figure 82-22",
           "kind": "figure",
           "index": 22,
@@ -1077,7 +1051,7 @@
         {
           "page": 83,
           "file": "img_p83_23.png",
-          "relativePath": "/images/AFH/ch04/img_p83_23.png",
+          "relativePath": "/images/AFH/ch03/img_p83_23.png",
           "figureRef": "Figure 83-23",
           "kind": "figure",
           "index": 23,
@@ -1096,7 +1070,7 @@
         {
           "page": 83,
           "file": "img_p83_24.png",
-          "relativePath": "/images/AFH/ch04/img_p83_24.png",
+          "relativePath": "/images/AFH/ch03/img_p83_24.png",
           "figureRef": "Figure 83-24",
           "kind": "figure",
           "index": 24,
@@ -1115,14 +1089,14 @@
       ]
     },
     {
-      "chapter": "ch05",
+      "chapter": "ch04",
       "startPage": 87,
       "endPage": 105,
       "images": [
         {
           "page": 88,
           "file": "img_p88_1.png",
-          "relativePath": "/images/AFH/ch05/img_p88_1.png",
+          "relativePath": "/images/AFH/ch04/img_p88_1.png",
           "figureRef": "Figure 88-1",
           "kind": "figure",
           "index": 1,
@@ -1141,7 +1115,7 @@
         {
           "page": 89,
           "file": "img_p89_2.png",
-          "relativePath": "/images/AFH/ch05/img_p89_2.png",
+          "relativePath": "/images/AFH/ch04/img_p89_2.png",
           "figureRef": "Figure 89-2",
           "kind": "figure",
           "index": 2,
@@ -1160,7 +1134,7 @@
         {
           "page": 90,
           "file": "img_p90_3.png",
-          "relativePath": "/images/AFH/ch05/img_p90_3.png",
+          "relativePath": "/images/AFH/ch04/img_p90_3.png",
           "figureRef": "Figure 90-3",
           "kind": "figure",
           "index": 3,
@@ -1179,7 +1153,7 @@
         {
           "page": 91,
           "file": "img_p91_4.png",
-          "relativePath": "/images/AFH/ch05/img_p91_4.png",
+          "relativePath": "/images/AFH/ch04/img_p91_4.png",
           "figureRef": "Figure 91-4",
           "kind": "figure",
           "index": 4,
@@ -1198,7 +1172,7 @@
         {
           "page": 92,
           "file": "img_p92_5.png",
-          "relativePath": "/images/AFH/ch05/img_p92_5.png",
+          "relativePath": "/images/AFH/ch04/img_p92_5.png",
           "figureRef": "Figure 92-5",
           "kind": "figure",
           "index": 5,
@@ -1217,7 +1191,7 @@
         {
           "page": 93,
           "file": "img_p93_6.png",
-          "relativePath": "/images/AFH/ch05/img_p93_6.png",
+          "relativePath": "/images/AFH/ch04/img_p93_6.png",
           "figureRef": "Figure 93-6",
           "kind": "figure",
           "index": 6,
@@ -1236,7 +1210,7 @@
         {
           "page": 94,
           "file": "img_p94_7.png",
-          "relativePath": "/images/AFH/ch05/img_p94_7.png",
+          "relativePath": "/images/AFH/ch04/img_p94_7.png",
           "figureRef": "Figure 94-7",
           "kind": "figure",
           "index": 7,
@@ -1255,7 +1229,7 @@
         {
           "page": 95,
           "file": "img_p95_8.png",
-          "relativePath": "/images/AFH/ch05/img_p95_8.png",
+          "relativePath": "/images/AFH/ch04/img_p95_8.png",
           "figureRef": "Figure 95-8",
           "kind": "figure",
           "index": 8,
@@ -1274,7 +1248,7 @@
         {
           "page": 97,
           "file": "img_p97_9.png",
-          "relativePath": "/images/AFH/ch05/img_p97_9.png",
+          "relativePath": "/images/AFH/ch04/img_p97_9.png",
           "figureRef": "Figure 97-9",
           "kind": "figure",
           "index": 9,
@@ -1293,7 +1267,7 @@
         {
           "page": 97,
           "file": "img_p97_10.png",
-          "relativePath": "/images/AFH/ch05/img_p97_10.png",
+          "relativePath": "/images/AFH/ch04/img_p97_10.png",
           "figureRef": "Figure 97-10",
           "kind": "figure",
           "index": 10,
@@ -1312,7 +1286,7 @@
         {
           "page": 98,
           "file": "img_p98_11.png",
-          "relativePath": "/images/AFH/ch05/img_p98_11.png",
+          "relativePath": "/images/AFH/ch04/img_p98_11.png",
           "figureRef": "Figure 98-11",
           "kind": "figure",
           "index": 11,
@@ -1331,7 +1305,7 @@
         {
           "page": 99,
           "file": "img_p99_12.png",
-          "relativePath": "/images/AFH/ch05/img_p99_12.png",
+          "relativePath": "/images/AFH/ch04/img_p99_12.png",
           "figureRef": "Figure 99-12",
           "kind": "figure",
           "index": 12,
@@ -1350,7 +1324,7 @@
         {
           "page": 100,
           "file": "img_p100_13.png",
-          "relativePath": "/images/AFH/ch05/img_p100_13.png",
+          "relativePath": "/images/AFH/ch04/img_p100_13.png",
           "figureRef": "Figure 100-13",
           "kind": "figure",
           "index": 13,
@@ -1369,7 +1343,7 @@
         {
           "page": 101,
           "file": "img_p101_14.png",
-          "relativePath": "/images/AFH/ch05/img_p101_14.png",
+          "relativePath": "/images/AFH/ch04/img_p101_14.png",
           "figureRef": "Figure 101-14",
           "kind": "figure",
           "index": 14,
@@ -1388,7 +1362,7 @@
         {
           "page": 102,
           "file": "img_p102_15.png",
-          "relativePath": "/images/AFH/ch05/img_p102_15.png",
+          "relativePath": "/images/AFH/ch04/img_p102_15.png",
           "figureRef": "Figure 102-15",
           "kind": "figure",
           "index": 15,
@@ -1407,7 +1381,7 @@
         {
           "page": 103,
           "file": "img_p103_16.png",
-          "relativePath": "/images/AFH/ch05/img_p103_16.png",
+          "relativePath": "/images/AFH/ch04/img_p103_16.png",
           "figureRef": "Figure 103-16",
           "kind": "figure",
           "index": 16,
@@ -1426,14 +1400,14 @@
       ]
     },
     {
-      "chapter": "ch06",
+      "chapter": "ch05",
       "startPage": 106,
       "endPage": 132,
       "images": [
         {
           "page": 109,
           "file": "img_p109_1.png",
-          "relativePath": "/images/AFH/ch06/img_p109_1.png",
+          "relativePath": "/images/AFH/ch05/img_p109_1.png",
           "figureRef": "Figure 109-1",
           "kind": "figure",
           "index": 1,
@@ -1452,7 +1426,7 @@
         {
           "page": 110,
           "file": "img_p110_2.png",
-          "relativePath": "/images/AFH/ch06/img_p110_2.png",
+          "relativePath": "/images/AFH/ch05/img_p110_2.png",
           "figureRef": "Figure 110-2",
           "kind": "figure",
           "index": 2,
@@ -1471,7 +1445,7 @@
         {
           "page": 111,
           "file": "img_p111_3.png",
-          "relativePath": "/images/AFH/ch06/img_p111_3.png",
+          "relativePath": "/images/AFH/ch05/img_p111_3.png",
           "figureRef": "Figure 111-3",
           "kind": "figure",
           "index": 3,
@@ -1490,7 +1464,7 @@
         {
           "page": 112,
           "file": "img_p112_4.png",
-          "relativePath": "/images/AFH/ch06/img_p112_4.png",
+          "relativePath": "/images/AFH/ch05/img_p112_4.png",
           "figureRef": "Figure 112-4",
           "kind": "figure",
           "index": 4,
@@ -1509,7 +1483,7 @@
         {
           "page": 113,
           "file": "img_p113_5.png",
-          "relativePath": "/images/AFH/ch06/img_p113_5.png",
+          "relativePath": "/images/AFH/ch05/img_p113_5.png",
           "figureRef": "Figure 113-5",
           "kind": "figure",
           "index": 5,
@@ -1528,7 +1502,7 @@
         {
           "page": 115,
           "file": "img_p115_6.png",
-          "relativePath": "/images/AFH/ch06/img_p115_6.png",
+          "relativePath": "/images/AFH/ch05/img_p115_6.png",
           "figureRef": "Figure 115-6",
           "kind": "figure",
           "index": 6,
@@ -1547,7 +1521,7 @@
         {
           "page": 116,
           "file": "img_p116_7.png",
-          "relativePath": "/images/AFH/ch06/img_p116_7.png",
+          "relativePath": "/images/AFH/ch05/img_p116_7.png",
           "figureRef": "Figure 116-7",
           "kind": "figure",
           "index": 7,
@@ -1566,7 +1540,7 @@
         {
           "page": 117,
           "file": "img_p117_8.png",
-          "relativePath": "/images/AFH/ch06/img_p117_8.png",
+          "relativePath": "/images/AFH/ch05/img_p117_8.png",
           "figureRef": "Figure 117-8",
           "kind": "figure",
           "index": 8,
@@ -1585,7 +1559,7 @@
         {
           "page": 119,
           "file": "img_p119_9.png",
-          "relativePath": "/images/AFH/ch06/img_p119_9.png",
+          "relativePath": "/images/AFH/ch05/img_p119_9.png",
           "figureRef": "Figure 119-9",
           "kind": "figure",
           "index": 9,
@@ -1604,7 +1578,7 @@
         {
           "page": 120,
           "file": "img_p120_10.png",
-          "relativePath": "/images/AFH/ch06/img_p120_10.png",
+          "relativePath": "/images/AFH/ch05/img_p120_10.png",
           "figureRef": "Figure 120-10",
           "kind": "figure",
           "index": 10,
@@ -1623,7 +1597,7 @@
         {
           "page": 122,
           "file": "img_p122_11.png",
-          "relativePath": "/images/AFH/ch06/img_p122_11.png",
+          "relativePath": "/images/AFH/ch05/img_p122_11.png",
           "figureRef": "Figure 122-11",
           "kind": "figure",
           "index": 11,
@@ -1642,7 +1616,7 @@
         {
           "page": 123,
           "file": "img_p123_12.png",
-          "relativePath": "/images/AFH/ch06/img_p123_12.png",
+          "relativePath": "/images/AFH/ch05/img_p123_12.png",
           "figureRef": "Figure 123-12",
           "kind": "figure",
           "index": 12,
@@ -1661,7 +1635,7 @@
         {
           "page": 124,
           "file": "img_p124_13.png",
-          "relativePath": "/images/AFH/ch06/img_p124_13.png",
+          "relativePath": "/images/AFH/ch05/img_p124_13.png",
           "figureRef": "Figure 124-13",
           "kind": "figure",
           "index": 13,
@@ -1680,7 +1654,7 @@
         {
           "page": 126,
           "file": "img_p126_14.png",
-          "relativePath": "/images/AFH/ch06/img_p126_14.png",
+          "relativePath": "/images/AFH/ch05/img_p126_14.png",
           "figureRef": "Figure 126-14",
           "kind": "figure",
           "index": 14,
@@ -1699,7 +1673,7 @@
         {
           "page": 127,
           "file": "img_p127_15.png",
-          "relativePath": "/images/AFH/ch06/img_p127_15.png",
+          "relativePath": "/images/AFH/ch05/img_p127_15.png",
           "figureRef": "Figure 127-15",
           "kind": "figure",
           "index": 15,
@@ -1718,7 +1692,7 @@
         {
           "page": 128,
           "file": "img_p128_16.png",
-          "relativePath": "/images/AFH/ch06/img_p128_16.png",
+          "relativePath": "/images/AFH/ch05/img_p128_16.png",
           "figureRef": "Figure 128-16",
           "kind": "figure",
           "index": 16,
@@ -1737,7 +1711,7 @@
         {
           "page": 129,
           "file": "img_p129_17.png",
-          "relativePath": "/images/AFH/ch06/img_p129_17.png",
+          "relativePath": "/images/AFH/ch05/img_p129_17.png",
           "figureRef": "Figure 129-17",
           "kind": "figure",
           "index": 17,
@@ -1756,7 +1730,7 @@
         {
           "page": 132,
           "file": "img_p132_18.png",
-          "relativePath": "/images/AFH/ch06/img_p132_18.png",
+          "relativePath": "/images/AFH/ch05/img_p132_18.png",
           "figureRef": "Figure 132-18",
           "kind": "figure",
           "index": 18,
@@ -1775,14 +1749,14 @@
       ]
     },
     {
-      "chapter": "ch07",
+      "chapter": "ch06",
       "startPage": 133,
       "endPage": 146,
       "images": [
         {
           "page": 134,
           "file": "img_p134_1.png",
-          "relativePath": "/images/AFH/ch07/img_p134_1.png",
+          "relativePath": "/images/AFH/ch06/img_p134_1.png",
           "figureRef": "Figure 134-1",
           "kind": "figure",
           "index": 1,
@@ -1801,7 +1775,7 @@
         {
           "page": 134,
           "file": "img_p134_2.png",
-          "relativePath": "/images/AFH/ch07/img_p134_2.png",
+          "relativePath": "/images/AFH/ch06/img_p134_2.png",
           "figureRef": "Figure 134-2",
           "kind": "figure",
           "index": 2,
@@ -1820,7 +1794,7 @@
         {
           "page": 136,
           "file": "img_p136_3.png",
-          "relativePath": "/images/AFH/ch07/img_p136_3.png",
+          "relativePath": "/images/AFH/ch06/img_p136_3.png",
           "figureRef": "Figure 136-3",
           "kind": "figure",
           "index": 3,
@@ -1839,7 +1813,7 @@
         {
           "page": 139,
           "file": "img_p139_4.png",
-          "relativePath": "/images/AFH/ch07/img_p139_4.png",
+          "relativePath": "/images/AFH/ch06/img_p139_4.png",
           "figureRef": "Figure 139-4",
           "kind": "figure",
           "index": 4,
@@ -1858,7 +1832,7 @@
         {
           "page": 140,
           "file": "img_p140_5.png",
-          "relativePath": "/images/AFH/ch07/img_p140_5.png",
+          "relativePath": "/images/AFH/ch06/img_p140_5.png",
           "figureRef": "Figure 140-5",
           "kind": "figure",
           "index": 5,
@@ -1877,7 +1851,7 @@
         {
           "page": 141,
           "file": "img_p141_6.png",
-          "relativePath": "/images/AFH/ch07/img_p141_6.png",
+          "relativePath": "/images/AFH/ch06/img_p141_6.png",
           "figureRef": "Figure 141-6",
           "kind": "figure",
           "index": 6,
@@ -1896,7 +1870,7 @@
         {
           "page": 142,
           "file": "img_p142_7.png",
-          "relativePath": "/images/AFH/ch07/img_p142_7.png",
+          "relativePath": "/images/AFH/ch06/img_p142_7.png",
           "figureRef": "Figure 142-7",
           "kind": "figure",
           "index": 7,
@@ -1915,7 +1889,7 @@
         {
           "page": 143,
           "file": "img_p143_8.png",
-          "relativePath": "/images/AFH/ch07/img_p143_8.png",
+          "relativePath": "/images/AFH/ch06/img_p143_8.png",
           "figureRef": "Figure 143-8",
           "kind": "figure",
           "index": 8,
@@ -1934,7 +1908,7 @@
         {
           "page": 144,
           "file": "img_p144_9.png",
-          "relativePath": "/images/AFH/ch07/img_p144_9.png",
+          "relativePath": "/images/AFH/ch06/img_p144_9.png",
           "figureRef": "Figure 144-9",
           "kind": "figure",
           "index": 9,
@@ -1953,7 +1927,7 @@
         {
           "page": 145,
           "file": "img_p145_10.png",
-          "relativePath": "/images/AFH/ch07/img_p145_10.png",
+          "relativePath": "/images/AFH/ch06/img_p145_10.png",
           "figureRef": "Figure 145-10",
           "kind": "figure",
           "index": 10,
@@ -1972,14 +1946,14 @@
       ]
     },
     {
-      "chapter": "ch08",
+      "chapter": "ch07",
       "startPage": 147,
       "endPage": 164,
       "images": [
         {
           "page": 149,
           "file": "img_p149_1.png",
-          "relativePath": "/images/AFH/ch08/img_p149_1.png",
+          "relativePath": "/images/AFH/ch07/img_p149_1.png",
           "figureRef": "Figure 149-1",
           "kind": "figure",
           "index": 1,
@@ -1998,7 +1972,7 @@
         {
           "page": 150,
           "file": "img_p150_2.png",
-          "relativePath": "/images/AFH/ch08/img_p150_2.png",
+          "relativePath": "/images/AFH/ch07/img_p150_2.png",
           "figureRef": "Figure 150-2",
           "kind": "figure",
           "index": 2,
@@ -2017,7 +1991,7 @@
         {
           "page": 150,
           "file": "img_p150_3.png",
-          "relativePath": "/images/AFH/ch08/img_p150_3.png",
+          "relativePath": "/images/AFH/ch07/img_p150_3.png",
           "figureRef": "Figure 150-3",
           "kind": "figure",
           "index": 3,
@@ -2036,7 +2010,7 @@
         {
           "page": 152,
           "file": "img_p152_4.png",
-          "relativePath": "/images/AFH/ch08/img_p152_4.png",
+          "relativePath": "/images/AFH/ch07/img_p152_4.png",
           "figureRef": "Figure 152-4",
           "kind": "figure",
           "index": 4,
@@ -2055,7 +2029,7 @@
         {
           "page": 154,
           "file": "img_p154_5.png",
-          "relativePath": "/images/AFH/ch08/img_p154_5.png",
+          "relativePath": "/images/AFH/ch07/img_p154_5.png",
           "figureRef": "Figure 154-5",
           "kind": "figure",
           "index": 5,
@@ -2074,7 +2048,7 @@
         {
           "page": 155,
           "file": "img_p155_6.png",
-          "relativePath": "/images/AFH/ch08/img_p155_6.png",
+          "relativePath": "/images/AFH/ch07/img_p155_6.png",
           "figureRef": "Figure 155-6",
           "kind": "figure",
           "index": 6,
@@ -2093,7 +2067,7 @@
         {
           "page": 157,
           "file": "img_p157_7.png",
-          "relativePath": "/images/AFH/ch08/img_p157_7.png",
+          "relativePath": "/images/AFH/ch07/img_p157_7.png",
           "figureRef": "Figure 157-7",
           "kind": "figure",
           "index": 7,
@@ -2112,7 +2086,7 @@
         {
           "page": 158,
           "file": "img_p158_8.png",
-          "relativePath": "/images/AFH/ch08/img_p158_8.png",
+          "relativePath": "/images/AFH/ch07/img_p158_8.png",
           "figureRef": "Figure 158-8",
           "kind": "figure",
           "index": 8,
@@ -2131,7 +2105,7 @@
         {
           "page": 159,
           "file": "img_p159_9.png",
-          "relativePath": "/images/AFH/ch08/img_p159_9.png",
+          "relativePath": "/images/AFH/ch07/img_p159_9.png",
           "figureRef": "Figure 159-9",
           "kind": "figure",
           "index": 9,
@@ -2150,7 +2124,7 @@
         {
           "page": 160,
           "file": "img_p160_10.png",
-          "relativePath": "/images/AFH/ch08/img_p160_10.png",
+          "relativePath": "/images/AFH/ch07/img_p160_10.png",
           "figureRef": "Figure 160-10",
           "kind": "figure",
           "index": 10,
@@ -2169,7 +2143,7 @@
         {
           "page": 161,
           "file": "img_p161_11.png",
-          "relativePath": "/images/AFH/ch08/img_p161_11.png",
+          "relativePath": "/images/AFH/ch07/img_p161_11.png",
           "figureRef": "Figure 161-11",
           "kind": "figure",
           "index": 11,
@@ -2188,7 +2162,7 @@
         {
           "page": 161,
           "file": "img_p161_12.png",
-          "relativePath": "/images/AFH/ch08/img_p161_12.png",
+          "relativePath": "/images/AFH/ch07/img_p161_12.png",
           "figureRef": "Figure 161-12",
           "kind": "figure",
           "index": 12,
@@ -2207,7 +2181,7 @@
         {
           "page": 162,
           "file": "img_p162_13.png",
-          "relativePath": "/images/AFH/ch08/img_p162_13.png",
+          "relativePath": "/images/AFH/ch07/img_p162_13.png",
           "figureRef": "Figure 162-13",
           "kind": "figure",
           "index": 13,
@@ -2226,7 +2200,7 @@
         {
           "page": 163,
           "file": "img_p163_14.png",
-          "relativePath": "/images/AFH/ch08/img_p163_14.png",
+          "relativePath": "/images/AFH/ch07/img_p163_14.png",
           "figureRef": "Figure 163-14",
           "kind": "figure",
           "index": 14,
@@ -2245,14 +2219,14 @@
       ]
     },
     {
-      "chapter": "ch09",
+      "chapter": "ch08",
       "startPage": 165,
       "endPage": 171,
       "images": [
         {
           "page": 166,
           "file": "img_p166_1.png",
-          "relativePath": "/images/AFH/ch09/img_p166_1.png",
+          "relativePath": "/images/AFH/ch08/img_p166_1.png",
           "figureRef": "Figure 166-1",
           "kind": "figure",
           "index": 1,
@@ -2271,7 +2245,7 @@
         {
           "page": 167,
           "file": "img_p167_2.png",
-          "relativePath": "/images/AFH/ch09/img_p167_2.png",
+          "relativePath": "/images/AFH/ch08/img_p167_2.png",
           "figureRef": "Figure 167-2",
           "kind": "figure",
           "index": 2,
@@ -2290,7 +2264,7 @@
         {
           "page": 169,
           "file": "img_p169_3.png",
-          "relativePath": "/images/AFH/ch09/img_p169_3.png",
+          "relativePath": "/images/AFH/ch08/img_p169_3.png",
           "figureRef": "Figure 169-3",
           "kind": "figure",
           "index": 3,
@@ -2309,7 +2283,7 @@
         {
           "page": 170,
           "file": "img_p170_4.png",
-          "relativePath": "/images/AFH/ch09/img_p170_4.png",
+          "relativePath": "/images/AFH/ch08/img_p170_4.png",
           "figureRef": "Figure 170-4",
           "kind": "figure",
           "index": 4,
@@ -2328,14 +2302,14 @@
       ]
     },
     {
-      "chapter": "ch10",
+      "chapter": "ch09",
       "startPage": 172,
       "endPage": 209,
       "images": [
         {
           "page": 172,
           "file": "img_p172_1.png",
-          "relativePath": "/images/AFH/ch10/img_p172_1.png",
+          "relativePath": "/images/AFH/ch09/img_p172_1.png",
           "figureRef": "Figure 172-1",
           "kind": "figure",
           "index": 1,
@@ -2354,7 +2328,7 @@
         {
           "page": 172,
           "file": "img_p172_2.png",
-          "relativePath": "/images/AFH/ch10/img_p172_2.png",
+          "relativePath": "/images/AFH/ch09/img_p172_2.png",
           "figureRef": "Figure 172-2",
           "kind": "figure",
           "index": 2,
@@ -2373,7 +2347,7 @@
         {
           "page": 174,
           "file": "img_p174_3.png",
-          "relativePath": "/images/AFH/ch10/img_p174_3.png",
+          "relativePath": "/images/AFH/ch09/img_p174_3.png",
           "figureRef": "Figure 174-3",
           "kind": "figure",
           "index": 3,
@@ -2392,7 +2366,7 @@
         {
           "page": 175,
           "file": "img_p175_4.png",
-          "relativePath": "/images/AFH/ch10/img_p175_4.png",
+          "relativePath": "/images/AFH/ch09/img_p175_4.png",
           "figureRef": "Figure 175-4",
           "kind": "figure",
           "index": 4,
@@ -2411,7 +2385,7 @@
         {
           "page": 176,
           "file": "img_p176_5.png",
-          "relativePath": "/images/AFH/ch10/img_p176_5.png",
+          "relativePath": "/images/AFH/ch09/img_p176_5.png",
           "figureRef": "Figure 176-5",
           "kind": "figure",
           "index": 5,
@@ -2430,7 +2404,7 @@
         {
           "page": 176,
           "file": "img_p176_6.png",
-          "relativePath": "/images/AFH/ch10/img_p176_6.png",
+          "relativePath": "/images/AFH/ch09/img_p176_6.png",
           "figureRef": "Figure 176-6",
           "kind": "figure",
           "index": 6,
@@ -2449,7 +2423,7 @@
         {
           "page": 177,
           "file": "img_p177_7.png",
-          "relativePath": "/images/AFH/ch10/img_p177_7.png",
+          "relativePath": "/images/AFH/ch09/img_p177_7.png",
           "figureRef": "Figure 177-7",
           "kind": "figure",
           "index": 7,
@@ -2468,7 +2442,7 @@
         {
           "page": 178,
           "file": "img_p178_8.png",
-          "relativePath": "/images/AFH/ch10/img_p178_8.png",
+          "relativePath": "/images/AFH/ch09/img_p178_8.png",
           "figureRef": "Figure 178-8",
           "kind": "figure",
           "index": 8,
@@ -2487,7 +2461,7 @@
         {
           "page": 179,
           "file": "img_p179_9.png",
-          "relativePath": "/images/AFH/ch10/img_p179_9.png",
+          "relativePath": "/images/AFH/ch09/img_p179_9.png",
           "figureRef": "Figure 179-9",
           "kind": "figure",
           "index": 9,
@@ -2506,7 +2480,7 @@
         {
           "page": 179,
           "file": "img_p179_10.png",
-          "relativePath": "/images/AFH/ch10/img_p179_10.png",
+          "relativePath": "/images/AFH/ch09/img_p179_10.png",
           "figureRef": "Figure 179-10",
           "kind": "figure",
           "index": 10,
@@ -2525,7 +2499,7 @@
         {
           "page": 180,
           "file": "img_p180_11.png",
-          "relativePath": "/images/AFH/ch10/img_p180_11.png",
+          "relativePath": "/images/AFH/ch09/img_p180_11.png",
           "figureRef": "Figure 180-11",
           "kind": "figure",
           "index": 11,
@@ -2544,7 +2518,7 @@
         {
           "page": 182,
           "file": "img_p182_12.png",
-          "relativePath": "/images/AFH/ch10/img_p182_12.png",
+          "relativePath": "/images/AFH/ch09/img_p182_12.png",
           "figureRef": "Figure 182-12",
           "kind": "figure",
           "index": 12,
@@ -2563,7 +2537,7 @@
         {
           "page": 184,
           "file": "img_p184_13.png",
-          "relativePath": "/images/AFH/ch10/img_p184_13.png",
+          "relativePath": "/images/AFH/ch09/img_p184_13.png",
           "figureRef": "Figure 184-13",
           "kind": "figure",
           "index": 13,
@@ -2582,7 +2556,7 @@
         {
           "page": 185,
           "file": "img_p185_14.png",
-          "relativePath": "/images/AFH/ch10/img_p185_14.png",
+          "relativePath": "/images/AFH/ch09/img_p185_14.png",
           "figureRef": "Figure 185-14",
           "kind": "figure",
           "index": 14,
@@ -2601,7 +2575,7 @@
         {
           "page": 187,
           "file": "img_p187_15.png",
-          "relativePath": "/images/AFH/ch10/img_p187_15.png",
+          "relativePath": "/images/AFH/ch09/img_p187_15.png",
           "figureRef": "Figure 187-15",
           "kind": "figure",
           "index": 15,
@@ -2620,7 +2594,7 @@
         {
           "page": 187,
           "file": "img_p187_16.png",
-          "relativePath": "/images/AFH/ch10/img_p187_16.png",
+          "relativePath": "/images/AFH/ch09/img_p187_16.png",
           "figureRef": "Figure 187-16",
           "kind": "figure",
           "index": 16,
@@ -2639,7 +2613,7 @@
         {
           "page": 188,
           "file": "img_p188_17.png",
-          "relativePath": "/images/AFH/ch10/img_p188_17.png",
+          "relativePath": "/images/AFH/ch09/img_p188_17.png",
           "figureRef": "Figure 188-17",
           "kind": "figure",
           "index": 17,
@@ -2658,7 +2632,7 @@
         {
           "page": 190,
           "file": "img_p190_18.png",
-          "relativePath": "/images/AFH/ch10/img_p190_18.png",
+          "relativePath": "/images/AFH/ch09/img_p190_18.png",
           "figureRef": "Figure 190-18",
           "kind": "figure",
           "index": 18,
@@ -2677,7 +2651,7 @@
         {
           "page": 190,
           "file": "img_p190_19.png",
-          "relativePath": "/images/AFH/ch10/img_p190_19.png",
+          "relativePath": "/images/AFH/ch09/img_p190_19.png",
           "figureRef": "Figure 190-19",
           "kind": "figure",
           "index": 19,
@@ -2696,7 +2670,7 @@
         {
           "page": 192,
           "file": "img_p192_20.png",
-          "relativePath": "/images/AFH/ch10/img_p192_20.png",
+          "relativePath": "/images/AFH/ch09/img_p192_20.png",
           "figureRef": "Figure 192-20",
           "kind": "figure",
           "index": 20,
@@ -2715,7 +2689,7 @@
         {
           "page": 192,
           "file": "img_p192_21.png",
-          "relativePath": "/images/AFH/ch10/img_p192_21.png",
+          "relativePath": "/images/AFH/ch09/img_p192_21.png",
           "figureRef": "Figure 192-21",
           "kind": "figure",
           "index": 21,
@@ -2734,7 +2708,7 @@
         {
           "page": 193,
           "file": "img_p193_22.png",
-          "relativePath": "/images/AFH/ch10/img_p193_22.png",
+          "relativePath": "/images/AFH/ch09/img_p193_22.png",
           "figureRef": "Figure 193-22",
           "kind": "figure",
           "index": 22,
@@ -2753,7 +2727,7 @@
         {
           "page": 193,
           "file": "img_p193_23.png",
-          "relativePath": "/images/AFH/ch10/img_p193_23.png",
+          "relativePath": "/images/AFH/ch09/img_p193_23.png",
           "figureRef": "Figure 193-23",
           "kind": "figure",
           "index": 23,
@@ -2772,7 +2746,7 @@
         {
           "page": 194,
           "file": "img_p194_24.png",
-          "relativePath": "/images/AFH/ch10/img_p194_24.png",
+          "relativePath": "/images/AFH/ch09/img_p194_24.png",
           "figureRef": "Figure 194-24",
           "kind": "figure",
           "index": 24,
@@ -2791,7 +2765,7 @@
         {
           "page": 196,
           "file": "img_p196_25.png",
-          "relativePath": "/images/AFH/ch10/img_p196_25.png",
+          "relativePath": "/images/AFH/ch09/img_p196_25.png",
           "figureRef": "Figure 196-25",
           "kind": "figure",
           "index": 25,
@@ -2810,7 +2784,7 @@
         {
           "page": 197,
           "file": "img_p197_26.png",
-          "relativePath": "/images/AFH/ch10/img_p197_26.png",
+          "relativePath": "/images/AFH/ch09/img_p197_26.png",
           "figureRef": "Figure 197-26",
           "kind": "figure",
           "index": 26,
@@ -2829,7 +2803,7 @@
         {
           "page": 198,
           "file": "img_p198_27.png",
-          "relativePath": "/images/AFH/ch10/img_p198_27.png",
+          "relativePath": "/images/AFH/ch09/img_p198_27.png",
           "figureRef": "Figure 198-27",
           "kind": "figure",
           "index": 27,
@@ -2848,7 +2822,7 @@
         {
           "page": 199,
           "file": "img_p199_28.png",
-          "relativePath": "/images/AFH/ch10/img_p199_28.png",
+          "relativePath": "/images/AFH/ch09/img_p199_28.png",
           "figureRef": "Figure 199-28",
           "kind": "figure",
           "index": 28,
@@ -2867,7 +2841,7 @@
         {
           "page": 200,
           "file": "img_p200_29.png",
-          "relativePath": "/images/AFH/ch10/img_p200_29.png",
+          "relativePath": "/images/AFH/ch09/img_p200_29.png",
           "figureRef": "Figure 200-29",
           "kind": "figure",
           "index": 29,
@@ -2886,7 +2860,7 @@
         {
           "page": 201,
           "file": "img_p201_30.png",
-          "relativePath": "/images/AFH/ch10/img_p201_30.png",
+          "relativePath": "/images/AFH/ch09/img_p201_30.png",
           "figureRef": "Figure 201-30",
           "kind": "figure",
           "index": 30,
@@ -2905,7 +2879,7 @@
         {
           "page": 201,
           "file": "img_p201_31.png",
-          "relativePath": "/images/AFH/ch10/img_p201_31.png",
+          "relativePath": "/images/AFH/ch09/img_p201_31.png",
           "figureRef": "Figure 201-31",
           "kind": "figure",
           "index": 31,
@@ -2924,7 +2898,7 @@
         {
           "page": 202,
           "file": "img_p202_32.png",
-          "relativePath": "/images/AFH/ch10/img_p202_32.png",
+          "relativePath": "/images/AFH/ch09/img_p202_32.png",
           "figureRef": "Figure 202-32",
           "kind": "figure",
           "index": 32,
@@ -2943,7 +2917,7 @@
         {
           "page": 203,
           "file": "img_p203_33.png",
-          "relativePath": "/images/AFH/ch10/img_p203_33.png",
+          "relativePath": "/images/AFH/ch09/img_p203_33.png",
           "figureRef": "Figure 203-33",
           "kind": "figure",
           "index": 33,
@@ -2962,7 +2936,7 @@
         {
           "page": 204,
           "file": "img_p204_34.png",
-          "relativePath": "/images/AFH/ch10/img_p204_34.png",
+          "relativePath": "/images/AFH/ch09/img_p204_34.png",
           "figureRef": "Figure 204-34",
           "kind": "figure",
           "index": 34,
@@ -2981,7 +2955,7 @@
         {
           "page": 204,
           "file": "img_p204_35.png",
-          "relativePath": "/images/AFH/ch10/img_p204_35.png",
+          "relativePath": "/images/AFH/ch09/img_p204_35.png",
           "figureRef": "Figure 204-35",
           "kind": "figure",
           "index": 35,
@@ -3000,7 +2974,7 @@
         {
           "page": 205,
           "file": "img_p205_36.png",
-          "relativePath": "/images/AFH/ch10/img_p205_36.png",
+          "relativePath": "/images/AFH/ch09/img_p205_36.png",
           "figureRef": "Figure 205-36",
           "kind": "figure",
           "index": 36,
@@ -3019,7 +2993,7 @@
         {
           "page": 206,
           "file": "img_p206_37.png",
-          "relativePath": "/images/AFH/ch10/img_p206_37.png",
+          "relativePath": "/images/AFH/ch09/img_p206_37.png",
           "figureRef": "Figure 206-37",
           "kind": "figure",
           "index": 37,
@@ -3038,7 +3012,7 @@
         {
           "page": 207,
           "file": "img_p207_38.png",
-          "relativePath": "/images/AFH/ch10/img_p207_38.png",
+          "relativePath": "/images/AFH/ch09/img_p207_38.png",
           "figureRef": "Figure 207-38",
           "kind": "figure",
           "index": 38,
@@ -3057,14 +3031,14 @@
       ]
     },
     {
-      "chapter": "ch11",
+      "chapter": "ch10",
       "startPage": 210,
       "endPage": 217,
       "images": [
         {
           "page": 210,
           "file": "img_p210_1.png",
-          "relativePath": "/images/AFH/ch11/img_p210_1.png",
+          "relativePath": "/images/AFH/ch10/img_p210_1.png",
           "figureRef": "Figure 210-1",
           "kind": "figure",
           "index": 1,
@@ -3083,7 +3057,7 @@
         {
           "page": 212,
           "file": "img_p212_2.png",
-          "relativePath": "/images/AFH/ch11/img_p212_2.png",
+          "relativePath": "/images/AFH/ch10/img_p212_2.png",
           "figureRef": "Figure 212-2",
           "kind": "figure",
           "index": 2,
@@ -3102,7 +3076,7 @@
         {
           "page": 214,
           "file": "img_p214_3.png",
-          "relativePath": "/images/AFH/ch11/img_p214_3.png",
+          "relativePath": "/images/AFH/ch10/img_p214_3.png",
           "figureRef": "Figure 214-3",
           "kind": "figure",
           "index": 3,
@@ -3121,7 +3095,7 @@
         {
           "page": 215,
           "file": "img_p215_4.png",
-          "relativePath": "/images/AFH/ch11/img_p215_4.png",
+          "relativePath": "/images/AFH/ch10/img_p215_4.png",
           "figureRef": "Figure 215-4",
           "kind": "figure",
           "index": 4,
@@ -3140,14 +3114,14 @@
       ]
     },
     {
-      "chapter": "ch12",
+      "chapter": "ch11",
       "startPage": 218,
       "endPage": 231,
       "images": [
         {
           "page": 219,
           "file": "img_p219_1.png",
-          "relativePath": "/images/AFH/ch12/img_p219_1.png",
+          "relativePath": "/images/AFH/ch11/img_p219_1.png",
           "figureRef": "Figure 219-1",
           "kind": "figure",
           "index": 1,
@@ -3166,7 +3140,7 @@
         {
           "page": 219,
           "file": "img_p219_2.png",
-          "relativePath": "/images/AFH/ch12/img_p219_2.png",
+          "relativePath": "/images/AFH/ch11/img_p219_2.png",
           "figureRef": "Figure 219-2",
           "kind": "figure",
           "index": 2,
@@ -3185,7 +3159,7 @@
         {
           "page": 220,
           "file": "img_p220_3.png",
-          "relativePath": "/images/AFH/ch12/img_p220_3.png",
+          "relativePath": "/images/AFH/ch11/img_p220_3.png",
           "figureRef": "Figure 220-3",
           "kind": "figure",
           "index": 3,
@@ -3204,7 +3178,7 @@
         {
           "page": 223,
           "file": "img_p223_4.png",
-          "relativePath": "/images/AFH/ch12/img_p223_4.png",
+          "relativePath": "/images/AFH/ch11/img_p223_4.png",
           "figureRef": "Figure 223-4",
           "kind": "figure",
           "index": 4,
@@ -3223,7 +3197,7 @@
         {
           "page": 226,
           "file": "img_p226_5.png",
-          "relativePath": "/images/AFH/ch12/img_p226_5.png",
+          "relativePath": "/images/AFH/ch11/img_p226_5.png",
           "figureRef": "Figure 226-5",
           "kind": "figure",
           "index": 5,
@@ -3242,7 +3216,7 @@
         {
           "page": 227,
           "file": "img_p227_6.png",
-          "relativePath": "/images/AFH/ch12/img_p227_6.png",
+          "relativePath": "/images/AFH/ch11/img_p227_6.png",
           "figureRef": "Figure 227-6",
           "kind": "figure",
           "index": 6,
@@ -3261,7 +3235,7 @@
         {
           "page": 228,
           "file": "img_p228_7.png",
-          "relativePath": "/images/AFH/ch12/img_p228_7.png",
+          "relativePath": "/images/AFH/ch11/img_p228_7.png",
           "figureRef": "Figure 228-7",
           "kind": "figure",
           "index": 7,
@@ -3280,7 +3254,7 @@
         {
           "page": 229,
           "file": "img_p229_8.png",
-          "relativePath": "/images/AFH/ch12/img_p229_8.png",
+          "relativePath": "/images/AFH/ch11/img_p229_8.png",
           "figureRef": "Figure 229-8",
           "kind": "figure",
           "index": 8,
@@ -3299,14 +3273,14 @@
       ]
     },
     {
-      "chapter": "ch13",
+      "chapter": "ch12",
       "startPage": 232,
       "endPage": 249,
       "images": [
         {
           "page": 232,
           "file": "img_p232_1.png",
-          "relativePath": "/images/AFH/ch13/img_p232_1.png",
+          "relativePath": "/images/AFH/ch12/img_p232_1.png",
           "figureRef": "Figure 232-1",
           "kind": "figure",
           "index": 1,
@@ -3325,7 +3299,7 @@
         {
           "page": 233,
           "file": "img_p233_2.png",
-          "relativePath": "/images/AFH/ch13/img_p233_2.png",
+          "relativePath": "/images/AFH/ch12/img_p233_2.png",
           "figureRef": "Figure 233-2",
           "kind": "figure",
           "index": 2,
@@ -3344,7 +3318,7 @@
         {
           "page": 233,
           "file": "img_p233_3.png",
-          "relativePath": "/images/AFH/ch13/img_p233_3.png",
+          "relativePath": "/images/AFH/ch12/img_p233_3.png",
           "figureRef": "Figure 233-3",
           "kind": "figure",
           "index": 3,
@@ -3363,7 +3337,7 @@
         {
           "page": 234,
           "file": "img_p234_4.png",
-          "relativePath": "/images/AFH/ch13/img_p234_4.png",
+          "relativePath": "/images/AFH/ch12/img_p234_4.png",
           "figureRef": "Figure 234-4",
           "kind": "figure",
           "index": 4,
@@ -3382,7 +3356,7 @@
         {
           "page": 236,
           "file": "img_p236_5.png",
-          "relativePath": "/images/AFH/ch13/img_p236_5.png",
+          "relativePath": "/images/AFH/ch12/img_p236_5.png",
           "figureRef": "Figure 236-5",
           "kind": "figure",
           "index": 5,
@@ -3401,7 +3375,7 @@
         {
           "page": 237,
           "file": "img_p237_6.png",
-          "relativePath": "/images/AFH/ch13/img_p237_6.png",
+          "relativePath": "/images/AFH/ch12/img_p237_6.png",
           "figureRef": "Figure 237-6",
           "kind": "figure",
           "index": 6,
@@ -3420,7 +3394,7 @@
         {
           "page": 238,
           "file": "img_p238_7.png",
-          "relativePath": "/images/AFH/ch13/img_p238_7.png",
+          "relativePath": "/images/AFH/ch12/img_p238_7.png",
           "figureRef": "Figure 238-7",
           "kind": "figure",
           "index": 7,
@@ -3439,7 +3413,7 @@
         {
           "page": 239,
           "file": "img_p239_8.png",
-          "relativePath": "/images/AFH/ch13/img_p239_8.png",
+          "relativePath": "/images/AFH/ch12/img_p239_8.png",
           "figureRef": "Figure 239-8",
           "kind": "figure",
           "index": 8,
@@ -3458,7 +3432,7 @@
         {
           "page": 240,
           "file": "img_p240_9.png",
-          "relativePath": "/images/AFH/ch13/img_p240_9.png",
+          "relativePath": "/images/AFH/ch12/img_p240_9.png",
           "figureRef": "Figure 240-9",
           "kind": "figure",
           "index": 9,
@@ -3477,7 +3451,7 @@
         {
           "page": 244,
           "file": "img_p244_10.png",
-          "relativePath": "/images/AFH/ch13/img_p244_10.png",
+          "relativePath": "/images/AFH/ch12/img_p244_10.png",
           "figureRef": "Figure 244-10",
           "kind": "figure",
           "index": 10,
@@ -3496,7 +3470,7 @@
         {
           "page": 244,
           "file": "img_p244_11.png",
-          "relativePath": "/images/AFH/ch13/img_p244_11.png",
+          "relativePath": "/images/AFH/ch12/img_p244_11.png",
           "figureRef": "Figure 244-11",
           "kind": "figure",
           "index": 11,
@@ -3515,7 +3489,7 @@
         {
           "page": 245,
           "file": "img_p245_12.png",
-          "relativePath": "/images/AFH/ch13/img_p245_12.png",
+          "relativePath": "/images/AFH/ch12/img_p245_12.png",
           "figureRef": "Figure 245-12",
           "kind": "figure",
           "index": 12,
@@ -3534,7 +3508,7 @@
         {
           "page": 246,
           "file": "img_p246_13.png",
-          "relativePath": "/images/AFH/ch13/img_p246_13.png",
+          "relativePath": "/images/AFH/ch12/img_p246_13.png",
           "figureRef": "Figure 246-13",
           "kind": "figure",
           "index": 13,
@@ -3553,7 +3527,7 @@
         {
           "page": 246,
           "file": "img_p246_14.png",
-          "relativePath": "/images/AFH/ch13/img_p246_14.png",
+          "relativePath": "/images/AFH/ch12/img_p246_14.png",
           "figureRef": "Figure 246-14",
           "kind": "figure",
           "index": 14,
@@ -3572,7 +3546,7 @@
         {
           "page": 247,
           "file": "img_p247_15.png",
-          "relativePath": "/images/AFH/ch13/img_p247_15.png",
+          "relativePath": "/images/AFH/ch12/img_p247_15.png",
           "figureRef": "Figure 247-15",
           "kind": "figure",
           "index": 15,
@@ -3591,7 +3565,7 @@
         {
           "page": 249,
           "file": "img_p249_16.png",
-          "relativePath": "/images/AFH/ch13/img_p249_16.png",
+          "relativePath": "/images/AFH/ch12/img_p249_16.png",
           "figureRef": "Figure 249-16",
           "kind": "figure",
           "index": 16,
@@ -3610,14 +3584,14 @@
       ]
     },
     {
-      "chapter": "ch14",
+      "chapter": "ch13",
       "startPage": 250,
       "endPage": 286,
       "images": [
         {
           "page": 251,
           "file": "img_p251_1.png",
-          "relativePath": "/images/AFH/ch14/img_p251_1.png",
+          "relativePath": "/images/AFH/ch13/img_p251_1.png",
           "figureRef": "Figure 251-1",
           "kind": "figure",
           "index": 1,
@@ -3636,7 +3610,7 @@
         {
           "page": 253,
           "file": "img_p253_2.png",
-          "relativePath": "/images/AFH/ch14/img_p253_2.png",
+          "relativePath": "/images/AFH/ch13/img_p253_2.png",
           "figureRef": "Figure 253-2",
           "kind": "figure",
           "index": 2,
@@ -3655,7 +3629,7 @@
         {
           "page": 254,
           "file": "img_p254_3.png",
-          "relativePath": "/images/AFH/ch14/img_p254_3.png",
+          "relativePath": "/images/AFH/ch13/img_p254_3.png",
           "figureRef": "Figure 254-3",
           "kind": "figure",
           "index": 3,
@@ -3674,7 +3648,7 @@
         {
           "page": 255,
           "file": "img_p255_4.png",
-          "relativePath": "/images/AFH/ch14/img_p255_4.png",
+          "relativePath": "/images/AFH/ch13/img_p255_4.png",
           "figureRef": "Figure 255-4",
           "kind": "figure",
           "index": 4,
@@ -3693,7 +3667,7 @@
         {
           "page": 259,
           "file": "img_p259_5.png",
-          "relativePath": "/images/AFH/ch14/img_p259_5.png",
+          "relativePath": "/images/AFH/ch13/img_p259_5.png",
           "figureRef": "Figure 259-5",
           "kind": "figure",
           "index": 5,
@@ -3712,7 +3686,7 @@
         {
           "page": 260,
           "file": "img_p260_6.png",
-          "relativePath": "/images/AFH/ch14/img_p260_6.png",
+          "relativePath": "/images/AFH/ch13/img_p260_6.png",
           "figureRef": "Figure 260-6",
           "kind": "figure",
           "index": 6,
@@ -3731,7 +3705,7 @@
         {
           "page": 260,
           "file": "img_p260_7.png",
-          "relativePath": "/images/AFH/ch14/img_p260_7.png",
+          "relativePath": "/images/AFH/ch13/img_p260_7.png",
           "figureRef": "Figure 260-7",
           "kind": "figure",
           "index": 7,
@@ -3750,7 +3724,7 @@
         {
           "page": 265,
           "file": "img_p265_8.png",
-          "relativePath": "/images/AFH/ch14/img_p265_8.png",
+          "relativePath": "/images/AFH/ch13/img_p265_8.png",
           "figureRef": "Figure 265-8",
           "kind": "figure",
           "index": 8,
@@ -3769,7 +3743,7 @@
         {
           "page": 266,
           "file": "img_p266_9.png",
-          "relativePath": "/images/AFH/ch14/img_p266_9.png",
+          "relativePath": "/images/AFH/ch13/img_p266_9.png",
           "figureRef": "Figure 266-9",
           "kind": "figure",
           "index": 9,
@@ -3788,7 +3762,7 @@
         {
           "page": 268,
           "file": "img_p268_10.png",
-          "relativePath": "/images/AFH/ch14/img_p268_10.png",
+          "relativePath": "/images/AFH/ch13/img_p268_10.png",
           "figureRef": "Figure 268-10",
           "kind": "figure",
           "index": 10,
@@ -3807,7 +3781,7 @@
         {
           "page": 270,
           "file": "img_p270_11.png",
-          "relativePath": "/images/AFH/ch14/img_p270_11.png",
+          "relativePath": "/images/AFH/ch13/img_p270_11.png",
           "figureRef": "Figure 270-11",
           "kind": "figure",
           "index": 11,
@@ -3826,7 +3800,7 @@
         {
           "page": 271,
           "file": "img_p271_12.png",
-          "relativePath": "/images/AFH/ch14/img_p271_12.png",
+          "relativePath": "/images/AFH/ch13/img_p271_12.png",
           "figureRef": "Figure 271-12",
           "kind": "figure",
           "index": 12,
@@ -3845,7 +3819,7 @@
         {
           "page": 273,
           "file": "img_p273_13.png",
-          "relativePath": "/images/AFH/ch14/img_p273_13.png",
+          "relativePath": "/images/AFH/ch13/img_p273_13.png",
           "figureRef": "Figure 273-13",
           "kind": "figure",
           "index": 13,
@@ -3864,7 +3838,7 @@
         {
           "page": 274,
           "file": "img_p274_14.png",
-          "relativePath": "/images/AFH/ch14/img_p274_14.png",
+          "relativePath": "/images/AFH/ch13/img_p274_14.png",
           "figureRef": "Figure 274-14",
           "kind": "figure",
           "index": 14,
@@ -3883,7 +3857,7 @@
         {
           "page": 276,
           "file": "img_p276_15.png",
-          "relativePath": "/images/AFH/ch14/img_p276_15.png",
+          "relativePath": "/images/AFH/ch13/img_p276_15.png",
           "figureRef": "Figure 276-15",
           "kind": "figure",
           "index": 15,
@@ -3902,7 +3876,7 @@
         {
           "page": 277,
           "file": "img_p277_16.png",
-          "relativePath": "/images/AFH/ch14/img_p277_16.png",
+          "relativePath": "/images/AFH/ch13/img_p277_16.png",
           "figureRef": "Figure 277-16",
           "kind": "figure",
           "index": 16,
@@ -3921,7 +3895,7 @@
         {
           "page": 277,
           "file": "img_p277_17.png",
-          "relativePath": "/images/AFH/ch14/img_p277_17.png",
+          "relativePath": "/images/AFH/ch13/img_p277_17.png",
           "figureRef": "Figure 277-17",
           "kind": "figure",
           "index": 17,
@@ -3940,7 +3914,7 @@
         {
           "page": 277,
           "file": "img_p277_18.png",
-          "relativePath": "/images/AFH/ch14/img_p277_18.png",
+          "relativePath": "/images/AFH/ch13/img_p277_18.png",
           "figureRef": "Figure 277-18",
           "kind": "figure",
           "index": 18,
@@ -3959,7 +3933,7 @@
         {
           "page": 277,
           "file": "img_p277_19.png",
-          "relativePath": "/images/AFH/ch14/img_p277_19.png",
+          "relativePath": "/images/AFH/ch13/img_p277_19.png",
           "figureRef": "Figure 277-19",
           "kind": "figure",
           "index": 19,
@@ -3978,7 +3952,7 @@
         {
           "page": 278,
           "file": "img_p278_20.png",
-          "relativePath": "/images/AFH/ch14/img_p278_20.png",
+          "relativePath": "/images/AFH/ch13/img_p278_20.png",
           "figureRef": "Figure 278-20",
           "kind": "figure",
           "index": 20,
@@ -3997,7 +3971,7 @@
         {
           "page": 278,
           "file": "img_p278_21.png",
-          "relativePath": "/images/AFH/ch14/img_p278_21.png",
+          "relativePath": "/images/AFH/ch13/img_p278_21.png",
           "figureRef": "Figure 278-21",
           "kind": "figure",
           "index": 21,
@@ -4016,7 +3990,7 @@
         {
           "page": 279,
           "file": "img_p279_22.png",
-          "relativePath": "/images/AFH/ch14/img_p279_22.png",
+          "relativePath": "/images/AFH/ch13/img_p279_22.png",
           "figureRef": "Figure 279-22",
           "kind": "figure",
           "index": 22,
@@ -4035,7 +4009,7 @@
         {
           "page": 279,
           "file": "img_p279_23.png",
-          "relativePath": "/images/AFH/ch14/img_p279_23.png",
+          "relativePath": "/images/AFH/ch13/img_p279_23.png",
           "figureRef": "Figure 279-23",
           "kind": "figure",
           "index": 23,
@@ -4054,7 +4028,7 @@
         {
           "page": 280,
           "file": "img_p280_24.png",
-          "relativePath": "/images/AFH/ch14/img_p280_24.png",
+          "relativePath": "/images/AFH/ch13/img_p280_24.png",
           "figureRef": "Figure 280-24",
           "kind": "figure",
           "index": 24,
@@ -4073,7 +4047,7 @@
         {
           "page": 281,
           "file": "img_p281_25.png",
-          "relativePath": "/images/AFH/ch14/img_p281_25.png",
+          "relativePath": "/images/AFH/ch13/img_p281_25.png",
           "figureRef": "Figure 281-25",
           "kind": "figure",
           "index": 25,
@@ -4092,7 +4066,7 @@
         {
           "page": 282,
           "file": "img_p282_26.png",
-          "relativePath": "/images/AFH/ch14/img_p282_26.png",
+          "relativePath": "/images/AFH/ch13/img_p282_26.png",
           "figureRef": "Figure 282-26",
           "kind": "figure",
           "index": 26,
@@ -4111,14 +4085,14 @@
       ]
     },
     {
-      "chapter": "ch15",
+      "chapter": "ch14",
       "startPage": 287,
       "endPage": 294,
       "images": [
         {
           "page": 287,
           "file": "img_p287_1.png",
-          "relativePath": "/images/AFH/ch15/img_p287_1.png",
+          "relativePath": "/images/AFH/ch14/img_p287_1.png",
           "figureRef": "Figure 287-1",
           "kind": "figure",
           "index": 1,
@@ -4137,7 +4111,7 @@
         {
           "page": 291,
           "file": "img_p291_2.png",
-          "relativePath": "/images/AFH/ch15/img_p291_2.png",
+          "relativePath": "/images/AFH/ch14/img_p291_2.png",
           "figureRef": "Figure 291-2",
           "kind": "figure",
           "index": 2,
@@ -4156,7 +4130,7 @@
         {
           "page": 292,
           "file": "img_p292_3.png",
-          "relativePath": "/images/AFH/ch15/img_p292_3.png",
+          "relativePath": "/images/AFH/ch14/img_p292_3.png",
           "figureRef": "Figure 292-3",
           "kind": "figure",
           "index": 3,
@@ -4175,7 +4149,7 @@
         {
           "page": 293,
           "file": "img_p293_4.png",
-          "relativePath": "/images/AFH/ch15/img_p293_4.png",
+          "relativePath": "/images/AFH/ch14/img_p293_4.png",
           "figureRef": "Figure 293-4",
           "kind": "figure",
           "index": 4,
@@ -4194,7 +4168,7 @@
         {
           "page": 294,
           "file": "img_p294_5.png",
-          "relativePath": "/images/AFH/ch15/img_p294_5.png",
+          "relativePath": "/images/AFH/ch14/img_p294_5.png",
           "figureRef": "Figure 294-5",
           "kind": "figure",
           "index": 5,
@@ -4213,14 +4187,14 @@
       ]
     },
     {
-      "chapter": "ch16",
+      "chapter": "ch15",
       "startPage": 295,
       "endPage": 309,
       "images": [
         {
           "page": 295,
           "file": "img_p295_1.png",
-          "relativePath": "/images/AFH/ch16/img_p295_1.png",
+          "relativePath": "/images/AFH/ch15/img_p295_1.png",
           "figureRef": "Figure 295-1",
           "kind": "figure",
           "index": 1,
@@ -4239,7 +4213,7 @@
         {
           "page": 297,
           "file": "img_p297_2.png",
-          "relativePath": "/images/AFH/ch16/img_p297_2.png",
+          "relativePath": "/images/AFH/ch15/img_p297_2.png",
           "figureRef": "Figure 297-2",
           "kind": "figure",
           "index": 2,
@@ -4258,7 +4232,7 @@
         {
           "page": 298,
           "file": "img_p298_3.png",
-          "relativePath": "/images/AFH/ch16/img_p298_3.png",
+          "relativePath": "/images/AFH/ch15/img_p298_3.png",
           "figureRef": "Figure 298-3",
           "kind": "figure",
           "index": 3,
@@ -4277,7 +4251,7 @@
         {
           "page": 298,
           "file": "img_p298_4.png",
-          "relativePath": "/images/AFH/ch16/img_p298_4.png",
+          "relativePath": "/images/AFH/ch15/img_p298_4.png",
           "figureRef": "Figure 298-4",
           "kind": "figure",
           "index": 4,
@@ -4296,7 +4270,7 @@
         {
           "page": 299,
           "file": "img_p299_5.png",
-          "relativePath": "/images/AFH/ch16/img_p299_5.png",
+          "relativePath": "/images/AFH/ch15/img_p299_5.png",
           "figureRef": "Figure 299-5",
           "kind": "figure",
           "index": 5,
@@ -4315,7 +4289,7 @@
         {
           "page": 300,
           "file": "img_p300_6.png",
-          "relativePath": "/images/AFH/ch16/img_p300_6.png",
+          "relativePath": "/images/AFH/ch15/img_p300_6.png",
           "figureRef": "Figure 300-6",
           "kind": "figure",
           "index": 6,
@@ -4334,7 +4308,7 @@
         {
           "page": 301,
           "file": "img_p301_7.png",
-          "relativePath": "/images/AFH/ch16/img_p301_7.png",
+          "relativePath": "/images/AFH/ch15/img_p301_7.png",
           "figureRef": "Figure 301-7",
           "kind": "figure",
           "index": 7,
@@ -4353,7 +4327,7 @@
         {
           "page": 302,
           "file": "img_p302_8.png",
-          "relativePath": "/images/AFH/ch16/img_p302_8.png",
+          "relativePath": "/images/AFH/ch15/img_p302_8.png",
           "figureRef": "Figure 302-8",
           "kind": "figure",
           "index": 8,
@@ -4372,7 +4346,7 @@
         {
           "page": 302,
           "file": "img_p302_9.png",
-          "relativePath": "/images/AFH/ch16/img_p302_9.png",
+          "relativePath": "/images/AFH/ch15/img_p302_9.png",
           "figureRef": "Figure 302-9",
           "kind": "figure",
           "index": 9,
@@ -4391,7 +4365,7 @@
         {
           "page": 303,
           "file": "img_p303_10.png",
-          "relativePath": "/images/AFH/ch16/img_p303_10.png",
+          "relativePath": "/images/AFH/ch15/img_p303_10.png",
           "figureRef": "Figure 303-10",
           "kind": "figure",
           "index": 10,
@@ -4410,7 +4384,7 @@
         {
           "page": 303,
           "file": "img_p303_11.png",
-          "relativePath": "/images/AFH/ch16/img_p303_11.png",
+          "relativePath": "/images/AFH/ch15/img_p303_11.png",
           "figureRef": "Figure 303-11",
           "kind": "figure",
           "index": 11,
@@ -4429,7 +4403,7 @@
         {
           "page": 304,
           "file": "img_p304_12.png",
-          "relativePath": "/images/AFH/ch16/img_p304_12.png",
+          "relativePath": "/images/AFH/ch15/img_p304_12.png",
           "figureRef": "Figure 304-12",
           "kind": "figure",
           "index": 12,
@@ -4448,7 +4422,7 @@
         {
           "page": 305,
           "file": "img_p305_13.png",
-          "relativePath": "/images/AFH/ch16/img_p305_13.png",
+          "relativePath": "/images/AFH/ch15/img_p305_13.png",
           "figureRef": "Figure 305-13",
           "kind": "figure",
           "index": 13,
@@ -4467,7 +4441,7 @@
         {
           "page": 306,
           "file": "img_p306_14.png",
-          "relativePath": "/images/AFH/ch16/img_p306_14.png",
+          "relativePath": "/images/AFH/ch15/img_p306_14.png",
           "figureRef": "Figure 306-14",
           "kind": "figure",
           "index": 14,
@@ -4486,7 +4460,7 @@
         {
           "page": 307,
           "file": "img_p307_15.png",
-          "relativePath": "/images/AFH/ch16/img_p307_15.png",
+          "relativePath": "/images/AFH/ch15/img_p307_15.png",
           "figureRef": "Figure 307-15",
           "kind": "figure",
           "index": 15,
@@ -4505,14 +4479,14 @@
       ]
     },
     {
-      "chapter": "ch17",
+      "chapter": "ch16",
       "startPage": 310,
       "endPage": 334,
       "images": [
         {
           "page": 310,
           "file": "img_p310_1.png",
-          "relativePath": "/images/AFH/ch17/img_p310_1.png",
+          "relativePath": "/images/AFH/ch16/img_p310_1.png",
           "figureRef": "Figure 310-1",
           "kind": "figure",
           "index": 1,
@@ -4531,7 +4505,7 @@
         {
           "page": 311,
           "file": "img_p311_2.png",
-          "relativePath": "/images/AFH/ch17/img_p311_2.png",
+          "relativePath": "/images/AFH/ch16/img_p311_2.png",
           "figureRef": "Figure 311-2",
           "kind": "figure",
           "index": 2,
@@ -4550,7 +4524,7 @@
         {
           "page": 312,
           "file": "img_p312_3.png",
-          "relativePath": "/images/AFH/ch17/img_p312_3.png",
+          "relativePath": "/images/AFH/ch16/img_p312_3.png",
           "figureRef": "Figure 312-3",
           "kind": "figure",
           "index": 3,
@@ -4569,7 +4543,7 @@
         {
           "page": 312,
           "file": "img_p312_4.png",
-          "relativePath": "/images/AFH/ch17/img_p312_4.png",
+          "relativePath": "/images/AFH/ch16/img_p312_4.png",
           "figureRef": "Figure 312-4",
           "kind": "figure",
           "index": 4,
@@ -4588,7 +4562,7 @@
         {
           "page": 314,
           "file": "img_p314_5.png",
-          "relativePath": "/images/AFH/ch17/img_p314_5.png",
+          "relativePath": "/images/AFH/ch16/img_p314_5.png",
           "figureRef": "Figure 314-5",
           "kind": "figure",
           "index": 5,
@@ -4607,7 +4581,7 @@
         {
           "page": 314,
           "file": "img_p314_6.png",
-          "relativePath": "/images/AFH/ch17/img_p314_6.png",
+          "relativePath": "/images/AFH/ch16/img_p314_6.png",
           "figureRef": "Figure 314-6",
           "kind": "figure",
           "index": 6,
@@ -4626,7 +4600,7 @@
         {
           "page": 316,
           "file": "img_p316_7.png",
-          "relativePath": "/images/AFH/ch17/img_p316_7.png",
+          "relativePath": "/images/AFH/ch16/img_p316_7.png",
           "figureRef": "Figure 316-7",
           "kind": "figure",
           "index": 7,
@@ -4645,7 +4619,7 @@
         {
           "page": 316,
           "file": "img_p316_8.png",
-          "relativePath": "/images/AFH/ch17/img_p316_8.png",
+          "relativePath": "/images/AFH/ch16/img_p316_8.png",
           "figureRef": "Figure 316-8",
           "kind": "figure",
           "index": 8,
@@ -4664,7 +4638,7 @@
         {
           "page": 317,
           "file": "img_p317_9.png",
-          "relativePath": "/images/AFH/ch17/img_p317_9.png",
+          "relativePath": "/images/AFH/ch16/img_p317_9.png",
           "figureRef": "Figure 317-9",
           "kind": "figure",
           "index": 9,
@@ -4683,7 +4657,7 @@
         {
           "page": 318,
           "file": "img_p318_10.png",
-          "relativePath": "/images/AFH/ch17/img_p318_10.png",
+          "relativePath": "/images/AFH/ch16/img_p318_10.png",
           "figureRef": "Figure 318-10",
           "kind": "figure",
           "index": 10,
@@ -4702,7 +4676,7 @@
         {
           "page": 319,
           "file": "img_p319_11.png",
-          "relativePath": "/images/AFH/ch17/img_p319_11.png",
+          "relativePath": "/images/AFH/ch16/img_p319_11.png",
           "figureRef": "Figure 319-11",
           "kind": "figure",
           "index": 11,
@@ -4721,7 +4695,7 @@
         {
           "page": 322,
           "file": "img_p322_12.png",
-          "relativePath": "/images/AFH/ch17/img_p322_12.png",
+          "relativePath": "/images/AFH/ch16/img_p322_12.png",
           "figureRef": "Figure 322-12",
           "kind": "figure",
           "index": 12,
@@ -4740,7 +4714,7 @@
         {
           "page": 323,
           "file": "img_p323_13.png",
-          "relativePath": "/images/AFH/ch17/img_p323_13.png",
+          "relativePath": "/images/AFH/ch16/img_p323_13.png",
           "figureRef": "Figure 323-13",
           "kind": "figure",
           "index": 13,
@@ -4759,7 +4733,7 @@
         {
           "page": 326,
           "file": "img_p326_14.png",
-          "relativePath": "/images/AFH/ch17/img_p326_14.png",
+          "relativePath": "/images/AFH/ch16/img_p326_14.png",
           "figureRef": "Figure 326-14",
           "kind": "figure",
           "index": 14,
@@ -4778,7 +4752,7 @@
         {
           "page": 328,
           "file": "img_p328_15.png",
-          "relativePath": "/images/AFH/ch17/img_p328_15.png",
+          "relativePath": "/images/AFH/ch16/img_p328_15.png",
           "figureRef": "Figure 328-15",
           "kind": "figure",
           "index": 15,
@@ -4797,7 +4771,7 @@
         {
           "page": 328,
           "file": "img_p328_16.png",
-          "relativePath": "/images/AFH/ch17/img_p328_16.png",
+          "relativePath": "/images/AFH/ch16/img_p328_16.png",
           "figureRef": "Figure 328-16",
           "kind": "figure",
           "index": 16,
@@ -4816,7 +4790,7 @@
         {
           "page": 329,
           "file": "img_p329_17.png",
-          "relativePath": "/images/AFH/ch17/img_p329_17.png",
+          "relativePath": "/images/AFH/ch16/img_p329_17.png",
           "figureRef": "Figure 329-17",
           "kind": "figure",
           "index": 17,
@@ -4835,7 +4809,7 @@
         {
           "page": 331,
           "file": "img_p331_18.png",
-          "relativePath": "/images/AFH/ch17/img_p331_18.png",
+          "relativePath": "/images/AFH/ch16/img_p331_18.png",
           "figureRef": "Figure 331-18",
           "kind": "figure",
           "index": 18,
@@ -4854,7 +4828,7 @@
         {
           "page": 332,
           "file": "img_p332_19.png",
-          "relativePath": "/images/AFH/ch17/img_p332_19.png",
+          "relativePath": "/images/AFH/ch16/img_p332_19.png",
           "figureRef": "Figure 332-19",
           "kind": "figure",
           "index": 19,
@@ -4873,14 +4847,14 @@
       ]
     },
     {
-      "chapter": "ch18",
+      "chapter": "ch17",
       "startPage": 335,
       "endPage": 349,
       "images": [
         {
           "page": 335,
           "file": "img_p335_1.png",
-          "relativePath": "/images/AFH/ch18/img_p335_1.png",
+          "relativePath": "/images/AFH/ch17/img_p335_1.png",
           "figureRef": "Figure 335-1",
           "kind": "figure",
           "index": 1,
@@ -4899,7 +4873,7 @@
         {
           "page": 336,
           "file": "img_p336_2.png",
-          "relativePath": "/images/AFH/ch18/img_p336_2.png",
+          "relativePath": "/images/AFH/ch17/img_p336_2.png",
           "figureRef": "Figure 336-2",
           "kind": "figure",
           "index": 2,
@@ -4918,7 +4892,7 @@
         {
           "page": 340,
           "file": "img_p340_3.png",
-          "relativePath": "/images/AFH/ch18/img_p340_3.png",
+          "relativePath": "/images/AFH/ch17/img_p340_3.png",
           "figureRef": "Figure 340-3",
           "kind": "figure",
           "index": 3,
@@ -4937,7 +4911,7 @@
         {
           "page": 340,
           "file": "img_p340_4.png",
-          "relativePath": "/images/AFH/ch18/img_p340_4.png",
+          "relativePath": "/images/AFH/ch17/img_p340_4.png",
           "figureRef": "Figure 340-4",
           "kind": "figure",
           "index": 4,
@@ -4956,7 +4930,7 @@
         {
           "page": 341,
           "file": "img_p341_5.png",
-          "relativePath": "/images/AFH/ch18/img_p341_5.png",
+          "relativePath": "/images/AFH/ch17/img_p341_5.png",
           "figureRef": "Figure 341-5",
           "kind": "figure",
           "index": 5,
@@ -4975,7 +4949,7 @@
         {
           "page": 341,
           "file": "img_p341_6.png",
-          "relativePath": "/images/AFH/ch18/img_p341_6.png",
+          "relativePath": "/images/AFH/ch17/img_p341_6.png",
           "figureRef": "Figure 341-6",
           "kind": "figure",
           "index": 6,
@@ -4994,7 +4968,7 @@
         {
           "page": 342,
           "file": "img_p342_7.png",
-          "relativePath": "/images/AFH/ch18/img_p342_7.png",
+          "relativePath": "/images/AFH/ch17/img_p342_7.png",
           "figureRef": "Figure 342-7",
           "kind": "figure",
           "index": 7,
@@ -5013,7 +4987,7 @@
         {
           "page": 342,
           "file": "img_p342_8.png",
-          "relativePath": "/images/AFH/ch18/img_p342_8.png",
+          "relativePath": "/images/AFH/ch17/img_p342_8.png",
           "figureRef": "Figure 342-8",
           "kind": "figure",
           "index": 8,
@@ -5032,7 +5006,7 @@
         {
           "page": 343,
           "file": "img_p343_9.png",
-          "relativePath": "/images/AFH/ch18/img_p343_9.png",
+          "relativePath": "/images/AFH/ch17/img_p343_9.png",
           "figureRef": "Figure 343-9",
           "kind": "figure",
           "index": 9,
@@ -5051,7 +5025,7 @@
         {
           "page": 343,
           "file": "img_p343_10.png",
-          "relativePath": "/images/AFH/ch18/img_p343_10.png",
+          "relativePath": "/images/AFH/ch17/img_p343_10.png",
           "figureRef": "Figure 343-10",
           "kind": "figure",
           "index": 10,
@@ -5070,7 +5044,7 @@
         {
           "page": 344,
           "file": "img_p344_11.png",
-          "relativePath": "/images/AFH/ch18/img_p344_11.png",
+          "relativePath": "/images/AFH/ch17/img_p344_11.png",
           "figureRef": "Figure 344-11",
           "kind": "figure",
           "index": 11,
@@ -5089,7 +5063,7 @@
         {
           "page": 344,
           "file": "img_p344_12.png",
-          "relativePath": "/images/AFH/ch18/img_p344_12.png",
+          "relativePath": "/images/AFH/ch17/img_p344_12.png",
           "figureRef": "Figure 344-12",
           "kind": "figure",
           "index": 12,
@@ -5108,7 +5082,7 @@
         {
           "page": 345,
           "file": "img_p345_13.png",
-          "relativePath": "/images/AFH/ch18/img_p345_13.png",
+          "relativePath": "/images/AFH/ch17/img_p345_13.png",
           "figureRef": "Figure 345-13",
           "kind": "figure",
           "index": 13,
@@ -5127,7 +5101,7 @@
         {
           "page": 346,
           "file": "img_p346_14.png",
-          "relativePath": "/images/AFH/ch18/img_p346_14.png",
+          "relativePath": "/images/AFH/ch17/img_p346_14.png",
           "figureRef": "Figure 346-14",
           "kind": "figure",
           "index": 14,
@@ -5146,7 +5120,7 @@
         {
           "page": 347,
           "file": "img_p347_15.png",
-          "relativePath": "/images/AFH/ch18/img_p347_15.png",
+          "relativePath": "/images/AFH/ch17/img_p347_15.png",
           "figureRef": "Figure 347-15",
           "kind": "figure",
           "index": 15,
@@ -5165,7 +5139,7 @@
         {
           "page": 348,
           "file": "img_p348_16.png",
-          "relativePath": "/images/AFH/ch18/img_p348_16.png",
+          "relativePath": "/images/AFH/ch17/img_p348_16.png",
           "figureRef": "Figure 348-16",
           "kind": "figure",
           "index": 16,
@@ -5184,14 +5158,14 @@
       ]
     },
     {
-      "chapter": "ch19",
+      "chapter": "ch18",
       "startPage": 350,
-      "endPage": 406,
+      "endPage": 372,
       "images": [
         {
           "page": 351,
           "file": "img_p351_1.png",
-          "relativePath": "/images/AFH/ch19/img_p351_1.png",
+          "relativePath": "/images/AFH/ch18/img_p351_1.png",
           "figureRef": "Figure 351-1",
           "kind": "figure",
           "index": 1,
@@ -5210,7 +5184,7 @@
         {
           "page": 352,
           "file": "img_p352_2.png",
-          "relativePath": "/images/AFH/ch19/img_p352_2.png",
+          "relativePath": "/images/AFH/ch18/img_p352_2.png",
           "figureRef": "Figure 352-2",
           "kind": "figure",
           "index": 2,
@@ -5229,7 +5203,7 @@
         {
           "page": 354,
           "file": "img_p354_3.png",
-          "relativePath": "/images/AFH/ch19/img_p354_3.png",
+          "relativePath": "/images/AFH/ch18/img_p354_3.png",
           "figureRef": "Figure 354-3",
           "kind": "figure",
           "index": 3,
@@ -5248,7 +5222,7 @@
         {
           "page": 355,
           "file": "img_p355_4.png",
-          "relativePath": "/images/AFH/ch19/img_p355_4.png",
+          "relativePath": "/images/AFH/ch18/img_p355_4.png",
           "figureRef": "Figure 355-4",
           "kind": "figure",
           "index": 4,
@@ -5267,7 +5241,7 @@
         {
           "page": 357,
           "file": "img_p357_5.png",
-          "relativePath": "/images/AFH/ch19/img_p357_5.png",
+          "relativePath": "/images/AFH/ch18/img_p357_5.png",
           "figureRef": "Figure 357-5",
           "kind": "figure",
           "index": 5,
@@ -5286,7 +5260,7 @@
         {
           "page": 358,
           "file": "img_p358_6.png",
-          "relativePath": "/images/AFH/ch19/img_p358_6.png",
+          "relativePath": "/images/AFH/ch18/img_p358_6.png",
           "figureRef": "Figure 358-6",
           "kind": "figure",
           "index": 6,
@@ -5305,7 +5279,7 @@
         {
           "page": 361,
           "file": "img_p361_7.png",
-          "relativePath": "/images/AFH/ch19/img_p361_7.png",
+          "relativePath": "/images/AFH/ch18/img_p361_7.png",
           "figureRef": "Figure 361-7",
           "kind": "figure",
           "index": 7,
@@ -5324,7 +5298,7 @@
         {
           "page": 362,
           "file": "img_p362_8.png",
-          "relativePath": "/images/AFH/ch19/img_p362_8.png",
+          "relativePath": "/images/AFH/ch18/img_p362_8.png",
           "figureRef": "Figure 362-8",
           "kind": "figure",
           "index": 8,
@@ -5343,7 +5317,7 @@
         {
           "page": 363,
           "file": "img_p363_9.png",
-          "relativePath": "/images/AFH/ch19/img_p363_9.png",
+          "relativePath": "/images/AFH/ch18/img_p363_9.png",
           "figureRef": "Figure 363-9",
           "kind": "figure",
           "index": 9,
@@ -5362,7 +5336,7 @@
         {
           "page": 364,
           "file": "img_p364_10.png",
-          "relativePath": "/images/AFH/ch19/img_p364_10.png",
+          "relativePath": "/images/AFH/ch18/img_p364_10.png",
           "figureRef": "Figure 364-10",
           "kind": "figure",
           "index": 10,
@@ -5381,7 +5355,7 @@
         {
           "page": 365,
           "file": "img_p365_11.png",
-          "relativePath": "/images/AFH/ch19/img_p365_11.png",
+          "relativePath": "/images/AFH/ch18/img_p365_11.png",
           "figureRef": "Figure 365-11",
           "kind": "figure",
           "index": 11,
@@ -5400,7 +5374,7 @@
         {
           "page": 368,
           "file": "img_p368_12.png",
-          "relativePath": "/images/AFH/ch19/img_p368_12.png",
+          "relativePath": "/images/AFH/ch18/img_p368_12.png",
           "figureRef": "Figure 368-12",
           "kind": "figure",
           "index": 12,
@@ -5419,7 +5393,7 @@
         {
           "page": 368,
           "file": "img_p368_13.png",
-          "relativePath": "/images/AFH/ch19/img_p368_13.png",
+          "relativePath": "/images/AFH/ch18/img_p368_13.png",
           "figureRef": "Figure 368-13",
           "kind": "figure",
           "index": 13,
@@ -5438,7 +5412,7 @@
         {
           "page": 369,
           "file": "img_p369_14.png",
-          "relativePath": "/images/AFH/ch19/img_p369_14.png",
+          "relativePath": "/images/AFH/ch18/img_p369_14.png",
           "figureRef": "Figure 369-14",
           "kind": "figure",
           "index": 14,
@@ -5457,7 +5431,7 @@
         {
           "page": 370,
           "file": "img_p370_15.png",
-          "relativePath": "/images/AFH/ch19/img_p370_15.png",
+          "relativePath": "/images/AFH/ch18/img_p370_15.png",
           "figureRef": "Figure 370-15",
           "kind": "figure",
           "index": 15,

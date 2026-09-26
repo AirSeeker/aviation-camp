@@ -1,4 +1,831 @@
 {
   "chapter": "ch38",
-  "images": []
+  "images": [
+    {
+      "page": 388,
+      "file": "img_p388_1.png",
+      "relativePath": "/images/PHAK/ch38/img_p388_1.png",
+      "figureRef": "Figure 388-1",
+      "kind": "figure",
+      "index": 1,
+      "placements": [
+        {
+          "page": 388,
+          "bbox": [
+            -1.0800001621246338,
+            -1.08001708984375,
+            595.0799560546875,
+            775.0799560546875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 389,
+      "file": "img_p389_2.png",
+      "relativePath": "/images/PHAK/ch38/img_p389_2.png",
+      "figureRef": "Figure 389-2",
+      "kind": "figure",
+      "index": 2,
+      "placements": [
+        {
+          "page": 389,
+          "bbox": [
+            36.0,
+            330.0999755859375,
+            522.0,
+            690.0999755859375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 390,
+      "file": "img_p390_3.png",
+      "relativePath": "/images/PHAK/ch38/img_p390_3.png",
+      "figureRef": "Figure 390-3",
+      "kind": "figure",
+      "index": 3,
+      "placements": [
+        {
+          "page": 390,
+          "bbox": [
+            72.0,
+            45.0999755859375,
+            558.0,
+            413.7399597167969
+          ]
+        }
+      ]
+    },
+    {
+      "page": 391,
+      "file": "img_p391_4.png",
+      "relativePath": "/images/PHAK/ch38/img_p391_4.png",
+      "figureRef": "Figure 391-4",
+      "kind": "figure",
+      "index": 4,
+      "placements": [
+        {
+          "page": 391,
+          "bbox": [
+            36.0,
+            46.0,
+            522.0,
+            408.7044372558594
+          ]
+        }
+      ]
+    },
+    {
+      "page": 392,
+      "file": "img_p392_5.png",
+      "relativePath": "/images/PHAK/ch38/img_p392_5.png",
+      "figureRef": "Figure 392-5",
+      "kind": "figure",
+      "index": 5,
+      "placements": [
+        {
+          "page": 392,
+          "bbox": [
+            70.2001953125,
+            63.438232421875,
+            562.2001953125,
+            376.438232421875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 392,
+      "file": "img_p392_6.png",
+      "relativePath": "/images/PHAK/ch38/img_p392_6.png",
+      "figureRef": "Figure 392-6",
+      "kind": "figure",
+      "index": 6,
+      "placements": [
+        {
+          "page": 392,
+          "bbox": [
+            211.09521484375,
+            311.483154296875,
+            251.09521484375,
+            352.483154296875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 392,
+      "file": "img_p392_7.png",
+      "relativePath": "/images/PHAK/ch38/img_p392_7.png",
+      "figureRef": "Figure 392-7",
+      "kind": "figure",
+      "index": 7,
+      "placements": [
+        {
+          "page": 392,
+          "bbox": [
+            82.5537109375,
+            259.287841796875,
+            123.5537109375,
+            299.287841796875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 392,
+      "file": "img_p392_8.png",
+      "relativePath": "/images/PHAK/ch38/img_p392_8.png",
+      "figureRef": "Figure 392-8",
+      "kind": "figure",
+      "index": 8,
+      "placements": [
+        {
+          "page": 392,
+          "bbox": [
+            356.041015625,
+            319.531982421875,
+            397.041015625,
+            359.531982421875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 392,
+      "file": "img_p392_9.png",
+      "relativePath": "/images/PHAK/ch38/img_p392_9.png",
+      "figureRef": "Figure 392-9",
+      "kind": "figure",
+      "index": 9,
+      "placements": [
+        {
+          "page": 392,
+          "bbox": [
+            502.17578125,
+            240.273193359375,
+            543.17578125,
+            281.273193359375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_10.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_10.png",
+      "figureRef": "Figure 394-10",
+      "kind": "figure",
+      "index": 10,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            44.211971282958984,
+            -78.97785949707031,
+            384.3243408203125,
+            322.9420471191406
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_11.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_11.png",
+      "figureRef": "Figure 394-11",
+      "kind": "figure",
+      "index": 11,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            88.11353302001953,
+            87.6154556274414,
+            136.83596801757812,
+            117.2830810546875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_12.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_12.png",
+      "figureRef": "Figure 394-12",
+      "kind": "figure",
+      "index": 12,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            80.20651245117188,
+            91.49661254882812,
+            165.59136962890625,
+            155.4146728515625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_13.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_13.png",
+      "figureRef": "Figure 394-13",
+      "kind": "figure",
+      "index": 13,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            208.12770080566406,
+            93.68276977539062,
+            226.45892333984375,
+            232.85528564453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_14.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_14.png",
+      "figureRef": "Figure 394-14",
+      "kind": "figure",
+      "index": 14,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            103.16253662109375,
+            92.22923278808594,
+            182.75860595703125,
+            198.8397216796875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_15.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_15.png",
+      "figureRef": "Figure 394-15",
+      "kind": "figure",
+      "index": 15,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            174.61131286621094,
+            92.79551696777344,
+            200.4197235107422,
+            231.00323486328125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_16.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_16.png",
+      "figureRef": "Figure 394-16",
+      "kind": "figure",
+      "index": 16,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            227.0784454345703,
+            89.45418548583984,
+            282.07208251953125,
+            184.728271484375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_17.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_17.png",
+      "figureRef": "Figure 394-17",
+      "kind": "figure",
+      "index": 17,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            217.8548126220703,
+            89.97535705566406,
+            279.3608703613281,
+            220.46466064453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_18.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_18.png",
+      "figureRef": "Figure 394-18",
+      "kind": "figure",
+      "index": 18,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            247.84878540039062,
+            86.81854248046875,
+            290.78240966796875,
+            144.46539306640625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_19.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_19.png",
+      "figureRef": "Figure 394-19",
+      "kind": "figure",
+      "index": 19,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            256.8211669921875,
+            85.56425476074219,
+            294.9307861328125,
+            127.5330810546875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_20.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_20.png",
+      "figureRef": "Figure 394-20",
+      "kind": "figure",
+      "index": 20,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            268.4660339355469,
+            82.01728820800781,
+            299.09844970703125,
+            107.10211181640625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 394,
+      "file": "img_p394_21.png",
+      "relativePath": "/images/PHAK/ch38/img_p394_21.png",
+      "figureRef": "Figure 394-21",
+      "kind": "figure",
+      "index": 21,
+      "placements": [
+        {
+          "page": 394,
+          "bbox": [
+            237.8242950439453,
+            88.36283874511719,
+            287.7527160644531,
+            160.481689453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 395,
+      "file": "img_p395_22.png",
+      "relativePath": "/images/PHAK/ch38/img_p395_22.png",
+      "figureRef": "Figure 395-22",
+      "kind": "figure",
+      "index": 22,
+      "placements": [
+        {
+          "page": 395,
+          "bbox": [
+            47.49056625366211,
+            591.4649047851562,
+            118.77456665039062,
+            668.7728881835938
+          ]
+        }
+      ]
+    },
+    {
+      "page": 395,
+      "file": "img_p395_23.png",
+      "relativePath": "/images/PHAK/ch38/img_p395_23.png",
+      "figureRef": "Figure 395-23",
+      "kind": "figure",
+      "index": 23,
+      "placements": [
+        {
+          "page": 395,
+          "bbox": [
+            186.0425567626953,
+            591.4649047851562,
+            258.33056640625,
+            668.7728881835938
+          ]
+        }
+      ]
+    },
+    {
+      "page": 400,
+      "file": "img_p400_24.png",
+      "relativePath": "/images/PHAK/ch38/img_p400_24.png",
+      "figureRef": "Figure 400-24",
+      "kind": "figure",
+      "index": 24,
+      "placements": [
+        {
+          "page": 400,
+          "bbox": [
+            242.18637084960938,
+            175.99871826171875,
+            392.66937255859375,
+            500.4486999511719
+          ]
+        }
+      ]
+    },
+    {
+      "page": 400,
+      "file": "img_p400_25.png",
+      "relativePath": "/images/PHAK/ch38/img_p400_25.png",
+      "figureRef": "Figure 400-25",
+      "kind": "figure",
+      "index": 25,
+      "placements": [
+        {
+          "page": 400,
+          "bbox": [
+            77.38066864013672,
+            187.94110107421875,
+            233.71267700195312,
+            484.14910888671875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 404,
+      "file": "img_p404_26.png",
+      "relativePath": "/images/PHAK/ch38/img_p404_26.png",
+      "figureRef": "Figure 404-26",
+      "kind": "figure",
+      "index": 26,
+      "placements": [
+        {
+          "page": 404,
+          "bbox": [
+            355.60260009765625,
+            56.11823272705078,
+            530.2274169921875,
+            306.7374267578125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 406,
+      "file": "img_p406_27.png",
+      "relativePath": "/images/PHAK/ch38/img_p406_27.png",
+      "figureRef": "Figure 406-27",
+      "kind": "figure",
+      "index": 27,
+      "placements": [
+        {
+          "page": 406,
+          "bbox": [
+            110.3846435546875,
+            43.3330078125,
+            522.8582763671875,
+            601.5346069335938
+          ]
+        }
+      ]
+    },
+    {
+      "page": 406,
+      "file": "img_p406_28.png",
+      "relativePath": "/images/PHAK/ch38/img_p406_28.png",
+      "figureRef": "Figure 406-28",
+      "kind": "figure",
+      "index": 28,
+      "placements": [
+        {
+          "page": 406,
+          "bbox": [
+            278.5848388671875,
+            510.533203125,
+            517.5848388671875,
+            597.533203125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 406,
+      "file": "img_p406_29.png",
+      "relativePath": "/images/PHAK/ch38/img_p406_29.png",
+      "figureRef": "Figure 406-29",
+      "kind": "figure",
+      "index": 29,
+      "placements": [
+        {
+          "page": 406,
+          "bbox": [
+            275.9183349609375,
+            510.8662109375,
+            514.9183349609375,
+            597.8662109375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 408,
+      "file": "img_p408_30.png",
+      "relativePath": "/images/PHAK/ch38/img_p408_30.png",
+      "figureRef": "Figure 408-30",
+      "kind": "figure",
+      "index": 30,
+      "placements": [
+        {
+          "page": 408,
+          "bbox": [
+            74.27272033691406,
+            347.857177734375,
+            552.4427490234375,
+            694.357177734375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 411,
+      "file": "img_p411_31.png",
+      "relativePath": "/images/PHAK/ch38/img_p411_31.png",
+      "figureRef": "Figure 411-31",
+      "kind": "figure",
+      "index": 31,
+      "placements": [
+        {
+          "page": 411,
+          "bbox": [
+            361.0697021484375,
+            185.39540100097656,
+            440.72247314453125,
+            280.7879638671875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 411,
+      "file": "img_p411_32.png",
+      "relativePath": "/images/PHAK/ch38/img_p411_32.png",
+      "figureRef": "Figure 411-32",
+      "kind": "figure",
+      "index": 32,
+      "placements": [
+        {
+          "page": 411,
+          "bbox": [
+            335.5740966796875,
+            166.03562927246094,
+            471.7469482421875,
+            302.20849609375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 411,
+      "file": "img_p411_33.png",
+      "relativePath": "/images/PHAK/ch38/img_p411_33.png",
+      "figureRef": "Figure 411-33",
+      "kind": "figure",
+      "index": 33,
+      "placements": [
+        {
+          "page": 411,
+          "bbox": [
+            52.7791748046875,
+            490.0218505859375,
+            261.7791748046875,
+            610.0218505859375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 412,
+      "file": "img_p412_34.png",
+      "relativePath": "/images/PHAK/ch38/img_p412_34.png",
+      "figureRef": "Figure 412-34",
+      "kind": "figure",
+      "index": 34,
+      "placements": [
+        {
+          "page": 412,
+          "bbox": [
+            83.82151794433594,
+            43.20307922363281,
+            299.5815124511719,
+            258.96307373046875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 417,
+      "file": "img_p417_35.png",
+      "relativePath": "/images/PHAK/ch38/img_p417_35.png",
+      "figureRef": "Figure 417-35",
+      "kind": "figure",
+      "index": 35,
+      "placements": [
+        {
+          "page": 417,
+          "bbox": [
+            164.80662536621094,
+            558.982666015625,
+            201.19961547851562,
+            593.1929931640625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 417,
+      "file": "img_p417_36.png",
+      "relativePath": "/images/PHAK/ch38/img_p417_36.png",
+      "figureRef": "Figure 417-36",
+      "kind": "figure",
+      "index": 36,
+      "placements": [
+        {
+          "page": 417,
+          "bbox": [
+            153.2700653076172,
+            551.9974975585938,
+            211.3526153564453,
+            609.06103515625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 417,
+      "file": "img_p417_37.png",
+      "relativePath": "/images/PHAK/ch38/img_p417_37.png",
+      "figureRef": "Figure 417-37",
+      "kind": "figure",
+      "index": 37,
+      "placements": [
+        {
+          "page": 417,
+          "bbox": [
+            146.4326629638672,
+            602.2763671875,
+            171.907470703125,
+            629.7891845703125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 417,
+      "file": "img_p417_38.png",
+      "relativePath": "/images/PHAK/ch38/img_p417_38.png",
+      "figureRef": "Figure 417-38",
+      "kind": "figure",
+      "index": 38,
+      "placements": [
+        {
+          "page": 417,
+          "bbox": [
+            118.82042694091797,
+            292.8705749511719,
+            200.99180603027344,
+            375.7714538574219
+          ]
+        }
+      ]
+    },
+    {
+      "page": 417,
+      "file": "img_p417_39.png",
+      "relativePath": "/images/PHAK/ch38/img_p417_39.png",
+      "figureRef": "Figure 417-39",
+      "kind": "figure",
+      "index": 39,
+      "placements": [
+        {
+          "page": 417,
+          "bbox": [
+            122.08766174316406,
+            296.93743896484375,
+            213.54273986816406,
+            388.39251708984375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 418,
+      "file": "img_p418_40.png",
+      "relativePath": "/images/PHAK/ch38/img_p418_40.png",
+      "figureRef": "Figure 418-40",
+      "kind": "figure",
+      "index": 40,
+      "placements": [
+        {
+          "page": 418,
+          "bbox": [
+            181.88192749023438,
+            277.2811584472656,
+            231.22186279296875,
+            319.647705078125
+          ]
+        },
+        {
+          "page": 418,
+          "bbox": [
+            104.75540161132812,
+            102.03837585449219,
+            154.0953369140625,
+            144.4049072265625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 418,
+      "file": "img_p418_41.png",
+      "relativePath": "/images/PHAK/ch38/img_p418_41.png",
+      "figureRef": "Figure 418-41",
+      "kind": "figure",
+      "index": 41,
+      "placements": [
+        {
+          "page": 418,
+          "bbox": [
+            177.25009155273438,
+            272.5414733886719,
+            246.25015258789062,
+            334.5415344238281
+          ]
+        }
+      ]
+    },
+    {
+      "page": 418,
+      "file": "img_p418_42.png",
+      "relativePath": "/images/PHAK/ch38/img_p418_42.png",
+      "figureRef": "Figure 418-42",
+      "kind": "figure",
+      "index": 42,
+      "placements": [
+        {
+          "page": 418,
+          "bbox": [
+            99.6303939819336,
+            97.23616027832031,
+            168.63046264648438,
+            159.2362060546875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 419,
+      "file": "img_p419_43.png",
+      "relativePath": "/images/PHAK/ch38/img_p419_43.png",
+      "figureRef": "Figure 419-43",
+      "kind": "figure",
+      "index": 43,
+      "placements": [
+        {
+          "page": 419,
+          "bbox": [
+            35.15544509887695,
+            445.0377197265625,
+            274.49493408203125,
+            685.8862915039062
+          ]
+        }
+      ]
+    }
+  ]
 }

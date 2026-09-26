@@ -1,43 +1,4 @@
 {
   "chapter": "ch01",
-  "images": [
-    {
-      "page": 1,
-      "file": "img_p1_1.png",
-      "relativePath": "/images/PHAK/ch01/img_p1_1.png",
-      "figureRef": "Figure 1-1",
-      "kind": "figure",
-      "index": 1,
-      "placements": [
-        {
-          "page": 1,
-          "bbox": [
-            0.0,
-            0.0,
-            612.0,
-            792.0
-          ]
-        }
-      ]
-    },
-    {
-      "page": 1,
-      "file": "img_p1_2.png",
-      "relativePath": "/images/PHAK/ch01/img_p1_2.png",
-      "figureRef": "Figure 1-2",
-      "kind": "figure",
-      "index": 2,
-      "placements": [
-        {
-          "page": 1,
-          "bbox": [
-            3.8499999046325684,
-            112.32000732421875,
-            610.5699462890625,
-            791.0399780273438
-          ]
-        }
-      ]
-    }
-  ]
+  "images": []
 }

@@ -1,4 +1,43 @@
 {
   "chapter": "ch07",
-  "images": []
+  "images": [
+    {
+      "page": 50,
+      "file": "img_p50_1.png",
+      "relativePath": "/images/RiskManagement/ch07/img_p50_1.png",
+      "figureRef": "Figure 50-1",
+      "kind": "figure",
+      "index": 1,
+      "placements": [
+        {
+          "page": 50,
+          "bbox": [
+            190.513427734375,
+            447.8582763671875,
+            446.513427734375,
+            684.6212768554688
+          ]
+        }
+      ]
+    },
+    {
+      "page": 52,
+      "file": "img_p52_2.png",
+      "relativePath": "/images/RiskManagement/ch07/img_p52_2.png",
+      "figureRef": "Figure 52-2",
+      "kind": "figure",
+      "index": 2,
+      "placements": [
+        {
+          "page": 52,
+          "bbox": [
+            196.27813720703125,
+            43.683868408203125,
+            414.51751708984375,
+            257.67437744140625
+          ]
+        }
+      ]
+    }
+  ]
 }

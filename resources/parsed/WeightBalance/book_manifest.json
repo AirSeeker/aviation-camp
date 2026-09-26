@@ -1,62 +1,17 @@
 {
   "bookName": "WeightBalance",
   "sourcePdf": "resources/library/WeightBalance/Weight & Balance Handbook FAA-H-8083-1B.pdf",
-  "cacheKey": "21b99418eec515125037d0ff23b976d21d9be817d1ccf5c867fc9dc84af39206",
+  "cacheKey": "05ed9e5c89afd505f50a07eb8425e980e8a5d98e26e3edcf0000f9747e42ae8c",
   "chapters": [
     {
       "chapter": "ch01",
-      "startPage": 1,
-      "endPage": 14,
-      "images": [
-        {
-          "page": 1,
-          "file": "img_p1_1.png",
-          "relativePath": "/images/WeightBalance/ch01/img_p1_1.png",
-          "figureRef": "Figure 1-1",
-          "kind": "figure",
-          "index": 1,
-          "placements": [
-            {
-              "page": 1,
-              "bbox": [
-                -1.0800018310546875,
-                -1.08001708984375,
-                595.0799560546875,
-                775.0799560546875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 5,
-          "file": "img_p5_2.png",
-          "relativePath": "/images/WeightBalance/ch01/img_p5_2.png",
-          "figureRef": "Figure 5-2",
-          "kind": "figure",
-          "index": 2,
-          "placements": [
-            {
-              "page": 5,
-              "bbox": [
-                72.0,
-                431.63995361328125,
-                303.8399963378906,
-                497.13995361328125
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "chapter": "ch02",
       "startPage": 15,
       "endPage": 20,
       "images": [
         {
           "page": 15,
           "file": "img_p15_1.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p15_1.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p15_1.png",
           "figureRef": "Figure 15-1",
           "kind": "figure",
           "index": 1,
@@ -75,7 +30,7 @@
         {
           "page": 18,
           "file": "img_p18_2.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p18_2.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p18_2.png",
           "figureRef": "Figure 18-2",
           "kind": "figure",
           "index": 2,
@@ -94,7 +49,7 @@
         {
           "page": 18,
           "file": "img_p18_3.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p18_3.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p18_3.png",
           "figureRef": "Figure 18-3",
           "kind": "figure",
           "index": 3,
@@ -113,7 +68,7 @@
         {
           "page": 19,
           "file": "img_p19_4.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_4.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_4.png",
           "figureRef": "Figure 19-4",
           "kind": "figure",
           "index": 4,
@@ -132,7 +87,7 @@
         {
           "page": 19,
           "file": "img_p19_5.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_5.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_5.png",
           "figureRef": "Figure 19-5",
           "kind": "figure",
           "index": 5,
@@ -151,7 +106,7 @@
         {
           "page": 19,
           "file": "img_p19_6.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_6.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_6.png",
           "figureRef": "Figure 19-6",
           "kind": "figure",
           "index": 6,
@@ -170,7 +125,7 @@
         {
           "page": 19,
           "file": "img_p19_7.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_7.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_7.png",
           "figureRef": "Figure 19-7",
           "kind": "figure",
           "index": 7,
@@ -189,7 +144,7 @@
         {
           "page": 19,
           "file": "img_p19_8.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_8.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_8.png",
           "figureRef": "Figure 19-8",
           "kind": "figure",
           "index": 8,
@@ -208,7 +163,7 @@
         {
           "page": 19,
           "file": "img_p19_9.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_9.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_9.png",
           "figureRef": "Figure 19-9",
           "kind": "figure",
           "index": 9,
@@ -227,7 +182,7 @@
         {
           "page": 19,
           "file": "img_p19_10.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_10.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_10.png",
           "figureRef": "Figure 19-10",
           "kind": "figure",
           "index": 10,
@@ -246,7 +201,7 @@
         {
           "page": 19,
           "file": "img_p19_11.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_11.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_11.png",
           "figureRef": "Figure 19-11",
           "kind": "figure",
           "index": 11,
@@ -265,7 +220,7 @@
         {
           "page": 19,
           "file": "img_p19_12.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_12.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_12.png",
           "figureRef": "Figure 19-12",
           "kind": "figure",
           "index": 12,
@@ -284,7 +239,7 @@
         {
           "page": 19,
           "file": "img_p19_13.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_13.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_13.png",
           "figureRef": "Figure 19-13",
           "kind": "figure",
           "index": 13,
@@ -303,7 +258,7 @@
         {
           "page": 19,
           "file": "img_p19_14.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_14.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_14.png",
           "figureRef": "Figure 19-14",
           "kind": "figure",
           "index": 14,
@@ -322,7 +277,7 @@
         {
           "page": 19,
           "file": "img_p19_15.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_15.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_15.png",
           "figureRef": "Figure 19-15",
           "kind": "figure",
           "index": 15,
@@ -341,7 +296,7 @@
         {
           "page": 19,
           "file": "img_p19_16.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_16.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_16.png",
           "figureRef": "Figure 19-16",
           "kind": "figure",
           "index": 16,
@@ -360,7 +315,7 @@
         {
           "page": 19,
           "file": "img_p19_17.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_17.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_17.png",
           "figureRef": "Figure 19-17",
           "kind": "figure",
           "index": 17,
@@ -379,7 +334,7 @@
         {
           "page": 19,
           "file": "img_p19_18.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_18.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_18.png",
           "figureRef": "Figure 19-18",
           "kind": "figure",
           "index": 18,
@@ -398,7 +353,7 @@
         {
           "page": 19,
           "file": "img_p19_19.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_19.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_19.png",
           "figureRef": "Figure 19-19",
           "kind": "figure",
           "index": 19,
@@ -417,7 +372,7 @@
         {
           "page": 19,
           "file": "img_p19_20.png",
-          "relativePath": "/images/WeightBalance/ch02/img_p19_20.png",
+          "relativePath": "/images/WeightBalance/ch01/img_p19_20.png",
           "figureRef": "Figure 19-20",
           "kind": "figure",
           "index": 20,
@@ -436,14 +391,14 @@
       ]
     },
     {
-      "chapter": "ch03",
+      "chapter": "ch02",
       "startPage": 21,
       "endPage": 32,
       "images": [
         {
           "page": 21,
           "file": "img_p21_1.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p21_1.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p21_1.png",
           "figureRef": "Figure 21-1",
           "kind": "figure",
           "index": 1,
@@ -462,7 +417,7 @@
         {
           "page": 22,
           "file": "img_p22_2.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_2.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_2.png",
           "figureRef": "Figure 22-2",
           "kind": "figure",
           "index": 2,
@@ -481,7 +436,7 @@
         {
           "page": 22,
           "file": "img_p22_3.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_3.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_3.png",
           "figureRef": "Figure 22-3",
           "kind": "figure",
           "index": 3,
@@ -500,7 +455,7 @@
         {
           "page": 22,
           "file": "img_p22_4.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_4.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_4.png",
           "figureRef": "Figure 22-4",
           "kind": "figure",
           "index": 4,
@@ -519,7 +474,7 @@
         {
           "page": 22,
           "file": "img_p22_5.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_5.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_5.png",
           "figureRef": "Figure 22-5",
           "kind": "figure",
           "index": 5,
@@ -538,7 +493,7 @@
         {
           "page": 22,
           "file": "img_p22_6.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_6.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_6.png",
           "figureRef": "Figure 22-6",
           "kind": "figure",
           "index": 6,
@@ -557,7 +512,7 @@
         {
           "page": 22,
           "file": "img_p22_7.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_7.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_7.png",
           "figureRef": "Figure 22-7",
           "kind": "figure",
           "index": 7,
@@ -576,7 +531,7 @@
         {
           "page": 22,
           "file": "img_p22_8.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_8.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_8.png",
           "figureRef": "Figure 22-8",
           "kind": "figure",
           "index": 8,
@@ -595,7 +550,7 @@
         {
           "page": 22,
           "file": "img_p22_9.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_9.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_9.png",
           "figureRef": "Figure 22-9",
           "kind": "figure",
           "index": 9,
@@ -614,7 +569,7 @@
         {
           "page": 22,
           "file": "img_p22_10.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_10.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_10.png",
           "figureRef": "Figure 22-10",
           "kind": "figure",
           "index": 10,
@@ -633,7 +588,7 @@
         {
           "page": 22,
           "file": "img_p22_11.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_11.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_11.png",
           "figureRef": "Figure 22-11",
           "kind": "figure",
           "index": 11,
@@ -652,7 +607,7 @@
         {
           "page": 22,
           "file": "img_p22_12.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_12.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_12.png",
           "figureRef": "Figure 22-12",
           "kind": "figure",
           "index": 12,
@@ -680,7 +635,7 @@
         {
           "page": 22,
           "file": "img_p22_13.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_13.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_13.png",
           "figureRef": "Figure 22-13",
           "kind": "figure",
           "index": 13,
@@ -699,7 +654,7 @@
         {
           "page": 22,
           "file": "img_p22_14.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_14.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_14.png",
           "figureRef": "Figure 22-14",
           "kind": "figure",
           "index": 14,
@@ -718,7 +673,7 @@
         {
           "page": 22,
           "file": "img_p22_15.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_15.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_15.png",
           "figureRef": "Figure 22-15",
           "kind": "figure",
           "index": 15,
@@ -809,7 +764,7 @@
         {
           "page": 22,
           "file": "img_p22_16.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_16.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_16.png",
           "figureRef": "Figure 22-16",
           "kind": "figure",
           "index": 16,
@@ -828,7 +783,7 @@
         {
           "page": 22,
           "file": "img_p22_17.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_17.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_17.png",
           "figureRef": "Figure 22-17",
           "kind": "figure",
           "index": 17,
@@ -847,7 +802,7 @@
         {
           "page": 22,
           "file": "img_p22_18.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_18.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_18.png",
           "figureRef": "Figure 22-18",
           "kind": "figure",
           "index": 18,
@@ -866,7 +821,7 @@
         {
           "page": 22,
           "file": "img_p22_19.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_19.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_19.png",
           "figureRef": "Figure 22-19",
           "kind": "figure",
           "index": 19,
@@ -894,7 +849,7 @@
         {
           "page": 22,
           "file": "img_p22_20.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_20.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_20.png",
           "figureRef": "Figure 22-20",
           "kind": "figure",
           "index": 20,
@@ -922,7 +877,7 @@
         {
           "page": 22,
           "file": "img_p22_21.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_21.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_21.png",
           "figureRef": "Figure 22-21",
           "kind": "figure",
           "index": 21,
@@ -941,7 +896,7 @@
         {
           "page": 22,
           "file": "img_p22_22.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_22.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_22.png",
           "figureRef": "Figure 22-22",
           "kind": "figure",
           "index": 22,
@@ -978,7 +933,7 @@
         {
           "page": 22,
           "file": "img_p22_23.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_23.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_23.png",
           "figureRef": "Figure 22-23",
           "kind": "figure",
           "index": 23,
@@ -997,7 +952,7 @@
         {
           "page": 22,
           "file": "img_p22_24.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_24.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_24.png",
           "figureRef": "Figure 22-24",
           "kind": "figure",
           "index": 24,
@@ -1025,7 +980,7 @@
         {
           "page": 22,
           "file": "img_p22_25.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_25.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_25.png",
           "figureRef": "Figure 22-25",
           "kind": "figure",
           "index": 25,
@@ -1044,7 +999,7 @@
         {
           "page": 22,
           "file": "img_p22_26.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_26.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_26.png",
           "figureRef": "Figure 22-26",
           "kind": "figure",
           "index": 26,
@@ -1072,7 +1027,7 @@
         {
           "page": 22,
           "file": "img_p22_27.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_27.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_27.png",
           "figureRef": "Figure 22-27",
           "kind": "figure",
           "index": 27,
@@ -1109,7 +1064,7 @@
         {
           "page": 22,
           "file": "img_p22_28.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_28.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_28.png",
           "figureRef": "Figure 22-28",
           "kind": "figure",
           "index": 28,
@@ -1137,7 +1092,7 @@
         {
           "page": 22,
           "file": "img_p22_29.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_29.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_29.png",
           "figureRef": "Figure 22-29",
           "kind": "figure",
           "index": 29,
@@ -1165,7 +1120,7 @@
         {
           "page": 22,
           "file": "img_p22_30.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_30.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_30.png",
           "figureRef": "Figure 22-30",
           "kind": "figure",
           "index": 30,
@@ -1193,7 +1148,7 @@
         {
           "page": 22,
           "file": "img_p22_31.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_31.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_31.png",
           "figureRef": "Figure 22-31",
           "kind": "figure",
           "index": 31,
@@ -1221,7 +1176,7 @@
         {
           "page": 22,
           "file": "img_p22_32.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_32.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_32.png",
           "figureRef": "Figure 22-32",
           "kind": "figure",
           "index": 32,
@@ -1249,7 +1204,7 @@
         {
           "page": 22,
           "file": "img_p22_33.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_33.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_33.png",
           "figureRef": "Figure 22-33",
           "kind": "figure",
           "index": 33,
@@ -1277,7 +1232,7 @@
         {
           "page": 22,
           "file": "img_p22_34.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_34.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_34.png",
           "figureRef": "Figure 22-34",
           "kind": "figure",
           "index": 34,
@@ -1305,7 +1260,7 @@
         {
           "page": 22,
           "file": "img_p22_35.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_35.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_35.png",
           "figureRef": "Figure 22-35",
           "kind": "figure",
           "index": 35,
@@ -1333,7 +1288,7 @@
         {
           "page": 22,
           "file": "img_p22_36.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_36.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_36.png",
           "figureRef": "Figure 22-36",
           "kind": "figure",
           "index": 36,
@@ -1352,7 +1307,7 @@
         {
           "page": 22,
           "file": "img_p22_37.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_37.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_37.png",
           "figureRef": "Figure 22-37",
           "kind": "figure",
           "index": 37,
@@ -1389,7 +1344,7 @@
         {
           "page": 22,
           "file": "img_p22_38.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_38.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_38.png",
           "figureRef": "Figure 22-38",
           "kind": "figure",
           "index": 38,
@@ -1435,7 +1390,7 @@
         {
           "page": 22,
           "file": "img_p22_39.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_39.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_39.png",
           "figureRef": "Figure 22-39",
           "kind": "figure",
           "index": 39,
@@ -1463,7 +1418,7 @@
         {
           "page": 22,
           "file": "img_p22_40.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_40.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_40.png",
           "figureRef": "Figure 22-40",
           "kind": "figure",
           "index": 40,
@@ -1482,7 +1437,7 @@
         {
           "page": 22,
           "file": "img_p22_41.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_41.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_41.png",
           "figureRef": "Figure 22-41",
           "kind": "figure",
           "index": 41,
@@ -1501,7 +1456,7 @@
         {
           "page": 22,
           "file": "img_p22_42.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_42.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_42.png",
           "figureRef": "Figure 22-42",
           "kind": "figure",
           "index": 42,
@@ -1520,7 +1475,7 @@
         {
           "page": 22,
           "file": "img_p22_43.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_43.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_43.png",
           "figureRef": "Figure 22-43",
           "kind": "figure",
           "index": 43,
@@ -1539,7 +1494,7 @@
         {
           "page": 22,
           "file": "img_p22_44.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_44.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_44.png",
           "figureRef": "Figure 22-44",
           "kind": "figure",
           "index": 44,
@@ -1567,7 +1522,7 @@
         {
           "page": 22,
           "file": "img_p22_45.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_45.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_45.png",
           "figureRef": "Figure 22-45",
           "kind": "figure",
           "index": 45,
@@ -1586,7 +1541,7 @@
         {
           "page": 22,
           "file": "img_p22_46.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_46.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_46.png",
           "figureRef": "Figure 22-46",
           "kind": "figure",
           "index": 46,
@@ -1614,7 +1569,7 @@
         {
           "page": 22,
           "file": "img_p22_47.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_47.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_47.png",
           "figureRef": "Figure 22-47",
           "kind": "figure",
           "index": 47,
@@ -1633,7 +1588,7 @@
         {
           "page": 22,
           "file": "img_p22_48.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_48.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_48.png",
           "figureRef": "Figure 22-48",
           "kind": "figure",
           "index": 48,
@@ -1661,7 +1616,7 @@
         {
           "page": 22,
           "file": "img_p22_49.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_49.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_49.png",
           "figureRef": "Figure 22-49",
           "kind": "figure",
           "index": 49,
@@ -1689,7 +1644,7 @@
         {
           "page": 22,
           "file": "img_p22_50.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_50.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_50.png",
           "figureRef": "Figure 22-50",
           "kind": "figure",
           "index": 50,
@@ -1717,7 +1672,7 @@
         {
           "page": 22,
           "file": "img_p22_51.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_51.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_51.png",
           "figureRef": "Figure 22-51",
           "kind": "figure",
           "index": 51,
@@ -1745,7 +1700,7 @@
         {
           "page": 22,
           "file": "img_p22_52.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_52.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_52.png",
           "figureRef": "Figure 22-52",
           "kind": "figure",
           "index": 52,
@@ -1773,7 +1728,7 @@
         {
           "page": 22,
           "file": "img_p22_53.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_53.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_53.png",
           "figureRef": "Figure 22-53",
           "kind": "figure",
           "index": 53,
@@ -1801,7 +1756,7 @@
         {
           "page": 22,
           "file": "img_p22_54.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_54.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_54.png",
           "figureRef": "Figure 22-54",
           "kind": "figure",
           "index": 54,
@@ -1829,7 +1784,7 @@
         {
           "page": 22,
           "file": "img_p22_55.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_55.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_55.png",
           "figureRef": "Figure 22-55",
           "kind": "figure",
           "index": 55,
@@ -1857,7 +1812,7 @@
         {
           "page": 22,
           "file": "img_p22_56.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_56.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_56.png",
           "figureRef": "Figure 22-56",
           "kind": "figure",
           "index": 56,
@@ -1885,7 +1840,7 @@
         {
           "page": 22,
           "file": "img_p22_57.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_57.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_57.png",
           "figureRef": "Figure 22-57",
           "kind": "figure",
           "index": 57,
@@ -1913,7 +1868,7 @@
         {
           "page": 22,
           "file": "img_p22_58.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_58.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_58.png",
           "figureRef": "Figure 22-58",
           "kind": "figure",
           "index": 58,
@@ -1932,7 +1887,7 @@
         {
           "page": 22,
           "file": "img_p22_59.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_59.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_59.png",
           "figureRef": "Figure 22-59",
           "kind": "figure",
           "index": 59,
@@ -1969,7 +1924,7 @@
         {
           "page": 22,
           "file": "img_p22_60.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_60.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_60.png",
           "figureRef": "Figure 22-60",
           "kind": "figure",
           "index": 60,
@@ -1988,7 +1943,7 @@
         {
           "page": 22,
           "file": "img_p22_61.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_61.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_61.png",
           "figureRef": "Figure 22-61",
           "kind": "figure",
           "index": 61,
@@ -2007,7 +1962,7 @@
         {
           "page": 22,
           "file": "img_p22_62.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_62.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_62.png",
           "figureRef": "Figure 22-62",
           "kind": "figure",
           "index": 62,
@@ -2035,7 +1990,7 @@
         {
           "page": 22,
           "file": "img_p22_63.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_63.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_63.png",
           "figureRef": "Figure 22-63",
           "kind": "figure",
           "index": 63,
@@ -2054,7 +2009,7 @@
         {
           "page": 22,
           "file": "img_p22_64.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_64.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_64.png",
           "figureRef": "Figure 22-64",
           "kind": "figure",
           "index": 64,
@@ -2082,7 +2037,7 @@
         {
           "page": 22,
           "file": "img_p22_65.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_65.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_65.png",
           "figureRef": "Figure 22-65",
           "kind": "figure",
           "index": 65,
@@ -2101,7 +2056,7 @@
         {
           "page": 22,
           "file": "img_p22_66.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_66.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_66.png",
           "figureRef": "Figure 22-66",
           "kind": "figure",
           "index": 66,
@@ -2120,7 +2075,7 @@
         {
           "page": 22,
           "file": "img_p22_67.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p22_67.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p22_67.png",
           "figureRef": "Figure 22-67",
           "kind": "figure",
           "index": 67,
@@ -2139,7 +2094,7 @@
         {
           "page": 23,
           "file": "img_p23_68.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_68.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_68.png",
           "figureRef": "Figure 23-68",
           "kind": "figure",
           "index": 68,
@@ -2158,7 +2113,7 @@
         {
           "page": 23,
           "file": "img_p23_69.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_69.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_69.png",
           "figureRef": "Figure 23-69",
           "kind": "figure",
           "index": 69,
@@ -2177,7 +2132,7 @@
         {
           "page": 23,
           "file": "img_p23_70.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_70.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_70.png",
           "figureRef": "Figure 23-70",
           "kind": "figure",
           "index": 70,
@@ -2196,7 +2151,7 @@
         {
           "page": 23,
           "file": "img_p23_71.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_71.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_71.png",
           "figureRef": "Figure 23-71",
           "kind": "figure",
           "index": 71,
@@ -2215,7 +2170,7 @@
         {
           "page": 23,
           "file": "img_p23_72.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_72.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_72.png",
           "figureRef": "Figure 23-72",
           "kind": "figure",
           "index": 72,
@@ -2234,7 +2189,7 @@
         {
           "page": 23,
           "file": "img_p23_73.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_73.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_73.png",
           "figureRef": "Figure 23-73",
           "kind": "figure",
           "index": 73,
@@ -2253,7 +2208,7 @@
         {
           "page": 23,
           "file": "img_p23_74.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_74.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_74.png",
           "figureRef": "Figure 23-74",
           "kind": "figure",
           "index": 74,
@@ -2272,7 +2227,7 @@
         {
           "page": 23,
           "file": "img_p23_75.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_75.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_75.png",
           "figureRef": "Figure 23-75",
           "kind": "figure",
           "index": 75,
@@ -2291,7 +2246,7 @@
         {
           "page": 23,
           "file": "img_p23_76.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_76.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_76.png",
           "figureRef": "Figure 23-76",
           "kind": "figure",
           "index": 76,
@@ -2310,7 +2265,7 @@
         {
           "page": 23,
           "file": "img_p23_77.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_77.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_77.png",
           "figureRef": "Figure 23-77",
           "kind": "figure",
           "index": 77,
@@ -2329,7 +2284,7 @@
         {
           "page": 23,
           "file": "img_p23_78.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_78.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_78.png",
           "figureRef": "Figure 23-78",
           "kind": "figure",
           "index": 78,
@@ -2348,7 +2303,7 @@
         {
           "page": 23,
           "file": "img_p23_79.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_79.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_79.png",
           "figureRef": "Figure 23-79",
           "kind": "figure",
           "index": 79,
@@ -2367,7 +2322,7 @@
         {
           "page": 23,
           "file": "img_p23_80.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_80.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_80.png",
           "figureRef": "Figure 23-80",
           "kind": "figure",
           "index": 80,
@@ -2386,7 +2341,7 @@
         {
           "page": 23,
           "file": "img_p23_81.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_81.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_81.png",
           "figureRef": "Figure 23-81",
           "kind": "figure",
           "index": 81,
@@ -2405,7 +2360,7 @@
         {
           "page": 23,
           "file": "img_p23_82.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_82.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_82.png",
           "figureRef": "Figure 23-82",
           "kind": "figure",
           "index": 82,
@@ -2424,7 +2379,7 @@
         {
           "page": 23,
           "file": "img_p23_83.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_83.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_83.png",
           "figureRef": "Figure 23-83",
           "kind": "figure",
           "index": 83,
@@ -2443,7 +2398,7 @@
         {
           "page": 23,
           "file": "img_p23_84.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_84.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_84.png",
           "figureRef": "Figure 23-84",
           "kind": "figure",
           "index": 84,
@@ -2462,7 +2417,7 @@
         {
           "page": 23,
           "file": "img_p23_85.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_85.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_85.png",
           "figureRef": "Figure 23-85",
           "kind": "figure",
           "index": 85,
@@ -2481,7 +2436,7 @@
         {
           "page": 23,
           "file": "img_p23_86.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_86.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_86.png",
           "figureRef": "Figure 23-86",
           "kind": "figure",
           "index": 86,
@@ -2500,7 +2455,7 @@
         {
           "page": 23,
           "file": "img_p23_87.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_87.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_87.png",
           "figureRef": "Figure 23-87",
           "kind": "figure",
           "index": 87,
@@ -2519,7 +2474,7 @@
         {
           "page": 23,
           "file": "img_p23_88.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_88.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_88.png",
           "figureRef": "Figure 23-88",
           "kind": "figure",
           "index": 88,
@@ -2538,7 +2493,7 @@
         {
           "page": 23,
           "file": "img_p23_89.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_89.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_89.png",
           "figureRef": "Figure 23-89",
           "kind": "figure",
           "index": 89,
@@ -2557,7 +2512,7 @@
         {
           "page": 23,
           "file": "img_p23_90.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_90.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_90.png",
           "figureRef": "Figure 23-90",
           "kind": "figure",
           "index": 90,
@@ -2576,7 +2531,7 @@
         {
           "page": 23,
           "file": "img_p23_91.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_91.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_91.png",
           "figureRef": "Figure 23-91",
           "kind": "figure",
           "index": 91,
@@ -2595,7 +2550,7 @@
         {
           "page": 23,
           "file": "img_p23_92.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_92.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_92.png",
           "figureRef": "Figure 23-92",
           "kind": "figure",
           "index": 92,
@@ -2614,7 +2569,7 @@
         {
           "page": 23,
           "file": "img_p23_93.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_93.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_93.png",
           "figureRef": "Figure 23-93",
           "kind": "figure",
           "index": 93,
@@ -2633,7 +2588,7 @@
         {
           "page": 23,
           "file": "img_p23_94.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_94.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_94.png",
           "figureRef": "Figure 23-94",
           "kind": "figure",
           "index": 94,
@@ -2652,7 +2607,7 @@
         {
           "page": 23,
           "file": "img_p23_95.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_95.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_95.png",
           "figureRef": "Figure 23-95",
           "kind": "figure",
           "index": 95,
@@ -2671,7 +2626,7 @@
         {
           "page": 23,
           "file": "img_p23_96.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_96.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_96.png",
           "figureRef": "Figure 23-96",
           "kind": "figure",
           "index": 96,
@@ -2690,7 +2645,7 @@
         {
           "page": 23,
           "file": "img_p23_97.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_97.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_97.png",
           "figureRef": "Figure 23-97",
           "kind": "figure",
           "index": 97,
@@ -2709,7 +2664,7 @@
         {
           "page": 23,
           "file": "img_p23_98.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_98.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_98.png",
           "figureRef": "Figure 23-98",
           "kind": "figure",
           "index": 98,
@@ -2728,7 +2683,7 @@
         {
           "page": 23,
           "file": "img_p23_99.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_99.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_99.png",
           "figureRef": "Figure 23-99",
           "kind": "figure",
           "index": 99,
@@ -2747,7 +2702,7 @@
         {
           "page": 23,
           "file": "img_p23_100.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_100.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_100.png",
           "figureRef": "Figure 23-100",
           "kind": "figure",
           "index": 100,
@@ -2766,7 +2721,7 @@
         {
           "page": 23,
           "file": "img_p23_101.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_101.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_101.png",
           "figureRef": "Figure 23-101",
           "kind": "figure",
           "index": 101,
@@ -2785,7 +2740,7 @@
         {
           "page": 23,
           "file": "img_p23_102.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_102.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_102.png",
           "figureRef": "Figure 23-102",
           "kind": "figure",
           "index": 102,
@@ -2804,7 +2759,7 @@
         {
           "page": 23,
           "file": "img_p23_103.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_103.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_103.png",
           "figureRef": "Figure 23-103",
           "kind": "figure",
           "index": 103,
@@ -2823,7 +2778,7 @@
         {
           "page": 23,
           "file": "img_p23_104.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_104.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_104.png",
           "figureRef": "Figure 23-104",
           "kind": "figure",
           "index": 104,
@@ -2842,7 +2797,7 @@
         {
           "page": 23,
           "file": "img_p23_105.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_105.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_105.png",
           "figureRef": "Figure 23-105",
           "kind": "figure",
           "index": 105,
@@ -2861,7 +2816,7 @@
         {
           "page": 23,
           "file": "img_p23_106.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_106.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_106.png",
           "figureRef": "Figure 23-106",
           "kind": "figure",
           "index": 106,
@@ -2880,7 +2835,7 @@
         {
           "page": 23,
           "file": "img_p23_107.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_107.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_107.png",
           "figureRef": "Figure 23-107",
           "kind": "figure",
           "index": 107,
@@ -2899,7 +2854,7 @@
         {
           "page": 23,
           "file": "img_p23_108.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_108.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_108.png",
           "figureRef": "Figure 23-108",
           "kind": "figure",
           "index": 108,
@@ -2918,7 +2873,7 @@
         {
           "page": 23,
           "file": "img_p23_109.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_109.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_109.png",
           "figureRef": "Figure 23-109",
           "kind": "figure",
           "index": 109,
@@ -2937,7 +2892,7 @@
         {
           "page": 23,
           "file": "img_p23_110.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_110.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_110.png",
           "figureRef": "Figure 23-110",
           "kind": "figure",
           "index": 110,
@@ -2974,7 +2929,7 @@
         {
           "page": 23,
           "file": "img_p23_111.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_111.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_111.png",
           "figureRef": "Figure 23-111",
           "kind": "figure",
           "index": 111,
@@ -2993,7 +2948,7 @@
         {
           "page": 23,
           "file": "img_p23_112.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_112.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_112.png",
           "figureRef": "Figure 23-112",
           "kind": "figure",
           "index": 112,
@@ -3012,7 +2967,7 @@
         {
           "page": 23,
           "file": "img_p23_113.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_113.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_113.png",
           "figureRef": "Figure 23-113",
           "kind": "figure",
           "index": 113,
@@ -3031,7 +2986,7 @@
         {
           "page": 23,
           "file": "img_p23_114.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_114.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_114.png",
           "figureRef": "Figure 23-114",
           "kind": "figure",
           "index": 114,
@@ -3050,7 +3005,7 @@
         {
           "page": 23,
           "file": "img_p23_115.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_115.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_115.png",
           "figureRef": "Figure 23-115",
           "kind": "figure",
           "index": 115,
@@ -3069,7 +3024,7 @@
         {
           "page": 23,
           "file": "img_p23_116.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_116.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_116.png",
           "figureRef": "Figure 23-116",
           "kind": "figure",
           "index": 116,
@@ -3088,7 +3043,7 @@
         {
           "page": 23,
           "file": "img_p23_117.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_117.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_117.png",
           "figureRef": "Figure 23-117",
           "kind": "figure",
           "index": 117,
@@ -3107,7 +3062,7 @@
         {
           "page": 23,
           "file": "img_p23_118.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_118.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_118.png",
           "figureRef": "Figure 23-118",
           "kind": "figure",
           "index": 118,
@@ -3126,7 +3081,7 @@
         {
           "page": 23,
           "file": "img_p23_119.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_119.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_119.png",
           "figureRef": "Figure 23-119",
           "kind": "figure",
           "index": 119,
@@ -3145,7 +3100,7 @@
         {
           "page": 23,
           "file": "img_p23_120.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_120.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_120.png",
           "figureRef": "Figure 23-120",
           "kind": "figure",
           "index": 120,
@@ -3164,7 +3119,7 @@
         {
           "page": 23,
           "file": "img_p23_121.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_121.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_121.png",
           "figureRef": "Figure 23-121",
           "kind": "figure",
           "index": 121,
@@ -3183,7 +3138,7 @@
         {
           "page": 23,
           "file": "img_p23_122.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_122.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_122.png",
           "figureRef": "Figure 23-122",
           "kind": "figure",
           "index": 122,
@@ -3220,7 +3175,7 @@
         {
           "page": 23,
           "file": "img_p23_123.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_123.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_123.png",
           "figureRef": "Figure 23-123",
           "kind": "figure",
           "index": 123,
@@ -3239,7 +3194,7 @@
         {
           "page": 23,
           "file": "img_p23_124.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_124.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_124.png",
           "figureRef": "Figure 23-124",
           "kind": "figure",
           "index": 124,
@@ -3258,7 +3213,7 @@
         {
           "page": 23,
           "file": "img_p23_125.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_125.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_125.png",
           "figureRef": "Figure 23-125",
           "kind": "figure",
           "index": 125,
@@ -3277,7 +3232,7 @@
         {
           "page": 23,
           "file": "img_p23_126.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_126.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_126.png",
           "figureRef": "Figure 23-126",
           "kind": "figure",
           "index": 126,
@@ -3296,7 +3251,7 @@
         {
           "page": 23,
           "file": "img_p23_127.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_127.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_127.png",
           "figureRef": "Figure 23-127",
           "kind": "figure",
           "index": 127,
@@ -3315,7 +3270,7 @@
         {
           "page": 23,
           "file": "img_p23_128.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_128.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_128.png",
           "figureRef": "Figure 23-128",
           "kind": "figure",
           "index": 128,
@@ -3343,7 +3298,7 @@
         {
           "page": 23,
           "file": "img_p23_129.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_129.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_129.png",
           "figureRef": "Figure 23-129",
           "kind": "figure",
           "index": 129,
@@ -3362,7 +3317,7 @@
         {
           "page": 23,
           "file": "img_p23_130.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p23_130.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p23_130.png",
           "figureRef": "Figure 23-130",
           "kind": "figure",
           "index": 130,
@@ -3381,7 +3336,7 @@
         {
           "page": 24,
           "file": "img_p24_131.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_131.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_131.png",
           "figureRef": "Figure 24-131",
           "kind": "figure",
           "index": 131,
@@ -3400,7 +3355,7 @@
         {
           "page": 24,
           "file": "img_p24_132.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_132.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_132.png",
           "figureRef": "Figure 24-132",
           "kind": "figure",
           "index": 132,
@@ -3419,7 +3374,7 @@
         {
           "page": 24,
           "file": "img_p24_133.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_133.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_133.png",
           "figureRef": "Figure 24-133",
           "kind": "figure",
           "index": 133,
@@ -3438,7 +3393,7 @@
         {
           "page": 24,
           "file": "img_p24_134.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_134.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_134.png",
           "figureRef": "Figure 24-134",
           "kind": "figure",
           "index": 134,
@@ -3457,7 +3412,7 @@
         {
           "page": 24,
           "file": "img_p24_135.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_135.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_135.png",
           "figureRef": "Figure 24-135",
           "kind": "figure",
           "index": 135,
@@ -3476,7 +3431,7 @@
         {
           "page": 24,
           "file": "img_p24_136.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_136.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_136.png",
           "figureRef": "Figure 24-136",
           "kind": "figure",
           "index": 136,
@@ -3495,7 +3450,7 @@
         {
           "page": 24,
           "file": "img_p24_137.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_137.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_137.png",
           "figureRef": "Figure 24-137",
           "kind": "figure",
           "index": 137,
@@ -3514,7 +3469,7 @@
         {
           "page": 24,
           "file": "img_p24_138.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_138.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_138.png",
           "figureRef": "Figure 24-138",
           "kind": "figure",
           "index": 138,
@@ -3533,7 +3488,7 @@
         {
           "page": 24,
           "file": "img_p24_139.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_139.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_139.png",
           "figureRef": "Figure 24-139",
           "kind": "figure",
           "index": 139,
@@ -3552,7 +3507,7 @@
         {
           "page": 24,
           "file": "img_p24_140.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_140.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_140.png",
           "figureRef": "Figure 24-140",
           "kind": "figure",
           "index": 140,
@@ -3571,7 +3526,7 @@
         {
           "page": 24,
           "file": "img_p24_141.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_141.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_141.png",
           "figureRef": "Figure 24-141",
           "kind": "figure",
           "index": 141,
@@ -3590,7 +3545,7 @@
         {
           "page": 24,
           "file": "img_p24_142.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_142.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_142.png",
           "figureRef": "Figure 24-142",
           "kind": "figure",
           "index": 142,
@@ -3609,7 +3564,7 @@
         {
           "page": 24,
           "file": "img_p24_143.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_143.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_143.png",
           "figureRef": "Figure 24-143",
           "kind": "figure",
           "index": 143,
@@ -3628,7 +3583,7 @@
         {
           "page": 24,
           "file": "img_p24_144.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_144.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_144.png",
           "figureRef": "Figure 24-144",
           "kind": "figure",
           "index": 144,
@@ -3647,7 +3602,7 @@
         {
           "page": 24,
           "file": "img_p24_145.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_145.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_145.png",
           "figureRef": "Figure 24-145",
           "kind": "figure",
           "index": 145,
@@ -3666,7 +3621,7 @@
         {
           "page": 24,
           "file": "img_p24_146.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_146.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_146.png",
           "figureRef": "Figure 24-146",
           "kind": "figure",
           "index": 146,
@@ -3685,7 +3640,7 @@
         {
           "page": 24,
           "file": "img_p24_147.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_147.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_147.png",
           "figureRef": "Figure 24-147",
           "kind": "figure",
           "index": 147,
@@ -3704,7 +3659,7 @@
         {
           "page": 24,
           "file": "img_p24_148.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_148.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_148.png",
           "figureRef": "Figure 24-148",
           "kind": "figure",
           "index": 148,
@@ -3723,7 +3678,7 @@
         {
           "page": 24,
           "file": "img_p24_149.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_149.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_149.png",
           "figureRef": "Figure 24-149",
           "kind": "figure",
           "index": 149,
@@ -3742,7 +3697,7 @@
         {
           "page": 24,
           "file": "img_p24_150.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_150.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_150.png",
           "figureRef": "Figure 24-150",
           "kind": "figure",
           "index": 150,
@@ -3761,7 +3716,7 @@
         {
           "page": 24,
           "file": "img_p24_151.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_151.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_151.png",
           "figureRef": "Figure 24-151",
           "kind": "figure",
           "index": 151,
@@ -3780,7 +3735,7 @@
         {
           "page": 24,
           "file": "img_p24_152.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_152.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_152.png",
           "figureRef": "Figure 24-152",
           "kind": "figure",
           "index": 152,
@@ -3799,7 +3754,7 @@
         {
           "page": 24,
           "file": "img_p24_153.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_153.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_153.png",
           "figureRef": "Figure 24-153",
           "kind": "figure",
           "index": 153,
@@ -3818,7 +3773,7 @@
         {
           "page": 24,
           "file": "img_p24_154.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_154.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_154.png",
           "figureRef": "Figure 24-154",
           "kind": "figure",
           "index": 154,
@@ -3837,7 +3792,7 @@
         {
           "page": 24,
           "file": "img_p24_155.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_155.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_155.png",
           "figureRef": "Figure 24-155",
           "kind": "figure",
           "index": 155,
@@ -3856,7 +3811,7 @@
         {
           "page": 24,
           "file": "img_p24_156.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_156.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_156.png",
           "figureRef": "Figure 24-156",
           "kind": "figure",
           "index": 156,
@@ -3875,7 +3830,7 @@
         {
           "page": 24,
           "file": "img_p24_157.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_157.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_157.png",
           "figureRef": "Figure 24-157",
           "kind": "figure",
           "index": 157,
@@ -3894,7 +3849,7 @@
         {
           "page": 24,
           "file": "img_p24_158.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_158.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_158.png",
           "figureRef": "Figure 24-158",
           "kind": "figure",
           "index": 158,
@@ -3913,7 +3868,7 @@
         {
           "page": 24,
           "file": "img_p24_159.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_159.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_159.png",
           "figureRef": "Figure 24-159",
           "kind": "figure",
           "index": 159,
@@ -3932,7 +3887,7 @@
         {
           "page": 24,
           "file": "img_p24_160.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_160.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_160.png",
           "figureRef": "Figure 24-160",
           "kind": "figure",
           "index": 160,
@@ -3951,7 +3906,7 @@
         {
           "page": 24,
           "file": "img_p24_161.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_161.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_161.png",
           "figureRef": "Figure 24-161",
           "kind": "figure",
           "index": 161,
@@ -3970,7 +3925,7 @@
         {
           "page": 24,
           "file": "img_p24_162.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_162.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_162.png",
           "figureRef": "Figure 24-162",
           "kind": "figure",
           "index": 162,
@@ -3989,7 +3944,7 @@
         {
           "page": 24,
           "file": "img_p24_163.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_163.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_163.png",
           "figureRef": "Figure 24-163",
           "kind": "figure",
           "index": 163,
@@ -4008,7 +3963,7 @@
         {
           "page": 24,
           "file": "img_p24_164.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_164.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_164.png",
           "figureRef": "Figure 24-164",
           "kind": "figure",
           "index": 164,
@@ -4027,7 +3982,7 @@
         {
           "page": 24,
           "file": "img_p24_165.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_165.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_165.png",
           "figureRef": "Figure 24-165",
           "kind": "figure",
           "index": 165,
@@ -4055,7 +4010,7 @@
         {
           "page": 24,
           "file": "img_p24_166.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_166.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_166.png",
           "figureRef": "Figure 24-166",
           "kind": "figure",
           "index": 166,
@@ -4074,7 +4029,7 @@
         {
           "page": 24,
           "file": "img_p24_167.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_167.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_167.png",
           "figureRef": "Figure 24-167",
           "kind": "figure",
           "index": 167,
@@ -4093,7 +4048,7 @@
         {
           "page": 24,
           "file": "img_p24_168.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_168.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_168.png",
           "figureRef": "Figure 24-168",
           "kind": "figure",
           "index": 168,
@@ -4112,7 +4067,7 @@
         {
           "page": 24,
           "file": "img_p24_169.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_169.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_169.png",
           "figureRef": "Figure 24-169",
           "kind": "figure",
           "index": 169,
@@ -4131,7 +4086,7 @@
         {
           "page": 24,
           "file": "img_p24_170.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_170.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_170.png",
           "figureRef": "Figure 24-170",
           "kind": "figure",
           "index": 170,
@@ -4150,7 +4105,7 @@
         {
           "page": 24,
           "file": "img_p24_171.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_171.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_171.png",
           "figureRef": "Figure 24-171",
           "kind": "figure",
           "index": 171,
@@ -4169,7 +4124,7 @@
         {
           "page": 24,
           "file": "img_p24_172.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_172.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_172.png",
           "figureRef": "Figure 24-172",
           "kind": "figure",
           "index": 172,
@@ -4188,7 +4143,7 @@
         {
           "page": 24,
           "file": "img_p24_173.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_173.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_173.png",
           "figureRef": "Figure 24-173",
           "kind": "figure",
           "index": 173,
@@ -4207,7 +4162,7 @@
         {
           "page": 24,
           "file": "img_p24_174.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_174.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_174.png",
           "figureRef": "Figure 24-174",
           "kind": "figure",
           "index": 174,
@@ -4226,7 +4181,7 @@
         {
           "page": 24,
           "file": "img_p24_175.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_175.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_175.png",
           "figureRef": "Figure 24-175",
           "kind": "figure",
           "index": 175,
@@ -4245,7 +4200,7 @@
         {
           "page": 24,
           "file": "img_p24_176.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_176.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_176.png",
           "figureRef": "Figure 24-176",
           "kind": "figure",
           "index": 176,
@@ -4264,7 +4219,7 @@
         {
           "page": 24,
           "file": "img_p24_177.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_177.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_177.png",
           "figureRef": "Figure 24-177",
           "kind": "figure",
           "index": 177,
@@ -4283,7 +4238,7 @@
         {
           "page": 24,
           "file": "img_p24_178.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_178.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_178.png",
           "figureRef": "Figure 24-178",
           "kind": "figure",
           "index": 178,
@@ -4302,7 +4257,7 @@
         {
           "page": 24,
           "file": "img_p24_179.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_179.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_179.png",
           "figureRef": "Figure 24-179",
           "kind": "figure",
           "index": 179,
@@ -4321,7 +4276,7 @@
         {
           "page": 24,
           "file": "img_p24_180.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_180.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_180.png",
           "figureRef": "Figure 24-180",
           "kind": "figure",
           "index": 180,
@@ -4340,7 +4295,7 @@
         {
           "page": 24,
           "file": "img_p24_181.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_181.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_181.png",
           "figureRef": "Figure 24-181",
           "kind": "figure",
           "index": 181,
@@ -4359,7 +4314,7 @@
         {
           "page": 24,
           "file": "img_p24_182.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_182.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_182.png",
           "figureRef": "Figure 24-182",
           "kind": "figure",
           "index": 182,
@@ -4378,7 +4333,7 @@
         {
           "page": 24,
           "file": "img_p24_183.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_183.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_183.png",
           "figureRef": "Figure 24-183",
           "kind": "figure",
           "index": 183,
@@ -4397,7 +4352,7 @@
         {
           "page": 24,
           "file": "img_p24_184.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_184.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_184.png",
           "figureRef": "Figure 24-184",
           "kind": "figure",
           "index": 184,
@@ -4416,7 +4371,7 @@
         {
           "page": 24,
           "file": "img_p24_185.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_185.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_185.png",
           "figureRef": "Figure 24-185",
           "kind": "figure",
           "index": 185,
@@ -4435,7 +4390,7 @@
         {
           "page": 24,
           "file": "img_p24_186.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_186.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_186.png",
           "figureRef": "Figure 24-186",
           "kind": "figure",
           "index": 186,
@@ -4454,7 +4409,7 @@
         {
           "page": 24,
           "file": "img_p24_187.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_187.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_187.png",
           "figureRef": "Figure 24-187",
           "kind": "figure",
           "index": 187,
@@ -4482,7 +4437,7 @@
         {
           "page": 24,
           "file": "img_p24_188.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_188.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_188.png",
           "figureRef": "Figure 24-188",
           "kind": "figure",
           "index": 188,
@@ -4501,7 +4456,7 @@
         {
           "page": 24,
           "file": "img_p24_189.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_189.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_189.png",
           "figureRef": "Figure 24-189",
           "kind": "figure",
           "index": 189,
@@ -4529,7 +4484,7 @@
         {
           "page": 24,
           "file": "img_p24_190.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_190.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_190.png",
           "figureRef": "Figure 24-190",
           "kind": "figure",
           "index": 190,
@@ -4548,7 +4503,7 @@
         {
           "page": 24,
           "file": "img_p24_191.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_191.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_191.png",
           "figureRef": "Figure 24-191",
           "kind": "figure",
           "index": 191,
@@ -4567,7 +4522,7 @@
         {
           "page": 24,
           "file": "img_p24_192.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_192.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_192.png",
           "figureRef": "Figure 24-192",
           "kind": "figure",
           "index": 192,
@@ -4586,7 +4541,7 @@
         {
           "page": 24,
           "file": "img_p24_193.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_193.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_193.png",
           "figureRef": "Figure 24-193",
           "kind": "figure",
           "index": 193,
@@ -4605,7 +4560,7 @@
         {
           "page": 24,
           "file": "img_p24_194.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_194.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_194.png",
           "figureRef": "Figure 24-194",
           "kind": "figure",
           "index": 194,
@@ -4624,7 +4579,7 @@
         {
           "page": 24,
           "file": "img_p24_195.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_195.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_195.png",
           "figureRef": "Figure 24-195",
           "kind": "figure",
           "index": 195,
@@ -4643,7 +4598,7 @@
         {
           "page": 24,
           "file": "img_p24_196.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_196.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_196.png",
           "figureRef": "Figure 24-196",
           "kind": "figure",
           "index": 196,
@@ -4662,7 +4617,7 @@
         {
           "page": 24,
           "file": "img_p24_197.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_197.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_197.png",
           "figureRef": "Figure 24-197",
           "kind": "figure",
           "index": 197,
@@ -4681,7 +4636,7 @@
         {
           "page": 24,
           "file": "img_p24_198.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_198.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_198.png",
           "figureRef": "Figure 24-198",
           "kind": "figure",
           "index": 198,
@@ -4700,7 +4655,7 @@
         {
           "page": 24,
           "file": "img_p24_199.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_199.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_199.png",
           "figureRef": "Figure 24-199",
           "kind": "figure",
           "index": 199,
@@ -4719,7 +4674,7 @@
         {
           "page": 24,
           "file": "img_p24_200.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_200.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_200.png",
           "figureRef": "Figure 24-200",
           "kind": "figure",
           "index": 200,
@@ -4738,7 +4693,7 @@
         {
           "page": 24,
           "file": "img_p24_201.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_201.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_201.png",
           "figureRef": "Figure 24-201",
           "kind": "figure",
           "index": 201,
@@ -4757,7 +4712,7 @@
         {
           "page": 24,
           "file": "img_p24_202.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_202.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_202.png",
           "figureRef": "Figure 24-202",
           "kind": "figure",
           "index": 202,
@@ -4776,7 +4731,7 @@
         {
           "page": 24,
           "file": "img_p24_203.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_203.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_203.png",
           "figureRef": "Figure 24-203",
           "kind": "figure",
           "index": 203,
@@ -4795,7 +4750,7 @@
         {
           "page": 24,
           "file": "img_p24_204.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_204.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_204.png",
           "figureRef": "Figure 24-204",
           "kind": "figure",
           "index": 204,
@@ -4814,7 +4769,7 @@
         {
           "page": 24,
           "file": "img_p24_205.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_205.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_205.png",
           "figureRef": "Figure 24-205",
           "kind": "figure",
           "index": 205,
@@ -4833,7 +4788,7 @@
         {
           "page": 24,
           "file": "img_p24_206.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_206.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_206.png",
           "figureRef": "Figure 24-206",
           "kind": "figure",
           "index": 206,
@@ -4852,7 +4807,7 @@
         {
           "page": 24,
           "file": "img_p24_207.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_207.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_207.png",
           "figureRef": "Figure 24-207",
           "kind": "figure",
           "index": 207,
@@ -4871,7 +4826,7 @@
         {
           "page": 24,
           "file": "img_p24_208.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_208.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_208.png",
           "figureRef": "Figure 24-208",
           "kind": "figure",
           "index": 208,
@@ -4890,7 +4845,7 @@
         {
           "page": 24,
           "file": "img_p24_209.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_209.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_209.png",
           "figureRef": "Figure 24-209",
           "kind": "figure",
           "index": 209,
@@ -4909,7 +4864,7 @@
         {
           "page": 24,
           "file": "img_p24_210.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_210.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_210.png",
           "figureRef": "Figure 24-210",
           "kind": "figure",
           "index": 210,
@@ -4928,7 +4883,7 @@
         {
           "page": 24,
           "file": "img_p24_211.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_211.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_211.png",
           "figureRef": "Figure 24-211",
           "kind": "figure",
           "index": 211,
@@ -4947,7 +4902,7 @@
         {
           "page": 24,
           "file": "img_p24_212.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_212.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_212.png",
           "figureRef": "Figure 24-212",
           "kind": "figure",
           "index": 212,
@@ -4966,7 +4921,7 @@
         {
           "page": 24,
           "file": "img_p24_213.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_213.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_213.png",
           "figureRef": "Figure 24-213",
           "kind": "figure",
           "index": 213,
@@ -4985,7 +4940,7 @@
         {
           "page": 24,
           "file": "img_p24_214.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p24_214.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p24_214.png",
           "figureRef": "Figure 24-214",
           "kind": "figure",
           "index": 214,
@@ -5004,7 +4959,7 @@
         {
           "page": 25,
           "file": "img_p25_215.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p25_215.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p25_215.png",
           "figureRef": "Figure 25-215",
           "kind": "figure",
           "index": 215,
@@ -5023,7 +4978,7 @@
         {
           "page": 25,
           "file": "img_p25_216.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p25_216.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p25_216.png",
           "figureRef": "Figure 25-216",
           "kind": "figure",
           "index": 216,
@@ -5042,7 +4997,7 @@
         {
           "page": 25,
           "file": "img_p25_217.png",
-          "relativePath": "/images/WeightBalance/ch03/img_p25_217.png",
+          "relativePath": "/images/WeightBalance/ch02/img_p25_217.png",
           "figureRef": "Figure 25-217",
           "kind": "figure",
           "index": 217,
@@ -5061,14 +5016,14 @@
       ]
     },
     {
-      "chapter": "ch04",
+      "chapter": "ch03",
       "startPage": 33,
       "endPage": 42,
       "images": [
         {
           "page": 33,
           "file": "img_p33_1.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p33_1.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p33_1.png",
           "figureRef": "Figure 33-1",
           "kind": "figure",
           "index": 1,
@@ -5087,7 +5042,7 @@
         {
           "page": 34,
           "file": "img_p34_2.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p34_2.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p34_2.png",
           "figureRef": "Figure 34-2",
           "kind": "figure",
           "index": 2,
@@ -5106,7 +5061,7 @@
         {
           "page": 35,
           "file": "img_p35_3.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p35_3.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p35_3.png",
           "figureRef": "Figure 35-3",
           "kind": "figure",
           "index": 3,
@@ -5125,7 +5080,7 @@
         {
           "page": 35,
           "file": "img_p35_4.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p35_4.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p35_4.png",
           "figureRef": "Figure 35-4",
           "kind": "figure",
           "index": 4,
@@ -5144,7 +5099,7 @@
         {
           "page": 38,
           "file": "img_p38_5.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_5.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_5.png",
           "figureRef": "Figure 38-5",
           "kind": "figure",
           "index": 5,
@@ -5181,7 +5136,7 @@
         {
           "page": 38,
           "file": "img_p38_6.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_6.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_6.png",
           "figureRef": "Figure 38-6",
           "kind": "figure",
           "index": 6,
@@ -5209,7 +5164,7 @@
         {
           "page": 38,
           "file": "img_p38_7.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_7.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_7.png",
           "figureRef": "Figure 38-7",
           "kind": "figure",
           "index": 7,
@@ -5237,7 +5192,7 @@
         {
           "page": 38,
           "file": "img_p38_8.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_8.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_8.png",
           "figureRef": "Figure 38-8",
           "kind": "figure",
           "index": 8,
@@ -5265,7 +5220,7 @@
         {
           "page": 38,
           "file": "img_p38_9.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_9.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_9.png",
           "figureRef": "Figure 38-9",
           "kind": "figure",
           "index": 9,
@@ -5293,7 +5248,7 @@
         {
           "page": 38,
           "file": "img_p38_10.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_10.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_10.png",
           "figureRef": "Figure 38-10",
           "kind": "figure",
           "index": 10,
@@ -5321,7 +5276,7 @@
         {
           "page": 38,
           "file": "img_p38_11.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_11.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_11.png",
           "figureRef": "Figure 38-11",
           "kind": "figure",
           "index": 11,
@@ -5349,7 +5304,7 @@
         {
           "page": 38,
           "file": "img_p38_12.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_12.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_12.png",
           "figureRef": "Figure 38-12",
           "kind": "figure",
           "index": 12,
@@ -5386,7 +5341,7 @@
         {
           "page": 38,
           "file": "img_p38_13.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_13.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_13.png",
           "figureRef": "Figure 38-13",
           "kind": "figure",
           "index": 13,
@@ -5423,7 +5378,7 @@
         {
           "page": 38,
           "file": "img_p38_14.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_14.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_14.png",
           "figureRef": "Figure 38-14",
           "kind": "figure",
           "index": 14,
@@ -5460,7 +5415,7 @@
         {
           "page": 38,
           "file": "img_p38_15.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_15.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_15.png",
           "figureRef": "Figure 38-15",
           "kind": "figure",
           "index": 15,
@@ -5479,7 +5434,7 @@
         {
           "page": 38,
           "file": "img_p38_16.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_16.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_16.png",
           "figureRef": "Figure 38-16",
           "kind": "figure",
           "index": 16,
@@ -5498,7 +5453,7 @@
         {
           "page": 38,
           "file": "img_p38_17.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_17.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_17.png",
           "figureRef": "Figure 38-17",
           "kind": "figure",
           "index": 17,
@@ -5526,7 +5481,7 @@
         {
           "page": 38,
           "file": "img_p38_18.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_18.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_18.png",
           "figureRef": "Figure 38-18",
           "kind": "figure",
           "index": 18,
@@ -5545,7 +5500,7 @@
         {
           "page": 38,
           "file": "img_p38_19.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_19.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_19.png",
           "figureRef": "Figure 38-19",
           "kind": "figure",
           "index": 19,
@@ -5564,7 +5519,7 @@
         {
           "page": 38,
           "file": "img_p38_20.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_20.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_20.png",
           "figureRef": "Figure 38-20",
           "kind": "figure",
           "index": 20,
@@ -5583,7 +5538,7 @@
         {
           "page": 38,
           "file": "img_p38_21.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_21.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_21.png",
           "figureRef": "Figure 38-21",
           "kind": "figure",
           "index": 21,
@@ -5602,7 +5557,7 @@
         {
           "page": 38,
           "file": "img_p38_22.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_22.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_22.png",
           "figureRef": "Figure 38-22",
           "kind": "figure",
           "index": 22,
@@ -5630,7 +5585,7 @@
         {
           "page": 38,
           "file": "img_p38_23.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_23.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_23.png",
           "figureRef": "Figure 38-23",
           "kind": "figure",
           "index": 23,
@@ -5658,7 +5613,7 @@
         {
           "page": 38,
           "file": "img_p38_24.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_24.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_24.png",
           "figureRef": "Figure 38-24",
           "kind": "figure",
           "index": 24,
@@ -5677,7 +5632,7 @@
         {
           "page": 38,
           "file": "img_p38_25.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_25.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_25.png",
           "figureRef": "Figure 38-25",
           "kind": "figure",
           "index": 25,
@@ -5696,7 +5651,7 @@
         {
           "page": 38,
           "file": "img_p38_26.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_26.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_26.png",
           "figureRef": "Figure 38-26",
           "kind": "figure",
           "index": 26,
@@ -5715,7 +5670,7 @@
         {
           "page": 38,
           "file": "img_p38_27.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_27.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_27.png",
           "figureRef": "Figure 38-27",
           "kind": "figure",
           "index": 27,
@@ -5734,7 +5689,7 @@
         {
           "page": 38,
           "file": "img_p38_28.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_28.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_28.png",
           "figureRef": "Figure 38-28",
           "kind": "figure",
           "index": 28,
@@ -5780,7 +5735,7 @@
         {
           "page": 38,
           "file": "img_p38_29.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_29.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_29.png",
           "figureRef": "Figure 38-29",
           "kind": "figure",
           "index": 29,
@@ -5799,7 +5754,7 @@
         {
           "page": 38,
           "file": "img_p38_30.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_30.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_30.png",
           "figureRef": "Figure 38-30",
           "kind": "figure",
           "index": 30,
@@ -5818,7 +5773,7 @@
         {
           "page": 38,
           "file": "img_p38_31.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_31.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_31.png",
           "figureRef": "Figure 38-31",
           "kind": "figure",
           "index": 31,
@@ -5837,7 +5792,7 @@
         {
           "page": 38,
           "file": "img_p38_32.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_32.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_32.png",
           "figureRef": "Figure 38-32",
           "kind": "figure",
           "index": 32,
@@ -5856,7 +5811,7 @@
         {
           "page": 38,
           "file": "img_p38_33.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_33.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_33.png",
           "figureRef": "Figure 38-33",
           "kind": "figure",
           "index": 33,
@@ -5884,7 +5839,7 @@
         {
           "page": 38,
           "file": "img_p38_34.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_34.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_34.png",
           "figureRef": "Figure 38-34",
           "kind": "figure",
           "index": 34,
@@ -5903,7 +5858,7 @@
         {
           "page": 38,
           "file": "img_p38_35.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_35.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_35.png",
           "figureRef": "Figure 38-35",
           "kind": "figure",
           "index": 35,
@@ -5922,7 +5877,7 @@
         {
           "page": 38,
           "file": "img_p38_36.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_36.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_36.png",
           "figureRef": "Figure 38-36",
           "kind": "figure",
           "index": 36,
@@ -5950,7 +5905,7 @@
         {
           "page": 38,
           "file": "img_p38_37.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_37.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_37.png",
           "figureRef": "Figure 38-37",
           "kind": "figure",
           "index": 37,
@@ -5969,7 +5924,7 @@
         {
           "page": 38,
           "file": "img_p38_38.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_38.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_38.png",
           "figureRef": "Figure 38-38",
           "kind": "figure",
           "index": 38,
@@ -5988,7 +5943,7 @@
         {
           "page": 38,
           "file": "img_p38_39.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_39.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_39.png",
           "figureRef": "Figure 38-39",
           "kind": "figure",
           "index": 39,
@@ -6016,7 +5971,7 @@
         {
           "page": 38,
           "file": "img_p38_40.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_40.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_40.png",
           "figureRef": "Figure 38-40",
           "kind": "figure",
           "index": 40,
@@ -6035,7 +5990,7 @@
         {
           "page": 38,
           "file": "img_p38_41.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_41.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_41.png",
           "figureRef": "Figure 38-41",
           "kind": "figure",
           "index": 41,
@@ -6054,7 +6009,7 @@
         {
           "page": 38,
           "file": "img_p38_42.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_42.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_42.png",
           "figureRef": "Figure 38-42",
           "kind": "figure",
           "index": 42,
@@ -6073,7 +6028,7 @@
         {
           "page": 38,
           "file": "img_p38_43.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_43.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_43.png",
           "figureRef": "Figure 38-43",
           "kind": "figure",
           "index": 43,
@@ -6092,7 +6047,7 @@
         {
           "page": 38,
           "file": "img_p38_44.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_44.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_44.png",
           "figureRef": "Figure 38-44",
           "kind": "figure",
           "index": 44,
@@ -6111,7 +6066,7 @@
         {
           "page": 38,
           "file": "img_p38_45.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_45.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_45.png",
           "figureRef": "Figure 38-45",
           "kind": "figure",
           "index": 45,
@@ -6130,7 +6085,7 @@
         {
           "page": 38,
           "file": "img_p38_46.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_46.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_46.png",
           "figureRef": "Figure 38-46",
           "kind": "figure",
           "index": 46,
@@ -6149,7 +6104,7 @@
         {
           "page": 38,
           "file": "img_p38_47.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_47.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_47.png",
           "figureRef": "Figure 38-47",
           "kind": "figure",
           "index": 47,
@@ -6168,7 +6123,7 @@
         {
           "page": 38,
           "file": "img_p38_48.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_48.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_48.png",
           "figureRef": "Figure 38-48",
           "kind": "figure",
           "index": 48,
@@ -6196,7 +6151,7 @@
         {
           "page": 38,
           "file": "img_p38_49.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_49.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_49.png",
           "figureRef": "Figure 38-49",
           "kind": "figure",
           "index": 49,
@@ -6278,7 +6233,7 @@
         {
           "page": 38,
           "file": "img_p38_50.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_50.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_50.png",
           "figureRef": "Figure 38-50",
           "kind": "figure",
           "index": 50,
@@ -6306,7 +6261,7 @@
         {
           "page": 38,
           "file": "img_p38_51.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_51.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_51.png",
           "figureRef": "Figure 38-51",
           "kind": "figure",
           "index": 51,
@@ -6334,7 +6289,7 @@
         {
           "page": 38,
           "file": "img_p38_52.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p38_52.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p38_52.png",
           "figureRef": "Figure 38-52",
           "kind": "figure",
           "index": 52,
@@ -6362,7 +6317,7 @@
         {
           "page": 39,
           "file": "img_p39_53.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_53.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_53.png",
           "figureRef": "Figure 39-53",
           "kind": "figure",
           "index": 53,
@@ -6390,7 +6345,7 @@
         {
           "page": 39,
           "file": "img_p39_54.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_54.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_54.png",
           "figureRef": "Figure 39-54",
           "kind": "figure",
           "index": 54,
@@ -6418,7 +6373,7 @@
         {
           "page": 39,
           "file": "img_p39_55.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_55.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_55.png",
           "figureRef": "Figure 39-55",
           "kind": "figure",
           "index": 55,
@@ -6437,7 +6392,7 @@
         {
           "page": 39,
           "file": "img_p39_56.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_56.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_56.png",
           "figureRef": "Figure 39-56",
           "kind": "figure",
           "index": 56,
@@ -6456,7 +6411,7 @@
         {
           "page": 39,
           "file": "img_p39_57.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_57.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_57.png",
           "figureRef": "Figure 39-57",
           "kind": "figure",
           "index": 57,
@@ -6475,7 +6430,7 @@
         {
           "page": 39,
           "file": "img_p39_58.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_58.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_58.png",
           "figureRef": "Figure 39-58",
           "kind": "figure",
           "index": 58,
@@ -6494,7 +6449,7 @@
         {
           "page": 39,
           "file": "img_p39_59.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_59.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_59.png",
           "figureRef": "Figure 39-59",
           "kind": "figure",
           "index": 59,
@@ -6513,7 +6468,7 @@
         {
           "page": 39,
           "file": "img_p39_60.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_60.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_60.png",
           "figureRef": "Figure 39-60",
           "kind": "figure",
           "index": 60,
@@ -6532,7 +6487,7 @@
         {
           "page": 39,
           "file": "img_p39_61.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_61.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_61.png",
           "figureRef": "Figure 39-61",
           "kind": "figure",
           "index": 61,
@@ -6551,7 +6506,7 @@
         {
           "page": 39,
           "file": "img_p39_62.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_62.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_62.png",
           "figureRef": "Figure 39-62",
           "kind": "figure",
           "index": 62,
@@ -6570,7 +6525,7 @@
         {
           "page": 39,
           "file": "img_p39_63.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_63.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_63.png",
           "figureRef": "Figure 39-63",
           "kind": "figure",
           "index": 63,
@@ -6589,7 +6544,7 @@
         {
           "page": 39,
           "file": "img_p39_64.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_64.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_64.png",
           "figureRef": "Figure 39-64",
           "kind": "figure",
           "index": 64,
@@ -6608,7 +6563,7 @@
         {
           "page": 39,
           "file": "img_p39_65.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_65.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_65.png",
           "figureRef": "Figure 39-65",
           "kind": "figure",
           "index": 65,
@@ -6627,7 +6582,7 @@
         {
           "page": 39,
           "file": "img_p39_66.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_66.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_66.png",
           "figureRef": "Figure 39-66",
           "kind": "figure",
           "index": 66,
@@ -6646,7 +6601,7 @@
         {
           "page": 39,
           "file": "img_p39_67.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_67.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_67.png",
           "figureRef": "Figure 39-67",
           "kind": "figure",
           "index": 67,
@@ -6665,7 +6620,7 @@
         {
           "page": 39,
           "file": "img_p39_68.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_68.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_68.png",
           "figureRef": "Figure 39-68",
           "kind": "figure",
           "index": 68,
@@ -6684,7 +6639,7 @@
         {
           "page": 39,
           "file": "img_p39_69.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_69.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_69.png",
           "figureRef": "Figure 39-69",
           "kind": "figure",
           "index": 69,
@@ -6712,7 +6667,7 @@
         {
           "page": 39,
           "file": "img_p39_70.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p39_70.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p39_70.png",
           "figureRef": "Figure 39-70",
           "kind": "figure",
           "index": 70,
@@ -6731,7 +6686,7 @@
         {
           "page": 40,
           "file": "img_p40_71.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p40_71.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p40_71.png",
           "figureRef": "Figure 40-71",
           "kind": "figure",
           "index": 71,
@@ -6750,7 +6705,7 @@
         {
           "page": 40,
           "file": "img_p40_72.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p40_72.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p40_72.png",
           "figureRef": "Figure 40-72",
           "kind": "figure",
           "index": 72,
@@ -6769,7 +6724,7 @@
         {
           "page": 40,
           "file": "img_p40_73.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p40_73.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p40_73.png",
           "figureRef": "Figure 40-73",
           "kind": "figure",
           "index": 73,
@@ -6788,7 +6743,7 @@
         {
           "page": 41,
           "file": "img_p41_74.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_74.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_74.png",
           "figureRef": "Figure 41-74",
           "kind": "figure",
           "index": 74,
@@ -6807,7 +6762,7 @@
         {
           "page": 41,
           "file": "img_p41_75.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_75.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_75.png",
           "figureRef": "Figure 41-75",
           "kind": "figure",
           "index": 75,
@@ -6826,7 +6781,7 @@
         {
           "page": 41,
           "file": "img_p41_76.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_76.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_76.png",
           "figureRef": "Figure 41-76",
           "kind": "figure",
           "index": 76,
@@ -6845,7 +6800,7 @@
         {
           "page": 41,
           "file": "img_p41_77.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_77.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_77.png",
           "figureRef": "Figure 41-77",
           "kind": "figure",
           "index": 77,
@@ -6873,7 +6828,7 @@
         {
           "page": 41,
           "file": "img_p41_78.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_78.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_78.png",
           "figureRef": "Figure 41-78",
           "kind": "figure",
           "index": 78,
@@ -6892,7 +6847,7 @@
         {
           "page": 41,
           "file": "img_p41_79.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_79.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_79.png",
           "figureRef": "Figure 41-79",
           "kind": "figure",
           "index": 79,
@@ -6920,7 +6875,7 @@
         {
           "page": 41,
           "file": "img_p41_80.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_80.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_80.png",
           "figureRef": "Figure 41-80",
           "kind": "figure",
           "index": 80,
@@ -6939,7 +6894,7 @@
         {
           "page": 41,
           "file": "img_p41_81.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_81.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_81.png",
           "figureRef": "Figure 41-81",
           "kind": "figure",
           "index": 81,
@@ -6958,7 +6913,7 @@
         {
           "page": 41,
           "file": "img_p41_82.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_82.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_82.png",
           "figureRef": "Figure 41-82",
           "kind": "figure",
           "index": 82,
@@ -6977,7 +6932,7 @@
         {
           "page": 41,
           "file": "img_p41_83.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_83.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_83.png",
           "figureRef": "Figure 41-83",
           "kind": "figure",
           "index": 83,
@@ -6996,7 +6951,7 @@
         {
           "page": 41,
           "file": "img_p41_84.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_84.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_84.png",
           "figureRef": "Figure 41-84",
           "kind": "figure",
           "index": 84,
@@ -7015,7 +6970,7 @@
         {
           "page": 41,
           "file": "img_p41_85.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_85.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_85.png",
           "figureRef": "Figure 41-85",
           "kind": "figure",
           "index": 85,
@@ -7034,7 +6989,7 @@
         {
           "page": 41,
           "file": "img_p41_86.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_86.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_86.png",
           "figureRef": "Figure 41-86",
           "kind": "figure",
           "index": 86,
@@ -7053,7 +7008,7 @@
         {
           "page": 41,
           "file": "img_p41_87.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_87.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_87.png",
           "figureRef": "Figure 41-87",
           "kind": "figure",
           "index": 87,
@@ -7072,7 +7027,7 @@
         {
           "page": 41,
           "file": "img_p41_88.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_88.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_88.png",
           "figureRef": "Figure 41-88",
           "kind": "figure",
           "index": 88,
@@ -7091,7 +7046,7 @@
         {
           "page": 41,
           "file": "img_p41_89.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_89.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_89.png",
           "figureRef": "Figure 41-89",
           "kind": "figure",
           "index": 89,
@@ -7110,7 +7065,7 @@
         {
           "page": 41,
           "file": "img_p41_90.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_90.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_90.png",
           "figureRef": "Figure 41-90",
           "kind": "figure",
           "index": 90,
@@ -7129,7 +7084,7 @@
         {
           "page": 41,
           "file": "img_p41_91.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_91.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_91.png",
           "figureRef": "Figure 41-91",
           "kind": "figure",
           "index": 91,
@@ -7157,7 +7112,7 @@
         {
           "page": 41,
           "file": "img_p41_92.png",
-          "relativePath": "/images/WeightBalance/ch04/img_p41_92.png",
+          "relativePath": "/images/WeightBalance/ch03/img_p41_92.png",
           "figureRef": "Figure 41-92",
           "kind": "figure",
           "index": 92,
@@ -7176,14 +7131,14 @@
       ]
     },
     {
-      "chapter": "ch05",
+      "chapter": "ch04",
       "startPage": 43,
       "endPage": 48,
       "images": [
         {
           "page": 43,
           "file": "img_p43_1.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p43_1.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p43_1.png",
           "figureRef": "Figure 43-1",
           "kind": "figure",
           "index": 1,
@@ -7202,7 +7157,7 @@
         {
           "page": 44,
           "file": "img_p44_2.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p44_2.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p44_2.png",
           "figureRef": "Figure 44-2",
           "kind": "figure",
           "index": 2,
@@ -7221,7 +7176,7 @@
         {
           "page": 45,
           "file": "img_p45_3.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p45_3.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p45_3.png",
           "figureRef": "Figure 45-3",
           "kind": "figure",
           "index": 3,
@@ -7240,7 +7195,7 @@
         {
           "page": 46,
           "file": "img_p46_4.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p46_4.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p46_4.png",
           "figureRef": "Figure 46-4",
           "kind": "figure",
           "index": 4,
@@ -7259,7 +7214,7 @@
         {
           "page": 46,
           "file": "img_p46_5.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p46_5.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p46_5.png",
           "figureRef": "Figure 46-5",
           "kind": "figure",
           "index": 5,
@@ -7278,7 +7233,7 @@
         {
           "page": 46,
           "file": "img_p46_6.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p46_6.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p46_6.png",
           "figureRef": "Figure 46-6",
           "kind": "figure",
           "index": 6,
@@ -7297,7 +7252,7 @@
         {
           "page": 48,
           "file": "img_p48_7.png",
-          "relativePath": "/images/WeightBalance/ch05/img_p48_7.png",
+          "relativePath": "/images/WeightBalance/ch04/img_p48_7.png",
           "figureRef": "Figure 48-7",
           "kind": "figure",
           "index": 7,
@@ -7316,14 +7271,14 @@
       ]
     },
     {
-      "chapter": "ch06",
+      "chapter": "ch05",
       "startPage": 49,
       "endPage": 54,
       "images": [
         {
           "page": 49,
           "file": "img_p49_1.png",
-          "relativePath": "/images/WeightBalance/ch06/img_p49_1.png",
+          "relativePath": "/images/WeightBalance/ch05/img_p49_1.png",
           "figureRef": "Figure 49-1",
           "kind": "figure",
           "index": 1,
@@ -7342,7 +7297,7 @@
         {
           "page": 50,
           "file": "img_p50_2.png",
-          "relativePath": "/images/WeightBalance/ch06/img_p50_2.png",
+          "relativePath": "/images/WeightBalance/ch05/img_p50_2.png",
           "figureRef": "Figure 50-2",
           "kind": "figure",
           "index": 2,
@@ -7361,7 +7316,7 @@
         {
           "page": 50,
           "file": "img_p50_3.png",
-          "relativePath": "/images/WeightBalance/ch06/img_p50_3.png",
+          "relativePath": "/images/WeightBalance/ch05/img_p50_3.png",
           "figureRef": "Figure 50-3",
           "kind": "figure",
           "index": 3,
@@ -7380,14 +7335,14 @@
       ]
     },
     {
-      "chapter": "ch07",
+      "chapter": "ch06",
       "startPage": 55,
       "endPage": 60,
       "images": [
         {
           "page": 55,
           "file": "img_p55_1.png",
-          "relativePath": "/images/WeightBalance/ch07/img_p55_1.png",
+          "relativePath": "/images/WeightBalance/ch06/img_p55_1.png",
           "figureRef": "Figure 55-1",
           "kind": "figure",
           "index": 1,
@@ -7406,7 +7361,7 @@
         {
           "page": 56,
           "file": "img_p56_2.png",
-          "relativePath": "/images/WeightBalance/ch07/img_p56_2.png",
+          "relativePath": "/images/WeightBalance/ch06/img_p56_2.png",
           "figureRef": "Figure 56-2",
           "kind": "figure",
           "index": 2,
@@ -7425,7 +7380,7 @@
         {
           "page": 56,
           "file": "img_p56_3.png",
-          "relativePath": "/images/WeightBalance/ch07/img_p56_3.png",
+          "relativePath": "/images/WeightBalance/ch06/img_p56_3.png",
           "figureRef": "Figure 56-3",
           "kind": "figure",
           "index": 3,
@@ -7444,14 +7399,14 @@
       ]
     },
     {
-      "chapter": "ch08",
+      "chapter": "ch07",
       "startPage": 61,
       "endPage": 68,
       "images": [
         {
           "page": 61,
           "file": "img_p61_1.png",
-          "relativePath": "/images/WeightBalance/ch08/img_p61_1.png",
+          "relativePath": "/images/WeightBalance/ch07/img_p61_1.png",
           "figureRef": "Figure 61-1",
           "kind": "figure",
           "index": 1,
@@ -7470,7 +7425,7 @@
         {
           "page": 62,
           "file": "img_p62_2.png",
-          "relativePath": "/images/WeightBalance/ch08/img_p62_2.png",
+          "relativePath": "/images/WeightBalance/ch07/img_p62_2.png",
           "figureRef": "Figure 62-2",
           "kind": "figure",
           "index": 2,
@@ -7489,7 +7444,7 @@
         {
           "page": 64,
           "file": "img_p64_3.png",
-          "relativePath": "/images/WeightBalance/ch08/img_p64_3.png",
+          "relativePath": "/images/WeightBalance/ch07/img_p64_3.png",
           "figureRef": "Figure 64-3",
           "kind": "figure",
           "index": 3,
@@ -7508,7 +7463,7 @@
         {
           "page": 66,
           "file": "img_p66_4.png",
-          "relativePath": "/images/WeightBalance/ch08/img_p66_4.png",
+          "relativePath": "/images/WeightBalance/ch07/img_p66_4.png",
           "figureRef": "Figure 66-4",
           "kind": "figure",
           "index": 4,
@@ -7527,7 +7482,7 @@
         {
           "page": 66,
           "file": "img_p66_5.png",
-          "relativePath": "/images/WeightBalance/ch08/img_p66_5.png",
+          "relativePath": "/images/WeightBalance/ch07/img_p66_5.png",
           "figureRef": "Figure 66-5",
           "kind": "figure",
           "index": 5,
@@ -7546,14 +7501,14 @@
       ]
     },
     {
-      "chapter": "ch09",
+      "chapter": "ch08",
       "startPage": 69,
       "endPage": 72,
       "images": [
         {
           "page": 69,
           "file": "img_p69_1.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p69_1.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p69_1.png",
           "figureRef": "Figure 69-1",
           "kind": "figure",
           "index": 1,
@@ -7572,7 +7527,7 @@
         {
           "page": 70,
           "file": "img_p70_2.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_2.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_2.png",
           "figureRef": "Figure 70-2",
           "kind": "figure",
           "index": 2,
@@ -7591,7 +7546,7 @@
         {
           "page": 70,
           "file": "img_p70_3.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_3.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_3.png",
           "figureRef": "Figure 70-3",
           "kind": "figure",
           "index": 3,
@@ -7610,7 +7565,7 @@
         {
           "page": 70,
           "file": "img_p70_4.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_4.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_4.png",
           "figureRef": "Figure 70-4",
           "kind": "figure",
           "index": 4,
@@ -7629,7 +7584,7 @@
         {
           "page": 70,
           "file": "img_p70_5.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_5.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_5.png",
           "figureRef": "Figure 70-5",
           "kind": "figure",
           "index": 5,
@@ -7648,7 +7603,7 @@
         {
           "page": 70,
           "file": "img_p70_6.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_6.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_6.png",
           "figureRef": "Figure 70-6",
           "kind": "figure",
           "index": 6,
@@ -7667,7 +7622,7 @@
         {
           "page": 70,
           "file": "img_p70_7.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_7.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_7.png",
           "figureRef": "Figure 70-7",
           "kind": "figure",
           "index": 7,
@@ -7686,7 +7641,7 @@
         {
           "page": 70,
           "file": "img_p70_8.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_8.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_8.png",
           "figureRef": "Figure 70-8",
           "kind": "figure",
           "index": 8,
@@ -7705,7 +7660,7 @@
         {
           "page": 70,
           "file": "img_p70_9.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_9.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_9.png",
           "figureRef": "Figure 70-9",
           "kind": "figure",
           "index": 9,
@@ -7724,7 +7679,7 @@
         {
           "page": 70,
           "file": "img_p70_10.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_10.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_10.png",
           "figureRef": "Figure 70-10",
           "kind": "figure",
           "index": 10,
@@ -7743,7 +7698,7 @@
         {
           "page": 70,
           "file": "img_p70_11.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_11.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_11.png",
           "figureRef": "Figure 70-11",
           "kind": "figure",
           "index": 11,
@@ -7762,7 +7717,7 @@
         {
           "page": 70,
           "file": "img_p70_12.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_12.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_12.png",
           "figureRef": "Figure 70-12",
           "kind": "figure",
           "index": 12,
@@ -7781,7 +7736,7 @@
         {
           "page": 70,
           "file": "img_p70_13.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_13.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_13.png",
           "figureRef": "Figure 70-13",
           "kind": "figure",
           "index": 13,
@@ -7800,7 +7755,7 @@
         {
           "page": 70,
           "file": "img_p70_14.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_14.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_14.png",
           "figureRef": "Figure 70-14",
           "kind": "figure",
           "index": 14,
@@ -7819,7 +7774,7 @@
         {
           "page": 70,
           "file": "img_p70_15.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_15.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_15.png",
           "figureRef": "Figure 70-15",
           "kind": "figure",
           "index": 15,
@@ -7838,7 +7793,7 @@
         {
           "page": 70,
           "file": "img_p70_16.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_16.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_16.png",
           "figureRef": "Figure 70-16",
           "kind": "figure",
           "index": 16,
@@ -7857,7 +7812,7 @@
         {
           "page": 70,
           "file": "img_p70_17.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_17.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_17.png",
           "figureRef": "Figure 70-17",
           "kind": "figure",
           "index": 17,
@@ -7876,7 +7831,7 @@
         {
           "page": 70,
           "file": "img_p70_18.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_18.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_18.png",
           "figureRef": "Figure 70-18",
           "kind": "figure",
           "index": 18,
@@ -7895,7 +7850,7 @@
         {
           "page": 70,
           "file": "img_p70_19.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_19.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_19.png",
           "figureRef": "Figure 70-19",
           "kind": "figure",
           "index": 19,
@@ -7914,7 +7869,7 @@
         {
           "page": 70,
           "file": "img_p70_20.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_20.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_20.png",
           "figureRef": "Figure 70-20",
           "kind": "figure",
           "index": 20,
@@ -7933,7 +7888,7 @@
         {
           "page": 70,
           "file": "img_p70_21.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_21.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_21.png",
           "figureRef": "Figure 70-21",
           "kind": "figure",
           "index": 21,
@@ -7952,7 +7907,7 @@
         {
           "page": 70,
           "file": "img_p70_22.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_22.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_22.png",
           "figureRef": "Figure 70-22",
           "kind": "figure",
           "index": 22,
@@ -7971,7 +7926,7 @@
         {
           "page": 70,
           "file": "img_p70_23.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_23.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_23.png",
           "figureRef": "Figure 70-23",
           "kind": "figure",
           "index": 23,
@@ -7990,7 +7945,7 @@
         {
           "page": 70,
           "file": "img_p70_24.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_24.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_24.png",
           "figureRef": "Figure 70-24",
           "kind": "figure",
           "index": 24,
@@ -8009,7 +7964,7 @@
         {
           "page": 70,
           "file": "img_p70_25.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_25.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_25.png",
           "figureRef": "Figure 70-25",
           "kind": "figure",
           "index": 25,
@@ -8028,7 +7983,7 @@
         {
           "page": 70,
           "file": "img_p70_26.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_26.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_26.png",
           "figureRef": "Figure 70-26",
           "kind": "figure",
           "index": 26,
@@ -8047,7 +8002,7 @@
         {
           "page": 70,
           "file": "img_p70_27.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_27.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_27.png",
           "figureRef": "Figure 70-27",
           "kind": "figure",
           "index": 27,
@@ -8066,7 +8021,7 @@
         {
           "page": 70,
           "file": "img_p70_28.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_28.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_28.png",
           "figureRef": "Figure 70-28",
           "kind": "figure",
           "index": 28,
@@ -8085,7 +8040,7 @@
         {
           "page": 70,
           "file": "img_p70_29.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_29.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_29.png",
           "figureRef": "Figure 70-29",
           "kind": "figure",
           "index": 29,
@@ -8104,7 +8059,7 @@
         {
           "page": 70,
           "file": "img_p70_30.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_30.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_30.png",
           "figureRef": "Figure 70-30",
           "kind": "figure",
           "index": 30,
@@ -8123,7 +8078,7 @@
         {
           "page": 70,
           "file": "img_p70_31.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_31.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_31.png",
           "figureRef": "Figure 70-31",
           "kind": "figure",
           "index": 31,
@@ -8142,7 +8097,7 @@
         {
           "page": 70,
           "file": "img_p70_32.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_32.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_32.png",
           "figureRef": "Figure 70-32",
           "kind": "figure",
           "index": 32,
@@ -8161,7 +8116,7 @@
         {
           "page": 70,
           "file": "img_p70_33.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_33.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_33.png",
           "figureRef": "Figure 70-33",
           "kind": "figure",
           "index": 33,
@@ -8180,7 +8135,7 @@
         {
           "page": 70,
           "file": "img_p70_34.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_34.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_34.png",
           "figureRef": "Figure 70-34",
           "kind": "figure",
           "index": 34,
@@ -8199,7 +8154,7 @@
         {
           "page": 70,
           "file": "img_p70_35.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_35.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_35.png",
           "figureRef": "Figure 70-35",
           "kind": "figure",
           "index": 35,
@@ -8218,7 +8173,7 @@
         {
           "page": 70,
           "file": "img_p70_36.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_36.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_36.png",
           "figureRef": "Figure 70-36",
           "kind": "figure",
           "index": 36,
@@ -8237,7 +8192,7 @@
         {
           "page": 70,
           "file": "img_p70_37.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_37.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_37.png",
           "figureRef": "Figure 70-37",
           "kind": "figure",
           "index": 37,
@@ -8256,7 +8211,7 @@
         {
           "page": 70,
           "file": "img_p70_38.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_38.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_38.png",
           "figureRef": "Figure 70-38",
           "kind": "figure",
           "index": 38,
@@ -8275,7 +8230,7 @@
         {
           "page": 70,
           "file": "img_p70_39.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_39.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_39.png",
           "figureRef": "Figure 70-39",
           "kind": "figure",
           "index": 39,
@@ -8294,7 +8249,7 @@
         {
           "page": 70,
           "file": "img_p70_40.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_40.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_40.png",
           "figureRef": "Figure 70-40",
           "kind": "figure",
           "index": 40,
@@ -8313,7 +8268,7 @@
         {
           "page": 70,
           "file": "img_p70_41.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_41.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_41.png",
           "figureRef": "Figure 70-41",
           "kind": "figure",
           "index": 41,
@@ -8332,7 +8287,7 @@
         {
           "page": 70,
           "file": "img_p70_42.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_42.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_42.png",
           "figureRef": "Figure 70-42",
           "kind": "figure",
           "index": 42,
@@ -8351,7 +8306,7 @@
         {
           "page": 70,
           "file": "img_p70_43.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_43.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_43.png",
           "figureRef": "Figure 70-43",
           "kind": "figure",
           "index": 43,
@@ -8370,7 +8325,7 @@
         {
           "page": 70,
           "file": "img_p70_44.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_44.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_44.png",
           "figureRef": "Figure 70-44",
           "kind": "figure",
           "index": 44,
@@ -8389,7 +8344,7 @@
         {
           "page": 70,
           "file": "img_p70_45.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_45.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_45.png",
           "figureRef": "Figure 70-45",
           "kind": "figure",
           "index": 45,
@@ -8408,7 +8363,7 @@
         {
           "page": 70,
           "file": "img_p70_46.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_46.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_46.png",
           "figureRef": "Figure 70-46",
           "kind": "figure",
           "index": 46,
@@ -8427,7 +8382,7 @@
         {
           "page": 70,
           "file": "img_p70_47.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_47.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_47.png",
           "figureRef": "Figure 70-47",
           "kind": "figure",
           "index": 47,
@@ -8446,7 +8401,7 @@
         {
           "page": 70,
           "file": "img_p70_48.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_48.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_48.png",
           "figureRef": "Figure 70-48",
           "kind": "figure",
           "index": 48,
@@ -8465,7 +8420,7 @@
         {
           "page": 70,
           "file": "img_p70_49.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_49.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_49.png",
           "figureRef": "Figure 70-49",
           "kind": "figure",
           "index": 49,
@@ -8484,7 +8439,7 @@
         {
           "page": 70,
           "file": "img_p70_50.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_50.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_50.png",
           "figureRef": "Figure 70-50",
           "kind": "figure",
           "index": 50,
@@ -8503,7 +8458,7 @@
         {
           "page": 70,
           "file": "img_p70_51.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_51.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_51.png",
           "figureRef": "Figure 70-51",
           "kind": "figure",
           "index": 51,
@@ -8522,7 +8477,7 @@
         {
           "page": 70,
           "file": "img_p70_52.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_52.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_52.png",
           "figureRef": "Figure 70-52",
           "kind": "figure",
           "index": 52,
@@ -8541,7 +8496,7 @@
         {
           "page": 70,
           "file": "img_p70_53.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_53.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_53.png",
           "figureRef": "Figure 70-53",
           "kind": "figure",
           "index": 53,
@@ -8560,7 +8515,7 @@
         {
           "page": 70,
           "file": "img_p70_54.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_54.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_54.png",
           "figureRef": "Figure 70-54",
           "kind": "figure",
           "index": 54,
@@ -8579,7 +8534,7 @@
         {
           "page": 70,
           "file": "img_p70_55.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_55.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_55.png",
           "figureRef": "Figure 70-55",
           "kind": "figure",
           "index": 55,
@@ -8598,7 +8553,7 @@
         {
           "page": 70,
           "file": "img_p70_56.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_56.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_56.png",
           "figureRef": "Figure 70-56",
           "kind": "figure",
           "index": 56,
@@ -8617,7 +8572,7 @@
         {
           "page": 70,
           "file": "img_p70_57.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_57.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_57.png",
           "figureRef": "Figure 70-57",
           "kind": "figure",
           "index": 57,
@@ -8636,7 +8591,7 @@
         {
           "page": 70,
           "file": "img_p70_58.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_58.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_58.png",
           "figureRef": "Figure 70-58",
           "kind": "figure",
           "index": 58,
@@ -8655,7 +8610,7 @@
         {
           "page": 70,
           "file": "img_p70_59.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_59.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_59.png",
           "figureRef": "Figure 70-59",
           "kind": "figure",
           "index": 59,
@@ -8674,7 +8629,7 @@
         {
           "page": 70,
           "file": "img_p70_60.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_60.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_60.png",
           "figureRef": "Figure 70-60",
           "kind": "figure",
           "index": 60,
@@ -8693,7 +8648,7 @@
         {
           "page": 70,
           "file": "img_p70_61.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_61.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_61.png",
           "figureRef": "Figure 70-61",
           "kind": "figure",
           "index": 61,
@@ -8712,7 +8667,7 @@
         {
           "page": 70,
           "file": "img_p70_62.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_62.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_62.png",
           "figureRef": "Figure 70-62",
           "kind": "figure",
           "index": 62,
@@ -8731,7 +8686,7 @@
         {
           "page": 70,
           "file": "img_p70_63.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_63.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_63.png",
           "figureRef": "Figure 70-63",
           "kind": "figure",
           "index": 63,
@@ -8750,7 +8705,7 @@
         {
           "page": 70,
           "file": "img_p70_64.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_64.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_64.png",
           "figureRef": "Figure 70-64",
           "kind": "figure",
           "index": 64,
@@ -8769,7 +8724,7 @@
         {
           "page": 70,
           "file": "img_p70_65.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_65.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_65.png",
           "figureRef": "Figure 70-65",
           "kind": "figure",
           "index": 65,
@@ -8788,7 +8743,7 @@
         {
           "page": 70,
           "file": "img_p70_66.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_66.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_66.png",
           "figureRef": "Figure 70-66",
           "kind": "figure",
           "index": 66,
@@ -8807,7 +8762,7 @@
         {
           "page": 70,
           "file": "img_p70_67.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_67.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_67.png",
           "figureRef": "Figure 70-67",
           "kind": "figure",
           "index": 67,
@@ -8826,7 +8781,7 @@
         {
           "page": 70,
           "file": "img_p70_68.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_68.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_68.png",
           "figureRef": "Figure 70-68",
           "kind": "figure",
           "index": 68,
@@ -8845,7 +8800,7 @@
         {
           "page": 70,
           "file": "img_p70_69.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_69.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_69.png",
           "figureRef": "Figure 70-69",
           "kind": "figure",
           "index": 69,
@@ -8864,7 +8819,7 @@
         {
           "page": 70,
           "file": "img_p70_70.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_70.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_70.png",
           "figureRef": "Figure 70-70",
           "kind": "figure",
           "index": 70,
@@ -8883,7 +8838,7 @@
         {
           "page": 70,
           "file": "img_p70_71.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_71.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_71.png",
           "figureRef": "Figure 70-71",
           "kind": "figure",
           "index": 71,
@@ -8902,7 +8857,7 @@
         {
           "page": 70,
           "file": "img_p70_72.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_72.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_72.png",
           "figureRef": "Figure 70-72",
           "kind": "figure",
           "index": 72,
@@ -8921,7 +8876,7 @@
         {
           "page": 70,
           "file": "img_p70_73.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_73.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_73.png",
           "figureRef": "Figure 70-73",
           "kind": "figure",
           "index": 73,
@@ -8940,7 +8895,7 @@
         {
           "page": 70,
           "file": "img_p70_74.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_74.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_74.png",
           "figureRef": "Figure 70-74",
           "kind": "figure",
           "index": 74,
@@ -8959,7 +8914,7 @@
         {
           "page": 70,
           "file": "img_p70_75.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_75.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_75.png",
           "figureRef": "Figure 70-75",
           "kind": "figure",
           "index": 75,
@@ -8978,7 +8933,7 @@
         {
           "page": 70,
           "file": "img_p70_76.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_76.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_76.png",
           "figureRef": "Figure 70-76",
           "kind": "figure",
           "index": 76,
@@ -8997,7 +8952,7 @@
         {
           "page": 70,
           "file": "img_p70_77.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_77.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_77.png",
           "figureRef": "Figure 70-77",
           "kind": "figure",
           "index": 77,
@@ -9016,7 +8971,7 @@
         {
           "page": 70,
           "file": "img_p70_78.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_78.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_78.png",
           "figureRef": "Figure 70-78",
           "kind": "figure",
           "index": 78,
@@ -9035,7 +8990,7 @@
         {
           "page": 70,
           "file": "img_p70_79.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_79.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_79.png",
           "figureRef": "Figure 70-79",
           "kind": "figure",
           "index": 79,
@@ -9054,7 +9009,7 @@
         {
           "page": 70,
           "file": "img_p70_80.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_80.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_80.png",
           "figureRef": "Figure 70-80",
           "kind": "figure",
           "index": 80,
@@ -9073,7 +9028,7 @@
         {
           "page": 70,
           "file": "img_p70_81.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_81.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_81.png",
           "figureRef": "Figure 70-81",
           "kind": "figure",
           "index": 81,
@@ -9092,7 +9047,7 @@
         {
           "page": 70,
           "file": "img_p70_82.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_82.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_82.png",
           "figureRef": "Figure 70-82",
           "kind": "figure",
           "index": 82,
@@ -9111,7 +9066,7 @@
         {
           "page": 70,
           "file": "img_p70_83.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_83.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_83.png",
           "figureRef": "Figure 70-83",
           "kind": "figure",
           "index": 83,
@@ -9130,7 +9085,7 @@
         {
           "page": 70,
           "file": "img_p70_84.png",
-          "relativePath": "/images/WeightBalance/ch09/img_p70_84.png",
+          "relativePath": "/images/WeightBalance/ch08/img_p70_84.png",
           "figureRef": "Figure 70-84",
           "kind": "figure",
           "index": 84,
@@ -9149,14 +9104,14 @@
       ]
     },
     {
-      "chapter": "ch10",
+      "chapter": "ch09",
       "startPage": 73,
       "endPage": 92,
       "images": [
         {
           "page": 73,
           "file": "img_p73_1.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p73_1.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p73_1.png",
           "figureRef": "Figure 73-1",
           "kind": "figure",
           "index": 1,
@@ -9175,7 +9130,7 @@
         {
           "page": 85,
           "file": "img_p85_2.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p85_2.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p85_2.png",
           "figureRef": "Figure 85-2",
           "kind": "figure",
           "index": 2,
@@ -9194,7 +9149,7 @@
         {
           "page": 85,
           "file": "img_p85_3.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p85_3.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p85_3.png",
           "figureRef": "Figure 85-3",
           "kind": "figure",
           "index": 3,
@@ -9213,7 +9168,7 @@
         {
           "page": 85,
           "file": "img_p85_4.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p85_4.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p85_4.png",
           "figureRef": "Figure 85-4",
           "kind": "figure",
           "index": 4,
@@ -9232,7 +9187,7 @@
         {
           "page": 89,
           "file": "img_p89_5.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p89_5.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p89_5.png",
           "figureRef": "Figure 89-5",
           "kind": "figure",
           "index": 5,
@@ -9251,7 +9206,7 @@
         {
           "page": 89,
           "file": "img_p89_6.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p89_6.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p89_6.png",
           "figureRef": "Figure 89-6",
           "kind": "figure",
           "index": 6,
@@ -9270,7 +9225,7 @@
         {
           "page": 90,
           "file": "img_p90_7.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p90_7.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p90_7.png",
           "figureRef": "Figure 90-7",
           "kind": "figure",
           "index": 7,
@@ -9289,7 +9244,7 @@
         {
           "page": 90,
           "file": "img_p90_8.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p90_8.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p90_8.png",
           "figureRef": "Figure 90-8",
           "kind": "figure",
           "index": 8,
@@ -9308,7 +9263,7 @@
         {
           "page": 90,
           "file": "img_p90_9.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p90_9.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p90_9.png",
           "figureRef": "Figure 90-9",
           "kind": "figure",
           "index": 9,
@@ -9327,7 +9282,7 @@
         {
           "page": 90,
           "file": "img_p90_10.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p90_10.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p90_10.png",
           "figureRef": "Figure 90-10",
           "kind": "figure",
           "index": 10,
@@ -9346,7 +9301,7 @@
         {
           "page": 90,
           "file": "img_p90_11.png",
-          "relativePath": "/images/WeightBalance/ch10/img_p90_11.png",
+          "relativePath": "/images/WeightBalance/ch09/img_p90_11.png",
           "figureRef": "Figure 90-11",
           "kind": "figure",
           "index": 11,
@@ -9365,14 +9320,14 @@
       ]
     },
     {
-      "chapter": "ch11",
+      "chapter": "ch10",
       "startPage": 93,
-      "endPage": 114,
+      "endPage": 93,
       "images": [
         {
           "page": 93,
           "file": "img_p93_1.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p93_1.png",
+          "relativePath": "/images/WeightBalance/ch10/img_p93_1.png",
           "figureRef": "Figure 93-1",
           "kind": "figure",
           "index": 1,
@@ -9384,1330 +9339,6 @@
                 -1.04998779296875,
                 595.2100219726562,
                 775.1099853515625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 94,
-          "file": "img_p94_2.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p94_2.png",
-          "figureRef": "Figure 94-2",
-          "kind": "figure",
-          "index": 2,
-          "placements": [
-            {
-              "page": 94,
-              "bbox": [
-                35.63677978515625,
-                255.56439208984375,
-                274.86322021484375,
-                566.5394287109375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_3.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_3.png",
-          "figureRef": "Figure 95-3",
-          "kind": "figure",
-          "index": 3,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                75.38796997070312,
-                69.367431640625,
-                319.4920349121094,
-                350.5514221191406
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_4.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_4.png",
-          "figureRef": "Figure 95-4",
-          "kind": "figure",
-          "index": 4,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                75.38796997070312,
-                69.36740112304688,
-                308.57196044921875,
-                339.511474609375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_5.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_5.png",
-          "figureRef": "Figure 95-5",
-          "kind": "figure",
-          "index": 5,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                195.14801025390625,
-                106.20742797851562,
-                216.89199829101562,
-                127.951416015625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_6.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_6.png",
-          "figureRef": "Figure 95-6",
-          "kind": "figure",
-          "index": 6,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                306.5980224609375,
-                398.1874694824219,
-                318.7420349121094,
-                679.3714599609375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_7.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_7.png",
-          "figureRef": "Figure 95-7",
-          "kind": "figure",
-          "index": 7,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                74.63796997070312,
-                398.1874084472656,
-                307.8219909667969,
-                679.3713989257812
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_8.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_8.png",
-          "figureRef": "Figure 95-8",
-          "kind": "figure",
-          "index": 8,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                305.63800048828125,
-                398.1874694824219,
-                308.781982421875,
-                679.3714599609375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_9.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_9.png",
-          "figureRef": "Figure 95-9",
-          "kind": "figure",
-          "index": 9,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                83.51797485351562,
-                398.3074035644531,
-                295.58197021484375,
-                399.7713928222656
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_10.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_10.png",
-          "figureRef": "Figure 95-10",
-          "kind": "figure",
-          "index": 10,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                83.51797485351562,
-                399.0273742675781,
-                295.58197021484375,
-                666.4114379882812
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_11.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_11.png",
-          "figureRef": "Figure 95-11",
-          "kind": "figure",
-          "index": 11,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                220.67799377441406,
-                597.3873901367188,
-                241.94198608398438,
-                619.1314086914062
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_12.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_12.png",
-          "figureRef": "Figure 95-12",
-          "kind": "figure",
-          "index": 12,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                242.87799072265625,
-                451.827392578125,
-                264.62200927734375,
-                473.5714111328125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_13.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_13.png",
-          "figureRef": "Figure 95-13",
-          "kind": "figure",
-          "index": 13,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                220.67799377441406,
-                597.3873901367188,
-                241.94198608398438,
-                619.1314086914062
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_14.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_14.png",
-          "figureRef": "Figure 95-14",
-          "kind": "figure",
-          "index": 14,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                252.9580078125,
-                451.827392578125,
-                254.1820068359375,
-                453.0513916015625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_15.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_15.png",
-          "figureRef": "Figure 95-15",
-          "kind": "figure",
-          "index": 15,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                75.38796997070312,
-                69.36737060546875,
-                309.5320129394531,
-                340.471435546875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_16.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_16.png",
-          "figureRef": "Figure 95-16",
-          "kind": "figure",
-          "index": 16,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                242.87799072265625,
-                451.827392578125,
-                264.62200927734375,
-                473.5714111328125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_17.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_17.png",
-          "figureRef": "Figure 95-17",
-          "kind": "figure",
-          "index": 17,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                251.27273559570312,
-                207.779296875,
-                607.279052734375,
-                600.227294921875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_18.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_18.png",
-          "figureRef": "Figure 95-18",
-          "kind": "figure",
-          "index": 18,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                84.26795959472656,
-                68.6474609375,
-                296.4519958496094,
-                70.83145141601562
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_19.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_19.png",
-          "figureRef": "Figure 95-19",
-          "kind": "figure",
-          "index": 19,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                84.26795959472656,
-                69.9674072265625,
-                296.4519958496094,
-                336.75140380859375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_20.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_20.png",
-          "figureRef": "Figure 95-20",
-          "kind": "figure",
-          "index": 20,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                195.1480255126953,
-                106.20741271972656,
-                216.8920135498047,
-                128.3114013671875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_21.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_21.png",
-          "figureRef": "Figure 95-21",
-          "kind": "figure",
-          "index": 21,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                134.0679931640625,
-                116.6474609375,
-                155.81198120117188,
-                138.39144897460938
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_22.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_22.png",
-          "figureRef": "Figure 95-22",
-          "kind": "figure",
-          "index": 22,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                154.58798217773438,
-                125.76739501953125,
-                155.81198120117188,
-                129.39138793945312
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_23.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_23.png",
-          "figureRef": "Figure 95-23",
-          "kind": "figure",
-          "index": 23,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                134.42799377441406,
-                116.64739990234375,
-                155.81198120117188,
-                138.39138793945312
-              ]
-            }
-          ]
-        },
-        {
-          "page": 95,
-          "file": "img_p95_24.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p95_24.png",
-          "figureRef": "Figure 95-24",
-          "kind": "figure",
-          "index": 24,
-          "placements": [
-            {
-              "page": 95,
-              "bbox": [
-                195.2679901123047,
-                106.2073974609375,
-                216.6519775390625,
-                127.95138549804688
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_25.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_25.png",
-          "figureRef": "Figure 103-25",
-          "kind": "figure",
-          "index": 25,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                550.6722412109375,
-                505.99566650390625,
-                570.6453247070312,
-                648.6336669921875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_26.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_26.png",
-          "figureRef": "Figure 103-26",
-          "kind": "figure",
-          "index": 26,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                123.18571472167969,
-                505.99560546875,
-                552.8333740234375,
-                648.6336059570312
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_27.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_27.png",
-          "figureRef": "Figure 103-27",
-          "kind": "figure",
-          "index": 27,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                287.41180419921875,
-                532.7135009765625,
-                294.560302734375,
-                536.8934326171875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_28.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_28.png",
-          "figureRef": "Figure 103-28",
-          "kind": "figure",
-          "index": 28,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                322.085693359375,
-                521.9075927734375,
-                327.21551513671875,
-                526.918701171875
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                286.46185302734375,
-                521.9075927734375,
-                291.5916748046875,
-                526.918701171875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_29.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_29.png",
-          "figureRef": "Figure 103-29",
-          "kind": "figure",
-          "index": 29,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                317.098388671875,
-                505.9956359863281,
-                332.08416748046875,
-                523.9500732421875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_30.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_30.png",
-          "figureRef": "Figure 103-30",
-          "kind": "figure",
-          "index": 30,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                316.14837646484375,
-                505.9956359863281,
-                332.0841369628906,
-                523.9500732421875
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                280.5245361328125,
-                505.9956359863281,
-                296.46026611328125,
-                523.9500732421875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_31.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_31.png",
-          "figureRef": "Figure 103-31",
-          "kind": "figure",
-          "index": 31,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                320.0670166015625,
-                505.99554443359375,
-                328.16552734375,
-                520.0313720703125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_32.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_32.png",
-          "figureRef": "Figure 103-32",
-          "kind": "figure",
-          "index": 32,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                281.4745178222656,
-                505.9956359863281,
-                296.4602966308594,
-                523.9500732421875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_33.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_33.png",
-          "figureRef": "Figure 103-33",
-          "kind": "figure",
-          "index": 33,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                284.44317626953125,
-                505.99560546875,
-                292.5416564941406,
-                519.0814208984375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_34.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_34.png",
-          "figureRef": "Figure 103-34",
-          "kind": "figure",
-          "index": 34,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                130.07301330566406,
-                549.5755004882812,
-                133.1842041015625,
-                623.9344482421875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_35.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_35.png",
-          "figureRef": "Figure 103-35",
-          "kind": "figure",
-          "index": 35,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                197.63963317871094,
-                204.8551483154297,
-                496.66644287109375,
-                335.6184997558594
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_36.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_36.png",
-          "figureRef": "Figure 103-36",
-          "kind": "figure",
-          "index": 36,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                233.26353454589844,
-                331.55731201171875,
-                244.3306884765625,
-                334.66845703125
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                210.58297729492188,
-                331.557373046875,
-                221.5313720703125,
-                334.66851806640625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_37.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_37.png",
-          "figureRef": "Figure 103-37",
-          "kind": "figure",
-          "index": 37,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                550.6722412109375,
-                505.99566650390625,
-                553.7833862304688,
-                648.6336669921875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_38.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_38.png",
-          "figureRef": "Figure 103-38",
-          "kind": "figure",
-          "index": 38,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                242.16949462890625,
-                330.60736083984375,
-                248.24929809570312,
-                335.61846923828125
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                206.5456085205078,
-                330.60736083984375,
-                212.6254119873047,
-                335.61846923828125
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                454.0127868652344,
-                330.60736083984375,
-                460.09259033203125,
-                335.61846923828125
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                247.15684509277344,
-                330.60736083984375,
-                253.2366485595703,
-                335.61846923828125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_39.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_39.png",
-          "figureRef": "Figure 103-39",
-          "kind": "figure",
-          "index": 39,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                222.45761108398438,
-                323.60137939453125,
-                232.45603942871094,
-                332.64984130859375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_40.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_40.png",
-          "figureRef": "Figure 103-40",
-          "kind": "figure",
-          "index": 40,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                219.48895263671875,
-                332.50732421875,
-                235.42469787597656,
-                335.61846923828125
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                345.12249755859375,
-                332.50732421875,
-                361.0582275390625,
-                335.61846923828125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_41.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_41.png",
-          "figureRef": "Figure 103-41",
-          "kind": "figure",
-          "index": 41,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                360.91571044921875,
-                331.5574035644531,
-                456.0552062988281,
-                334.6685485839844
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                251.07545471191406,
-                331.5574035644531,
-                346.2149658203125,
-                334.6685485839844
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_42.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_42.png",
-          "figureRef": "Figure 103-42",
-          "kind": "figure",
-          "index": 42,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                348.09112548828125,
-                323.60137939453125,
-                359.15826416015625,
-                332.64984130859375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_43.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_43.png",
-          "figureRef": "Figure 103-43",
-          "kind": "figure",
-          "index": 43,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                316.38592529296875,
-                226.70443725585938,
-                319.4970703125,
-                244.65887451171875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_44.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_44.png",
-          "figureRef": "Figure 103-44",
-          "kind": "figure",
-          "index": 44,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                284.79937744140625,
-                234.54168701171875,
-                287.9105224609375,
-                244.65887451171875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_45.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_45.png",
-          "figureRef": "Figure 103-45",
-          "kind": "figure",
-          "index": 45,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                315.4359130859375,
-                225.63568115234375,
-                320.56573486328125,
-                229.8155517578125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_46.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_46.png",
-          "figureRef": "Figure 103-46",
-          "kind": "figure",
-          "index": 46,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                310.4486083984375,
-                204.85511779785156,
-                325.43438720703125,
-                226.846923828125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_47.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_47.png",
-          "figureRef": "Figure 103-47",
-          "kind": "figure",
-          "index": 47,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                309.49859619140625,
-                204.8551025390625,
-                325.4343566894531,
-                227.796875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_48.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_48.png",
-          "figureRef": "Figure 103-48",
-          "kind": "figure",
-          "index": 48,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                323.03570556640625,
-                523.8074951171875,
-                326.1468505859375,
-                565.51123046875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_49.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_49.png",
-          "figureRef": "Figure 103-49",
-          "kind": "figure",
-          "index": 49,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                314.4859619140625,
-                204.8551483154297,
-                322.4656982421875,
-                223.8782958984375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_50.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_50.png",
-          "figureRef": "Figure 103-50",
-          "kind": "figure",
-          "index": 50,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                283.730712890625,
-                232.64173889160156,
-                288.86053466796875,
-                237.65283203125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_51.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_51.png",
-          "figureRef": "Figure 103-51",
-          "kind": "figure",
-          "index": 51,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                277.7933654785156,
-                204.85507202148438,
-                293.8478698730469,
-                234.68414306640625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_52.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_52.png",
-          "figureRef": "Figure 103-52",
-          "kind": "figure",
-          "index": 52,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                277.7933654785156,
-                204.85507202148438,
-                293.8478698730469,
-                234.68414306640625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_53.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_53.png",
-          "figureRef": "Figure 103-53",
-          "kind": "figure",
-          "index": 53,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                281.83074951171875,
-                204.85507202148438,
-                289.81048583984375,
-                230.7655029296875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_54.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_54.png",
-          "figureRef": "Figure 103-54",
-          "kind": "figure",
-          "index": 54,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                297.62396240234375,
-                230.6230926513672,
-                302.7537841796875,
-                235.7529296875
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                300.5926513671875,
-                227.65440368652344,
-                305.72247314453125,
-                232.78424072265625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_55.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_55.png",
-          "figureRef": "Figure 103-55",
-          "kind": "figure",
-          "index": 55,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                300.5926513671875,
-                227.65440368652344,
-                305.72247314453125,
-                232.78424072265625
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_56.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_56.png",
-          "figureRef": "Figure 103-56",
-          "kind": "figure",
-          "index": 56,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                297.62396240234375,
-                226.7044677734375,
-                305.7224426269531,
-                235.7529296875
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                297.62396240234375,
-                226.7044677734375,
-                305.7224426269531,
-                235.7529296875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_57.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_57.png",
-          "figureRef": "Figure 103-57",
-          "kind": "figure",
-          "index": 57,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                258.08148193359375,
-                278.1215515136719,
-                390.74481201171875,
-                289.1886901855469
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_58.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_58.png",
-          "figureRef": "Figure 103-58",
-          "kind": "figure",
-          "index": 58,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                264.018798828125,
-                244.51632690429688,
-                279.00457763671875,
-                254.5147705078125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_59.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_59.png",
-          "figureRef": "Figure 103-59",
-          "kind": "figure",
-          "index": 59,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                287.41180419921875,
-                523.8075561523438,
-                290.52294921875,
-                566.5799560546875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_60.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_60.png",
-          "figureRef": "Figure 103-60",
-          "kind": "figure",
-          "index": 60,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                264.9687805175781,
-                249.38499450683594,
-                270.0986328125,
-                254.51483154296875
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_61.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_61.png",
-          "figureRef": "Figure 103-61",
-          "kind": "figure",
-          "index": 61,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                123.18574523925781,
-                625.810546875,
-                152.06484985351562,
-                633.790283203125
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_62.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_62.png",
-          "figureRef": "Figure 103-62",
-          "kind": "figure",
-          "index": 62,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                317.098388671875,
-                533.7822265625,
-                321.27825927734375,
-                536.8933715820312
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_63.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_63.png",
-          "figureRef": "Figure 103-63",
-          "kind": "figure",
-          "index": 63,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                319.1170654296875,
-                532.7135009765625,
-                325.1968688964844,
-                536.8934326171875
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                126.15440368652344,
-                564.4187622070312,
-                132.2342529296875,
-                568.4799194335938
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_64.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_64.png",
-          "figureRef": "Figure 103-64",
-          "kind": "figure",
-          "index": 64,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                297.3865051269531,
-                530.8135986328125,
-                316.2908935546875,
-                538.7933349609375
-              ]
-            }
-          ]
-        },
-        {
-          "page": 103,
-          "file": "img_p103_65.png",
-          "relativePath": "/images/WeightBalance/ch11/img_p103_65.png",
-          "figureRef": "Figure 103-65",
-          "kind": "figure",
-          "index": 65,
-          "placements": [
-            {
-              "page": 103,
-              "bbox": [
-                292.3991394042969,
-                533.7822875976562,
-                297.52899169921875,
-                536.8934326171875
-              ]
-            },
-            {
-              "page": 103,
-              "bbox": [
-                123.18574523925781,
-                565.3687744140625,
-                128.3156280517578,
-                568.4799194335938
               ]
             }
           ]

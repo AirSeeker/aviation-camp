@@ -52,11 +52,11 @@ class DetectChapterRangesTests(unittest.TestCase):
             doc.new_page()
 
         try:
-            self.assertEqual(detect_chapter_ranges(doc, 8, [1, 4, 7]), [(1, 3), (4, 6), (7, 8)])
+            self.assertEqual(detect_chapter_ranges(doc, 8, [2, 4, 7]), [(2, 3), (4, 6), (7, 8)])
         finally:
             doc.close()
 
-    def test_includes_front_matter_before_first_chapter(self) -> None:
+    def test_excludes_front_and_back_matter_around_chapters(self) -> None:
         doc = fitz.open()
         for _ in range(10):
             doc.new_page()
@@ -66,11 +66,12 @@ class DetectChapterRangesTests(unittest.TestCase):
                 [1, "Table of Contents", 5],
                 [1, "Chapter 1: Basics", 6],
                 [1, "Chapter 2: Flight", 9],
+                [1, "Glossary", 10],
             ]
         )
 
         try:
-            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 5), (6, 8), (9, 10)])
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(6, 8), (9, 9)])
         finally:
             doc.close()
 
@@ -84,9 +85,9 @@ class DetectChapterRangesTests(unittest.TestCase):
         finally:
             doc.close()
 
-    def test_rejects_ranges_that_do_not_cover_entire_document(self) -> None:
-        with self.assertRaisesRegex(ValueError, "cover all pages"):
-            validate_chapter_ranges([(2, 4), (5, 7)], 7)
+    def test_rejects_gaps_between_chapter_ranges(self) -> None:
+        with self.assertRaisesRegex(ValueError, "contiguous"):
+            validate_chapter_ranges([(2, 3), (5, 7)], 7)
 
     def test_uses_shallowest_matching_level_without_chapter_entries(self) -> None:
         doc = fitz.open()
@@ -103,6 +104,28 @@ class DetectChapterRangesTests(unittest.TestCase):
 
         try:
             self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 2), (3, 5)])
+        finally:
+            doc.close()
+
+    def test_excludes_supplemental_pages_without_toc(self) -> None:
+        doc = fitz.open()
+        doc.new_page().insert_text((72, 72), "Chapter 1: Basics")
+        doc.new_page().insert_text((72, 72), "Basic training principles")
+        doc.new_page().insert_text((72, 72), "Chapter 2: Flight")
+        doc.new_page().insert_text((72, 72), "Appendix A")
+
+        try:
+            self.assertEqual(detect_chapter_ranges(doc, doc.page_count), [(1, 2), (3, 3)])
+        finally:
+            doc.close()
+
+    def test_requires_detectable_chapters_or_overrides(self) -> None:
+        doc = fitz.open()
+        doc.new_page().insert_text((72, 72), "General reference material")
+
+        try:
+            with self.assertRaisesRegex(ValueError, "No educational chapter starts detected"):
+                detect_chapter_ranges(doc, doc.page_count)
         finally:
             doc.close()
 
@@ -383,7 +406,9 @@ class ParseBookIntegrationTests(unittest.TestCase):
             source_dir.mkdir()
             pdf_path = source_dir / "source.pdf"
             doc = fitz.open()
-            doc.new_page().insert_text((72, 72), "Aviation study text")
+            page = doc.new_page()
+            page.insert_text((72, 72), "Chapter 1: Basics")
+            page.insert_text((72, 100), "Aviation study text")
             doc.save(pdf_path)
             doc.close()
 
@@ -394,7 +419,7 @@ class ParseBookIntegrationTests(unittest.TestCase):
             self.assertEqual(len(manifest["chapters"]), 1)
             self.assertEqual(
                 (output_root / "TestBook" / "ch01" / "content_raw.txt").read_text(encoding="utf-8"),
-                "Aviation study text",
+                "Chapter 1: Basics\nAviation study text",
             )
             self.assertTrue((output_root / "TestBook" / "book_manifest.json").is_file())
             self.assertEqual(list(output_root.glob(".TestBook-parse-*")), [])
@@ -407,7 +432,9 @@ class ParseBookIntegrationTests(unittest.TestCase):
             source_dir.mkdir()
             pdf_path = source_dir / "source.pdf"
             doc = fitz.open()
-            doc.new_page().insert_text((72, 72), "Aviation study text")
+            page = doc.new_page()
+            page.insert_text((72, 72), "Chapter 1: Basics")
+            page.insert_text((72, 100), "Aviation study text")
             doc.save(pdf_path)
             doc.close()
 

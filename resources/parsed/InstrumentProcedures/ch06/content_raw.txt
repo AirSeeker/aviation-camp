@@ -1,1836 +1,1677 @@
-Chapter 5
-Improvement Plans
-Improvement Plans
-P|
+Chapter 6
+Airborne Navigation Databases
+| |
 Introduction
-In the upcoming years, exciting new technologies will
-be developed and implemented to help ease air traffic
-congestion, add to system capacity, and enhance safety.
-Some of these seamless changes will be invisible to
-pilots. Others will entail learning new procedures, aircraft
-equipment, and systems that will introduce powerful new
-capabilities and dramatically increase the safety of all flight
-operations.
-5-1
+Area Navigation (RNAV) systems, aeronautical applications,
+and functions that depend on databases are widespread.
+[Figure 6-1] Since the 1970s, installed flight systems
+have relied on airborne navigation databases to support
+their intended functions, such as navigation data used
+to facilitate the presentation of flight information to the
+flight crew and understanding and better visualization
+of the governing aeronautical flight charts. With the
+overwhelming upgrades to navigation systems and fully
+integrated flight management systems (FMS) that are now
+installed in almost all corporate and commercial aircraft,
+the need for reliable and consistent airborne navigation
+databases is more important than ever.
+6-1
 
-Next Generation Air Transportation (NextGen)
-entire United States air transportation system. NextGen
-System
-consists of the following five systems:
-1.
-Automatic dependent surveillance-broadcast
-Next Generation Air Transportation System (NextGen) is a
-(ADS-B)—automatically broadcasts the aircraft’s
-comprehensive overhaul of the National Airspace System
-position and other aircraft specific information to
-(NAS) designed to make air travel more convenient and
-air traffic control (ATC) ground facilities and nearby
-dependable, while ensuring flights are as safe and secure
-aircraft equipped with ADS-B In. Effective January
-as possible. It moves away from ground-based surveillance
-1, 2020 all aircraft operating in certain controlled
-and navigation to new and more dynamic satellite-based
-U.S. airspace will be required to operate ADS-B Out
-systems and procedures, and introduces new technological
-equipment at all times. While Global Navigation
-innovations in areas such as weather forecast, digital
-Satellite System (GNSS) is not mandated by rule
-communications, and networking. [Figure 5-1] When fully
-as the position sensor, it is currently the only
-implemented, NextGen will safely allow aircraft to fly more
-position source that meets the rule’s performance
-closely together on more direct routes, reducing delays,
-requirements. Aircraft broadcasting ADS-B Out data
-and providing unprecedented benefits for the environment
-provide ATC and cooperating ADS-B-In aircraft more
-and the economy through reductions in carbon emissions,
-precise on-the- ground or in-the-air positioning
-fuel consumption, and noise. [Figure 5-2]
-information based on the increased frequency of the
-data broadcasts and the accuracy of GNSS. ADS-B
-Implementation in stages across the United States is due
-will provide a complete picture of air traffic for ATC
-between 2012 and 2025. In order to implement NextGen,
-and pilots of ADS-B In-equipped aircraft. The FAA’s
-the FAA will undertake a wide-range transformation of the
-@®
-@
-@
-@
-@
-©
-ain
-ir,
-©
-©
-Vix
-ap
-}
-brag
-lis.—
-A
-@e
-e
-Ss
-DOC
-DHS
-@
-NASA
-DOD
-OSTP
-wa
-FAA
-eo
-NGATS
-=
-State/Local
-@
-@
-DOT
-Institute
-Government
-eo
-@
-r
-™~s
-Industry &
-~~
--
-Community
-|
--
-a
-sf
-Air Navigation Operations and Support
-@
-@
-ICAO
-@
-Flight Operations and Support
-YY
-a
-Global
-_
-Harmonization
-~
-~~]
-@
-a
-e
-@
-Super Density
-Policy & Regulations
--
-Operations
-@
-al
-Equivalent
-r
-Visual Operations
-@
-_
-Sp
-—
-Airport Operations and Support
-Aeronautical
-Performance
-Geospatial
-Flight Planning
-Flight Data
-Communication
-——
-A
-Information
-Information
-Metrics
-Enterprise Services
-Layered
-Position, Navigation,
-Environment
-Surveillance
-Safety
-Weather
-Adaptive Security
-and Timing
->»
-Net Centric Infrastructure Services
-Network-Enabled Information Acess
-Figure 5-1. Next Generation Air Transportation System (NEXGEN) introduces new technological innovations for weather forecasting,
-digital communications, and networking.
-5-2
-
-ap
-“-
-“-
-ap
-Qu
-ae
-=
-en
-=
-|
-§
-_-
-_ 7
->
-|
-v4
--
-,
-_
-wii
-f
-\
-Figure 5-2. Satellite-based navigation and tracking allows more aircraft to fly closely together on more direct routes.
-information is more easily accessed. [Figure 5-4]
-3. Next generation data communications—current
-communications between aircrew and ATC, and
-between air traffic controllers, are largely realized
-through voice communications. Initially, the
-introduction of data communications will provide
-an additional means of two-way communication
-for ATC clearances, instructions, advisories, flight
-crew requests, and reports. With the majority of
-aircraft data link equipped, the exchange of routine
-controller-pilot messages and clearances via data
-link will enable controllers to handle more traffic.
-This will improve ATC productivity, enhancing
-capacity and safety. [Figure 5-5]
-as
-| Ae
-/'
->
-4. Next generation network enabled weather
-(NNEW)— seventy percent of NAS delays are
-Figure 5-3. Automatic Dependent Surveillance-Broadcast (ADS-B)
-attributed to weather every year. The goal of NNEW
-systems.
-is to cut weather-related delays at least in half. Tens
-ADS-B ground infrastructure is complete and ATC
-of thousands of global weather observations and
-now uses ADS-B for aircraft tracking both in the air
-sensor reports from ground, airborne, and space-
-and on the ground at many airports.
-based sources will fuse into a single national weather
-information system updated in real time. NNEW
-2. System wide information management (SWIM)—
-will provide a common weather picture across the
-will provide a single infrastructure and information
-NAS and enable better air transportation decision-
-management system to deliver high quality, timely
-making. [Figure 5-6]
-data to many users and applications. By reducing
-the number and types of interfaces and systems,
-5. NAS voice switch (NVS)—there are currently
-SWIM will reduce data redundancy and better
-seventeen different voice switching systems in the
-facilitate multi- user information sharing. SWIM
-NAS; some in use for more than twenty years. NVS
-will also enable new modes of decision-making as
-will replace these systems with a single air/ground
-5-3
-
-Today
-Enterprise Management
-Existing systems communication
-Secure access points for NAS systems
-structure
-and data sharing
-En Route Data
-@
-@
-@
-@
-_
-@
-@
-~~
-~
-~~
-\
-j
-\
-\
-|
-|
-|
-Weather
-Surveillance
-@
-@
-@
-@
->
-~~
-~~
-»
-;
-\
-SWIM
-@
-@
-@
-@
-\
-~~
-~~
-~~
-~~
-Core
-Terminal
-|
-\
-Radar Data
-Services
-Data
-@
-@
-@
-@
-\
-\
-~~.
-~~
-|
-|
-;
-j
-@
-@
-@
-@
-_
-~~
-~~
-~~
-~~
-@
-@
-j
-j
-j
-\
-~~
-\
-~\
-Traffic Flow
-|
-|
-Inter-Agency
-Management
-Aeronautical
-Information
-Figure 5-4. System wide information management (SWIM)—an information management system that helps deliver high quality, timely
-data to improve the efficiency of the national airspace.
-,
-ARTCCS
-@e
-TRACONS
-Trajectory Based Operations
-TOWERS
-High Performance Airspeed
--
-WX Reroutes
-Clearances
-—
-—
-Time Based Metering
-@
-ry
-ae
-—
-Fix
-a
-—_—
-—————
-Optimized
-Descents
-ee
-(TAPs/CDAs)
-ARTCCs
--
--
--_
-VDL-2
-VDL-2
-Network
-:
-User Flight
-Operations
-Tower
-Control
-ARTCSCC
-[|
-ry
-TRACONs
-Taxi Instructions
-—
-Digital ATIS
-Departure Clearance
-——
-Figure 5-5. Next generation data communications provides an additional means of two-way communication for ATC clearances,
-instructions, advisories, flight crew requests, and reports.
-5-4
-
-eee ee
-_a
-af
-:
-&
-=
-ms;
-_ ta
-z
-'
-<4
->
-fu0,.
-Se
-A
-a
-om
-PZ
-is
-= spa
-——
-ee
-|, —
-oe fe ee
-a
-a
-y ee
-yas
-r PS a
-eh
-“—_
--
-ee
-Figure 5-6. Next generation network enabled weather (NNEW) provides a common weather picture across the NAS.
-and ground/ground voice communications system.
-[Figure 5-7]
-ee, =
-NextGen Existing Improvements
-The goal of NextGen is to provide new capabilities that
-al
-[
-make air transportation safer and more reliable while
-EA We ere of
-improving the capacity of the NAS and reducing aviation’s
-impact on the environment. Below is a list of some of the
-capabilities for operational use that have already been
-implemented through NextGen.
-1.
-Starting in December 2009, the FAA began
-controlling air traffic over the Gulf of Mexico, an
-area of active airspace where surveillance was
-never before possible, using the satellite-based
-ar
-technology of ADS-B. For aircraft flying over the
-Gulf of Mexico, where no radar coverage is available,
-ATC can safely and more efficiently separate air
-Figure 5-7. National airspace voice switch (NVS) will replace
-traffic with the real-time visual representation of air
-existing voice switching systems with single air/ground and ground/
-traffic provided by ADS-B. It also provides pilots with
-ground voice communication systems.
-Oo
-»
-é
-.
-a.
-”
-T
-_
-.
-/
-‘
-&
-_
-“al
-:
-:
-qa
-—_—————_—
-Qa
-a”
->
-|
-ee
-Pa
-_ |
--
--
-»
-Takeoff
-Domestic/oceanic cruise
-Descent
-Taxi
-Flight planning
-Push back
-Final approach/landing
-Figure 5-8. ADS-B services provide real-time precise positioning capability to ATC and ADS-B In-equipped aircraft throughout the
-NAS, in all phases of flight operations.
-5-5
-
-Hp
-,@
-.
-Hp
-GPS satellites
-. ss
-_
-Barrow
-Kotzebue
-ad
-Fairbanks
-Iqaluit
-|
-Bethel
-a
-Anchorage
-Juneau
-——-
-Cold Bay
-A
-Goose Bay
-|
-Gander
-Winnipeg
-Auburn
-'
-Billings
-Farmington
-Nashua
-Olathe
-Ronkonkoma
-Oberlin
-Freemont
-Salt Lake
-Aurora
-Leesburg
-Longmont
-a
-a|
-Palmdale
-Memphis
-Hampton
-Fort Worth
-\
-Jacksonville
-Albuquerque
-Houston
-a
-_"
-Miami
-San Juan
-San Jose Del Cabo
->
-Merida
-Honolulu
-Puert Vallarta
-GEO satellite
-Mexico City
-Tapachula
-BEET
-Legend
-GEO satellite
-Wide-area reference station (WRS)
-New WRSs
-Wide-area master station (WMS)
-Ground uplink station
-Figure 5-9. Wide Area Augmentation System (WAAS).
-more safety benefits such as improved situational
-4.
-The Ground-Based Augmentation System (GBAS) has
-awareness (SA), near real-time weather information,
-been approved for Category I operations and the
-and additional voice communications.
-first satellite-based system has been approved for
-this category of precision approach which enables
-2.
-ADS-B services have been deployed to all 24
-instrument-based operations down to 200 feet
-modernized enroute ARTCCs and the largest
-above the surface even during reduced visibility.
-terminal radar approach control facilities in the NAS.
-[Figure 5-10] GBAS was installed at Houston, Texas
-In 2020, ADS-B will be mandatory for all aircraft in
-and Newark, New Jersey airport in 2009.
-almost all NAS controlled airspace. [Figure 5-8]
-5.
-Multilateration, a ground-based surveillance
-3.
-Satellite-based technologies, including the Wide
-technology, is being implemented to help improve
-Area Augmentation System (WAAS), are improving
-runway access. The FAA installed and is now using
-access to runways at both large and small airports.
-wide area multilateration (WAM) systems to control
-[Figure 5-9] Directions and maps have been published
-air traffic in Juneau, Alaska, and at four airports in
-for more than 500 precision-like approaches
-Colorado. This allows air traffic to be safely separated
-enabled by WAAS. Localizer performance with
-by five miles whereas before each aircraft had to clear
-vertical guidance (LPV) procedures improves
-the airspace around the airport before the next could
-access to airports in lower visibility conditions and
-enter.
-where obstacles are present. These procedures
-are particularly valuable for smaller airports used
-6.
-New runways at Chicago O’Hare, Washington
-by general aviation. There are now oer 2,300
-Dulles, and Seattle-Tacoma Airports opened in
-LPV procedures available at runways where no
-November of 2008, which are now beginning to
-instrument landing system (ILS) is present.
-have a reduction in delays.
-5-6
-
-s
-s
-GPS satellites
-s
-Ranging sources
-GBAS ground facility
--
-60OC
-GBAS reference receivers
-Pad
-ad
-Status information
-qua»
-Differential corrections, integrity data and path definition
-qua»
-a
-,
-i
-.
-a
-|
-,
-|
-Omnidirectional VHF data broadcast (VDB) signal
-Figure 5-10. Ground-Based Augmentation System (GBAS).
-Benefits of NextGen
-mitigate the impacts of the weather, and to improve
-weather forecasts and decision-making. Better forecasts,
-The implementation of NextGen will allow pilots and
-coupled with greater automation, will minimize airspace
-dispatchers to select their own direct flightpaths, rather
-limitations and traffic restrictions.
-than follow the existing Victor, Jet, and LF/MF airways.
-Each aircraft will transmit and receive precise information
-The new procedures of NextGen will improve airport
-about the time at which it and others will cross key
-surface movements, reduce spacing and separation
-points along their paths. Pilots and air traffic managers
-requirements, and better manage the overall flows into
-on the ground will have the same precise information
-and out of busy airspace, as well as provide maximum use
-transmitted via data communications.
-of busy airports. [Figure 5-11] Targeting NextGen at the
-whole of the NAS, rather than just the busiest airports,
-Major demand and capacity imbalances will be worked
-will uncover untapped capacity across the whole system.
-collaboratively between FAA air traffic managers and
-During busy traffic periods, NextGen will rely on aircraft to
-flight operations. The increased scope, volume, and
-fly precise routes into and out of many airports to increase
-widespread distribution of information by SWIM will
-throughput. For more information on NextGen, visit www.
-improve decision- making and let more civil aviation
-faa.gov/nextgen.
-authorities participate. The impact of weather on flight
-operations will be reduced through the use of improved
-Head-Up Displays (HUD)
-information sharing, new technology to sense and
-As aircraft became more sophisticated and electronic
-instrument landing systems (ILS) were developed in the
-= — i —
-=
-1930s and 1940s, it was necessary while landing in poor
-weather for one pilot to monitor the instruments to keep
-the aircraft aligned with radio beams while the second pilot
-divided time between monitoring the instruments and
-the outside environment. The pilot monitoring reported
-the runway environment in sight and the flying pilot
-—S
-=o
-———
-completed the approach visually. This is still the standard
-practice used for passenger carrying aircraft in commercial
-a
-.
-service while making ILS landings. As single-piloted aircraft
-became more complex, it became very difficult for pilots
-to focus on flying the aircraft while also monitoring a large
-Figure 5-11. NextGen improves airport surface movements, reduces
-number of navigation, flight, and systems instruments. To
-spacing and separation requirements, and better manages the
-overcome this problem, the head-up display (HUD) was
-overall flows into and out of busy airports.
-5-7
-
-Figure 5-12. Head-up guidance system (HGS).
-Figure 5-13. HGS using a holographic display.
-developed. By showing airspeed, altitude, heading, and
-aircraft attitude on the HUD glass, pilots were able to keep
-their eyes outside of the flight deck rather than have to
-continuously scan from outside to inside to view the flight
-instruments. [Figure 5-12] Collimators make the image on
-the glass appear to be far out in front of the aircraft so that
-the pilot need not change eye focus to view the relatively
-nearby HUD. Today’s head-up guidance systems (HGS)
-use holographic displays. [Figure 5-13] Everything from
-weapons status to approach information can be shown
-on current military and civilian HGS displays.
-5-8
-—
-—
-a
-|
-a
-a
-a
-|
-Figure 5-14. A synthetic vision system (SVS) is an electronic means to
-display a synthetic vision image of the external scene topography to the
-flight crew to assist during takeoffs, landings, and en route operations.
-s— A —,
-H
-36.
-—s
-:
-searreet
-SSer4h
-rae ic
-a
-“20L--
-=-4*10
+fe
 os
-oofes
--800 US
-Figure 5-15. An aircraft on an approach equipped with a SVS.
-Synthetic and Enhanced Vision Systems
-Synthetic Vision System (SVS)
-A synthetic vision system (SVS) is an electronic means
-to display a synthetic vision image of the external scene
-topography to the flight crew. [Figure 5-14] It is not a
-real-time image like that produced by an enhanced flight
-vision system (EFVS). Unlike EFVS, SVS requires a terrain
-and obstacle database, a precise navigation solution, and
-a display. The terrain image is based on the use of data
-from a digital elevation model (DEM) that is stored within
-the SVS. With SVS, the synthetic terrain/vision image is
-intended to enhance pilot awareness of spatial position
-relative to important features in all visibility conditions.
-This is particularly useful during critical phases of flight,
-
-such as takeoff, approach, and landing where important
-features such as terrain, obstacles, runways, and landmarks
-may be depicted on the SVS display. [Figure 5-15] During
-approach operations, the obvious advantages of SVS are
-that the digital terrain image remains on the pilot’s display
-regardless of how poor the visibility is outside. An SVS
-image can be displayed on either a head-down display or
-head-up display (HUD). Development efforts are currently
-underway that would combine SVS with a real-time sensor
-image produced by an EFVS. These systems will be known
-as Combined Vision Systems (CVS).
-Synthetic Vision Guidance System (SVGS)
-SVGS is a combination of flight guidance display technology
-and high precision position assurance monitors. The SVGS
-flight instrument display provides a continuous, geo-
-mn)
-Figure 5-16. Enhanced and synthetic vision displayed on primary
-flight displays.
-spatially correct, database driven, computer-generated
-synthetic depiction of the nearby topography, including
-obstacles, and a display of the landing runway. The SVGS
-display may be implemented on a head down Primary Flight
-Display, and/or a Head-Up Display (HUD). SVGS includes
-additional symbology, integrity and performance monitors
-and annunciations that enable low visibility operations.
-These additional monitors assure an accurate depiction of
-the external scene. An SVGS differs from an EFVS in that it
-does not produce a real-time image of the external scene.
-SVGS may not be used in lieu of natural vision. SVGS is
-intended to be used to increase situational awareness
-on the straight-in final approach segment of published
-instrument approaches and requires Special Authorization.
-Enhanced Flight Vision System (EFVS)
-For an in-depth discussion regarding Enhanced Flight
-Vision Systems, see Chapter 4 of this handbook as well as
-AC 90-106 (current version).
-Figure 5-18. Portable flight bag.
-= .
-; +
-oa —
-> A
-Figure 5-19. Installed flight bag.
-Combined Vision System Technology
-The FAA’s NextGen program will transform the NAS to
-accommodate a projected three-fold increase in air
-operations in the coming decade. Technological and
-systemic changes are being developed to significantly
-increase the capacity, safety, efficiency, and security of air
-operations in the NAS. The FAA will continue to evaluate,
-standardize and regulate emerging and enhanced
-technologies to ensure their safe and advantageous use
-in the NAS. One key capability envisioned to achieve these
-goals is the concept of equivalent visual operations (EVO),
-where flight operations continue irrespective of the actual
-weather conditions. One way EVO might be attained is by
-using a combined vision system (CVS) which combines
-real-time EFVS imagery with a database-derived synthetic
-rendering of surrounding terrain, obstacles, and flight
-environment, to provide a virtual visual flight depiction
-for the pilot.
-5-9
-
-Electronic Flight Bag (EFB)
-dl
-ors 128Re
-Big ontaty Not
-Uy
-‘ Weve
-The electronic flight bag (EFB) is a system for pilots or
-crewmembers that provide a variety of electronic display,
-content manipulation, and calculation capabilities.
-Sc
-Se le
-Functions include, but are not limited to, aeronautical
-charts, documents, checklists, weight & balance, fuel
-calculations, moving maps, and logbooks.
-ae
-‘Ss
-Mi
-\
-SMa
-ons
-AA
-EFB systems may manage information for use in the
-cockpit, cabin, and/or in support of ground operations
-and planning. The use of an EFB is unique to each aircraft
-operator and, depending on the type of operation, EFB use
-may require an authorization for use from the FAA issued as
-either an operations specification (OpSpec), maintenance
-specification (MSpec), or letter of authorization (LOA).
-tyeal
-SG
-OMBA
-AGE
-exert orAe
-co
-EFBs can be portable [Figure 5-18] or installed [Figure
-5-19] in the aircraft. Portable EFBs may have a provision for
-Figure 5-29. Military operations area (MOA).
-securing in the cockpit for use during all phases of flight.
-The hardware device, whether it’s an installed avionics
-display or portable commercial-off-the-shelf (COTS)
-device, commonly referred to as a portable electronic
-device (PED), is not considered to be an EFB unless the
-—<
-(
-STM
-——_
-’
-|
-270 Ny
-(PIGAMPBELL
-OP]?
-;
-1 :
-D>
-WA - 12091
-PZ
-es ~ (Soe a pe ry
-fy
-Best Mave Bayete
-me 1573
-,
-ie
-=
-_ __ em aonau
-A! TON
-uf
-fe
-go
-#3
-Nie\ {our
-_ O5acL
-|
-i
-R-3702 A-B
-SABRETARMYREOD a
-BgKoo
-1495 Soa
-BAX
-be
-en
-iO
-rspesteenceie
-Oakwood
-+
-fr ess
-™
-MUTA /a—
-=
-“Uinaa
-\
-SID
-Pe
-hi
-Figure 5-27. Restricted airspace.
-Figure 5-30. Warning area.
-eet
-Ng
-TN Cee eA rN it
-ust
-PeedReya
-hardware device hosts and actively displays either Type
-Sea
-A or B software application(s). A non-inclusive list of Type
-A and B software application examples can be found in
-appendix 1 and 2 of FAA Advisory Circular (AC) 120-76.
-ois PAaS aes Wee
-The purpose, technology, and functions for EFB use are
-Re Se es Soe bo nae
-Z
-De a ie ALLS
-rapidly evolving. New and advanced software applications
-Mies Oe
-RS BatCe
-and databases beyond traditional flight bag uses continue
-yee Smee
-Dee
-aa RE SAB 6 6sSe
-AN ede
-to be developed. The FAA has published and continues
-0 SN)
-oh
-2s
-to update EFB policy and guidance to educate and assist
-ee ss PIE Re i A
-aircraft operators interested in using or obtaining an EFB
-Figure 5-28. Prohibited airspace.
-5-10
-
-a\
-Sa
-im
-Re a
-ee?
-LA/L a
-ie
-K
-3S
-feecm pana |
-Gan al
-I NOR 8S cof
-ae gs re Me
-Sei
-Bz
-oc
-ees
-NGOS
-AMM
-j- ae
-Tf
-Ne
-eee DC
-WH ae
-os See
-= Wes,
-mf
-Mawes
-Oe ‘We
-se
-va
-Sf
-(esas oak
-CTD
-Sst aN
-cay
-ON;
 a
+_
+ab A
+Bee
 =
-Ae \ IF
-|
-a5
-ETM
-or NL 226\\ nee Ss,4
-Ai,
-f
-BO
-Tee addy OR
-lo/
-Ye
-a
-cai a (Err) pe i
-aei) /~
-\\ Seeker, &, sic Ie oe AM. a
-PE 1 Seah sere
-f
-cae
-Na i
-ee,i) aeEEO
-Figure 5-32. Temporary flight restriction (TFR).
-@camppent Ne.
-updos,
-| Aer ae
-process. Warning areas, MOAs, alert areas, and CFAs are
-Guy
-non-regulatory special use airspace. All special use airspace
-Figure 5-31. Alert area.
-descriptions (except CFAs) are contained in FAA Order JO
-7400.8, Special Use Airspace, and are charted on IFR or
-authorization as appropriate. The most current editions of
-visual charts and include the hours of operation, altitudes,
-the following FAA guidance and policy can be accessed
-and the controlling agency. [Figure 5-33]
-from the FAA’s website (http://www.faa.gov) or FAA’s
-Flight Standards Information Management System (FSIMS
-The vertical limits of special use airspace are measured
-http://fsims.faa.gov).
-by designated altitude floors and ceilings expressed as
-•
-AC 120-76, Guidelines for the Certification,
-flight levels or as feet above mean sea level (MSL). Unless
-Airworthiness, and Operational Use of Electronic
-otherwise specified, the word “to” (an altitude or flight level)
-Flight Bags;
-means “to and including” (that altitude or flight level). The
-•
-AC 91-78, Use of Class 1 or Class 2 Electronic Flight
-horizontal limits of special use airspace are measured by
-Bag (EFB);
-boundaries described by geographic coordinates or other
-appropriate references that clearly define their perimeter.
-•
-AC 20-173, Installation of Electronic Flight Bag
-The period of time during which a designation of special
-Components;
-use airspace is in effect is stated in the designation.
-•
-FAA Order 8900.1 Volume 4, Chapter 15, § 1,
-Electronic Flight Bag authorization for use; and
-Civilians Using Special Use Airspace
-•
-FAA Order 8900.1 Volume 3, Chapter 18, § 3, Part A
-The FAA and the Department of Defense (DOD) work
-Operations Specifications - General
-together to maximize the use of special use airspace
-by opening such areas to civilian traffic when they are
-Access to Special Use Airspace
-not being used by the military. The military airspace
-management system (MAMS) keeps an extensive database
-Special use airspace consists of airspace of defined
-of information on the historical use of special use airspace,
-dimensions identified by an area on the surface of the earth
-as well as schedules describing when each area is expected
-wherein activities must be confined because of their nature,
-to be active. MAMS transmits the data to the special use
-or wherein limitations are imposed upon aircraft operations
-airspace management system (SAMS), an FAA program
-that are not a part of those activities, or both. Special use
-that provides current and scheduled status information
-airspace includes: restricted airspace, prohibited airspace,
-on special use airspace to civilian users. The two systems
-Military Operations Areas (MOA), warning areas, alert areas,
-work together to ensure that the FAA and system users
-temporary flight restriction (TFR), and controlled firing
-have current information on a daily basis. This information
-areas (CFAs). [Figures 5-27 through 5-32] Prohibited and
-is available 24 hours a day at the following link: http://sua.
-restricted areas are regulatory special use airspace and
-faa.gov. The website merges information for both special
-are established in 14 CFR Part 73 through the rulemaking
-5-11
-
-SPECIAL USE AIRSPACE ON JACKSONVILLE SECTIONAL CHART
-† Other times by NOTAM.
-Unless otherwise noted are MSL and in feet.
-NOTAM – Use of this term in Restricted Areas
-Time is local. “TO” an altitude means “To and including.”
-indicates FAA and DoD NOTAM systems.
-FL – Flight Level
-Use of this term in all other Special Use areas indicates
-NO A/G – No air to ground communications.
-the DoD NOTAM system.
-Contact nearest FSS for information.
-U.S. P–PROHIBITED, R–RESTRICTED, W–WARNING, A–ALERT, MOA–MILITARY OPERATIONS AREA
-CONTROLLING AGENCY/
-NUMBER
-ALTITUDE
-TIME OF USE
-CONTACT FACILITY
-TO BUT NOT
-CONTINUOUS
-P-50
-NO A/G
-INCL 3,000
-TO BUT NOT
-INTERMITTENT
-R-2903 A
-JACKSONVILLE CNTR
-INCL 23,000
-0700-1900 TUE-SUN
-†24 HRS IN ADVANCE
-R-2903 C
-TO 7,000
-INTERMITTENT
-JACKSONVILLE TRACON
-0700-1900 TUE-SUN
-†24 HRS IN ADVANCE
-R-2903 D
-TO 5,000
-INTERMITTENT
-JACKSONVILLE TRACON
-0700-1900 TUE-SUN
-†24 HRS IN ADVANCE
-R-2904 A
-TO BUT NOT
-0800-1700 (APR-AUG)
-JACKSONVILLE TRACON
-INCL 1,800
-0800-1700 SAT-SUN (SEP-MAR)
-†24 HRS IN ADVANCE
-R-2906
-TO 14,000
-INTERMITTENT
-JACKSONVILLE TRACON
-0500-0100
-†6 HRS IN ADVANCE
-R-2907 A
-TO FL 230
-INTERMITTENT
-JACKSONVILLE CNTR
-0500-0100
-†6 HRS IN ADVANCE
-Figure 5-33. Special use airspace charted on an aeronautical chart.
-use airspace and TFR making it a single comprehensive
-Additional navigation features are included which allows
-source to review airspace closure information.
-the user to pan in any direction by dragging the cursor
-within the map. A permalink feature is also available that
-The website contains two tabbed pages, List and Map, that
-enables a user to bookmark a customized set of map layers
-display the scheduling and Notice to Airmen (NOTAM) data
-that can easily be added to their Internet browser favorites
-for SUAs, military training routes (MTRs), and TFRs. [Figure
-list. Once a specific set of customized map layers has been
-5-34] By default, the List tabbed page displays all airspace
-bookmarked, a user may open that customized map display
-types, and the Map tabbed page displays all airspace types
-using the favorites option within their browser menu. The
-apart from MTRs and ATC Assigned Airspaces (ATCAAs).
-List tabbed page allows a user to view all SUA and MTR
-Both the List and Map tabbed pages can be filtered to
-scheduling data and NOTAM text for a TFR. This text may
-display specific data for an airspace name, type, or group.
-be viewed for each NOTAM ID by expanding the NOTAM
-Groups include SUA, MTR, or TFR. The Map tabbed page
-text section within the List grid or clicking the NOTAM ID
-provides a graphical depiction of scheduled airspaces
-to open a TFR Details page. The TFR Details page displays
-that may be customized using a fly-out menu of map
-NOTAM text in a form layout for easy reading and includes
-display options. This tabbed page also contains look-up
-a mapped image and sectional navigation map if available
-functionality that allows a user to locate one or more
-for the TFR.
-airports within the map. [Figures 5-35 through 5-38]
-5-12
-FREQUENCIES
-
-S) js
-SY Special Use Airspace, Air Traffic Control Assigned Airspace & Temporary Flight Restrictions - Windows intemet Explorer
-Lol
-(QO
-ali tite:/svafaa gov/svett/steFrameapp
-=] 4] x [ISBiGoogie
-pe
-de Favorites.
-iy.)
-Get MoreAdd-ons~
-|| @ Special Use Airspace, Air Traffic Control
-|
-> Bl >
-gy
-Pager Sofetyy Tooby @y > |
-EAAHome Pilot Web
-["] Auto-Refresh
-Federal Aviation
-Administration
-Depicted Special Use Airspace (SUA), Temporary Fight Restriction TFR) and Air Traffic Control Assigned Airspace (ATCAA) data may not be complete, Picts should use this
-information for planning purposes only. Fortelatest SUA information, cal your local Fight Service Station at 1-£00-WX-BREF. Information concerning ATCAA airspacecan be
-‘obtained from the associated Air Route Traffic Control Center.
-!
-‘Welcome to the public preview release of the Federal Aviation Administration (FAA) merged Special Use Airspace (SUA) and Temporary
-Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements
-are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including
-new features and known issues, are available within the SUA TER v3.0 Release Notes at the following link SUA TER v3.0
-Notes.
-Release
-View FAA Order JO 7400.8
-B
-ist |) map
-i
-omy
-Se
-%
-Si
-=
-Ss
-:
-jl
-<
-ive
-+
-i
-es
-i
-=
-aE
-Z
-~
-ica
-ore
-“>
-> NS
-Wied
-e
-Ke
-a
-~
-of a
-<
-:
-:
-\Wt ay23
-°
-a
-|
-exe
-= Be
+-—
 .
-*.
-|
-.
-e
-9302223, 37.0083
-Fi Map as of Nov 22, 2010 16:33 (2)
-(mare
-FA mE,
-CA]
-e
-=
-P|
-(© Political/State Boundary
-Water
-= Contr
-@ City”
-7 Airport
-© Waypoint
-F Mapped Airport
-Federal Aviation Administration
-|
-@00 Independence Avanue, SW
-|
-Washington DC, 20591
-!
-Help Desk; Hours of Operation 8:00am = 4:30pm, EST, Monday - Friday, Phone: 703-326-3755, Fax: 703-226-2896,
-Protected Mode: Offay MR OD%
-@ internet
-Figure 5-34. FAA website providing information for both special use airspace and temporary flight restrictions.
-5-13
-
-@Special Use Airspace, Air Traffic Control Assigned Airspace
-=
-pmmeargd
-ia. tooo
-|=) aS)
-& Temporary Flight Restrictions
-- Windows Intemet Explorer
-(=) beta
-QEal
-tito:/svefaa.gov/svati/steFrameapp
-=] 3] #4] x ||SBiccosie
-pe
-dy Favorites
-iy. @) Get MoreAdd-ons»
-|
-| @ Special Use Airspace,
-Air Traffic Control Assigned...| |
-ht Bl ~~ Roger Sofety~ Took @r |)
-EAAHHome Pilot Web [F] Auto-Refresh
-“
-May)
-Federal Aviation
-B)
-Administration
-]
-|
-Depicted Special Use Arspace (SUA), Temporary Fight Restriction (TFR) and Ai Traffic Conrol Assigned Arspace (ATCAMA) data may not be complete, Plots should use this
-information fr planning purposes only. Forte latest SUA information, cal your local Fight Service Station at 1-200-WX-BREF,
-Information conceming ATCAA airspace can be
-obtained trom he associated At Route Tratfe Control Center
-Welcome to the public preview release of the Federal Aviation Administration (FAA) merged Special Use Airspace (SUA) and Temporary
-Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements
-are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including
-new features and known issues, are available within the SUA TR v3.0 Release Notes at the following link SUA TER v3.0 Release Notes.
-View FAA OrderJO 7400:8
-yy
-ist |) map
-oy
-rma
-= -
-x
-SS
-@zA0 - Atbuqueraue Contor
-+
-pa
-va
-ZAN — Anchorage
-Cont
-sea |
-scateee ama
-Te
-FPP,
-0200 borten conte
-+
-|
-Zu
-Ls
-=
-‘
-@Z0¥ - Denver Contor
-fe
-Vs
-Ree
-A
-i
-@zEW
-Font Wort
-Contes
-=
-a
-\
->
-©2700
-Gran CERA
-i
-=
-t+
-@2HN - Honolulu Contor
-€
-Pcie
-LE:
-CMe,
-O20 - Houston conter
-ie
-erat
-ace
-@Z10 - Indianapotis Contor
-a=)
-i
-Fi
-© 2X - Jacksonville Conter
-\
-‘a
-hoo
-rs
-@ZKC - Kansas City Contor
-;
-@2LA-
-Los Angolor Contor
-=
-Peery
-@ZME—Momphie Conter
-@2MP - Minneapolis Center
-{
-at
-@ZNY- Now York Contor
-)
-;
-@Z0A - Oakland Contor
-© 208
--Clovolond Conter
-@25E - Seattle Contor
-@ 250 - San Juan Center
-@211
-- Atianta conter
-£00 im.
-=~
-x
-ay
-*
-mi
-bemalis |
--980.19202, 1227898
-J
-=
-= PoliticavState Boundary
-Water
-= Center
-© City
-"7 Alport
-Waypoint
-‘F Mapped Airport
-Federal Aviation Administration
-|
-800 Independence Avenue, SW
-|
-Washington DC, 20591
-Help Desk:
-Hours of Operation 8:00am = 4:30pm, EST, Monday
-- Friday, Phone: 703-226-3753, Fax: 702-226-2896
-@ Internet| Protected Mode:Off
-far R10% +
-Figure 5-35. Center locations and information available to pilots through the FAA website.
-5-14
-
-—
-G Special Use Airspace, Air Traffic Control Assigned Airspace & Temporary Fight Restrictions - Windows InternetExplorer
-(@ 29> DE PS
-a
-es Py
-Ss
-SS
-le Favorites
-Gly.) Get More Add-ons~
-||
-@ Special Use Airspace, Air Trafic Control Assigned...
-fh + Gl ~ Si aby Peger Sofety~ Took @>
-” |)
-)
-:
-EAAHome
-Pilot Web
-[F] Auto-Retresh
-Mex)
-Federal Aviation
-Keaggy
-8)
-Administration
-Depicted Special Use Arspace (SUA), Temporary Fight Restriction (TFR) and Air Traffic Control Assigned Arspace (ATCAA) data may nol be complet. Pibts should use this
-information for planning purposes only. For the atest SUA information, cal your local Fight Senice Staton at 1-200-W0X-BREF,
-Information concerning ATCAA aicspace can be
-ptaned from the assocated Air Route Traffic Control Center.
-Welcome to the public preview release of the Federal Aviation Administration (FAA) merged Special Use Airspace (SUA) and Temporary
-Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements
-are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including
-new features and known issues, are available within the SUA TER v3.0 Release Notes at the following link SUA TER v3.0 Release Notes.
-View FAA Order JO 7400.8
-%
-ist || map
-as
-Ser
-——.
-.
-i
-we —eO
-=
-ny
-¥
-¢
-a
-a
-=
-@dtasks
-Alabama
-@Webraske
-Montana
-+
-me
-4]
-au
-Me
-W california
-Ig iter Sarees
-i
-‘
-\
-Oconnesticet
-Oe York
-=
-=
-— iTne
-@ Worth Corotina
-=
-see Ran ee
-@diswier of columbia
-@North Dakota
-x
-he
-BE
-2%
-@Flovide
-@onio
-pe
-f
-SE
-@ce019i
-@Okiahoma
-\
-f
-@cum
-@ Ore500
-(
-i
-@iteraii
-@Pennsyivania
-x
-@taene
-@rverte Rico
-ib
-@itineis
-@ Rhode tsiand
-i
-‘
-.
-@indione
-@South Caroline
-+
-“
-@ lowe
-@ South Dakota
-@ kentucky
-Otex:
-@leuisiane
-Quen
-@Maine
-@ Vormont
-@Marjions
-@ Virginia
-@Maseachusotts
-@ washington
-@Michigan
-QWost Virginia
-Surcsps
-Seon
-za
-Ovissousi
-Map as of: Nov 22, 2010 16:33 (2)
-—
-ee Tt
-}
-i
-=
-=
-(cota
-~
-© Polticalstate Boundary
-Water
-= Conter
-© Giy
-% Airport
-@ Waypoint
-Mapped Airport
-Federal Aviation Administration
-|
-800 Independence Avenue, SW
-|
-Washington DC, 20581
-Melp Desk:
-Hours of Operation 8:00am = 4:30pm, EST, Monday
-~ Friday, Phone: 703-226-3755, Fax: 702+326+2896
-| Protected Mode: Off
-fa x 410% ©
-@ Internet
-Figure 5-36. State information available to pilots through the FAA website.
-5-15
-
-G Special Use Airspace, Air Traffic Control Assigned Airspace & Temporary Flight Restrictions - Windows Internet Explorer
-.
-=
-(Qeaol
-titp://su2ste0.gov/suettr/steFrameapp
-=] 8] 47] x | |Bccoste
-pe
-be Favorites
-GiB) Get More Add-ons+
-||
-@ Special Use Airspace, Air Traffic Control Assigned.
-Sh + Bl
-Sm ~ Poger Seley Tooke @r |)
-EAAHome
-Pilot Web
-[F] Auto-Reresh
-:
-Mx)
-Federal Aviation
-*)
-fy
-Administration
-Depicted Special Use Airspace (SUA), Temporary Flight Restriction (TFR) and Air Traffic Control Assigned Airspace (ATCAA) data may not be complete.
-Pilots should use this.
-information fr planning purpases only. For the atest SUA information, cal your local Fight Service Station at 1-200-WX-BREF. Information concern ATCAA airspace can be
-obtained trom he associated Air Route Traffic Control Center
-Welcome to the public preview release of the Federal Aviation Administration (FAA) merged Special Use Airspace (SUA) and Temporary
-Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements
-are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including
-new features and known issues, are available within the SUA TFR v3.0 Release Notes at the following link SUA TER v3.0
-Notes.
-Release
-View FAA Order JO 7400.8
-[Reset
-B
-ist |) map
-—,
-;
--
-|
-:
-eo ae
-;
-=
-=e
-SS
-a+
-Se
-Ana
-eI
-=
-iota}
-Ban sua
-Baume
-autre
-|
-¢
-a
-Bbarcan
-Biinstiamont Route
-Eispaco Fiignt
-=
-\ ee
-Eisorial Rotuoting
-sion Route
-HdAir Show/Sports Event
-3]
-i
-Route
-[Visual Route
-| Einecerae
-=
-bd
-BAtort
-AHI Disastors
-=
-r
-moe
-| Hisecutity
-ese
 S
-Bother
-Eisearch ana
-EiProhibitea
-Renaael
-t
-EiRostricted
-spociat
-?
-EXWerning
-gvir
->
-Map Layor Types (us0 checkboxes to show or hide Map Layer Types)
-BiLstiiong Gus
-Hiway Points
-fe
-2»
-Eicontors
-Hicities
-Disabled layers not
-Bisons
-in current scale.
-Altitude Types (ure checkboxes to show or hide Altitude Typer)
-Hsurtace - 10,000 mat
-| [lfFt290 - FL240
-10,000 ma -47,999 | [MFias0 - Fico
-mst
-Eirttoo - Ft2e0
-Activation Types (exe checkboxes to show or hide Activation Types)
-00m
-ELS Active
-2h - 4b
-IE Not
-ee
-Ea an -2n
-Scheduled
-se
-Ein -2n
-Ii on -24n
-Map as of: Nov 22, 2010 16:33 (Z)
-Me | F}
-a
-Lvpate
-a rf &
-FA |
-|
-© PoliticalState Boundary
-lat
-[con
-~
-Water
-= Center
-©
-city
-3 Airport
-© Waypoint
-Mapped Airport
-Federal Aviation Administration
-|
-@00 Independence Avanue, SW
-|
-Washington OC, 20591
-Help Desk: Hours of Operation 8:00am = 4:30pm, EST, Monday - Friday, Phone: 703-326-3755, Fax: 703-226-2896,
-| Protected Mode: Off
-fq y
-%100% ~
-@ Intemet
-Figure 5-37. Map layer options and information available to pilots through the FAA website.
-5-16
-
-SN Special Use Airspace, Air Traffic Control Assigned Airspace & Temporary Flight Restrictions - Windows intemet Explorer
-bo |S) (easy
-ey
-i ae
-Igy
-exo
-OO©
-[Ei te auatengov/svatiiskeFrameape
-=] B41 x]
-[SB Goosie
-pe
-ly Favorites
-Gly.) Get More Add-ons~
-| @ Special Use Airspace,
-Ai Traffic Control Assigned.. |_|
-G+ Bl ~ 2 dh ~ Pager Sofetyy Tooky @y ”
-EAAHome Pilot Web [] Auto-Refresh
-PAA)
-Federal Aviation
->
-f)
-Administration
-Depicted Special Use Arspace (SUA), Temporary Fight Restriction (TFR) and Ai Traffic Control Assigned Arspace (ATCAMA) data may not be complet. Plots should use this
-informaton for planning purposes only, Forte atest SUA information, call your local Fight Service Staion at 1-800-WWX-BREF
-Information concerning ATCAA airspace can be
-obtained from the assocated Air Route Traffic Control Center.
-Welcome to the public preview releaseof the Federal Aviation Administration (FAA) merged Special Use Airspace (SUA) and Temporary
-Flight Restriction (TFR) Web site, a single comprehensive source to review airspace closure information. Comments and enhancements
-are welcomed from the communities of interest; contact Milops Helpdesk in the AIM office. More details regarding this release, including
-new features and known issues, are available within the SUA TER v3.0 Release Notes at the following link SUA TER v3.0 Release Notes.
-View FAA Order JO 7400.8
-B
-iist | map
-.%.
-ease
-oe ae
-i
-+5
-“SS
-:
-+
-eels
-es
-&
-=
-Sis
-ES
-mW
-a
-ae
-“4
-“
-a
-r
-pete
+Ls
+BO
+@ir re,
+alo Bol
 =i
-“aa
-oS)
-|
-eet
-WwW
-“
-\
-m
-Tis
+BE
 =
-|
+So
+my
+mE
+ene
+a
+= ook ma
+—__ i
 =
-=)
-eh
-Pr
-Cav |
-|
-a
-Pore
-eS
-eee
-;
-)
-Sey
-PE
-OF eee
-a
-"
-A
-SS
-Fe
-eZ
-/
-am
-Z
-¢
-i
-EI
-Wt Wy
-a
-5.
+9 ===
 an
-“
 |
-£00 km
-*
-|
-mi
-;
-/
-|
-hematin
-é
-~144,09068, $2.20987
-|
-Prin
-r
-|
-lf
-r
-leak
-~
-= Political'State Boundary
-Water
-= Contr
-=
-@ City
-7 Airport
-© Waypoint
-‘J Mapped Airport
-Federal Aviation Administration
-|
-200 Independence Avenue, SW
-|
-Washington DC, 20551
-Help Dask:
-Hours of Operation 8:00am ~ 4:30pm, EST, Monday ~ Friday, Phone: 703-226-2755, Fax: 703-326-2896
-~ |
-@ internet | Protected Mode: Off
-fay Rlo%
-Figure 5-38. Airport information available to pilots through the FAA website.
-5-17
+a
+Figure 6-1. Area navigation (RNAV) receivers.
+The capabilities of airborne navigation databases depend
+processed by the avionics manufacturer. Vital to this
+largely on the way they are implemented by the avionics
+discussion is understanding of the regulations guiding
+manufacturers. They can provide data about a large
+database maintenance and use.
+variety of locations, routes, and airspace segments for use
+by many different types of RNAV equipment. Databases
+There are many different types of RNAV systems certified
+can provide pilots with information regarding airports,
+for instrument flight rules (IFR) use in the National Airspace
+air traffic control (ATC) frequencies, runways, and special
+System (NAS). The two most prevalent types are GPS and
+use airspace. Without airborne navigation databases,
+the multisensory FMS. [Figure 6-2] A modern GPS unit
+RNAV would be extremely limited. In order to understand
+accurately provides the pilot with the aircraft’s present
+the capabilities and limitations of airborne navigation
+position; however, it must use an airborne navigation
+databases, pilots must understand the way databases
+database to determine its direction or distance from
+are compiled and revised by the database provider and
+another location. The database provides the GPS with
+6-2
 
-5-18
+position information for navigation fixes so it may perform
+the required geodetic calculations to determine the
+The display allows you to view information stored in the FMS.
+6-3 |
+appropriate tracks, headings, and distances to be flown.
+[Figure 6-3]
+. nm
+RNG
+PROC
+CRSR
+DTK
+Modern FMS are capable of a large number of functions
+-
+,
+TK
+MENU
+PUSH ON
+LEG
+BRT
+including basic en route navigation, complex departure
+APT 1
+VOR NDB INT USR ACT NAV FPL SET AUX
+and arrival navigation, fuel planning, and precise vertical
+D
+MSG
+OBS
+ALT
+NRST
+CLR
+ENT
+PULL SCAN
+|
+navigation. Unlike stand-alone navigation systems, most
+FMS/
+FMS use several navigation inputs. Typically, they formulate
+RANGE
+NAV-COM
+&
+Oo
+*
+PFD
+MENU
+−
++
+the aircraft’s current position using a combination of
+J
+iF
+FPL
+PROC
+Controls such as
+PUSH CRSR/PUSH 1-2
+PUSH
+PAN
+conventional distance measuring equipment (DME) signals,
+buttons and knobs
+—
+—
+PFD
+MFD
+A
+B
+C
+D
+inertial navigation systems (INS), GPS receivers, or other
+allow you to make
+&
+&
+E
+F
+G
+H
+entries into the FMS.
+EMERG
+RNAV devices. Like stand-alone navigation avionics, they
+&§
+&§
+NAV
+COM
+I
+J
+K
+L
+rely heavily on airborne navigation databases to provide
+=
+=
+M
+N
+O
+P
+—
+—
+the information needed to perform their numerous
+Q
+R
+S
+T
+&
+&
+U
+V
+W
+X
+functions.
+=
+=
+Y
+Z
+SPC
+BKSP
+−
++
+DFLT MAP
+SOFTKEY SELECT
+Airborne Navigation Database Standardization
+—
+—
+SEL
+CLR
+ENT
+Beginning in the 1970s, the requirement for airborne
+navigation databases became more critical. In 1973,
+Figure 6-2. GPS with a flight route on display.
+GARMIN
+ae
+VOL
+ag
+Modified
+:
+_——{Modify|—
+===
+(MAB
+Pwr”
+com
+721.600 KSQL > 027
+—
+KSQL
+==)
+Be
+BRG 060°
+ie
+SUNOL
+21.74 [> Wet
+|
+:
+XPDR
+ane16.00"
+discontinuity
+Seesnracty
+eS
+[=Arwy]
+This FMS allows you to insert
+—
+21.72 LE ArWwy'|
+an entire airway into your route.
+cpt
+|
+No Active Leg
+FPL
+INFO
+w
+‘Toaral
+Fj
+| BACK]| EXEC ||XPND.
+ENTER
+\ &
+susP @
+FN
+a
+a
+az
+a
+CRSR
+po cum] V195 + ECA
+Viosle
+The navigation database looks up
+ee
+all of the airways that connect to
+sm [va07]
+-
+the previous waypoint in the route.
+I
+"
+fs
+N
+[334
+;
+Modified
+a
+io
+i ae
+SUNOL
+21.7%
+|
+* ECA:
+The software performs a
+V195
+BACK]
+FPL Um TRACY
+40.08,
+database search for all of the
+-
+'BRG 060°
+airways, causing all waypoints
+SHARR.
+#9Gi
+along the airway to be inserted
+ECA,
+55.0m
+into the route.
+|
+No Active Leg
+FPL
+BACK] EXEC | XPND
+Figure 6-3. FMS display.
+
+National Airlines installed the Collins ANS-70 and AINS­
+70 RNAV systems in their DC-10 fleet, which marked the
+first commercial use of avionics that required navigation
+databases. A short time later, Delta Air Lines implemented
+the use of an ARMA Corporation RNAV system that also
+used a navigation database. Although the type of data
+stored in the two systems was basically identical, the
+designers created the databases to solve the individual
+problems of each system, which meant that they were not
+interchangeable. As the implementation of RNAV systems
+expanded, a world standard for airborne navigation
+databases was needed.
+In 1973, Aeronautical Radio, Inc. (ARINC) sponsored the
+formation of a committee to standardize aeronautical
+databases. In 1975, the committee published the first
+standard, ARINC Specification 424, which has remained the
+worldwide accepted format for transmission of navigation
+databases.
+ARINC 424
+ARINC 424 is the air transport industry’s recommended
+standard for the preparation and transmission of data for
+the assembly of airborne system navigation databases. The
+data is intended for merging with the aircraft navigation
+system software to provide a source of navigation
+reference. Each subsequent version of ARINC 424
+Specification provides additional capability for navigation
+systems to utilize. Merging of ARINC 424 data with each
+manufacturer’s system software is unique and ARINC 424
+leg types provide vertical guidance and ground track for
+a specific flight procedure. These leg types must provide
+repeatable flight tracks for the procedure design. The
+navigation database leg type is the path and terminator
+concept.
+ARINC 424 Specification describes 23 leg types by their path
+and terminator. The path describes how the aircraft gets to
+the terminator by flying direct (a heading, a track, a course,
+etc.). The terminator is the event or condition that causes
+the navigation computer system to switch to the next leg (a
+fix, an altitude, an intercept, etc.). When a flight procedure
+instructs the pilot to fly runway heading to 2000 feet then
+direct to a fix, this is the path and terminator concept. The
+path is the heading and the terminator is 2000 feet. The
+next leg is then automatically sequenced. A series of leg
+types are coded into a navigation database to make a flight
+procedure. The navigation database allows an FMS or GPS
+navigator to create a continuous display of navigational
+data, thus enabling an aircraft to be flown along a specific
+route. Vertical navigation can also be coded.
+6-4
+The data included in an airborne navigation database is
+organized into ARINC 424 records. These records are strings
+of characters that make up complex descriptions of each
+navigation entity. ARINC records can be sorted into four
+general groups: fix records, simple route records, complex
+route records, and miscellaneous records. Although it is not
+important for pilots to have in-depth knowledge of all the
+fields contained in the ARINC 424 records, pilots should be
+aware of the types of records contained in the navigation
+database and their general content.
+Fix Records
+Database records that describe specific locations on the
+face of the earth can be considered fix records. Navigational
+aids (NAVAIDs), waypoints, intersections, and airports are
+all examples of this type of record. These records can be
+used directly by avionics systems and can be included as
+parts of more complex records like airways or approaches.
+Another concept pilots should understand relates to how
+aircraft make turns over navigation fixes. Fixes can be
+designated as fly-over or fly-by, depending on how they
+are used in a specific route. [Figure 6-4] Under certain
+circumstances, a navigation fix is designated as fly-over.
+This simply means that the aircraft must actually pass
+directly over the fix before initiating a turn to a new course.
+Conversely, a fix may be designated fly-by, allowing an
+aircraft’s navigation system to use its turn anticipation
+feature, which ensures that the proper radius of turn is
+commanded to avoid overshooting the new course. Some
+RNAV systems are not programmed to fully use this feature.
+It is important to remember a fix can be coded as fly-over
+and fly-by in the same procedure, depending on how the
+fix is used (i.e., holding at an initial approach fix). RNAV or
+GPS stand-alone IAPs are flown using data pertaining to
+the particular IAP obtained from an onboard database
+to include the sequence of all waypoints used for the
+approach and missed approach, except that step down
+waypoints may not be included in some TSO-C129 receiver
+databases. Included in the database, in most receivers, is
+coding that informs the navigation system of which WPs
+are fly-over or fly-by. The navigation system may provide
+guidance appropriately to include leading the turn prior
+to a fly-by waypoint; or causing over flight of a fly-over
+waypoint. Where the navigation system does not provide
+such guidance, the pilot must accomplish the turn lead or
+waypoint over flight manually. Chart symbology for the fly­
+by waypoint provides pilot awareness of expected actions.
+Simple Route Records
+Route records are those that describe a flightpath
+instead of a fixed position. Simple route records contain
+
+6-5 =
+'
+a
+@&
+7a
+Fly-over
+"|
+a
+_
+a
+a
+.
+_
+()
+f
+~~
+~~
+Fly-by
+~~
+~~
+Waypoint
+Waypoint
+Flight plan path
+Aircraft track
+Figure 6-4. Fly-by-waypoints and fly-over-waypoints.
+strings of fix records and information pertaining to how
+coding of terminal area procedures, SIDs, STARs, and
+the fixes should be used by the navigation avionics.
+approach procedures. Simply put, a textual description of
+a route or a terminal procedure is translated into a format
+that is useable in RNAV systems. One of the most important
+A Victor Airway, for example, is described in the database by
+concepts for pilots to learn regarding the limitations of
+a series of en route airway records that contain the names
+RNAV equipment has to do with the way these systems
+of fixes in the airway and information about how those
+deal with the path and terminator field included in complex
+fixes make up the airway.
+route records.
+Complex Route Records
+The first RNAV systems were capable of only one type of
+Complex route records include those strings of fixes that
+navigation; they could fly directly to a fix. This was not a
+describe complex flightpaths like standard instrument
+problem when operating in the en route environment
+departures (SIDs), standard terminal arrival routes (STARs),
+in which airways are mostly made up of direct routes
+and instrument approach procedures (IAPs). Like simple
+between fixes. The early approaches for RNAV did not
+routes, these records contain the names of fixes to be
+present problems for these systems and the databases
+used in the route, as well as instructions on how the route
+they used because they consisted mainly of DME/DME
+is flown.
+overlay approaches flown only direct point-to-point
+navigation. The desire for RNAV equipment to have the
+Miscellaneous Records
+ability to follow more complicated flightpaths necessitated
+There are several other types of information that is coded
+the development of the path and terminator field that is
+into airborne navigation databases, most of which deal
+included in complex route records.
+with airspace or communications. The receiver may contain
+Path and Terminator Legs
+additional information, such as restricted airspace, airport
+minimum safe altitudes, and grid minimum off route
+There are currently 23 different leg types, or path and
+altitudes (MORAs).
+terminators that have been created in the ARINC 424
+standard that enable RNAV systems to follow the complex
+Path and Terminator Concept
+paths that make up instrument departures, arrivals, and
+The path and terminator concept is a means to permit
+approaches. They describe to navigation avionics a path
+
+to be followed and the criteria that must be met before
+the path concludes and the next path begins. Although
+there are 23 leg types available, none of the manufactured
+database equipment is capable of using all of the leg types.
+Pilots must continue to monitor procedures for accuracy
+and not rely solely on the information that the database
+is showing. If the RNAV system does not have the leg type
+Figure 6-5. Initial fix.
+demanded by procedures, data packers have to select one
+or a combination of available lleg types to give the best
+approximation, which can result in an incorrect execution
+of the procedure. Below is a list of the 23 leg types and
+their uses that may or may not be used by all databases.
+TF LEG
+Figure 6-6. Track to a fix leg type.
+•
+Initial fix or IF leg—defines a database fix as a point
+in space and is only required to define the beginning
+of a route or procedure. [Figure 6-5]
+•
+Track to a fix or TF leg—defines a great circle track
+over the ground between two known database
+fixes and the preferred method for specification of
+straight legs (course or heading can be mentioned
+on charts but designer should ensure TF leg is used
+for coding). [Figure 6-6]
+•
+Constant radius arc or RF leg—defines a constant
+radius turn between two databases fixes, lines
+tangent to the arc, and a center fix. [Figure 6-7]
+•
+Course to a fix or CF leg—defines a specified course
+to a specific database fix. Whenever possible, TF legs
+6-6
+G
+Next
+LE
+segment
+F
+R
+ARC
+CENTER
+FIX
+segment
+Previous
+Figure 6-7. Constant radius arc or RF leg.
+CF LEG
+080°
+Course is flown making adjustment for wind
+Figure 6-8. Course to a fix or CF leg.
+Unspecified position
+DF LEG
+Figure 6-9. Direct to a fix or DF leg.
+Unspecified position
+FA LEG
+080°
+8,000'
+FA leg is flown making adjustment for wind
+Figure 6-10. Fix to an altitude or FA leg.
+
+should be used instead of CF legs to avoid magnetic
+database fix until manual termination of the leg.
+variation issues. [Figure 6-8]
+[Figure 6-13]
+•
+Direct to a fix or DF leg—defines an unspecified track
+•
+Course to an altitude or CA leg—defines a specified
+starting from an undefined position to a specified
+course to a specific altitude at an unspecified
+fix. [Figure 6-9]
+position. [Figure 6-14]
+•
+Fix to an altitude or FA leg—defines a specified track
+•
+Course to a DME distance or CD leg—defines a
+Unspecified position
+090°
+FC LEG
+CA LEG
+080°
+9 NM
+9,000'
+Course is flown making adjustment for wind
+Figure 6-11. Track from a fix from a distance or FC leg.
+Figure 6-14. Course to an altitude or CA leg.
+080°
+D 10
+FD LEG
+D 10
+090°
+CD LEG
+Figure 6-12. Track from a fix to a DME distance or FD leg.
+Figure 6-15. Course to a DME distance of CD leg.
+Manual
+termination
+080°
+FM LEG
+Next leg
+070°
+090°
+FM leg is flown making adjustment for wind
+CI LEG
+Figure 6-13. From a fix to a manual termination or FM leg.
+Figure 6-16. Course to an intercept or CI leg.
+over the ground from a database fix to a specified
+altitude at an unspecified position. [Figure 6-10]
+•
+Track from a fix from a distance or FC leg—defines
+a specified track over the ground from a database
+120°
+CR LEG
+fix for a specific distance. [Figure 6-11]
+170°
+•
+Track from a fix to a distance measuring equipment
+(DME) distance or FD leg—defines a specified track
+over the ground from a database fix to a specific
+DME distance that is from a specific database DME
+NAVAID. [Figure 6-12]
+•
+From a fix to a manual termination or FM leg—
+Figure 6-17. Course to a radial termination or CR leg.
+defines a specified track over the ground from a
+6-7
+
+specified course to a specific DME distance that is
+defines a specified heading to a specific altitude
+from a specific database DME NAVAID. [Figure 6-15]
+termination at an unspecified position. [Figure 6-19]
+•
+Course to an intercept or CI leg—defines a specified
+•
+Heading to a DME distance termination or VD
+course to intercept a subsequent leg. [Figure 6-16]
+leg—defines a specified heading terminating at a
+specified DME distance from a specific database
+•
+Course to a radial termination or CR leg—defines a
+DME NAVAID. [Figure 6-20]
+course to a specified radial from a specific database
+VOR NAVAID. [Figure 6-17]
+•
+Heading to an intercept or VI leg—defines a
+specified heading to intercept the subsequent leg
+at an unspecified position. [Figure 6-21]
+Next leg
+070°
+G
+LE
+090°
+D10
+F
+A
+VI LEG
+Figure 6-21. Heading to an intercept or VI leg.
+Boundary radial
+245°
+070°
+Manual termination
+VM LEG
+Figure 6-18. Arc to a fix or AF leg.
+No correction made for wind
+Unspecified position
+Figure 6-22. Heading to a manual termination or VM leg.
+090°
+•
+Heading to a manual termination or VM leg—
+VA LEG
+defines a specified heading until a manual
+termination. [Figure 6-22]
+8,000'
+•
+Heading to a radial termination or VR leg—defines a
+No correction made for wind
+specified heading to a specified radial from a specific
+Figure 6-19. Heading to an altitude termination or VA leg.
+•
+Arc to a fix or AF leg—defines a track over the ground
+120°
+at a specified constant distance from a database
+VR LEG
+DME NAVAID. [Figure 6-18]
+170°
+•
+Heading to an altitude termination or VA leg—
+D 10
+Figure 6-23. Heading to a radial termination or VR leg.
+090°
+VD LEG
+Figure 6-20. Heading to a DME distance termination or VD leg.
+6-8
+
+field for the first leg of the departure route. This path and
+terminator tells the avionics to provide course guidance
+based on heading, until the aircraft reaches 6,000 feet,
+018°
+and then the system begins providing course guidance
+for the next leg. After reaching 6,000 feet, the procedure
+PI
+calls for a right turn direct to the Grand Junction (JNC)
+VORTAC. This leg is coded into the database using the path
+063°
+and terminator direct to a fix (DF) value, which defines an
+unspecified track starting from an undefined position to a
+specific database fix.
+Another commonly used path and terminator value is
+Figure 6-24. Procedure turn or PI leg.
+heading to a radial (VR) which is shown in Figure 6-27
+database VOR NAVAID. [Figure 6-23]
+using the CHANNEL ONE DEPARTURE procedure for Santa
+•
+Procedure turn or PI leg—defines a course reversal
+Ana, California. The first leg of the runway 19L/R procedure
+starting at a specific database fix and includes
+requires a climb on runway heading until crossing the I-SNA
+outbound leg followed by a left or right turn and
+1 DME fix or the SLI R-118, this leg must be coded into the
+180° course reversal to intercept the next leg. [Figure
+database using the VR value in the Path and Terminator
+6-24]
+field. After crossing the I-SNA 1 DME fix or the SLI R-118, the
+avionics should cycle to the next leg of the procedure that
+•
+Racetrack course reversal or altitude termination
+in this case, is a climb on a heading of 175° until crossing SLI
+(HA), single circuit terminating at the fix (base turn)
+R-132. This leg is also coded with a VR Path and Terminator.
+(HF), or manual termination (HM) leg types—define
+The next leg of the procedure consists of a heading of 200°
+racetrack pattern or course reversals at a specified
+until intercepting the SXC R-084. In order for the avionics to
+database fix. [Figure 6-25]
+correctly process this leg, the database record must include
+the heading to an intercept (VI) value in the Path and
+Terminator field. This value directs the avionics to follow
+HA, HF, HM
+a specified heading to intercept the subsequent leg at an
+076°
+unspecified position.
+The path and terminator concept is a very important part
+of airborne navigation database coding. In general, it is not
+Previous leg
+necessary for pilots to have an in-depth knowledge of the
+HA - Terminates at an altitude
+ARINC coding standards; however, pilots should be familiar
+HF - Terminates at the fix after one orbit
+with the concepts related to coding in order to understand
+HM - Manually terminated
+the limitations of specific RNAV systems that use databases.
+Figure 6-25. Racetrack course reversal or HA, HF, and HM leg.
+Path and Terminator Limitations
+How a specific RNAV system deals with Path and
+The GRAND JUNCTION FIVE DEPARTURE for Grand Junction
+Terminators is of great importance to pilots operating
+Regional in Grand Junction, Colorado, provides a good
+with airborne navigation databases. Some early RNAV
+example of different types of path and terminator legs
+systems may ignore this field completely. The ILS or LOC/
+used. [Figure 6-26] When this procedure is coded into the
+DME RWY 3 approach at Durango, Colorado, provides an
+navigation database, the person entering the data into the
+example of problems that may arise from the lack of path
+records must identify the individual legs of the flightpath
+and terminator capability in RNAV systems. Although
+and then determine which type of terminator should be
+approaches of this type are authorized only for sufficiently
+used.
+equipped RNAV systems, it is possible that a pilot may elect
+to fly the approach with conventional navigation, and then
+The first leg of the departure for Runway 11 is a climb
+re-engage RNAV during a missed approach. If this missed
+via runway heading to 6,000 feet mean sea level (MSL)
+approach is flown using an RNAV system that does not use
+and then a climbing right turn direct to a fix. When this is
+Path and terminator values or the wrong leg types, then
+entered into the database, a heading to an altitude (VA)
+the system will most likely ignore the first two legs of the
+value must be entered into the record’s path and terminator
+procedure. This will cause the RNAV equipment to direct
+6-9
+
+(UNC5.JNC) 10322
+GRAND JUNCTION RGNL (GJT)
+GRAND JUNCTION FIVE DEPARTURE
+_s.e34 (Fas)
+GRAND JUNCTION, COLORADO
+ATIS
+118.55
+CLNC DEL
+§,
+1217 2878
+y s
+By oae ON wee
+rasiS
+GND
+yy
+7RAND JU
+ER
+N97 317.4
+DEP CON *
+feria
+DENVER
+& 7 wi08er3.33"
+UNICOM 122.95
+ny
+Ss
+ow
+pe
+act
+=
+o
+/
+RED TABLE
+fi
+113.0 DBL S43;
+3) OT 25)
+y000, SPACES |Chon 77
+—960
+3909.95),
+aap)
+ee
+$000")
+ye
+082"
+a
+GRAND JUNCTION
+i aeB0
+-
+ENS,
+(43)
+g
+1i24INC Epa>
+Vy
+Pins, ‘te
+DIRDY
+o
+me
+‘chon 71
+m0
+Nae"5s80 |
+e
+0g,
+wio730.91" | &
+Ly
++
+&
+@
+g
+|
+TAKE-OFF OBSTACLE NOTE
+Y
+3 | Rwy 11: Tree 192’ from DER, 438" left of centerline,
+100’ AGL/4949 MSL.
+=
+& | TAKE-OFF MINIMUMS
+Nissi
+g
+3 | Rwy 4: NA- Obstacles.
+wi08"17.36"
+B
+| Rwy 22: NA- Obstacles, facility receplion (INC VOR/DME).
+SAL
+3 | Rwy 11: Standard with o minimdng climb of 300’ per NM to 9300.
+AS,
+=
+& | Rwy 29: Standard with a’minimum climb of 300’ per NM to 8300.
+Rs,
+=
+NOTE: Rwy 11, cross DER at orabove 35” AGL/4893 MSL.
+i fe
+NOTE: Rwy 29, cross DER ator above 35’ AGL/4855’ MSL.
+OX S ty
+NOTE: BRICK ond DIRDY TRANSITIONS: DME required.
+NOTE: Chart notte seal.
+BS
+™
+DEPARTURE ROUTE DESCRIPTION
+peciemmovar
+via transition/route.
+-
+ar
+(AY 11: Climb runway heading to 6000, then climbing right turn
+TAKE-OFF RUNWAY 29: Climb runway heading to 6000, then climbing left turn
+‘direct JNC VOR/DME; then via transition/route.
+BRICK TRANSITION (JNC5.BRICK): From over JNC VOR/DME via JNC R-113 to
+BRICK/JNC 30 DME.
+DIRDY TRANSITION (JNC5.DIRDY): From over JNC VOR/DME via JNC R-082 to
+HONKR/JNC 17 DME then via JNC R-082 to DIRDY INT/JNC 60 DME.
+PACES TRANSITION (JNC5.PACES): From over JNC VOR/DME via JNC R-060 to
+PACES INT/JNC 25 DME.
+SQUAT TRANSITION (JNC5.SQUAT): From over JNC VOR/DME via JNC R-045 to
+SQUAT INT/JNC 31 DME.
+GRAND JUNCTION FIVE DEPARTURE
+GRAN INGTON, COBRA
+(INC5.JNC) 10322
+GRAND JUNCTION RGNL (GJT)
+Figure 6-26. Grand Junction Five Departure.
+6-10
+
+a
+(CHANL1.SXC)
+SANTA ANA/JOHN WAYNE AIRPORT-ORANGE COUNTY (SNA)
+CHANNEL ONE DEPARTURE _ sv277 Faw)
+SANTA ANA, CALIFORNIA
+ATIS 126.0
+‘SHAFTER:
+NOT FOR NAVIGATION
+118.0
+‘Chon 101
+‘GND CON
+Q
+(EAST) 120.8
+LOT, HA
+(WEST) 132.25
+2 oo
+ina
+Bes
+NOTE: RADAR required.
+25%
+NOTE: Some aircraft may be radar vectored
+GORMAN
+Noo,
+to assigned route.
+N35°00.75"
+NOTE: Approximate distance from Rwy 19R/L
+wiie?36.98"
+take-off area to SXC VORTAC is 40 NM.
+Chan 108
+.
+”
+a
+NOTE: This departure requires a minimum climb
+°
+rate of 240’ per NM to 2400" MSL.
+.
+NARGIS
+%
+Bes
+NOTE: This departure is restricted to turbojet and
+P\
+Sst
+turboprop aircraft only. SHAFTER transition
+149 Rs Ee
+|g)
+e
+and GORMAN transition restricted to turbojet
+Chan 96"
+2.
+\B)
+aircraf.
+‘333\e
+L347, Hea
+BD
+TOS ANGELES,
+o ON 1s,
+ca
+TOCALZER 111.75
+z
+25gto
+tna HE
+ay NG
+Chan54 (Y)
+Q
+yp
+s
+>
+z
+R, °. oa)
+8z
+S
+SEAL BEACH
+a
+z
+VENTURA,
+157 SU iE
+°
+z
+108.2 VU =
+Chan 104
+rR
+SOE
+WHIPOIT|
+Ve
+=
+Zao
+Bes
+/
+£
+Vv
+es 2642_/ NOTE: Chart not to scale
+‘SANTA CATALINA.
+DEPARTURE ROUTE DESCRIPTION
+TAKE-OFF RUNWAY 191/R: Maintain runway heading or ISNA localizer south course
+to KSNA 1 DME fix or SLI R-118, turn left heading 175°, cross SLI R-132 then turn right
+heading 200°, intercept and proceed via SXC R-084 to SXC VORTAC, thence via (transition)
+or (assigned route). Expect filed altitude ten minutes after departure.
+GORMAN TRANSITION (CHANLI.GMN): From over SXC VORTAC via SXC R-344 and
+LAX R-164 to LAX VORTAC, then via LAX R-323 and GMN R-142 to GMN VORTAC.
+SAN MARCUS TRANSITION (CHANLI.RZS):
+From over SXC VORTAC via SXC R-310 and
+VTU R-129 to VTU VOR/DME, then via VTU R-289 and RZS R-109 to RZS VORTAC.
+SHAFTER TRANSITION (CHANLI.EHF):
+From over SXC VORTAC via SXC R-344 and LAX
+R-164 to LAX VORTAC, then via LAX R-337 to LANDO INT and EHF R-126 to EHF VORTAC.
+CHANNEL ONE DEPARTURE
+seen
+(CHANLI.SXC) 07208
+SANTA ANA/JOHN WAYNE AIRPORT-ORANGE COUNTY (SNA)
+Figure 6-27. Channel One Departure.
+6-11
+
+DURANGO, COLORADO.
+AL-4B0 (FAA)
+10 Hono ar cs]
+9 20
+ILS or LOC/DME RWY 3
+109.1 | 027°
+|TOZE | 6638
+Apt Elev 6685
+DURANGO-LA PLATA COUNTY (DRO)
+VME from DROVOR/DME
+MALSR | MISSEDAPPROACH:
+Simultaneous reception of HDRO and DRO VOR/DME
+Climb to 7500 then climbing rightim
+-3- |e 10000 via heading140°
+required,
+ond DRO VOR/DME R-120 to.
+© © |SovDE/14
+DME ond hold. Continue
+climb-infeld
+jo 10000
+ASOS.
+DENVER CENTER
+UNICOM,
+120.625
+118.575 348.7
+won
+Bas
+DME REQUIRED
+wp
+ey,
+7a00
+vie
+Procedure NA for arrivals of RSK VORTAG
+IAF)
+sirway radials 333 CW 072
+wah
+(070°—— [275°
+DRO [14)
+LOCAUZER
+109.)
+p
+~R27
+boro Hes
+>
+69032 “>
+DURANGO.
+a,
+ee
+108.2 DRO E2!_
+=
+a
+=
+68192f/~100000
+COR
+Chan 19
+(AF)
+TP
+sos 5)
+Bee
+=
+g
+Yo hes
+M
+reel Pog (et 8
+Ss
+ae
+Y
+OS
+(wh
+Ks
+& fe~)
+OG
+JURE
+SS9
+|e
+a
+N
+%,
+“Ye
+| $
+1b
+OTE)
+we
+$5
+Xt
+ZS
+a,
+wan | S
+3S
+Xe
+z
+R
+(;
+Ny, SK sove | O
+to,XN profi] &
+A
+°
+ose hy ¥
+=
+OP
+Ril
+S
+g
+iF
+orl
+bi
+tinoy
+iDare | _fIEV 6685
+10000 NoPt
+to HINDY.
+i ~ pro [14)
+fg putt PRO
+Mv
+IAF
+Z
+018° (15.6) 9
+RATTLESNAKE
+8702. A
+CO
+J
+115.3 Rsk STL
+fe
+Chan 100.
+JUBEP
+(J
+_ Remain
+pro[75) te
+DRO | SOVDE
+a
+within 10 NM
+——
+hhdg | 8-120 [DRO
+bm
+S207"
+|
+140°
+__oe 027°.
+OC only
+VBE
+DRO.
+a
+a
+ro[2:8)
+a
+GS 3,00°
+|
+Lo
+ADEE.
+G
+eau
+sia
+6638 Offs
+Ee
+ee
+f°
+| sis3 |
+FS
+SS ST
+eA
+6838-V2 200 (200-15)
+f ©
+07776.
+S-l0C 3
+70B0-V2 442 (400-1)
+ee
+ena
+fe Oe
+7180-1
+442(400-%4) | 442 (400-1)
+ery |
+7200-1
+7220-12
+7260-2
+HIRLR rea ry
+DURANGO, COLORADO
+(500-1)_|_515(600-1)_|
+535 (400-114) | _575 (600-2
+y
+Bee aR
+DURANGO-LA PLATA COUNTY (DRO)
+srorntorasw
+ILS or LOC/DME RWY 3
+Figure 6-28. ILS or LOC/DME RWY 3 in Durango, Colorado.
+6-12
+
+the pilot to make an immediate turn toward the Durango
+21 days prior to the effective date of the revision.
+VOR instead of flying the series of headings that terminate
+at specific altitudes as dictated by the approach procedure.
+The integrity of the data is ensured through a process called
+[Figure 6-28] Pilots must be aware of their individual
+cyclic redundancy check (CRC). A CRC is an error detection
+systems Path and Terminator handling characteristics
+algorithm capable of detecting small bit-level changes in
+and always review the manufacturer’s documentation to
+a block of data. The CRC algorithm treats a data block as
+familiarize themselves with the capabilities of the RNAV
+a single, large binary value. The data block is divided by a
+equipment they are operating. Pilots should be aware that
+fixed binary number called a generator polynomial whose
+some RNAV equipment was designed without the fly-over
+form and magnitude is determined based on the level of
+capability which can cause problems for pilots attempting
+integrity desired. The remainder of the division is the CRC
+to use this equipment to fly complex flightpaths in the
+value for the data block. This value is stored and transmitted
+departure, arrival, or approach environments.
+with the corresponding data block. The integrity of the
+data is checked by reapplying the CRC algorithm prior to
+Role of the Database Provider
+distribution.
+Compiling and maintaining a worldwide airborne
+Role of the Avionics Manufacturer
+navigation database is a large and complex job. Within the
+United States, the FAA sources give the database providers
+When avionics manufacturers develop a piece of
+information, in many different formats, which must be
+equipment that requires an airborne navigation database,
+analyzed, edited, and processed before it can be coded
+they typically form an agreement with a database provider
+into the database. In some cases, data from outside the
+to supply the database for that new avionics platform. It
+United States must be translated into English so it may be
+is up to the manufacturer to determine what information
+analyzed and entered into the database. Once the data is
+to include in the database for their system. In some cases,
+coded, it must be continually updated and maintained.
+the navigation data provider has to significantly reduce the
+number of records in the database to accommodate the
+Once the FAA notifies the database provider that a change
+storage capacity of the manufacturer’s new product, which
+is necessary, the update process begins. The change is
+means that the database may not contain all procedures.
+incorporated into a 28-day airborne database revision cycle
+based on its assigned priority. If the information does not
+Another important fact to remember is that although there
+reach the coding phase prior to its cutoff date (the date that
+are standard naming conventions included in the ARINC
+new aeronautical information can no longer be included
+424 specification, each manufacturer determines how
+in the next update), it is held out of revision until the next
+the names of fixes and procedures are displayed to the
+cycle. The cutoff date for aeronautical databases is typically
+pilot. This means that although the database may specify
+|
+| ewes
+om
+TK
+322,
+~eed
+|
+RK
+322%
+it) 19600) 1335 KE .
+105: Fey
+"apd
+1280 |W
+_
+oT
+Mi tosco |”
+ye
+be!
+cg
+(feoaier|
+..
+oY
+~
+|
+oe
+SIEM]
+68. (eee)
+=
+PIEOFEPes
+Pee
+it
+KEUG
+APPROACH
+§
+x
+: ‘=
+<ivorone 34
+GPsau> il =}
+P|
+mn
+| <Koe
+“ULE
+‘S)) =)os) oe) ew
+oe
+EUGA <VOR 34
+>APR
+ew
+IAF / TRAN: D130NIF
+a)
+—
+ri)
+|
+APP TRANS
+rRRvAL>
+1h
+Figure 6-29. Naming conventions of three different systems for the VOR 34 Approach.
+6-13
+
+the approach identifier field for the VOR/DME Runway
+34 approach at Eugene Mahlon Sweet Airport (KEUG) in
+Eugene, Oregon, as “V34,” different avionics platforms
+may display the identifier in any way the manufacturer
+deems appropriate. For example, a GPS produced by one
+manufacturer might display the approach as “VOR 34,”
+whereas another might refer to the approach as “VOR/DME
+34,” and an FMS produced by another manufacturer may
+refer to it as “VOR34.” [Figure 6-29]
+These differences can cause visual inconsistencies between
+chart and GPS displays, as well as confusion with approach
+clearances and other ATC instructions for pilots unfamiliar
+with specific manufacturer’s naming conventions. The
+manufacturer determines the capabilities and limitations
+of an RNAV system based on the decisions that it makes
+regarding that system’s processing of the airborne
+navigation database.
+Users Role
+Like paper charts, airborne navigation databases are
+subject to revision. According to 14 CFR Part 91, § 91.503,
+the end user (operator) is ultimately responsible for
+ensuring that data meets the quality requirements for its
+intended application. Updating data in an aeronautical
+database is considered to be maintenance and all Part 91
+operators may update databases in accordance with 14
+CFR Part 91, § 43.3(g). Parts 121, 125, and 135 operators
+must update databases in accordance with their approved
+maintenance program. For Part 135 helicopter operators,
+this includes maintenance by the pilot in accordance with
+* Collect the data
+* Format per ARINC 424
+* Revise and maintain database
+Decide on:
+* Information to be included
+* How information will be processed
++ User interface
+* Ensure currency
+[Plots
+* Execute updates
+* Responsible for working knowledge of avionics using
+database
+Figure 6-30. Database rolls.
+6-14
+end users)
+14 CFR Part 43, § 43.3(h).
+Pilots using the databases are ultimately responsible for
+ensuring that the database they are operating with is
+current. This includes checking Notices to Airmen (NOTAM)­
+type information concerning errors that may be supplied
+by the avionics manufacturer or the database supplier. The
+database user is responsible for learning how the specific
+navigation equipment handles the navigation database.
+The manufacturer’s documentation is the pilot’s best source
+of information regarding the capabilities and limitations of
+a specific database. [Figure 6-30]
+Operational Limitations of Airborne Navigation
+Databases
+Understanding the capabilities and limitations of the
+navigation systems installed in an aircraft is one of the
+pilot’s biggest concerns for IFR flight. Considering the vast
+number of RNAV systems and pilot interfaces available
+today, it is critical that pilots and flight crews be familiar
+with the manufacturer’s operating manual for each RNAV
+system they operate and achieve and retain proficiency
+operating those systems in the IFR environment.
+Most professional and general aviation pilots are familiar
+with the possible human factors issues related to flightdeck
+automation. It is particularly important to consider those
+issues when using airborne navigation databases. Although
+modern avionics can provide precise guidance throughout
+all phases of flight, including complex departures and
+arrivals, not all systems have the same capabilities.
+RNAV equipment installed in some aircraft is limited to
+direct route point-to-point navigation. Therefore, it is
+very important for pilots to familiarize themselves with
+|
+the capabilities of their systems through review of the
+manufacturer documentation. Most modern RNAV systems
+|
+are contained within an integrated avionics system that
+receives input from several different navigation and aircraft
+system sensors. These integrated systems provide so much
+information that pilots may sometimes fail to recognize
+errors in navigation caused by database discrepancies or
+misuse. Pilots must constantly ensure that the data they
+|
+enter into their avionics is accurate and current. Once
+the transition to RNAV is made during a flight, pilots and
+flight crews must always be capable and ready to revert to
+conventional means of navigation if problems arise.
+Closed Indefinitely Airports
+Some U.S. airports have been closed for up to several years,
+|
+with little or no chance that they will ever reopen; yet their
+“indefinite” closure status – as opposed to permanent or
+UFN closure, or abandonment – causes them to continue
+
+to appear on both VFR and IFR charts and in airborne
+navigation databases; and their instrument approach
+procedures, if any, continue to be included – and still
+appear to be valid – in the paper and electronic versions
+of the United States Terminal Procedures Publication (TPP)
+charts. Airpark South, 2K2, at Ozark, Missouri, is a case in
+point.
+Even though this airport has been closed going on two
+years and, due to industrial and residential development
+surrounding it, likely will never be reopened, the airport
+is nonetheless still charted in a way that could easily lead
+a pilot to believe that it is still open and operating. Even
+the current U.S. Low Altitude En route chart displays a
+blue symbol for this airport, indicating that it still has
+a Department of Defense (DOD) approved instrument
+approach procedure available for use.
+Aircrews need to use caution when selecting an airport
+in a cautionary or emergency situation, especially if the
+airport was not previously analyzed suitable for diversion
+during preflight. Aircrews could assume, based on charts
+and their FMS database, the airport is suitable and perhaps
+the only available diversionary or emergency option. The
+airport however, could be closed and hazardous even for
+emergency use. In these situations, Air Traffic Control may
+be queried for the airport’s status.
+Storage Limitations
+As the data in a worldwide database grows, the required
+data storage space increases. Over the years that panel-
+mounted GPS and FMSs have developed, the size of the
+commercially available airborne navigation databases has
+grown exponentially.
+Some manufacturer’s systems have kept up with this
+growth and some have not. Many of the limitations of
+older RNAV systems are a direct result of limited data
+storage capacity. For this reason, avionics manufacturers
+must make decisions regarding which types of procedures
+will be included with their system. For instance, older GPS
+units rarely include all of the waypoints that are coded into
+master databases. Even some modern FMS equipment,
+which typically have much larger storage capacity, do not
+include all of the data that is available from the database
+producers. The manufacturers often choose not to include
+certain types of data that they think is of low importance
+to the usability of the unit. For example, manufacturers
+of FMS used in large airplanes may elect not to include
+airports where the longest runway is less than 3,000 feet
+or to include all the procedures for an airport.
+Manufacturers of RNAV equipment can reduce the size of
+the data storage required in their avionics by limiting the
+geographic area the database covers. Like paper charts, the
+amount of data that needs to be carried with the aircraft is
+directly related to the size of the coverage area. Depending
+on the data storage that is available, this means that the
+larger the required coverage area, the less detailed the
+database can be.
+Again, due to the wide range of possible storage capacities,
+and the number of different manufacturers and product
+lines, the manufacturer’s documentation is the pilot’s best
+source of information regarding limitations caused by
+storage capacity of RNAV avionics.
+Charting/Database Inconsistencies
+It is important for pilots to remember that many
+inconsistencies may exist between aeronautical charts
+and airborne navigation databases. Since there are so
+many sources of information included in the production
+of these materials, and the data is manipulated by several
+different organizations before it is eventually displayed
+on RNAV equipment, the possibility is high that there will
+be noticeable differences between the charts and the
+databases. Because of this, pilots must be familiar with the
+capabilities of the database and have updated aeronautical
+charts while flying to ensure the proper course is being
+flown.
+Naming Conventions
+Obvious differences exist between the names of procedures
+shown on charts and those that appear on the displays of
+many RNAV systems. Most of these differences can be
+accounted for simply by the way the avionics manufacturers
+elect to display the information to the pilot. It is the avionics
+manufacturer that creates the interface between the pilot
+and the database. For example, the VOR 12R approach in
+San Jose, California, might be displayed several different
+ways depending on how the manufacturer designs the
+pilot interface. Some systems display procedure names
+exactly as they are charted, but many do not.
+The naming of multiple approaches of the same type to the
+same runway is also changing. Multiple approaches with
+the same guidance will be annotated with an alphabetical
+suffix beginning at the end of the alphabet and working
+backwards for subsequent procedures (e.g., ILS Z RWY
+28, ILS Y RWY 28, etc.). The existing annotations, such as
+ILS 2 RWY 28 or Silver ILS RWY 28, will be phased out and
+replaced with the new designation.
+NAVAIDs are also subject to naming discrepancies as well.
+This problem is complicated by the fact that multiple
+NAVAIDs can be designated with the same identifier. VOR
+6-15
+
+manufacturer’s naming conventions.
+XYZ may occur several times in a provider’s database, so
+the avionics manufacturer must design a way to identify
+For detailed operational guidance, refer to Advisory Circular
+these fixes by a more specific means than the three-letter
+(AC) 90-100, U.S. Terminal and En Route Area Navigation
+identifier. Selection of geographic region is used in most
+(RNAV) Operations; AC 90-101, Approval Guidance for
+instances to narrow the pilot’s selection of NAVAIDs with
+Required Navigation Performance (RNP) Procedures with
+like identifiers.
+Authorization Required (AR); AC 90-105, Approval guidance
+for RNP Operations and Barometic Vertical Navigation
+Non-directional beacons (NDBs) and locator outer markers
+in the U.S. National Airspace System and in Oceanic and
+(LOMs) can be displayed differently than they are charted.
+Remote Continental Airspace; and AC 90-107, Guidance
+When the first airborne navigation databases were being
+for Localizer Performance with Vertical Guidance and
+implemented, NDBs were included in the database as
+Localizer Performance without Vertical Guidance Approach
+waypoints instead of NAVAIDs. This necessitated the use
+Operations in the U.S. National Airspace System.
+of five character identifiers for NDBs. Eventually, the NDBs
+were coded into the database as NAVAIDs, but many of
+Issues Related To Magnetic Variation
+the RNAV systems in use today continue to use the five-
+character identifier. These systems display the characters
+Magnetic variations for locations coded into airborne
+“NB” after the charted NDB identifier. Therefore, NDB ABC
+navigation databases can be acquired in several ways. In
+would be displayed as “ABCNB.”
+many cases they are supplied by government agencies in
+the epoch year variation format. Theoretically, this value
+Other systems refer to NDB NAVAIDs using either the NDB’s
+is determined by government sources and published for
+charted name if it is five or fewer letters, or the one to three
+public use every five years. Providers of airborne navigation
+character identifier. PENDY NDB located in North Carolina,
+databases do not use annual drift values; instead the
+for instance, is displayed on some systems as“PENDY,”while
+database uses the epoch year variation until it is updated by
+other systems might only display the NDBs identifier “ACZ.”
+the appropriate source provider. In the United States, this
+[Figure 6-31]
+is the National Oceanic and Atmospheric Administration
+(NOAA). In some cases the variation for a given location is
+Using the VOR/DME Runway 34 approach at Eugene
+a value that has been calculated by the avionics system.
+Mahlon Sweet Airport (KEUG) in Eugene, Oregon, as
+These dynamic magnetic variation values can be different
+another example, which is named V34, may be displayed
+than those used for locations during aeronautical charting
+differently by another avionics platform. For example, a
+and must not be used for conventional NAVAIDs or airports.
+GPS produced by one manufacturer might display the
+approach as VOR 34, whereas another might refer to the
+Discrepancies can occur for many reasons. Even when the
+approach as VOR/DME 34, and an FMS produced by another
+variation values from the database are used, the resulting
+manufacturer may refer to it as VOR34. These differences
+calculated course might be different from the course
+can cause visual inconsistencies between chart and GPS
+depicted on the charts. Using the magnetic variation for the
+displays, as well as confusion with approach clearances
+region instead of the actual station declination can result
+and other ATC instructions for pilots unfamiliar with specific
+in differences between charted and calculated courses and
+Pa / few i +B
+soe
+fort)
+-f
+A]
+i
+ys
+a
+f
+Y
+r
+WASHINGTON
+Semper
+x g
+bo /|
+wag
+/
+Le
+J
+Jf
+|
+(
+|
+rrcxsona
+Re
+Se, |
+(a anf)
+|
+|
+oan
+P
+.
+-
+A}
+\
+al\\
+/
+\
+|
+i
+}
+|
+we \ JS
+\/
+fs
+101 Nea ait
+S
+|
+UB = f_ —$8.
+\ |
+anarerae
+/
+S
+S
+=
+—_ 4 Bate
+vauace
+y
+1 S203 EXCLUDES ABSPACE
+<
+Pn,
+re
+;
+frome
+Li
+oe
+:
+ere
+I\
+Wing,
+*
+—
+|
+Ng, a
+| cous
+© Oe
+%
+"
+ae
+|
+sé
+TNA HEN
+J \
+s
+Se
+#008,
+ay
+Y
+hy
+=
+y
+Uy,
+gv?
+=,
+x»
+Figure 6-31. Manufacturer’s naming conventions.
+6-16
+
+incorrect ground track. Station declination is only updated
+when a NAVAID is site checked by the governing authority
+that controls it, so it is often different than the current
+magnetic variation for that location. Using an onboard
+means of determining variation usually entails coding
+some sort of earth model into the avionics memory. Since
+magnetic variation for a given location changes predictably
+over time, this model may only be correct for one time in
+the lifecycle of the avionics. This means that if the intended
+lifecycle of a GPS unit were 20 years, the point at which the
+variation model might be correct would be when the GPS
+unit was 10 years old. The discrepancy would be greatest
+when the unit was new, and again near the end of its life
+span.
+Another issue that can cause slight differences between
+charted course values and those in the database
+occurs when a terminal procedure is coded using
+magnetic variation of record. When approaches or other
+procedures are designed, the designers use specific rules
+to apply variation to a given procedure. Some controlling
+government agencies may elect to use the epoch year
+variation of an airport to define entire procedures at that
+airport. This may result in course discrepancies between
+the charted value and the value calculated using the actual
+variations from the database.
+Issues Related To Revision Cycle
+Pilots should be aware that the length of the airborne
+navigation database revision cycle could cause
+discrepancies between aeronautical charts and information
+derived from the database. One important difference
+between aeronautical charts and databases is the length
+of cutoff time. Cutoff refers to the length of time between
+the last day that changes can be made in the revision, and
+the date the information becomes effective. Aeronautical
+charts typically have a cutoff date of 10 days prior to the
+effective date of the charts.
+6-17
+
+6-18

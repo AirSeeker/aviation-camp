@@ -2,77 +2,723 @@
   "chapter": "ch09",
   "images": [
     {
-      "page": 166,
-      "file": "img_p166_1.png",
-      "relativePath": "/images/AFH/ch09/img_p166_1.png",
-      "figureRef": "Figure 166-1",
+      "page": 172,
+      "file": "img_p172_1.png",
+      "relativePath": "/images/AFH/ch09/img_p172_1.png",
+      "figureRef": "Figure 172-1",
       "kind": "figure",
       "index": 1,
       "placements": [
         {
-          "page": 166,
+          "page": 172,
           "bbox": [
-            35.578033447265625,
-            26.0078125,
-            574.464599609375,
-            613.6431884765625
+            96.25,
+            383.4879150390625,
+            515.7499389648438,
+            538.75
           ]
         }
       ]
     },
     {
-      "page": 167,
-      "file": "img_p167_2.png",
-      "relativePath": "/images/AFH/ch09/img_p167_2.png",
-      "figureRef": "Figure 167-2",
+      "page": 172,
+      "file": "img_p172_2.png",
+      "relativePath": "/images/AFH/ch09/img_p172_2.png",
+      "figureRef": "Figure 172-2",
       "kind": "figure",
       "index": 2,
       "placements": [
         {
-          "page": 167,
+          "page": 172,
           "bbox": [
-            93.9239501953125,
-            55.01300048828125,
-            512.4373168945312,
-            454.0409240722656
+            96.25001525878906,
+            575.4756469726562,
+            515.7499389648438,
+            719.75
           ]
         }
       ]
     },
     {
-      "page": 169,
-      "file": "img_p169_3.png",
-      "relativePath": "/images/AFH/ch09/img_p169_3.png",
-      "figureRef": "Figure 169-3",
+      "page": 174,
+      "file": "img_p174_3.png",
+      "relativePath": "/images/AFH/ch09/img_p174_3.png",
+      "figureRef": "Figure 174-3",
       "kind": "figure",
       "index": 3,
       "placements": [
         {
-          "page": 169,
+          "page": 174,
           "bbox": [
-            36.93107604980469,
-            36.814300537109375,
-            575.8143920898438,
-            380.6119079589844
+            63.0,
+            37.939453125,
+            549.0,
+            325.939453125
           ]
         }
       ]
     },
     {
-      "page": 170,
-      "file": "img_p170_4.png",
-      "relativePath": "/images/AFH/ch09/img_p170_4.png",
-      "figureRef": "Figure 170-4",
+      "page": 175,
+      "file": "img_p175_4.png",
+      "relativePath": "/images/AFH/ch09/img_p175_4.png",
+      "figureRef": "Figure 175-4",
       "kind": "figure",
       "index": 4,
       "placements": [
         {
-          "page": 170,
+          "page": 175,
           "bbox": [
-            82.12451171875,
-            197.1864013671875,
-            478.58013916015625,
-            561.6604614257812
+            63.0,
+            37.939453125,
+            549.0,
+            217.939453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 176,
+      "file": "img_p176_5.png",
+      "relativePath": "/images/AFH/ch09/img_p176_5.png",
+      "figureRef": "Figure 176-5",
+      "kind": "figure",
+      "index": 5,
+      "placements": [
+        {
+          "page": 176,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            217.939453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 176,
+      "file": "img_p176_6.png",
+      "relativePath": "/images/AFH/ch09/img_p176_6.png",
+      "figureRef": "Figure 176-6",
+      "kind": "figure",
+      "index": 6,
+      "placements": [
+        {
+          "page": 176,
+          "bbox": [
+            62.8800048828125,
+            509.63946533203125,
+            549.1199951171875,
+            653.8794555664062
+          ]
+        }
+      ]
+    },
+    {
+      "page": 177,
+      "file": "img_p177_7.png",
+      "relativePath": "/images/AFH/ch09/img_p177_7.png",
+      "figureRef": "Figure 177-7",
+      "kind": "figure",
+      "index": 7,
+      "placements": [
+        {
+          "page": 177,
+          "bbox": [
+            62.8800048828125,
+            37.68946075439453,
+            549.1199951171875,
+            165.12945556640625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 178,
+      "file": "img_p178_8.png",
+      "relativePath": "/images/AFH/ch09/img_p178_8.png",
+      "figureRef": "Figure 178-8",
+      "kind": "figure",
+      "index": 8,
+      "placements": [
+        {
+          "page": 178,
+          "bbox": [
+            187.55538940429688,
+            304.9119567871094,
+            424.6753845214844,
+            515.6319580078125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 179,
+      "file": "img_p179_9.png",
+      "relativePath": "/images/AFH/ch09/img_p179_9.png",
+      "figureRef": "Figure 179-9",
+      "kind": "figure",
+      "index": 9,
+      "placements": [
+        {
+          "page": 179,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            217.939453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 179,
+      "file": "img_p179_10.png",
+      "relativePath": "/images/AFH/ch09/img_p179_10.png",
+      "figureRef": "Figure 179-10",
+      "kind": "figure",
+      "index": 10,
+      "placements": [
+        {
+          "page": 179,
+          "bbox": [
+            63.0,
+            343.8394775390625,
+            549.0,
+            523.8394775390625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 180,
+      "file": "img_p180_11.png",
+      "relativePath": "/images/AFH/ch09/img_p180_11.png",
+      "figureRef": "Figure 180-11",
+      "kind": "figure",
+      "index": 11,
+      "placements": [
+        {
+          "page": 180,
+          "bbox": [
+            63.0,
+            282.42303466796875,
+            549.0,
+            424.9830322265625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 182,
+      "file": "img_p182_12.png",
+      "relativePath": "/images/AFH/ch09/img_p182_12.png",
+      "figureRef": "Figure 182-12",
+      "kind": "figure",
+      "index": 12,
+      "placements": [
+        {
+          "page": 182,
+          "bbox": [
+            76.56498718261719,
+            557.7730102539062,
+            535.43505859375,
+            727.8497924804688
+          ]
+        }
+      ]
+    },
+    {
+      "page": 184,
+      "file": "img_p184_13.png",
+      "relativePath": "/images/AFH/ch09/img_p184_13.png",
+      "figureRef": "Figure 184-13",
+      "kind": "figure",
+      "index": 13,
+      "placements": [
+        {
+          "page": 184,
+          "bbox": [
+            187.44000244140625,
+            37.939453125,
+            424.55999755859375,
+            364.3394470214844
+          ]
+        }
+      ]
+    },
+    {
+      "page": 185,
+      "file": "img_p185_14.png",
+      "relativePath": "/images/AFH/ch09/img_p185_14.png",
+      "figureRef": "Figure 185-14",
+      "kind": "figure",
+      "index": 14,
+      "placements": [
+        {
+          "page": 185,
+          "bbox": [
+            187.44000244140625,
+            46.4189453125,
+            424.55999755859375,
+            372.8189392089844
+          ]
+        }
+      ]
+    },
+    {
+      "page": 187,
+      "file": "img_p187_15.png",
+      "relativePath": "/images/AFH/ch09/img_p187_15.png",
+      "figureRef": "Figure 187-15",
+      "kind": "figure",
+      "index": 15,
+      "placements": [
+        {
+          "page": 187,
+          "bbox": [
+            187.44000244140625,
+            38.939453125,
+            424.55999755859375,
+            199.49945068359375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 187,
+      "file": "img_p187_16.png",
+      "relativePath": "/images/AFH/ch09/img_p187_16.png",
+      "figureRef": "Figure 187-16",
+      "kind": "figure",
+      "index": 16,
+      "placements": [
+        {
+          "page": 187,
+          "bbox": [
+            187.44000244140625,
+            386.59942626953125,
+            424.55999755859375,
+            547.159423828125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 188,
+      "file": "img_p188_17.png",
+      "relativePath": "/images/AFH/ch09/img_p188_17.png",
+      "figureRef": "Figure 188-17",
+      "kind": "figure",
+      "index": 17,
+      "placements": [
+        {
+          "page": 188,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            368.6594543457031
+          ]
+        }
+      ]
+    },
+    {
+      "page": 190,
+      "file": "img_p190_18.png",
+      "relativePath": "/images/AFH/ch09/img_p190_18.png",
+      "figureRef": "Figure 190-18",
+      "kind": "figure",
+      "index": 18,
+      "placements": [
+        {
+          "page": 190,
+          "bbox": [
+            187.44000244140625,
+            37.939453125,
+            424.55999755859375,
+            352.8194580078125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 190,
+      "file": "img_p190_19.png",
+      "relativePath": "/images/AFH/ch09/img_p190_19.png",
+      "figureRef": "Figure 190-19",
+      "kind": "figure",
+      "index": 19,
+      "placements": [
+        {
+          "page": 190,
+          "bbox": [
+            187.44000244140625,
+            495.91943359375,
+            424.55999755859375,
+            720.5594482421875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 192,
+      "file": "img_p192_20.png",
+      "relativePath": "/images/AFH/ch09/img_p192_20.png",
+      "figureRef": "Figure 192-20",
+      "kind": "figure",
+      "index": 20,
+      "placements": [
+        {
+          "page": 192,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            217.939453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 192,
+      "file": "img_p192_21.png",
+      "relativePath": "/images/AFH/ch09/img_p192_21.png",
+      "figureRef": "Figure 192-21",
+      "kind": "figure",
+      "index": 21,
+      "placements": [
+        {
+          "page": 192,
+          "bbox": [
+            63.0,
+            254.63946533203125,
+            549.0,
+            434.63946533203125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 193,
+      "file": "img_p193_22.png",
+      "relativePath": "/images/AFH/ch09/img_p193_22.png",
+      "figureRef": "Figure 193-22",
+      "kind": "figure",
+      "index": 22,
+      "placements": [
+        {
+          "page": 193,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            217.939453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 193,
+      "file": "img_p193_23.png",
+      "relativePath": "/images/AFH/ch09/img_p193_23.png",
+      "figureRef": "Figure 193-23",
+      "kind": "figure",
+      "index": 23,
+      "placements": [
+        {
+          "page": 193,
+          "bbox": [
+            63.0,
+            254.63946533203125,
+            549.0,
+            434.63946533203125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 194,
+      "file": "img_p194_24.png",
+      "relativePath": "/images/AFH/ch09/img_p194_24.png",
+      "figureRef": "Figure 194-24",
+      "kind": "figure",
+      "index": 24,
+      "placements": [
+        {
+          "page": 194,
+          "bbox": [
+            63.0,
+            493.67303466796875,
+            549.0,
+            655.9130249023438
+          ]
+        }
+      ]
+    },
+    {
+      "page": 196,
+      "file": "img_p196_25.png",
+      "relativePath": "/images/AFH/ch09/img_p196_25.png",
+      "figureRef": "Figure 196-25",
+      "kind": "figure",
+      "index": 25,
+      "placements": [
+        {
+          "page": 196,
+          "bbox": [
+            63.0,
+            433.07305908203125,
+            549.0,
+            703.3130493164062
+          ]
+        }
+      ]
+    },
+    {
+      "page": 197,
+      "file": "img_p197_26.png",
+      "relativePath": "/images/AFH/ch09/img_p197_26.png",
+      "figureRef": "Figure 197-26",
+      "kind": "figure",
+      "index": 26,
+      "placements": [
+        {
+          "page": 197,
+          "bbox": [
+            63.0,
+            76.07305908203125,
+            549.0,
+            346.31304931640625
+          ]
+        }
+      ]
+    },
+    {
+      "page": 198,
+      "file": "img_p198_27.png",
+      "relativePath": "/images/AFH/ch09/img_p198_27.png",
+      "figureRef": "Figure 198-27",
+      "kind": "figure",
+      "index": 27,
+      "placements": [
+        {
+          "page": 198,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            308.179443359375
+          ]
+        }
+      ]
+    },
+    {
+      "page": 199,
+      "file": "img_p199_28.png",
+      "relativePath": "/images/AFH/ch09/img_p199_28.png",
+      "figureRef": "Figure 199-28",
+      "kind": "figure",
+      "index": 28,
+      "placements": [
+        {
+          "page": 199,
+          "bbox": [
+            63.0,
+            222.97576904296875,
+            549.0,
+            510.97576904296875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 200,
+      "file": "img_p200_29.png",
+      "relativePath": "/images/AFH/ch09/img_p200_29.png",
+      "figureRef": "Figure 200-29",
+      "kind": "figure",
+      "index": 29,
+      "placements": [
+        {
+          "page": 200,
+          "bbox": [
+            128.5,
+            255.873046875,
+            483.49993896484375,
+            554.4236450195312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 201,
+      "file": "img_p201_30.png",
+      "relativePath": "/images/AFH/ch09/img_p201_30.png",
+      "figureRef": "Figure 201-30",
+      "kind": "figure",
+      "index": 30,
+      "placements": [
+        {
+          "page": 201,
+          "bbox": [
+            63.0,
+            227.7757568359375,
+            549.0,
+            396.4957580566406
+          ]
+        }
+      ]
+    },
+    {
+      "page": 201,
+      "file": "img_p201_31.png",
+      "relativePath": "/images/AFH/ch09/img_p201_31.png",
+      "figureRef": "Figure 201-31",
+      "kind": "figure",
+      "index": 31,
+      "placements": [
+        {
+          "page": 201,
+          "bbox": [
+            63.0,
+            554.177978515625,
+            549.0,
+            724.5780029296875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 202,
+      "file": "img_p202_32.png",
+      "relativePath": "/images/AFH/ch09/img_p202_32.png",
+      "figureRef": "Figure 202-32",
+      "kind": "figure",
+      "index": 32,
+      "placements": [
+        {
+          "page": 202,
+          "bbox": [
+            63.0,
+            367.14776611328125,
+            549.0,
+            547.1477661132812
+          ]
+        }
+      ]
+    },
+    {
+      "page": 203,
+      "file": "img_p203_33.png",
+      "relativePath": "/images/AFH/ch09/img_p203_33.png",
+      "figureRef": "Figure 203-33",
+      "kind": "figure",
+      "index": 33,
+      "placements": [
+        {
+          "page": 203,
+          "bbox": [
+            63.0,
+            179.2674560546875,
+            549.0,
+            359.2674560546875
+          ]
+        }
+      ]
+    },
+    {
+      "page": 204,
+      "file": "img_p204_34.png",
+      "relativePath": "/images/AFH/ch09/img_p204_34.png",
+      "figureRef": "Figure 204-34",
+      "kind": "figure",
+      "index": 34,
+      "placements": [
+        {
+          "page": 204,
+          "bbox": [
+            63.0,
+            37.939453125,
+            549.0,
+            217.939453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 204,
+      "file": "img_p204_35.png",
+      "relativePath": "/images/AFH/ch09/img_p204_35.png",
+      "figureRef": "Figure 204-35",
+      "kind": "figure",
+      "index": 35,
+      "placements": [
+        {
+          "page": 204,
+          "bbox": [
+            63.0,
+            481.439453125,
+            549.0,
+            661.439453125
+          ]
+        }
+      ]
+    },
+    {
+      "page": 205,
+      "file": "img_p205_36.png",
+      "relativePath": "/images/AFH/ch09/img_p205_36.png",
+      "figureRef": "Figure 205-36",
+      "kind": "figure",
+      "index": 36,
+      "placements": [
+        {
+          "page": 205,
+          "bbox": [
+            63.0,
+            345.07305908203125,
+            549.0,
+            525.0730590820312
+          ]
+        }
+      ]
+    },
+    {
+      "page": 206,
+      "file": "img_p206_37.png",
+      "relativePath": "/images/AFH/ch09/img_p206_37.png",
+      "figureRef": "Figure 206-37",
+      "kind": "figure",
+      "index": 37,
+      "placements": [
+        {
+          "page": 206,
+          "bbox": [
+            187.44000244140625,
+            537.7477416992188,
+            424.55999755859375,
+            648.8677368164062
+          ]
+        }
+      ]
+    },
+    {
+      "page": 207,
+      "file": "img_p207_38.png",
+      "relativePath": "/images/AFH/ch09/img_p207_38.png",
+      "figureRef": "Figure 207-38",
+      "kind": "figure",
+      "index": 38,
+      "placements": [
+        {
+          "page": 207,
+          "bbox": [
+            199.899169921875,
+            115.3477783203125,
+            412.10076904296875,
+            623.1583251953125
           ]
         }
       ]

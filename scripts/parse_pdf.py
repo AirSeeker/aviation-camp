@@ -56,6 +56,17 @@ def chapter_title_matches(title: str) -> bool:
     return bool(re.search(r"(?:^|\s)(?:chapter|part|section|lesson)\b", title.strip(), re.I))
 
 
+def supplemental_title_matches(title: str) -> bool:
+    return bool(
+        re.match(
+            r"^(?:appendix(?:es)?|glossary|(?:subject |name )?index|references|bibliography|"
+            r"answer key|answers to (?:the )?(?:review )?questions|acknowledgments?|acknowledgements?|credits)\b",
+            normalize_line(title),
+            re.I,
+        )
+    )
+
+
 def infer_image_kind(text: str) -> str:
     value = normalize_line(text or "")
     lowered = value.lower()
@@ -89,17 +100,10 @@ def ranges_from_starts(starts: Iterable[int], page_count: int) -> List[Tuple[int
     if any(start < 1 or start > page_count for start in ordered_starts):
         raise ValueError(f"Chapter start pages must be between 1 and {page_count}.")
 
-    ranges: List[Tuple[int, int]] = []
-    cursor = 1
-    for index, start in enumerate(ordered_starts):
-        if start > cursor:
-            ranges.append((cursor, start - 1))
-
-        end = ordered_starts[index + 1] - 1 if index + 1 < len(ordered_starts) else page_count
-        ranges.append((start, end))
-        cursor = end + 1
-
-    return ranges
+    return [
+        (start, ordered_starts[index + 1] - 1 if index + 1 < len(ordered_starts) else page_count)
+        for index, start in enumerate(ordered_starts)
+    ]
 
 
 def validate_chapter_ranges(chapter_ranges: List[Tuple[int, int]], page_count: int) -> None:
@@ -115,20 +119,14 @@ def validate_chapter_ranges(chapter_ranges: List[Tuple[int, int]], page_count: i
         validated.append((start, end))
 
     validated.sort()
-    expected_start = 1
+    expected_start: int | None = None
     for start, end in validated:
-        if start != expected_start:
+        if expected_start is not None and start != expected_start:
             raise ValueError(
-                f"Chapter ranges must cover all pages of the document without gaps or overlaps; "
+                f"Chapter ranges must be contiguous without gaps or overlaps; "
                 f"expected next chapter to begin at page {expected_start}, found {start}."
             )
         expected_start = end + 1
-
-    if expected_start != page_count + 1:
-        raise ValueError(
-            f"Chapter ranges must cover all pages of the document; expected coverage through page {page_count}, "
-            f"but stopped at page {expected_start - 1}."
-        )
 
 
 def detect_chapter_ranges(
@@ -147,7 +145,7 @@ def detect_chapter_ranges(
             if len(item) < 3:
                 continue
             level, title, page_num = item[:3]
-            if page_num and chapter_title_matches(str(title)):
+            if page_num and 1 <= int(page_num) <= page_count:
                 toc_entries.append((int(level), str(title), int(page_num)))
 
     chapter_entries = [
@@ -155,8 +153,12 @@ def detect_chapter_ranges(
         for entry in toc_entries
         if re.search(r"(?:^|\s)(?:chapter|part)\b", entry[1].strip(), re.I)
     ]
-    selected_entries = chapter_entries or toc_entries
-    if selected_entries:
+    selected_entries = chapter_entries or [
+        entry for entry in toc_entries if chapter_title_matches(entry[1])
+    ]
+    if chapter_starts is not None:
+        starts = list(chapter_starts)
+    elif selected_entries:
         shallowest_level = min(level for level, _, _ in selected_entries)
         starts = [
             page_num
@@ -174,9 +176,35 @@ def detect_chapter_ranges(
                 starts.append(page_idx + 1)
 
     if not starts:
-        return [(1, page_count)]
+        raise ValueError(
+            "No educational chapter starts detected; add the book to chapter_overrides.json with 1-based PDF page numbers."
+        )
 
     ranges = ranges_from_starts(starts, page_count)
+    last_chapter_start = max(starts)
+    last_chapter_end = page_count
+    if selected_entries:
+        chapter_level = min(level for level, _, _ in selected_entries)
+        non_chapter_pages = [
+            page_num
+            for level, title, page_num in toc_entries
+            if page_num > last_chapter_start
+            and level <= chapter_level
+            and not chapter_title_matches(title)
+        ]
+        if non_chapter_pages:
+            last_chapter_end = min(non_chapter_pages) - 1
+
+    supplemental_pages = []
+    for page_num in range(last_chapter_start + 1, page_count + 1):
+        page_lines = [normalize_line(line) for line in doc.load_page(page_num - 1).get_text("text").splitlines()]
+        if any(supplemental_title_matches(line) for line in page_lines[:8]):
+            supplemental_pages.append(page_num)
+    if supplemental_pages:
+        last_chapter_end = min(last_chapter_end, min(supplemental_pages) - 1)
+
+    if last_chapter_end >= ranges[-1][0]:
+        ranges[-1] = (ranges[-1][0], last_chapter_end)
     validate_chapter_ranges(ranges, page_count)
     return ranges
 
@@ -363,6 +391,7 @@ def build_parse_cache_key(
     ocr_retry_dpi: int | None = None,
 ) -> str:
     payload = {
+        "parser_version": 2,
         "pdf": str(pdf_path.resolve()),
         "ocr": bool(ocr),
         "ocr_language": ocr_language,

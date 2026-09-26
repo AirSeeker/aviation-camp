@@ -27,7 +27,7 @@ The parser performs the following steps:
 1. Discovers PDF files under `resources/library`
 2. Validates input PDFs and rejects empty or corrupt files
 3. Detects chapter boundaries from the PDF table of contents
-4. Handles front matter, chapter overrides, and gaps before the first chapter
+4. Excludes pages before the first educational chapter and supplemental sections after the last chapter
 5. Extracts text page-by-page
 6. Uses OCR fallback when extraction is sparse or weak
 7. Cleans repeated header/footer noise
@@ -58,7 +58,7 @@ python scripts/parse_pdf.py --ocr --ocr-dpi 300 --ocr-retry-dpi 400 --workers 4
 
 ## Chapter overrides
 
-Some PDFs have inconsistent or malformed table-of-contents metadata. You can override chapter starts using JSON:
+Some PDFs have inconsistent or malformed table-of-contents metadata. You can override educational chapter starts using 1-based PDF page numbers; pages before the first start are excluded:
 
 ```json
 {
