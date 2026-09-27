@@ -15,6 +15,7 @@ from scripts.parse_pdf import (
     extract_layout_lines,
     find_book_output_collisions,
     infer_image_kind,
+    load_appendix_ranges,
     load_chapter_overrides,
     load_chapter_ranges,
     load_section_ranges,
@@ -409,6 +410,24 @@ class OverrideAndIdentityTests(unittest.TestCase):
                 {"glossary": (9, 10), "emergencyProcedures": (11, 12)},
             )
 
+    def test_loads_named_appendices_and_preserves_their_names(self) -> None:
+        with TemporaryDirectory() as directory:
+            path = Path(directory) / "chapters.json"
+            path.write_text(
+                '{"appendices": [{"name": "Appendix A - Flight Plan Shorthand", '
+                '"startPage": 10, "endPage": 11}]}',
+                encoding="utf-8",
+            )
+            self.assertEqual(
+                load_appendix_ranges(path),
+                [{
+                    "name": "Appendix A - Flight Plan Shorthand",
+                    "key": "appendix-a-flight-plan-shorthand",
+                    "startPage": 10,
+                    "endPage": 11,
+                }],
+            )
+
     def test_detects_pdfs_sharing_an_output_folder(self) -> None:
         collisions = find_book_output_collisions(
             [Path("library/Book/first.pdf"), Path("library/Book/second.pdf"), Path("library/Other/book.pdf")]
@@ -427,11 +446,15 @@ class CleanupStaleOutputsTests(unittest.TestCase):
             active_image_dir = image_book_dir / "ch01"
             old_acronyms_dir = book_dir / "sections" / "acronyms"
             active_glossary_dir = book_dir / "sections" / "glossary"
+            old_appendix_dir = book_dir / "appendices" / "appendix-a-old-reference"
+            active_appendix_dir = book_dir / "appendices" / "appendix-b-current-reference"
             old_chapter_dir.mkdir(parents=True)
             old_image_dir.mkdir(parents=True)
             active_image_dir.mkdir(parents=True)
             old_acronyms_dir.mkdir(parents=True)
             active_glossary_dir.mkdir(parents=True)
+            old_appendix_dir.mkdir(parents=True)
+            active_appendix_dir.mkdir(parents=True)
             (old_chapter_dir / "content_raw.txt").write_text("old generated text", encoding="utf-8")
             (old_chapter_dir / "custom.txt").write_text("keep", encoding="utf-8")
             (old_image_dir / "img_p2_1.png").write_bytes(b"stale")
@@ -440,6 +463,8 @@ class CleanupStaleOutputsTests(unittest.TestCase):
             (old_acronyms_dir / "content.md").write_text("stale section", encoding="utf-8")
             (old_acronyms_dir / "custom.md").write_text("keep", encoding="utf-8")
             (active_glossary_dir / "content.md").write_text("current section", encoding="utf-8")
+            (old_appendix_dir / "content.md").write_text("stale appendix", encoding="utf-8")
+            (active_appendix_dir / "content.md").write_text("current appendix", encoding="utf-8")
 
             previous = {
                 "chapters": [
@@ -447,10 +472,12 @@ class CleanupStaleOutputsTests(unittest.TestCase):
                     {"chapter": "ch02", "images": [{"file": "img_p2_1.png"}]},
                 ],
                 "sections": {"acronyms": {}, "glossary": {}},
+                "appendices": [{"key": "appendix-a-old-reference"}],
             }
             current = {
                 "chapters": [{"chapter": "ch01", "images": [{"file": "img_p1_1.png"}]}],
                 "sections": {"glossary": {}},
+                "appendices": [{"key": "appendix-b-current-reference"}],
             }
 
             cleanup_stale_outputs(book_dir, image_book_dir, previous, current)
@@ -463,6 +490,8 @@ class CleanupStaleOutputsTests(unittest.TestCase):
             self.assertFalse((old_acronyms_dir / "content.md").exists())
             self.assertTrue((old_acronyms_dir / "custom.md").exists())
             self.assertTrue((active_glossary_dir / "content.md").is_file())
+            self.assertFalse((old_appendix_dir / "content.md").exists())
+            self.assertTrue((active_appendix_dir / "content.md").is_file())
 
 
 class PublishStagedOutputsTests(unittest.TestCase):
@@ -582,6 +611,7 @@ class ParseBookIntegrationTests(unittest.TestCase):
                 "Glossary terminology",
                 "Acronym definitions",
                 "Emergency procedure steps",
+                "Appendix A reference content",
             ]
             for text in page_texts:
                 doc.new_page().insert_text((72, 72), text)
@@ -591,7 +621,9 @@ class ParseBookIntegrationTests(unittest.TestCase):
                 '{"chapters": [{"number": 1, "startPage": 1, "endPage": 2}], '
                 '"glossary": {"startPage": 3, "endPage": 3}, '
                 '"acronyms": {"startPage": 4, "endPage": 4}, '
-                '"emergencyProcedures": {"startPage": 5, "endPage": 5}}',
+                '"emergencyProcedures": {"startPage": 5, "endPage": 5}, '
+                '"appendices": [{"name": "Appendix A - Reference Material", '
+                '"startPage": 6, "endPage": 6}]}',
                 encoding="utf-8",
             )
 
@@ -600,6 +632,10 @@ class ParseBookIntegrationTests(unittest.TestCase):
             sections = manifest["sections"]
 
             self.assertEqual(set(sections), {"glossary", "acronyms", "emergencyProcedures"})
+            appendix = manifest["appendices"][0]
+            self.assertEqual(appendix["name"], "Appendix A - Reference Material")
+            appendix_path = output_root / "ConfiguredBook" / appendix["contentPath"]
+            self.assertEqual(appendix_path.read_text(encoding="utf-8"), "Appendix A reference content")
             for section_type, expected_text in (
                 ("glossary", "Glossary terminology"),
                 ("acronyms", "Acronym definitions"),

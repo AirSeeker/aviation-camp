@@ -183,6 +183,50 @@ def load_chapter_ranges(config_path: Path) -> List[Tuple[int, int]]:
 SECTION_TYPES = ("glossary", "acronyms", "emergencyProcedures")
 
 
+def normalize_appendix_key(value: str) -> str:
+    normalized = re.sub(r"[^a-z0-9]+", "-", value.lower()).strip("-")
+    return normalized or "appendix"
+
+
+def load_appendix_ranges(config_path: Path) -> List[Dict[str, Any]]:
+    try:
+        config = json.loads(config_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise ValueError(f"Unable to read section configuration from {config_path}: {error}") from error
+    if not isinstance(config, dict):
+        raise ValueError("Section configuration must be a JSON object.")
+
+    appendices = config.get("appendices", [])
+    if not isinstance(appendices, list):
+        raise ValueError("Appendices configuration must be a list.")
+
+    parsed: List[Dict[str, Any]] = []
+    appendix_keys: set[str] = set()
+    for appendix in appendices:
+        if not isinstance(appendix, dict):
+            raise ValueError("Each appendix entry must be an object with a name and page range.")
+        if "name" not in appendix or "startPage" not in appendix or "endPage" not in appendix:
+            raise ValueError("Each appendix must contain name, startPage, and endPage.")
+        name = appendix["name"]
+        start_page = appendix["startPage"]
+        end_page = appendix["endPage"]
+        if not isinstance(name, str) or not name.strip():
+            raise ValueError("Each appendix name must be a non-empty string.")
+        if (
+            not isinstance(start_page, int)
+            or isinstance(start_page, bool)
+            or not isinstance(end_page, int)
+            or isinstance(end_page, bool)
+        ):
+            raise ValueError(f"Appendix {name!r} page numbers must be integers.")
+        appendix_key = normalize_appendix_key(name)
+        if appendix_key in appendix_keys:
+            raise ValueError(f"Appendix names must be unique after normalization: {name!r}.")
+        appendix_keys.add(appendix_key)
+        parsed.append({"name": name.strip(), "key": appendix_key, "startPage": start_page, "endPage": end_page})
+    return parsed
+
+
 def load_section_ranges(config_path: Path) -> Dict[str, Tuple[int, int]]:
     try:
         config = json.loads(config_path.read_text(encoding="utf-8"))
@@ -494,6 +538,7 @@ def build_parse_cache_key(
     ocr_retry_dpi: int | None = None,
     chapter_ranges: List[Tuple[int, int]] | None = None,
     section_ranges: Dict[str, Tuple[int, int]] | None = None,
+    appendix_ranges: List[Dict[str, Any]] | None = None,
 ) -> str:
     payload = {
         "parser_version": 5,
@@ -505,6 +550,7 @@ def build_parse_cache_key(
         "chapter_starts": chapter_starts or [],
         "chapter_ranges": chapter_ranges or [],
         "section_ranges": section_ranges or {},
+        "appendix_ranges": appendix_ranges or [],
     }
     digest = hashlib.sha256()
     digest.update(json.dumps(payload, sort_keys=True, separators=(",", ":")).encode("utf-8"))
@@ -620,6 +666,47 @@ def cleanup_stale_outputs(
     except OSError:
         pass
 
+    previous_appendices = previous_manifest.get("appendices", [])
+    current_appendices = current_manifest.get("appendices", [])
+    if isinstance(previous_appendices, dict):
+        previous_appendices = [
+            {"key": key, **value}
+            for key, value in previous_appendices.items()
+            if isinstance(value, dict)
+        ]
+    if not isinstance(previous_appendices, list) or not isinstance(current_appendices, list):
+        return
+    current_appendix_keys = {
+        appendix.get("key")
+        for appendix in current_appendices
+        if isinstance(appendix, dict) and isinstance(appendix.get("key"), str)
+    }
+    appendices_root = book_out_dir / "appendices"
+    if appendices_root.is_symlink():
+        return
+    for appendix in previous_appendices:
+        if not isinstance(appendix, dict):
+            continue
+        appendix_key = appendix.get("key")
+        if not isinstance(appendix_key, str) or not re.fullmatch(r"[a-z0-9]+(?:-[a-z0-9]+)*", appendix_key):
+            continue
+        if appendix_key in current_appendix_keys:
+            continue
+        appendix_dir = appendices_root / appendix_key
+        content_path = appendix_dir / "content.md"
+        if appendix_dir.is_symlink() or content_path.is_symlink():
+            continue
+        if content_path.is_file():
+            content_path.unlink()
+        try:
+            appendix_dir.rmdir()
+        except OSError:
+            pass
+    try:
+        appendices_root.rmdir()
+    except OSError:
+        pass
+
 
 def publish_staged_outputs(
     staged_book_dir: Path,
@@ -700,6 +787,7 @@ def parse_book(
     chapter_config_path = pdf_path.with_name("chapters.json")
     configured_ranges = load_chapter_ranges(chapter_config_path) if chapter_config_path.exists() else None
     configured_sections = load_section_ranges(chapter_config_path) if chapter_config_path.exists() else {}
+    configured_appendices = load_appendix_ranges(chapter_config_path) if chapter_config_path.exists() else []
     effective_starts = None if configured_ranges is not None else chapter_starts
     cache_key = build_parse_cache_key(
         pdf_path,
@@ -710,6 +798,7 @@ def parse_book(
         ocr_retry_dpi,
         configured_ranges,
         configured_sections,
+        configured_appendices,
     )
     if previous_manifest.get("cacheKey") == cache_key and manifest_path.exists():
         return previous_manifest
@@ -731,6 +820,16 @@ def parse_book(
                     current_range = ordered_sections[index][1]
                     if current_range[0] <= previous_range[1]:
                         raise ValueError("Configured sections must not overlap each other.")
+                appendix_ranges = [
+                    (appendix["startPage"], appendix["endPage"])
+                    for appendix in configured_appendices
+                ]
+                for appendix_range in appendix_ranges:
+                    validate_explicit_chapter_ranges([appendix_range], page_count)
+                ordered_appendix_ranges = sorted(appendix_ranges)
+                for index in range(1, len(ordered_appendix_ranges)):
+                    if ordered_appendix_ranges[index][0] <= ordered_appendix_ranges[index - 1][1]:
+                        raise ValueError("Configured appendices must not overlap each other.")
                 page_text_by_num, edge_lines_by_num = collect_page_text(
                     doc,
                     book_name,
@@ -785,10 +884,28 @@ def parse_book(
                         encoding="utf-8",
                     )
                     section_manifest[section_type] = {
+                        "name": section_type,
                         "startPage": start_page,
                         "endPage": end_page,
                         "contentPath": f"sections/{section_type}/content.md",
                     }
+
+                appendix_manifest: List[Dict[str, Any]] = []
+                for appendix in configured_appendices:
+                    appendix_dir = staged_book_dir / "appendices" / appendix["key"]
+                    appendix_dir.mkdir(parents=True, exist_ok=True)
+                    (appendix_dir / "content.md").write_text(
+                        chapter_text_from_range(
+                            page_text_by_num, appendix["startPage"], appendix["endPage"]
+                        ),
+                        encoding="utf-8",
+                    )
+                    appendix_manifest.append(
+                        {
+                            **appendix,
+                            "contentPath": f"appendices/{appendix['key']}/content.md",
+                        }
+                    )
 
                 book_manifest = {
                     "bookName": book_name,
@@ -796,6 +913,7 @@ def parse_book(
                     "cacheKey": cache_key,
                     "chapters": chapter_manifest,
                     "sections": section_manifest,
+                    "appendices": appendix_manifest,
                 }
                 (staged_book_dir / "book_manifest.json").write_text(
                     json.dumps(book_manifest, ensure_ascii=False, indent=2), encoding="utf-8"
