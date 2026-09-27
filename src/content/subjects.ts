@@ -11,6 +11,18 @@ export const subjects = [
   { id: 'WeightBalance', title: 'Aircraft Weight and Balance Handbook' },
 ] as const;
 
+export const pplCategories = [
+  { id: 'air-law', title: 'Авіаційне право', description: 'Правила польотів, відповідальність пілота та повітряний простір', bookId: 'PHAK' },
+  { id: 'human-performance', title: 'Людський фактор', description: 'Фізіологія, втома, стрес і прийняття рішень', bookId: 'RiskManagement' },
+  { id: 'meteorology', title: 'Метеорологія', description: 'Атмосфера, погода, METAR, TAF та обледеніння', bookId: 'Weather' },
+  { id: 'communications', title: 'Радіозв’язок', description: 'Фразеологія, повідомлення та робота з диспетчером', bookId: 'InstrumentProcedures' },
+  { id: 'principles-of-flight', title: 'Принципи польоту', description: 'Аеродинаміка, стійкість, керованість і звалювання', bookId: 'AFH' },
+  { id: 'operational-procedures', title: 'Експлуатаційні процедури', description: 'Підготовка, безпека, аварійні та нестандартні ситуації', bookId: 'AFH' },
+  { id: 'flight-performance', title: 'Льотні характеристики та планування', description: 'Зліт, посадка, дальність, витрата пального та маса', bookId: 'WeightBalance' },
+  { id: 'aircraft-general-knowledge', title: 'Загальні знання про літак', description: 'Системи, двигун, прилади та обладнання повітряного судна', bookId: 'PHAK' },
+  { id: 'navigation', title: 'Навігація', description: 'Карти, курси, висоти, час і навігаційні засоби', bookId: 'Instrument' },
+] as const;
+
 export type Lesson = {
   slug: string;
   title: string;
