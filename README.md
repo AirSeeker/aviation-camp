@@ -29,6 +29,18 @@ For full parser documentation, see:
 
 - [README_parser.md](README_parser.md)
 
+## Content generator
+
+The content generation pipeline lives in:
+
+- `scripts/generate_content.py`
+
+It uses parsed chapters and the Gemini API to create validated English MDX lessons with quizzes and metadata under `src/content/docs`.
+
+For setup, workflow, CLI options, fallback behavior, and validation, see:
+
+- [README_generator.md](README_generator.md)
+
 ## Common commands
 
 Activate the environment:
