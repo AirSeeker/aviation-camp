@@ -66,11 +66,14 @@ Each book folder can contain a `chapters.json` file next to its PDF. Ranges use 
   "chapters": [
     { "number": 1, "startPage": 22, "endPage": 37 },
     { "number": 2, "startPage": 38, "endPage": 61 }
-  ]
+  ],
+  "glossary": { "startPage": 373, "endPage": 391 },
+  "acronyms": null,
+  "emergencyProcedures": { "startPage": 350, "endPage": 372 }
 }
 ```
 
-The parser validates that ranges are in order, inside the PDF, and do not overlap. Pages may be skipped between chapters. When a per-book config exists, it takes precedence over automatic detection and the legacy global overrides.
+Section ranges are optional; use `null` when a book has no separate section. The parser writes configured sections to `sections/<section>/content.md` and records their ranges in `book_manifest.json`. Section ranges are validated against the PDF and cannot overlap each other. Pages may be skipped between chapter ranges. When a per-book config exists, it takes precedence over automatic detection and the legacy global overrides.
 
 For compatibility, `resources/library/chapter_overrides.json` remains supported as a fallback for PDFs without a local `chapters.json`.
 
@@ -89,6 +92,10 @@ resources/parsed/<BookName>/
   ch02/
     content.md
     images_manifest.json
+  sections/
+    glossary/content.md
+    acronyms/content.md
+    emergencyProcedures/content.md
 ```
 
 ### Images

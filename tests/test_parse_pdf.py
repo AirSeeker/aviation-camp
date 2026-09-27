@@ -17,6 +17,7 @@ from scripts.parse_pdf import (
     infer_image_kind,
     load_chapter_overrides,
     load_chapter_ranges,
+    load_section_ranges,
     main,
     needs_ocr_retry,
     open_pdf_document,
@@ -395,6 +396,19 @@ class OverrideAndIdentityTests(unittest.TestCase):
             path.write_text('{"chapters": [{"startPage": 2, "endPage": 8}]}', encoding="utf-8")
             self.assertEqual(load_chapter_ranges(path), [(2, 8)])
 
+    def test_loads_optional_section_ranges_from_sidecar(self) -> None:
+        with TemporaryDirectory() as directory:
+            path = Path(directory) / "chapters.json"
+            path.write_text(
+                '{"glossary": {"startPage": 9, "endPage": 10}, "acronyms": null, '
+                '"emergencyProcedures": {"startPage": 11, "endPage": 12}}',
+                encoding="utf-8",
+            )
+            self.assertEqual(
+                load_section_ranges(path),
+                {"glossary": (9, 10), "emergencyProcedures": (11, 12)},
+            )
+
     def test_detects_pdfs_sharing_an_output_folder(self) -> None:
         collisions = find_book_output_collisions(
             [Path("library/Book/first.pdf"), Path("library/Book/second.pdf"), Path("library/Other/book.pdf")]
@@ -411,22 +425,33 @@ class CleanupStaleOutputsTests(unittest.TestCase):
             old_chapter_dir = book_dir / "ch02"
             old_image_dir = image_book_dir / "ch02"
             active_image_dir = image_book_dir / "ch01"
+            old_acronyms_dir = book_dir / "sections" / "acronyms"
+            active_glossary_dir = book_dir / "sections" / "glossary"
             old_chapter_dir.mkdir(parents=True)
             old_image_dir.mkdir(parents=True)
             active_image_dir.mkdir(parents=True)
+            old_acronyms_dir.mkdir(parents=True)
+            active_glossary_dir.mkdir(parents=True)
             (old_chapter_dir / "content_raw.txt").write_text("old generated text", encoding="utf-8")
             (old_chapter_dir / "custom.txt").write_text("keep", encoding="utf-8")
             (old_image_dir / "img_p2_1.png").write_bytes(b"stale")
             (old_image_dir / "custom.png").write_bytes(b"keep")
             (active_image_dir / "img_p1_2.png").write_bytes(b"stale")
+            (old_acronyms_dir / "content.md").write_text("stale section", encoding="utf-8")
+            (old_acronyms_dir / "custom.md").write_text("keep", encoding="utf-8")
+            (active_glossary_dir / "content.md").write_text("current section", encoding="utf-8")
 
             previous = {
                 "chapters": [
                     {"chapter": "ch01", "images": [{"file": "img_p1_2.png"}]},
                     {"chapter": "ch02", "images": [{"file": "img_p2_1.png"}]},
-                ]
+                ],
+                "sections": {"acronyms": {}, "glossary": {}},
             }
-            current = {"chapters": [{"chapter": "ch01", "images": [{"file": "img_p1_1.png"}]}]}
+            current = {
+                "chapters": [{"chapter": "ch01", "images": [{"file": "img_p1_1.png"}]}],
+                "sections": {"glossary": {}},
+            }
 
             cleanup_stale_outputs(book_dir, image_book_dir, previous, current)
 
@@ -435,6 +460,9 @@ class CleanupStaleOutputsTests(unittest.TestCase):
             self.assertTrue((old_chapter_dir / "custom.txt").exists())
             self.assertFalse((old_image_dir / "img_p2_1.png").exists())
             self.assertTrue((old_image_dir / "custom.png").exists())
+            self.assertFalse((old_acronyms_dir / "content.md").exists())
+            self.assertTrue((old_acronyms_dir / "custom.md").exists())
+            self.assertTrue((active_glossary_dir / "content.md").is_file())
 
 
 class PublishStagedOutputsTests(unittest.TestCase):
@@ -540,6 +568,45 @@ class ParseBookIntegrationTests(unittest.TestCase):
                 (output_root / "ConfiguredBook" / "ch01" / "content.md").read_text(encoding="utf-8"),
                 "Page 2 content\n\nPage 3 content",
             )
+
+    def test_parses_glossary_acronyms_and_emergency_procedures_separately(self) -> None:
+        with TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as directory:
+            root = Path(directory)
+            source_dir = root / "ConfiguredBook"
+            source_dir.mkdir()
+            pdf_path = source_dir / "source.pdf"
+            doc = fitz.open()
+            page_texts = [
+                "Chapter 1: Basics\nChapter lesson content",
+                "More chapter lesson content",
+                "Glossary terminology",
+                "Acronym definitions",
+                "Emergency procedure steps",
+            ]
+            for text in page_texts:
+                doc.new_page().insert_text((72, 72), text)
+            doc.save(pdf_path)
+            doc.close()
+            (source_dir / "chapters.json").write_text(
+                '{"chapters": [{"number": 1, "startPage": 1, "endPage": 2}], '
+                '"glossary": {"startPage": 3, "endPage": 3}, '
+                '"acronyms": {"startPage": 4, "endPage": 4}, '
+                '"emergencyProcedures": {"startPage": 5, "endPage": 5}}',
+                encoding="utf-8",
+            )
+
+            output_root = root / "parsed"
+            manifest = parse_book(pdf_path, output_root, root / "images")
+            sections = manifest["sections"]
+
+            self.assertEqual(set(sections), {"glossary", "acronyms", "emergencyProcedures"})
+            for section_type, expected_text in (
+                ("glossary", "Glossary terminology"),
+                ("acronyms", "Acronym definitions"),
+                ("emergencyProcedures", "Emergency procedure steps"),
+            ):
+                section_path = output_root / "ConfiguredBook" / sections[section_type]["contentPath"]
+                self.assertEqual(section_path.read_text(encoding="utf-8"), expected_text)
 
     def test_skips_reparsing_when_pdf_hash_is_unchanged(self) -> None:
         with TemporaryDirectory(dir=Path(__file__).resolve().parents[1]) as directory:

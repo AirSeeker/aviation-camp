@@ -180,6 +180,37 @@ def load_chapter_ranges(config_path: Path) -> List[Tuple[int, int]]:
     return ranges
 
 
+SECTION_TYPES = ("glossary", "acronyms", "emergencyProcedures")
+
+
+def load_section_ranges(config_path: Path) -> Dict[str, Tuple[int, int]]:
+    try:
+        config = json.loads(config_path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError) as error:
+        raise ValueError(f"Unable to read section configuration from {config_path}: {error}") from error
+    if not isinstance(config, dict):
+        raise ValueError("Section configuration must be a JSON object.")
+
+    sections: Dict[str, Tuple[int, int]] = {}
+    for section_type in SECTION_TYPES:
+        section = config.get(section_type)
+        if section is None:
+            continue
+        if not isinstance(section, dict) or "startPage" not in section or "endPage" not in section:
+            raise ValueError(f"Section {section_type!r} must contain startPage and endPage.")
+        start_page = section["startPage"]
+        end_page = section["endPage"]
+        if (
+            not isinstance(start_page, int)
+            or isinstance(start_page, bool)
+            or not isinstance(end_page, int)
+            or isinstance(end_page, bool)
+        ):
+            raise ValueError(f"Section {section_type!r} page numbers must be integers.")
+        sections[section_type] = (start_page, end_page)
+    return sections
+
+
 def detect_chapter_ranges(
     doc: fitz.Document,
     page_count: int,
@@ -462,9 +493,10 @@ def build_parse_cache_key(
     chapter_starts: List[int] | None,
     ocr_retry_dpi: int | None = None,
     chapter_ranges: List[Tuple[int, int]] | None = None,
+    section_ranges: Dict[str, Tuple[int, int]] | None = None,
 ) -> str:
     payload = {
-        "parser_version": 4,
+        "parser_version": 5,
         "pdf": str(pdf_path.resolve()),
         "ocr": bool(ocr),
         "ocr_language": ocr_language,
@@ -472,6 +504,7 @@ def build_parse_cache_key(
         "ocr_retry_dpi": int(ocr_retry_dpi) if ocr_retry_dpi is not None else None,
         "chapter_starts": chapter_starts or [],
         "chapter_ranges": chapter_ranges or [],
+        "section_ranges": section_ranges or {},
     }
     digest = hashlib.sha256()
     digest.update(json.dumps(payload, sort_keys=True, separators=(",", ":")).encode("utf-8"))
@@ -562,6 +595,31 @@ def cleanup_stale_outputs(
                 except OSError:
                     pass
 
+    current_sections = current_manifest.get("sections", {})
+    previous_sections = previous_manifest.get("sections", {})
+    if not isinstance(current_sections, dict) or not isinstance(previous_sections, dict):
+        return
+    sections_root = book_out_dir / "sections"
+    if sections_root.is_symlink():
+        return
+    for section_type in previous_sections:
+        if section_type not in SECTION_TYPES or section_type in current_sections:
+            continue
+        section_dir = sections_root / section_type
+        content_path = section_dir / "content.md"
+        if section_dir.is_symlink() or content_path.is_symlink():
+            continue
+        if content_path.is_file():
+            content_path.unlink()
+        try:
+            section_dir.rmdir()
+        except OSError:
+            pass
+    try:
+        sections_root.rmdir()
+    except OSError:
+        pass
+
 
 def publish_staged_outputs(
     staged_book_dir: Path,
@@ -641,9 +699,17 @@ def parse_book(
 
     chapter_config_path = pdf_path.with_name("chapters.json")
     configured_ranges = load_chapter_ranges(chapter_config_path) if chapter_config_path.exists() else None
+    configured_sections = load_section_ranges(chapter_config_path) if chapter_config_path.exists() else {}
     effective_starts = None if configured_ranges is not None else chapter_starts
     cache_key = build_parse_cache_key(
-        pdf_path, ocr, ocr_language, ocr_dpi, effective_starts, ocr_retry_dpi, configured_ranges
+        pdf_path,
+        ocr,
+        ocr_language,
+        ocr_dpi,
+        effective_starts,
+        ocr_retry_dpi,
+        configured_ranges,
+        configured_sections,
     )
     if previous_manifest.get("cacheKey") == cache_key and manifest_path.exists():
         return previous_manifest
@@ -657,6 +723,14 @@ def parse_book(
                 staged_image_book_dir.mkdir()
 
                 page_count = doc.page_count
+                for section_range in configured_sections.values():
+                    validate_explicit_chapter_ranges([section_range], page_count)
+                ordered_sections = sorted(configured_sections.items(), key=lambda item: item[1][0])
+                for index in range(1, len(ordered_sections)):
+                    previous_range = ordered_sections[index - 1][1]
+                    current_range = ordered_sections[index][1]
+                    if current_range[0] <= previous_range[1]:
+                        raise ValueError("Configured sections must not overlap each other.")
                 page_text_by_num, edge_lines_by_num = collect_page_text(
                     doc,
                     book_name,
@@ -702,11 +776,26 @@ def parse_book(
                         }
                     )
 
+                section_manifest: Dict[str, Dict[str, Any]] = {}
+                for section_type, (start_page, end_page) in configured_sections.items():
+                    section_dir = staged_book_dir / "sections" / section_type
+                    section_dir.mkdir(parents=True, exist_ok=True)
+                    (section_dir / "content.md").write_text(
+                        chapter_text_from_range(page_text_by_num, start_page, end_page),
+                        encoding="utf-8",
+                    )
+                    section_manifest[section_type] = {
+                        "startPage": start_page,
+                        "endPage": end_page,
+                        "contentPath": f"sections/{section_type}/content.md",
+                    }
+
                 book_manifest = {
                     "bookName": book_name,
                     "sourcePdf": str(pdf_path.relative_to(ROOT)),
                     "cacheKey": cache_key,
                     "chapters": chapter_manifest,
+                    "sections": section_manifest,
                 }
                 (staged_book_dir / "book_manifest.json").write_text(
                     json.dumps(book_manifest, ensure_ascii=False, indent=2), encoding="utf-8"
