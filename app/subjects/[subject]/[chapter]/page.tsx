@@ -14,6 +14,11 @@ export const dynamicParams = false;
 type LessonFigure = { relativePath: string; figureRef?: string; page?: number };
 
 async function getLessonFigures(book: string, chapter: string, source: string): Promise<LessonFigure[]> {
+  const hasInlineImages = /<img\s+src=/.test(source);
+  if (hasInlineImages) {
+    return [];
+  }
+
   try {
     const manifestPath = path.join(process.cwd(), 'resources', 'parsed', book, chapter, 'images_manifest.json');
     const manifest = JSON.parse(await readFile(manifestPath, 'utf8')) as { images?: LessonFigure[] };
@@ -50,7 +55,8 @@ export default async function LessonPage({ params }: { params: { subject: string
   const lesson = (await getLessons()).find((item) => item.slug === params.chapter && item.book === subject?.id);
   if (!subject || !lesson) return null;
 
-  const figures = await getLessonFigures(subject.id, lesson.slug, lesson.source);
+  const hasInlineImages = /<img\s+src=/.test(lesson.source);
+  const figures = hasInlineImages ? [] : await getLessonFigures(subject.id, lesson.slug, lesson.source);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
   try {
@@ -98,7 +104,7 @@ export default async function LessonPage({ params }: { params: { subject: string
       {lesson.sourcePageStart && lesson.sourcePageEnd && <p className="source-citation">Source: {subject.title}, PDF pp. {lesson.sourcePageStart}–{lesson.sourcePageEnd}</p>}
       <LessonCompletion lessonId={lessonId} />
       <div className="lesson-content">{content}</div>
-      {figures.length > 0 && <section className="lesson-figures" aria-label="Chapter illustrations">
+      {!hasInlineImages && figures.length > 0 && <section className="lesson-figures" aria-label="Chapter illustrations">
         {figures.map((figure, index) => <figure key={figure.relativePath}>
           <LessonImage src={figure.relativePath} alt={figure.figureRef || `Illustration ${index + 1}`} />
           <figcaption>{figure.figureRef || `Illustration ${index + 1}`}{figure.page ? ` · PDF p. ${figure.page}` : ''}</figcaption>
