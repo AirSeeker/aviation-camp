@@ -2,6 +2,8 @@
 
 This project collects, parses, and organizes aviation training manuals into chapter-level content and image assets.
 
+For a complete architecture, data-flow, feature, setup, and validation guide, see [PROJECT_GUIDE.md](PROJECT_GUIDE.md).
+
 ## Included documents
 
 The library includes FAA training material under `resources/library`, including:
