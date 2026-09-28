@@ -15,20 +15,43 @@ export const dynamicParams = false;
 type LessonFigure = { relativePath: string; figureRef?: string; page?: number };
 
 async function getLessonFigures(book: string, chapter: string, source: string): Promise<LessonFigure[]> {
-  const hasInlineImages = /<img\s+src=/.test(source);
-  if (hasInlineImages) {
-    return [];
-  }
-
   try {
     const manifestPath = path.join(process.cwd(), 'resources', 'parsed', book, chapter, 'images_manifest.json');
     const manifest = JSON.parse(await readFile(manifestPath, 'utf8')) as { images?: LessonFigure[] };
     return (manifest.images || [])
       .filter((image) => image.relativePath?.startsWith('/images/') && !source.includes(image.relativePath))
-      .slice(0, 8);
   } catch {
     return [];
   }
+}
+
+function insertLessonFigures(source: string, figures: LessonFigure[]): string {
+  if (figures.length === 0) return source;
+
+  const frontmatter = source.match(/^---\s*\n[\s\S]*?\n---\s*/);
+  const prefix = frontmatter?.[0] || '';
+  const remaining = source.slice(prefix.length);
+  const quizStart = remaining.search(/<Quiz\b/);
+  const body = quizStart < 0 ? remaining : remaining.slice(0, quizStart);
+  const quiz = quizStart < 0 ? '' : remaining.slice(quizStart);
+  const blocks = body.split(/\n\s*\n/);
+  const textBlockIndexes = blocks.flatMap((block, index) => {
+    const text = block.replace(/<[^>]+>/g, '').replace(/[#>*_`~\-\d.]/g, '').trim();
+    return text ? [index] : [];
+  });
+  if (textBlockIndexes.length === 0) return source;
+
+  const insertions = new Map<number, string[]>();
+  figures.forEach((figure, index) => {
+    const targetIndex = textBlockIndexes[Math.floor(((index + 1) * textBlockIndexes.length) / (figures.length + 1))] ?? textBlockIndexes.at(-1)!;
+    const label = figure.figureRef || `Illustration ${index + 1}`;
+    const pageLabel = figure.page ? ` · PDF p. ${figure.page}` : '';
+    const figureMarkup = `<figure>\n<img src="${figure.relativePath}" alt="${label}" />\n<figcaption>${label}${pageLabel}</figcaption>\n</figure>`;
+    insertions.set(targetIndex, [...(insertions.get(targetIndex) || []), figureMarkup]);
+  });
+
+  const content = blocks.flatMap((block, index) => [block, ...(insertions.get(index) || [])]).join('\n\n');
+  return `${prefix}${content}${quiz}`;
 }
 
 function LessonImage({ src, alt }: { src?: string; alt?: string }) {
@@ -56,12 +79,11 @@ export default async function LessonPage({ params }: { params: { subject: string
   const lesson = (await getLessons()).find((item) => item.slug === params.chapter && item.book === subject?.id);
   if (!subject || !lesson) return null;
 
-  const hasInlineImages = /<img\s+src=/.test(lesson.source);
-  const figures = hasInlineImages ? [] : await getLessonFigures(subject.id, lesson.slug, lesson.source);
+  const figures = await getLessonFigures(subject.id, lesson.slug, lesson.source);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
+  const source = insertLessonFigures(lesson.source, figures).replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1');
   try {
-    const source = lesson.source.replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1');
     ({ content } = await compileMDX({
       source,
       components: {
@@ -70,9 +92,22 @@ export default async function LessonPage({ params }: { params: { subject: string
       },
     }));
   } catch {
-    const paragraphs = lesson.source.replace(/<Quiz\b[\s\S]*?\/>/g, '')
-      .replace(/<img\b[^>]*\/?\s*>/g, '').replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[*_`]/g, '')
-      .split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+    const fallbackContent = source.replace(/<Quiz\b[\s\S]*?\/>/g, '');
+    const contentParts = fallbackContent.split(/(<figure\b[\s\S]*?<\/figure>|<img\b[^>]*\/?\s*>)/g);
+    const fallbackBlocks: ReactNode[] = [];
+    contentParts.forEach((part, index) => {
+      const image = part.match(/<img\b[^>]*\bsrc="([^"]+)"[^>]*>/);
+      if (image) {
+        const alt = part.match(/\balt="([^"]*)"/)?.[1] || '';
+        const caption = part.match(/<figcaption>([\s\S]*?)<\/figcaption>/)?.[1];
+        fallbackBlocks.push(<figure key={`figure-${index}`}><LessonImage src={image[1]} alt={alt} />{caption && <figcaption>{caption}</figcaption>}</figure>);
+        return;
+      }
+
+      const paragraphs = part.replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[*_`]/g, '')
+        .split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+      fallbackBlocks.push(...paragraphs.map((paragraph, paragraphIndex) => <p key={`paragraph-${index}-${paragraphIndex}`}>{paragraph.replace(/\n/g, ' ')}</p>));
+    });
 
     let fallbackQuiz: ReactNode = null;
     const quizMatch = lesson.source.match(/<Quiz\s+questions=\{\s*(\[[\s\S]*?\])\s*\}\s*\/?>/);
@@ -88,7 +123,7 @@ export default async function LessonPage({ params }: { params: { subject: string
     }
 
     content = <div>
-      {paragraphs.map((paragraph, index) => <p key={index}>{paragraph.replace(/\n/g, ' ')}</p>)}
+      {fallbackBlocks}
       {fallbackQuiz ? <div>{fallbackQuiz}</div> : null}
     </div>;
   }
@@ -106,12 +141,6 @@ export default async function LessonPage({ params }: { params: { subject: string
       <LessonCompletion lessonId={lessonId} />
       <VoiceReader text={lesson.source} label="Read chapter aloud" />
       <div className="lesson-content">{content}</div>
-      {!hasInlineImages && figures.length > 0 && <section className="lesson-figures" aria-label="Chapter illustrations">
-        {figures.map((figure, index) => <figure key={figure.relativePath}>
-          <LessonImage src={figure.relativePath} alt={figure.figureRef || `Illustration ${index + 1}`} />
-          <figcaption>{figure.figureRef || `Illustration ${index + 1}`}{figure.page ? ` · PDF p. ${figure.page}` : ''}</figcaption>
-        </figure>)}
-      </section>}
     </article>
   </main>;
 }
