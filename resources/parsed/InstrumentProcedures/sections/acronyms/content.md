@@ -1,0 +1,387 @@
+Appendix B
+Acronyms
+Acronyms
+A
+AAC—Aircraft Administration Communications
+AAUP—Attention All Users Page
+AC—Advisory Circular
+ACARS—Aircraft Communications Addressing and Reporting System
+ADCs—Air Data Computer
+ADDS—Aviation Digital Data Services
+ADF—Automatic Direction Finder
+ADS—Automatic Dependent Surveillance
+ADS-B—Automatic Dependent Surveillance-Broadcast
+AEG—Aircraft Evaluation Group
+A/FD—Airport/Facility Directory section of the Chart Supplement (CS)
+AFM—Aircraft Flight Manual
+AFMS—Aircraft Flight Manual Supplements
+AFS—Aircraft Flight Safety
+AFS—Flight Standards Service
+AFSS—Automated Flight Service Station
+AGL—Above Ground Level
+AIM—Aeronautical Information Manual
+AIP—Aeronautical Information Publication
+AIR—Aircraft Certification Service
+AIRMET—Airman’s Meteorological Information
+ALT ACQ—Altitude Acquire
+ALT Hold—Altitude Hold
+ANP—Actual Navigation Performance
+AOC—Aircraft Operational Communications
+APT WP—Airport Waypoint
+APV—Approach with Vertical Guidance
+ARINC—Aeronautical Radio Incorporated
+A-RNAV—Advanced Area Navigation
+ARTCC—Air Route Traffic Control Center
+ARTS—Automated Radar Terminal System
+ASDA—Accelerate-Stop Distance Available
+ASDE-X—Airport Surface Detection Equipment-Model X
+A-SMGCS—Advanced Surface Movement Guidance and Control System
+ASOS—Automated Surface Observing System
+ASR—Airport Surveillance Radar
+ASRS—Aviation Safety Reporting System
+ATA—Air Transport Association
+ATC—Air Traffic Control
+ATCAA—Air Traffic Control Assigned Airspace
+ATCRBS—Air Traffic Control Radar Beacon System
+ATCS—Air Traffic Control Specialist
+ATD—Along-Track Distance
+B-1
+
+ATIS—Automatic Terminal Information Service
+ATS—Air Traffic Service
+AWC—Aviation Weather Center
+AWOS—Automated Weather Observing System
+AWSS—Automated Weather Sensor System
+B
+Baro-VNAV—Barometric Vertical Navigation
+B-RNAV—European Basic RNAV
+C
+CAT—Category
+CDI—Course Deviation Indicator
+CDL—Configuration Deviation List
+CENRAP—Center Radar ARTS Processing
+CFA—Controlled Firing Areas
+CFIT—Controlled Flight Into Terrain
+CFR—Code of Federal Regulations
+CNF—Computer Navigation Fix
+COP—Changeover Point
+COTS—Commercial Off-The-Shelf
+CRC—Cyclic Redundancy Check
+CS—Chart Supplement
+CTAF—Common Traffic Advisory Frequency
+CVFP—Charted Visual Flight Procedure
+CWAS—Center Weather Advisories
+D
+DA—Density Altitude; Decision Altitude
+D-ATIS—Digital Automatic Terminal Information Service
+D-CS—Digital Chart Supplement
+DDA—Derived Decision Altitude
+DEM—Digital Elevation Model
+DER—Departure End of the Runway
+DF—Direction Finding
+DH—Decision Height
+DME—Distance Measuring Equipment
+DOD—Department of Defense
+DOT—Department of Transportation
+DPs—Departure Procedures
+DRVSM—Domestic Reduced Vertical Separation Minimums
+DUATS—Direct User Access Terminal System
+DVA—Diverse Vector Area
+E
+E/D—End of Decent
+EDCT—Expect Departure Clearance Time
+EFAS—En-Route Flight Advisory Service
+EFB—Electronic Flight Bag
+EFC—Expect Further Clearance
+EFV—Enhanced Flight Visibility
+B-2
+
+EFVS—Enhanced Flight Vision System
+EGPWS—Enhanced Ground Proximity Warning System
+EOPs—Engine Out Procedures
+EOVM—Emergency Obstruction Video Map
+ER-OPS—Extended Range Operations
+ETA—Estimated Time of Arrival
+EV—Enhanced Vision
+EVO—Equivalent Visual Operations
+EWINS—Enhanced Weather Information System
+F
+FAA—Federal Aviation Administration
+FAF—Final Approach Fix
+FAP—Final Approach Point
+FB—Fly-By
+FCC—Federal Communications Commission
+FD—Flight Director
+FDP—Flight Data Processing
+FE—Flight Engineer
+FIR—Flight Information Region
+FIS—Flight Information System
+FIS-B—Flight Information Services–Broadcast
+FISDL—Flight Information Services Data Link
+FL—Flight Level
+FL CHG—Flight Level Change
+FLIR—Forward Looking Infra-Red
+FMC—Flight Management Computer
+FMS—Flight Management System
+FO—Fly-Over
+FOM—Flight Operations Manual
+FPA—Flight Path Angle
+FPV—Flight Path Vector
+FSB—Flight Standardization Board
+FSDO—Flight Standards District Office
+FSL—NOAA Forecast Systems Laboratory
+FSS—Flight Service Station
+G
+GBAS—Ground-Based Augmentation System
+GCA—Ground Controlled Approach
+GCO—Ground Communication Outlet
+GDP—Ground Delay Programs
+GDPE—Ground Delay Program Enhancements
+GLS—Ground Based Augmentation System Landing System
+GNSS—Global Navigation Satellite System
+GPS—Global Positioning System
+GPWS—Ground Proximity Warning System
+G/S—Glide Slope
+GS—Ground Speed
+GWS—Graphical Weather Service
+B-3
+
+H
+HAA—Height Above Airport
+HAR—High Altitude Redesign
+HAT—Height Above Touchdown
+HAZMAT—Hazardous Materials
+HDD—Head-Down Display
+HF—High Frequency
+HGS—Head-up Guidance System
+HIWAS—Hazardous In-flight Weather Advisory Service
+HSI—Horizontal Situation Indicator
+HUD—Head-up Display
+I
+IAF—Initial Approach Fix
+IAP—Instrument Approach Procedure
+IAS—Indicated Air Speed
+ICAO—International Civil Aviation Organization
+IF—Intermediate Fix
+IFR—Instrument Flight Rules
+IIMC—Inadvertent Instrument Meteorological Condition
+ILS—Instrument Landing System
+IMC—Instrument Meteorological Conditions
+INS—Inertial Navigation System
+IOC—Initial Operational Capability
+IRU—Inertial Reference Unit
+K
+KIAS—knots indicated airspeed
+KLAX—Los Angeles International Airport
+KLMU—Monroe Regional Airport
+L
+LAAS—Local Area Augmentation System
+LAHSO—Land And Hold Short Operations
+LDA—Localizer-type Directional Aid; Landing Distance Available
+LF—Low Frequency
+LNAV—Lateral Navigation
+LOC—Localizer
+LOM—Locator Outer Marker
+LPV—Localizer Performance with Vertical Guidance
+LTP—Landing Threshold Point
+LVL CHG—Level Change
+M
+MAA—Maximum Authorized Altitude
+MAHWP—Missed Approach Holding Waypoint
+MAMS—Military Airspace Management System
+MAP—Missed Approach Point
+MCA—Minimum Crossing Altitude
+B-4
+
+MDA—Minimum Descent Altitude
+MDH—Minimum Descent Height
+MEA—Minimum En-route Altitude
+MEL—Minimum Equipment List
+METAR—Aviation Routine Weather Report
+MF—Medium Frequency
+MIA—Minimum IFR Altitude
+MLS—Microwave Landing System
+MMWR—Millimeter Wave Radar
+MNPS—Minimum Navigation Performance Specifications
+MOA—Military Operations Area
+MOCA—Minimum Obstruction Clearance Altitude
+MOPS—Minimum Operational Performance Standards
+MORA—Minimum Off-Route Altitude
+MRA—Minimum Reception Altitude
+MSA—Minimum Safe Altitude
+MSAW—Minimum Safe Altitude Warning
+MSL—Mean Sea Level
+MTA—Minimum Turning Altitude
+MTR—Military Training Route
+MVA—Minimum Vectoring Altitude
+N
+NA—Not Authorized
+NACO—National Aeronautical Charting Office
+NAS—National Airspace System
+NASA—National Aeronautics and Space Administration
+NAT—North Atlantic
+NAVAID—Navigational Aid
+NCAR—National Center for Atmospheric Research
+NDB—Non-Directional Beacon
+NextGen—Next Generation Air Transportation System
+NFDC—National Flight Data Center
+NGA—National Geospatial- Intelligence Agency
+NM—Nautical Mile
+NMAC—Near Mid-Air Collision
+NNEW—Next Generation Network-Enabled
+NOAA—National Oceanic and Atmospheric Administration
+NO A/G—No Air-to-Ground Communication
+NOPAC—North Pacific
+NOTAM—Notice to Airmen
+NOZ—Normal Operating Zone
+NPA—Non-Precision Approach
+NRR—Non-Restrictive Routing
+NRS—National Reference System
+NTAP—Notice to Airmen Publication
+NTSB—National Transportation Safety Board
+NTZ—No Transgression Zone
+NVS—NAS voice switch
+NWS—National Weather Service
+B-5
+
+O
+OAT—Outside Air Temperature
+OBS—Omni Bearing Selector
+OCS—Obstacle Clearance Surface
+ODP—Obstacle Departure Procedure
+OpSpecs—Operations Specifications
+OROCA—Off-Route Obstruction Clearance Altitude
+OSV—Operational Service Volume
+P
+PA—Precision Approach
+PAR—Precision Approach Radar
+PCG—Positive Course Guidance
+PDC—Pre-Departure Clearance
+PDR—Preferential Departure Route
+PF—Pilot Flying
+PFD—Primary Flight Display
+PI—Principal Inspector
+PIC—Pilot In Command
+PIREP—Pilot Weather Report
+PKI—Public/Private Key Technology
+PM—Pilot Monitoring
+POH—Pilot’s Operating Handbook
+POI—Principle Operations Inspector
+PRM—Precision Runway Monitor
+P-RNAV—European Precision RNAV
+PT—Procedure Turn
+PTP—Point-To-Point
+Q
+QFE—Transition Height
+QNE—Transition Level
+QNH—Transition Altitude
+R
+RA—Resolution Advisory; Radio Altitude
+RAIM—Receiver Autonomous Integrity Monitoring
+RAL—Research Applications Laboratory
+RCO—Remote Communications Outlet
+RJ—Regional Jet
+RNAV—Area Navigation
+RNP—Required Navigation Performance
+RNP AR—Required Navigation Performance Authorization Required
+ROC—Required Obstacle Clearance
+RSP—Runway Safety Program
+RVR—Runway Visual Range
+RVSM—Reduced Vertical Separation Minimums
+RVV—Runway Visibility Value
+RWY—Runway
+RWY WP—Runway Waypoint
+B-6
+
+S
+SA—Situational Awareness
+SAMS—Special Use Airspace Management System
+SAR—Search and Rescue
+SAS—Stability Augmentation System
+SDF—Simplified Directional Facility
+SDR—Service Difficulty Reports
+SER—Start End of Runway
+SIAP—Standard Instrument Approach Procedure
+SID—Standard Instrument Departure
+SIGMET—Significant Meteorological Information
+SM—Statute Mile
+SMA—Surface Movement Advisor
+SMGCS—Surface Movement Guidance and Control System
+SOIA—Simultaneous Offset Instrument Approaches
+SOP—Standard Operating Procedure
+SPECI—Non-routine (Special) Aviation Weather Report
+SSV—Standard Service Volume
+STAR—Standard Terminal Arrival
+STARS—Standard Terminal Automation Replacement System
+STC—Supplemental Type Certificate
+SUA—Special Use Airspace
+SUA/ISE—Special Use Airspace/In-flight Service Enhancement
+SVFR—Special Visual Flight Rules
+SVGS – Synthetic Vision Guidance System
+SVS—Synthetic Vision System
+SWAP—Severe Weather Avoidance Plan
+SWIM—System Wide Information Management
+T
+TA—Traffic Advisory
+TAA—Terminal Arrival Area
+TACAN—Tactical Air Navigation
+TAF—Terminal Aerodrome Forecast
+TAS—True Air Speed
+TAWS—Terrain Awareness and Warning Systems
+TB—Track Bar
+TCAS—Traffic Alert and Collision Avoidance System
+TCH—Threshold Crossing Height
+TDLS—Terminal Data Link System
+TDZ—Touchdown Zone
+TDZE—Touchdown Zone Elevation
+TEC—Tower En-route Control
+TERPS—Terminal Instrument Procedures
+TFR—Temporary Flight Restriction
+TIBS—Telephone Information Briefing Service
+TIS-B—Traffic Information Service-Broadcast
+TIBS—Telephone Information Briefing Service
+TOC—Top Of Climb
+TOD—Top Of Descent
+TODA—Takeoff Distance Available
+TOGA—Takeoff/Go Around
+B-7
+
+TORA—Takeoff Runway Available
+TPP—Terminal Procedures Publication
+TRACAB—Terminal Radar Approach Control in Tower Cab
+TSO—Technical Standard Order
+TSOA—Technical Standing Order Authorization
+U
+UHF—Ultra High Frequency
+UNICOM—Universal Communications
+U.S.—United States
+USAF—United States Air Force
+USDA—United States Department of Agriculture
+V
+VCOA—Visual Climb Over Airport / Airfield
+VDA—Vertical Descent Angle
+VDP—Visual Descent Point
+VFR—Visual Flight Rules
+VGSI—Visual Glide Slope Indicator
+VHF—Very High Frequency
+VLJ—Very Light Jet
+VMC—Visual Meteorological Conditions
+VMINI—Minimum Speed–IFR
+VNAV—Vertical Navigation
+VNEI—Never-Exceed Speed-IFR
+VSI—Vertical Speed Indicator
+VOR—Very High-Frequency Omnidirectional Range
+VORTAC—Very High Frequency Omnidirectional Range/Tactical Air Navigation
+VOT—VOR Test Facility Signal
+VPA—Vertical Path Angle
+VREF—Reference Landing Speed
+V/S—Vertical Speed
+VSO—Stalling Speed or the Minimum Steady Flight Speed in the Landing Configuration
+W
+WAAS—Wide Area Augmentation System
+WAC—World Aeronautical Chart
+WAM—Wide Area Multi-lateration
+WP—Waypoint
+Z
+ZFW—Fort Worth Air Route Traffic Control Center
+B-8

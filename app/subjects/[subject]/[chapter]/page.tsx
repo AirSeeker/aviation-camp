@@ -66,7 +66,24 @@ export default async function LessonPage({ params }: { params: { subject: string
     const paragraphs = lesson.source.replace(/<Quiz\b[\s\S]*?\/>/g, '')
       .replace(/<img\b[^>]*\/?\s*>/g, '').replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[*_`]/g, '')
       .split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
-    content = <div>{paragraphs.map((paragraph, index) => <p key={index}>{paragraph.replace(/\n/g, ' ')}</p>)}</div>;
+
+    let fallbackQuiz: ReactNode = null;
+    const quizMatch = lesson.source.match(/<Quiz\s+questions=\{\s*(\[[\s\S]*?\])\s*\}\s*\/?>/);
+    if (quizMatch) {
+      try {
+        const questions = Function(`"use strict"; return (${quizMatch[1]});`)() as Array<{ question: string; options: string[]; correctAnswer: number; explanation: string }>;
+        if (Array.isArray(questions) && questions.length > 0) {
+          fallbackQuiz = <Quiz questions={questions} lessonId={lessonId} />;
+        }
+      } catch {
+        fallbackQuiz = null;
+      }
+    }
+
+    content = <div>
+      {paragraphs.map((paragraph, index) => <p key={index}>{paragraph.replace(/\n/g, ' ')}</p>)}
+      {fallbackQuiz ? <div>{fallbackQuiz}</div> : null}
+    </div>;
   }
 
   return <main className="reader-shell">

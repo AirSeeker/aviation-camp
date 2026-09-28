@@ -1,6 +1,6 @@
 ---
 title: "Energy Management: Mastering Altitude and Airspeed Control"
-description: "Understand the fundamentals of energy management in aviation, including potential and kinetic energy balance, net energy flow, and practical techniques to prevent loss of control."
+description: "Understand the fundamentals of managing aircraft energy state, balancing potential energy (altitude) and kinetic energy (airspeed), and avoiding energy-related hazards."
 subject: "Airplane Flying Handbook"
 chapterNumber: 4
 readTimeMinutes: 8
@@ -10,134 +10,112 @@ translationKey: "afh-ch04"
 
 ## Introduction
 
-Energy management is the process of planning, monitoring, and controlling altitude and airspeed targets in relation to the airplane's energy state. Rather than viewing pitch and power as isolated inputs, an energy-centered approach treats the aircraft as an integrated energy system.
+Energy management is the process of planning, monitoring, and controlling altitude and airspeed targets in relation to the airplane's energy state. Mastering energy management enables a pilot to:
 
-<img src="/images/AFH/ch04/img_p88_1.png" alt="Overview of energy management concepts in flight" />
-
-By mastering energy management, pilots can:
-1. Attain and maintain desired vertical flightpath and airspeed profiles (such as a stabilized climb or constant-speed descent).
+1. Attain and maintain desired vertical flightpath-airspeed profiles (such as a constant-airspeed climb or stabilized descent).
 2. Detect, correct, and prevent unintentional altitude and airspeed deviations.
-3. Prevent an irreversible deceleration or excessive sink rate that could culminate in an accident.
+3. Prevent an irreversible loss of airspeed or an excessive sink rate that could result in an accident.
 
-> **Attention:** Mismanagement of mechanical energy (altitude and airspeed) is a primary contributing factor in aviation's three most common fatal accident categories: Loss of Control In-Flight (LOC-I), Controlled Flight Into Terrain (CFIT), and approach-and-landing accidents.
+<img src="/images/AFH/ch04/img_p88_1.png" alt="Overview of aircraft energy management concepts" />
+
+> **Attention:** Mismanagement of mechanical energy (altitude and airspeed) is a leading contributing factor to aviation's three most common fatal accident categories: Loss of Control In-Flight (LOC-I), Controlled Flight Into Terrain (CFIT), and Approach-and-Landing Accidents.
 
 ---
 
-## Core Concepts
+## The Airplane as an Energy System
 
-### The Airplane as an Open Energy System
+To manage an airplane effectively, a pilot must visualize the aircraft as an open energy system. Total mechanical energy consists of two primary components:
 
-In flight, an airplane functions as an **open energy system**. It continuously takes in energy from engine **Thrust** (derived from chemical energy in the fuel) and expends energy to overcome aerodynamic **Drag**. 
+$$\text{Total Mechanical Energy} = \text{Potential Energy} + \text{Kinetic Energy}$$
 
-The total mechanical energy possessed by an airplane is the sum of its **potential energy** and **kinetic energy**:
-
-$$\text{Total Mechanical Energy} = mgh + \frac{1}{2}mV^2$$
+$$\text{Total Energy} = mgh + \frac{1}{2}mV^2$$
 
 Where:
-* $m$ = mass (aircraft **Weight**)
+* $m$ = mass (aircraft weight divided by gravity)
 * $g$ = acceleration due to gravity
 * $h$ = height (altitude)
-* $V$ = velocity (**Airspeed**)
+* $V$ = velocity (airspeed)
 
-<img src="/images/AFH/ch04/img_p89_2.png" alt="Potential versus kinetic energy distribution in an aircraft" />
-
-* **Potential Energy ($mgh$):** Stored in the form of altitude.
-* **Kinetic Energy ($\frac{1}{2}mV^2$):** Stored in the form of airspeed.
-
-Because energy can be transferred between these two states or added/removed from the system, the pilot acts as the energy manager.
-
----
+Because an airplane is an **open energy system**, energy can be introduced into the system (from the fuel tanks via engine Thrust) and dissipated into the surrounding environment (through aerodynamic Drag).
 
 ### Frame of Reference for Managing Energy
 
-A pilot’s operational frame of reference for managing the airplane's energy state is **airplane-centric**, relying on:
-* **Indicated Altitude:** Displayed on the altimeter relative to Mean Sea Level (MSL), not height Above Ground Level (AGL).
-* **Indicated Airspeed (IAS):** Displayed on the airspeed indicator relative to the surrounding airmass, not **Groundspeed**.
+A pilot’s frame of reference for managing the aircraft energy state is **airplane-centric**:
+* **Potential energy** is referenced to **indicated altitude** (mean sea level or MSL), rather than height above ground level (AGL), which varies with terrain.
+* **Kinetic energy** is referenced to **Indicated Airspeed (IAS)**, rather than Groundspeed, which varies with wind speed and direction.
 
-<img src="/images/AFH/ch04/img_p90_3.png" alt="Frame of reference comparing indicated flight parameters to external ground references" />
+While external factors like terrain elevation and wind dictate operational risks, the pilot directly controls mechanical energy through flight control and throttle inputs that govern airspeed and altitude.
 
-Direct control inputs (elevator, throttle, and flight controls) directly govern Indicated Airspeed and Indicated Altitude. In contrast, external conditions such as rising terrain or wind shifts affect ground clearance and groundspeed. Pilots must anticipate external conditions and manipulate the energy state to maintain safe margins above terrain and clear of obstacles.
-
-> **Attention:** Always monitor Indicated Airspeed (IAS) to evaluate the aircraft's aerodynamic energy state. Groundspeed does not determine stall margin or lift production.
+> **Attention:** The pilot’s primary instrument references for energy state are the altimeter (indicated altitude) and the airspeed indicator (Indicated Airspeed), not height AGL or groundspeed.
 
 ---
 
-## Net Energy Flow and the Energy Balance
+## Energy Balance and Net Energy Change
 
-The airplane continuously gains energy from thrust ($T$) and loses energy through drag ($D$). The difference between energy acquired and energy dissipated is the **net energy change** ($T - D$).
+At any moment in flight, energy flows continuously into and out of the aircraft:
+* **Energy In:** Engine Thrust ($T$)
+* **Energy Out:** Aerodynamic Drag ($D$)
 
-<img src="/images/AFH/ch04/img_p91_4.png" alt="Thrust versus drag and the net energy balance" />
-
-The rate of energy change is referred to as **Specific Excess Power ($P_S$)**:
+The net rate of energy change is determined by the difference between thrust and drag ($T - D$). This relationship is often measured as **Specific Excess Power ($P_S$)**:
 
 $$P_S = \frac{(T - D)V}{W}$$
 
-Where:
-* $T$ = Thrust
-* $D$ = Drag
-* $V$ = Velocity (airspeed)
-* $W$ = Aircraft Weight
+Where $W$ is aircraft weight and $V$ is velocity.
 
-```
-  Energy Gained (Thrust)  -  Energy Lost (Drag)  =  Net Energy Change
-  [ Controlled by Throttle & Clean Airframe ]         [ Stored as Altitude or Airspeed ]
-```
+<img src="/images/AFH/ch04/img_p89_2.png" alt="Energy balance equation and transactions" />
 
----
+### Typical Energy Transactions
 
-## Practical Application: Energy Transactions
+Depending on the relationship between thrust and drag, several energy states can occur:
 
-Every flight maneuver involves an energy transaction. The pilot chooses whether to increase total energy, decrease it, maintain it, or trade potential and kinetic energy back and forth.
+| Condition | Net Energy Change ($T - D$) | Altitude Stored Energy | Airspeed Stored Energy | Resulting Flight Condition |
+| :--- | :--- | :--- | :--- | :--- |
+| **Surplus Energy** | $T - D > 0$ | Increase | No change | Climb at constant airspeed |
+| **Surplus Energy** | $T - D > 0$ | No change | Increase | Acceleration at constant altitude |
+| **Energy Deficit** | $T - D < 0$ | Decrease | No change | Descent at constant airspeed |
+| **Energy Deficit** | $T - D < 0$ | No change | Decrease | Deceleration at constant altitude |
+| **Equilibrium** | $T - D = 0$ | No change | No change | Constant altitude and airspeed |
+| **Energy Trade** | $T - D \approx 0$ | Increase | Decrease | Climb with deceleration (trading airspeed for altitude) |
 
-<img src="/images/AFH/ch04/img_p92_5.png" alt="Energy transaction matrix showing climbs, descents, accelerations, and decelerations" />
+### Energy Exchange (Trading Altitude and Airspeed)
 
-### 1. Surplus Energy State ($T - D > 0$)
-When engine thrust exceeds drag, total mechanical energy increases:
-* **Climb at Constant Airspeed:** Surplus energy is channeled into potential energy (altitude).
-* **Acceleration at Level Altitude:** Surplus energy is channeled into kinetic energy (airspeed).
+A pilot can trade potential energy for kinetic energy, or vice versa, without changing the total mechanical energy:
+* **Trading Airspeed for Altitude:** Pitching up trades kinetic energy (airspeed drops) for potential energy (altitude increases).
+* **Trading Altitude for Airspeed:** Pitching down trades potential energy (altitude drops) for kinetic energy (airspeed increases).
 
-### 2. Deficit Energy State ($T - D < 0$)
-When drag exceeds thrust (e.g., reduced throttle, extended flaps, or high **Angle of Attack**):
-* **Descent at Constant Airspeed:** Altitude is sacrificed to make up for the energy deficit.
-* **Deceleration at Level Altitude:** Airspeed is sacrificed while maintaining height.
-
-### 3. Balanced Energy State ($T - D = 0$)
-When thrust exactly balances drag, total mechanical energy remains constant. In straight-and-level unaccelerated flight, both altitude and airspeed remain constant.
-
-<img src="/images/AFH/ch04/img_p93_6.png" alt="Constant energy state in straight-and-level flight" />
-
-### 4. Energy Exchange ($h \leftrightarrow V$)
-Altitude and airspeed can be exchanged without altering engine thrust:
-* **Pitch Up (Trading Airspeed for Altitude):** Kinetic energy converts to potential energy. The airplane climbs while decelerating.
-* **Pitch Down (Trading Altitude for Airspeed):** Potential energy converts to kinetic energy. The airplane descends while accelerating.
-
-Absent any change in net energy ($T - D$), altitude and airspeed move in opposite directions during an energy exchange: as one increases, the other must decrease.
-
-<img src="/images/AFH/ch04/img_p94_7.png" alt="Exchanging potential and kinetic energy through pitch control" />
-
-> **Attention:** Attempting to gain altitude without adequate thrust ($T < D$) rapidly depletes kinetic energy. If uncorrected, this can cause the aircraft to exceed the critical Angle of Attack and enter an aerodynamic **Stall**.
+> **Attention:** Exchanging altitude for airspeed (or vice versa) redistributes stored energy, but it does not add total energy to the aircraft. Total energy increases only when engine Thrust exceeds Drag ($T > D$).
 
 ---
 
-## Safety Considerations
+## Practical Application
 
-Misinterpreting or neglecting the aircraft's energy state leads to common critical errors:
+Effective energy management requires coordinating pitch attitude and throttle settings:
 
-<img src="/images/AFH/ch04/img_p95_8.png" alt="Low energy state warning on final approach" />
+1. **Power Controls Total Energy State:** Throttle adjustments change the net energy flow ($T - D$). Adding power introduces energy into the system to climb or accelerate; reducing power removes energy to descend or slow down.
+2. **Pitch Controls Energy Distribution:** The elevator controls Angle of Attack and allocates available energy between altitude (potential) and airspeed (kinetic).
+3. **Coordinated Level-Offs and Profile Changes:** Anticipating the lag between control inputs and aircraft response prevents overshooting target altitudes and airspeeds.
 
-* **Low Energy on Final Approach:** Allowing airspeed to decay below target while low on the glidepath leaves the aircraft with a combined deficit of potential and kinetic energy. Adding back elevator pressure without applying thrust will increase drag and worsen the sink rate.
-* **High Density Altitude Operations:** High **Density Altitude** reduces engine power output (lower available thrust) and diminishes aerodynamic performance, reducing the specific excess power available for climb.
-* **Stall/Spin Awareness:** Energy exchange has aerodynamic boundaries. You cannot indefinitely exchange airspeed for altitude without reaching the stalling Angle of Attack.
+<img src="/images/AFH/ch04/img_p90_3.png" alt="Coordinating pitch and power for vertical profile control" />
+
+---
+
+## Safety Considerations: Low-Energy Hazards
+
+Mismanaging aircraft energy can quickly lead to hazardous flight conditions:
+
+* **Low-Energy State on Approach:** Operating at a low airspeed combined with a high sink rate requires substantial excess power to recover. If the engine is at idle or recovery is delayed, the aircraft may stall or impact the ground short of the runway.
+* **Loss of Control In-Flight (LOC-I):** Trading airspeed for altitude without adequate engine thrust can cause the aircraft to exceed the critical Angle of Attack, triggering an uncoordinated Stall or spin.
+* **Controlled Flight Into Terrain (CFIT):** Failing to establish a positive rate of climb when approaching rising terrain occurs when the aircraft lacks sufficient Specific Excess Power to out-climb the obstacle.
 
 ---
 
 ## Summary
 
-* Energy management is the continuous planning, monitoring, and controlling of potential energy (altitude) and kinetic energy (airspeed).
-* The aircraft's frame of reference is based on **Indicated Altitude** and **Indicated Airspeed (IAS)**.
-* Net energy change is governed by the relationship between **Thrust** and **Drag** ($T - D$).
-* When $T > D$, total energy increases (climb or acceleration). When $T < D$, total energy decreases (descent or deceleration).
-* Trading airspeed for altitude without adjusting power preserves total mechanical energy temporarily, but drains kinetic energy and increases Angle of Attack toward a stall.
+* Energy management is the active planning, monitoring, and controlling of potential energy (altitude) and kinetic energy (airspeed).
+* The aircraft is an open energy system where Thrust adds energy and Drag expends energy.
+* Net energy change is governed by $T - D$. A surplus allows climbing or accelerating; a deficit results in descending or decelerating.
+* Altitude and airspeed can be exchanged for one another, but total energy can only increase when Thrust exceeds Drag.
+* Sound energy management is essential for preventing LOC-I, CFIT, and approach-and-landing accidents.
 
 ---
 
@@ -145,45 +123,45 @@ Misinterpreting or neglecting the aircraft's energy state leads to common critic
   {
     question: "What constitutes the total mechanical energy of an airplane in flight?",
     options: [
-      "Potential energy from altitude plus kinetic energy from airspeed",
-      "Chemical energy in fuel plus engine torque",
-      "Lift force multiplied by true airspeed",
-      "Thrust minus drag divided by total gross weight"
+      "Lift and Thrust",
+      "Potential energy (altitude) and kinetic energy (airspeed)",
+      "Gross weight and center of gravity position",
+      "Indicated airspeed and groundspeed"
     ],
-    correctAnswer: 0,
-    explanation: "Total mechanical energy is the sum of potential energy (mgh, derived from altitude) and kinetic energy (1/2 mV², derived from airspeed)."
+    correctAnswer: 1,
+    explanation: "Total mechanical energy is the sum of potential energy derived from altitude (mgh) and kinetic energy derived from airspeed (1/2 mV²)."
   },
   {
-    question: "What is the primary frame of reference a pilot must use to monitor the airplane's energy state?",
+    question: "What is the primary frame of reference used by a pilot to manage an aircraft's energy state?",
     options: [
-      "Height above ground level (AGL) and groundspeed",
+      "Height AGL and Groundspeed",
+      "True Airspeed (TAS) and Pressure Altitude",
       "Indicated altitude (MSL) and Indicated Airspeed (IAS)",
-      "Density altitude and true airspeed (TAS)",
-      "Vertical speed and GPS track velocity"
+      "Vertical speed and calibrated airspeed"
     ],
-    correctAnswer: 1,
-    explanation: "The pilot's operational frame of reference is airplane-centric, relying on indicated altitude displayed on the altimeter and indicated airspeed (IAS) on the airspeed indicator."
+    correctAnswer: 2,
+    explanation: "The pilot's frame of reference is airplane-centric, utilizing indicated altitude (altimeter) and Indicated Airspeed (airspeed indicator)."
   },
   {
-    question: "When aerodynamic drag exceeds engine thrust (T - D < 0) in level flight, what must happen to the airplane's stored energy?",
+    question: "If an airplane is in a condition where Thrust equals Drag (T - D = 0), what happens to its total mechanical energy?",
     options: [
-      "Airspeed will decrease because kinetic energy is being depleted to overcome the deficit",
-      "Total mechanical energy increases due to induced drag",
-      "The airplane automatically climbs to preserve equilibrium",
-      "Potential energy increases while kinetic energy remains constant"
-    ],
-    correctAnswer: 0,
-    explanation: "When drag exceeds thrust (T - D < 0), the airplane is in an energy deficit. Maintaining level flight requires expending kinetic energy, causing the airplane to decelerate."
-  },
-  {
-    question: "What occurs during an energy exchange maneuver if thrust remains equal to drag?",
-    options: [
-      "Total mechanical energy increases significantly",
-      "Altitude and airspeed change in opposite directions while total energy remains approximately constant",
-      "Both altitude and airspeed increase simultaneously",
-      "The aircraft accelerates into an irreversible dive"
+      "Total energy increases steadily.",
+      "Total energy remains constant.",
+      "Total energy decreases due to gravitational drag.",
+      "Airspeed must decrease while altitude increases."
     ],
     correctAnswer: 1,
-    explanation: "In an energy exchange without a net energy change, altitude and airspeed trade off inversely: trading airspeed for altitude causes a climb and deceleration, while total energy remains constant."
+    explanation: "When Thrust equals Drag (T - D = 0), energy gained equals energy lost, meaning total mechanical energy remains constant."
+  },
+  {
+    question: "What occurs during an unaccelerated energy exchange where a pilot pitches up without changing engine power?",
+    options: [
+      "Total energy increases because the airplane climbs.",
+      "Kinetic energy increases while potential energy decreases.",
+      "Potential energy increases while kinetic energy decreases, with total energy remaining essentially unchanged.",
+      "Both kinetic energy and potential energy increase simultaneously."
+    ],
+    correctAnswer: 2,
+    explanation: "Trading airspeed for altitude converts kinetic energy into potential energy. Total mechanical energy remains essentially the same unless thrust or drag changes."
   }
 ]} />

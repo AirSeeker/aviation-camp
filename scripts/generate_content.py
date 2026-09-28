@@ -360,6 +360,9 @@ def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, image
 ]} />
 """
 
+    if "<Quiz" not in mdx:
+        mdx = mdx.rstrip() + "\n\n" + quiz.strip() + "\n"
+
     mdx = f"""---
 title: "{title}"
 description: "{description}"
