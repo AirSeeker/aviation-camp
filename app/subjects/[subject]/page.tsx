@@ -16,12 +16,12 @@ export default async function SubjectPage({ params }: { params: { subject: strin
   return <main className="reader-shell">
     <header className="reader-topbar">
       <Link className="brand" href="/"><span className="brand-mark"><Plane size={19} /></span><span>Aviation <b>Camp</b></span></Link>
-      <Link className="reader-back" href="/"><ArrowLeft size={15} /> Усі предмети</Link>
+      <Link className="reader-back" href="/"><ArrowLeft size={15} /> All subjects</Link>
     </header>
     <section className="reader-main">
       <div className="eyebrow muted"><span /> FAA HANDBOOK / REFERENCE LIBRARY</div>
       <h1 className="reader-title">{subject.title}</h1>
-      <p className="reader-summary">{lessons.length} розділів із цього довідника</p>
+      <p className="reader-summary">{lessons.length} chapters in this handbook</p>
       {lessons.length > 0 && <ol className="lesson-list">
         {lessons.map((lesson) => <li key={`${lesson.book}-${lesson.slug}`}>
           <Link href={`/subjects/${subject.id}/${lesson.slug}`}>

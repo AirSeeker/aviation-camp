@@ -1,0 +1,43 @@
+[
+  {
+    "id": "q-aerodynamics-01",
+    "question": "What is the primary cause of all weather patterns on Earth?",
+    "options": [
+      "Variations in solar energy received by the Earth's surface",
+      "Changes in air pressure caused by oceanic currents",
+      "Coriolis force acting on polar air masses",
+      "Fluctuations in atmospheric humidity levels"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Every physical process of weather is accompanied by, or is the result of, a heat exchange caused by solar radiation.",
+    "reference": {
+      "book": "phak",
+      "chapter": "chapter-12",
+      "anchor": "earth-atmosphere"
+    }
+  },
+  {
+    "id": "ppl-aero-001",
+    "question": "What is the primary effect of increasing angle of attack while maintaining airspeed?",
+    "options": ["Lift increases until the critical angle is reached", "Weight decreases", "Density altitude decreases", "Drag becomes zero"],
+    "correctAnswer": 0,
+    "explanation": "Increasing angle of attack increases lift until the critical angle is exceeded and the airfoil stalls.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-03",
+      "anchor": "principles-of-flight"
+    }
+  },
+  {
+    "id": "ppl-aero-002",
+    "question": "Which airspeed provides the greatest distance traveled for a given loss of altitude in still air?",
+    "options": ["Best angle-of-climb speed", "Best glide speed", "Never-exceed speed", "Stall speed"],
+    "correctAnswer": 1,
+    "explanation": "Best glide speed provides the maximum glide distance in still air.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-06",
+      "anchor": "gliding"
+    }
+  }
+]

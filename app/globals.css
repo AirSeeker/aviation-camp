@@ -65,3 +65,15 @@
 .search-result strong { display:block; font-size:14px; margin-top:5px; }
 .search-result p { color:#718078; font-size:12px; line-height:1.55; margin:6px 0 0; }
 @media(max-width:620px) { .reader-topbar { padding:18px 20px; } .reader-main { padding:50px 20px 72px; } .reader-title { font-size:38px; } .lesson-details strong { font-size:13px; } }
+.utility-nav { border-top:1px solid #d3ddd4; margin-top:20px; padding-top:16px; }
+.exam-panel { border-top:1px solid var(--line); padding-top:24px; }
+.exam-meta { align-items:center; border-bottom:1px solid var(--line); display:flex; font:10px 'DM Mono',monospace; justify-content:space-between; padding-bottom:14px; text-transform:uppercase; }
+.exam-meta strong { color:#53634f; font-size:16px; }
+.exam-panel h2 { font:24px 'Space Grotesk'; margin:28px 0 8px; }
+.exam-panel p { color:#718078; font-size:13px; line-height:1.7; }
+.exam-panel a { color:#53634f; font-weight:700; text-decoration:underline; }
+.glossary-list { border-top:1px solid var(--line); margin:32px 0 0; }
+.glossary-entry { border-bottom:1px solid var(--line); padding:20px 0; }
+.glossary-entry dt { align-items:center; display:flex; font:600 18px 'Space Grotesk'; gap:12px; }
+.glossary-entry dt span { color:#89938d; font:9px 'DM Mono',monospace; text-transform:uppercase; }
+.glossary-entry dd { color:#5e6b63; font-size:13px; line-height:1.7; margin:8px 0 0; max-width:680px; }

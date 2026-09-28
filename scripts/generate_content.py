@@ -199,8 +199,7 @@ Required rules:
 - Structure the page with a clear progression: introduction, core concepts, practical application, safety considerations, and summary.
 - Include short callout blocks in Markdown format such as: > **Attention:** ...
 - For images, use JSX tags in the form <img src="/images/..." alt="..." /> when appropriate.
-- At the end of the file, include a Quiz JSX component in this exact format:
-    <Quiz questions={{[{{ question: '...', options: ['...','...','...','...'], correctAnswer: 0, explanation: '...' }}]}} />
+- At the end of the file, include a self-closing Quiz marker: <Quiz />. Quiz questions are stored in chapter-scoped JSON files, not inline in MDX.
 - The content must match the subject: {subject}.
 - Every chapter frontmatter must include the required metadata fields: title, description, subject, chapterNumber, readTimeMinutes, lang: "en", translationKey.
 - Translation-ready structure: use stable English title text and a unique translationKey such as "phak-ch01".
@@ -237,7 +236,7 @@ Output requirements:
 4. Use Markdown headings with ## and ###.
 5. Include 2–4 callouts in the form > **Attention:** ...
 6. Insert image placeholders in appropriate places using JSX <img src="..." alt="..." />.
-7. End the page with a JSX Quiz block containing 3–5 questions.
+7. End the page with a self-closing JSX Quiz marker: <Quiz />. Store the 3–5 questions in the matching chapter JSON file.
 8. Keep the chapter concise, practical, and suitable for a PPL student.
 9. Use standard FAA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
 """
@@ -352,13 +351,7 @@ def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, image
 
     chapter_key = translation_key_for(book_name, chapter_name)
 
-    quiz = """
-<Quiz questions={[
-  { question: 'What is the primary purpose of this chapter?', options: ['To explain the core principles and safe operating concepts', 'To replace preflight planning with guesswork', 'To remove the need for checklists', 'To avoid aircraft performance calculations'], correctAnswer: 0, explanation: 'This chapter introduces the foundations needed to understand and apply safe flight concepts correctly.' },
-  { question: 'Why is it important to apply these concepts in practice?', options: ['They reduce the risk of errors during flight operations', 'They increase fuel burn without benefit', 'They eliminate the need for situational awareness', 'They make every flight identical'], correctAnswer: 0, explanation: 'Theory becomes useful when it informs decision making, aircraft control, and safe operating habits.' },
-  { question: 'Which action best reflects sound flight discipline?', options: ['Follow procedures, verify the conditions, and make informed decisions', 'Ignore changes in flight conditions', 'Rely on memory without checking instruments', 'Disregard the aircraft configuration'], correctAnswer: 0, explanation: 'Sound pilot technique depends on accurate information, disciplined procedures, and clear judgment.' }
-]} />
-"""
+        quiz = "<Quiz />"
 
     mdx = f"""---
 title: "{title}"

@@ -41,6 +41,29 @@ For setup, workflow, CLI options, fallback behavior, and validation, see:
 
 - [README_generator.md](README_generator.md)
 
+## Quiz question banks
+
+Quiz questions live in chapter-scoped JSON files under `content/quizzes/<book>/<chapter>.json`. MDX chapters contain only a self-closing `<Quiz />` marker; the static renderer loads the matching JSON bank automatically.
+
+Each question uses this shape:
+
+```json
+{
+	"id": "phak-chapter-12-q-01",
+	"question": "What is the primary cause of all weather patterns on Earth?",
+	"options": ["...", "...", "...", "..."],
+	"correctAnswer": 0,
+	"explanation": "...",
+	"reference": {
+		"book": "phak",
+		"chapter": "chapter-12",
+		"anchor": "earth-atmosphere"
+	}
+}
+```
+
+Run `npm run verify:quizzes` after adding or editing a question. IDs must be unique, `correctAnswer` must point to an option, and every question must include an explanation and source reference.
+
 ## Common commands
 
 Activate the environment:

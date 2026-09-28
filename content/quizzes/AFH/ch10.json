@@ -1,0 +1,87 @@
+[
+  {
+    "id": "afh-ch10-q-01",
+    "question": "In a level-altitude, coordinated turn at a 60° bank angle, what load factor is imposed on the airplane?",
+    "options": [
+      "1.00 G",
+      "1.41 G",
+      "2.00 G",
+      "3.80 G"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Load factor in a level turn is equal to 1 / cos(bank angle). At 60°, 1 / cos(60°) = 1 / 0.5 = 2.00 G, doubling the effective weight of the aircraft.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-10",
+      "anchor": "chapter-10"
+    }
+  },
+  {
+    "id": "afh-ch10-q-02",
+    "question": "If an airplane has a normal straight-and-level stall speed of 50 knots, what will its approximate stall speed be in a level 60° steep turn?",
+    "options": [
+      "50 knots",
+      "60 knots",
+      "70 knots",
+      "100 knots"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Accelerated stall speed increases proportional to the square root of the load factor. At 60° bank (load factor of 2.0 G), stall speed = 50 × √2.0 ≈ 50 × 1.414 = 70.7 knots.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-10",
+      "anchor": "chapter-10"
+    }
+  },
+  {
+    "id": "afh-ch10-q-03",
+    "question": "Why must an airplane enter steep turns at an airspeed at or below maneuvering speed (VA or VO)?",
+    "options": [
+      "To ensure maximum engine cooling during high-power operations.",
+      "To prevent the airplane from stalling under any load factor.",
+      "To ensure the airplane will aerodynamically stall before exceeding the design limit load factor.",
+      "To prevent adverse yaw from exceeding rudder authority."
+    ],
+    "correctAnswer": 2,
+    "explanation": "At or below maneuvering speed (VA or VO), an airplane will stall safely before reaching structural design limit load factors, protecting the airframe from damage.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-10",
+      "anchor": "chapter-10"
+    }
+  },
+  {
+    "id": "afh-ch10-q-04",
+    "question": "What causes the overbanking tendency during a steep turn?",
+    "options": [
+      "The outside wing travels at a higher speed than the inside wing, generating greater lift.",
+      "Excessive elevator back pressure creates an asymmetrical tail load.",
+      "Gyroscopic precession pulls the nose down and rolls the wings into the turn.",
+      "Adverse yaw pulls the aircraft further in the direction of the turn."
+    ],
+    "correctAnswer": 0,
+    "explanation": "In steep turns, the outside wing flies a larger circle than the inside wing and moves slightly faster through the air, creating more lift and causing the aircraft to roll steeper unless counteracted.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-10",
+      "anchor": "chapter-10"
+    }
+  },
+  {
+    "id": "afh-ch10-q-05",
+    "question": "What is the proper recovery technique if altitude is lost during a steep turn?",
+    "options": [
+      "Apply full aft elevator pressure immediately while maintaining bank.",
+      "Reduce the bank angle slightly, apply elevator back pressure to level the pitch attitude, and then return to target bank.",
+      "Reduce throttle immediately to idle and roll wings level.",
+      "Apply top rudder pressure to lift the nose back to the horizon."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pulling back on the elevator while steeply banked tightens the turn and accelerates the descent. The pilot must first shallow the bank slightly, level the pitch, and then return to the intended bank angle.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-10",
+      "anchor": "chapter-10"
+    }
+  }
+]

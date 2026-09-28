@@ -5,13 +5,13 @@ import { StudyProgress } from '../components/StudyProgress';
 import { getLessons, pplCategories } from '../src/content/subjects';
 
 const subjects = [
-  ['01', 'AFH', 'Airplane Flying Handbook', 'Маневрування, техніка пілотування та процедури', 'gold', Plane],
-  ['02', 'Instrument', 'Instrument Flying Handbook', 'Приладовий політ, навігація та контроль повітряного судна', 'blue', Compass],
-  ['03', 'InstrumentProcedures', 'Instrument Procedures Handbook', 'Маршрути, схеми очікування та заходи на посадку', 'green', Compass],
-  ['04', 'PHAK', "Pilot's Handbook of Aeronautical Knowledge", 'Базові знання про літак, політ та авіаційну систему', 'coral', BookOpen],
-  ['05', 'RiskManagement', 'Risk Management Handbook', 'Оцінювання ризиків та прийняття рішень пілотом', 'sky', ShieldCheck],
-  ['06', 'Weather', 'Aviation Weather Handbook', 'Атмосфера, прогнози, METAR/TAF та обледеніння', 'violet', Compass],
-  ['07', 'WeightBalance', 'Aircraft Weight and Balance Handbook', 'Завантаження, центрування та маса літака', 'orange', BookOpen],
+  ['01', 'AFH', 'Airplane Flying Handbook', 'Maneuvers, flight technique, and operating procedures', 'gold', Plane],
+  ['02', 'Instrument', 'Instrument Flying Handbook', 'Instrument flight, navigation, and aircraft control', 'blue', Compass],
+  ['03', 'InstrumentProcedures', 'Instrument Procedures Handbook', 'Routes, holding patterns, and instrument approaches', 'green', Compass],
+  ['04', 'PHAK', "Pilot's Handbook of Aeronautical Knowledge", 'Aircraft, flight, and the national aviation system', 'coral', BookOpen],
+  ['05', 'RiskManagement', 'Risk Management Handbook', 'Risk assessment and aeronautical decision-making', 'sky', ShieldCheck],
+  ['06', 'Weather', 'Aviation Weather Handbook', 'Atmosphere, forecasts, METAR/TAF, and icing', 'violet', Compass],
+  ['07', 'WeightBalance', 'Aircraft Weight and Balance Handbook', 'Aircraft loading, balance, and performance', 'orange', BookOpen],
 ] as const;
 
 export default async function HomePage() {
@@ -23,15 +23,15 @@ export default async function HomePage() {
     <aside className="sidebar">
       <Link className="brand" href="/"><span className="brand-mark"><Plane size={19} /></span><span>Aviation <b>Camp</b></span></Link>
       <div className="sidebar-label">FAA / REFERENCE LIBRARY</div>
-      <nav className="subject-nav" aria-label="Довідники FAA">{subjects.map(([number, id, title]) => <Link className={`nav-item ${number === '01' ? 'active' : ''}`} href={`/subjects/${id}`} key={id}><span className="nav-number">{number}</span><span>{title}</span></Link>)}</nav>
+      <nav className="subject-nav" aria-label="FAA handbooks">{subjects.map(([number, id, title]) => <Link className={`nav-item ${number === '01' ? 'active' : ''}`} href={`/subjects/${id}`} key={id}><span className="nav-number">{number}</span><span>{title}</span></Link>)}</nav>
       <StudyProgress totalLessons={totalLessons} />
     </aside>
     <section className="content">
       <header className="topbar"><div className="breadcrumb"><span>LIBRARY</span><i>/</i> FAA HANDBOOKS</div><LibrarySearch basePath={basePath} /></header>
-      <div className="hero"><div className="eyebrow"><span /> АВІАЦІЙНІ ДОВІДНИКИ FAA</div><h1>Курс, який тримає<br /><em>висоту.</em></h1><p className="hero-copy">Навчальні матеріали з семи довідників FAA: від техніки пілотування та навігації до погоди, ризиків і центрування літака.</p><div className="hero-actions"><Link className="primary-action" href="#subjects">Переглянути довідники <ArrowRight size={17} /></Link><span className="source-note">Оригінальні джерела FAA · 125 розділів</span></div><div className="hero-stats"><div><strong>07</strong><span>довідників</span></div><div><strong>125</strong><span>розділів</span></div><div><strong>∞</strong><span>у вашому темпі</span></div></div></div>
-      <section className="subjects-section" id="ppl-categories"><div className="section-heading"><div><div className="eyebrow muted"><span /> ЕКЗАМЕНАЦІЙНІ ТЕМИ</div><h2>Категорії іспиту</h2></div><span className="section-count">09 PPL SUBJECTS</span></div><div className="subject-grid">{pplCategories.map((category, index) => <Link className="subject-card" href={`/subjects/${category.bookId}`} key={category.id}><div className="card-icon sky"><BookOpen size={20} /></div><span className="card-number">{String(index + 1).padStart(2, '0')}</span><h3>{category.title}</h3><p>{category.description}</p><span className="card-arrow"><ArrowRight size={16} /></span></Link>)}</div></section>
-      <section className="subjects-section" id="subjects"><div className="section-heading"><div><div className="eyebrow muted"><span /> ПІДРУЧНИКИ</div><h2>Оберіть довідник</h2></div><span className="section-count">07 FAA HANDBOOKS</span></div><div className="subject-grid">{subjects.map(([number, id, title, description, tone, Icon]) => <Link className="subject-card" href={`/subjects/${id}`} key={id}><div className={`card-icon ${tone}`}><Icon size={20} /></div><span className="card-number">{number}</span><h3>{title}</h3><p>{description}</p><span className="card-arrow"><ArrowRight size={16} /></span></Link>)}</div></section>
-      <footer className="footer">AVIATION CAMP <span>·</span> STUDY WITH PURPOSE <a href={`${basePath}/content-review-report.json`}>ЗВІТ ПЕРЕВІРКИ МАТЕРІАЛІВ</a></footer>
+      <div className="hero"><div className="eyebrow"><span /> FAA PPL STUDY LIBRARY</div><h1>Study with<br /><em>purpose.</em></h1><p className="hero-copy">Free English study material from seven FAA handbooks, organized for private pilot knowledge test preparation.</p><div className="hero-actions"><Link className="primary-action" href="#subjects">Browse handbooks <ArrowRight size={17} /></Link><span className="source-note">FAA source material · {totalLessons} chapters</span></div><div className="hero-stats"><div><strong>07</strong><span>handbooks</span></div><div><strong>{totalLessons}</strong><span>chapters</span></div><div><strong>∞</strong><span>your pace</span></div></div></div>
+      <section className="subjects-section" id="ppl-categories"><div className="section-heading"><div><div className="eyebrow muted"><span /> KNOWLEDGE TEST</div><h2>PPL subject areas</h2></div><span className="section-count">09 PPL SUBJECTS</span></div><div className="subject-grid">{pplCategories.map((category, index) => <Link className="subject-card" href={`/subjects/${category.bookId}`} key={category.id}><div className="card-icon sky"><BookOpen size={20} /></div><span className="card-number">{String(index + 1).padStart(2, '0')}</span><h3>{category.title}</h3><p>{category.description}</p><span className="card-arrow"><ArrowRight size={16} /></span></Link>)}</div></section>
+      <section className="subjects-section" id="subjects"><div className="section-heading"><div><div className="eyebrow muted"><span /> HANDBOOKS</div><h2>Choose a handbook</h2></div><span className="section-count">07 FAA HANDBOOKS</span></div><div className="subject-grid">{subjects.map(([number, id, title, description, tone, Icon]) => <Link className="subject-card" href={`/subjects/${id}`} key={id}><div className={`card-icon ${tone}`}><Icon size={20} /></div><span className="card-number">{number}</span><h3>{title}</h3><p>{description}</p><span className="card-arrow"><ArrowRight size={16} /></span></Link>)}</div></section>
+      <footer className="footer">AVIATION CAMP <span>·</span> STUDY WITH PURPOSE <a href={`${basePath}/content-review-report.json`}>CONTENT REVIEW REPORT</a></footer>
     </section>
   </main>;
 }

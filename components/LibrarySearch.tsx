@@ -66,13 +66,13 @@ export default function LibrarySearch({ basePath }: { basePath: string }) {
     : [];
 
   return <>
-    <button className="search-button" type="button" aria-label="Пошук" onClick={() => setOpen(true)}>
-      <Search size={17} /> Пошук <kbd>⌘ K</kbd>
+    <button className="search-button" type="button" aria-label="Search library" onClick={() => setOpen(true)}>
+      <Search size={17} /> Search <kbd>⌘ K</kbd>
     </button>
     <dialog
       className="search-dialog"
       ref={dialogRef}
-      aria-label="Пошук у бібліотеці"
+      aria-label="Search library"
       onCancel={(event) => { event.preventDefault(); setOpen(false); }}
       onClose={() => setOpen(false)}
       onClick={(event) => { if (event.target === dialogRef.current) setOpen(false); }}
@@ -85,16 +85,16 @@ export default function LibrarySearch({ basePath }: { basePath: string }) {
             type="search"
             value={query}
             onChange={(event) => setQuery(event.target.value)}
-            placeholder="Назва довідника, тема або термін"
-            aria-label="Пошуковий запит"
+            placeholder="Handbook, topic, or term"
+            aria-label="Search query"
           />
-          <button className="search-close" type="button" aria-label="Закрити пошук" onClick={() => setOpen(false)}><X size={18} /></button>
+          <button className="search-close" type="button" aria-label="Close search" onClick={() => setOpen(false)}><X size={18} /></button>
         </div>
         <div className="search-results" aria-live="polite">
-          {loadError && <p className="search-state">Не вдалося завантажити індекс пошуку.</p>}
-          {!entries && !loadError && <p className="search-state">Завантаження бібліотеки…</p>}
-          {entries && !deferredQuery && <p className="search-state">Введіть тему, термін або назву довідника.</p>}
-          {entries && deferredQuery && results.length === 0 && <p className="search-state">Нічого не знайдено.</p>}
+          {loadError && <p className="search-state">The search index could not be loaded.</p>}
+          {!entries && !loadError && <p className="search-state">Loading library...</p>}
+          {entries && !deferredQuery && <p className="search-state">Enter a topic, term, or handbook.</p>}
+          {entries && deferredQuery && results.length === 0 && <p className="search-state">No results found.</p>}
           {results.map((entry) => {
             const matchIndex = entry.text.toLowerCase().indexOf(deferredQuery);
             const start = matchIndex < 0 ? 0 : Math.max(0, matchIndex - 48);

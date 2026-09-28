@@ -21,11 +21,11 @@ export function StudyProgress({ totalLessons }: { totalLessons: number }) {
   const percentage = totalLessons ? Math.min(100, Math.round((completedCount / totalLessons) * 100)) : 0;
 
   return <div className="sidebar-footer">
-    <div className="progress-meta"><span>Ваш прогрес</span><strong>{percentage}%</strong></div>
-    <div className="progress-track" role="progressbar" aria-label="Завершені розділи" aria-valuemin={0} aria-valuemax={totalLessons} aria-valuenow={completedCount}>
+    <div className="progress-meta"><span>Your progress</span><strong>{percentage}%</strong></div>
+    <div className="progress-track" role="progressbar" aria-label="Completed chapters" aria-valuemin={0} aria-valuemax={totalLessons} aria-valuenow={completedCount}>
       <span style={{ width: `${percentage}%` }} />
     </div>
-    <p>{completedCount} із {totalLessons} розділів завершено</p>
+    <p>{completedCount} of {totalLessons} chapters completed</p>
   </div>;
 }
 
@@ -52,7 +52,7 @@ export function LessonCompletion({ lessonId }: { lessonId: string }) {
 
   return <button className={`lesson-completion ${completed ? 'completed' : ''}`} type="button" onClick={toggleCompletion} aria-pressed={completed}>
     {completed ? <CircleCheck size={17} /> : <Circle size={17} />}
-    {completed ? 'Завершено' : 'Позначити завершеним'}
+    {completed ? 'Completed' : 'Mark complete'}
     <Check className="completion-check" size={14} />
   </button>;
 }

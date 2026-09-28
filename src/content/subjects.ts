@@ -12,15 +12,15 @@ export const subjects = [
 ] as const;
 
 export const pplCategories = [
-  { id: 'air-law', title: 'Авіаційне право', description: 'Правила польотів, відповідальність пілота та повітряний простір', bookId: 'PHAK' },
-  { id: 'human-performance', title: 'Людський фактор', description: 'Фізіологія, втома, стрес і прийняття рішень', bookId: 'RiskManagement' },
-  { id: 'meteorology', title: 'Метеорологія', description: 'Атмосфера, погода, METAR, TAF та обледеніння', bookId: 'Weather' },
-  { id: 'communications', title: 'Радіозв’язок', description: 'Фразеологія, повідомлення та робота з диспетчером', bookId: 'InstrumentProcedures' },
-  { id: 'principles-of-flight', title: 'Принципи польоту', description: 'Аеродинаміка, стійкість, керованість і звалювання', bookId: 'AFH' },
-  { id: 'operational-procedures', title: 'Експлуатаційні процедури', description: 'Підготовка, безпека, аварійні та нестандартні ситуації', bookId: 'AFH' },
-  { id: 'flight-performance', title: 'Льотні характеристики та планування', description: 'Зліт, посадка, дальність, витрата пального та маса', bookId: 'WeightBalance' },
-  { id: 'aircraft-general-knowledge', title: 'Загальні знання про літак', description: 'Системи, двигун, прилади та обладнання повітряного судна', bookId: 'PHAK' },
-  { id: 'navigation', title: 'Навігація', description: 'Карти, курси, висоти, час і навігаційні засоби', bookId: 'Instrument' },
+  { id: 'air-law', title: 'Air Law', description: 'Flight rules, pilot responsibilities, and airspace', bookId: 'PHAK' },
+  { id: 'human-performance', title: 'Human Performance', description: 'Physiology, fatigue, stress, and decision-making', bookId: 'RiskManagement' },
+  { id: 'meteorology', title: 'Meteorology', description: 'Atmosphere, weather, METAR, TAF, and icing', bookId: 'Weather' },
+  { id: 'communications', title: 'Communications', description: 'Phraseology, clearances, and ATC communication', bookId: 'InstrumentProcedures' },
+  { id: 'principles-of-flight', title: 'Principles of Flight', description: 'Aerodynamics, stability, control, and stalls', bookId: 'AFH' },
+  { id: 'operational-procedures', title: 'Operational Procedures', description: 'Preparation, safety, emergencies, and abnormal situations', bookId: 'AFH' },
+  { id: 'flight-performance', title: 'Flight Performance and Planning', description: 'Takeoff, landing, range, fuel, and loading', bookId: 'WeightBalance' },
+  { id: 'aircraft-general-knowledge', title: 'Aircraft General Knowledge', description: 'Systems, engines, instruments, and equipment', bookId: 'PHAK' },
+  { id: 'navigation', title: 'Navigation', description: 'Charts, courses, altitudes, time, and navigation aids', bookId: 'Instrument' },
 ] as const;
 
 export type Lesson = {

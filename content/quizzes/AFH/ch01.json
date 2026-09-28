@@ -1,0 +1,70 @@
+[
+  {
+    "id": "afh-ch01-q-01",
+    "question": "Which airmanship skill is defined as the pilot's ability to sense variations in aircraft attitude and speed by perceiving control surface pressure and resistance through the flight controls?",
+    "options": [
+      "Speed sense",
+      "Control touch",
+      "Coordination",
+      "Timing"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Control touch is specifically defined as the ability to sense the action of the airplane and its probable responses regarding attitude and airspeed variations by feeling control surface pressures transmitted through the controls.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-1",
+      "anchor": "chapter-1"
+    }
+  },
+  {
+    "id": "afh-ch01-q-02",
+    "question": "What is the primary objective of primary and intermediate flight training according to the Airplane Flying Handbook?",
+    "options": [
+      "To master the operating procedures of one specific make and model",
+      "To fulfill the minimum hour requirements for the FAA practical exam",
+      "To acquire and hone basic airmanship skills and safe flying habits transferable to any airplane",
+      "To memorize all operating regulations contained within 14 CFR Part 91"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The purpose of primary and intermediate flight training is the acquisition and honing of basic airmanship skills and safe operating habits that establish a foundation transferable to any airplane.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-1",
+      "anchor": "chapter-1"
+    }
+  },
+  {
+    "id": "afh-ch01-q-03",
+    "question": "Under which part of Title 14 of the Code of Federal Regulations does the FAA issue mandatory Airworthiness Directives (ADs)?",
+    "options": [
+      "14 CFR Part 21",
+      "14 CFR Part 39",
+      "14 CFR Part 43",
+      "14 CFR Part 61"
+    ],
+    "correctAnswer": 1,
+    "explanation": "14 CFR Part 39 grants the FAA the authority to issue Airworthiness Directives (ADs) when an unsafe condition exists in an aircraft, engine, propeller, or appliance.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-1",
+      "anchor": "chapter-1"
+    }
+  },
+  {
+    "id": "afh-ch01-q-04",
+    "question": "How long does a Standard Airworthiness Certificate (FAA Form 8100-2) remain valid?",
+    "options": [
+      "For exactly 12 calendar months following issuance",
+      "As long as the aircraft meets its type design, is safe to operate, and is maintained in accordance with 14 CFR Parts 21, 43, and 91",
+      "Until the aircraft changes registered ownership",
+      "Until the next required 100-hour or annual inspection"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A standard airworthiness certificate remains valid as long as the aircraft meets its approved type design, is in a condition for safe operation, and maintenance/alterations are performed per 14 CFR Parts 21, 43, and 91.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-1",
+      "anchor": "chapter-1"
+    }
+  }
+]

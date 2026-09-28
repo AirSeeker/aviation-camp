@@ -13,6 +13,16 @@ import { getLessons, subjects } from '../../../../src/content/subjects';
 export const dynamicParams = false;
 
 type LessonFigure = { relativePath: string; figureRef?: string; page?: number };
+type QuizQuestion = { id?: string; question: string; options: string[]; correctAnswer: number; explanation: string; reference?: { book: string; chapter: string; anchor: string } };
+
+async function getLessonQuiz(book: string, chapter: string): Promise<QuizQuestion[]> {
+  try {
+    const quizPath = path.join(process.cwd(), 'content', 'quizzes', book, `${chapter}.json`);
+    return JSON.parse(await readFile(quizPath, 'utf8')) as QuizQuestion[];
+  } catch {
+    return [];
+  }
+}
 
 async function getLessonFigures(book: string, chapter: string, source: string): Promise<LessonFigure[]> {
   try {
@@ -83,6 +93,7 @@ export default async function LessonPage({ params }: { params: { subject: string
   if (!subject || !lesson) return null;
 
   const figures = await getLessonFigures(subject.id, lesson.slug, lesson.source);
+  const quizQuestions = await getLessonQuiz(subject.id, lesson.slug);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
   const source = insertLessonFigures(lesson.source, figures, lesson.sourcePageStart, lesson.sourcePageEnd)
@@ -91,7 +102,7 @@ export default async function LessonPage({ params }: { params: { subject: string
     ({ content } = await compileMDX({
       source,
       components: {
-        Quiz: (props: { questions: Parameters<typeof Quiz>[0]['questions'] }) => <Quiz {...props} lessonId={lessonId} />,
+        Quiz: () => quizQuestions.length > 0 ? <Quiz questions={quizQuestions} lessonId={lessonId} /> : null,
         img: LessonImage,
       },
     }));
@@ -114,17 +125,7 @@ export default async function LessonPage({ params }: { params: { subject: string
     });
 
     let fallbackQuiz: ReactNode = null;
-    const quizMatch = lesson.source.match(/<Quiz\s+questions=\{\s*(\[[\s\S]*?\])\s*\}\s*\/?>/);
-    if (quizMatch) {
-      try {
-        const questions = Function(`"use strict"; return (${quizMatch[1]});`)() as Array<{ question: string; options: string[]; correctAnswer: number; explanation: string }>;
-        if (Array.isArray(questions) && questions.length > 0) {
-          fallbackQuiz = <Quiz questions={questions} lessonId={lessonId} />;
-        }
-      } catch {
-        fallbackQuiz = null;
-      }
-    }
+    if (quizQuestions.length > 0) fallbackQuiz = <Quiz questions={quizQuestions} lessonId={lessonId} />;
 
     content = <div>
       {fallbackBlocks}

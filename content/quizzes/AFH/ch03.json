@@ -1,0 +1,70 @@
+[
+  {
+    "id": "afh-ch03-q-01",
+    "question": "What are the four fundamentals of flight upon which all maneuvers are based?",
+    "options": [
+      "Takeoffs, landings, go-arounds, and taxiing",
+      "Straight-and-level flight, turns, climbs, and descents",
+      "Pitch, roll, yaw, and thrust",
+      "Slow flight, stalls, steep turns, and emergency descents"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The four fundamentals of flight are straight-and-level flight, turns, climbs, and descents. All flying tasks combine these fundamental maneuvers.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-3",
+      "anchor": "chapter-3"
+    }
+  },
+  {
+    "id": "afh-ch03-q-02",
+    "question": "How do control pressures change as the airplane's Indicated Airspeed (IAS) increases?",
+    "options": [
+      "Control pressures decrease and feel mushy",
+      "Control pressures remain completely constant regardless of airspeed",
+      "Aerodynamic resistance increases, making the controls feel firmer and more responsive",
+      "Rudder pressure increases while elevator pressure decreases"
+    ],
+    "correctAnswer": 2,
+    "explanation": "As airspeed increases, moving air exerts greater force against deflected control surfaces. This makes controls feel firmer and require less deflection to produce a given aircraft reaction.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-3",
+      "anchor": "chapter-3"
+    }
+  },
+  {
+    "id": "afh-ch03-q-03",
+    "question": "Why should a pilot hold the flight controls lightly with fingertips rather than a full-palm grip?",
+    "options": [
+      "To prevent inadvertent disconnection of the autopilot servo clutches",
+      "To allow the development of sensitive control feel and prevent over-controlling",
+      "To allow full aileron deflection without contacting the pilot's knees",
+      "To keep the hands free for adjusting avionics and engine mixtures"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Holding the flight controls lightly with the fingers preserves tactile sensitivity ('feel') and prevents the pilot from exerting excessive, tense control pressures that lead to over-controlling.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-3",
+      "anchor": "chapter-3"
+    }
+  },
+  {
+    "id": "afh-ch03-q-04",
+    "question": "When applying right rudder pedal pressure, how should the pilot's opposite foot react?",
+    "options": [
+      "Maintain equal counter-pressure to stiffen the pedal travel",
+      "Slide the left foot completely off the pedal onto the floorboard",
+      "Relax pressure on the left pedal proportionately since the pedals are interconnected",
+      "Press the left brake with the heel while pushing right rudder with the ball"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Because rudder pedals are mechanically interconnected in opposing directions, applying pressure to one pedal requires relaxing foot pressure on the opposite pedal proportionately.",
+    "reference": {
+      "book": "afh",
+      "chapter": "chapter-3",
+      "anchor": "chapter-3"
+    }
+  }
+]
