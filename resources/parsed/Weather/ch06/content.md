@@ -1,55 +1,9 @@
-el
-6 Water Vapor
-6.1 Introduction
-Water vapor is the gaseous form of water and one of the most important of all constituents of the
-atmosphere. It constitutes only a small percentage of the Earth’s atmosphere, varying from only trace
-amounts to 4 percent by volume, and its amount varies widely in space and time. Approximately half of all
-of the atmospheric water vapor is found below 2 km (6,500 ft) altitude, and only a minute fraction of the
-total occurs above the tropopause.
-The development of clouds and precipitation can have potential impacts on flight operations. Water vapor
-is important, not only as the raw material for clouds and precipitation (e.g., rain and snow), but also as a
-vehicle for the transfer of heat energy and as a regulator of the Earth’s temperatures through absorption and
-emission of radiation, most significantly in the thermal infrared (i.e., the greenhouse effect). The amount
-of water vapor present in a given air sample may be measured in a number of different ways, involving
-such concepts as relative humidity and dewpoint. Before talking about these subjects, the process of water
-cycling through the Earth-atmosphere system will be discussed.
 Chapter 6, Water Vapor
 6-1
 
 6.2 The Hydrologic Cycle
 The hydrologic cycle (see Figure 6-1) involves the continuous circulation of water in the Earth-atmosphere
 system. Water vapor plays a critical role in the cycle.
-|
-{_,
-e ~
-‘Transportation
-+e
-Evaporation
-—-
-re
-aaneaeel
-suvsala
-eau
-U
-a
-i
-IEF
-RATS
-a
-|
-+ sai
-iia
-ea
-Stee
-=
-~
-oes
-mvs
-Erinorrio
-——_—
-‘
-—
-pint ats
 Figure 6-1. The Hydrologic Cycle
 6.2.1 Evaporation
 Evaporation is the phase transition by which a liquid is changed to a vapor (gas). In meteorology, the
@@ -111,8 +65,6 @@ Chapter 6, Water Vapor
 6.4 Relative Humidity
 Relative humidity is the ratio, usually expressed as a percentage, of water vapor actually in the air parcel
 compared to the amount of water vapor the air parcel could hold at a particular temperature and pressure.
-𝑅𝑒𝑙𝑎𝑡𝑖𝑣𝑒 𝐻𝑢𝑚𝑖𝑑𝑖𝑡𝑦= 𝑊𝑎𝑡𝑒𝑟 𝑣𝑎𝑝𝑜𝑟 𝑐𝑜𝑛𝑡𝑒𝑛𝑡
-𝑊𝑎𝑡𝑒𝑟 𝑣𝑎𝑝𝑜𝑟 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦
 While relative humidity is the most common method of describing atmospheric moisture, it is also the most
 misunderstood. Relative humidity can be confusing because it does not indicate the actual water vapor
 content of the air, but rather how close the air is to saturation. An air parcel with 100 percent relative
@@ -126,58 +78,6 @@ However, if the air parcel’s temperature decreases to 20 °C, its water vapor 
 decreases to equal the amount of water vapor it actually holds (8 g), its relative humidity increases to
 100 percent, and it becomes saturated. During this cooling process, the air parcel’s actual water vapor
 content remained constant, but relative humidity increased with decreasing temperature.
-Temperature
-30°C.
-20°C
-10°C
-(at sea level)
-e
-en°
-@
-e
-e
-e
-Actual gram of
-5 = Of;
-a e
-J
-water vapor
-o @50/e
-Ad
-e
-je
-P
-°
-e
-@)
-Oo} |
-|®
-Oo} |
-|®
-Potential gram
-0 CO
-|G
-Oo
-@
-e
-of water vapor
-0.0 0
-le
-Oo
-e
-e
-o"-0 0
-e
-fe)
-e
-Relative
-8/27= 30%
-8/15= 53%
-umiclty
-8/8 = 100%
-(unsaturated)
-(unsaturated)
-(saturated)
 Figure 6-2. Temperature Effects on Relative Humidity
 6.5 Dewpoint
 Dewpoint is the temperature an air parcel must be cooled at constant pressure and constant water vapor
@@ -188,6 +88,8 @@ capacity to hold water vapor.
 The difference between an air parcel’s temperature and its dewpoint is the dewpoint depression, or
 commonly referred to as the spread. Surface aviation weather reports (e.g., METARs/SPECIs) provide
 Chapter 6, Water Vapor
+𝑅𝑒𝑙𝑎𝑡𝑖𝑣𝑒 𝐻𝑢𝑚𝑖𝑑𝑖𝑡𝑦= 𝑊𝑎𝑡𝑒𝑟 𝑣𝑎𝑝𝑜𝑟 𝑐𝑜𝑛𝑡𝑒𝑛𝑡
+𝑊𝑎𝑡𝑒𝑟 𝑣𝑎𝑝𝑜𝑟 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦
 6-4
 
 observations of both temperature and dewpoint. The temperature greatly affects the air parcel’s ability to
@@ -197,25 +99,6 @@ spread decreases, relative humidity increases. When the spread decreases to zero
 dewpoint spread and relative humidity.
 Surface temperature-dewpoint spread is important in anticipating fog but has little bearing on precipitation.
 To support precipitation, air must be saturated through thick layers aloft.
-o¢__
-.RH=50%
-og
-RH=75%
-°¢
-RH=100%
-3°
-(SATURATED)
-20.
-15°
-~ ~ 16
-Dewpoint= 11°
-SS
-yo a
-got em
-ACTUAL WATER VAPOR
-MAXIMUM POSSIBLE WATER VAPOR
-i
-|
 Figure 6-3. Temperature-Dewpoint Spread Effect on Relative Humidity
 Relative humidity depends on the temperature-dewpoint spread. In Figure 6-3, dewpoint is constant, but
 temperature decreases from left to right. On the left panel relative humidity is 50 percent, indicating that
@@ -241,20 +124,6 @@ Latent heat is the quantity of heat energy either released or absorbed by a unit
 undergoes a phase transition (change of state). Units are typically expressed in terms of joules per
 gram (J/g). Figure 6-4 illustrates the latent heat transactions that occur when water undergoes phase
 transition.
-< a
-;
-—_
-s33SSesy
-dy
-CONDENSATION \ \f2:::::2232332233;
-d
-¢
-SSeeisethsettsaz
-DEPOSITION
-a) Absorption oflatent
-| Releaseoflatent heat to
-heat from environment
-environment
 Figure 6-4. Latent Heat Transactions When Water Undergoes Phase Transition
 Heat is exchanged between water and its environment during phase transition. Although the temperature of
 the environment changes in response, the temperature of the water undergoing the phase transition remains

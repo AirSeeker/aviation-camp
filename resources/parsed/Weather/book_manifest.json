@@ -1,10 +1,11 @@
 {
   "bookName": "Weather",
   "sourcePdf": "resources/library/Weather/Aviation Weather Handbook FAA-H-8083-28B.pdf",
-  "cacheKey": "370b2198e6d06975235fa60ec56c3d5e9a35abd792b36b083909e3a5a58480d8",
+  "cacheKey": "c59ca3948fda34d8ed116c50a80fff9d469fbb359a5d83a4f790cd95e1d7a00d",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "Introduction",
       "startPage": 16,
       "endPage": 17,
       "images": [
@@ -88,6 +89,7 @@
     },
     {
       "chapter": "ch02",
+      "title": "Aviation Weather Service Program",
       "startPage": 18,
       "endPage": 23,
       "images": [
@@ -133,6 +135,7 @@
     },
     {
       "chapter": "ch03",
+      "title": "Overview of Aviation Weather Information",
       "startPage": 24,
       "endPage": 60,
       "images": [
@@ -216,6 +219,7 @@
     },
     {
       "chapter": "ch04",
+      "title": "The Earth’s Atmosphere",
       "startPage": 61,
       "endPage": 66,
       "images": [
@@ -299,6 +303,7 @@
     },
     {
       "chapter": "ch05",
+      "title": "Heat and Temperature",
       "startPage": 67,
       "endPage": 79,
       "images": [
@@ -515,6 +520,7 @@
     },
     {
       "chapter": "ch06",
+      "title": "Water Vapor",
       "startPage": 80,
       "endPage": 86,
       "images": [
@@ -636,6 +642,7 @@
     },
     {
       "chapter": "ch07",
+      "title": "Earth-Atmosphere Heat Imbalances",
       "startPage": 87,
       "endPage": 94,
       "images": [
@@ -833,6 +840,7 @@
     },
     {
       "chapter": "ch08",
+      "title": "Atmospheric Pressure and Altimetry",
       "startPage": 95,
       "endPage": 109,
       "images": [
@@ -1163,6 +1171,7 @@
     },
     {
       "chapter": "ch09",
+      "title": "Global Circulations and Jet Streams",
       "startPage": 110,
       "endPage": 115,
       "images": [
@@ -1322,6 +1331,7 @@
     },
     {
       "chapter": "ch10",
+      "title": "Wind",
       "startPage": 116,
       "endPage": 133,
       "images": [
@@ -1785,6 +1795,7 @@
     },
     {
       "chapter": "ch11",
+      "title": "Air Masses, Fronts, and the Wave Cyclone Model",
       "startPage": 134,
       "endPage": 144,
       "images": [
@@ -2096,6 +2107,7 @@
     },
     {
       "chapter": "ch12",
+      "title": "Vertical Motion and Clouds",
       "startPage": 145,
       "endPage": 153,
       "images": [
@@ -2331,6 +2343,7 @@
     },
     {
       "chapter": "ch13",
+      "title": "Atmospheric Stability",
       "startPage": 154,
       "endPage": 164,
       "images": [
@@ -2547,6 +2560,7 @@
     },
     {
       "chapter": "ch14",
+      "title": "Precipitation",
       "startPage": 165,
       "endPage": 170,
       "images": [
@@ -2706,6 +2720,7 @@
     },
     {
       "chapter": "ch15",
+      "title": "Weather Radar",
       "startPage": 171,
       "endPage": 189,
       "images": [
@@ -3169,6 +3184,7 @@
     },
     {
       "chapter": "ch16",
+      "title": "Mountain Weather",
       "startPage": 190,
       "endPage": 206,
       "images": [
@@ -3537,6 +3553,7 @@
     },
     {
       "chapter": "ch17",
+      "title": "Tropical Weather",
       "startPage": 207,
       "endPage": 220,
       "images": [
@@ -3753,6 +3770,7 @@
     },
     {
       "chapter": "ch18",
+      "title": "Weather and Obstructions to Visibility",
       "startPage": 221,
       "endPage": 232,
       "images": [
@@ -4007,6 +4025,7 @@
     },
     {
       "chapter": "ch19",
+      "title": "Turbulence",
       "startPage": 233,
       "endPage": 242,
       "images": [
@@ -4204,6 +4223,7 @@
     },
     {
       "chapter": "ch20",
+      "title": "Icing",
       "startPage": 243,
       "endPage": 250,
       "images": [
@@ -4306,6 +4326,7 @@
     },
     {
       "chapter": "ch21",
+      "title": "Arctic Weather",
       "startPage": 251,
       "endPage": 255,
       "images": [
@@ -4370,6 +4391,7 @@
     },
     {
       "chapter": "ch22",
+      "title": "Thunderstorms",
       "startPage": 256,
       "endPage": 277,
       "images": [
@@ -4852,6 +4874,7 @@
     },
     {
       "chapter": "ch23",
+      "title": "Space Weather",
       "startPage": 278,
       "endPage": 284,
       "images": [
@@ -4935,6 +4958,7 @@
     },
     {
       "chapter": "ch24",
+      "title": "Observations",
       "startPage": 285,
       "endPage": 342,
       "images": [
@@ -5664,6 +5688,7 @@
     },
     {
       "chapter": "ch25",
+      "title": "Analysis",
       "startPage": 343,
       "endPage": 367,
       "images": [
@@ -6326,6 +6351,7 @@
     },
     {
       "chapter": "ch26",
+      "title": "Advisories",
       "startPage": 368,
       "endPage": 401,
       "images": [
@@ -6561,6 +6587,7 @@
     },
     {
       "chapter": "ch27",
+      "title": "Forecasts",
       "startPage": 402,
       "endPage": 469,
       "images": [
@@ -7347,6 +7374,7 @@
     },
     {
       "chapter": "ch28",
+      "title": "Aviation Weather Tools",
       "startPage": 470,
       "endPage": 472,
       "images": [

@@ -1,5 +1,4 @@
 Glossary
-Glossary
 A note on glossary terms: over the years there has been a
 proliferation of aircraft weight and balance terms. This is
 the result of many factors, such as the Federal Aviation

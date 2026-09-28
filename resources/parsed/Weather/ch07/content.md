@@ -1,13 +1,4 @@
-2 A gradient describes the rate of change of a feature (in this case, temperature) per unit of distance. —
-7 Earth-Atmosphere Heat Imbalances
-7.1 Introduction
-Weather is not a capricious act of nature but, rather, the atmosphere’s response to unequal rates of
-radiational heating and cooling across the surface of the Earth and within its atmosphere. The absorption of
-incoming solar radiation causes heating, while the emission of outgoing terrestrial radiation causes cooling.
-However, imbalances in the rate of heating and cooling create temperature gradients.2 Atmospheric
-circulations and weather are the atmosphere’s never-ending attempt to redistribute this heat and achieve
-equilibrium. This chapter provides a background on the interaction between the Earth and the atmosphere
-for a better understanding of the weather that will affect flight operations.
+2 A gradient describes the rate of change of a feature (in this case, temperature) per unit of distance.
 Chapter 7, Earth-Atmosphere Heat Imbalances
 7-1
 
@@ -17,17 +8,6 @@ radiation) and outgoing energy from the Earth (terrestrial radiation), as seen i
 radiation reaches the Earth, some is reflected back to space by air (eight percent), clouds (17 percent), or
 the surface (six percent). Some is absorbed by water vapor/dust/ozone (19 percent) or by clouds
 (four percent). The remainder is absorbed by the Earth’s surface (46 percent).
-Space
-Outgoing Radiation
-Incoming
-Radiation
-mae~
-|
-eee,
-ail
-ym
-_ Atmos here
-7°24
 Figure 7-1. Earth-Atmosphere Energy Balance
 In Figure 7-1, 100 units of incoming radiation from the Sun is balanced by 100 units of outgoing radiation
 from the Earth.
@@ -48,11 +28,6 @@ Greenhouse warming is enhanced during nights when the sky is overcast (see Figur
 the Earth can be trapped by clouds, leading to higher temperatures as compared to nights with clear skies.
 The air is not allowed to cool as much with overcast skies. Under partly cloudy skies, some heat is allowed
 to escape, and some remains trapped. Clear skies allow for the most cooling to take place.
-©
-——s
-259R ei 35 ores oh
-LING;
-OG,
 Figure 7-2. Greenhouse Effect on Nighttime Radiational Cooling
 7.3 Heat Imbalances Between Earth’s Surface and the Atmosphere
 The Earth-atmosphere energy balance numbers (see Figure 7-1) indicate that both sensible heat (seven
@@ -70,11 +45,8 @@ cooler air, and rises. Through this process, a large bubble of warm air called a
 heat energy upwards (see Figure 7-3). Cooler, denser air sinks toward the ground to replace the rising air.
 This cooler air becomes heated in turn, rises, and repeats the cycle.
 Chapter 7, Earth-Atmosphere Heat Imbalances
-We
 7-3
 
-3%
-Cool
 Figure 7-3. Development of a Thermal
 In this manner, convection transports heat from the Earth’s surface into the atmosphere. Because air is a
 poor conductor of heat (see Table 5-3), convection is much more important than conduction as a heat
@@ -86,11 +58,6 @@ the excess heat from the surface of the Earth into its atmosphere. As the Earth�
 some of the heat produced is used to evaporate (vaporize) water from oceans, lakes, rivers, soil, and
 vegetation. The water absorbs heat energy due to the latent heat of vaporization. Some of this water vapor
 Chapter 7, Earth-Atmosphere Heat Imbalances
-Cool | Cool
-=
-\
-Cool | Cool
-Cool
 7-4
 
 condenses to microscopic water droplets or deposits as ice crystals that are visible as clouds. During cloud
@@ -104,9 +71,6 @@ is, the solar zenith angle is lower, and the Sun is more directly overhead in eq
 poles. At higher latitudes, solar radiation is spread over a larger area and is less intense per unit surface area
 than at lower latitudes. Thus, the Earth absorbs more solar radiation at lower latitudes than higher latitudes,
 which creates heat imbalances and temperature gradients between the Equator and the poles.
-Solar
-a cteradig
-Radiation
 Figure 7-5. Solar Zenith Angle Variations with Latitude
 The emission of terrestrial radiation also varies by latitude, but less so than the absorption of solar radiation.
 Terrestrial radiation emission decreases with increasing latitude due to a drop in temperature with latitude.
@@ -117,18 +81,6 @@ the Earth would be unable to maintain a constant average temperature. About 35°
 hemispheres is where incoming and outgoing radiation is equal. This implies there is annual net cooling at
 higher latitudes and net warming at lower latitudes; however, this is untrue. The excess heat in the tropics
 Chapter 7, Earth-Atmosphere Heat Imbalances
-North Pole
-Ae © ——
-ss 35°N
-ecyuator|
-kia
-eee
-Wat
-Ta
-RTT
-anesSy oe. dee
-Nie Sea
-South Pole
 7-5
 
 must be transported polar by some mechanism(s). This poleward heat transport is accomplished by
@@ -142,24 +94,6 @@ solar zenith angle) occurs on the summer solstice (approximately June 22), while
 year (highest solar zenith angle) occurs on the winter solstice (approximately December 22). Day and night
 are of equal length (12 hours) worldwide on the vernal equinox (approximately March 21) and the autumnal
 equinox (approximately September 23).
-23.5"
-—
-—
-ag
-—
-~
-September 23
-}
-Autumnal Equinox
-December 22__
-—
-June 22
-Winter Solstice
-~———_|
-|"
-Summer Solstice
-March 21
-Vernal Equinox
 Figure 7-6. Solar Zenith Angle Variations with Northern Hemisphere Seasons
 Figure 7-7 illustrates the average seasonal temperature variation in the Northern Hemisphere. Note that the
 warmest (coldest days) of the year occur after the summer (winter) solstice. This is due to the time lag
@@ -167,64 +101,12 @@ necessary for heat flow processes to fully heat (cool) the surface of the Earth.
 Chapter 7, Earth-Atmosphere Heat Imbalances
 7-6
 
-N. hemisphere yearly avg temp
-t
-e
-m
-P
-J
-M
-J
-Ss
-J
 Figure 7-7. Average Seasonal Temperature Variation in the Northern Hemisphere
 7.6 Diurnal Temperature Variation
 Diurnal temperature variation is the daytime maximum and nighttime minimum of air temperature due to
 variations of insolation caused by the rising and setting of the Sun (i.e., variations of solar zenith angle) as
 the Earth rotates around its axis. Figure 7-8 depicts the typical diurnal temperature and radiation variations
 over land when the sky is clear.
-T
-za
-a
-aa
-iy
-P
-E
-=
-:She
-A
-u2
-R
-E
-Midnight
-Sunrise
-Noon
-Sunset
-Midnight
-=
-Incoming Solar Radiation
-y
-=
-|e Ne
-20;
-SS
-D
-i
-‘
-A
-Y
-ia
-ae
--
-i
-ae
-fe}
-Nie
-Midnight
-Sunrise
-Noon
-Sunset
-Midnight
 Figure 7-8. Clear Sky Diurnal Temperature and Radiation Variations Over Land
 Chapter 7, Earth-Atmosphere Heat Imbalances
 7-7

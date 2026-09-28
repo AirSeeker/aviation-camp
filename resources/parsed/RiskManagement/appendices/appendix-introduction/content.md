@@ -1,5 +1,4 @@
 Appendix Introduction
-Appendix Introduction
 Scope
 Appendices A through D are designed to supplement the material in this handbook. To take full advantage of the appendices,
 readers should become familiar with the material in Chapters 2, 3, 4, and 5.

@@ -1,5 +1,4 @@
 Chapter 2: Personal Minimums
-Chapter2: Personal Minimums
 Introduction
 Federal regulations that apply to aviation do not cover every situation nor do they guarantee safety. For example, a pilot may
 legally fly in marginal VFR conditions at night even though low visibility and night hazards increase the risk for an incident or
@@ -56,7 +55,6 @@ record a 5,000-foot ceiling and 8 miles visibility in the VFR column.
 2-2
 Certification, Training, and Experience Summary
 Certification Level
-BS
 Certificate level
 (e.g., private, commercial, ATP)
 Ratings
@@ -64,7 +62,6 @@ Ratings
 Endorsements
 (e.g., complex, high performance, high altitude)
 Training Summary
-ee
 Flight review
 (e.g., certificate, rating, wings)
 Instrument Proficiency Check
@@ -73,12 +70,10 @@ Time since checkout in aircraft 2
 Time since checkout in aircraft 3
 Variation in equipment
 (e.g., GPS navigators, autopilot)
-es
 Experience
 Total flying time
 Years of flying experience
 Recent Experience (last 12 months)
-BS
 Hours
 Hours in this aircraft (or identical model)
 Landings
@@ -266,19 +261,15 @@ For example, suppose a pilot plans a night cross-country flight to an unfamiliar
 in Figure 2-9 suggests raising baseline personal minimums by adding 1,000 feet to the ceiling value, one mile to visibility, and
 1,000 feet to required runway length.
 If you are facing
-|
 Illness, use of medication, stress, or fatigue; lack of
 Pilot
 currency (e.g., have not flown for several weeks)
-|
 An unfamiliar airplane or an aircraft with unfamiliar
 Aircraft
 avionics or other equipment
-ae
 Unfamiliar airports and airspace; different terrain or
 enVironment
 other unfamiliar characteristics
-|
 External
 “Must meet” deadlines, pressures from
 Pressures

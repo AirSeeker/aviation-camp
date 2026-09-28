@@ -1,7 +1,3 @@
-discussed in other chapters, which are noted. —_
-16 Mountain Weather
-16.1 Introduction
-This chapter focuses on mountain waves and adverse winds. Other mountain weather phenomena are
 Chapter 16, Mountain Weather
 16-1
 
@@ -42,17 +38,6 @@ oscillations before the resulting wave motion dampens out. This process is depic
 Chapter 16, Mountain Weather
 16-2
 
-etun to equim
-vel by grvioral
-forces
-Upward forcing
-)
-of stable ai ™
-Darpedoscialons
-Eat —7
-level
-}
-vest
 Figure 16-1. Gravity Wave Oscillations
 The described gravity wave will have measurable wavelength, amplitude, phase speed, and period. The
 period of this type of atmospheric disturbance is related to the temperature of the air and the “spread”
@@ -64,17 +49,6 @@ to the ridge line all work together in determining the character of the disturba
 When wind shear is very strong, another type of wave is possible. These waves, called gravity-shear or
 K-H waves, can occur when the kinetic energy inherent in the shear can overcome the damping effects of
 a stable temperature lapse rate. This effect is illustrated in Figure 16-2.
-‘Upper Level Jet
-Height of maximum
-Turbulent ait mation
-I
-Wind spend
-x
-aaae
-$$
-—______—_______»
-Wind Speed
-Gravity-Shear Waves
 Figure 16-2. Gravity-Shear Waves
 Chapter 16, Mountain Weather
 16-3
@@ -86,38 +60,7 @@ The amplitude of the resulting wave will grow with the kinetic energy in the sur
 like an ocean wave breaking on the shore, the wave overturns and breaks down into turbulence. The
 resulting turbulence can have a range of effects on aircraft. The clouds associated with shear-induced
 gravity waves can frequently be observed in the atmosphere, as shown in Figure 16-3 and Figure 16-4.
-oe
-Stonger wins
-a)
-SS
-st
-Weaker winds
 Figure 16-3. Schematic of Clouds Associated with Gravity-Shear Waves
-a
-ee
-i
-gs
-, “ene.
-Re
-a
-SE
-OE,
-| pg:
-a
-hatte,
-i NS
-ee
-Ne
-‘«, “pian
-ta
-pong,
-5. Sc,“Aeee
-PP
-ke
-»
-ho
-on
-ip
 (Photo Credit: University Corporation for Atmospheric Research (UCAR))
 Figure 16-4. Clouds Associated with Gravity-Shear Waves
 K-H waves are quite common in the atmosphere; they can form in the vicinity of thunderstorms, in shear
@@ -183,17 +126,6 @@ jump, turbulence decreases in intensity but still may be quite strong.
 4 Durran, D. R., & Klemp, J. B. (1983). A compressible model for the simulation of moist mountain waves. Monthly
 Weather Review, 111, 2341-2361.
 Chapter 16, Mountain Weather
-Vertically Propagating Mountain Wave
-TT
-SLL LL
-.a
-i—/,—
-e-J
-es
-Air motion
-|——_— es
-——_—
--
 (Source: Durran and Klemp, 1983)4
 16-6
 
@@ -202,7 +134,6 @@ Wave
 5 Durran, D. R., & Klemp, J. B. (1983). A compressible model for the simulation of moist mountain waves. Monthly
 Weather. Review, 111, 2341-2361.
 Chapter 16, Mountain Weather
-——
 (Source: Durran and Klemp, 1983)5
 16-7
 
@@ -224,7 +155,6 @@ above ridge level. Trapped lee waves are most likely to occur when the wind cros
 range, with a layer close to ridge level and upstream of the mountain that has strongly increasing wind
 speed with height and high stability, capped by a layer of strong flow and low stability.
 Chapter 16, Mountain Weather
-£
 16-8
 
 Figure 16-8 depicts a trapped lee wave. Notice that this type of wave extends downwind from the mountain,
@@ -250,16 +180,6 @@ the mountain range. This separates a turbulent wake region below mountaintop lev
 6 Durran, D. R., & Klemp, J. B. (1983). A compressible model for the simulation of moist mountain waves. Monthly
 Weather Review, 111, 2341-2361.
 Chapter 16, Mountain Weather
-Lee Waves
-Trapped
-{ee
-A.
-Ez
-|
-z6
-aAAAS
-—pu
-oO
 (Source: Durran and Klemp, 1983)6
 16-9
 
@@ -284,12 +204,6 @@ moisture is present). This is an area of potentially severe-to-extreme wind shea
 7 Durran, D. R., & Klemp J. B. (1983). A compressible model for the simulation of moist mountain waves. Monthly
 Weather Review, 111, 2341-2361.
 Chapter 16, Mountain Weather
-|
-oo
-eNO
-=A~ArZ&
-ol
-ffl
 (Source: Durran and Klemp, 1983)7
 16-10
 
@@ -302,22 +216,6 @@ innocuous cumulus cloud; however, the downwind side of the rotor cloud will typi
 direction of rotation of the rotor, with cloud tags or streamers at the bottom of the cloud mass.
 The latter features appear to be rapidly forming and dissipating, thereby giving some sense of rotation
 within the cloud.
-Pawan
-t
-Rotor
-Severe /
-vie
-Downslope _#
-Windstorm
-| eaet Winds
-ket
-Contre
-Boulder
-Song
-1— 404m ——>le
-West Winds
-sl 104m
-(Source: Bedard, 1993)8
 Figure 16-10. Conceptual View of a Mountain Lee Wave Rotor Zone
 Because of their potential for causing turbulence and loss of aircraft control, rotor zones should be avoided.
 Rotor zones are of concern not only because of the likelihood of strong turbulence in their vicinity,
@@ -336,6 +234,7 @@ If this phenomenon occurs with strong wind flow above the inversion layer, there
 8 Bedard, A. J., Jr. (1993). Atmospheric Turbulence Aloft: A review of possible methods for detection, warning, and
 validation of prediction models. Washington, DC: American Institute of Aeronautics and Astronautics.
 Chapter 16, Mountain Weather
+(Source: Bedard, 1993)8
 16-11
 
 shear zone near the inversion, which can lead to both significant turbulence encounters and abrupt airspeed
@@ -354,16 +253,6 @@ Figure 16-11. Development of a Strong Roll Vortex Associated with a Wind Surge D
 9 Bedard, A. J., Jr. (1993). Atmospheric Turbulence Aloft: A review of possible methods for detection, warning, and
 validation of prediction models. Washington, DC: American Institute of Aeronautics and Astronautics.
 Chapter 16, Mountain Weather
-‘Approaching wind surge
-withroma
-gee
-itrecton
-S
-Initial roll
-vere
-ao
-Downstream
-Developer of
 (Source: Bedard, 1993)9
 16-12
 
@@ -388,12 +277,6 @@ from 10 to 300 ft, with an average height of approximately 500 to 1,000 ft. In m
 typically last only a few minutes before dissipating, although in deserts typical of northern Arizona, dust
 devils can reach heights of several thousand feet and last an hour or more. Wind speeds in larger dust devils
 Chapter 16, Mountain Weather
-Se eae
-— ¢
-WY
-F
-°
-_—
 16-13
 
 can reach 60 mph or greater. Even though they are generally smaller than tornadoes, dust devils can still be
@@ -418,79 +301,14 @@ visible to the eye. The dust devil, once formed, is a funnel-like chimney throug
 upward and circularly. If a steady supply of warm unstable air is available for the dust devil, it will continue
 to move across the ground. However, once the warm unstable air is depleted or the balance is broken in
 some other way, the dust devil will break down and dissipate.
-a)
-Dust Devils: A Life Cycle
-“A
-~~
--
-7 aS
-Step 1:
-Step 2:
-ee
-The sun heats
-Ai" begins to rise,
-Air rushes in to fill the
-thelaraune
-creating an area of
-low, the circulation
-low pressure
-stretches & speeds up
-(Photo courtesy of NWS Reno)
 Figure 16-13. NWS Dust Devils: A Life Cycle
 It is important to note that not all dust devils may be easily visible. Some may have no or very little debris.
 Pilots should try their best to avoid dust devils. They should not fly through them and should scan takeoff
 and landing areas.
 Chapter 16, Mountain Weather
-®)
-~_
-% |
-:
-Step 5:
-Step
-4:
-The dust devil
-The circulation is self
-encounters cooler
-sustaining, sucking up
-inflow air, killing
-dirt & debris
-ihercrculaton
+(Photo courtesy of NWS Reno)
 16-14
 
-x ea.
-—s
-ae
-=
-a
-ey.
-‘
-=
-=
-;
-:
-s
--) a
-ER a
-as
-ee
-fe a
-ve
-Seeee Se
-ee
-=
-=
-=
-=
-:
-ae ee NE
-a
-ae
-ee
-SSee
-ee gsETGEER
-BO
-ee
-(Photo courtesy of the National Transportation Safety Board (NTSB))
 Figure 16-14. Accident Damage Caused by a Dust Devil
 16.2.6.4 Boras
 The Glossary of Meteorology10 defines a bora as a “fall wind with a source so cold that, when the air reaches
@@ -514,6 +332,7 @@ windstorms with very warm lee-side temperatures are known as chinooks; post-cold
 10 American Meteorological Society, cited 2024: Bora. Glossary of Meteorology. [Available online at
 https://glossary.ametsoc.org/wiki/bora.]
 Chapter 16, Mountain Weather
+(Photo courtesy of the National Transportation Safety Board (NTSB))
 16-15
 
 with cold lee-side winds are often called bora windstorms, or boras. Thus, the term bora in these areas can
@@ -539,22 +358,8 @@ present in the upstream flow, mountain waves can produce interesting cloud forma
 clouds, Cirrocumulus Standing Lenticular (CCSL), ACSL, and rotor clouds (see Figure 16-16). These
 clouds provide visual proof that mountain waves exist. However, these clouds may be absent if the air is
 too dry.
-fs
-ny)
-STRATOSPHERE
-zo
-$
-Fry TROPoPAUSE
-"
 Figure 16-15. Schematic of Mountain Waves and Associated Clouds
 Chapter 16, Mountain Weather
->
-ae
-ers
-eey ere oe
-ON
-¢
-tO
 16-16
 
 Figure 16-16. Examples of Mountain Wave Clouds
@@ -573,7 +378,4 @@ See Section 20.3.8 for information on mountain icing.
 16.9 Density Altitude
 See Section 8.4.1.5 for information on density altitude.
 Chapter 16, Mountain Weather
-Pass
-ee
-Bi,
 16-17

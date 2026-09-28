@@ -1,7 +1,5 @@
 Chapter 13
 Aviation Weather Services
-Aviation Weather Services
-p |
 Introduction
 In aviation, weather service is a combined effort of the
 National Weather Service (NWS), Federal Aviation
@@ -173,44 +171,20 @@ dBZ (decibels of Z) and are depicted in color on the
 radar image. [Figure 13-1] Intensities are correlated
 to intensity terminology (phraseology) for ATC
 purposes. [Figures 13-2 and 13-3]
-ri m
-Ghe Sa ae
-fe o
--
-la oe be
 Figure 13-1. Example of a weather radar scope.
-DBZ
-DBZ
-+28
-+24
-+20
-+16
-+12,
-+8
-+4
-lo
--4
--8
--12
--16
--20
--24
--28
-ND
-ND
 Figure 13-2. WSR-88D Weather Radar Echo Intensity Legend.
-Weather Radar Echo Intensity
 Reflectivity (dBZ) Ranges
-Light
 <30 dBZ
-Moderate
 30–40 dBZ
-Heavy
 >40–50
-Extreme
 50+ dBZ
 Figure 13-3. WSR-88D Weather Radar Precipitation Intensity
 Terminology.
+Weather Radar Echo Intensity
+Light
+Moderate
+Heavy
+Extreme
 13-3
 
 2.
@@ -298,28 +272,6 @@ may also include a synopsis, winds aloft forecast, en route
 and terminal forecast data, and radar reports. At selected
 locations, telephone access to the TWEB has been provided
 (TEL-TWEB). Telephone numbers for this service are found
-a
-eo)
-B
-Ba0%s9
-oh
-ate Saat
-aS
-‘
-Pinos
-in
-122.18
-ai\
-bY CORONAS 2” W i ©
-115.5 Ch 102 NK
-foot
-Vi
-ff
-ALBUQUERQUE
-A AG
-oe
-va
-SACA
 Symbol indicates HIWAS
 Figure 13-4. HIWAS availability is shown on sectional chart.
 
@@ -954,660 +906,49 @@ Z, the lowest cloud base is expected to increase to 4,000
 feet AGL with a scattered layer at 10,000 feet AGL. After
 
 2000Z, the forecast calls for scattered thunderstorms with rain
-phenomena considered potentially hazardous to light aircraft
 developing and a few becoming severe; the CB clouds have
-and aircraft with limited operational capabilities.
 tops at flight level (FL) 450 or 45,000 feet MSL.
-An AIRMET includes forecast of moderate icing, moderate
 It should be noted that when information is given in the area
-turbulence, sustained surface winds of 30 knots or
 forecast, locations may be given by states, regions, or specific
-greater, widespread areas of ceilings less than 1,000 feet
 geological features such as mountain ranges. Figure 13-8
-and/or visibilities less than three miles, and extensive
 shows an area forecast chart with six regions of forecast,
-mountain obscurement.
 states, regional areas, and common geographical features.
-Each AIRMET bulletin has a fixed alphanumeric designator,
 Inflight Weather Advisories
-numbered sequentially for easy identification, beginning with
-the first issuance of the day. Sierra is the AIRMET code used
 Inflight weather advisories, which are provided to en route
-to denote IFR and mountain obscuration; Tango is used to
 aircraft, are forecasts that detail potentially hazardous
-denote turbulence, strong surface winds, and low-level wind
 weather. These advisories are also available to pilots prior
-shear; and Zulu is used to denote icing and freezing levels.
 to departure for flight planning purposes. An inflight
 weather advisory is issued in the form of either an AIRMET,
-Example:
 SIGMET, or convective SIGMET.
-BOSS WA 211945
 AIRMET
-AIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN
-VALID UNTIL 220200
 AIRMETs (WAs) are examples of inflight weather advisories
-AIRMET IFT…ME NH VT MA CT RI NY NJ AND CSTL
 that are issued every 6 hours with intermediate updates
-WTRS FROM CAR TO YSJ TO 150E ACK TO EWR TO
 issued as needed for a particular area forecast region. The
-YOW TO CAR OCNL CIG BLW 010/VIS BLW 3SM
 information contained in an AIRMET is of operational
-PCPN/BR. CONDS CONT BYD 02Z THRU 08Z
 interest to all aircraft, but the weather section concerns
 Strait of Juan De Fuca
-CHI Chicago
-BOS Boston
-SLC Salt Lake City
-ay
-Cascade Mtns
-Puget
-Mtns
-Sound
-Olympic Mtns
-of Cascades
-NE WA
-Flathead Valley
-NW
-East
-NE
-Bitterroot Range
-Fort Peck Reservoir
-Columbia
-Slopes of
-Interior
-Souris
-WRN Upper MI
-River Valley
-Basin
-ME
-Cont Dvd
-Valley
-Coast and
-Red River Valley
-WA
-SE
-n
-Arrowhead
-Costal Valley
-tio
-Lake Superior
-Champlain
-ec
-S
-Valley
-ND
-Willamette Valley
-Columbia Gorge
-Costal Range
-Shoreline
-SW
-ERN Upper MI
-l
-Blue
-a
-White Mtns
-Mtns
-Green
-t
-Upper
-Wallowa
-s
-Mtns
-MT
-Cntrl
-SWRN
-Coa
-Mississippi
-East Slopes
-Mackinac Area
-Mtns
-Cascade Mtns
-Upper
-Missouri
-Mtns
-Valley
-Dame
-MI
-Slope
-Adirondack
-Reservoir
-Door Peninsula
-Mtns of
-VT
-Central
-Northeast Lakes
-Mtns
-NRN Highlands
-MN
-NE OR
-E of Cont Dvd
-NE Lakes
-Mtns
-Yellowstone
-Region
-North of
-N of Catskills
-NH
-MA
-Lake Mich Shoreline
-(Sawtooth)
-Lower Great
-Region
-OR
-Park
-The
-Black
-Hudson Valley
-Lakes Basin
-Mohawk
-NW
-Big Horn
-NE
-Wind River Mtns
-Thumb
-E Cntrl
-Big Horn Mtns
-r
-Hills
-e
-rio
-Big Bend
-Riv
-Valley
-MI
-Cape Cod
-ID
-High Plateau
-Teton
-Basin
-Reservoir
-Mtns
-WI
-ta
-e
-On
-NY
-e
-enn
-Catskill
-SD
-k
-NE WY
-y
-Siskiyous
-Saginaw
-Coastal Mtns and Valleys
-Sna
-Wind River
-le
-La
-Extrm
-Lak
-James
-West of
-Mtns
-Shasta
-al
-CT
-Fra
-Extrm
-WY
-k
-y
-Valley
-V
-e
-e
-Black
-e
-Basin
-R
-SE
-r
-Catskills
-i
-e
-h
-v
-River
-s
-C
-SE
-SW
-Le
-n
-NW
-e
-Pine
-Rosebud
-nc
-i
-RI
-la
-Hills
-Lee
-Irish Hills
-NE CA
-L
-Grand
-P
-NE
-i
-Ridge Area
-e
-Country
-s
-Green River
-Lake
-Laramie Mtns
-wi
-al
-N P
-Ca
-Valley
-N
-NRN
-Nebraska
-s a
-Erie
-PA
-st
-Allegheny
-Sand Hills
-Western
-se C
-Basin
-Cntrl
-a
-Plateau
-la
-NE
-nd
-pan
-NW
-o
-SW
-t
-Near Lake
-Nevada
-t
-C
-e
-ie
-IA
-R
-Eastern
-lark
-NJ
-NW
-Handle
-iv
-Sacramento
-WY
-Great
-N
-Central
-Er
-NRN
-SE
-Central Nebraska
-er Valley
-Extrm
-ear
-ke
-Nevada
-Wasatch Mtns
-So Central
-NE
-La
-NW
-Mi
-Extrm
-Salt
-S
-Iowa
-Sierra
-Valley
-N
-NE
-SE
-NE
-N Third
-SW
-Cntrl
-Mtns
-NW
-Pl
-Lake
-Mtns
-NV
-SRN
-WY
-NE
-E
-a
-tte
-MD
-SE
-W
-OH
-River
-SW
-Lake Tahoe
-North Park
-NE
-NW
-Cntrl
-NW
-n
-So Platte Valley
-IL
-Cntrl
-UT
-i
-Eastern
-s
-a
-Uinta Basin
-B
-IN
-Great
-Southern
-r
-Shore
-Cntrl
-ive
-Coastal
-Coastal Mtns and Valleys
-Central
-SWRN
-SE
-Basin
-Blue River Valley
-S
-NW
-Waters
-Colorado
-SRN
-R
-NE
-Lower
-Republican
-Third
-San Joaquin
-A
-MO
-NE
-West Central
-WV
-Sierra
-l
-Extrm
-NW
-on
-Mtns
-SE
-io
-g
-SW
-Near Ohio River
-tains
-Valley
-NE
-h
-Mtns
-Valley
-O
-SW
-N
-Valleys
-S Cntrl
-Lake Powell
-DC
-Kansas River Valley
-Palmer Lake Ridge
-Cntrl
-CO
-Mtns
-SW
-VA
-or Divide
-SE
-Marais des Cygnes Basin
-NE
-un
-SW
-SE
-San Juan
-SE
-Cntrl
-East
-High Plains
-Appalachian Mo
-CA
-Eastern Plains
-KS
-Lake
-Mtns
-Death
-Northern
-San Luis
-SW
-Extreme
-Flint
-lain
-NE
-Mead
-Four
-Valley
-Lake of the
-Coastal
-Lower Arkansas Valley
-SRN
-Valley
-Corners
-Hills
-Southern
-Ozarks Area
-IL
-Areas
-SE
-Mojave
-Grand Canyon
-P
-Antelope
-Area
-SW Missouri
-SE
-West
-Desert
-Sangre De Cristo
-Boot
-al
-Valley
-Valley
-Lakes Area
-Heel
-Lake
-ide
-st
-Coastal Range
-Santa
-Panhandle
-NC
-Div
-East
-West
-Coa
-SRN
-Middle
-Northwest
-Mojave
-Barbara
-Little
-al
-SE
-Deserts
-Mtns
-Northeast
-Piedmont
-t
-Ozarks
-TN
-Channel
-n
-Colorado
-Coastal Plain
-River
-e
-OK
-tin
-West
-Valley
-Mogollon Rim
-Panhandle
-Con
-NW
-Santa Monica
-New Mexico
-Mtns
-Coacnella
-NE
-Eastern
-NE
-Bay
-of
-NW
-Mtns
-and
-SC
-AR
-Lower Mississippi Valley
-Rio Grande Valley
-Colorado
-White
-Mtns
-SC
-Northwest
-Hills
-Imperial
-Southwest
-AZ
-n
-Southeast
-Northern
-Mtns
-of
-Valleys
-Central
-Texas
-ai
-Alabama
-Sacremento
-East
-Gulf of
-Pl
-Cntrl
-Santa Catalina
-NM
-Gilariver Valley
-West
-l
-MS
-Mtns
-a
-t
-Cntrl
-s
-SE
-SW
-a
-AL
-Extrm
-Eastern
-Co
-SE
-Chiricahua
-Plains
-NW
-GA
-NE
-North Central
-North
-Mtns
-SE
-Coastal
-Extrm Southern
-Waters
-West of
-TX
-MIA Miami
-SW
-Northeast
-P
-e
-SFO
-Georgia
-East of
-Pecos
-c
-o
-s
-Central
-R
-FL W 85
-Pecos
-iver
-Mobile
-Extrm
-Area
-LA
-North
-San Francisco
-South
-Southwest
-Southeast
-Apalachee
-Upper Coastal
-Delta Area
-South Central
-Big Bend
-Bay
-Area
-North
-Plain
-Mid Coastal
-Central
-Lower
-FL
-Rio
-Plain
-Grande
-South
-Valley
-Extrm
-Coastal Waters–from
-m
-Coastal Bend
-South
-DFW
-a
-tre
-coast outward to the
-Lower
-S
-Upper
-Coastal
-Dallas/Fort Worth
-flight information
-Keys
-Gulf
-Plain
-region border
-Lower Keys
-Florida Straits
 Figure 13-8. Area forecast region map.
+phenomena considered potentially hazardous to light aircraft
+and aircraft with limited operational capabilities.
+An AIRMET includes forecast of moderate icing, moderate
+turbulence, sustained surface winds of 30 knots or
+greater, widespread areas of ceilings less than 1,000 feet
+and/or visibilities less than three miles, and extensive
+mountain obscurement.
+Each AIRMET bulletin has a fixed alphanumeric designator,
+numbered sequentially for easy identification, beginning with
+the first issuance of the day. Sierra is the AIRMET code used
+to denote IFR and mountain obscuration; Tango is used to
+denote turbulence, strong surface winds, and low-level wind
+shear; and Zulu is used to denote icing and freezing levels.
+Example:
+BOSS WA 211945
+AIRMET SIERRA UPDT 3 FOR IFR AND MTN OBSCN
+VALID UNTIL 220200
+AIRMET IFT…ME NH VT MA CT RI NY NJ AND CSTL
+WTRS FROM CAR TO YSJ TO 150E ACK TO EWR TO
+YOW TO CAR OCNL CIG BLW 010/VIS BLW 3SM
+PCPN/BR. CONDS CONT BYD 02Z THRU 08Z
 13-11
 
 AIRMET MTN OBSCN…ME NH VT MA NY PA
@@ -1815,11 +1156,6 @@ Figure 13-9. Winds and temperature aloft forecast.
 pennant is equal to 50 knots.
 13-13
 
-ny me
-eae
-ee
-LY,
-boven OP
 Figure 13-10. Surface analysis chart.
 Wind speed
 Total sky cover
@@ -1858,204 +1194,120 @@ Figure 13-11. Sample station model and weather chart symbols.
 13-14
 
 Weather Depiction Chart
-ceiling height, weather, and obstructions to visibility, but
-does not include winds or pressure readings like the surface
 A weather depiction chart details surface conditions as
-analysis chart. A bracket ( ] ) symbol to the right of the station
 derived from METAR and other surface observations. The
-indicates the observation was made by an automated station.
 weather depiction chart is prepared and transmitted by
 computer every 3 hours beginning at 0100Z time and is valid
-Significant Weather Prognostic Charts
 data for the forecast period. It is designed to be used for flight
-Significant weather prognostic charts are available for low-
 planning by giving an overall picture of the weather across
-level significant weather from the surface to FL 240 (24,000
 the United States. [Figure 13-12]
-feet), also referred to as the 400 mb level and high-level
-significant weather from FL 250 to FL 630 (25,000 to 63,000
 The weather depiction chart also provides a graphic display
-feet). The primary concern of this discussion is the low-level
 of IFR, VFR, and marginal VFR (MVFR) weather. Areas of
-significant weather prognostic chart.
 IFR conditions (ceilings less than 1,000 feet and visibility
 less than three miles) are shown by a hatched area outlined
-The low-level chart is is a forecast of aviation weather
 by a smooth line. MVFR regions (ceilings 1,000 to 3,000
-hazards, primarily intended to be used as a guidance product
 feet, visibility 3 to 5 miles) are shown by a nonhatched area
-for briefing the VFR pilot. The forecast domain covers the 48
 outlined by a smooth line. Areas of VFR (no ceiling or ceiling
-contiguous states, southern Canada and the coastal waters for
 greater than 3,000 feet and visibility greater than five miles)
-altitudes below 24,000 ft. Low altitude Significant Weather
 are not outlined. Also plotted are fronts, troughs, and squall
-charts are issued four times daily and are valid at fixed times:
 lines from the previous hours surface analysis chart.
+Weather depiction charts show a modified station model
+that provides sky conditions in the form of total sky cover,
+Figure 13-12. Weather depiction chart.
+ceiling height, weather, and obstructions to visibility, but
+does not include winds or pressure readings like the surface
+analysis chart. A bracket ( ] ) symbol to the right of the station
+indicates the observation was made by an automated station.
+Significant Weather Prognostic Charts
+Significant weather prognostic charts are available for low-
+level significant weather from the surface to FL 240 (24,000
+feet), also referred to as the 400 mb level and high-level
+significant weather from FL 250 to FL 630 (25,000 to 63,000
+feet). The primary concern of this discussion is the low-level
+significant weather prognostic chart.
+The low-level chart is is a forecast of aviation weather
+hazards, primarily intended to be used as a guidance product
+for briefing the VFR pilot. The forecast domain covers the 48
+contiguous states, southern Canada and the coastal waters for
+altitudes below 24,000 ft. Low altitude Significant Weather
+charts are issued four times daily and are valid at fixed times:
 0000, 0600, 1200, and 1800 UTC. Each chart is divided on
 the left and right into 12 and 24 hour forecast intervals (based
-Weather depiction charts show a modified station model
 on the current NAM model available).
-that provides sky conditions in the form of total sky cover,
-el
-ae
-ap
-a
-K
-:
-=
-5,
-a e
->
-ee
-Figure 13-12. Weather depiction chart.
 13-15
 
 Effective September 1, 2015, the four-panel Low Level
-of a precipitation area, but the specific character of that area
 SFC-240 chart was replaced with a two-panel chart. The new
-(snow, rain, hail, VIRGA, etc.) cannot be determined. For
 two-panel chart will be the same as the top two panels in the
-this reason, ATC refers to all weather areas displayed on ATC
 former four-panel chart, depicting the freezing level and areas
-radar scopes as “precipitation.”
 of IFR, MVFR, and moderate or greater turbulence. The bottom
 two panels of the chart have been removed. In lieu of these
-ARTCC facilities normally use a Weather and Radar
 bottom two panels, an enhanced surface chart that includes
-Processor (WARP) to display a mosaic of data obtained
 fronts, pressure, precipitation type, precipitation intensity, and
-from multiple NEXRAD sites. There is a time delay between
 weather type, is displayed. The green precipitation polygons
-actual conditions and those displayed to the controller.
 will be replaced by shaded precipitation areas using the
-The precipitation data on the ARTCC controller’s display
 National Digital Forecast Database (NDFD) weather grid.
-could be up to 6 minutes old. The WARP processor is only
-used in ARTCC facilities. All ATC facilities using radar
 Figure 13-13 depicts the new two-panel significant weather
-weather processors with the ability to determine precipitation
 prognostic chart, as well as the symbols typically used to
-intensity, describe the intensity to pilots as:
 depict precipitation. The two panels depict freezing levels,
-•
-Light
 turbulence, and low cloud ceilings and/or restrictions to
-•
-Moderate
 visibility (shown as contoured areas of MVFR and IFR
 conditions). These charts enable the pilot to pictorially
-•
-Heavy
 evaluate existing and potential weather hazards they may
-•
-Extreme
 encounter. Pilots can balance weather phenomena with
 their aircraft capability and skill set resulting in aeronautical
-When the WARP is not available, a second system, the
 decision-making appropriate to the flight. Prognostic charts
-narrowband Air Route Surveillance Radar (ARSR) can
 are an excellent source of information for preflight planning;
-display two distinct levels of precipitation intensity that
 however, this chart should be viewed in light of current
-is described to pilots as “MODERATE and “HEAVY TO
 conditions and specific local area forecasts.
-EXTREME.”
 The 36- and 48-hour significant weather prognostic chart is
-ATC facilities that cannot display the intensity levels of
 an extension of the 12- and 24-hour forecast. This chart is
-precipitation due to equipment limitations describe the
 issued twice a day. It typically contains forecast positions and
-location of the precipitation area by geographic position or
 characteristics of pressure patterns, fronts, and precipitation.
-position relative to the aircraft. Since the intensity level is not
 An example of a 36- and 48-hour surface prognostic chart is
-available, the controller states “INTENSITY UNKNOWN.”
 shown in Figure 13-14.
-ATC radar is not able to detect turbulence. Generally,
 ATC Radar Weather Displays
-turbulence can be expected to occur as the rate of rainfall or
 Although ATC systems cannot always detect the presence
-intensity of precipitation increases. Turbulence associated
 or absence of clouds, they can often determine the intensity
-with greater rates of precipitation is normally more severe than
-eT
-n
-J.
-es
-V5
-(oe
-Biv
-¥
-AGL
-UY
-ais
-«
-any
-gga
-FOS
-of
-os i
-ex
-ee
-Cys
-Ae
-olsen
-FOP SS
-ors
-A
-ieee
-L\
-LIS AP
-A 35.
-=
-Poe
-Tayaa,
-SACS
-a
-ay
-ale IT
-Ie
-ace SEA
-2854 85,
-i ae
-\
-_
-a
-"
-eae
-«ify
-aye:
-\
-cin
-Tag
-"
-b
-Noe
-‘
-aati
-\\ At
-oi ome
-aa
-}
-Re] or azz
-a fe
-Sixes
-lina bec 18. 20
-SViica'bec 18 204s}
-xy
-‘
-Flight planning only See TAFs for specific terminal forecast
 Figure 13-13. Significant weather prognostic chart.
 13-16
+of a precipitation area, but the specific character of that area
+(snow, rain, hail, VIRGA, etc.) cannot be determined. For
+this reason, ATC refers to all weather areas displayed on ATC
+radar scopes as “precipitation.”
+ARTCC facilities normally use a Weather and Radar
+Processor (WARP) to display a mosaic of data obtained
+from multiple NEXRAD sites. There is a time delay between
+actual conditions and those displayed to the controller.
+The precipitation data on the ARTCC controller’s display
+could be up to 6 minutes old. The WARP processor is only
+used in ARTCC facilities. All ATC facilities using radar
+weather processors with the ability to determine precipitation
+intensity, describe the intensity to pilots as:
+•
+Light
+•
+Moderate
+•
+Heavy
+•
+Extreme
+When the WARP is not available, a second system, the
+narrowband Air Route Surveillance Radar (ARSR) can
+display two distinct levels of precipitation intensity that
+is described to pilots as “MODERATE and “HEAVY TO
+EXTREME.”
+ATC facilities that cannot display the intensity levels of
+precipitation due to equipment limitations describe the
+location of the precipitation area by geographic position or
+position relative to the aircraft. Since the intensity level is not
+available, the controller states “INTENSITY UNKNOWN.”
+ATC radar is not able to detect turbulence. Generally,
+turbulence can be expected to occur as the rate of rainfall or
+intensity of precipitation increases. Turbulence associated
+with greater rates of precipitation is normally more severe than
 
-tll BON
-MU
-|Gosc
-a
 Figure 13-14. 36- (top) and 48-hour (bottom) surface prognostic chart.
-oF |
-PE vA
 13-17
 
 any associated with lesser rates of precipitation. Turbulence
@@ -2170,20 +1422,6 @@ the images were from 6 to 8 minutes old. In some cases,
 NEXRAD data can age significantly by the time the mosaic
 image is created. In some extreme latency cases, the actual
 
-OPER egRl Bi
-= (om
-O)
-BN
-@) | Tu oine
-we
-28)
-~
-ja
-| coor
-a Fee
-‘yee
-AT@ 0s
-wes 00
 Figure 13-15. Information page.
 age of the oldest NEXRAD data in the mosaic can exceed
 the age indication in the cockpit by 15 to 20 minutes. Even
@@ -2210,23 +1448,6 @@ display. [Figure 13-18]
 What Can Pilots Do?
 Remember that the in-cockpit NEXRAD display depicts
 where the weather WAS, not where it IS. The age indicator
-et
-Je ©) o
-come) ee
-G
-= BARO
-‘ons
-smut
-et
-®
-IC
-sen
-am
-rN
-cere
-m5
-ie.
-ce
 does not show the age of the actual weather conditions,
 but rather the age of the mosaic image. The actual weather
 conditions could be up to 15 to 20 minutes OLDER than
@@ -2253,108 +1474,7 @@ __/__ __:__
 Figure 13-16. List of weather products and the expiration times of each.
 13-19
 
-» (ee a eeF
-www2 188.08
-117.95,
-136.975_
-118.808 core)
-uP |
->
-[nora
-a” 23
-a
-eo
-jee.
-|
-ages)
-IY
--
-2)
-aia
-on rep
-|r
-v
-.
-ay
-eS
-fet
-a
-J
-s.@
-6&6
-&
-&
-&
 Figure 13-17. NEXRAD radar display.
-vwin10800 11785 fac em ee
-ems | 136975 118.0080
-wwe 108.08
-117.95 |
-MAP = MATHEROATALINK
-| 136.975
-118.000co
-Po
-‘a7
-oes
-| a
-a
-NEBRASKA
-i
-§
-= ' =
-‘.
-Sf
-———
-Ns
-%
-‘ILLINOIS
-y
-ones
-BS cael
-a
-=
-'
-ae
-a
-=
-ct
-FI
-os
-ia
-(enews.
-+ 4
-i
-oo Saepesn
-_
-an
-eee
-~
-Fae
-ee
-at,
-at
-890m 359
-muvee i
-to
--
-80 es 00
-!
-bala
-H
-a
-a
-J
-as
-J
->
-J
->
-J
-J
-a
-J+
-|
-I
 Figure 13-18. NEXRAD radar display (500 mile range). The individual color gradients can be easily discerned and interpreted via the
 legend in the upper right corner of the screen. Additional information can be gained by pressing the LEGEND soft key, which displays
 the legend page.
@@ -2455,217 +1575,31 @@ one pilot at a time, which leaves other pilots waiting and
 flying in uncertain weather conditions. Data link weather
 13-21
 
-ge
-wwe 108.08 _ 117.95.
-136.975 _118.888 coe!
->
-a
-‘
-mo
-|
-2° 38
-Pm
-‘
-ez nD 90
-|
-ee
-|
-==
-|
-(Clie.
-:
-e
-x
-fe
-Q |e
-A
-ia
-oi
-S |hee
-Sasen]OME
-NL
-b>
-a eg
-Poy
-© | ieee
-1geetat| UMITED STATESOF avERICA
-sus
-f
-ro
-;
-‘
-Lon
-72 ws 312
-oxuvons
-oe
-ee
-Goo
-|
-ox oe
-|
-tebe
-eo a
-Eee
-eee)
-e)
-ee)
-«) =
-=
-L
 Figure 13-19. The AIRMET information box instructs the pilot to press the ENTER button soft key (ENT) to gain additional information
 on the selected area of weather. Once the ENTER soft key (ENT) is depressed, the specific textual information is displayed on the right
 side of the screen.
-‘nw2 108.08
-117.95
-oa
-ee |e
-=
-*giowsascrm
-oS
-|
-is
-¥
-=
-us
-eS om.
-or
-x
-or
-‘
-ee
-pica
-/
-ae
-wy
-y,
-==
-S)
-pe acta
-F | ONrTED'sraTES
-oF aveRICA
-usa
-oe|
-inated
-{ome
-e.
-4 OUT 94
-ruavone cry
-=
-ron
-&
-|7
-00 wes 00
-on
-i
-z
-a
-=| el
-a
-J
-a
-=]
-=
-=
-=]
-=]
-J
-a
-as
 Figure 13-20. SIGMET/AIRMET legend display.
 13-22
 
-| a
-er
-WEATENOATALR—————+|136.975
-118.000 coe
-wwri98ge
-11795 [P=
-sete
-vr
-r
-a
-a
-\ lure
-r
-.
-:
-fare
-© 2110
-hep,
-a
-ae
-ouges
-© |!
-nue
-a
-=
-\
-stance
-a
-~)
-\
-w
-“>
-ee
-.
-ok
-ame
-ee
-re
-=
-F
-Tt
-°
-off
-ao
-_wes
-«
-Eero
-eases ee ee ee
-ed Ne
-ee a
-: 33939
 Figure 13-21. Graphical METAR legend display.
 provides the pilot with a powerful resource for enhanced
-•
-Significant Meteorological Conditions (SIGMET) and
 situational awareness at any time. Due to continuous data link
-Convective SIGMET
 broadcasts, pilots can obtain a weather briefing by looking at
-•
-Status of Special Use Airspace (SUA)
 a display screen. Pilots have a choice between FAA-certified
-•
-Temporary Flight Restrictions (TFRs)
 devices or portable receivers as a source of weather data.
-•
-Winds and Temperatures Aloft.
 Data Link Weather Products
-•
-Pilot Reports (PIREPS)
 Flight Information Service- Broadcast (FIS-B)
-•
-TIS-B service status
 Flight Information Service–Broadcast (FIS-B) is a ground
 broadcast service provided through the Automatic Dependent
-The weather products provided by FIS-B are for information
 Surveillance–Broadcast (ADS-B) Services network over
-only. Therefore, these products do not meet the safety and
 the 978 MHz UAT data link. The FAA FIS-B system
-regulatory requirements of official weather products. The
 provides pilots and flight crews of properly-equipped aircraft
-weather products displayed on FIS-B should not be used
 with a flightdeck display of certain aviation weather and
-as primary weather products (i.e., aviation weather to meet
 aeronautical information which are listed below.
-operational and safety requirements). Each aircraft system is
 •
 Aviation Routine Weather Reports (METARs)
-different and some of the data that is rendered can be up to
-20 or 30 minutes old and not current. Pilots should consult
 •
 Special Aviation Reports (SPECIs)
-the individual equipment manuals for specific delay times.
 •
 Terminal Area Forecasts (TAFs) and their amendments
 •
@@ -2675,6 +1609,28 @@ Notice to Airmen (NOTAM) Distant and Flight Data
 Center
 •
 Airmen’s Meteorological Conditions (AIRMET)
+•
+Significant Meteorological Conditions (SIGMET) and
+Convective SIGMET
+•
+Status of Special Use Airspace (SUA)
+•
+Temporary Flight Restrictions (TFRs)
+•
+Winds and Temperatures Aloft.
+•
+Pilot Reports (PIREPS)
+•
+TIS-B service status
+The weather products provided by FIS-B are for information
+only. Therefore, these products do not meet the safety and
+regulatory requirements of official weather products. The
+weather products displayed on FIS-B should not be used
+as primary weather products (i.e., aviation weather to meet
+operational and safety requirements). Each aircraft system is
+different and some of the data that is rendered can be up to
+20 or 30 minutes old and not current. Pilots should consult
+the individual equipment manuals for specific delay times.
 13-23
 
 Pilot Responsibility

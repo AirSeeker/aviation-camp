@@ -2,7 +2,6 @@ Chapter 7, Section I
 Airplane Basic
 Flight Maneuvers
 Using Analog Instrumentation
-pe
 Introduction
 Instrument flying techniques differ according to aircraft
 type, class, performance capability, and instrumentation.
@@ -29,710 +28,340 @@ level flight, the pitch attitude varies with airspeed and load.
 For training purposes, the latter factor can normally be
 disregarded in small airplanes. At a constant airspeed, there is
 only one specific pitch attitude for level flight. At slow cruise
-|
-|
 speeds, the level flight attitude is nose high with indications
 as in Figure 7-1; at fast cruise speeds, the level-flight attitude
--
--
--
 is nose low. [Figure 7-2] Figure 7-3 shows the indications
-_
-nal
-Pl
->
-i
 for the attitude at normal cruise speeds. The instruments used
-|
-,
-@
 to determine the pitch attitude of the aircraft are the attitude
-29.8
-29.9
 indicator, the altimeter, the vertical speed indicator (VSI),
-30.0
-&
 and the airspeed indicator (ASI).
-a
--
-i
->
--
-y
--
 Attitude Indicator
-el
-al
-al
->
 The attitude indicator gives the direct indication of pitch
-»
--_
-attitude. The desired pitch attitude is gained by using the
-rt]
-elevator control to raise or lower the miniature aircraft in
-relation to the horizon bar. This corresponds to the way pitch
-attitude is adjusted in visual flight by raising or lowering
-J
-i
--
-the nose of the airplane in relation to the natural horizon.
-i
-al
--
->
--
--
-However, unless the airspeed is constant, and until the
-Figure 5-2. Pitch attitude and airspeed in level fiight, fast cruise speed.
-Figure 7-2. Pitch attitude and airspeed in level flight, fast
-level flight attitude for that airspeed has been identified and
-cruise speed.
-established, there is no way to know whether level flight as
-ee
-|
-ee
-yo
--
--
-,
-,
--
-al
-~
->
-A
-al
-P~
-Ga
--
-I
-,
-.|
-,
-®@
-@
-29.8
-29.9
-29.8
-30.0
-29.9
-30.0
-&
-&
-a
-a
->
-ad
--
--
--
-I
--
-al
-y
--
-,
-al
-al
-wal
-a
-I
-al
-|
-=
-rt]
-rt]
--
--
->
-»
-if
-y
-y
-,
-,
--
--
--
-Figure 5-1. Pitch attitude and airspeed in level fiight, slow cruise speed.
-Figure 5-3. Pitch attitude and airspeed in level fiight, normal cruise speed.
-Figure 7-3. Pitch attitude and airspeed in level flight, normal
 Figure 7-1. Pitch attitude and airspeed in level flight, slow
 cruise speed.
-cruise speed.
 7-2
+Figure 7-3. Pitch attitude and airspeed in level flight, normal
+cruise speed.
 
 indicated on the attitude indicator is resulting in level flight
 as shown on the altimeter, VSI, and ASI. If the miniature
-“a
--
 aircraft of the attitude indicator is properly adjusted on the
-i
-q
 ground before takeoff, it shows approximately level flight at
 normal cruise speed when the pilot completes the level off
-=
-wz
 from a climb. If further adjustment of the miniature aircraft
 is necessary, the other pitch instruments must be used to
 maintain level flight while the adjustment is made.
 To practice pitch control for level flight using only the
-ry
 attitude indicator, use the following exercise. Restrict the
 displacement of the horizon bar to a one-half bar width, a
--
 bar width up or down, then a one-and-one-half bar width.
 One-half, one, and one-and-one-half bar width nose-high
->
-|
 attitudes are shown in Figures 7-4, 7-5, and 7-6.
+Figure 7-4. Pitch correction for level flight, one-half bar width.
+Figure 7-5. Pitch correction for level flight, one bar width.
+An instructor pilot can demonstrate these normal pitch
+corrections and compare the indications on the attitude
+indicator with the airplane’s position to the natural horizon.
 Figure 7-6. Pitch correction for level flight, one-and-one-half
-Figure 5-6. Pitch correction for level flight, three-bar width
 bar width.
-“7a
-J
-q
-d
 Pitch attitude changes for corrections to level flight by
 reference to instruments are much smaller than those
-a
-“=
 commonly used for visual flight. With the airplane correctly
 trimmed for level flight, the elevator displacement and the
 control pressures necessary to effect these standard pitch
 changes are usually very slight. The following are a few
 helpful hints to help determine how much elevator control
-@
 pressure is required.
 First, a tight grip on the controls makes it difficult to feel
--
 control pressure changes. Relaxing and learning to control
->
-=
 the aircraft usually takes considerable conscious effort during
 the early stages of instrument training.
-Figure 7-4. Pitch correction for level flight, one-half bar width.
-Figure 5-4. Pitch correction for level flight, half-bar width
 Second, make smooth and small pitch changes with positive
 pressure. With practice, a pilot can make these small pitch
-“7a
--
 corrections up or down, “freezing” (holding constant) the
-q
 one-half, full, and one-and-one-half bar widths on the
-q
-A
-al
 attitude indicator.
-=
--
 Third, with the airplane properly trimmed for level flight,
 momentarily release all pressure on the elevator control
 when becoming aware of tenseness. This is a reminder that
 the airplane is stable; except under turbulent conditions, it
-a
 maintains level flight if left alone. Even when no control
 change is called for, it is difficult to resist the impulse to
 move the controls. This may be one of the most difficult
--
-al
 initial training problems in instrument flight.
--
-I]
 Altimeter
-Figure 7-5. Pitch correction for level flight, one bar width.
 At constant power, any deviation from level flight (except
-Figure 5-5. Pitch correction for level flight, two-bar width
 in turbulent air) is the result of a pitch change. Therefore,
-An instructor pilot can demonstrate these normal pitch
 the altimeter gives an indirect indication of the pitch attitude
-corrections and compare the indications on the attitude
 in level flight, assuming constant power. Since the altitude
-indicator with the airplane’s position to the natural horizon.
 7-3
 
 should remain constant when the airplane is in level flight,
-An instructor pilot can demonstrate an excessive nose-down
 any deviation from the desired altitude signals the need for a
-deviation (indicated by rapid movement of the altimeter
 pitch change. If the aircraft is gaining altitude, the nose must
-needle) and then, as an example, show the result of improper
 be lowered. [Figures 7-7 and 7-8]
-corrective technique. The normal impulse is to make a
-large pitch correction in a hurry, but this inevitably leads
-al
-to overcontrolling. The needle slows down, then reverses
-|G
-_
-P=
-al
-direction, and finally indicates an excessive nose-high
-.|
-,
-a
-.
-™
-@
-™
-deviation. The result is tension on the controls, erratic control
-response, and increasingly extreme control movements. The
-29.8
-correct technique, which is slower and smoother, returns the
-29.9
-30.0
-airplane to the desired attitude more quickly, with positive
-@
-control and no confusion.
-*
->
-ba
-When a pitch error is detected, corrective action should be
-taken promptly, but with light control pressures and two
-Figure 5-7. Using the altimeter for pitch interpretation, a high altitude means a
 Figure 7-7. Using the altimeter for pitch interpretation, a high
-distinct changes of attitude: (1) a change of attitude to stop
-nose-high pitch attitude.
 altitude means a nose-high pitch attitude.
-the needle movement and (2) a change of attitude to return
-to the desired altitude.
-al
-_
-a
->
-all
-.|
-,
-a
-When the altimeter indicates an altitude deviation, apply
-@
-~
-just enough elevator pressure to decrease the rate of needle
-movement. If it slows down abruptly, ease off some of the
-29.8
-29.9
-30.0
-pressure until the needle continues to move, but ease off
-@
-slowly. Slow needle movement means the airplane attitude
-is close to level flight. Add slightly more corrective pressure
-"ol
-to stop the direction of needle movement. At this point, level
->
-bad
-flight is achieved; a reversal of needle movement means
-the aircraft has passed through it. Relax control pressures
-Figure 5-8. Pitch correction following altitude increase-lower nose to correct
 Figure 7-8. Pitch correction following altitude increase—lower
-attitude error.
-carefully, continuing to cross-check since changing airspeed
 nose to correct altitude error.
-causes changes in the effectiveness of a given control
 The rate of movement of the altimeter needle is as important
-pressure. Next, adjust the pitch attitude with elevator pressure
 as its direction of movement in maintaining level flight
-for the rate of change of altimeter needle movement that is
 without the use of the attitude indicator. An excessive pitch
-correlated with normal pitch corrections and return to the
 deviation from level flight results in a relatively rapid change
-desired altitude.
 of altitude; a slight pitch deviation causes a slow change.
 Thus, if the altimeter needle moves rapidly clockwise, assume
-As a rule of thumb, for errors of less than 100 feet, use a half
 a considerable nose-high deviation from level flight attitude.
-bar width correction. [Figures 7-9 and 7-10] For errors in
 Conversely, if the needle moves slowly counterclockwise to
-excess of 100 feet, use an initial full bar width correction.
 indicate a slightly nose-low attitude, assume that the pitch
-[Figures 7-11 and 7-12] Practice predetermined altitude
 correction necessary to regain the desired altitude is small.
-changes using the altimeter alone, then in combination with
 As the altimeter is added to the attitude indicator in a cross-
-the attitude indicator.
 check, a pilot learns to recognize the rate of movement of
-Vertical Speed Indicator (VSI)
 the altimeter needle for a given pitch change as shown on
 the attitude indicator.
-The VSI, like the altimeter, gives an indirect indication of
-pitch attitude and is both a trend and a rate instrument. As
 To practice precision control of pitch in an airplane without
-a trend instrument, it shows immediately the initial vertical
 an attitude indicator, make small pitch changes by visual
-movement of the airplane, which disregarding turbulence
 reference to the natural horizon and note the rate of movement
-can be considered a reflection of pitch change. To maintain
 of the altimeter. Note what amount of pitch change gives
-level flight, use the VSI in conjunction with the altimeter and
 the slowest steady rate of change on the altimeter. Then
-attitude indicator. Note any positive or negative trend of the
 practice small pitch corrections by accurately interpreting
-needle from zero and apply a very light corrective elevator
 and controlling the rate of needle movement.
 7-4
+An instructor pilot can demonstrate an excessive nose-down
+deviation (indicated by rapid movement of the altimeter
+needle) and then, as an example, show the result of improper
+corrective technique. The normal impulse is to make a
+large pitch correction in a hurry, but this inevitably leads
+to overcontrolling. The needle slows down, then reverses
+direction, and finally indicates an excessive nose-high
+deviation. The result is tension on the controls, erratic control
+response, and increasingly extreme control movements. The
+correct technique, which is slower and smoother, returns the
+airplane to the desired attitude more quickly, with positive
+control and no confusion.
+When a pitch error is detected, corrective action should be
+taken promptly, but with light control pressures and two
+distinct changes of attitude: (1) a change of attitude to stop
+the needle movement and (2) a change of attitude to return
+to the desired altitude.
+When the altimeter indicates an altitude deviation, apply
+just enough elevator pressure to decrease the rate of needle
+movement. If it slows down abruptly, ease off some of the
+pressure until the needle continues to move, but ease off
+slowly. Slow needle movement means the airplane attitude
+is close to level flight. Add slightly more corrective pressure
+to stop the direction of needle movement. At this point, level
+flight is achieved; a reversal of needle movement means
+the aircraft has passed through it. Relax control pressures
+carefully, continuing to cross-check since changing airspeed
+causes changes in the effectiveness of a given control
+pressure. Next, adjust the pitch attitude with elevator pressure
+for the rate of change of altimeter needle movement that is
+correlated with normal pitch corrections and return to the
+desired altitude.
+As a rule of thumb, for errors of less than 100 feet, use a half
+bar width correction. [Figures 7-9 and 7-10] For errors in
+excess of 100 feet, use an initial full bar width correction.
+[Figures 7-11 and 7-12] Practice predetermined altitude
+changes using the altimeter alone, then in combination with
+the attitude indicator.
+Vertical Speed Indicator (VSI)
+The VSI, like the altimeter, gives an indirect indication of
+pitch attitude and is both a trend and a rate instrument. As
+a trend instrument, it shows immediately the initial vertical
+movement of the airplane, which disregarding turbulence
+can be considered a reflection of pitch change. To maintain
+level flight, use the VSI in conjunction with the altimeter and
+attitude indicator. Note any positive or negative trend of the
+needle from zero and apply a very light corrective elevator
 
-pressure. As the needle returns to zero, relax the corrective
--
-pressure. If control pressures have been smooth and light, the
-a
-“a
--
-.|
-,
-needle reacts immediately and slowly, and the altimeter shows
-@
-little or no change of altitude. As a rate instrument, the VSI
-requires consideration of lag characteristics.
-29.8
-29.9
-30.0
-Lag refers to the delay involved before the needle attains a
-@
-stable indication following a pitch change. Lag is directly
-a”
-proportional to the speed and magnitude of a pitch change.
-ad
-If a slow, smooth pitch change is initiated, the needle moves
-with minimum lag to a point of deflection corresponding
 Figure 7-9. Altitude error, less than 100 feet.
-Figure 5-9. Altitude error, less than 100 feet.
-to the extent of the pitch change, and then stabilizes as the
-aerodynamic forces are balanced in the climb or descent.
-al
-a
->
--
-A large and abrupt pitch change produces erratic needle
--
-.|
-,
-movement, a reverse indication, and introduces greater time
-'
-@
-delay (lag) before the needle stabilizes. Pilots are cautioned
-=
-not to chase the needle when flight through turbulent
-29.8
-29.9
-conditions produces erratic needle movements. The apparent
-30.0
-lag in airspeed indications with pitch changes varies greatly
-@
-among different airplanes and is due to the time required for
-a”
-the airplane to accelerate or decelerate when the pitch attitude
--
-Lad
-is changed. There is no appreciable lag due to the construction
-or operation of the instrument. Small pitch changes, smoothly
-Figure 5-10. Pitch correction, less than 100 feet- 1/2 bar low to correct altitude error.
 Figure 7-10. Pitch correction, less than 100 feet—one-half bar low
-executed, result in an immediate change of airspeed.
 to correct altitude error.
-When using the VSI as a rate instrument and combining it
-with the altimeter and attitude indicator to maintain level
-al
-_
->
-a
->
-wal
-flight, a pilot should know that the amount the altimeter
-.|
-,
-needle moves from the desired altitude governs the rate that
-@
--
-should be used to return to that altitude. A rule of thumb is to
-29.8
-make an attitude change that results in a vertical-speed rate
-29.9
-30.0
-approximately double the error in altitude. For example, if
-@
-altitude is off by 100 feet, the rate of return to the desired
-altitude should be approximately 200 feet per minute (fpm).
-"ol
--
-If it is off by more than 100 feet, the correction should
-J
-bad
-be correspondingly greater, but should never exceed the
 Figure 7-11. Altitude error, greater than 100 feet.
-optimum rate of climb or descent for the airplane at a given
-Figure 5-11. Altitude error, greater than 100 feet.
-airspeed and configuration.
-al
-a
-a
-“a
-ail
-A deviation of more than 200 fpm from the desired rate
-.|
-,
-@
-of return is considered overcontrolling. For example, if
--
--
-.
-attempting to change altitude by 200 feet, a rate in excess of
-29.8
-400 fpm indicates overcontrolling.
-29.9
-30.0
-@
-When returning to an altitude, the VSI is the primary pitch
-instrument. Occasionally, the VSI is slightly out of calibration
--
-hed
-and may indicate a climb or descent when the airplane is in
-level flight. If the instrument cannot be adjusted, take the
-Figure 5-12. Pitch correction, freater than 100 feet-1 bar correction initially.
-error into consideration when using it for pitch control. For
 Figure 7-12. Pitch correction, greater than 100 feet—one bar
 correction initially.
+pressure. As the needle returns to zero, relax the corrective
+pressure. If control pressures have been smooth and light, the
+needle reacts immediately and slowly, and the altimeter shows
+little or no change of altitude. As a rate instrument, the VSI
+requires consideration of lag characteristics.
+Lag refers to the delay involved before the needle attains a
+stable indication following a pitch change. Lag is directly
+proportional to the speed and magnitude of a pitch change.
+If a slow, smooth pitch change is initiated, the needle moves
+with minimum lag to a point of deflection corresponding
+to the extent of the pitch change, and then stabilizes as the
+aerodynamic forces are balanced in the climb or descent.
+A large and abrupt pitch change produces erratic needle
+movement, a reverse indication, and introduces greater time
+delay (lag) before the needle stabilizes. Pilots are cautioned
+not to chase the needle when flight through turbulent
+conditions produces erratic needle movements. The apparent
+lag in airspeed indications with pitch changes varies greatly
+among different airplanes and is due to the time required for
+the airplane to accelerate or decelerate when the pitch attitude
+is changed. There is no appreciable lag due to the construction
+or operation of the instrument. Small pitch changes, smoothly
+executed, result in an immediate change of airspeed.
+When using the VSI as a rate instrument and combining it
+with the altimeter and attitude indicator to maintain level
+flight, a pilot should know that the amount the altimeter
+needle moves from the desired altitude governs the rate that
+should be used to return to that altitude. A rule of thumb is to
+make an attitude change that results in a vertical-speed rate
+approximately double the error in altitude. For example, if
+altitude is off by 100 feet, the rate of return to the desired
+altitude should be approximately 200 feet per minute (fpm).
+If it is off by more than 100 feet, the correction should
+be correspondingly greater, but should never exceed the
+optimum rate of climb or descent for the airplane at a given
+airspeed and configuration.
+A deviation of more than 200 fpm from the desired rate
+of return is considered overcontrolling. For example, if
+attempting to change altitude by 200 feet, a rate in excess of
+400 fpm indicates overcontrolling.
+When returning to an altitude, the VSI is the primary pitch
+instrument. Occasionally, the VSI is slightly out of calibration
+and may indicate a climb or descent when the airplane is in
+level flight. If the instrument cannot be adjusted, take the
+error into consideration when using it for pitch control. For
 7-5
 
 example, if the needle indicates a descent of 200 fpm while
-Pitch control in level flight is a question of cross-check and
 in level flight, use this indication as the zero position.
-interpretation of the instrument panel for the instrument
-information that enables a pilot to visualize and control
 Airspeed Indicator (ASI)
-pitch attitude. Regardless of individual differences in
-cross-check technique, all pilots should use the instruments
 The ASI presents an indirect indication of the pitch attitude.
-that give the best information for controlling the airplane
 In non-turbulent conditions with a constant power setting and
-in any given maneuver. Pilots should also check the other
 pitch attitude, airspeed remains constant. [Figure 7-13] As the
-instruments to aid in maintaining the primary instruments
 pitch attitude lowers, airspeed increases, and the nose should
-at the desired indication.
 be raised. [Figure 7-14] As the pitch attitude rises, airspeed
 decreases, and the nose should be lowered. [Figure 7-15] A
-As noted previously, the primary instrument is the one
 rapid change in airspeed indicates a large pitch change, and
-that gives the most pertinent information for a particular
 a slow change of airspeed indicates a small pitch change.
+Constant Airspeed
+Figure 7-13. Constant power plus constant pitch equals constant
+speed.
+Increased Airspeed
+Figure 7-14. Constant power plus decreased pitch equals increased
+airspeed.
+Decreased Airspeed
+Figure 7-15. Constant power plus increased pitch equals decreased
+airspeed.
+7-6
+Pitch control in level flight is a question of cross-check and
+interpretation of the instrument panel for the instrument
+information that enables a pilot to visualize and control
+pitch attitude. Regardless of individual differences in
+cross-check technique, all pilots should use the instruments
+that give the best information for controlling the airplane
+in any given maneuver. Pilots should also check the other
+instruments to aid in maintaining the primary instruments
+at the desired indication.
+As noted previously, the primary instrument is the one
+that gives the most pertinent information for a particular
 maneuver. It is usually the one that should be held at a
 constant indication. Which instrument is primary for pitch
-Constant Airspeed
 Constant Pitch
 control in level flight, for example? This question should
--
-“4
 be considered in the context of specific airplane, weather
-al
-dj
-¥
-q
 conditions, pilot experience, operational conditions, and
 other factors. Attitude changes must be detected and
 interpreted instantly for immediate control action in high-
-J
 performance airplanes. On the other hand, a reasonably
-@
 proficient instrument pilot in a slower airplane may rely
 more on the altimeter for primary pitch information,
-I
 especially if it is determined that too much reliance on the
--
->
-J
-baal
 attitude indicator fails to provide the necessary precise
 attitude information. Whether the pilot decides to regard
-Figure 5-13. Constant power plus constant pitch equals constant airspeed.
-Figure 7-13. Constant power plus constant pitch equals constant
 the altimeter or the attitude indicator as primary depends
-speed.
 on which approach will best help control the attitude. In
-Increased Airspeed
 Decreased Pitch
 this handbook, the altimeter is normally considered as the
 primary pitch instrument during level flight.
-el
--
->
-al
-_
-.|
--
 Bank Control
--
 The bank attitude of an airplane is the angle between the
-'
 airplane’s wings and the natural horizon. To maintain a
 straight-and-level flightpath, the wings of the airplane are
-@
 kept level with the horizon (assuming the airplane is in
 coordinated flight). The instruments used for bank control
-*
 are the attitude indicator, the heading indicator, and the
--
-J
--
-tad
 turn coordinator. Figure 7-16 illustrates coordinated flight.
-Figure 7-14. Constant power plus decreased pitch equals increased
 The aircraft is banked left with the attitude indicator and
-Figure 5-14. Constant power plus decreased pitch equals increased airspeed..
-airspeed.
 turn coordinator indicating the bank. The heading indicator
 indicates a left turn by apparent clockwise rotation of the
-Decreased Airspeed
 Increased Pitch
 compass card behind the airplane silhouette.
-eal
-|
--
->
-al
-P~
-.|
-,
 Attitude Indicator
--
 The attitude indicator shows any change in bank attitude
-'
 directly and instantly and is, therefore, a direct indicator. On
 the standard attitude indicator, the angle of bank is shown
-@
 pictorially by the relationship of the miniature aircraft to the
 artificial horizon bar and by the alignment of the pointer with
-"ol
 the banking scale at the top of the instrument. On the face of
--
-bad
-J
-Lad
 the standard three-inch instrument, small angles of bank can
 be difficult to detect by reference to the miniature aircraft,
-Figure 5-15. Constant power plus increased pitch equals decreased airspeed.
-Figure 7-15. Constant power plus increased pitch equals decreased
 especially if leaning to one side or changing a seating position
-airspeed.
-7-6
 
+against the apparent miniature aircraft position. Disregarding
+precession error, small deviations from straight coordinated
+flight can be readily detected on the scale pointer. The
+banking index may be graduated as shown in Figure 7-17,
+or it may be graduated in 30° increments.
+0°
+30°
+45°
+60°
+90°
+Figure 7-17. Bank interpretation with the attitude indicator.
+The instrument depicted in Figure 7-17 has a scale pointer
+that moves in the same direction of bank shown by the
+miniature aircraft. In this case, the aircraft is in a left 15°
+bank. Precession errors in this instrument are common
 and predictable, but the obvious advantage of the attitude
 indicator is an immediate indication of both pitch attitude
 and bank attitude in a single glance. Even with the precession
 errors associated with many attitude indicators, the quick
-———
-_a
 attitude presentation requires less visual effort and time for
-~~ F
-positive control than other flight instruments.
-Heading Indicator
-i
 The bank attitude of an aircraft in coordinated flight is shown
 indirectly on the heading indicator, since banking results in
-,
-,
 a turn and change in heading. Assuming the same airspeed
--
 in both instances, a rapid movement of the heading indicator
-el
-=
->
-i
--
-P~
 (azimuth card in a directional gyro) indicates a large angle
-(>
 of bank, whereas slow movement reflects a small angle of
-—_—_—
-29.8
-29.9
-30.0
 bank. Note the rate of movement of the heading indicator
-a
 and compare it to the attitude indicator’s degrees of bank.
-dl
-i
 The attitude indicator’s precession error makes a precise
-i
-»
--
-»
-,
-_]
-Bank control
 check of heading information necessary in order to maintain
-al
-a
-straight flight.
-_
-_
->
-i
 When deviations from straight flight are noted on the heading
-re]
 indicator, correct to the desired heading using a bank angle no
 greater than the number of degrees to be turned. In any case,
-i
-|
-i
 limit bank corrections to a bank angle no greater than that
-,
-y
->
->
--
 required for a standard rate turn. Use of larger bank angles
 requires a very high level of proficiency, and normally results
-Figure 7-16. Instruments used for bank control.
-in overcontrolling and erratic bank control.
-Figure 5-16. Instruments used for bank control.
-slightly. The position of the scale pointer is a good check
-against the apparent miniature aircraft position. Disregarding
 Turn Coordinator
-precession error, small deviations from straight coordinated
 The miniature aircraft of the turn coordinator gives an
-flight can be readily detected on the scale pointer. The
 indirect indication of the bank attitude of the airplane.
-banking index may be graduated as shown in Figure 7-17,
 When the miniature aircraft is level, the airplane is in
-or it may be graduated in 30° increments.
 straight flight. When the miniature airplane is aligned with
 one of the alignment marks and the aircraft is rolling to the
-0°
 left or right the indication represents the roll rate, with the
-30°
 alignment marks indicating a roll of 3 degrees per second
-45°
 in the direction of the miniature aircraft. This can be seen
-“a
--
-|
 in level flight when a bank is introduced either to the left
-60°
 or the right. The turn coordinator’s indicator will indicate
-d
-90°
 the rolling motion although there is no turn being made.
-—
 Conversely, a pedal input to the right or left causes the aircraft
 to turn momentarily about its vertical axis (with no rolling
 motion) with an indication of turn on the turn coordinator.
-a
 After the turn becomes stabilized and the aircraft is no
 longer rolling, the turn coordinator displays the rate of turn
-a
--
--
 with the alignment marks equaling a turn of 3 degrees per
 second. The turn coordinator is able to display both roll and
-Figure 7-17. Bank interpretation with the attitude indicator.
 turn parameters because its electrically-powered gyroscope
 is canted at an angle. As a result, the turn-and-slip indicator
-The instrument depicted in Figure 7-17 has a scale pointer
 provides both roll and turn indications. Autopilots in general
-that moves in the same direction of bank shown by the
 aviation today use this instrument in determining both roll
-miniature aircraft. In this case, the aircraft is in a left 15°
 and turn information. After the completion of a turn, return
-bank. Precession errors in this instrument are common
 to straight flight is accomplished by coordinated aileron and
 7-7
 
@@ -773,13 +402,6 @@ airplane is improperly trimmed.
 indicators, such as a heading indicator or magnetic compass.
 As with the turn coordinator (after stabilizing from a roll),
 when the turn-and-slip indicator’s needle is aligned with the
-eal
-=
-PA
-»
--
--
-|G
 alignment marks, the aircraft is in a standard turn of 3 degrees
 L
 R
@@ -791,20 +413,10 @@ does. Figures 7-18 and 7-19 provide a comparison of the
 two instruments.
 2 MIN TURN
 DC ELEC
-baad
--
 Power Control
-Figure 5-18. Slip indication.
 Figure 7-18. Skid indication.
 Power produces thrust which, with the appropriate angle of
 attack of the wing, overcomes the forces of gravity, drag,
-eal
-al
-P~
-a
-J
-a
-_
 and inertia to determine airplane performance.
 L
 R
@@ -812,17 +424,12 @@ Power control must be related to its effect on altitude and
 OFF
 airspeed, since any change in power setting results in a change
 in the airspeed or the altitude of the airplane. At any given
-|
 airspeed, the power setting determines whether the airplane
 is in level flight, in a climb, or in a descent. If the power is
 2 MIN TURN
 DC ELEC
--
--
 increased in straight-and-level flight and the airspeed held
-al
 constant, the airplane climbs. If power is decreased while
-Figure 5-19. Skid indication.
 Figure 7-19. Slip indication.
 the airspeed is held constant, the airplane descends. On the
 other hand, if altitude is held constant, the power applied
@@ -847,371 +454,148 @@ technique as for an indicated slip. Center the ball (left ball/
 7-8
 
 low, or vice versa, a change in pitch alone may return the
-(For small speed changes, or in airplanes that decelerate
 airplane to the desired altitude and airspeed. [Figure 7-20] If
-or accelerate rapidly, overpowering or underpowering is
 both airspeed and altitude are high or if both are low, then a
-not necessary.)
 change in both pitch and power is necessary in order to return
 to the desired airspeed and altitude. [Figure 7-21]
-Consider the example of an airplane that requires 23 inches
-of mercury ("Hg) of manifold pressure to maintain a normal
 For changes in airspeed in straight-and-level flight, pitch,
-cruising airspeed of 120 knots, and 18 "Hg of manifold
 bank, and power must be coordinated in order to maintain
-pressure to maintain an airspeed of 100 knots. The reduction
 constant altitude and heading. When power is changed to
-in airspeed from 120 knots to 100 knots while maintaining
 vary airspeed in straight-and-level flight, a single-engine,
-straight-and-level flight is discussed below and illustrated in
 propeller-driven airplane tends to change attitude around all
-Figures 7-22, 7-23, and 7-24.
 axes of movement. Therefore, to maintain constant altitude
 and heading, apply various control pressures in proportion
-Instrument indications, prior to the power reduction, are
 to the change in power. When power is added to increase
-shown in Figure 7-22. The basic attitude is established and
 airspeed, the pitch instruments indicate a climb unless
-maintained on the attitude indicator. The specific pitch,
 forward elevator control pressure is applied as the airspeed
-bank, and power control requirements are detected on these
 changes. With an increase in power, the airplane tends to
-primary instruments:
 yaw and roll to the left unless counteracting aileron and
 rudder pressures are applied. Keeping ahead of these changes
-Altimeter—Primary Pitch
 requires increasing cross-check speed, which varies with the
-Heading Indicator—Primary Bank
 type of airplane and its torque characteristics, the extent of
-Airspeed Indicator—Primary Power
 power, and speed change involved.
-Supporting pitch-and-bank instruments are shown in
 Power Settings
+Power control and airspeed changes are much easier when
+approximate power settings necessary to maintain various
+airspeeds in straight-and-level flight are known in advance.
+However, to change airspeed by any appreciable amount, the
+common procedure is to underpower or overpower on initial
+power changes to accelerate the rate of airspeed change.
+Figure 7-20. Airspeed low and altitude high—lower pitch.
+Figure 7-21. Airspeed and altitude high—lower pitch and reduce power.
+(For small speed changes, or in airplanes that decelerate
+or accelerate rapidly, overpowering or underpowering is
+not necessary.)
+Consider the example of an airplane that requires 23 inches
+of mercury ("Hg) of manifold pressure to maintain a normal
+cruising airspeed of 120 knots, and 18 "Hg of manifold
+pressure to maintain an airspeed of 100 knots. The reduction
+in airspeed from 120 knots to 100 knots while maintaining
+straight-and-level flight is discussed below and illustrated in
+Figures 7-22, 7-23, and 7-24.
+Instrument indications, prior to the power reduction, are
+shown in Figure 7-22. The basic attitude is established and
+maintained on the attitude indicator. The specific pitch,
+bank, and power control requirements are detected on these
+primary instruments:
+Altimeter—Primary Pitch
+Heading Indicator—Primary Bank
+Airspeed Indicator—Primary Power
+Supporting pitch-and-bank instruments are shown in
 Figure 7-23. Note that the supporting power instrument is
 the manifold pressure gauge (or tachometer if the propeller
-Power control and airspeed changes are much easier when
 is fixed pitch). However, when a smooth power reduction to
-approximate power settings necessary to maintain various
 approximately 15 "Hg (underpower) is made, the manifold
-airspeeds in straight-and-level flight are known in advance.
 pressure gauge becomes the primary power instrument.
-However, to change airspeed by any appreciable amount, the
 [Figure 7-23] With practice, power setting can be changed
-common procedure is to underpower or overpower on initial
 with only a brief glance at the power instrument, by sensing
-power changes to accelerate the rate of airspeed change.
-el
-al
-eal
-a
--
--
->
->
-sll
-¥
-ij
-™
-@
 MANIFOLD
 PRESSURE
-29.8
-29.9
-30.0
 INCHES MERCURY
-ry
 ABSOLUTE
-*
-i
-v
-i
-bad
--
-v
-Figure 5-20. Airspeed low and altitude high corrected with slighly lowered pitch.
-Figure 7-20. Airspeed low and altitude high—lower pitch.
-al
-el
-eal
->
-a
-a
--
--
-“4
--
-,
-¥
-q
-™
-@
-s
 MANIFOLD
 PRESSURE
-.
-29.8
-j
-29.9
-30.0
 INCHES MERCURY
-ry
 ABSOLUTE
-a
->
-J
-ad
-Figure 5-21. Airspeed and altitude high (lower pitch and reduce power).
-Figure 7-21. Airspeed and altitude high—lower pitch and reduce power.
 7-9
 
-alpn
-P|
-ee
-Primary pitch
 Supporting pitch and bank
-J
-J
--
--
 Primary power
-eal
-eal
-~~
->
--
-“Gg
--
-|
--
-@
--
-29.8
-29.9
-30.0
-@
--
-_
-I
--
-=
--
->
--
-Supporting power
-al
-al
-=
-=
-“Gg
--
-—_
-—_
-~
-_
--
-rt
-_
-_
-t
--
-__s
-_
--
-=
-Ss
--
 Supporting bank
-J
-J
--
 Primary bank
 Supporting pitch
-Figure 5-22. Straight-and-level flight (normal cruising speed).
 Figure 7-22. Straight-and-level flight (normal cruising speed).
-BD
-|
-ee
-Primary pitch
-Supporting pitch and bank
->
--
--
--
--
-el
-aaa
-~~
--
--
--
-.
-|
-il
-@
--
-’
-.
-29.8
-29.9
-30.0
-ry
-~ S
->
-_
-=
-st
-__s
 Primary power as
-I
-sl
-Primary power
 airspeed approaches
-as throttle is set
 desired value
-al
-al
-P~
-I
--
-_
-alll
-_
-_
-P~
-Gp
-_]
-J
-J
-y
-se
-I
--
-—
-_
-Ft
 Supporting bank
-Sf
->
--
--
 Primary bank
 Supporting pitch
 Figure 7-23. Straight-and-level flight (airspeed decreasing).
-Figure 5-23. Straight-and-level flight (airspeed decreasing).
 7-10
-
-FD
-[
-ee
-Primary pitch
-Supporting pitch and bank
--
->
->
->
-I
-Primary power
-al
-al
-el
-a
-I
-J
-|
-d
-@
--
-.
-’
-29.8
-29.9
-30.0
-@
--
-_
-Ft
--
-—
--
-_-
--
--
 Supporting power
--
-al
-=
-Ss
-P~
->
-_
-_
-rt
-_
-|
-I
--
--
-a
-_
-st
+Primary power
+as throttle is set
+
+Supporting pitch and bank
+Primary power
 Supporting bank
->
 Primary bank
 Supporting pitch
-Figure 5-24. Straight-and-level flight (reduced airspeed stabilized).
 Figure 7-24. Straight-and-level flight (reduced airspeed stabilized).
 the movement of the throttle, the change in sound, and the
-errors to be expected during training in straight-and-level flight.
 changes in the feel of control pressures.
-Having learned to control the airplane in a clean configuration
-(minimum drag conditions), increase proficiency in cross-
 As thrust decreases, increase the speed of the cross-check
-check and control by practicing speed changes while extending
 and be ready to apply left rudder, back-elevator, and aileron
-or retracting the flaps and landing gear. While practicing, be
 control pressure the instant the pitch-and-bank instruments
-sure to comply with the airspeed limitations specified in the
 show a deviation from altitude and heading. As proficiency
-POH/AFM for gear and flap operation.
 is obtained, a pilot learns to cross-check, interpret, and
 control the changes with no deviation of heading and
-Sudden and exaggerated attitude changes may be necessary
 altitude. Assuming smooth air and ideal control technique
-in order to maintain straight-and-level flight as the landing
 as airspeed decreases, a proportionate increase in airplane
-gear is extended and the flaps are lowered in some airplanes.
 pitch attitude is required to maintain altitude. Similarly,
-The nose tends to pitch down with gear extension, and when
 effective torque control means counteracting yaw with
-flaps are lowered, lift increases momentarily (at partial flap
 rudder pressure.
-settings) followed by a marked increase in drag as the flaps
-near maximum extension.
 As the power is reduced, the altimeter is primary for
 pitch, the heading indicator is primary for bank, and the
-Control technique varies according to the lift and drag
 manifold pressure gauge is momentarily primary for power
-characteristics of each airplane. Accordingly, knowledge of
 (at 15 "Hg in this example). Control pressures should be
-the power settings and trim changes associated with different
 trimmed off as the airplane decelerates. As the airspeed
-combinations of airspeed, gear, and flap configurations
 approaches the desired airspeed of 100 knots, the manifold
-reduces instrument cross-check and interpretation problems.
 pressure is adjusted to approximately 18 "Hg and becomes
 the supporting power instrument. The ASI again becomes
-For example, assume that in straight-and-level flight
 primary for power. [Figure 7-24]
+Airspeed Changes in Straight-and-Level Flight
+Practice of airspeed changes in straight-and-level flight provides
+an excellent means of developing increased proficiency in all
+three basic instrument skills and brings out some common
+errors to be expected during training in straight-and-level flight.
+Having learned to control the airplane in a clean configuration
+(minimum drag conditions), increase proficiency in cross-
+check and control by practicing speed changes while extending
+or retracting the flaps and landing gear. While practicing, be
+sure to comply with the airspeed limitations specified in the
+POH/AFM for gear and flap operation.
+Sudden and exaggerated attitude changes may be necessary
+in order to maintain straight-and-level flight as the landing
+gear is extended and the flaps are lowered in some airplanes.
+The nose tends to pitch down with gear extension, and when
+flaps are lowered, lift increases momentarily (at partial flap
+settings) followed by a marked increase in drag as the flaps
+near maximum extension.
+Control technique varies according to the lift and drag
+characteristics of each airplane. Accordingly, knowledge of
+the power settings and trim changes associated with different
+combinations of airspeed, gear, and flap configurations
+reduces instrument cross-check and interpretation problems.
+For example, assume that in straight-and-level flight
 instruments indicate 120 knots with power at 23 "Hg/2,300
 revolutions per minute (rpm), gear and flaps up. After
-Airspeed Changes in Straight-and-Level Flight
 reduction in airspeed, with gear and flaps fully extended,
 straight-and-level flight at the same altitude requires 25 "Hg
-Practice of airspeed changes in straight-and-level flight provides
 manifold pressure/2,500 rpm. Maximum gear extension
-an excellent means of developing increased proficiency in all
 speed is 115 knots; maximum flap extension speed is 105
-three basic instrument skills and brings out some common
+Supporting power
 7-11
 
 knots. Airspeed reduction to 95 knots, gear and flaps down,
@@ -1431,953 +815,398 @@ lag behind the airplane.
 7-13
 
 Straight Climbs and Descents
-Once the airplane stabilizes at a constant airspeed and attitude,
-the ASI is primary for pitch and the heading indicator remains
 Climbs
-primary for bank. [Figure 7-26] Monitor the tachometer or
 For a given power setting and load condition, there is only
-manifold pressure gauge as the primary power instrument to
 one attitude that gives the most efficient rate of climb. The
-ensure the proper climb power setting is being maintained.
 airspeed and climb power setting that determines this climb
-If the climb attitude is correct for the power setting selected,
 attitude are given in the performance data found in the POH/
-the airspeed will stabilize at the desired speed. If the airspeed
 AFM. Details of the technique for entering a climb vary
-is low or high, make an appropriately small pitch correction.
 according to airspeed on entry and the type of climb (constant
 airspeed or constant rate) desired. (Heading and trim control
-To enter a constant airspeed climb, first complete the airspeed
 are maintained as discussed in straight-and-level flight.)
-reduction from cruise airspeed to climb speed in straight-
-and-level flight. The climb entry is then identical to entry
 Entry
-from cruising airspeed, except that power must be increased
 To enter a constant-airspeed climb from cruising airspeed,
-simultaneously to the climb setting as the pitch attitude is
 raise the miniature aircraft to the approximate nose-high
-increased. Climb entries on partial panel are more easily
 indication for the predetermined climb speed. The attitude
-and accurately controlled if entering the maneuver from
 varies according to the type of airplane. Apply light back-
-climbing speed.
 elevator pressure to initiate and maintain the climb attitude.
 The pressures vary as the airplane decelerates. Power may
-The technique for entering a constant-rate climb is very
 be advanced to the climb power setting simultaneously with
-similar to that used for entry to a constant-airspeed climb
 the pitch change or after the pitch change is established and
-from climb airspeed. As the power is increased to the
 the airspeed approaches climb speed. If the transition from
-approximate setting for the desired rate, simultaneously
 level flight to climb is smooth, the VSI shows an immediate
-raise the miniature aircraft to the climbing attitude for the
 trend upward, continues to move slowly, and then stops at
-desired airspeed and rate of climb. As the power is increased,
 a rate appropriate to the stabilized airspeed and attitude.
-the ASI is primary for pitch control until the vertical speed
 (Primary and supporting instruments for the climb entry are
-approaches the desired value. As the vertical speed needle
 shown in Figure 7-25.)
-stabilizes, it becomes primary for pitch control and the ASI
-becomes primary for power control. [Figure 7-27]
-BD
-|
-|
 Supporting pitch and bank
-st
-st
-Ss
->
->
-el
-al
-=
--
-st
--
-|
-di
-@
-a
--
-,
-’
-.
-29.8
-29.9
-30.0
-ry
--
->
--
-_
-_
-—
--
--
-Primary power
-all
-al
-a
--
-—_
-P~
-I
-—_
-aa
-ap
-ap
-)
-Gap
-Gp
-J
-J
-J
-J
-|
-=
-_s
-st
->
-st
 Supporting bank
->
-sl
-A
 Primary bank
 Supporting pitch
 Figure 7-25. Climb entry for constant airspeed climb.
-Figure 5-25. Climb entry for constant-airspeed climb.
 7-14
+Once the airplane stabilizes at a constant airspeed and attitude,
+the ASI is primary for pitch and the heading indicator remains
+primary for bank. [Figure 7-26] Monitor the tachometer or
+manifold pressure gauge as the primary power instrument to
+ensure the proper climb power setting is being maintained.
+If the climb attitude is correct for the power setting selected,
+the airspeed will stabilize at the desired speed. If the airspeed
+is low or high, make an appropriately small pitch correction.
+To enter a constant airspeed climb, first complete the airspeed
+reduction from cruise airspeed to climb speed in straight-
+and-level flight. The climb entry is then identical to entry
+from cruising airspeed, except that power must be increased
+simultaneously to the climb setting as the pitch attitude is
+increased. Climb entries on partial panel are more easily
+and accurately controlled if entering the maneuver from
+climbing speed.
+The technique for entering a constant-rate climb is very
+similar to that used for entry to a constant-airspeed climb
+from climb airspeed. As the power is increased to the
+approximate setting for the desired rate, simultaneously
+raise the miniature aircraft to the climbing attitude for the
+desired airspeed and rate of climb. As the power is increased,
+the ASI is primary for pitch control until the vertical speed
+approaches the desired value. As the vertical speed needle
+stabilizes, it becomes primary for pitch control and the ASI
+becomes primary for power control. [Figure 7-27]
+Primary power
 
-Be
-|
-al
-ee
 Supporting pitch and bank
->
-ft
 Primary pitch
-al
-el
-eal
-=
-p_
-“Gg
-st
-St
-q
-ai
-™
-@
-|
--
-|
-"
-29.8
-29.9
-30.0
-ry
--
->
-a
-ss
->
-vv
-all
-J
-al
-al
-=
-a
-Ts
--_=
--_=
-~~
--
-_
--
-ap
-g
-J
-J
-|
-I
->
-Ft
--
--
-_
 Supporting bank
--
-J
--
--
 Primary bank
 Supporting pitch
-Figure 5-26. Stabilized climb at constant airspeed.
 Figure 7-26. Stabilized climb at constant airspeed.
-Pe
-|
-|
 Supporting pitch and bank
--
-sf
 Primary power
-el
-eal
-P~
-a
-a
-ss
-,
-q
-i
-@
--
-29.8
-29.9
-30.0
-@
--
--
--
-I
-I
->
-Ft
->
-Ss
-al
-a
-a
-st
--_
--_
-P~
-st
-_
-_s
-ap
-_
-_
-|
--
-I
--
-“g
-=
 Supporting bank
--
--
--
--
 Primary bank
 Primary pitch
-Figure 5-27. Stabilized climb at constant rate.
 Figure 7-27. Stabilized climb at constant rate.
 7-15
 
 Pitch and power corrections must be promptly and closely
-shows acceleration. [Figure 7-29] When the altimeter, attitude
 coordinated. For example, if the vertical speed is correct, but
-indicator, and VSI show level flight, constant changes in pitch
 the airspeed is low, add power. As the power is increased,
-and torque control have to be made as the airspeed increases.
 the miniature aircraft must be lowered slightly to maintain
-As the airspeed approaches cruising speed, reduce power to
 constant vertical speed. If the vertical speed is high and the
-the cruise setting. The amount of lead depends upon the rate
 airspeed is low, lower the miniature aircraft slightly and note
-of acceleration of the airplane.
 the increase in airspeed to determine whether or not a power
 change is also necessary. [Figure 7-28] Familiarity with the
-To level off at climbing airspeed, lower the nose to the
 approximate power settings helps to keep pitch and power
-pitch attitude appropriate to that airspeed in level flight.
 corrections at a minimum.
+Leveling Off
+To level off from a climb and maintain an altitude, it is
+necessary to start the level off before reaching the desired
+altitude. The amount of lead varies with rate of climb and
+pilot technique. If the airplane is climbing at 1,000 fpm, it
+continues to climb at a decreasing rate throughout the transition
+to level flight. An effective practice is to lead the altitude by
+10 percent of the vertical speed shown (500 fpm/ 50-foot lead,
+1,000 fpm/100-foot lead).
+To level off at cruising airspeed, apply smooth, steady
+forward-elevator pressure toward level flight attitude for
+the speed desired. As the attitude indicator shows the pitch
+change, the vertical speed needle moves slowly toward zero,
+the altimeter needle moves more slowly, and the airspeed
+Supporting pitch and bank
+Primary power
+Supporting bank
+Primary bank
+Primary pitch
+Figure 7-28. Airspeed low and vertical speed high—reduce pitch.
+7-16
+shows acceleration. [Figure 7-29] When the altimeter, attitude
+indicator, and VSI show level flight, constant changes in pitch
+and torque control have to be made as the airspeed increases.
+As the airspeed approaches cruising speed, reduce power to
+the cruise setting. The amount of lead depends upon the rate
+of acceleration of the airplane.
+To level off at climbing airspeed, lower the nose to the
+pitch attitude appropriate to that airspeed in level flight.
 Power is simultaneously reduced to the setting for that
 airspeed as the pitch attitude is lowered. If power reduction
 is at a rate proportionate to the pitch change, airspeed will
-Leveling Off
 remain constant.
-To level off from a climb and maintain an altitude, it is
-necessary to start the level off before reaching the desired
 Descents
-altitude. The amount of lead varies with rate of climb and
 A descent can be made at a variety of airspeeds and attitudes
-pilot technique. If the airplane is climbing at 1,000 fpm, it
 by reducing power, adding drag, and lowering the nose to
-continues to climb at a decreasing rate throughout the transition
 a predetermined attitude. The airspeed eventually stabilizes
-to level flight. An effective practice is to lead the altitude by
 at a constant value. Meanwhile, the only flight instrument
-10 percent of the vertical speed shown (500 fpm/ 50-foot lead,
 providing a positive attitude reference is the attitude indicator.
-1,000 fpm/100-foot lead).
 Without the attitude indicator (such as during a partial panel
 descent), the ASI, altimeter, and VSI show varying rates of
-To level off at cruising airspeed, apply smooth, steady
 change until the airplane decelerates to a constant airspeed at
-forward-elevator pressure toward level flight attitude for
 a constant attitude. During the transition, changes in control
-the speed desired. As the attitude indicator shows the pitch
 pressure and trim, as well as cross-check and interpretation,
-change, the vertical speed needle moves slowly toward zero,
 must be accurate to maintain positive control.
-the altimeter needle moves more slowly, and the airspeed
-Se
-[
-|
-Supporting pitch and bank
-J
--
--
-Primary power
-al
-al
-a
-J
-J
-p~
-q
-i
-@
-|
-j
-J
-|
-a
-| |
-Y
-y 4
-oP
-P
-Pd
-a
-_
-_
-29.8
-NN
-29.9
-30.0
-_
-ry
--
->
--
-Tt
--
-=
->
--
-al
-a
-“a
-J
-—_
-p_
--
-=—_
-&
-&’
-&
-_
-J
-J
--
-=
-J
-Supporting bank
--
--
--
-Primary bank
-Primary pitch
-Figure 5-28. Airspeed low and vertical speed high-reduce pitch.
-Figure 7-28. Airspeed low and vertical speed high—reduce pitch.
-7-16
 
-BT
-gs
--
-ll
-Primary pitch
 Supporting pitch and bank
--
--
--
-J
--
--
-al
-el
-=~
-J
->
--
-a
-@
-a
-za
-"|
-29.8
-29.9
-30.0
-@
-~ S
-_
->
--
--
->
--
-st
 Primary power as
 airspeed approaches
--
-al
-P~
->
-st
-_
-_
-=
-st
 desired value
-ap
-aap
-ap
-ap
-|
-|
-=
--
--
-_
-=
 Supporting bank
--
->
->
->
 Primary bank
 Supporting pitch
-Figure 5-29. Level-off at cruising speed.
 Figure 7-29. Level off at cruising speed.
 Entry
-the descending rate until approximately 50 feet above the
-altitude, and then smoothly adjust the pitch attitude to the
 The following method for entering descents is effective
-level flight attitude for the airspeed selected.
 with or without an attitude indicator. First, reduce airspeed
 to a selected descent airspeed while maintaining straight-
-To level off from a descent at descent airspeed, lead the
 and-level flight, then make a further reduction in power
-desired altitude by approximately 50 feet, simultaneously
 (to a predetermined setting). As the power is adjusted,
-adjusting the pitch attitude to level flight and adding power to
 simultaneously lower the nose to maintain constant airspeed,
-a setting that holds the airspeed constant. [Figure 7-32] Trim
 and trim off control pressures.
-off the control pressures and continue with the normal
-straight-and-level flight cross-check.
 During a constant airspeed descent, any deviation from the
 desired airspeed calls for a pitch adjustment. For a constant
-Common Errors in Straight Climbs and Descents
 rate descent, the entry is the same, but the VSI is primary for
-Common errors result from the following faults:
 pitch control (after it stabilizes near the desired rate), and the
 ASI is primary for power control. Pitch and power must be
-1.
-Overcontrolling pitch on climb entry. Until the pitch
 closely coordinated when corrections are made, as they are
-attitudes related to specific power settings used in
 in climbs. [Figure 7-30]
-climbs and descents are known, larger than necessary
-pitch adjustments are made. One of the most difficult
 Leveling Off
-habits to acquire during instrument training is to
-restrain the impulse to disturb a flight attitude until
 The level off from a descent must be started before reaching
-the result is known. Overcome the inclination to
 the desired altitude. The amount of lead depends upon the
-make a large control movement for a pitch change,
 rate of descent and control technique. With too little lead,
-and learn to apply small control pressures smoothly,
 the airplane tends to overshoot the selected altitude unless
-cross-checking rapidly for the results of the change,
 technique is rapid. Assuming a 500 fpm rate of descent, lead
-and continuing with the pressures as instruments show
 the altitude by 100–150 feet for a level off at an airspeed
-the desired results. Small pitch changes can be easily
 higher than descending speed. At the lead point, add power to
-controlled, stopped, and corrected; large changes are
 the appropriate level flight cruise setting. [Figure 7-31] Since
-more difficult to control.
 the nose tends to rise as the airspeed increases, hold
 forward elevator pressure to maintain the vertical speed at
+the descending rate until approximately 50 feet above the
+altitude, and then smoothly adjust the pitch attitude to the
+level flight attitude for the airspeed selected.
+To level off from a descent at descent airspeed, lead the
+desired altitude by approximately 50 feet, simultaneously
+adjusting the pitch attitude to level flight and adding power to
+a setting that holds the airspeed constant. [Figure 7-32] Trim
+off the control pressures and continue with the normal
+straight-and-level flight cross-check.
+Common Errors in Straight Climbs and Descents
+Common errors result from the following faults:
+1.
+Overcontrolling pitch on climb entry. Until the pitch
+attitudes related to specific power settings used in
+climbs and descents are known, larger than necessary
+pitch adjustments are made. One of the most difficult
+habits to acquire during instrument training is to
+restrain the impulse to disturb a flight attitude until
+the result is known. Overcome the inclination to
+make a large control movement for a pitch change,
+and learn to apply small control pressures smoothly,
+cross-checking rapidly for the results of the change,
+and continuing with the pressures as instruments show
+the desired results. Small pitch changes can be easily
+controlled, stopped, and corrected; large changes are
+more difficult to control.
 7-17
 
-ee
-|
-a
 Supporting pitch and bank
->
-A
 Primary power
-el
-el
-~~
-P
-I
-a
--
-|
-T
-.
-q
-i
-@
-a
-s
-29.8
-29.9
-30.0
-@
-*
--
--
-I
--
-I
->
->
-al
-a
-=
-st
--_
--_
-a
-st
-st
-Pd
--
-J
-J
-t
-_
-ss
--
--
 Supporting bank
--
--
-J
--
 Primary bank
 Primary pitch
-Figure 5-30. Constant airspeed descent, airspeed high-reduce power..
 Figure 7-30. Constant airspeed descent, airspeed high—reduce power.
-|
-ee
 Supporting pitch and bank
->
->
->
--
--
-el
-el
-al
-=
-a
--
-ss
-_
-ss
-.
-q
-i
-@
--
-"
-29.8
-29.9
-30.0
-@
--
->
--
->
-_s
->
-__s
-Add power at
-100'-150' lead
-aaa
-al
-P~
-=
-p
-I
-ss
--_
--_
-Pd
-J
-J
-_]
-_]
-|
--
--
-Ft
--
-=
 Supporting bank
-st
->
 Primary bank
 Primary pitch
-Figure 5-31. Level-off airspeed higher than descent airspeed.
 Figure 7-31. Level off airspeed higher than descent airspeed.
 7-18
+Add power at
+100'-150' lead
 
-ee
-|
 Supporting pitch and bank
-i
 Primary power
-el
-el
-~
-Pp
--
-J
-a
-,
-q
-i
-J
-CO)
--
-a
-__
-a
-_
-29.8
-29.9
-—
-30.0
-=
-@
-™
--
--
-i
-Es
-__E
-Primary power
--
--
-at 50' lead
-al
-al
-_
-St
--_=
--_=
-P~
-_
-a
-Pd
-_
-_
-|
-I
-_
-=
--
-st
--
 Supporting bank
--
--
 Primary bank
 Supporting pitch
-Figure 5-32. Level-off at descent airspeed.
 Figure 7-32. Level off at descent airspeed.
 2.
 Failure to vary the rate of cross-check during
-10. Ballooning (allowing the nose to pitch up) on level
 speed, power, or attitude changes or climb or
-offs from descents, resulting from failure to maintain
 descent entries.
-descending attitude with forward-elevator pressure as
-power is increased to the level flight cruise setting.
 3.
 Failure to maintain a new pitch attitude. For example,
 raising the nose to the correct climb attitude, and as
-11. Failure to recognize the approaching straight-and-level
 the airspeed decreases, either overcontrol and further
-flight indications as level off is completed. Maintain
 increase the pitch attitude or allow the nose to lower.
-an accelerated cross-check until positively established
 As control pressures change with airspeed changes,
-in straight-and-level flight.
 cross-check must be increased and pressures readjusted.
-Turns
 4.
 Failure to trim off pressures. Unless the airplane is
 trimmed, there is difficulty in determining whether
-Standard Rate Turns
 control pressure changes are induced by aerodynamic
-A standard rate turn is one in which the pilot will do a
 changes or by the pilot’s own movements.
-complete 360° circle in 2 minutes or 3 degrees per second.
-A standard rate turn, although always 3 degrees per second,
 5.
 Failure to learn and use proper power settings.
-requires higher angles of bank as airspeed increases. To
 6.
 Failure to cross-check both airspeed and vertical speed
-enter a standard rate level turn, apply coordinated aileron
 before making pitch or power adjustments.
-and rudder pressures in the desired direction of turn. Pilots
 7.
 Improper pitch and power coordination on slow-speed
-commonly roll into turns at a much too rapid rate. During
 level offs due to slow cross-check of airspeed and
-initial training in turns, base control pressures on the rate of
 altimeter indications.
-cross-check and interpretation. Maneuvering an airplane faster
-than the capability to keep up with the changes in instrument
 8.
 Failure to cross-check the VSI against the other
-indications only creates the need to make corrections.
 pitch control instruments, resulting in chasing the
 vertical speed.
-A rule of thumb to determine the approximate angle of bank
 9.
 Failure to note the rate of climb or descent to determine
-required for a standard rate turn is to use 15 percent of the
 the lead for level offs, resulting in overshooting or
-true airspeed. A simple way to determine this amount is to
 undershooting the desired altitude.
+Primary power
+at 50' lead
+10. Ballooning (allowing the nose to pitch up) on level
+offs from descents, resulting from failure to maintain
+descending attitude with forward-elevator pressure as
+power is increased to the level flight cruise setting.
+11. Failure to recognize the approaching straight-and-level
+flight indications as level off is completed. Maintain
+an accelerated cross-check until positively established
+in straight-and-level flight.
+Turns
+Standard Rate Turns
+A standard rate turn is one in which the pilot will do a
+complete 360° circle in 2 minutes or 3 degrees per second.
+A standard rate turn, although always 3 degrees per second,
+requires higher angles of bank as airspeed increases. To
+enter a standard rate level turn, apply coordinated aileron
+and rudder pressures in the desired direction of turn. Pilots
+commonly roll into turns at a much too rapid rate. During
+initial training in turns, base control pressures on the rate of
+cross-check and interpretation. Maneuvering an airplane faster
+than the capability to keep up with the changes in instrument
+indications only creates the need to make corrections.
+A rule of thumb to determine the approximate angle of bank
+required for a standard rate turn is to use 15 percent of the
+true airspeed. A simple way to determine this amount is to
 7-19
 
-partial panel maneuvers. Upon initiation of the turn recovery,
 divide the airspeed by 10 and add one-half the result. For
-the attitude indicator becomes the primary bank instrument.
 example, at 100 knots, approximately 15° of bank is required
-When the airplane is approximately level, the heading
 (100 ÷ 10 = 10 + 5 = 15); at 120 knots, approximately 18°
-indicator is the primary bank instrument as in straight-and-
 of bank is needed for a standard rate turn.
-level flight. Pitch, power, and trim adjustments are made as
-changes in vertical lift component and airspeed occur. The
 On the roll-in, use the attitude indicator to establish
-ball should be checked throughout the turn, especially if
 the approximate angle of bank, and then check the turn
-control pressures are held rather than trimmed off.
 coordinator’s miniature aircraft for a standard rate turn
 indication or the aircraft’s turn-and-bank indicator. Maintain
-Some airplanes are very stable during turns, requiring only
 the bank for this rate of turn, using the turn coordinator’s
-slight trim adjustments that permit hands-off flight while
 miniature aircraft as the primary bank reference and the
-the airplane remains in the established attitude. Other
 attitude indicator as the supporting bank instrument.
-airplanes require constant, rapid cross-check and control
 [Figure 7-33] Note the exact angle of bank shown on
-during turns to correct overbanking tendencies. Due to the
 the banking scale of the attitude indicator when the turn
-interrelationship of pitch, bank, and airspeed deviations
 coordinator indicates a standard rate turn.
-during turns, cross-check must be fast in order to prevent
-an accumulation of errors.
 During the roll-in, check the altimeter, VSI, and attitude
 indicator for the necessary pitch adjustments as the vertical
-Turns to Predetermined Headings
 lift component decreases with an increase in bank. If constant
 airspeed is to be maintained, the ASI becomes primary for
-As long as an airplane is in a coordinated bank, it continues
 power, and the throttle must be adjusted as drag increases. As
-to turn. Thus, the roll-out to a desired heading must be started
 the bank is established, trim off the pressures applied during
-before the heading is reached. The amount of lead varies with
 pitch and power changes.
-the relationship between the rate of turn, angle of bank, and
-rate of recovery. For small heading changes, use a bank angle
 To recover to straight-and-level flight, apply coordinated
-that does not exceed the number of degrees to be turned. Lead
 aileron and rudder pressures opposite to the direction of
-the desired heading by one-half the number of degrees of
 the turn. Strive for the same rate of roll-out used to roll into
-bank used. For example, if a 10° bank is used during a change
 the turn; fewer problems are encountered in estimating the
-in heading, start the roll-out 5 degrees before reaching the
 lead necessary for roll-out on exact headings, especially on
-desired heading. For larger changes in heading, the amount
-ee
-a
-Primary pitch
-Primary bank initially supporting pitch
->
->
->
--
 Primary power
-eal
-=
-I
--
--
-@
-a
-29.8
-29.9
-30.0
-@
--
--
--
-ss
-_-
--
--
-al
-al
-P~
-SI
--_
-~
-I
-—
-rt]
 Primary bank
 as turn is
->
-I
--
-Ft
->
 established
-st
 Primary bank
 Supporting pitch
-Figure 5-33. Standard-rate turn, constant airspeed.
 Figure 7-33. Standard rate turn, constant airspeed.
 7-20
+partial panel maneuvers. Upon initiation of the turn recovery,
+the attitude indicator becomes the primary bank instrument.
+When the airplane is approximately level, the heading
+indicator is the primary bank instrument as in straight-and-
+level flight. Pitch, power, and trim adjustments are made as
+changes in vertical lift component and airspeed occur. The
+ball should be checked throughout the turn, especially if
+control pressures are held rather than trimmed off.
+Some airplanes are very stable during turns, requiring only
+slight trim adjustments that permit hands-off flight while
+the airplane remains in the established attitude. Other
+airplanes require constant, rapid cross-check and control
+during turns to correct overbanking tendencies. Due to the
+interrelationship of pitch, bank, and airspeed deviations
+during turns, cross-check must be fast in order to prevent
+an accumulation of errors.
+Turns to Predetermined Headings
+As long as an airplane is in a coordinated bank, it continues
+to turn. Thus, the roll-out to a desired heading must be started
+before the heading is reached. The amount of lead varies with
+the relationship between the rate of turn, angle of bank, and
+rate of recovery. For small heading changes, use a bank angle
+that does not exceed the number of degrees to be turned. Lead
+the desired heading by one-half the number of degrees of
+bank used. For example, if a 10° bank is used during a change
+in heading, start the roll-out 5 degrees before reaching the
+desired heading. For larger changes in heading, the amount
 
 of lead varies since the angle of bank for a standard rate turn
-The same cross-check and control technique is used in making
 varies with the true airspeed.
-a timed turn that is used to execute turns to predetermined
-headings, except the clock is substituted for the heading
 Practice with a lead of one-half the angle of bank until
-indicator. The miniature aircraft of the turn coordinator is
 the precise lead a given technique requires is determined.
-primary for bank control, the altimeter is primary for pitch
 If rates of roll-in and roll-out are consistent, the precise
-control, and the ASI is primary for power control. Start the
 amount of lead suitable to a particular roll-out technique
-roll-in when the clock’s second hand passes a cardinal point,
 can be determined.
-hold the turn at the calibrated standard rate indication (or
-half-standard rate for small heading changes), and begin the
 Timed Turns
-roll-out when the computed number of seconds has elapsed.
 A timed turn is a turn in which the clock and the turn
-If the rates of roll-in and roll-out are the same, the time taken
 coordinator are used to change heading by a specific number
-during entry and recovery does not need to be considered in
 of degrees in a given time. For example, in a standard rate turn
-the time computation.
 (3 degrees per second), an airplane turns 45° in 15 seconds; in
 a half standard rate turn, the airplane turns 45° in 30 seconds.
-Practice timed turns with a full instrument panel and check
-the heading indicator for the accuracy of turns. If the turns are
 Prior to performing timed turns, the turn coordinator should
-executed without the gyro heading indicator, use the magnetic
 be calibrated to determine the accuracy of its indications.
-compass at the completion of the turn to check turn accuracy,
 [Figure 7-34] Establish a standard rate turn as indicated by
-taking compass deviation errors into consideration.
 the turn coordinator, and as the sweep-second hand of the
-Compass Turns
 clock passes a cardinal point (12, 3, 6, 9), check the heading
 on the heading indicator. While holding the indicated rate
-In most small airplanes, the magnetic compass is the only
 of turn constant, note the indicated heading changes at 10
-direction-indicating instrument independent of other airplane
 second intervals. If the airplane turns more than or less than
-instruments and power sources. Because of its operating
 30° in that interval, a respectively larger or smaller deflection
-characteristics, called compass errors, pilots are prone to
 of the miniature aircraft of the turn coordinator is necessary
-use it only as a reference for setting the heading indicator,
 to produce a standard rate turn. After calibrating the turn
-but knowledge of magnetic compass characteristics permits
 coordinator during turns in each direction, note the corrected
-full use of the instrument to turn the airplane to correct and
 deflections, if any, and apply them during all timed turns.
-maintain headings.
-ee
-p
-a
-Primary pitch
 Supporting pitch and bank
-I
--
->
-I
--
 Primary power
-el
-al
--
--
-7,
-.
-&
-@
--
-—
-29.8
-29.9
-30.0
-@
--
--
-_
-I
--
-st
-A
-aaa
-eal
-a
--
--
--_
--_
-P~
-rt]
-=
-_
-st
 Primary bank
--
-I
->
->
 Supporting pitch
-Figure 5-34. Turn coordinator calibration.
 Figure 7-34. Turn coordinator calibration.
+The same cross-check and control technique is used in making
+a timed turn that is used to execute turns to predetermined
+headings, except the clock is substituted for the heading
+indicator. The miniature aircraft of the turn coordinator is
+primary for bank control, the altimeter is primary for pitch
+control, and the ASI is primary for power control. Start the
+roll-in when the clock’s second hand passes a cardinal point,
+hold the turn at the calibrated standard rate indication (or
+half-standard rate for small heading changes), and begin the
+roll-out when the computed number of seconds has elapsed.
+If the rates of roll-in and roll-out are the same, the time taken
+during entry and recovery does not need to be considered in
+the time computation.
+Practice timed turns with a full instrument panel and check
+the heading indicator for the accuracy of turns. If the turns are
+executed without the gyro heading indicator, use the magnetic
+compass at the completion of the turn to check turn accuracy,
+taking compass deviation errors into consideration.
+Compass Turns
+In most small airplanes, the magnetic compass is the only
+direction-indicating instrument independent of other airplane
+instruments and power sources. Because of its operating
+characteristics, called compass errors, pilots are prone to
+use it only as a reference for setting the heading indicator,
+but knowledge of magnetic compass characteristics permits
+full use of the instrument to turn the airplane to correct and
+maintain headings.
 7-21
 
 Remember the following points when making turns to
@@ -2432,29 +1261,8 @@ Abrupt changes in attitude or airspeed and the resulting erratic
 movements of the compass card make accurate interpretations
 of the instrument very difficult. Proficiency in compass turns
 7-22
-y
-q
-f
-A
-ee
-N
--
-;
-wy
-a
-—
-i
-a
-—
-j
-—_
-NX
-~~
-N
-|
 W
 Figure 7-35. North and south turn error.
-Figure 5-35
 depends on knowledge of compass characteristics, smooth
 control technique, and accurate bank-and-pitch control.
 Steep Turns
@@ -2481,312 +1289,109 @@ Because of the greatly reduced vertical lift component, pitch
 control is usually the most difficult aspect of this maneuver.
 Unless immediately noted and corrected with a pitch
 
+increase, the loss of vertical lift results in rapid movement
+of the altimeter, vertical speed, and airspeed needles. The
+faster the rate of bank change, the more suddenly the lift
+changes occur. If a cross-check is fast enough to note the
+immediate need for pitch changes, smooth, steady back-
+Figure 7-37. Diving spiral.
 elevator pressure will maintain constant altitude. However,
 overbanking to excessively steep angles without adjusting
 pitch as the bank changes occur requires increasingly
 stronger elevator pressure. The loss of vertical lift and
 increase in wing loading finally reach a point at which
 further application of back-elevator pressure tightens the
-turn without raising the nose.
 How does a pilot recognize overbanking and low pitch
-ee
 attitude? What should a pilot do to correct them? If a rapid
 downward movement of the altimeter needle or vertical speed
-yo
-yo
-,
-_
--
 needle, together with an increase in airspeed, is observed
-eal
->
--
-P~
 despite application of back elevator pressure, the airplane is in
-(>
 a diving spiral. [Figure 7-37] Immediately shallow the bank
-N
-29.8
 with smooth and coordinated aileron and rudder pressures,
-29.9
-30.0
 hold or slightly relax elevator pressure, and increase the cross-
-a
 check of the attitude indicator, altimeter, and VSI. Reduce
-"J
-J
--
-|
-Ss
-,
--
 power if the airspeed increase is rapid. When the vertical
--
 speed trends upward, the altimeter needle moves slower as
-anal
-al
-a
-_
-i
-—_
-—_
 the vertical lift increases. When the elevator is effective in
 raising the nose, hold the bank attitude shown on the attitude
-re]
 indicator and adjust elevator control pressures smoothly for
 the nose-high attitude appropriate to the bank maintained.
 If pitch control is consistently late on entries to steep turns,
--
--
-yo
-yo
--
->
--
--
 rollout immediately to straight-and-level flight and analyze
 possible errors. Practice shallower turns initially and learn the
-Figure 5-36. Steep left turn.
-Figure 7-36. Steep left turn.
 attitude changes and control responses required, then increase
 the banks as a quicker and more accurate cross-check and
-increase, the loss of vertical lift results in rapid movement
 control techniques are developed.
-of the altimeter, vertical speed, and airspeed needles. The
-faster the rate of bank change, the more suddenly the lift
 The power necessary to maintain constant airspeed increases
-changes occur. If a cross-check is fast enough to note the
 as the bank and drag increase. With practice, the power
-immediate need for pitch changes, smooth, steady back-
-§
-RT
-J
-J
--
--
-J
-al
-al
-=
-J
->
-st
-|
-i
-C)
-,
-i
-\
-\
-\
-|
-XQ
-»F
-@
-yY
-N
--
-dj
-S
-Le
-A
-&
-a
-a
-iY
-ap
-S_
-ee
-rd)
-"
-~
-rSti]
-aap
-]
-29.8
-29.9
-i
-30.0
-@
-.5
--
--
-=
-=
--
-ss
->
-I
-al
-al
-a
--
--
--_
--_
-~~
-st
-! |
-! 4
-, 4
-! 4
-Pd
-Pg
-PP
-Pd
-Pd
-ee
-rd
-rd)
-rd
-rti‘<C@?d
-ON
-ON
-ON
-AN
-aD
-=
-_
-™“
-|
-|
-ss
-I
-ss
-_s
-I
-I
->
->
->
-Figure 7-37. Diving spiral.
 7-23
 
 settings appropriate to specific bank attitudes are learned, and
-cross-check and interpretation as well as smooth control.
 adjustments can be made without undue attention to airspeed
-Proficiency in the maneuver also contributes to confidence in
 and power instruments. During training in steep turns, as in
-the instruments during attitude and power changes involved
 any other maneuver, attend to the most important tasks first.
-in more complex maneuvers. Pitch and power control
 Keep the pitch attitude relatively constant, and more time
-techniques are the same as those used during changes in
 can be devoted to cross-check and instrument interpretation.
-airspeed in straight-and-level flight.
 During recovery from steep turns to straight-and-level
-The angle of bank necessary for a given rate of turn is
 flight, elevator and power control must be coordinated with
-proportional to the true airspeed. Since the turns are executed
 bank control in proportion to the changes in aerodynamic
-at a standard rate, the angle of bank must be varied in direct
 forces. Back elevator pressures must be released and power
-proportion to the airspeed change in order to maintain a
 decreased. The common errors associated with steep turns are
-constant rate of turn. During a reduction of airspeed, decrease
 the same as those discussed later in this section. Remember,
-the angle of bank and increase the pitch attitude to maintain
 errors are more exaggerated, more difficult to correct, and
-altitude and a standard rate turn.
 more difficult to analyze unless rates of entry and recovery
 are consistent with the level of proficiency in the three basic
-The altimeter and turn coordinator indications should remain
 instrument flying skills.
-constant throughout the turn. The altimeter is primary for
-pitch control and the miniature aircraft of the turn coordinator
 Climbing and Descending Turns
-is primary for bank control. The manifold pressure gauge (or
-tachometer) is primary for power control while the airspeed
 To execute climbing and descending turns, combine the
-is changing. As the airspeed approaches the new indication,
 technique used in straight climbs and descents with the various
-the ASI becomes primary for power control.
 turn techniques. The aerodynamic factors affecting lift and
 power control must be considered in determining power
-Two methods of changing airspeed in turns may be used. In the
 settings, and the rate of cross-check and interpretation must be
-first method, airspeed is changed after the turn is established.
 increased to enable control of bank as well as pitch changes.
-[Figure 7-38] In the second method, the airspeed change is
 Change of Airspeed During Turns
-initiated simultaneously with the turn entry. The first method
-is easier, but regardless of the method used, the rate of cross-
 Changing airspeed during turns is an effective maneuver for
-check must be increased as power is reduced. As the airplane
 increasing proficiency in all three basic instrument skills.
-decelerates, check the altimeter and VSI for necessary pitch
 Since the maneuver involves simultaneous changes in all
-changes and the bank instruments for required bank changes.
 components of control, proper execution requires rapid
-ee
-ee
-Primary pitch
 Supporting pitch and bank
-yo
-,
-,
->
->
--
-_
->
-el
-el
-~~
-=
-~~
--
-es
-O
-i
-i
-CO
-,
-wt
-29.8
-—_—
-29.9
-30.0
-@
--
--”
-|
-J
--
--
-ad
-il
-_
--
-Primary power
-—
-—
 Primary power as
-as throttle is set
 airspeed approaches
-al
-=
-P~
-—_
-—_
 desired value
-,
-Gp
--
-J
-J
-dt
-i
->
 Primary bank
-il
-il
--
-_
 Supporting pitch
-Figure 5-38. Change of airspeed in turn.
 Figure 7-38. Change of airspeed during turn.
 7-24
+cross-check and interpretation as well as smooth control.
+Proficiency in the maneuver also contributes to confidence in
+the instruments during attitude and power changes involved
+in more complex maneuvers. Pitch and power control
+techniques are the same as those used during changes in
+airspeed in straight-and-level flight.
+The angle of bank necessary for a given rate of turn is
+proportional to the true airspeed. Since the turns are executed
+at a standard rate, the angle of bank must be varied in direct
+proportion to the airspeed change in order to maintain a
+constant rate of turn. During a reduction of airspeed, decrease
+the angle of bank and increase the pitch attitude to maintain
+altitude and a standard rate turn.
+The altimeter and turn coordinator indications should remain
+constant throughout the turn. The altimeter is primary for
+pitch control and the miniature aircraft of the turn coordinator
+is primary for bank control. The manifold pressure gauge (or
+tachometer) is primary for power control while the airspeed
+is changing. As the airspeed approaches the new indication,
+the ASI becomes primary for power control.
+Two methods of changing airspeed in turns may be used. In the
+first method, airspeed is changed after the turn is established.
+[Figure 7-38] In the second method, the airspeed change is
+initiated simultaneously with the turn entry. The first method
+is easier, but regardless of the method used, the rate of cross-
+check must be increased as power is reduced. As the airplane
+decelerates, check the altimeter and VSI for necessary pitch
+changes and the bank instruments for required bank changes.
+Primary power
+as throttle is set
 
 If the miniature aircraft of the turn coordinator indicates a
 deviation from the desired deflection, adjust the bank. Adjust
@@ -3001,127 +1606,27 @@ or inadequately trained pilot to an unexpected abnormal
 flight attitude is usually instinctive rather than intelligent
 and deliberate. This individual reacts with abrupt muscular
 
-Recovery from Unusual Attitudes
 effort, which is purposeless and even hazardous in turbulent
 conditions, at excessive speeds, or at low altitudes. However,
-In moderate unusual attitudes, the pilot can normally
 with practice, the techniques for rapid and safe recovery from
-reorient by establishing a level flight indication on the
 unusual attitudes can be mastered.
+When an unusual attitude is noted during the cross-check,
+the immediate problem is not how the airplane got there, but
+what it is doing and how to get it back to straight-and-level
+flight as quickly as possible.
+Recognizing Unusual Attitudes
+Recovery from Unusual Attitudes
+In moderate unusual attitudes, the pilot can normally
+reorient by establishing a level flight indication on the
 attitude indicator. However, the pilot should not depend on
 this instrument if the attitude indicator is the spillable type,
-When an unusual attitude is noted during the cross-check,
 because its upset limits may have been exceeded or it may
-the immediate problem is not how the airplane got there, but
 have become inoperative due to mechanical malfunction.
-what it is doing and how to get it back to straight-and-level
 If it is the nonspillable-type instrument and is operating
-flight as quickly as possible.
 properly, errors up to 5 degrees of pitch-and-bank may result
 and its indications are very difficult to interpret in extreme
-Recognizing Unusual Attitudes
 attitudes. As soon as the unusual attitude is detected, the
-As a general rule, any time an instrument rate of movement
-recommended recovery procedures stated in the POH/AFM
-or indication other than those associated with the basic
-should be initiated. If there are no recommended procedures
-instrument flight maneuvers is noted, assume an unusual
-stated in the POH/AFM, the recovery should be initiated by
-attitude and increase the speed of cross-check to confirm the
-reference to the ASI, altimeter, VSI, and turn coordinator.
-attitude, instrument error, or instrument malfunction.
-Nose-High Attitudes
-Nose-high attitudes are shown by the rate and direction of
-If the airspeed is decreasing, or below the desired airspeed,
-movement of the altimeter needle, vertical speed needle, and
-increase power (as necessary in proportion to the observed
-airspeed needle, as well as the immediately recognizable
-deceleration), apply forward elevator pressure to lower the
-indication of the attitude indicator (except in extreme
-nose and prevent a stall, and correct the bank by applying
-attitudes). [Figure 7-39] Nose-low attitudes are shown
-coordinated aileron and rudder pressure to level the
-by the same instruments, but in the opposite direction.
-miniature aircraft and center the ball of the turn coordinator.
-[Figure 7-40]
-The corrective control applications are made almost
-simultaneously, but in the sequence given above. A level
-pitch attitude is indicated by the reversal and stabilization
-pT
-C)
-ee
-Gaining altitude
-Climbing right turn
-A
-a
-Airspeed decreasing
-aaa
->
-=
-q
-a
-@
-|
-,
--
-,
-~
-s
--
-|
-_
-29.8
-|
-_a—
-29.9
-=
-30.0
-@
-YA
->
-__
-__
-,
-I
-—
-—
-neal
-P~
-al
--
-—_
-—_
-a
-P~
--
-\
-\
-XQ
-» Ss
-XQ
-y
-|
-’
-yY
-oA
-a
-&
-ap
-,
-Sp
-ap
-aap
-Gap
-rt
-Gp
--
--
-Figure 7-39. Unusual attitude—nose-high.
-Figure 5-39. Unusual attitude-nose high.
-7-27
 
-Figure 7-40. Unusual attitude—nose-low.
-of the ASI and altimeter needles. Straight coordinated flight
 is indicated by the level miniature aircraft and centered ball
 of the turn coordinator.
 Nose-Low Attitudes
@@ -3147,82 +1652,6 @@ flight. As the indications of the ASI, altimeter, and turn
 coordinator stabilize, incorporate the attitude indicator into
 the cross-check.
 7-28
-Pt
--
-Losing altitude
-Diving left turn
-yo
-,
-yo
->
--
--
--
--
-Airspeed increasing
-eal
-a
->
-P~
-. |
-.
-@
-|
-|
-&
-sz
-|
-.
-q
-29.8
-~~
-29.9
-30.0
-@
-a
-~
--
-ad
-J
-,
-,
-eal
-P~
--
-|G
-|
-y 4
-, 4
-y 4
-DP
-y 4
-PP
-Pd
-Pd
-Pd
-@e
-rd)
-rd)
-r—ti‘idzd?
-Gap
-|
-~
-N
-N
-N
-_
--
--
-i
-,
-,
-,
->
-_
->
->
-Figure 5-40. Unusual attitude-nose low.
-The attitude indicator and turn coordinator should be checked
 to determine bank attitude and then corrective aileron
 and rudder pressures should be applied. The ball should
 be centered. If it is not, skidding and slipping sensations
@@ -3410,7 +1839,6 @@ Start
 Figure 7-41. Racetrack pattern (entire pattern in level flight).
 NOTE: This pattern is an exercise combining use of the clock
 with basic maneuvers.
-Figure 5-41
 Procedure Turn
 A procedure turn is a maneuver that facilitates:
 •
@@ -3472,12 +1900,10 @@ D
 3.
 At point C, turn 225° right (using a standard rate turn)
 C
-Figure 5-42
 which will provide a heading of 180°. The timing is
 such that in a no wind environment, the pilot will be
 aligned with the final approach course of 180° at D.
 C
-~
 Wind conditions, however must be considered during
 the execution of the procedure turn. Compensating
 30° of heading
@@ -3494,14 +1920,12 @@ Start timing at point A (usually identified on approach
 procedures by a fix). For example, fly outbound on a
 Figure 7-44. Teardrop pattern (entire pattern in level flight).
 heading of 360° for 2 minutes. [Figure 7-43]
-Figure 5-44
 1.
 At point B (after stabilizing on the outbound course)
 turn left:
 D
 •
 30° to a heading of 330° and time for 1 minute
-=
 End
 •
 20° to a heading of 340° and time for 2 minutes
@@ -3523,45 +1947,24 @@ of 180° (Point D)
 of 180° (Point D)
 Start
 Figure 7-43. 80/260 procedure turn (entire pattern in level flight).
-Figure 5-43
 7-31
 
-Pattern II
 By using the different teardrop patterns, a pilot is afforded the
 ability to manage time more efficiently. For instance, a 10°
-Steps:
 pattern for 3 minutes provides about three times the distance
-1.
-At A, start timing for 2 minutes from A to B; reduce
 (and time) than a 30° pattern. Pattern selection should be
-airspeed to approach speed. [Figure 7-46]
 based upon an individual assessment of the procedure turn
-2.
-At B, make a standard rate turn to the left for 45°.
 requirements to include wind, complexity, the individual
 preparedness, etc.
-3.
-At the completion of the turn, time for 1 minute to C.
-4.
-At C, turn right for 180° to D; fly for 1-1/2 minutes
 Circling Approach Patterns
-to E, lowering the landing gear and flaps.
 Pattern I
-5.
-At E, turn right for 180°, rolling-out at F.
 1.
 At A, start timing for 2 minutes from A to B; reduce
-6.
-At F, enter a 500 fpm rate descent. At the end of a 500
 airspeed to approach speed. [Figure 7-45]
-foot descent, enter a straight constant-airspeed climb,
 2.
 At B, make a standard rate turn to the left for 45°.
-retracting gear and flaps.
 3. At the completion of the turn, time for 45 seconds
 to C.
-C
-D
 4.
 At C, turn to the original heading; fly 1 minute to D,
 lowering the landing gear and flaps.
@@ -3570,26 +1973,42 @@ At D, turn right 180°, rolling-out at E on the reciprocal
 of the entry heading.
 6.
 At E, enter a 500 fpm rate descent. At the end of a 500
-B
 foot descent, enter a straight constant-airspeed climb,
 retracting gear and flaps.
-E
 D
 E
-Figure 7-46. Circling approach pattern II (imaginary runway).
-Figure 5-45 II
 C
 B
-™
 Figure 7-45. Circling approach pattern I (imaginary runway).
-Figure 5-45 I
 7-32
+Pattern II
+Steps:
+1.
+At A, start timing for 2 minutes from A to B; reduce
+airspeed to approach speed. [Figure 7-46]
+2.
+At B, make a standard rate turn to the left for 45°.
+3.
+At the completion of the turn, time for 1 minute to C.
+4.
+At C, turn right for 180° to D; fly for 1-1/2 minutes
+to E, lowering the landing gear and flaps.
+5.
+At E, turn right for 180°, rolling-out at F.
+6.
+At F, enter a 500 fpm rate descent. At the end of a 500
+foot descent, enter a straight constant-airspeed climb,
+retracting gear and flaps.
+C
+D
+B
+E
+Figure 7-46. Circling approach pattern II (imaginary runway).
 
 Chapter 7, Section II
 Airplane Basic
 Flight Maneuvers
 Using an Electronic Flight Display
-So
 Introduction
 The previous chapters have laid the foundation for instrument
 flying. The pilot’s ability to use and interpret the information
@@ -3614,196 +2033,24 @@ instrument takeoff, all flight maneuvers can be performed on
 
 Straight-and-Level Flight
 Pitch Control
-\
-5°
 The pitch attitude of an airplane is the angle between the
 longitudinal axis of the airplane and the actual horizon.
-\
 In level flight, the pitch attitude varies with airspeed and
-4°
 load. For training purposes, the latter factor can normally
-es
 be disregarded in small airplanes. At a constant airspeed,
-\
 there is only one specific pitch attitude for level flight. At
-3°
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-J
-J
-NAV2 108.00 110.60
-123.800 118.000 COM2
-slow cruise speeds, the level flight attitude is nose-high with
-.-
-indications as in Figure 7-47; at fast cruise speeds, the level
-eo]
-Oo
-a
-18.0
-\
-flight attitude is nose-low. [Figure 7-48] Figure 7-49 shows
-2°
-the indications for the attitude at normal cruise speeds.
-oO
-oO
-270°
-13.7
-\
-I
-TAS 120KT
-1°
-VOR 1
-oO
-i
-XPDR 5537 IDNT LCL23:00:34
-OAT 7°C
-ALERTS
-‘ey
-oO
--
-a
--s
-Figure 5-49. Pitch Attitude and Airspeed in Level Flight, Normal Cruise Speed.
-Figure 7-49. Various pitch attitudes (right), aircraft shown in
-j
-|
-level flight.
--
--
--
-The instruments that directly or indirectly indicate pitch on
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-NAV2 108.00 110.60
-123.800 118.000 COM2
-Attitude indicator
-the primary flight display (PFD) are the attitude indicator,
-‘\
-Altimeter indicator
-Airspeed indicator
-altimeter, vertical speed indicator (VSI), airspeed indicator
-oO
-Oo
-i
-i
-18.0
-Vertical speed indicator
-(ASI), and both airspeed and altitude trend indicators.
-oO
-oO
-Altitude trend vector
-Airspeed trend vector
-Attitude Indicator
-270°
-13.7
--
-TAS 106KT
-The attitude indicator gives the pilot a direct indication of
-VOR 1
-the pitch attitude. The increased size of the attitude display
-on the EFD system greatly increases situational awareness
-e]
->
-XPDR 5537 IDNT LCL23:00:34
-OAT 7°C
-for the pilot. Most attitude indicators span the entire width
-ALERTS
-oO
-oO
-J
-i
--.
-of the PFD screen.
-Figure 5-47. Pitch Attitude and Airspeed in Level Flight, Slow Cruise Speed.
-Figure 7-47. Pitch attitude and airspeed in level flight, slow
-cruise speed.
-O
-Ge]
-f
-_
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-NAV1 108.00 113.00
-134.000 118.000 COM1
-NAV2 108.00 110.60
-123.800 118.000 COM2
-NAV2 108.00 110.60
-123.800 118.000 COM2
-MAP - NAVIGATION MAP
-~~
-o
-o
-Oo
--
-oO
-J
-/
->
-Oo
-oO
-oO
-o
-Se
-270°
--
--
-'
-TAS 135KT
-VOR 1
-|
-|
-i's}
-—
-—
-XPDR 5537 IDNT LCL23:00:34
-OAT 7°C
-ENGINE
-MAP
-DCLTR
-ALERTS
-Co
-Co
-oO
-Oo
--
-oe
-nl
-wt
-~*~
-»
-»~
-»
-~*~
-rey
-Figure 7-48. Pitch attitude decreasing and airspeed increasing—indicates need to increase pitch.
-Figure 5-48. Pitch Attitude and Airspeed in Level Flight, Fast Cruise Speed.
-7-34
 
 The aircraft pitch attitude is controlled by changing the
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-°o
--
-Oo
 deflection of the elevator. As the pilot pulls back on the
 NAV2 108.00 110.60
 123.800 118.000 COM2
-\
 control yoke causing the elevator to rise, the yellow chevron
-oO
-oO
-_
 18.0
 begins to show a displacement up from the artificial horizon
 line. This is caused by the AHRS unit sensing the changing
-oO
->
-oO
 angle between the longitudinal plane of the earth and the
 longitudinal axis of the aircraft.
 270°
@@ -3817,11 +2064,8 @@ XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 the pilot must rely on the artificial horizon of the PFD screen.
 ALERTS
-oO
-oO
 During normal cruise airspeed, the point of the yellow
 Figure 7-51. Pitch illustrated at 10°.
-Figure 5-51. Pitch Correction for Level Flight, three-bar width.
 chevron (aircraft symbol) is positioned on the artificial
 and precisely manipulate the elevator control forces in order
 horizon. Unlike conventional attitude indicators, the EFD
@@ -3852,40 +2096,15 @@ smoothly controlling the attitude of the aircraft.
 cases, the aircraft will slow and gain altitude.
 The last step in mastering elevator control is trim. Trimming
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
 134.000 118.000 COM1
-=
-et
->
-oO
--
-NAV2 108.00 110.60
 123.800 118.000 COM2
 the aircraft to relieve any control pressures is essential
-4°
-\
 for smooth attitude instrument flight. To accomplish this,
-oO
-oO
-=
--
--
-18.0
 momentarily release the control yoke. Note which way the
-3°
 aircraft pitch attitude wants to move. Grasp the control yoke
-=
-oO
->
-oO
-2°
 again and then reapply the pressure to return the attitude to the
 previous position. Apply trim in the direction of the control
 270°
-13.7
-=
-1°
-TAS 120KT
 pressure. Small applications of trim make large changes in
 the pitch attitude. Be patient and make multiple changes to
 VOR 1
@@ -3894,10 +2113,6 @@ XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
 Once the aircraft is in trim, relax on the control yoke as
-oO
-oO
--
-_
 much as practicable. When pressure is held on the yoke,
 Figure 7-50. Pitch indications for various attitudes (1° through 5°).
 unconscious pressures are applied to the elevator and ailerons,
@@ -4100,9 +2315,35 @@ roll scale always remains in the same position relative to
 the horizon line.
 7-37
 
-Since the attitude indicator is capable of showing precise
-i
 Roll scale zero
+Horizon line
+Aircraft symbol
+Figure 7-52. Attitude indicator.
+0°
+30°
+45°
+60°
+90°
+Figure 7-53. Attitude indicator showing a 15° left bank.
+The roll pointer indicates the direction and degree of bank.
+[Figure 7-53] The roll pointer is aligned with the aircraft
+symbol. The roll pointer indicates the angle of the lateral axis
+of the aircraft compared to the natural horizon. The slip/skid
+indicator will show if the longitudinal axis of the aircraft is
+aligned with the relative wind, which is coordinated flight.
+With the roll index and the slip/skid indicator aligned, any
+deflection, either right or left of the roll index causes the
+aircraft to turn in that direction. With the small graduations
+on the roll scale, it is easy to determine the bank angle within
+approximately 1 degree. In coordinated flight, if the roll
+index is aligned with the roll pointer, the aircraft is achieving
+straight flight.
+An advantage of EFDs is the elimination of the precession
+error. Precession error in analog gauges is caused by forces
+being applied to a spinning gyro. With the new solid state
+instruments, precession error has been eliminated.
+7-38
+Since the attitude indicator is capable of showing precise
 Roll scale
 pitch and bank angles, the only time that the attitude indicator
 is a primary instrument is when attempting to fly at a specific
@@ -4114,70 +2355,34 @@ Slip/Skid indicator
 The horizontal situation indicator (HSI) is a rotating 360°
 Pitch scale
 compass card that indicates magnetic heading. The HSI is the
-Horizon line
 only instrument that is capable of showing exact headings. The
 magnetic compass can be used as a backup instrument in case
 of an HSI failure; however, due to erratic, unstable movements,
 it is more likely to be used a supporting instrument.
-Aircraft symbol
 In order for the pilot to achieve the desired rate of change,
 it is important for him or her to understand the relationship
 between the rate at which the HSI changes heading displays
 and the amount of bank angle required to meet that rate of
-Figure 7-52. Attitude indicator.
-Figure 5-53. Attitude Indicator.
 change. A very small rate of heading change means the bank
 angle is small, and it takes more time to deviate from the
-0°
 desired straight flightpath. A larger rate of heading change
-30°
 means a greater bank angle happens at a faster rate.
-45°
 Heading Indicator
-60°
 The heading indicator is the large black box with a white
-90°
 number that indicates the magnetic heading of the aircraft.
 [Figure 7-54] The aircraft heading is displayed to the nearest
 degree. When this number begins to change, the pilot should
-Da|
 be aware that straight flight is no longer being achieved.
-_-—
-“>
-Figure 7-53. Attitude indicator showing a 15° left bank.
-+
-Figure 5-52. Bank Interpretation with the Attitude Incicator.
-The roll pointer indicates the direction and degree of bank.
-Slip/Skid indicator
-[Figure 7-53] The roll pointer is aligned with the aircraft
-symbol. The roll pointer indicates the angle of the lateral axis
 270°
-of the aircraft compared to the natural horizon. The slip/skid
-270°
-“>
-indicator will show if the longitudinal axis of the aircraft is
-aligned with the relative wind, which is coordinated flight.
-Turn rate indicator
-With the roll index and the slip/skid indicator aligned, any
 VOR 1
-deflection, either right or left of the roll index causes the
-Turn rate trend vector
-aircraft to turn in that direction. With the small graduations
-on the roll scale, it is easy to determine the bank angle within
-approximately 1 degree. In coordinated flight, if the roll
-Figure 5-54. Slip/Skid & Turn Rate Indication.
-index is aligned with the roll pointer, the aircraft is achieving
 Figure 7-54. Slip/skid and turn rate indicator.
-straight flight.
 Turn Rate Indicator
-An advantage of EFDs is the elimination of the precession
 The turn rate indicator gives an indirect indication of bank.
-error. Precession error in analog gauges is caused by forces
 It is a magenta trend indicator capable of displaying half-
-being applied to a spinning gyro. With the new solid state
 standard as well as standard rate turns to both the left and
-instruments, precession error has been eliminated.
-7-38
+Slip/Skid indicator
+Turn rate indicator
+Turn rate trend vector
 
 right. [Figure 7-54] The turn indicator is capable of indicating
 turns up to 4 degrees per second by extending the magenta
@@ -4229,43 +2434,24 @@ and power must be coordinated in order to maintain constant
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-o
-J
-Oo
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-oO
--
 23.0
-oO
->
-Oo
 270°
 13.7
 TAS 100KT
 VOR 1
-344000ALERTS0
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
-oO
-oO
 Figure 7-55. An aircraft decreasing in airspeed while gaining
 altitude. In this case, the pilot has decreased pitch.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-°o
-J
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-oO
 23.0
-oO
-J
-oO
 4075 200
 270°
 13.7
@@ -4277,8 +2463,6 @@ XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 4000 200
 ALERTS
-ie}
-oO
 Figure 7-56. Figure shows both an increase in speed and altitude
 where pitch adjustment alone is insufficient. In this situation, a
 reduction of power is also necessary.
@@ -4304,185 +2488,121 @@ common procedure is to underpower or overpower on initial
 7-39
 
 power changes to accelerate the rate of airspeed change. (For
-As the thrust decreases, increase the speed of the cross-check
 small speed changes, or in airplanes that decelerate or accelerate
-and be ready to apply left rudder, back-elevator, and aileron
 rapidly, overpowering or underpowering is not necessary.)
-control pressure the instant the pitch and bank instruments
-show a deviation from altitude and heading. As proficiency
 Consider the example of an airplane that requires 23 inches
-is obtained, a pilot will learn to cross-check, interpret, and
 of mercury ("Hg) to maintain a normal cruising airspeed of
-control the changes with no deviation of heading and altitude.
 120 knots, and 18 "Hg to maintain an airspeed of 100 knots.
-Assuming smooth air and ideal control technique, as airspeed
 The reduction in airspeed from 120 knots to 100 knots while
-decreases, a proportionate increase in airplane pitch attitude
 maintaining straight-and-level flight is discussed below and
-is required to maintain altitude. Similarly, effective torque
 illustrated in Figures 7-57, 7-58, and 7-59.
-control means counteracting yaw with rudder pressure.
 Instrument indications, prior to the power reduction, are
-As the power is reduced, the altimeter is primary for
 shown in Figure 7-57. The basic attitude is established and
-pitch, the heading indicator is primary for bank, and the
 maintained on the attitude indicator. The specific pitch,
-manifold pressure gauge is momentarily primary for power
 bank, and power control requirements are detected on these
-(at 15 "Hg in Figure 7-58). Control pressures should be
 primary instruments:
-trimmed off as the airplane decelerates. As the airspeed
-approaches the desired airspeed of 100 knots, the manifold
 Altimeter—Primary Pitch
-pressure is adjusted to approximately 18 "Hg and becomes
 Heading Indicator—Primary Bank
-the supporting power instrument. The ASI again becomes
 Airspeed Indicator—Primary Power
-primary for power. [Figure 7-59]
-Airspeed Changes in Straight-and-Level Flight
 Supporting pitch and bank instruments are shown in
 Figure 7-57. Note that the supporting power instrument is
-Practice of airspeed changes in straight-and-level flight
 the manifold pressure gauge (or tachometer if the propeller
-provides an excellent means of developing increased
 is fixed pitch). However, when a smooth power reduction to
-proficiency in all three basic instrument skills and brings
 approximately 15 "Hg (underpower) is made, the manifold
-out some common errors to be expected during training
 pressure gauge becomes the primary power instrument.
-in straight-and-level flight. Having learned to control the
 [Figure 7-58] With practice, power setting can be changed
-airplane in a clean configuration (minimum drag conditions),
 with only a brief glance at the power instrument, by sensing
-increase proficiency in cross-check and control by practicing
 the movement of the throttle, the change in sound, and the
-speed changes while extending or retracting the flaps and
 changes in the feel of control pressures.
-landing gear. While practicing, be sure to comply with the
 Supporting pitch and bank
+Supporting power
+Primary power
+Primary bank
+Figure 7-57. Straight-and-level flight (normal cruising speed).
+7-40
+As the thrust decreases, increase the speed of the cross-check
+and be ready to apply left rudder, back-elevator, and aileron
+control pressure the instant the pitch and bank instruments
+show a deviation from altitude and heading. As proficiency
+is obtained, a pilot will learn to cross-check, interpret, and
+control the changes with no deviation of heading and altitude.
+Assuming smooth air and ideal control technique, as airspeed
+decreases, a proportionate increase in airplane pitch attitude
+is required to maintain altitude. Similarly, effective torque
+control means counteracting yaw with rudder pressure.
+As the power is reduced, the altimeter is primary for
+pitch, the heading indicator is primary for bank, and the
+manifold pressure gauge is momentarily primary for power
+(at 15 "Hg in Figure 7-58). Control pressures should be
+trimmed off as the airplane decelerates. As the airspeed
+approaches the desired airspeed of 100 knots, the manifold
+pressure is adjusted to approximately 18 "Hg and becomes
+the supporting power instrument. The ASI again becomes
+primary for power. [Figure 7-59]
+Airspeed Changes in Straight-and-Level Flight
+Practice of airspeed changes in straight-and-level flight
+provides an excellent means of developing increased
+proficiency in all three basic instrument skills and brings
+out some common errors to be expected during training
+in straight-and-level flight. Having learned to control the
+airplane in a clean configuration (minimum drag conditions),
+increase proficiency in cross-check and control by practicing
+speed changes while extending or retracting the flaps and
+landing gear. While practicing, be sure to comply with the
 Primary pitch
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 134.000 118.000 COM1
 123.800 118.000 COM2
-Oo
-a
-es}
-,
 Supporting pitch
-Oo
-‘e]
-a
-_
-Supporting power
 23.0
-=
-a
-Oo
-ie)
->
-a
-Primary power
 270°
 13.7
-Primary bank
-a
 TAS 106KT
 OAT 7°C
 Supporting bank
 VOR 1
-oO
-‘e]
 INSET
 PFD
 CDI
 XPDR
-IDENT TMR/REF
+IDENT
+TMR/REF
 NRST
 ALERTS
-a
-a
-,
-,
-,
-,
-,
-,
-,
-,
-,
-=
--
--
-Figure 5-13. Straight-and-level flight (normal cruising speed).
-Figure 7-57. Straight-and-level flight (normal cruising speed).
-7-40
 
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 Primary pitch
 NAV1 108.00 113.00
 134.000 118.000 COM1
-oO
-oO
-J
-i
 NAV2 108.00 110.60
 123.800 118.000 COM2
-(e}
-Oo
-a
-a
 15.0
 Primary
 power
-Jf
 as throttle
 is set
-oO
-(e}
->
--
-.
 270°
 13.7
-a
 TAS 100KT
 VOR 1
 Primary bank
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
-oO
-oO
 Primary power as
-a
-a
 A/S approaches
 desired value
-Figure 5-58. Power Control - Straight and level flight (airspeed decreasing).
 Figure 7-58. Straight-and-level flight (airspeed decreasing).
 Primary pitch
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
 Primary power
-oO
-oO
-J
-i
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-fe}
-a
-a
 18.0
 Supporting
 power
-oO
-(e}
-J
-,
-|
 270°
 13.7
 TAS 100KT
@@ -4491,11 +2611,6 @@ Primary bank
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
 ALERTS
-oO
-oO
-a
-a
-Figure 5-59. Power Control - Straight and level flight (reduced airspeed stabilized).
 Figure 7-59. Straight-and-level flight (reduced airspeed stabilized).
 7-41
 
@@ -4558,52 +2673,15 @@ and-level flight at 95 knots.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
--
-oO
-_
-oO
-a
 NAV2 108.00 110.60
 123.800 118.000 COM2
-|
-oO
-oO
-_
-J
 23.0
-aA
-<
-<
-@
->
-=
-=
-v
-oO
-oO
->
-ri
-v
 13.7
-270°
-vy
-J
 TAS 100KT
 VOR 1
-y
-Z
-,
-,
--
-,
 XPDR 5537 IDNT LCL23:00:34
-oO
-oO
 ALERTS
-a
->
 Figure 7-60. Cross-check supporting instruments.
-Figure 5-60. Cross-check supporting instruments.
 7-42
 
 Trim Technique
@@ -4658,53 +2736,17 @@ stabilize at 100 knots.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-a
-oO
-a
-oO
-a
 NAV2 108.00 110.60
 123.800 118.000 COM2
-|
-|
-(e)
-a
-_
-oO
-_
->
 18.0
-<
-<
-@
->
-=
-=
-v
-oO
-Oo
-J
-ri
-P 4
-v
 270°
 13.7
 270°
-vy
-a
 TAS 100KT
 VOR 1
-,
-Zz
-,
 XPDR 5537 IDNT LCL23:00:34
-oO
-oO
 ALERTS
-a
->
 Figure 7-61. Insufficient cross-check. The problem is power and not nose-high. In this case, the pilot decreased pitch inappropriately.
-Figure 5-61. Insufficient cross-check
 7-43
 
 Example: The airspeed indication is low. The pilot,
@@ -4817,47 +2859,16 @@ with errors in corrective technique.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-Oo
-a
-Oo
-a
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-oO
->
->
 23.0
-a
-<
-<
-@
->
-=
-=
-oO
-oO
->
-ri
 13.7
 270°
-_
 TAS 100KT
 VOR 1
-,
-,
-,
-,
-,
-,
 XPDR 5537 IDNT LCL23:00:34
-oO
-oO
 ALERTS
->
-i
 Figure 7-62. The pilot has fixated on pitch and altitude, leaving bank indications unattended. Note the trend line to the left.
-Figure 5-62. Fixation during cross-check
 9.
 Failure to note the cause of a previous heading error
 erratic control of airspeed, power, as well as pitch and
@@ -4914,360 +2925,157 @@ indications during airspeed changes, resulting in
 7-45
 
 Straight Climbs and Descents
-initiated either prior to initiating the pitch change or after
-having established the desired pitch setting. Consult the POH/
 Each aircraft has a specific pitch attitude and airspeed that
-AFM for specific climb power settings if anything other than
 corresponds to the most efficient climb rate for a specified
-a full power climb is desired. Pitch attitudes vary depending
 weight. The POH/AFM contains the speeds that produce the
-on the type of aircraft being flown. As airspeed decreases,
 desired climb. These numbers are based on maximum gross
-control forces need to be increased in order to compensate
 weight. Pilots must be familiar with how the speeds vary with
-for the additional elevator deflection required to maintain
 weight so they can compensate during flight.
-attitude. Utilize trim to eliminate any control pressures. By
-effectively using trim, the pilot is better able to maintain the
 Entry
-desired pitch without constant attention. The pilot is thus
 Constant Airspeed Climb From Cruise Airspeed
-able to devote more time to maintaining an effective scan of
 To enter a constant airspeed climb from cruise airspeed,
-all instrumentation.
 slowly and smoothly apply aft elevator pressure in order
 to raise the yellow chevron (aircraft symbol) until the tip
-The VSI should be utilized to monitor the performance of the
 points to the desired degree of pitch. [Figure 7-63] Hold
-aircraft. With a smooth pitch transition, the VSI tape should
 the aft control pressure and smoothly increase the power
-begin to show an immediate trend upward and stabilize on a
 to the climb power setting. This increase in power may be
-23.0
-a
-Before procedure
-Current procedure
-—
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-dj
-oO
-a
-oO
-a
-NAV2 108.00 110.60
-123.800 118.000 COM2
-y
-(oe)
-a
-oO
->
->
-25.0
-Primary
-power
-oO
-oO
->
-ss
-Primary pitch
-270°
-13.7
->
-TAS 126KT
-OAT 6°C
-VOR 1
-,
-Primary bank
-sz
-Z
-XPDR 5537 IDNT LCL10:12:34
-oO
-Oo
-INSET
-PFD
-CDI
-XPDR
-IDENT TMR/REF
-NRST
-ALERTS
--
->
-Figure 5-19. Constant airspeed climb from cruise airspeed
 Figure 7-63. Constant airspeed climb from cruise airspeed.
 7-46
+initiated either prior to initiating the pitch change or after
+having established the desired pitch setting. Consult the POH/
+AFM for specific climb power settings if anything other than
+a full power climb is desired. Pitch attitudes vary depending
+on the type of aircraft being flown. As airspeed decreases,
+control forces need to be increased in order to compensate
+for the additional elevator deflection required to maintain
+attitude. Utilize trim to eliminate any control pressures. By
+effectively using trim, the pilot is better able to maintain the
+desired pitch without constant attention. The pilot is thus
+able to devote more time to maintaining an effective scan of
+all instrumentation.
+The VSI should be utilized to monitor the performance of the
+aircraft. With a smooth pitch transition, the VSI tape should
+begin to show an immediate trend upward and stabilize on a
+Before procedure
+Current procedure
 
-Constant Airspeed Climb from Established Airspeed
 rate of climb equivalent to the pitch and power setting being
 utilized. Depending on current weight and atmospheric
-In order to enter a constant airspeed climb, first complete the
 conditions, this rate will be different. This requires the pilot to
-airspeed reduction from cruise airspeed to climb airspeed.
 be knowledgeable of how weight and atmospheric conditions
-Maintain straight-and-level flight as the airspeed is reduced.
 affect aircraft performance.
-The entry to the climb is similar to the entry from cruise
-airspeed with the exception that the power must be increased
 Once the aircraft is stabilized at a constant airspeed and pitch
-when the pitch attitude is raised. [Figure 7-64] Power added
 attitude, the primary flight instrument for pitch will be the ASI
-after the pitch change shows a decrease in airspeed due to
 and the primary bank instrument will be the heading indicator.
-the increased drag encountered. Power added prior to a pitch
 The primary power instrument will be the tachometer or the
-change causes the airspeed to increase due to the excess thrust.
 manifold pressure gauge depending on the aircraft type. If the
 pitch attitude is correct, the airspeed should slowly decrease to
-Constant Rate Climbs
 the desired speed. If there is any variation in airspeed, make
-Constant rate climbs are very similar to the constant airspeed
 small pitch changes until the aircraft is stabilized at the desired
-climbs in the way the entry is made. As power is added,
 speed. Any change in airspeed requires a trim adjustment.
+Figure 7-64. Constant airspeed climb from established airspeed.
+Constant Airspeed Climb from Established Airspeed
+In order to enter a constant airspeed climb, first complete the
+airspeed reduction from cruise airspeed to climb airspeed.
+Maintain straight-and-level flight as the airspeed is reduced.
+The entry to the climb is similar to the entry from cruise
+airspeed with the exception that the power must be increased
+when the pitch attitude is raised. [Figure 7-64] Power added
+after the pitch change shows a decrease in airspeed due to
+the increased drag encountered. Power added prior to a pitch
+change causes the airspeed to increase due to the excess thrust.
+Constant Rate Climbs
+Constant rate climbs are very similar to the constant airspeed
+climbs in the way the entry is made. As power is added,
 smoothly apply elevator pressure to raise the yellow chevron
-23.0
 Before procedure
 Current procedure
-—
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-Primary pitch
-dj
-Supporting pitch and bank
-oO
-oO
-a
-a
-NAV2 108.00 110.60
-123.800 118.000 COM2
-oO
-oO
->
-I
-18.0
-Supporting
-power
-Oo
-(e)
-J
-ri
-Primary power
-270°
-13.7
->
-TAS 106KT
-OAT 6°C
-VOR 1
-,
-,
-Primary bank
-,
-,
-Za
-,
-XPDR 5537 IDNT LCL10:12:34
-INSET
-PFD
-CDI
-XPDR
-IDENT TMR/REF
-NRST
-ALERTS
-oO
-oO
->
-_
-Figure 7-64. Constant airspeed climb from established airspeed.
 7-47
 
-Leveling Off
 to the desired pitch attitude that equates to the desired vertical
 speed rate. The primary instrument for pitch during the initial
-Leveling off from a climb requires a reduction in the pitch
 portion of the maneuver is the ASI until the vertical speed
-prior to reaching the desired altitude. If no change in pitch
 rate stabilizes and then the VSI tape becomes primary. The
-is made until reaching the desired altitude, the momentum
 ASI then becomes the primary instrument for power. If any
-of the aircraft causes the aircraft to continue past the desired
 deviation from the desired vertical speed is noted, small
-altitude throughout the transition to a level pitch attitude. The
 pitch changes will be required in order to achieve the desired
-amount of lead to be applied depends on the vertical speed
 vertical speed. [Figure 7-65]
-rate. A higher vertical speed requires a larger lead for level
-off. A good rule of thumb to utilize is to lead the level off
 When making changes to compensate for deviations in
-by 10 percent of the vertical speed rate (1,000 fpm ÷ 10 =
 performance, pitch, and power, pilot inputs need to be
-100 feet lead).
 coordinated to maintain a stable flight attitude. For instance,
 if the vertical speed is lower than desired but the airspeed
-To level off at the desired altitude, refer to the attitude display
 is correct, an increase in pitch momentarily increases the
-and apply smooth forward elevator pressure toward the desired
 vertical speed. However, the increased drag quickly starts
-level pitch attitude while monitoring the VSI and altimeter
 to degrade the airspeed if no increase in power is made. A
-tapes. The rates should start to slow and airspeed should
 change to any one variable mandates a coordinated change
-begin to increase. Maintain the climb power setting until the
 in the other.
-airspeed approaches the desired cruise airspeed. Continue to
-monitor the altimeter to maintain the desired altitude as the
 Conversely, if the airspeed is low and the pitch is high, a
-airspeed increases. Prior to reaching the cruise airspeed, the
 reduction in the pitch attitude alone may solve the problem.
-power must be reduced to avoid overshooting the desired
 Lower the nose of the aircraft very slightly to see if a power
-speed. The amount of lead time that is required depends on
 reduction is necessary. Being familiar with the pitch and
-the speed at which the aircraft accelerates. Utilization of the
 power settings for the aircraft aids in achieving precise
-airspeed trend indicator can assist by showing how quickly
 attitude instrument flying.
-the aircraft will arrive at the desired speed.
-a
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-Supporting pitch until
-NAV1 108.00 113.00
-134.000 118.000 COM1
-Supporting pitch and bank
-oO
-a
-oO
-a
-NAV2 108.00 110.60
-123.800 118.000 COM2
-desired vertical speed
-is achieved, then it
-becomes the primary
-instrument for pitch.
-oO
-oO
->
->
-23.0
-a
-oO
-oO
->
-i
-Primary for pitch until
-270°
-13.7
-desired vertical speed
-is achieved. Then
->
-airspeed becomes
-TAS 116KT
-OAT 6°C
-primary for power.
-VOR 1
-sz
-Primary bank
-,
-,
-XPDR 5537 IDNT LCL10:12:34
-[e)
-[e)
-INSET
-PFD
-CDI
-XPDR
-IDENT TMR/REF
-NRST
-ALERTS
-i
->
 Figure 7-65. Constant rate climbs.
 7-48
+Leveling Off
+Leveling off from a climb requires a reduction in the pitch
+prior to reaching the desired altitude. If no change in pitch
+is made until reaching the desired altitude, the momentum
+of the aircraft causes the aircraft to continue past the desired
+altitude throughout the transition to a level pitch attitude. The
+amount of lead to be applied depends on the vertical speed
+rate. A higher vertical speed requires a larger lead for level
+off. A good rule of thumb to utilize is to lead the level off
+by 10 percent of the vertical speed rate (1,000 fpm ÷ 10 =
+100 feet lead).
+To level off at the desired altitude, refer to the attitude display
+and apply smooth forward elevator pressure toward the desired
+level pitch attitude while monitoring the VSI and altimeter
+tapes. The rates should start to slow and airspeed should
+begin to increase. Maintain the climb power setting until the
+airspeed approaches the desired cruise airspeed. Continue to
+monitor the altimeter to maintain the desired altitude as the
+airspeed increases. Prior to reaching the cruise airspeed, the
+power must be reduced to avoid overshooting the desired
+speed. The amount of lead time that is required depends on
+the speed at which the aircraft accelerates. Utilization of the
+airspeed trend indicator can assist by showing how quickly
+the aircraft will arrive at the desired speed.
 
 To level off at climbing airspeed, lower the nose to the
-the aircraft stabilizes at a constant airspeed and constant rate
 appropriate pitch attitude for level flight with a simultaneous
-of descent. The altimeter tape continues to show a descent.
 reduction in power to a setting that maintains the desired
-Hold pitch constant and allow the aircraft to stabilize. During
 speed. With a coordinated reduction in pitch and power, there
-any change in attitude or airspeed, continuous application of
 should be no change in the airspeed.
-trim is required to eliminate any control pressures that need
-to be applied to the control yoke. An increase in the scan rate
 Descents
-during the transition is important since changes are being
-made to the aircraft flightpath and speed. [Figure 7-66]
 Descending flight can be accomplished at various airspeeds
 and pitch attitudes by reducing power, lowering the nose
-Entry
 to a pitch attitude lower than the level flight attitude, or
 adding drag. Once any of these changes have been made, the
-Descents can be accomplished with a constant rate, constant
 airspeed eventually stabilizes During this transitional phase,
-airspeed, or a combination. The following method can
 the only instrument that displays an accurate indication of
-accomplish any of these with or without an attitude indicator.
 pitch is the attitude indicator. Without the use of the attitude
-Reduce the power to allow the aircraft to decelerate to the
 indicator (such as in partial panel flight), the ASI tape, the
-desired airspeed while maintaining straight-and-level flight.
 VSI tape, and the altimeter tape shows changing values until
+Figure 7-66. The top image illustrates a reduction of power and descending at 500 fpm to an altitude of 5,000 feet. The bottom image
+illustrates an increase in power and the initiation of leveling off.
+the aircraft stabilizes at a constant airspeed and constant rate
+of descent. The altimeter tape continues to show a descent.
+Hold pitch constant and allow the aircraft to stabilize. During
+any change in attitude or airspeed, continuous application of
+trim is required to eliminate any control pressures that need
+to be applied to the control yoke. An increase in the scan rate
+during the transition is important since changes are being
+made to the aircraft flightpath and speed. [Figure 7-66]
+Entry
+Descents can be accomplished with a constant rate, constant
+airspeed, or a combination. The following method can
+accomplish any of these with or without an attitude indicator.
+Reduce the power to allow the aircraft to decelerate to the
+desired airspeed while maintaining straight-and-level flight.
 As the aircraft approaches the desired airspeed, reduce the
-ee
-\
-18.0
-/
 Before procedure
 Current procedure
-—
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-dj
-.
-oO
-oO
-a
-_
-NAV2 108.00 110.60
-123.800 118.000 COM2
-Oo
-oO
-_
->
-23.0
-Pa
--200
-oO
-Oo
->
-a
-270°
-13.7
-J
-TAS 116KT
-OAT 6°C
-VOR 1
-,
-Zs
-,
-XPDR 5537 IDNT LCL10:12:34
-oO
-INSET
-PFD
-CDI
-XPDR
-IDENT TMR/REF
-NRST
-ALERTS
-oO
-_
->
-Figure 7-66. The top image illustrates a reduction of power and descending at 500 fpm to an altitude of 5,000 feet. The bottom image
-Figure 5-22. Level-off airspeed higher than descent airspeed.
-illustrates an increase in power and the initiation of leveling off.
 7-49
 
 power to a predetermined value. The airspeed continues to
@@ -5474,102 +3282,52 @@ instrument during the turn is the turn rate indicator;
 however, the bank angle varies slightly. With an
 7-51
 
-is determining when to start the roll-out process. For example:—
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-Primary bank initially
-NAV1 108.00 113.00
-134.000 118.000 COM1
-Primary pitch
-ij
-ie]
-oO
-a
-a
-NAV2 108.00 110.60
-123.800 118.000 COM2
-supporting pitch
-Supporting pitch
-oO
-(e)
->
-J
-—a
-‘e]
-oO
-I
-s
-Primary power
-305°
-_
-TAS 126KT
-OAT 6°C
-Primary bank as turn is established
-VOR 1
-,
-,
-Primary bank
-,
-,
-,
-,
-XPDR 5537 IDNT LCL10:12:34
-oO
-oO
-INSET
-PFD
-CDI
-XPDR
-IDENT TMR/REF
-NRST
-ALERTS
->
-J
-Figure 5-23. Standard rate turn constant airspeed.
 Figure 7-67. Standard rate turn—constant airspeed.
 aggressive cross-check, a pilot should be able to
-EFDs allow the pilot to better utilize all instrumentation during
 minimize errors arising from over- or underbanking.
-all phases of attitude instrument flying by consolidating all
-traditional instrumentation onto the PFD. The increased size
 2.
 Another error normally encountered during standard
-of the attitude indicator, which stretches the entire width of
 rate turns is inefficient or lack of adequate cross-
-the PFD, allows the pilot to maintain better pitch control
 checking. Pilots need to establish an aggressive
-while the introduction of the turn rate indicator positioned
 cross-check in order to detect and eliminate all
-directly on the compass rose aids the pilot in determining
 deviations from altitude, airspeed, and bank angle
-when to begin a roll-out for the desired heading.
 during a maneuver.
 3.
 Fixation is a major error associated with attitude
-When determining what bank angle to utilize when making a
 instrument flying in general. Pilots training for their
-heading change, a general rule states that for a small heading
 instrument rating tend to focus on what they perceive
-change, do not use a bank angle that is greater than the total
 to be the most important task at hand and abandon
-number of degrees of change needed. For instance, if a
 their cross-check by applying all of their attention to
-heading change of 20° is needed, a bank angle of not more
 the turn rate indicator. A modified radial scan works
-than 20° is required. Another rule of thumb that better defines
 well to provide the pilot with adequate scanning of all
-the bank angle is half the total number of degrees of heading
 instrumentation during the maneuver.
-change required, but never greater than standard rate. The
-exact bank angle that equates to a standard rate turn varies
 Turns to Predetermined Headings
-due to true airspeed.
 Turning the aircraft is one of the most basic maneuvers that a
 pilot learns during initial flight training. Learning to control
-With this in mind and the angle of bank calculated, the next step
 the aircraft, maintaining coordination, and smoothly rolling
 out on a desired heading are all keys to proficient attitude
 instrument flying.
 7-52
+EFDs allow the pilot to better utilize all instrumentation during
+all phases of attitude instrument flying by consolidating all
+traditional instrumentation onto the PFD. The increased size
+of the attitude indicator, which stretches the entire width of
+the PFD, allows the pilot to maintain better pitch control
+while the introduction of the turn rate indicator positioned
+directly on the compass rose aids the pilot in determining
+when to begin a roll-out for the desired heading.
+When determining what bank angle to utilize when making a
+heading change, a general rule states that for a small heading
+change, do not use a bank angle that is greater than the total
+number of degrees of change needed. For instance, if a
+heading change of 20° is needed, a bank angle of not more
+than 20° is required. Another rule of thumb that better defines
+the bank angle is half the total number of degrees of heading
+change required, but never greater than standard rate. The
+exact bank angle that equates to a standard rate turn varies
+due to true airspeed.
+With this in mind and the angle of bank calculated, the next step
+is determining when to start the roll-out process. For example:
 
 An aircraft begins a turn from a heading of 030° to a heading
 of 120°. With the given airspeed, a standard rate turn has
@@ -5666,123 +3424,82 @@ the higher aerodynamic forces and increased speed at which
 the forces are changing.
 7-53
 
+As soon as the bank angle increases from level flight, the
+vertical component of lift begins to decrease. If the vertical
+component of lift is allowed to continue to decrease, a
+pronounced loss of altitude is indicated on the altimeter
+along with the VSI tape, as well as the altitude trend
+indicator. Additionally, the airspeed begins to increase due
+to the lowered pitch attitude. It is very important to have
+a comprehensive scan developed prior to training in steep
+turns. Utilization of all of the trend indicators, as well the
+VSI, altimeter, and ASI, is essential in learning to fly steep
+turns by reference to instruments alone.
+In order to avoid a loss of altitude, the pilot begins to slowly
+increase back pressure on the control yoke in order to increase
+the pitch attitude. The pitch change required is usually no
+more than 3 degrees to 5 degrees, depending on the type of
+aircraft. As the pilot increases back pressure, the angle of
+attack increases, thus increasing the vertical component of
+lift. When a deviation in altitude is indicated, proper control
+force corrections need to be made. During initial training of
+steep turns, pilots have a tendency to overbank. Over banking
+is when the bank angle exceeds 50°. As the outboard wing
+begins to travel faster through the air, it begins to generate a
+7-54
 greater and greater differential in lift compared to the inboard
-Performing the Maneuver
 wing. As the bank angle continues to progress more and
-To enter a steep turn to the left, roll into a coordinated 45°
 more steeply past 45°, the two components of lift (vertical
-bank turn to the left. An advantage that glass panel displays
 and horizontal) become inversely proportionate.
-have over analog instrumentation is a 45° bank indication on
-the roll scale. This additional index on the roll scale allows
 Once the angle has exceeded 45°, the horizontal component
-the pilot to precisely roll into the desired bank angle instead
 of lift is now the greater force. If altitude should continue to
-of having to approximate it as is necessary with analog
 decrease and the pilot only applies back yoke pressure, the
-instrumentation. [Figure 7-68]
 aircraft’s turn radius begins to tighten due to the increased
 horizontal force. If aft control pressure continues to increase,
 there comes a point where the loss of the vertical component
 of lift and aerodynamic wing loading prohibits the nose of
 the aircraft from being raised. Any increase in pitch only
 tightens the turning radius.
-Peeeeeseses—‘—i—sSSSSSsSSSCiSYd;s
 The key to successfully performing a steep turn by reference
--
--
--
 to instruments alone is the thorough understanding of the
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 aerodynamics involved, as well as a quick and reliable cross-
-NAV1 108.00 113.00
-134.000 118.000 COM1
-‘NX
-NAV2 108.00 110.60
-123.800 118.000 COM2
 check. The pilot should utilize the trim to avoid holding
-oO
-oO
--
-a
 control forces for any period of time. With time and practice,
 a flight instructor can demonstrate how to successfully fly
-oO
-Ss
-oO
 steep turns with and without the use of trim. Once the aircraft
--1500
-270°
 is trimmed for the maneuver, accomplishing the maneuver is
--
-TAS 126KT
 virtually a hands-off effort. This allows additional time for
-VOR 1
 cross-checking and interpreting the instruments.
-oO
-J
-XPDR 5537 IDNT LCL23:00:34
-OAT 7°C
 It is imperative when correcting for a deviation in altitude,
-ALERTS
-oO
-oO
--
-_
-- -
 that the pilot modify the bank angle ±5° in order to vary the
-Figure 7-68. Steep left turn.
 vertical component of lift, not just adjust back pressure. These
 two actions should be accomplished simultaneously.
-As soon as the bank angle increases from level flight, the
 During the recovery from steep turns to straight-and-level
-vertical component of lift begins to decrease. If the vertical
 flight, aft control forces must be varied with the power control
-component of lift is allowed to continue to decrease, a
 to arrive back at entry altitude, heading and airspeed.
-pronounced loss of altitude is indicated on the altimeter
-along with the VSI tape, as well as the altitude trend
 Steps:
-indicator. Additionally, the airspeed begins to increase due
-to the lowered pitch attitude. It is very important to have
 1.
 Perform clearing turns.
-a comprehensive scan developed prior to training in steep
 2.
 Roll left into a 45° bank turn and immediately begin to
-turns. Utilization of all of the trend indicators, as well the
 increase the pitch attitude by approximately 3° to 5°.
-VSI, altimeter, and ASI, is essential in learning to fly steep
 3.
 As the bank rolls past 30°, increase power to maintain
-turns by reference to instruments alone.
 the entry airspeed.
-In order to avoid a loss of altitude, the pilot begins to slowly
 4.
 Apply trim to eliminate any aft control wheel forces.
-increase back pressure on the control yoke in order to increase
 5.
 Begin rolling out of the steep turn approximately 20°
-the pitch attitude. The pitch change required is usually no
 prior to the desired heading.
-more than 3 degrees to 5 degrees, depending on the type of
-aircraft. As the pilot increases back pressure, the angle of
 6.
 Apply forward control pressure and place the pitch
-attack increases, thus increasing the vertical component of
 attitude in the level cruise pitch attitude.
-lift. When a deviation in altitude is indicated, proper control
 7.
 Reduce power to the entry power setting to maintain
-force corrections need to be made. During initial training of
 the desired airspeed.
-steep turns, pilots have a tendency to overbank. Over banking
 8.
 Re-trim the aircraft as soon as practical or continue
-is when the bank angle exceeds 50°. As the outboard wing
 into a right hand steep turn and continue from step 3.
-begins to travel faster through the air, it begins to generate a
-7-54
 
 9.
 Once the maneuver is complete, establish cruise flight
@@ -5837,190 +3554,130 @@ displays red chevrons that point back to the horizon line. These
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-oO
-oO
-i
->
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-(e)
-a
-oO
-oO
-J
-a
-|
 GPS ENR
-oO
-oO
 ALERTS
-a
 Figure 7-69. Unusual attitude recovery protection. Note the brown horizon line is visible at the bottom.
 7-55
 
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV1 108.00 113.00
-134.000 118.000 COM1
-oOo
-oO
--
--
-NAV2 108.00 110.60
-123.800 118.000 COM2
-oO
-oO
-a
-oO
-oO
-J
-a
-|
--7150
-GPS ENR
-oO
-oO
-ALERTS
-a
-,
 Figure 7-70. Horizon line starts moving upward at 27°. Note that the blue sky remains visible at 17° nose-down.
-Figure 5-27. Horizon line starts moving upward at approximately 27 deg pitch down.
 chevrons are positioned at 50° up on the attitude indicator.
-The following picture series represents how important this
 The chevrons appear when the aircraft approaches a nose-high
-technology is in increasing situational awareness, and how
 attitude of 30°. The software automatically declutters the PFD
-critical it is in improving safety.
 leaving only airspeed, heading, attitude, altimeter, VSI tape,
 and the trend vectors. The decluttered information reappears
-Figure 7-72 shows the unusual attitude protection with valid
 when the pitch attitude falls below 25°.
-AHRS and air data computer (ADC) inputs. The bright red
-chevrons pointing down to the horizon indicate a nose-high
 For nose-low unusual attitudes, the chevrons are displayed
-unusual attitude that can be easily recognized and corrected.
 when the pitch exceeds 15° nose-down. If the pitch continues
 to decrease, the unusual attitude recovery protection de-
-NOTE: The red chevrons point back to the level pitch attitude.
 clutters the screen at 20° nose-down. The decluttered
-The trend indicators show where the airspeed and altitude will
 information reappears when the pitch increases above 15°.
-be in 6 seconds. The trend indicator on the heading indicator
-shows which direction the aircraft is turning. The slip/skid
 Additionally, there are bank limits that trigger the unusual
-indicator clearly shows if the aircraft is coordinated. This
 attitude protection. If the aircraft’s bank increases beyond
-information helps the pilot determine which type of unusual
 60°, a continuation of the roll index occurs to indicate the
-attitude the aircraft has taken.
 shortest direction to roll the wings back to level. At 65°, the
 PFD de-clutters. All information reappears when the bank
-Now look at Figure 7-73. The display shows the same
 decreases below 60°.
-airspeed as the picture above; however, the AHRS unit has
-failed. The altimeter and the VSI tape are the only clear
 In Figure 7-71, the aircraft has rolled past 60°. Observe the
-indications that the aircraft is in a nose-high attitude. The
 white line that continues from the end of the bank index.
-one key instrument that is no longer present is the slip/skid
 This line appears to indicate the shortest distance back to
-indicator. There is not a standby turn coordinator installed
 wings level.
-in the aircraft for the pilot to reference.
 When experiencing a failure of the AHRS unit, all unusual
-The magnetic compass indicates a heading is being
 attitude protection is lost. The failure of the AHRS results
-maintained; however, it is not as useful as a turn coordinator
 in the loss of all heading and attitude indications on the PFD.
-or slip/skid indicator.
 In addition, all modes of the autopilot, except for roll and
 altitude hold, are lost.
 7-56
-
-Figure 7-72. Unusual attitude protection with valid AHRS.y
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-oO
--
-Oo
->
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-oO
-a
-_
-—
-oO
-oO
-J
-,
-.
+-7150
+GPS ENR
+ALERTS
+The following picture series represents how important this
+technology is in increasing situational awareness, and how
+critical it is in improving safety.
+Figure 7-72 shows the unusual attitude protection with valid
+AHRS and air data computer (ADC) inputs. The bright red
+chevrons pointing down to the horizon indicate a nose-high
+unusual attitude that can be easily recognized and corrected.
+NOTE: The red chevrons point back to the level pitch attitude.
+The trend indicators show where the airspeed and altitude will
+be in 6 seconds. The trend indicator on the heading indicator
+shows which direction the aircraft is turning. The slip/skid
+indicator clearly shows if the aircraft is coordinated. This
+information helps the pilot determine which type of unusual
+attitude the aircraft has taken.
+Now look at Figure 7-73. The display shows the same
+airspeed as the picture above; however, the AHRS unit has
+failed. The altimeter and the VSI tape are the only clear
+indications that the aircraft is in a nose-high attitude. The
+one key instrument that is no longer present is the slip/skid
+indicator. There is not a standby turn coordinator installed
+in the aircraft for the pilot to reference.
+The magnetic compass indicates a heading is being
+maintained; however, it is not as useful as a turn coordinator
+or slip/skid indicator.
+
+Figure 7-71. Aircraft rolled past 60°.
+Figure 7-72. Unusual attitude protection with valid AHRS.
+WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
+NAV1 108.00 113.00
+134.000 118.000 COM1
+NAV2 108.00 110.60
+123.800 118.000 COM2
 -700
-—
 -100
 -200
-a
--300
 GPS ENR
-oO
-oO
 ALERTS
-a
-a
-,
-Figure 7-71. Aircraft rolled past 60°.
-Figure 5-28. Aircraft rolled past 60 degrees.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-oO
->
-oO
-af
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-oO
 ----
-a
-—
-oO
-(e}
-J
-,
-|
--300
 GPS ENR
-—a
-oO
-(e)
 ALERTS
-a
-Zz
-Figure 5-29. Unusual attitude protection with valid AHRS and ADC inputs.
 7-57
 
+Figure 7-73. AHRS unit failed.
+Figure 7-74 depicts an AHRS and ADC failure. In this failure
+scenario, there are no indications of the aircraft’s attitude. The
+manufacturer recommends turning on the autopilot, which is
+simply a wing leveler.
+With a failure of the primary instrumentation on the PFD, the
+only references available are the standby instruments. The
+standby instrumentation consists of an analog ASI, attitude
+indicator, altimeter, and magnetic compass. There is no
+standby turn coordinator installed.
+In extreme nose-high or nose-low pitch attitudes, as well
+as high bank angles, the analog attitude indicator has the
+potential to tumble, rendering it unusable.
+Autopilot Usage
+The autopilot is equipped with inputs from a turn coordinator
+installed behind the MFD screen. This turn coordinator is
+installed solely for the use of the autopilot to facilitate the
+roll mode, which is simply a wing leveler. This protection
+is always available, barring a failure of the turn coordinator
+(to aid the pilot if the aircraft attains an unusual attitude).
+NOTE: The pilot is not able to gain access to the turn
+coordinator. This instrument is installed behind the MFD
+panel. [Figure 7-75]
+Most EFD equipped aircraft are coming from the factory with
+autopilots installed. However, the purchaser of the aircraft
+can specify if an autopilot is to be installed. Extreme caution
+7-58
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-oOo
-oO
--
--
 NAV2 108.00 110.60
 123.800 118.000 COM2
 TRAFFIC
-oO
-oO
-a
 ATTITUDE FAIL
-oO
-oO
-J
-a
-|
 HDG
 HDG 273°
 CRS 071°
@@ -6028,81 +3685,43 @@ TAS 134KT
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
-oO
-oO
-a
-,
-Figure 7-73. AHRS unit failed.
-Figure 5-30. AHRS unit failed.
-Figure 7-74 depicts an AHRS and ADC failure. In this failure
 should be utilized when flying an EFD equipped aircraft
-scenario, there are no indications of the aircraft’s attitude. The
 without an autopilot in IMC with an AHRS and ADC failure.
-manufacturer recommends turning on the autopilot, which is
-simply a wing leveler.
 The autopilot should be utilized to reduce workload, which
 affords the pilot more time to monitor the flight. Utilization
-With a failure of the primary instrumentation on the PFD, the
 of the autopilot also decreases the chances of entry into an
-only references available are the standby instruments. The
 unusual attitude.
-standby instrumentation consists of an analog ASI, attitude
-indicator, altimeter, and magnetic compass. There is no
 Flying an EFD-equipped aircraft without the use of an autopilot
-standby turn coordinator installed.
 has been shown to increase workload and decrease situational
 awareness for pilots first learning to flying the new system.
-In extreme nose-high or nose-low pitch attitudes, as well
-as high bank angles, the analog attitude indicator has the
 Common Errors Leading to Unusual Attitudes
-potential to tumble, rendering it unusable.
 The following errors have the potential to disrupt a pilot’s
 situational awareness and lead to unusual attitudes.
-Autopilot Usage
 1.
 Improper trimming techniques. A failure to keep the
-The autopilot is equipped with inputs from a turn coordinator
 aircraft trimmed for level flight at all times can turn
-installed behind the MFD screen. This turn coordinator is
 a momentary distraction into an emergency situation
-installed solely for the use of the autopilot to facilitate the
 if the pilot stops cross-checking.
-roll mode, which is simply a wing leveler. This protection
 2.
 Poor crew resource management (CRM) skills. Failure
-is always available, barring a failure of the turn coordinator
 to perform all single-pilot resource management
-(to aid the pilot if the aircraft attains an unusual attitude).
 duties efficiently. A major cause of CRM-related
 accidents comes from the failure of the pilot to
-NOTE: The pilot is not able to gain access to the turn
 maintain an organized flight deck. Items that are
-coordinator. This instrument is installed behind the MFD
 being utilized for the flight portion should be neatly
-panel. [Figure 7-75]
 arranged for easy access. A disorganized flight deck
 can lead to a distraction that causes the pilot to cease
-Most EFD equipped aircraft are coming from the factory with
 cross-checking the instruments long enough to enter
-autopilots installed. However, the purchaser of the aircraft
 an unusual attitude.
-can specify if an autopilot is to be installed. Extreme caution
-7-58
 
+Figure 7-74. AHRS ADC failure.
+Figure 7-75. This autopilot requires roll information from a turn coordinator.
 WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
 NAV1 108.00 113.00
 134.000 118.000 COM1
-oO
-Oo
->
-J
 NAV2 108.00 110.60
 123.800 118.000 COM2
 TRAFFIC
-oO
-oO
-a
-a
 V
 A
 A
@@ -6128,11 +3747,6 @@ T
 I
 S
 I
-oO
-oO
-J
-a
-._
 E
 L
 U
@@ -6145,23 +3759,14 @@ E
 D
 E
 E
-—
 D
 HDG
 HDG 273°
 CRS 071°
-a
 TAS
 VOR 1
 XPDR 5537 IDNT LCL23:00:34
 OAT 7°C
-oO
-oO
-a
-a
-Figure 7-74. AHRS ADC failure.
-Figure 5-31. AHRS and ADC failure.
-Figure 7-75. This autopilot requires roll information from a turn coordinator.
 7-59
 
 3.

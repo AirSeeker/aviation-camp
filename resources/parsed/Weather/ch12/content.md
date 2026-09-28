@@ -1,12 +1,3 @@
-deep clouds capable of producing precipitation heavier than light intensity. —
-12 Vertical Motion and Clouds
-12.1 Introduction
-A cloud is a visible aggregate of minute water droplets and/or ice particles in the atmosphere above the
-Earth’s surface. Fog differs from clouds only in that the base of fog is at the Earth’s surface while clouds
-are above the surface. Clouds are like signposts in the sky that provide information on air motion, stability,
-and moisture. Clouds help pilots visualize weather conditions and potential weather hazards.
-Clouds form in the atmosphere as a result of condensation of water vapor in rising currents of air, or by the
-evaporation of the lowest layer of fog. Rising currents of air are necessary for the formation of vertically
 Chapter 12, Vertical Motion and Clouds
 12-1
 
@@ -28,46 +19,6 @@ surrounding the parcel does work on the parcel, and energy is added to the compr
 it. Thus, the temperature of a descending air parcel increases approximately 3°C per 1,000 ft
 (9.8°C per km). Concurrently, the dewpoint increases approximately 0.5°C per 1,000 ft (1.8°C per km).
 The parcel’s temperature-dewpoint spread increases, while its relative humidity decreases.
-Parcel
-Temperature-
-Relative
-Temperature/
-Dewpoint
-Humidity
-Dewpoint °C
-Spread
-(295)
-2.5°C
-84%
-Unsaturated
-=i
-(*)
-5°C
-71%
-Unsaturated
-e
-Le
-7.5°C
-60%
-Unsaturated
-s
-q
-12/2
-10°C
-51%
-Unsaturated
-pe
-ie i
-15/2.5
-12.5°C
-43%
-Unsaturated
-F
-=a
-(4813)
-15°C
-37%
-Unsaturated
 Figure 12-1. Unsaturated Ascending/Descending Air Parcel Example
 Chapter 12, Vertical Motion and Clouds
 12-2
@@ -88,52 +39,6 @@ occurs because some of the water vapor is condensed to water droplets or deposit
 a cloud. This process is triggered by the presence of microscopic cloud condensation (and ice) nuclei, such
 as dust, clay, soot, sulfate, and sea salt particles. The cloud grows vertically deeper as the parcel continues
 to rise.
-Parcel
-Temperature-
-Relative
-Temperature/
-Dewpoint
-Humidity
-Dewpoint °C
-Spread
-fA
-XY
-/
-\
-orc
-100%
-Saturated
-oc
-100%
-Saturated
-a}
-a
-{
-)(19)
-orc
-100%
-Saturated
-a
-)
-s
-(
-2.
-Lifting Condensation Level (42112
-oec
-100%
-Saturated
-(LCL)
-aul i
-5/12.5
-2.5°C
-85%
-Unsaturated
--
-=a
-(1ai3)
-sae
-73%
-Unsaturated
 Figure 12-2. Ascending Air Parcel That Becomes Saturated Example
 In Figure 12-2, at the surface the air parcel has a temperature of 18°C and a dewpoint of 13°C, indicating
 that it is unsaturated. As the parcel ascends, its temperature decreases at the dry adiabatic lapse rate of 3°C
@@ -150,46 +55,6 @@ the cloud. The relative humidity of the ascending saturated (i.e., cloudy) parce
 A descending saturated air parcel quickly becomes unsaturated (see Figure 12-3). Its temperature increases
 at 3°C per 1,000 ft, while its dewpoint increases at 0.5°C per 1,000 ft (see Table 12-1). The
 temperature-dewpoint spread increases while relative humidity decreases.
-Parcel
-Temperature-
-Relative
-Temperature/
-Dewpoint
-Humidity
-Dewpoint °C
-Spread
-(9) '
-orc
-100%
-Saturated
-=
-(288)
-2.5°C
-85%
-Unsaturated
-imw
-(#7)
-5°C
-72%
-Unsaturated
-Le
-=)
-45/7.5
-75°C
-61%
-Unsaturated
-} i
-18/8
-10°C
-52%
-Unsaturated
-“
-F
-=a
-6118.3)
-12.5°C
-45%
-Unsaturated
 Figure 12-3. Descending Air Parcel Example
 At 5,000 ft, both the temperature and dewpoint of the air parcel are 6°C, indicating that it is saturated. As
 the parcel descends, it quickly becomes unsaturated. Its temperature increases 3°C per 1,000 ft, while its
@@ -249,42 +114,6 @@ hundreds of miles to the lee of a prominent mountain range in a region known as 
 Chapter 12, Vertical Motion and Clouds
 12-5
 
-—
-eo
-Zz
-|
-Temp. = -79C
-2 10
-Dew Point = -79C
-Ww
-iyEWOY
-i
-MoIsT
-Rel. Humidity
-y
-:
-o
-(windward slope)
-’
-,sWarming.
-~—SCts«s(W@@Warrd slope)
-One
-zoe bao tect
-\ scrub Heet
-=
-2f
-ay
-ae
-s
-wa
-iz
-Level (LCL
-=
-4 Lifting Condensation
-000 Feet
-=
-Coolin
-3°C/1
 Figure 12-4. Orographic Effects Example
 The air parcel begins with a temperature of 15°C, dewpoint of 10°C, and a relative humidity of 80 percent
 at 2,000 ft. As the parcel is lifted on the windward slope, the temperature cools at the dry adiabatic lapse
@@ -314,7 +143,6 @@ Figure 12-5. Frictional Effects
 Frontal lift (see Figure 12-6) occurs when the cold, denser air wedges under the warm, less dense air,
 plowing it upward, and/or the warmer air rides up and over the colder air in a process called overrunning.
 Clouds and precipitation will form given sufficient lift and moisture content of the warm air.
-COLDAIR
 Figure 12-6. Frontal Lift
 12.4.4 Buoyancy
 Air near the ground can warm at different rates depending on the insular properties of the ground with
@@ -324,29 +152,23 @@ tend to push (i.e., lift) the less dense warm air aloft. On a grand scale, the t
 heating, and how high it will rise, is referred to as stability and is covered in Chapter 13, Atmospheric
 Stability.
 Chapter 12, Vertical Motion and Clouds
-: : ) |.
-WARM AIR
 12-7
 
 12.5 Cloud Forms
 There are four basic cloud forms (appearances) observed in the Earth’s atmosphere (see Table 12-2). See
 Appendix A, Cloud Types, for cloud types.
 Table 12-2. Cloud Forms
-~)
 High-level clouds that form above 20,000 ft (6,000 m) and are usually
 composed of ice crystals. High-level clouds are typically thin and white in
 appearance but can create an array of colors when the Sun is low on the
 horizon. Cirrus generally occur in fair weather and point in the direction of air
 movement at their elevation.
 Cirri-form
-a
 Nimbus comes from the Latin word meaning “rain.” These clouds typically
 form between 7,000 and 15,000 ft (2,100 to 4,600 m) and bring steady
-Win
 precipitation. As the clouds thicken and precipitation begins to fall, the bases
 of the clouds tend to lower toward the ground.
 Nimbo-form
-gS
 Clouds that look like white, fluffy cotton balls or heaps and show the vertical
 motion or thermal uplift of air taking place in the atmosphere. The level at
 which condensation and cloud formation begins is indicated by a flat cloud
@@ -356,7 +178,6 @@ over 60,000 ft (18,000 m).
 Cumuli-form
 Stratus is Latin for “layer” or “blanket.” The clouds consist of a featureless
 low layer that can cover the entire sky like a blanket, bringing generally gray
-Gna...
 and dull weather. The cloud bases are usually only a few hundred feet above
 the ground. When stratus clouds move over hills and mountains, they are able
 Strati-form

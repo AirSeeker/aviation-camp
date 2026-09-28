@@ -1,12 +1,3 @@
-performance, please see Chapter 8. |
-5 Heat and Temperature
-5.1 Introduction
-Temperature is one of the most basic variables used to describe the state of the atmosphere. Air temperature
-varies with time from one season to the next, between day and night, and even from one hour to the next.
-Air temperature also varies from one location to another, from high altitudes and latitudes to low altitudes
-and latitudes. Temperature can be critical to some flight operations. As a foundation for the study of
-temperature effects on aviation and weather, this chapter describes temperature, temperature measurement,
-and heat transfer and imbalances. For additional information on how temperature may affect flight
 Chapter 5, Heat and Temperature
 5-1
 
@@ -77,24 +68,6 @@ For temperature intervals rather than specific temperatures:
 A thermometer changes readings due to the addition or subtraction of heat. Heat and temperature are not
 the same, but they are related.
 Figure 5-1 gives a comparison of Kelvin, Celsius, and Fahrenheit temperature scales.
-K
-°c
-oF
-Boiling point
-of water at sea level
-Highest temperature recorded in world
-ElAzizia, Libya, September 13,1922
-Standard atmosphere at sea level
-Freezing point
-of water at sea level
--90
--129
-Lowest temperature recorded in world
-Vostok, Antarctica, July 21,1983
-fe)
--273
--459
-Absolute zero
 Figure 5-1. Comparison of Kelvin, Celsius, and Fahrenheit Temperature Scales
 Chapter 5, Heat and Temperature
 5-3
@@ -130,8 +103,6 @@ Eventually, the radiation is absorbed, and the electromagnetic wave energy is co
 the absorbing object. The emitting object loses heat energy, and the absorbing object gains heat energy
 during this process.
 Chapter 5, Heat and Temperature
->'S > pee
-tH
 5-4
 
 5.6.1.1 Solar and Terrestrial Radiation
@@ -140,8 +111,6 @@ An object’s wavelength of maximum radiation is inversely related to its temper
 object, the shorter (longer) the wavelength. The Sun’s wavelength of maximum radiation is relatively short
 and is centered in the visible spectrum. The Earth’s wavelength of maximum radiation is relatively long
 and is centered in the infrared spectrum.
-HOTTEROBJECTS;
-SHORTER WAVELENGTHS
 Figure 5-3. Temperature’s Effect on Radiation Wavelength
 Some of the solar radiation that reaches the Earth’s surface is radiated back into the atmosphere to become
 heat energy. Dark-colored objects such as asphalt absorb more of the radiant energy and warm faster than
@@ -158,8 +127,6 @@ increasing solar zenith angle, the Sun’s rays must pass through more of the Ea
 can be scattered and absorbed before reaching the Earth’s surface. Thus, the Sun can heat the surface to a
 much higher temperature when it is high in the sky, rather than low on the horizon.
 Chapter 5, Heat and Temperature
-COOLEROBJECTS EMIT
-LONGER WAVELENGTHS
 5-5
 
 Figure 5-4. Solar Zenith Angle
@@ -173,7 +140,6 @@ Heat (thermal) conductivity is the property of a substance that indicates its ab
 consequence of molecular motion. Units are watts per meter-kelvin (W m-1 K-1). Table 5-3 provides the
 heat (thermal) conductivity of various substances. Note that air is a poor thermal conductor.
 Chapter 5, Heat and Temperature
-I
 5-6
 
 Table 5-3. Heat (Thermal) Conductivity of Various Substances
@@ -253,11 +219,6 @@ lists the specific heat capacity of various substances.
 the University Corporation for Atmospheric Research (UCAR), sponsored in part through cooperative agreement(s)
 with NOAA, U.S. DOC. ©1997-2017 University Corporation for Atmospheric Research. All Rights Reserved.
 Chapter 5, Heat and Temperature
->Le ea
-! LS
-ae
-en
-es
 5-8
 
 Table 5-4. Specific Heat of Various Substances
@@ -363,29 +324,8 @@ seasonal temperature variations than localities well inland (continental locatio
 effect. Although both cities are at approximately the same latitude, the temperature is far less variable in
 San Francisco (maritime) than St. Louis (continental).
 Chapter 5, Heat and Temperature
-1 gram
-1 gram
-1 gram
-1 gram
-of water
-of sand
-of water
-of sand
-a
-ee,
-“ee.
-AFTER
-4.18 Joules
-of heat energy
-added
 5-10
 
-—
-Ena GE
-60 a
-i
-ZN
-FFM Fw SS VK FV”
 Figure 5-7. Variation of Mean Daily Temperatures for San Francisco (Maritime) and St. Louis (Continental)
 5.8 Temperature Variations with Altitude
 A lapse rate of temperature is defined as a decrease in temperature with height. In Figure 4-2, it was stated
@@ -402,68 +342,8 @@ by meteorologists to determine the state of the atmosphere.
 An isothermal layer is a layer within the atmosphere where the temperature remains constant with height
 (see Figure 5-8).
 Chapter 5, Heat and Temperature
-St.Louis
 5-11
 
-KM
-FEET
-39,000
-a
-~\.
-35,000
--
-9+30,000
-g
-oe
-&
-z
-oa
-G
-<
-NI
-&
-Fi
-IN
-620,000
-=
-a
-a
-ae
-=
-z
-y5
-w
-foot
-a
-=
-+
-|
-| TXT] |
-:
-310,000
-ft | | PNT TT
-:
-Pot
-HS
-*
-wit
-eee
-4,898pf
-EE
-NEEL]:
-,
-|
-| P|
-0-0
--30
--20
-40°C
-oe a
-i
-a i i
--20
-°F
-TEMPERATURE
 Figure 5-8. Sounding with an Isothermal Layer
 5.8.3 Temperature Inversion
 A temperature inversion, or simply inversion, is a layer in which the temperature increases with altitude. If
@@ -480,60 +360,6 @@ occur within it. Turbulence will be discussed at length in Chapter 19, Turbulenc
 Chapter 5, Heat and Temperature
 5-12
 
-KM
-FEET
--y
-39,000
-Qa
-"1
-Ro)
-35,000
--
-9+30,000
-g
-oe
-&
-zc
-<
-ns
-=
-N
-a
-a
-=
-6+20,000 =
-A
-g
-a
-NO
-z
-go
-INVERSION
-&
-f
-(ALOFT)
-a
-=
-310,000
-2E
-Lt ft
-| Tt
-7p 8
-eee. ae
-4,000 [| (SURFACE BASED)
-—y
-[T_T
-19-0
-,
--30
--20
-40°C
-ee
-ee
-ee
--20
-°F
-TEMPERATURE
 Figure 5-9. Sounding with a Temperature Inversion
 Chapter 5, Heat and Temperature
 5-13

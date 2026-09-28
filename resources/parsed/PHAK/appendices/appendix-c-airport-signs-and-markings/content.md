@@ -1,79 +1,48 @@
 Appendix C
 Airport Signs and Markings
-Signs and Markings
-Airport
 Airport Signs
 Type of Sign
 Action or Purpose
 Type of Sign
 Action or Purpose
-ap
-|
 Runway Safety Area Boundary:
-4-22
-A
 Taxiway/Runway Hold Position:
 Identifies exit boundary of runway
 Holding position for RWY 4-22 on TWY A.
 safety area.
-a
-ep
-26-8
 Runway/Runway Intersection:
 ILS Critical Area Boundary:
 Identifies intersecting runways or
 Identifies exit boundary of ILS critical area.
 holding position for LAHSO operations.
-ea
-f |
-J
 Taxiway Direction:
 Runway Approach Hold Position:
-B
-8-APCH
 Defines direction and designation of
 Runway approach holding position for
 intersecting taxiway(s).
 RWY 8 on TWY B.
-ap
-ee
 Runway Exit:
 ILS Critical Area Hold Position:
-ILS
-K
-C
 Defines direction and designation of exit
 Holding position for the ILS critical area
 taxiway from runway.
 on TWY C.
-eo
-a
 No Entry:
 Outbound Destination:
 Identifies paved areas where aircraft entry is
 Defines directions to takeoff runway(s).
 prohibited.
-&
-ee
 Inbound Destination:
-B
-MIL
 Taxiway Location:
 Defines directions to destination for
 Identifies taxiway on which aircraft is located.
 arriving aircraft.
-&
-S
 Taxiway Ending Marker:
 Runway Location:
 Indicates taxiway does not continue.
 Identifies runway on which aircraft is located.
-P|
-&
 Direction Sign Array:
 Runway Distance Remaining:
-A L
-G
 Identifies location in conjunction with
 Provides remaining runway length in 1,000-
 multiple intersecting taxiways.
@@ -105,53 +74,9 @@ A
 Figure C-2. A sample runway with various possible markings and signs.
 C-2
 
-@
-Taxiway location sign
-,
-Runway holding position sign at takeoff end
-@
-2a
-Runway holding position sign at other than takeoff end
-@
-Runway holding position marking
-,
-3a
-Holding position marking for runway approach area
-@
 33-15
-Elevated runway guard lights
-,
-Surface painted runway hold position sign
-,
-Enhanced centerline marking (located 150' prior to
-runway hold position marking)
-@
-Holding position sign for a runway approach area
 33-15
-@
-Runway safety area boundary sign (located on the
-backside of holding position sign)
-@
-Taxiway direction sign
-©
-Surface painted destination sign
-r
-Holding position sign for ILS critical area
-©
-Surface painted ILS critical area boundary marking
-@
-ILS critical area boundary sign (located on backside of
-ILS hold sign)
-©
-Blast pad
-©
-Runway holding position sign and marking for Land and
-Hold Short Operations (LAHSO)
-©
-Runway hold position sign for intersecting runways
-@
 A2
-Outbound destination sign
 15-33
 A2
 15-33
@@ -161,10 +86,10 @@ A
 A
 18-36
 2a
-36-18
 A2
-2a
 A
+36-18
+2a
 A
 C-3
 

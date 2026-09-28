@@ -6,13 +6,4 @@ To determine density altitude:
 4. Read the density altitude from the horizontal lines on Figure C-1.
 Figure C-1. Density Altitude Computation Chart
 Appendix C, Density Altitude Calculation
-ue,
-Leite
-eee, ees
-eee,
-Beeeee
-Ap
-ere
-mars
-RL
 C-1

@@ -1,7 +1,6 @@
 Chapter 2
 Aeronautical
 Decision-Making
-| |
 Introduction
 Aeronautical decision-making (ADM) is decision-making
 in a unique environment—aviation. It is a systematic
@@ -74,15 +73,11 @@ Flight Time
 23.4%
 15.7%
 13%
-yf
 9.7%
 4.7%
 3.5%
 3.3%
 2.6%
-_—
-|
-|
 Preflights/
 Takeoff/
 Climb
@@ -98,68 +93,58 @@ Figure 2-1. The percentage of aviation accidents as they relate to the different
 accidents take place during a minor percentage of the total flight.
 2-2
 
-Advisory
-ea.
-Circular
-EES ers me
-=o
-ey,
-aoe
-SS
-eee Steetto
-See
 Figure 2-2. Advisory Circular (AC) 60-22, “Aeronautical Decision Making,” carries a wealth of information for the pilot to learn.
 not received ADM training. The differences were statistically
-5.
-Using all resources
 significant and ranged from about 10 to 50 percent fewer
-6.
-Evaluating the effectiveness of one’s ADM skills
 judgment errors. In the operational environment, an operator
 flying about 400,000 hours annually demonstrated a 54
-Risk Management
 percent reduction in accident rate after using these materials
-The goal of risk management is to proactively identify
 for recurrency training.
-safety-related hazards and mitigate the associated risks. Risk
-management is an important component of ADM. When a
 Contrary to popular opinion, good judgment can be taught.
-pilot follows good decision-making practices, the inherent risk
 Tradition held that good judgment was a natural by-product
-in a flight is reduced or even eliminated. The ability to make
 of experience, but as pilots continued to log accident-free
-good decisions is based upon direct or indirect experience
 flight hours, a corresponding increase of good judgment
-and education. The formal risk management decision-making
 was assumed. Building upon the foundation of conventional
-process involves six steps as shown in Figure 2-3.
 decision-making, ADM enhances the process to decrease the
 probability of human error and increase the probability of a
-Consider automotive seat belt use. In just two decades, seat
 safe flight. ADM provides a structured, systematic approach
-belt use has become the norm, placing those who do not
 to analyzing changes that occur during a flight and how these
-wear seat belts outside the norm, but this group may learn to
 changes might affect the safe outcome of a flight. The ADM
-wear a seat belt by either direct or indirect experience. For
 process addresses all aspects of decision-making in the flight
-example, a driver learns through direct experience about the
 deck and identifies the steps involved in good decision-making.
-value of wearing a seat belt when he or she is involved in a car
-accident that leads to a personal injury. An indirect learning
 Steps for good decision-making are:
-experience occurs when a loved one is injured during a car
 1.
 Identifying personal attitudes hazardous to safe flight
-accident because he or she failed to wear a seat belt.
 2.
 Learning behavior modification techniques
-As you work through the ADM cycle, it is important to
 3.
 Learning how to recognize and cope with stress
-remember the four fundamental principles of risk management.
 4.
 Developing risk assessment skills
+5.
+Using all resources
+6.
+Evaluating the effectiveness of one’s ADM skills
+Risk Management
+The goal of risk management is to proactively identify
+safety-related hazards and mitigate the associated risks. Risk
+management is an important component of ADM. When a
+pilot follows good decision-making practices, the inherent risk
+in a flight is reduced or even eliminated. The ability to make
+good decisions is based upon direct or indirect experience
+and education. The formal risk management decision-making
+process involves six steps as shown in Figure 2-3.
+Consider automotive seat belt use. In just two decades, seat
+belt use has become the norm, placing those who do not
+wear seat belts outside the norm, but this group may learn to
+wear a seat belt by either direct or indirect experience. For
+example, a driver learns through direct experience about the
+value of wearing a seat belt when he or she is involved in a car
+accident that leads to a personal injury. An indirect learning
+experience occurs when a loved one is injured during a car
+accident because he or she failed to wear a seat belt.
+As you work through the ADM cycle, it is important to
+remember the four fundamental principles of risk management.
 2-3
 
 Crew Resource Management (CRM) and
@@ -169,7 +154,6 @@ Identify
 While CRM focuses on pilots operating in crew environments,
 Hazards
 many of the concepts apply to single-pilot operations. Many
->
 CRM principles have been successfully applied to single-pilot
 aircraft and led to the development of Single-Pilot Resource
 Monitor
@@ -181,11 +165,9 @@ of managing all the resources (both on-board the aircraft
 RISK
 and from outside sources) available to a single pilot (prior
 to and during flight) to ensure the successful outcome of the
-|
 MANAGEMENT
 flight. SRM includes the concepts of ADM, risk management
 PROCESS
->
 (RM), task management (TM), automation management
 (AM), controlled flight into terrain (CFIT) awareness, and
 Use
@@ -382,14 +364,12 @@ encountering potential instrument meteorological conditions
 experiences of other pilots, coupled with the forecast, might
 2-6
 Risk Assessment Matrix
--
 Severity
 Likelihood
 Catastrophic
 Critical
 Marginal
 Negligible
-_ a
 High
 High
 Serious
@@ -491,7 +471,6 @@ Column total
 TOTAL SCORE
 Endangerment
 Low risk
-J
 Not complex flight
 Exercise caution
 Area of concern
@@ -851,8 +830,6 @@ human factor principles into all aspects of aviation to include
 pilots, ATC, and aviation maintenance. Human factors is
 often considered synonymous with CRM or maintenance
 resource management (MRM) but is really much broader in
-7 ne ABCA
-at Ser
 Figure 2-8. Human factors effects pilots, aviation maintenance technicians (AMTs) and air traffic control (ATC).
 both its knowledge base and scope. Human factors involves
 gathering research specific to certain situations (i.e., flight,
@@ -877,9 +854,6 @@ groups were from the same school of 600 and their family
 demographics were similar.
 The accident-free group showed a superior knowledge
 of safety, was considered industrious and cooperative
-le-
-, rire
-|
 2-11
 
 with others, but were not considered physically inclined.
@@ -1060,18 +1034,12 @@ P before takeoff is to assist in making a reasoned go/no-go
 decision based on all the information available. That decision
 The SRM Five “Ps” Check
 will usually be to “go,” with certain restrictions and changes,
-—
-a
-ww
 but may also be a “no-go.” The key idea is that these two
 points in the process of flying are critical go/no-go points on
 THE PLAN
 THE PLANE
 THE PILOT
 each and every flight.
-|
-|
-ig
 The third place to review the 5 Ps is at the midpoint of the
 THE
 THE
@@ -1602,81 +1570,12 @@ necessitates application of additional left rudder application.
 Aeronautical Decision-Making
 A. Analytical
 B. Automatic/Naturalistic
-ro
-Situation
-Pilot
-Aircraft
-Enviroment
-External factors
-a
-iw
-Enviroment
-External factors
-Pilot
-Aircraft
-iv
-i
-a
-iw
-a
-iw
-a
-|
-=——sisdY
-|
-=——sisdY
-Detection
-Detection
-| 4
-i
-i
-Evaluation of event
-Evaluation of event
-i
-• Risk or hazard
-• Potential outcomes
-i
-• Capabilities of pilot
-• Aircraft capabilities
-• Risk to flight
-• Outside factors
-• Pilot training
-• Pilot experience
-i
-Outcome desired
-i
-i
-Outcome desired
-Solutions to get you there
-Solution 1
-Solution 2
-Solution 3
-i
-Solution 4
-Take action
-mm
-i
-What is best action to do
-i
-i
-Effect of decision
-|
-Successful
 Problem remains
-i
-Tt
-Done
 The DECIDE model
-eT
 1.
-eT
 2.
-eT
 3.
-eT
-eT
 5.
-ee
 6.
 Figure 2-14. The DECIDE model has been recognized worldwide. Its application is illustrated in column A while automatic/naturalistic
 decision-making is shown in column B.
@@ -1977,13 +1876,6 @@ Lack of knowledge, such as knowing if the oil pressure
 gauge is direct reading or uses a sensor, is the difference
 between making a wise decision or poor one that leads to
 a tragic error.
-——
-=
-a
-ee
-\
--_
-=
 Figure 2-17. When possible, have a passenger reconfirm that critical
 tasks are completed.
 Checklists are essential flight deck internal resources. They
@@ -2008,11 +1900,6 @@ and assistance in emergency situations. Although it is the
 PIC’s responsibility to make the flight as safe as possible,
 a pilot with a problem can request assistance from ATC.
 [Figure 2-18] For example, if a pilot needs to level off, be
-bY
->
-P
-q
-=
 Figure 2-18. Controllers work to make flights as safe as possible.
 2-23
 
@@ -2102,140 +1989,118 @@ cabin door that opened in VFR flight, the impact on workload
 should be insignificant. If the cabin door opens under
 IFR different conditions, its impact on workload changes.
 Therefore, placing a situation in the proper perspective,
-<=
-te
 Figure 2-19. Balancing workloads can be a difficult task.
-Ts
-~
-©
-~e
 
 remaining calm, and thinking rationally are key elements in
-•
-In addition to the SAFETY list, discuss with
 reducing stress and increasing the capacity to fly safely. This
-passengers whether or not smoking is permitted, flight
 ability depends upon experience, discipline, and training.
-route altitudes, time en route, destination, weather
-during flight, expected weather at the destination,
 Managing Risks
-controls and what they do, and the general capabilities
-and limitations of the aircraft.
 The ability to manage risks begins with preparation. Here
 are some things a pilot can do to manage risks:
 •
-Use a sterile flight deck (one that is completely silent
-with no pilot communication with passengers or by
-•
 Assess the flight’s risk based upon experience. Use
-passengers) from the time of departure to the first
 some form of risk assessment. For example, if the
-intermediate altitude and clearance from the local
 weather is marginal and the pilot has little IMC
-airspace.
 training, it is probably a good idea to cancel the flight.
 •
-Use a sterile flight deck during arrival from the first
-•
 Brief passengers using the SAFETY list:
-radar vector for approach or descent for the approach.
 S Seat belts fastened for taxi, takeoff, landing
-•
-Keep the passengers informed during times when the
 Shoulder harness fastened for takeoff, landing
-workload is low.
 Seat position adjusted and locked in place
-•
-Consider using the passenger in the right seat for
 A
 Air vents (location and operation)
-simple tasks, such as holding the chart. This relieves
-the pilot of a task.
 All environmental controls (discussed)
 Action in case of any passenger discomfort
-Automation
 F
 Fire extinguisher (location and operation)
-In the GA community, an automated aircraft is generally
 E
 Exit doors (how to secure; how to open)
-comprised of an integrated advanced avionics system
-consisting of a primary flight display (PFD), a multifunction
 Emergency evacuation plan
-flight display (MFD) including an instrument-certified global
 Emergency/survival kit (location and contents)
-positioning system (GPS) with traffic and terrain graphics,
 T
 Traffic (scanning, spotting, notifying pilot)
-and a fully integrated autopilot. This type of aircraft is
-commonly known as a technically advanced aircraft (TAA).
 Talking, (“sterile flight deck” expectations)
-In a TAA aircraft, there are typically two display (computer)
 Y
 Your questions? (Speak up!)
-screens: PFD (left display screen) and MFD.
-:
-High
-\
-Task load
-i
-Pilot capabilities
-Low
-a
-a
-Preflight
-Task requirements
-Time
-ee
-Takeoff
-a
-Cruise
-a
-Approach & landing
-Figure 2-20. The pilot has a certain capacity of doing work and handling tasks. However, there is a point where the tasking exceeds the
 pilot’s capability. When this happens, tasks are either not performed properly or some are not performed at all.
+•
+In addition to the SAFETY list, discuss with
+passengers whether or not smoking is permitted, flight
+route altitudes, time en route, destination, weather
+during flight, expected weather at the destination,
+controls and what they do, and the general capabilities
+and limitations of the aircraft.
+•
+Use a sterile flight deck (one that is completely silent
+with no pilot communication with passengers or by
+passengers) from the time of departure to the first
+intermediate altitude and clearance from the local
+airspace.
+•
+Use a sterile flight deck during arrival from the first
+radar vector for approach or descent for the approach.
+•
+Keep the passengers informed during times when the
+workload is low.
+•
+Consider using the passenger in the right seat for
+simple tasks, such as holding the chart. This relieves
+the pilot of a task.
+Automation
+In the GA community, an automated aircraft is generally
+comprised of an integrated advanced avionics system
+consisting of a primary flight display (PFD), a multifunction
+flight display (MFD) including an instrument-certified global
+positioning system (GPS) with traffic and terrain graphics,
+and a fully integrated autopilot. This type of aircraft is
+commonly known as a technically advanced aircraft (TAA).
+In a TAA aircraft, there are typically two display (computer)
+screens: PFD (left display screen) and MFD.
 2-25
 
 Automation is the single most important advance in aviation
-important to remember to check and confirm calculations.
 technologies. Electronic flight displays (EFDs) have made
-Always remember that it is up to the pilot to maintain basic
 vast improvements in how information is displayed and
-airmanship skills and use those skills often to maintain
 what information is available to the pilot. Pilots can access
-proficiency in all tasks.
 electronic databases that contain all of the information
 traditionally contained in multiple handbooks, reducing
-Although automation has made flying safer, automated
 clutter in the flight deck. [Figure 2-21]
-systems can make some errors more evident and sometimes
-hide other errors or make them less evident. There are
 MFDs are capable of displaying moving maps that mirror
-concerns about the effect of automation on pilots. In a study
 sectional charts. These detailed displays depict all airspace,
-published in 1995, the British Airline Pilots Association
 including Temporary Flight Restrictions (TFRs). MFDs are
-officially voiced its concern that “Airline pilots increasingly
 so descriptive that many pilots fall into the trap of relying
-lack ‘basic flying skills’ as a result of reliance on automation.”
 solely on the moving maps for navigation. Pilots also draw
 upon the database to familiarize themselves with departure
-This reliance on automation translates into a lack of basic flying
 and destination airport information.
-skills that may affect the pilot’s ability to cope with an in-flight
-emergency, such as sudden mechanical failure. The worry that
 More pilots now rely on electronic databases for flight
-pilots are becoming too reliant on automated systems and are
 planning and use automated flight planning tools rather
-not being encouraged or trained to fly manually has grown
 than planning the flight by the traditional methods of laying
-with the increase in the number of MFD flight decks.
 out charts, drawing the course, identifying navigation
 points (assuming a VFR flight), and using the POH to
-As automated flight decks began entering everyday line
 figure out the weight and balance and performance charts.
-operations, instructors and check airmen grew concerned
 Whichever method a pilot chooses to plan a flight, it is
+Figure 2-21. Electronic flight instrumentation comes in many
+systems and provides a myriad of information to the pilot.
+2-26
+important to remember to check and confirm calculations.
+Always remember that it is up to the pilot to maintain basic
+airmanship skills and use those skills often to maintain
+proficiency in all tasks.
+Although automation has made flying safer, automated
+systems can make some errors more evident and sometimes
+hide other errors or make them less evident. There are
+concerns about the effect of automation on pilots. In a study
+published in 1995, the British Airline Pilots Association
+officially voiced its concern that “Airline pilots increasingly
+lack ‘basic flying skills’ as a result of reliance on automation.”
+This reliance on automation translates into a lack of basic flying
+skills that may affect the pilot’s ability to cope with an in-flight
+emergency, such as sudden mechanical failure. The worry that
+pilots are becoming too reliant on automated systems and are
+not being encouraged or trained to fly manually has grown
+with the increase in the number of MFD flight decks.
+As automated flight decks began entering everyday line
+operations, instructors and check airmen grew concerned
 about some of the unanticipated side effects. Despite the
 promise of reducing human mistakes, the flight managers
 reported the automation actually created much larger errors
@@ -2248,35 +2113,18 @@ crews deteriorated due to over-reliance on computers. The
 flight crew managers said they worried that pilots would
 have less “stick-and-rudder” proficiency when those skills
 were needed to manually resume direct control of the aircraft.
-E
-S|
-:
-eae
 A major study was conducted to evaluate the performance
 of two groups of pilots. The control group was composed of
 pilots who flew an older version of a common twin-jet airliner
 equipped with analog instrumentation and the experimental
 group was composed of pilots who flew the same aircraft,
-:
--
-oO
--—_
-—-s=O»,.
-——— © L.
 but newer models equipped with an electronic flight
 instrument system (EFIS) and a flight management system
-”
-Re
-|
-aa
 (FMS). The pilots were evaluated in maintaining aircraft
 parameters, such as heading, altitude, airspeed, glideslope,
 and localizer deviations, as well as pilot control inputs. These
 were recorded during a variety of normal, abnormal, and
 emergency maneuvers during 4 hours of simulator sessions.
-Figure 2-21. Electronic flight instrumentation comes in many
-systems and provides a myriad of information to the pilot.
-2-26
 
 Results of the Study
 When pilots who had flown EFIS for several years were
@@ -2376,238 +2224,6 @@ aircraft and its systems as a risk control measure, but instead as
 a hazard with high risk potential. Discipline is key to success.
 2-27
 
-C)
-FY]
-f
-ee
-J
--
--
->»
-7”
-al
-al
-~
-Pa
-“7
-J
-4g
-J
->
-N
-=
-@
-.a
-GS
-W
-E
-e@
-NAV
-a
-S
-OBS
-_
-al
--
-J
--
-_
-.
-al
-aa
->
-P~
-al
-~~
-»
-J
-_
-_
-Gg
-Gg
-~
-_
-ll
-“a
--
->»
-a)
-N
->»
-_]
-@®
-a
-W
-E
-——
-_—£
-—
-=
->
-a)
-»
-—
--
-S
-OBS
--
--
--
-»
-J
-Fr
-a
-=
-—
-atl
-fr”
-~
-“a
-a
-al
-N
-~~
->»
->»
-=
-»
-il
-“a
-|
-W
-E
-s
-s
-J
-a
-S
-HDG
-=
--
-J
-_
-J
-i
--
--
--
-=
--
-[J
-*
--
--
--
--
--
--
-yj
-=
-ai
-»
->
-~
-~~
--
--
--
--
-C)
-i,
-{
--
-J
--
--
-NAV1 108.00 113.00
-134.000 118.000 COM1
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-NAV2 108.00 110.60
-123.800 118.000 COM2
-I
-I
-i
-Oo
-J
-*
-oO
-oO
-oO
-_
-_
->
-|
-Oo
-J
-‘e}
-oO
->
->
-270°
-.
-TAS 106KT
-sl
--
-OAT 7°C
-|
-|
-VOR 1
-—
-|
-——
-_—
-oO
-—
-=
-XPDR 5537 IDNT LCL 10:12:34
-——
--
-ALERTS
-Oo
-oO
-oO
--
--
->
-i
--
-»
--
--
-a
-q
-Y
-~
-\
-~
-~
-|
-a
-a
-,
-,
-~
-oO
-Oo
-J
-?
-,
-a
-a
-_
-sl
--
-=
-ai
-J
--
-Figure 2-22. Two similar flight decks equipped with the same information two different ways, analog and digital. What are they indicating?
-Chances are that the analog pilot will review the top display before the bottom display. Conversely, the digitally trained pilot will review
-the instrument panel on the bottom first.
-*
-|
-2-28
-
 Figure 2-23. An example of an autopilot system.
 Respect for Onboard Systems
 Automation can assist the pilot in many ways, but a
@@ -2661,24 +2277,6 @@ Before any pilot can master aircraft automation, he or she
 must first know how to fly the aircraft. Maneuvers training
 remains an important component of flight training because
 almost 40 percent of all GA accidents take place in the
-J
-!
-I
-X
-o
-es
-j =~
-|
-fim,
-Fn
-AA
-=
-—
-tl ae
-spo
-s
-—
-=.
 Figure 2-24. Examples of different platforms. Top to bottom are the
 Beechcraft Baron G58, Cirrus SR22, and Cirrus Entega.
 2-29

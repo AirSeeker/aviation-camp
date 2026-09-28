@@ -1,5 +1,4 @@
 Glossary
-Glossary
 Absolute accuracy. The ability to determine present position
 in space independently, and is most often used by pilots.
 Absolute altitude. The actual distance between an aircraft

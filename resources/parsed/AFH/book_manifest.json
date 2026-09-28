@@ -1,10 +1,11 @@
 {
   "bookName": "AFH",
   "sourcePdf": "resources/library/AFH/Airplane Flying Handbook (FAA-H-8083-3C) (full book).pdf",
-  "cacheKey": "c32c0663fa88cb5ce9a524525f1456bc836f76f8dc0d95727ea3ad1b2136e9e0",
+  "cacheKey": "119ffeac0cf7a0b985d4341061d7f41fa91388c351740460219853f3705aa8fc",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "Introduction to Flight Training",
       "startPage": 22,
       "endPage": 37,
       "images": [
@@ -335,6 +336,7 @@
     },
     {
       "chapter": "ch02",
+      "title": "Ground Operations",
       "startPage": 38,
       "endPage": 61,
       "images": [
@@ -627,6 +629,7 @@
     },
     {
       "chapter": "ch03",
+      "title": "Basic Flight Maneuvers",
       "startPage": 62,
       "endPage": 86,
       "images": [
@@ -1090,6 +1093,7 @@
     },
     {
       "chapter": "ch04",
+      "title": "Energy Management: Mastering Altitude and Airspeed Control",
       "startPage": 87,
       "endPage": 105,
       "images": [
@@ -1401,6 +1405,7 @@
     },
     {
       "chapter": "ch05",
+      "title": "Maintaining Aircraft Control: Upset Prevention and Recovery",
       "startPage": 106,
       "endPage": 132,
       "images": [
@@ -1750,6 +1755,7 @@
     },
     {
       "chapter": "ch06",
+      "title": "Takeoffs and Departure Climbs",
       "startPage": 133,
       "endPage": 146,
       "images": [
@@ -1947,6 +1953,7 @@
     },
     {
       "chapter": "ch07",
+      "title": "Ground Reference Maneuvers",
       "startPage": 147,
       "endPage": 164,
       "images": [
@@ -2220,6 +2227,7 @@
     },
     {
       "chapter": "ch08",
+      "title": "Airport Traffic Patterns",
       "startPage": 165,
       "endPage": 171,
       "images": [
@@ -2303,6 +2311,7 @@
     },
     {
       "chapter": "ch09",
+      "title": "Approaches and Landings",
       "startPage": 172,
       "endPage": 209,
       "images": [
@@ -3032,6 +3041,7 @@
     },
     {
       "chapter": "ch10",
+      "title": "Performance Maneuvers",
       "startPage": 210,
       "endPage": 217,
       "images": [
@@ -3115,6 +3125,7 @@
     },
     {
       "chapter": "ch11",
+      "title": "Night Operations",
       "startPage": 218,
       "endPage": 231,
       "images": [
@@ -3274,6 +3285,7 @@
     },
     {
       "chapter": "ch12",
+      "title": "Transition to Complex Airplanes",
       "startPage": 232,
       "endPage": 249,
       "images": [
@@ -3585,6 +3597,7 @@
     },
     {
       "chapter": "ch13",
+      "title": "Transition to Multiengine Airplanes",
       "startPage": 250,
       "endPage": 286,
       "images": [
@@ -4086,6 +4099,7 @@
     },
     {
       "chapter": "ch14",
+      "title": "Transition to Tailwheel Airplanes",
       "startPage": 287,
       "endPage": 294,
       "images": [
@@ -4188,6 +4202,7 @@
     },
     {
       "chapter": "ch15",
+      "title": "Transition to Turbopropeller-Powered Airplanes",
       "startPage": 295,
       "endPage": 309,
       "images": [
@@ -4480,6 +4495,7 @@
     },
     {
       "chapter": "ch16",
+      "title": "Transition to Jet-Powered Airplanes",
       "startPage": 310,
       "endPage": 334,
       "images": [
@@ -4848,6 +4864,7 @@
     },
     {
       "chapter": "ch17",
+      "title": "Transition to Light Sport Airplanes (LSA)",
       "startPage": 335,
       "endPage": 349,
       "images": [
@@ -5159,6 +5176,7 @@
     },
     {
       "chapter": "ch18",
+      "title": "Emergency Procedures",
       "startPage": 350,
       "endPage": 372,
       "images": [

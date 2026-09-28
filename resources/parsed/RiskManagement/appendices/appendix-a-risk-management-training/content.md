@@ -1,5 +1,4 @@
 Appendix A: Risk Management Training
-Appendix
 Integrating Risk Management Training and Other Training Requirements
 Application of risk management principles becomes more effective after specific training for this purpose. Sources of risk
 management training include flight or ground instructors, schools, and commercial sources.
@@ -12,5 +11,4 @@ Flight reviews, instrument proficiency checks, and other evaluation activities i
 management. These events should use scenarios designed to address the hazards and associated risks relevant to the pilot.
 For example, external pressures could be simulated using a “what if” scenario that might arise for a pilot who regularly flies
 associates or family to events that cannot be rescheduled.
-A: Risk Management Training
 A-1

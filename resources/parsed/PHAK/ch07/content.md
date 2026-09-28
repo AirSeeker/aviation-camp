@@ -1,7 +1,5 @@
 Chapter 7
 Aircraft Systems
-Aircraft Systems
-a
 Introduction
 This chapter covers the primary systems found on most
 aircraft. These include the engine, propeller, induction,
@@ -65,86 +63,6 @@ rows of cylinders are arranged in a circular pattern around
 the crankcase. The main advantage of a radial engine is the
 favorable power-to-weight ratio. [Figure 7-1]
 7-2
-~@
-_
-_
-N
-_
-ay
-N
-"4
-“
-A
--
-y
-_
-_
-~
-d
-—_
-=
--
-AN
-d
-_
-ig
-~
-og
-id
-A
-=
-_
-di
-,
-N
-™
-i
-_
-|
-~
-™
-»
-™
-™
-_
-™
-™
-a
-™
-|
-»
-_
-™
-~*~
-»
-a
-a
-|
-»
-|
-a
-——
-~
-~
--
-|
-,*\
-_
-P|
-a
-i
--
-= |
--
--
-Fs
-- |
->}
-S|
-|
-- |
-= |
-i
 Figure 7-1. Radial engine.
 In-line engines have a comparatively small frontal area, but
 their power-to-weight ratios are relatively low. In addition,
@@ -166,20 +84,6 @@ ratios because they have a comparatively small, lightweight
 crankcase. In addition, the compact cylinder arrangement
 reduces the engine’s frontal area and allows a streamlined
 installation that minimizes aerodynamic drag.
-ae
-~ od
-—
--
-~
-|
-C)
-—
-—
-|
-|
-|
-———
-—
 Opposed cylinders
 Figure 7-2. Horizontally opposed engine.
 
@@ -187,98 +91,35 @@ Depending on the engine manufacturer, all of these
 arrangements can be designed to utilize spark or compression
 Cylinder
 ignition and operate on either a two- or four-stroke cycle.
-q
-|
-i;
-4h
->
-|
-ri
-i
-|
-,
-FT
 In a two-stroke engine, the conversion of chemical energy
-|
-/|
-\ I
 into mechanical energy occurs over a two-stroke operating
-\
-,
 cycle. The intake, compression, power, and exhaust processes
 occur in only two strokes of the piston rather than the more
 common four strokes. Because a two-stroke engine has
 a power stroke upon each revolution of the crankshaft, it
 typically has higher power-to-weight ratio than a comparable
 Exhaust valve
-\|
-|
-~~
-/|
-|
 four-stroke engine. Due to the inherent inefficiency and
 Intake valve
 disproportionate emissions of the earliest designs, use of the
 two-stroke engine has been limited in aviation.
-J
-J
-y-
-_
-a
-a
-y
 Recent advances in material and engine design have
-ad
--
 reduced many of the negative characteristics associated
->
 with two-stroke engines. Modern two-stroke engines often
 Spark plug
--
 use conventional oil sumps, oil pumps, and full pressure
 Piston
 fed lubrication systems. The use of direct fuel injection
 Crankcase
 and pressurized air, characteristic of advanced compression
-a,
-»
-|
-—
-_
 ignition engines, make two-stroke compression ignition
-€
-_
-_
-wwii
-Z
-»
-|
-—
-»
-|
 engines a viable alternative to the more common four-stroke
-—
-»
-)
-|
-~ |
 spark ignition designs. [Figure 7-3]
-~ |
-~ |
-ww
-“N
 Spark ignition four-stroke engines remain the most common
-"|
-~~
-—_
-]
-]
 design used in GA today. [Figure 7-4] The main parts of a
-~ |
 Connecting rod
 Crankshaft
 spark ignition reciprocating engine include the cylinders,
-_
 crankcase, and accessory housing. The intake/exhaust valves,
 spark plugs, and pistons are located in the cylinders. The
 Figure 7-4. Main components of a spark ignition reciprocating
@@ -296,18 +137,12 @@ in four separate strokes of the piston in the following order.
 1. The intake stroke begins as the piston starts its
 downward travel. When this happens, the intake
 valve opens and the fuel-air mixture is drawn into the
-,
 cylinder.
-——
-y
 2. The compression stroke begins when the intake valve
 closes, and the piston starts moving back to the top of
 Piston
 the cylinder. This phase of the cycle is used to obtain
-'4
 a much greater power output from the fuel-air mixture
-~
-~
 once it is ignited.
 3. The power stroke begins when the fuel-air mixture is
 ignited. This causes a tremendous pressure increase
@@ -321,129 +156,84 @@ the crankshaft.
 7-3
 
 4. The exhaust stroke is used to purge the cylinder of
-of a diesel-fueled reciprocating engine lies in the physical
 burned gases. It begins when the exhaust valve opens,
-similarity of diesel and kerosene. Aircraft equipped with a
 and the piston starts to move toward the cylinder head
-diesel piston engine runs on standard aviation fuel kerosene,
 once again.
-which provides more independence, higher reliability, lower
-consumption, and operational cost saving.
 Even when the engine is operated at a fairly low speed,
 the four-stroke cycle takes place several hundred times
-In 1999, Thielert formed Thielert Aircraft Engines (TAE)
 each minute. [Figure 7-5] In a four-cylinder engine, each
-to design, develop, certify, and manufacture a brand-new
 cylinder operates on a different stroke. Continuous rotation
-Jet-A-burning diesel cycle engine (also known as jet-fueled
 of a crankshaft is maintained by the precise timing of the
-piston engine) for the GA industry. By March 2001, the first
 power strokes in each cylinder. Continuous operation of the
-prototype engine became the first certified diesel engine
 engine depends on the simultaneous function of auxiliary
-since World War II. TAE continues to design and develop
 systems, including the induction, ignition, fuel, oil, cooling,
-diesel cycle engines and other engine manufacturers, such as
 and exhaust systems.
-Société de Motorisations Aéronautiques (SMA), now offer
-jet-fueled piston engines as well. TAE engines can be found
 The latest advance in aircraft reciprocating engines was
-on the Diamond DA40 single and the DA42 Twin Star; the
 pioneered in the mid-1960s by Frank Thielert, who looked
-first diesel engine to be part of the type certificate of a new
 to the automotive industry for answers on how to integrate
-original equipment manufacturer (OEM) aircraft.
 diesel technology into an aircraft engine. The advantage
-These engines have also gained a toehold in the retrofit
-market with a supplemental type certificate (STC) to re-
 Exhaust valve
 Intake valve
-engine the Cessna 172 models and the Piper PA-28 family.
-The jet-fueled piston engine’s technology has continued to
-|
-/|
-\
-/
-progress and a full authority digital engine control (FADEC,
-\
-discussed more fully later in the chapter) is standard on such
-=
-~
-y
-equipped aircraft, which minimizes complication of engine
-a
-a
-g
-control. By 2007, various jet-fueled piston aircraft had logged
-“a
-well over 600,000 hours of service.
 Piston
 Spark plug
-a
-—
-Propeller
-~»
-_
-The propeller is a rotating airfoil, subject to induced drag,
-—
-J
-_
-~~
-wail
-_
-stalls, and other aerodynamic principles that apply to any
-—
-airfoil. It provides the necessary thrust to pull, or in some
-cases push, the aircraft through the air. The engine power is
 Crankshaft
 Connecting rod
-used to rotate the propeller, which in turn generates thrust
-very similar to the manner in which a wing produces lift.
 1. Intake
 2. Compression
+3. Power
+4. Exhaust
+Figure 7-5. The arrows in this illustration indicate the direction of
+motion of the crankshaft and piston during the four-stroke cycle.
+7-4
+of a diesel-fueled reciprocating engine lies in the physical
+similarity of diesel and kerosene. Aircraft equipped with a
+diesel piston engine runs on standard aviation fuel kerosene,
+which provides more independence, higher reliability, lower
+consumption, and operational cost saving.
+In 1999, Thielert formed Thielert Aircraft Engines (TAE)
+to design, develop, certify, and manufacture a brand-new
+Jet-A-burning diesel cycle engine (also known as jet-fueled
+piston engine) for the GA industry. By March 2001, the first
+prototype engine became the first certified diesel engine
+since World War II. TAE continues to design and develop
+diesel cycle engines and other engine manufacturers, such as
+Société de Motorisations Aéronautiques (SMA), now offer
+jet-fueled piston engines as well. TAE engines can be found
+on the Diamond DA40 single and the DA42 Twin Star; the
+first diesel engine to be part of the type certificate of a new
+original equipment manufacturer (OEM) aircraft.
+These engines have also gained a toehold in the retrofit
+market with a supplemental type certificate (STC) to re-
+engine the Cessna 172 models and the Piper PA-28 family.
+The jet-fueled piston engine’s technology has continued to
+progress and a full authority digital engine control (FADEC,
+discussed more fully later in the chapter) is standard on such
+equipped aircraft, which minimizes complication of engine
+control. By 2007, various jet-fueled piston aircraft had logged
+well over 600,000 hours of service.
+Propeller
+The propeller is a rotating airfoil, subject to induced drag,
+stalls, and other aerodynamic principles that apply to any
+airfoil. It provides the necessary thrust to pull, or in some
+cases push, the aircraft through the air. The engine power is
+used to rotate the propeller, which in turn generates thrust
+very similar to the manner in which a wing produces lift.
 The amount of thrust produced depends on the shape of the
 airfoil, the angle of attack (AOA) of the propeller blade, and
-\I
-J
-|
-/|
-\
-|
-/|
-wi
 the revolutions per minute (rpm) of the engine. The propeller
--
 itself is twisted so the blade angle changes from hub to tip.
-_
-a
-a
 The greatest angle of incidence, or the highest pitch, is at the
-bY
 hub while the smallest angle of incidence or smallest pitch
-=
-p |
 is at the tip. [Figure 7-6]
 The reason for the twist is to produce uniform lift from the
-y 4
->
-~
-—
 hub to the tip. As the blade rotates, there is a difference in
--
-_
-—
 the actual speed of the various portions of the blade. The tip
 of the blade travels faster than the part near the hub, because
 the tip travels a greater distance than the hub in the same
-3. Power
-4. Exhaust
 length of time. [Figure 7-7] Changing the angle of incidence
 (pitch) from the hub to the tip to correspond with the speed
 produces uniform lift throughout the length of the blade. A
-Figure 7-5. The arrows in this illustration indicate the direction of
 propeller blade designed with the same angle of incidence
-motion of the crankshaft and piston during the four-stroke cycle.
-7-4
 
 installed depends upon its intended use. The climb propeller
 has a lower pitch, therefore less drag. Less drag results in
@@ -451,8 +241,6 @@ higher rpm and more horsepower capability, which increases
 performance during takeoffs and climbs but decreases
 performance during cruising flight.
 The cruise propeller has a higher pitch, therefore more
-|
-a»
 drag. More drag results in lower rpm and less horsepower
 capability, which decreases performance during takeoffs and
 climbs but increases efficiency during cruising flight.
@@ -491,9 +279,7 @@ There are two types of fixed-pitch propellers: climb and
 air flow to the engine. At a given altitude, the higher the
 cruise. Whether the airplane has a climb or cruise propeller
 tachometer reading, the higher the power output of the engine.
-al
 When operating altitude increases, the tachometer may not
-»
 —v
 e
 nc
@@ -509,7 +295,6 @@ tr
 s
 er
 pe
--
 at
 ed
 show correct power output of the engine. For example, 2,300
@@ -536,7 +321,6 @@ el
 e
 v
 s
--
 a
 p
 tr
@@ -571,10 +355,7 @@ w
 v
 s
 a
-eal
 s
-»
-P~
 r
 p
 t
@@ -585,14 +366,9 @@ e
 o
 d
 h
-NJ)
-J
 S
 I5
 I5
-7"
->
-——
 —
 20 in.
 I0
@@ -608,16 +384,9 @@ r
 o
 t
 s
-_
-_
 I
 I0
 40 in.
-_
-|
-|
-|
-|
 m
 2,
 rp
@@ -718,9 +487,6 @@ engine’s operating range. The face of the manifold pressure
 gauge contains a green arc to show the normal operating
 range and a red radial line to indicate the upper limit of
 manifold pressure.
-al
-»
-P
 MANIFOLD
 PRESS
 IN Hg
@@ -824,104 +590,97 @@ while others operate manually.
 7-7
 
 Two types of induction systems are commonly used in small
-fuel to flow through a main fuel jet located at the throat. The
 aircraft engines:
-fuel then flows into the airstream where it is mixed with the
-flowing air. [Figure 7-10]
 1.
 The carburetor system mixes the fuel and air in
 the carburetor before this mixture enters the intake
-The fuel-air mixture is then drawn through the intake
 manifold.
-manifold and into the combustion chambers where it is
 2.
 The fuel injection system mixes the fuel and air
-ignited. The float-type carburetor acquires its name from a
 immediately before entry into each cylinder or injects
-float that rests on fuel within the float chamber. A needle
 fuel directly into each cylinder.
-attached to the float opens and closes an opening at the
-bottom of the carburetor bowl. This meters the amount of
 Carburetor Systems
-fuel entering into the carburetor, depending upon the position
 Aircraft carburetors are separated into two categories: float-
-of the float, which is controlled by the level of fuel in the
 type carburetors and pressure-type carburetors. Float-type
-float chamber. When the level of the fuel forces the float
 carburetors, complete with idling, accelerating, mixture
-to rise, the needle valve closes the fuel opening and shuts
 control, idle cutoff, and power enrichment systems, are the
-off the fuel flow to the carburetor. The needle valve opens
 most common of the two carburetor types. Pressure-type
-again when the engine requires additional fuel. The flow of
 carburetors are usually not found on small aircraft. The basic
-the fuel-air mixture to the combustion chambers is regulated
 difference between a float-type and a pressure-type carburetor
-by the throttle valve, which is controlled by the throttle in
 is the delivery of fuel. The pressure-type carburetor delivers
-the flight deck.
 fuel under pressure by a fuel pump.
-The float-type carburetor has several distinct disadvantages.
 In the operation of the float-type carburetor system, the
-First, they do not function well during abrupt maneuvers.
 outside air first flows through an air filter, usually located
-Secondly, the discharge of fuel at low pressure leads to
 at an air intake in the front part of the engine cowling. This
-incomplete vaporization and difficulty in discharging
 filtered air flows into the carburetor and through a venturi, a
-fuel into some types of supercharged systems. The chief
 narrow throat in the carburetor. When the air flows through
-disadvantage of the float-type carburetor, however, is its
 the venturi, a low-pressure area is created that forces the
-icing tendency. Since the float-type carburetor must discharge
-Fuel inlet
 Fuel-air mixture
-Float chamber
 The blend of fuel and
-Fuel level is maintained
-Fuel is received into
 air is routed to the
-by a float-type device.
-the carburetor through
 combustion chambers
-the fuel inlet.
-:
 to be burned.
 Throttle valve
-_
-~~
 The flow of the fuel-air
-»
 mixture is controlled by
 the throttle valve. The
 throttle valve is adjusted
-—
 from the flight deck by
 the throttle.
-Fuel
 Venturi
 The shape of the venturi
 creates an area of low
 pressure.
-:
+Discharge nozzle
+Fuel is forced through
+the discharge nozzle
+into the venturi by
+greater atmospheric
+pressure in the float
+chamber.
+Figure 7-10. Float-type carburetor.
+7-8
+fuel to flow through a main fuel jet located at the throat. The
+fuel then flows into the airstream where it is mixed with the
+flowing air. [Figure 7-10]
+The fuel-air mixture is then drawn through the intake
+manifold and into the combustion chambers where it is
+ignited. The float-type carburetor acquires its name from a
+float that rests on fuel within the float chamber. A needle
+attached to the float opens and closes an opening at the
+bottom of the carburetor bowl. This meters the amount of
+fuel entering into the carburetor, depending upon the position
+of the float, which is controlled by the level of fuel in the
+float chamber. When the level of the fuel forces the float
+to rise, the needle valve closes the fuel opening and shuts
+off the fuel flow to the carburetor. The needle valve opens
+again when the engine requires additional fuel. The flow of
+the fuel-air mixture to the combustion chambers is regulated
+by the throttle valve, which is controlled by the throttle in
+the flight deck.
+The float-type carburetor has several distinct disadvantages.
+First, they do not function well during abrupt maneuvers.
+Secondly, the discharge of fuel at low pressure leads to
+incomplete vaporization and difficulty in discharging
+fuel into some types of supercharged systems. The chief
+disadvantage of the float-type carburetor, however, is its
+icing tendency. Since the float-type carburetor must discharge
+Fuel inlet
+Float chamber
+Fuel level is maintained
+Fuel is received into
+by a float-type device.
+the carburetor through
+the fuel inlet.
+Fuel
 Mixture needle
 The mixture needle
-Discharge nozzle
--
 controls fuel to the
-Fuel is forced through
 discharge nozzle.
-the discharge nozzle
 Mixture needle position
-J
-__-———
-into the venturi by
 can be adjusted using
-greater atmospheric
 the mixture control.
-pressure in the float
 Air bleed
-chamber.
 Air inlet
 The air bleed allows air to be mixed
 with fuel being drawn out of the
@@ -929,8 +688,6 @@ Air enters the carburetor
 discharge nozzle to decrease fuel
 through the air inlet.
 density and promote fuel vaporization.
-Figure 7-10. Float-type carburetor.
-7-8
 
 fuel at a point of low pressure, the discharge nozzle must be
 located at the venturi throat, and the throttle valve must be
@@ -1003,24 +760,10 @@ This temperature drop can be as much as 60 to 70 absolute
 (versus relative) Fahrenheit degrees (70 x 100/180 = 38.89
 To engine
 Fuel-air mixture
-'
-i
-_
-~*~
-»
 Ice
-=
-=
-—
 Ice
 Ice
 Venturi
-™
--_F
-_,
-}
-r
-ee
 Incoming air
 Figure 7-11. The formation of carburetor ice may reduce or block
 fuel-air flow to the engine.
@@ -1129,100 +872,61 @@ carburetor icing is possible under conditions not depicted.
 7-10
 
 Since the use of carburetor heat tends to reduce the output
-Celsius and Fahrenheit. It provides the outside or ambient
 of the engine and to increase the operating temperature,
-air temperature for calculating true airspeed and is useful in
 carburetor heat should not be used when full power is required
-detecting potential icing conditions.
 (as during takeoff) or during normal engine operation, except
-Fuel Injection Systems
 to check for the presence of, or to remove, carburetor ice.
-In a fuel injection system, the fuel is injected directly into
 Carburetor Air Temperature Gauge
-the cylinders, or just ahead of the intake valve. The air
-intake for the fuel injection system is similar to that used
 Some aircraft are equipped with a carburetor air temperature
-in a carburetor system, with an alternate air source located
 gauge, which is useful in detecting potential icing conditions.
-within the engine cowling. This source is used if the external
 Usually, the face of the gauge is calibrated in degrees Celsius
-air source is obstructed. The alternate air source is usually
 with a yellow arc indicating the carburetor air temperatures
-operated automatically, with a backup manual system that
 where icing may occur. This yellow arc typically ranges
-can be used if the automatic feature malfunctions.
 between –15 °C and +5 °C (5 °F and 41 °F). If the air
 temperature and moisture content of the air are such that
-A fuel injection system usually incorporates six basic
 carburetor icing is improbable, the engine can be operated
-components: an engine-driven fuel pump, a fuel-air control
 with the indicator in the yellow range with no adverse effects.
-unit, a fuel manifold (fuel distributor), discharge nozzles,
 If the atmospheric conditions are conducive to carburetor
-an auxiliary fuel pump, and fuel pressure/flow indicators.
 icing, the indicator must be kept outside the yellow arc by
-[Figure 7-13]
 application of carburetor heat.
-The auxiliary fuel pump provides fuel under pressure to the
 Certain carburetor air temperature gauges have a red radial
-fuel-air control unit for engine starting and/or emergency
 that indicates the maximum permissible carburetor inlet air
-use. After starting, the engine-driven fuel pump provides fuel
 temperature recommended by the engine manufacturer. If
-under pressure from the fuel tank to the fuel-air control unit.
 present, a green arc indicates the normal operating range.
-This control unit, which essentially replaces the carburetor,
 Outside Air Temperature Gauge
-meters fuel based on the mixture control setting and sends it
 Most aircraft are also equipped with an outside air
-to the fuel manifold valve at a rate controlled by the throttle.
 temperature (OAT) gauge calibrated in both degrees
-Fuel tank
-ot
-i
-wT
-———
-Auxiliary fuel pump
-—
-a
-|
-_—
-"J
-A
-—_
-=
-Engine-driven fuel pump
-~
-|
--
-——
-\l
-—-
-"y
-_
-|
-\
-—
-‘N
-—
-~~
-|
--
-——
-—
-a
-zi
-—
-va
-_
--
-“a
-“I
-Fuel-air control unit
 Fuel lines
-Fuel manifold valve
--
 Figure 7-13. Fuel injection system.
+Fuel manifold valve
+Celsius and Fahrenheit. It provides the outside or ambient
+air temperature for calculating true airspeed and is useful in
+detecting potential icing conditions.
+Fuel Injection Systems
+In a fuel injection system, the fuel is injected directly into
+the cylinders, or just ahead of the intake valve. The air
+intake for the fuel injection system is similar to that used
+in a carburetor system, with an alternate air source located
+within the engine cowling. This source is used if the external
+air source is obstructed. The alternate air source is usually
+operated automatically, with a backup manual system that
+can be used if the automatic feature malfunctions.
+A fuel injection system usually incorporates six basic
+components: an engine-driven fuel pump, a fuel-air control
+unit, a fuel manifold (fuel distributor), discharge nozzles,
+an auxiliary fuel pump, and fuel pressure/flow indicators.
+[Figure 7-13]
+The auxiliary fuel pump provides fuel under pressure to the
+fuel-air control unit for engine starting and/or emergency
+use. After starting, the engine-driven fuel pump provides fuel
+under pressure from the fuel tank to the fuel-air control unit.
+This control unit, which essentially replaces the carburetor,
+meters fuel based on the mixture control setting and sends it
+to the fuel manifold valve at a rate controlled by the throttle.
+Fuel tank
+Auxiliary fuel pump
+Engine-driven fuel pump
+Fuel-air control unit
 7-11
 
 After reaching the fuel manifold valve, the fuel is distributed
@@ -1415,74 +1119,47 @@ This small heat exchanger uses outside air to cool the hot
 compressed air before it enters the fuel metering device.
 7-13
 
-.
 Turbocharger
-Throttle body
-Intake manifold
 The turbocharger in-
-This regulates airflow
-Pressurized air from the
 corporates a turbine,
-to the engine.
-turbocharger is supplied
 which is driven by ex-
-to the cylinders.
 haust gases and a com-
 pressor that pressurizes
-—
-—
 the incoming air.
-—_
-.
-4g
-~
-q
-4)
-_
-_
-_
--
--
-.
-q
-|
-3}
-3}
--
-3}
-oO}
-:
-~
-nN
-—
-|
-|
-—
-|
-/
-©
-|
-_"
-_"
--
--
-» 3
-» 3
-s
-s
-q
-|
-—
-Oe
-Oe
-_
-a
-—
-q
-an
-a
-|
-\
+Exhaust gas discharge
+Figure 7-15. Turbocharger components.
+System Operation
+On most modern turbocharged engines, the position of
+the waste gate is governed by a pressure-sensing control
+mechanism coupled to an actuator. Engine oil directed into
+or away from this actuator moves the waste gate position.
+On these systems, the actuator is automatically positioned to
+produce the desired MAP simply by changing the position
+of the throttle control.
+Other turbocharging system designs use a separate manual
+control to position the waste gate. With manual control,
+the manifold pressure gauge must be closely monitored to
+determine when the desired MAP has been achieved. Manual
+systems are often found on aircraft that have been modified
+with aftermarket turbocharging systems. These systems
+require special operating considerations. For example, if the
+waste gate is left closed after descending from a high altitude,
+it is possible to produce a manifold pressure that exceeds the
+engine’s limitations. This condition, called an overboost,
+may produce severe detonation because of the leaning effect
+resulting from increased air density during descent.
+Although an automatic waste gate system is less likely to
+experience an overboost condition, it can still occur. If takeoff
+power is applied while the engine oil temperature is below its
+normal operating range, the cold oil may not flow out of the
+7-14
+Throttle body
+Intake manifold
+This regulates airflow
+Pressurized air from the
+to the engine.
+turbocharger is supplied
+to the cylinders.
 Waste gas
 Exhaust manifold
 This controls the amount
@@ -1497,233 +1174,161 @@ turbocharger where it is
 position is actuated by
 the turbine which drives
 compressed.
-Exhaust gas discharge
 engine oil pressure.
 the compressor.
-Figure 7-15. Turbocharger components.
-System Operation
 waste gate actuator quickly enough to prevent an overboost.
 To help prevent overboosting, advance the throttle cautiously
-On most modern turbocharged engines, the position of
 to prevent exceeding the maximum manifold pressure limits.
-the waste gate is governed by a pressure-sensing control
-mechanism coupled to an actuator. Engine oil directed into
 A pilot flying an aircraft with a turbocharger should be aware
-or away from this actuator moves the waste gate position.
 of system limitations. For example, a turbocharger turbine
-On these systems, the actuator is automatically positioned to
 and impeller can operate at rotational speeds in excess of
-produce the desired MAP simply by changing the position
 80,000 rpm while at extremely high temperatures. To achieve
-of the throttle control.
 high rotational speed, the bearings within the system must be
 constantly supplied with engine oil to reduce the frictional
-Other turbocharging system designs use a separate manual
 forces and high temperature. To obtain adequate lubrication,
-control to position the waste gate. With manual control,
 the oil temperature should be in the normal operating range
-the manifold pressure gauge must be closely monitored to
 before high throttle settings are applied. In addition, allow
-determine when the desired MAP has been achieved. Manual
 the turbocharger to cool and the turbine to slow down before
-systems are often found on aircraft that have been modified
 shutting the engine down. Otherwise, the oil remaining in
-with aftermarket turbocharging systems. These systems
 the bearing housing will boil, causing hard carbon deposits
-require special operating considerations. For example, if the
 to form on the bearings and shaft. These deposits rapidly
-waste gate is left closed after descending from a high altitude,
 deteriorate the turbocharger’s efficiency and service life. For
-it is possible to produce a manifold pressure that exceeds the
 further limitations, refer to the AFM/POH.
-engine’s limitations. This condition, called an overboost,
-may produce severe detonation because of the leaning effect
 High Altitude Performance
-resulting from increased air density during descent.
 As an aircraft equipped with a turbocharging system climbs,
 the waste gate is gradually closed to maintain the maximum
-Although an automatic waste gate system is less likely to
 allowable manifold pressure. At some point, the waste gate
-experience an overboost condition, it can still occur. If takeoff
 is fully closed and further increases in altitude cause the
-power is applied while the engine oil temperature is below its
 manifold pressure to decrease. This is the critical altitude,
-normal operating range, the cold oil may not flow out of the
-7-14
 
 which is established by the aircraft or engine manufacturer.
-slightly higher power output. If one of the magnetos fails, the
 When evaluating the performance of the turbocharging
-other is unaffected. The engine continues to operate normally,
 system, be aware that if the manifold pressure begins
-although a slight decrease in engine power can be expected.
 decreasing before the specified critical altitude, the engine
-The same is true if one of the two spark plugs in a cylinder fails.
 and turbocharging system should be inspected by a qualified
 aviation maintenance technician (AMT) to verify that the
-The operation of the magneto is controlled in the flight deck
 system is operating properly.
-by the ignition switch. The switch has five positions:
-1. OFF
 Ignition System
-2. R (right)
 In a spark ignition engine, the ignition system provides a
-3. L (left)
 spark that ignites the fuel-air mixture in the cylinders and is
 made up of magnetos, spark plugs, high-tension leads, and
-4. BOTH
 an ignition switch. [Figure 7-16]
-5. START
 A magneto uses a permanent magnet to generate an electrical
-With RIGHT or LEFT selected, only the associated magneto
 current completely independent of the aircraft’s electrical
-is activated. The system operates on both magnetos when
 system. The magneto generates sufficiently high voltage
-BOTH is selected.
 to jump a spark across the spark plug gap in each cylinder.
 The system begins to fire when the starter is engaged and the
-A malfunctioning ignition system can be identified during
 crankshaft begins to turn. It continues to operate whenever
-the pretakeoff check by observing the decrease in rpm that
 the crankshaft is rotating.
+Most standard certificated aircraft incorporate a dual ignition
+system with two individual magnetos, separate sets of wires,
+and spark plugs to increase reliability of the ignition system.
+Each magneto operates independently to fire one of the two
+spark plugs in each cylinder. The firing of two spark plugs
+improves combustion of the fuel-air mixture and results in a
+Upper magneto wires
+Lower magneto wires
+Left magneto
+Figure 7-16. Ignition system components.
+slightly higher power output. If one of the magnetos fails, the
+other is unaffected. The engine continues to operate normally,
+although a slight decrease in engine power can be expected.
+The same is true if one of the two spark plugs in a cylinder fails.
+The operation of the magneto is controlled in the flight deck
+by the ignition switch. The switch has five positions:
+1. OFF
+2. R (right)
+3. L (left)
+4. BOTH
+5. START
+With RIGHT or LEFT selected, only the associated magneto
+is activated. The system operates on both magnetos when
+BOTH is selected.
+A malfunctioning ignition system can be identified during
+the pretakeoff check by observing the decrease in rpm that
 occurs when the ignition switch is first moved from BOTH
 to RIGHT and then from BOTH to LEFT. A small decrease
-Most standard certificated aircraft incorporate a dual ignition
 in engine rpm is normal during this check. The permissible
-system with two individual magnetos, separate sets of wires,
 decrease is listed in the AFM or POH. If the engine stops
-and spark plugs to increase reliability of the ignition system.
 running when switched to one magneto or if the rpm drop
-Each magneto operates independently to fire one of the two
 exceeds the allowable limit, do not fly the aircraft until
-spark plugs in each cylinder. The firing of two spark plugs
 the problem is corrected. The cause could be fouled plugs,
-improves combustion of the fuel-air mixture and results in a
-ste
-Upper magneto wires
-Upper spark plugs
 Lower spark plugs
-Lower magneto wires
-.
-—
-|
-|
-. &F
-|
-|
-~ &F
->»
-_
-, 4
-a
-_
--
-Left magneto
 Right magneto
-=
-Figure 7-16. Ignition system components.
 7-15
 
-Reciprocating engines use either a wet-sump or a dry-sump
 broken or shorted wires between the magneto and the plugs,
-oil system. In a wet-sump system, the oil is located in a sump
 or improperly timed firing of the plugs. It should be noted
-that is an integral part of the engine. In a dry-sump system,
 that “no drop” in rpm is not normal, and in that instance, the
-the oil is contained in a separate tank and circulated through
 aircraft should not be flown.
-the engine by pumps. [Figure 7-17]
 Following engine shutdown, turn the ignition switch to the
-The main component of a wet-sump system is the oil pump,
 OFF position. Even with the battery and master switches
-which draws oil from the sump and routes it to the engine. After
 OFF, the engine can fire and turn over if the ignition switch
-the oil passes through the engine, it returns to the sump. In
 is left ON and the propeller is moved because the magneto
-some engines, additional lubrication is supplied by the rotating
 requires no outside source of electrical power. Be aware of
-crankshaft, which splashes oil onto portions of the engine.
 the potential for serious injury in this situation.
-An oil pump also supplies oil pressure in a dry-sump
 Even with the ignition switch in the OFF position, if
-system, but the source of the oil is located external to the
 the ground wire between the magneto and the ignition
-engine in a separate oil tank. After oil is routed through
 switch becomes disconnected or broken, the engine could
-the engine, it is pumped from the various locations in the
 accidentally start if the propeller is moved with residual fuel
-engine back to the oil tank by scavenge pumps. Dry-sump
 in the cylinder. If this occurs, the only way to stop the engine
-systems allow for a greater volume of oil to be supplied to
 is to move the mixture lever to the idle cutoff position, then
-the engine, which makes them more suitable for very large
 have the system checked by a qualified AMT.
-reciprocating engines.
 Oil Systems
-The oil pressure gauge provides a direct indication of the oil
 The engine oil system performs several important functions:
-system operation. It ensures the pressure in pounds per square
 •
 Lubrication of the engine’s moving parts
-inch (psi) of the oil supplied to the engine. Green indicates
-the normal operating range, while red indicates the minimum
 •
 Cooling of the engine by reducing friction
-and maximum pressures. There should be an indication of
 •
 Removing heat from the cylinders
-oil pressure during engine start. Refer to the AFM/POH for
 •
 Providing a seal between the cylinder walls and pistons
-manufacturer limitations.
 •
 Carrying away contaminants
-ste
-i
-TT
-_
-Oil filler cap and dipstick
--|
-a
-|
-|
-Engine
 Sump oil and return
-and
 oil from relief valve
-Accessory
-|
--
-Bearings
-|
-|
-|
 Pressure oil from
-—
-Oil sump
 oil pump
-~~
-|
--
 Low pressure oil screen
-Oil pressure relief valve
-=
-=
-Oil pump
-»
-~~»
-|
-al
-»
 High pressure oil screen
+Oil cooler and filter
+Figure 7-17. Wet-sump oil system.
+7-16
+Reciprocating engines use either a wet-sump or a dry-sump
+oil system. In a wet-sump system, the oil is located in a sump
+that is an integral part of the engine. In a dry-sump system,
+the oil is contained in a separate tank and circulated through
+the engine by pumps. [Figure 7-17]
+The main component of a wet-sump system is the oil pump,
+which draws oil from the sump and routes it to the engine. After
+the oil passes through the engine, it returns to the sump. In
+some engines, additional lubrication is supplied by the rotating
+crankshaft, which splashes oil onto portions of the engine.
+An oil pump also supplies oil pressure in a dry-sump
+system, but the source of the oil is located external to the
+engine in a separate oil tank. After oil is routed through
+the engine, it is pumped from the various locations in the
+engine back to the oil tank by scavenge pumps. Dry-sump
+systems allow for a greater volume of oil to be supplied to
+the engine, which makes them more suitable for very large
+reciprocating engines.
+The oil pressure gauge provides a direct indication of the oil
+system operation. It ensures the pressure in pounds per square
+inch (psi) of the oil supplied to the engine. Green indicates
+the normal operating range, while red indicates the minimum
+and maximum pressures. There should be an indication of
+oil pressure during engine start. Refer to the AFM/POH for
+manufacturer limitations.
+Oil filler cap and dipstick
+Oil sump
+Oil pressure relief valve
 II5
-—
 I00
 P
 T
 P
 R
-Oil cooler and filter
 E
 °F
 S
@@ -1736,95 +1341,72 @@ I00
 P
 S
 OIL
-Figure 7-17. Wet-sump oil system.
-7-16
 
 The oil temperature gauge measures the temperature of oil.
-Air cooling is accomplished by air flowing into the engine
 A green area shows the normal operating range, and the red
-compartment through openings in front of the engine
 line indicates the maximum allowable temperature. Unlike
-cowling. Baffles route this air over fins attached to the engine
 oil pressure, changes in oil temperature occur more slowly.
-cylinders, and other parts of the engine, where the air absorbs
 This is particularly noticeable after starting a cold engine,
-the engine heat. Expulsion of the hot air takes place through
 when it may take several minutes or longer for the gauge to
-one or more openings in the lower, aft portion of the engine
 show any increase in oil temperature.
-cowling. [Figure 7-19]
 Check oil temperature periodically during flight especially
-The outside air enters the engine compartment through an
 when operating in high or low ambient air temperature.
-inlet behind the propeller hub. Baffles direct it to the hottest
 High oil temperature indications may signal a plugged oil
-parts of the engine, primarily the cylinders, which have fins
 line, a low oil quantity, a blocked oil cooler, or a defective
-that increase the area exposed to the airflow.
 temperature gauge. Low oil temperature indications may
 signal improper oil viscosity during cold weather operations.
-The air cooling system is less effective during ground
-operations, takeoffs, go-arounds, and other periods of high-
 The oil filler cap and dipstick (for measuring the oil quantity)
-power, low-airspeed operation. Conversely, high-speed
 are usually accessible through a panel in the engine cowling. If
-descents provide excess air and can shock cool the engine,
 the quantity does not meet the manufacturer’s recommended
-subjecting it to abrupt temperature fluctuations.
 operating levels, oil should be added. The AFM/POH or
 placards near the access panel provide information about
-Operating the engine at higher than its designed temperature
 the correct oil type and weight, as well as the minimum and
-can cause loss of power, excessive oil consumption, and
 maximum oil quantity. [Figure 7-18]
-detonation. It will also lead to serious permanent damage,
-such as scoring the cylinder walls, damaging the pistons and
 Engine Cooling Systems
-rings, and burning and warping the valves. Monitoring the
-flight deck engine temperature instruments aids in avoiding
 The burning fuel within the cylinders produces intense
-high operating temperature.
 heat, most of which is expelled through the exhaust system.
 Much of the remaining heat, however, must be removed, or
-Under normal operating conditions in aircraft not equipped
 at least dissipated, to prevent the engine from overheating.
-with cowl flaps, the engine temperature can be controlled
 Otherwise, the extremely high engine temperatures can lead
 to loss of power, excessive oil consumption, detonation, and
 serious engine damage.
-|
-Cylinders
 While the oil system is vital to the internal cooling of the
 engine, an additional method of cooling is necessary for the
-Baffle
-Air inlet
 engine’s external surface. Most small aircraft are air cooled,
 although some are liquid cooled.
-—
-¥
-ee
-~
-—_—
--
-.
-|
-,
-__|
-J
-__|
-J
-__|
-—
-s
-Baffle
-—
-A
-ae
-\
-Fixed cowl opening
 Figure 7-18. Always check the engine oil level during the preflight
-Figure 7-19. Outside air aids in cooling the engine.
 inspection.
+Air cooling is accomplished by air flowing into the engine
+compartment through openings in front of the engine
+cowling. Baffles route this air over fins attached to the engine
+cylinders, and other parts of the engine, where the air absorbs
+the engine heat. Expulsion of the hot air takes place through
+one or more openings in the lower, aft portion of the engine
+cowling. [Figure 7-19]
+The outside air enters the engine compartment through an
+inlet behind the propeller hub. Baffles direct it to the hottest
+parts of the engine, primarily the cylinders, which have fins
+that increase the area exposed to the airflow.
+The air cooling system is less effective during ground
+operations, takeoffs, go-arounds, and other periods of high-
+power, low-airspeed operation. Conversely, high-speed
+descents provide excess air and can shock cool the engine,
+subjecting it to abrupt temperature fluctuations.
+Operating the engine at higher than its designed temperature
+can cause loss of power, excessive oil consumption, and
+detonation. It will also lead to serious permanent damage,
+such as scoring the cylinder walls, damaging the pistons and
+rings, and burning and warping the valves. Monitoring the
+flight deck engine temperature instruments aids in avoiding
+high operating temperature.
+Under normal operating conditions in aircraft not equipped
+with cowl flaps, the engine temperature can be controlled
+Cylinders
+Baffle
+Air inlet
+Baffle
+Fixed cowl opening
+Figure 7-19. Outside air aids in cooling the engine.
 7-17
 
 by changing the airspeed or the power output of the engine.
@@ -1922,49 +1504,22 @@ very controlled and predictable manner. In a spark ignition
 engine, the process occurs in a fraction of a second. The
 mixture actually begins to burn at the point where it is ignited
 
-\
-/
-\
-|
-/|
 External
-I
 External
 power plug
-yy
-_
-~~
-*
 power
 relay
-[
-p \
-§
 +
 +
--
 M
-*
 A
 Starter
-_
-a
 I
-|
-A
-”
-_
-—
-Ss
--
 N
-_
 Battery
-™
 B
 U
 Normal combustion
-Explosion
 S
 Figure 7-21. Normal combustion and explosive combustion.
 Battery
@@ -1972,33 +1527,22 @@ Battery
 Maintaining extended ground operations or steep
 Starter
 contactor
-J
 contactor
 climbs in which cylinder cooling is reduced
 (solenoid)
-,
-™
--
 Detonation may be avoided by following these basic
 R
 B
 B
-|
 L
 guidelines during the various phases of ground and flight
 A
 A
->»
--
 OFF
-N
 operations:
 L
 T
-» 4
 S
-_3
-|
 T
 •
 Ensure that the proper grade of fuel is used.
@@ -2052,6 +1596,7 @@ pressures in conjunction with low rpm
 •
 Operation of the engine at high power settings with
 an excessively lean mixture
+Explosion
 7-19
 
 Detonation and preignition often occur simultaneously and
@@ -2188,17 +1733,8 @@ are fuel efficient. The minimum specific fuel consumption
 between a turbojet and turboshaft engine is that on a
 Fuel injector
 Turbine
-—___
 Inlet
 Hot gases
-—___—
-—_____
-‘
-.
-‘
-J
-.
-.
 Compressor
 Combustion chamber
 Nozzle
@@ -2208,76 +1744,6 @@ Compressor
 Combustion chamber
 Inlet
 Exhaust
-@
-q
-|
-q
-|
-|
-x |
-|
-|
-q
-|
-|
-|
-|
-"
-|
-|
-|
-|
-.
-|
-|
-|
-|
-|
-|
-. |
-|
-|
-|
-|
-|
-|
-|
-.
-|
-. |
-|
-|
-|
-.
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-. |
-|
-¢
-—_
-|
-"
-.
-al
-al
 Fuel injector
 Turbine
 Prop
@@ -2288,149 +1754,14 @@ Fuel injector
 Turbine
 Duct fan
 Inlet
-Fg—
-Hot gases
--—
-—
-—
-|
-ee
-_f
-+
-'
-’
-’
-+
-'
-'
-_]
 Primary air stream
 Secondary air stream
-Compressor
-Combustion chamber
-Nozzle
 Figure 7-25. Turbofan engine.
 Inlet
 Compressor
 Exhaust
 Power shaft
 Combustion chamber
-q
-|
-|
-|
-|
-q
-|
-|
-"
-s |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-.
-|
-|
-. |
-|
-|
-|
-|
-|
-|
-|
-|
-|
-i.
-.
-|
-|
-|
-|
-.
-|
-'
-|
-3 |
-|
-.
-J
-|
-|
-|
-|
-"
-|
-.
-|
-|
-|
-|
-|
-.
-|
-|
-3 |
-|
-|
-’
-|
-|
-|
-3 |
-|
-|
-|
-|
-|
-|
-|
-|
-"
-|
-3 |
-|
-|
-.
-.
-,
-|
-|
-.|
-|
-. |
-.
-|
-|
-|
-|
-|
-|
-'
-a]
-'
-|
-'
-’
-‘
-™
-™
-|
-‘
-"
-‘
-™~
-a]
 Compressor turbine
 Free (power) turbine
 Figure 7-26. Turboshaft engine.
@@ -2482,233 +1813,173 @@ shaft. The torquemeter measures power applied to the shaft.
 7-22
 
 Turboprop and turboshaft engines are designed to produce
-temperatures also results in decreased thrust. While both
 torque for driving a propeller. Torquemeters are calibrated
-turbine and reciprocating powered engines are affected to
 in percentage units, foot-pounds, or psi.
-some degree by high relative humidity, turbine engines will
-experience a negligible loss of thrust, while reciprocating
 N1 Indicator
-engines a significant loss of brake horsepower.
 N1 represents the rotational speed of the low pressure
-Foreign Object Damage (FOD)
 compressor and is presented on the indicator as a percentage
 of design rpm. After start, the speed of the low pressure
-Due to the design and function of a turbine engine’s air inlet,
 compressor is governed by the N1 turbine wheel. The N1
-the possibility of ingestion of debris always exists. This
 turbine wheel is connected to the low pressure compressor
-causes significant damage, particularly to the compressor
 through a concentric shaft.
-and turbine sections. When ingestion of debris occurs, it is
-called foreign object damage (FOD). Typical FOD consists
 N2 Indicator
-of small nicks and dents caused by ingestion of small objects
-from the ramp, taxiway, or runway, but FOD damage caused
 N2 represents the rotational speed of the high pressure
-by bird strikes or ice ingestion also occur. Sometimes FOD
 compressor and is presented on the indicator as a percentage of
-results in total destruction of an engine.
 design rpm. The high pressure compressor is governed by the
 N2 turbine wheel. The N2 turbine wheel is connected to the high
-Prevention of FOD is a high priority. Some engine inlets
 pressure compressor through a concentric shaft. [Figure 7-27]
-have a tendency to form a vortex between the ground and
-the inlet during ground operations. A vortex dissipater may
 Turbine Engine Operational Considerations
-be installed on these engines. Other devices, such as screens
 The great variety of turbine engines makes it impractical to
-and/or deflectors, may also be utilized. Preflight procedures
 cover specific operational procedures, but there are certain
-include a visual inspection for any sign of FOD.
 operational considerations common to all turbine engines.
 They are engine temperature limits, foreign object damage,
-Turbine Engine Hot/Hung Start
 hot start, compressor stall, and flameout.
-When the EGT exceeds the safe limit of an aircraft, it
 Engine Temperature Limitations
-experiences a “hot start.” This is caused by too much fuel
-entering the combustion chamber or insufficient turbine rpm.
 The highest temperature in any turbine engine occurs at the
-Any time an engine has a hot start, refer to the AFM/POH or an
 turbine inlet. TIT is therefore usually the limiting factor in
-appropriate maintenance manual for inspection requirements.
 turbine engine operation.
-If the engine fails to accelerate to the proper speed after
 Thrust Variations
-ignition or does not accelerate to idle rpm, a hung or false start
 Turbine engine thrust varies directly with air density. As air
-has occurred. A hung start may be caused by an insufficient
 density decreases, so does thrust. Additionally, because air
-starting power source or fuel control malfunction.
 density decreases with an increase in temperature, increased
-Compressor Stalls
 Low pressure
 High pressure
-Compressor blades are small airfoils and are subject to the
 compressor (N1)
 compressor (N2)
+High pressure compressor drive shaft
+Low pressure compressor drive shaft
+Figure 7-27. Dual-spool axial-flow compressor.
+temperatures also results in decreased thrust. While both
+turbine and reciprocating powered engines are affected to
+some degree by high relative humidity, turbine engines will
+experience a negligible loss of thrust, while reciprocating
+engines a significant loss of brake horsepower.
+Foreign Object Damage (FOD)
+Due to the design and function of a turbine engine’s air inlet,
+the possibility of ingestion of debris always exists. This
+causes significant damage, particularly to the compressor
+and turbine sections. When ingestion of debris occurs, it is
+called foreign object damage (FOD). Typical FOD consists
+of small nicks and dents caused by ingestion of small objects
+from the ramp, taxiway, or runway, but FOD damage caused
+by bird strikes or ice ingestion also occur. Sometimes FOD
+results in total destruction of an engine.
+Prevention of FOD is a high priority. Some engine inlets
+have a tendency to form a vortex between the ground and
+the inlet during ground operations. A vortex dissipater may
+be installed on these engines. Other devices, such as screens
+and/or deflectors, may also be utilized. Preflight procedures
+include a visual inspection for any sign of FOD.
+Turbine Engine Hot/Hung Start
+When the EGT exceeds the safe limit of an aircraft, it
+experiences a “hot start.” This is caused by too much fuel
+entering the combustion chamber or insufficient turbine rpm.
+Any time an engine has a hot start, refer to the AFM/POH or an
+appropriate maintenance manual for inspection requirements.
+If the engine fails to accelerate to the proper speed after
+ignition or does not accelerate to idle rpm, a hung or false start
+has occurred. A hung start may be caused by an insufficient
+starting power source or fuel control malfunction.
+Compressor Stalls
+Compressor blades are small airfoils and are subject to the
 same aerodynamic principles that apply to any airfoil. A
 compressor blade has an AOA that is a result of inlet air
-,
 velocity and the compressor’s rotational velocity. These two
-i]
-}
-|
-.
-.
-}
-.
-.
-.
-.
-.
 forces combine to form a vector, which defines the airfoil’s
--
--
--
-—
-_
-_
-_
-=
-~
 actual AOA to the approaching inlet air.
-|
-‘|
 A compressor stall is an imbalance between the two vector
--
-,
-|
-|
-a
-|
 quantities, inlet velocity, and compressor rotational speed.
-J
-a
 Compressor stalls occur when the compressor blades’ AOA
 exceeds the critical AOA. At this point, smooth airflow
-High pressure compressor drive shaft
 is interrupted and turbulence is created with pressure
 fluctuations. Compressor stalls cause air flowing in the
-Low pressure compressor drive shaft
 compressor to slow down and stagnate, sometimes reversing
 direction. [Figure 7-28]
-Figure 7-27. Dual-spool axial-flow compressor.
 7-23
 
-A more common flameout occurrence is due to low fuel
-pressure and low engine speeds, which typically are
-—
-—_
-a
-associated with high-altitude flight. This situation may also
-—
-—
-occur with the engine throttled back during a descent, which
 Normal inlet airflow
-|
-|
-|
-can set up the lean-condition flameout. A weak mixture can
-easily cause the flame to die out, even with a normal airflow
-through the engine.
-=
--
-~~
-Any interruption of the fuel supply can result in a
 Distorted inlet airflow
-+
-—
-™
-flameout. This may be due to prolonged unusual attitudes,
-|
->
-é
-™
-~
-~
-sy
-a malfunctioning fuel control system, turbulence, icing, or
->
-~
-i
-.
->
-+
-J
-running out of fuel.
--
-Symptoms of a flameout normally are the same as those
-following an engine failure. If the flameout is due to a
 Figure 7-28. Comparison of normal and distorted airflow into the
-transitory condition, such as an imbalance between fuel
 compressor section.
-flow and engine speed, an airstart may be attempted once
-the condition is corrected. In any case, pilots must follow
 Compressor stalls can be transient and intermittent or steady
-the applicable emergency procedures outlined in the AFM/
 and severe. Indications of a transient/intermittent stall are
-POH. Generally these procedures contain recommendations
 usually an intermittent “bang” as backfire and flow reversal
-concerning altitude and airspeed where the airstart is most
 take place. If the stall develops and becomes steady, strong
-likely to be successful.
 vibration and a loud roar may develop from the continuous
 flow reversal. Often, the flight deck gauges do not show
-Performance Comparison
 a mild or transient stall, but they do indicate a developed
-It is possible to compare the performance of a reciprocating
 stall. Typical instrument indications include fluctuations
-powerplant and different types of turbine engines. For
 in rpm and an increase in exhaust gas temperature. Most
-the comparison to be accurate, thrust horsepower (usable
 transient stalls are not harmful to the engine and often correct
-horsepower) for the reciprocating powerplant must be used
 themselves after one or two pulsations. The possibility of
-rather than brake horsepower, and net thrust must be used
 severe engine damage from a steady state stall is immediate.
-for the turbine-powered engines. In addition, aircraft design
 Recovery must be accomplished by quickly reducing power,
-configuration and size must be approximately the same.
 decreasing the aircraft’s AOA, and increasing airspeed.
-When comparing performance, the following definitions
 Although all gas turbine engines are subject to compressor
-are useful:
 stalls, most models have systems that inhibit them. One
 system uses a variable inlet guide vane (VIGV) and variable
-•
-Brake horsepower (BHP)—the horsepower actually
 stator vanes that direct the incoming air into the rotor blades
-delivered to the output shaft. Brake horsepower is the
 at an appropriate angle. To prevent air pressure stalls,
-actual usable horsepower.
 operate the aircraft within the parameters established by the
-•
-Net thrust—the thrust produced by a turbojet or
 manufacturer. If a compressor stall does develop, follow the
-turbofan engine.
 procedures recommended in the AFM/POH.
-•
-Thrust horsepower (THP)—the horsepower equivalent
-of the thrust produced by a turbojet or turbofan engine.
 Flameout
 A flameout occurs in the operation of a gas turbine engine in
-Equivalent shaft horsepower (ESHP)—with respect
 which the fire in the engine unintentionally goes out. If the
-to turboprop engines, the sum of the shaft horsepower
 rich limit of the fuel-air ratio is exceeded in the combustion
-(SHP) delivered to the propeller and THP produced by the
 chamber, the flame will blow out. This condition is often
-exhaust gases.
 referred to as a rich flameout. It generally results from
 very fast engine acceleration where an overly rich mixture
-Figure 7-29 shows how four types of engines compare in net
 causes the fuel temperature to drop below the combustion
-thrust as airspeed is increased. This figure is for explanatory
 temperature. It may also be caused by insufficient airflow
 to support combustion.
 7-24
+A more common flameout occurrence is due to low fuel
+pressure and low engine speeds, which typically are
+associated with high-altitude flight. This situation may also
+occur with the engine throttled back during a descent, which
+can set up the lean-condition flameout. A weak mixture can
+easily cause the flame to die out, even with a normal airflow
+through the engine.
+Any interruption of the fuel supply can result in a
+flameout. This may be due to prolonged unusual attitudes,
+a malfunctioning fuel control system, turbulence, icing, or
+running out of fuel.
+Symptoms of a flameout normally are the same as those
+following an engine failure. If the flameout is due to a
+transitory condition, such as an imbalance between fuel
+flow and engine speed, an airstart may be attempted once
+the condition is corrected. In any case, pilots must follow
+the applicable emergency procedures outlined in the AFM/
+POH. Generally these procedures contain recommendations
+concerning altitude and airspeed where the airstart is most
+likely to be successful.
+Performance Comparison
+It is possible to compare the performance of a reciprocating
+powerplant and different types of turbine engines. For
+the comparison to be accurate, thrust horsepower (usable
+horsepower) for the reciprocating powerplant must be used
+rather than brake horsepower, and net thrust must be used
+for the turbine-powered engines. In addition, aircraft design
+configuration and size must be approximately the same.
+When comparing performance, the following definitions
+are useful:
+•
+Brake horsepower (BHP)—the horsepower actually
+delivered to the output shaft. Brake horsepower is the
+actual usable horsepower.
+•
+Net thrust—the thrust produced by a turbojet or
+turbofan engine.
+•
+Thrust horsepower (THP)—the horsepower equivalent
+of the thrust produced by a turbojet or turbofan engine.
+Equivalent shaft horsepower (ESHP)—with respect
+to turboprop engines, the sum of the shaft horsepower
+(SHP) delivered to the propeller and THP produced by the
+exhaust gases.
+Figure 7-29 shows how four types of engines compare in net
+thrust as airspeed is increased. This figure is for explanatory
 
 maximum speed than aircraft equipped with a turboprop or
 reciprocating powerplant.
@@ -2729,13 +2000,10 @@ fuel must be available to the engine under all conditions
 of engine power, altitude, attitude, and during all approved
 flight maneuvers. Two common classifications apply to fuel
 systems in small aircraft: gravity-feed and fuel-pump systems.
-J
-J
-J
-J
-J
-A B
-C D
+A
+B
+C
+D
 E
 F
 Gravity-Feed System
@@ -2744,9 +2012,8 @@ The gravity-feed system utilizes the force of gravity to
 transfer the fuel from the tanks to the engine. For example, on
 Figure 7-29. Engine net thrust versus aircraft speed and drag. Points
 high-wing airplanes, the fuel tanks are installed in the wings.
-_
-_
-A through F are explained in the text below.
+A through
+F are explained in the text below.
 This places the fuel tanks above the carburetor, and the fuel
 is gravity fed through the system and into the carburetor. If
 purposes only and is not for specific models of engines. The
@@ -2815,41 +2082,26 @@ accuracy in fuel gauges only when they read “empty.” Any
 reading other than “empty” should be verified. Do not depend
 Right tank
 solely on the accuracy of the fuel quantity gauges. Always
-eel
 visually check the fuel level in each tank during the preflight
 inspection, and then compare it with the corresponding fuel
 Left tank
-a
 quantity indication.
 BOTH
-~
-_
 RIGHT
 LEFT
-™~
 If a fuel pump is installed in the fuel system, a fuel pressure
 Strainer
 OFF
 Vent
 gauge is also included. This gauge indicates the pressure in
 the fuel lines. The normal operating pressure can be found
-—
 Selector valve
 in the AFM/POH or on the gauge by color coding.
-a
 Fuel Selectors
-|
-=
 The fuel selector valve allows selection of fuel from various
-7|
-|
--
-©
 tanks. A common type of selector valve contains four
-Ma
 Carburetor
 positions: LEFT, RIGHT, BOTH, and OFF. Selecting the
-a
 Primer
 LEFT or RIGHT position allows fuel to feed only from the
 Gravity-feed system
@@ -2859,16 +2111,7 @@ Engine-driven pump
 Carburetor
 used to balance the amount of fuel remaining in each wing
 tank. [Figure 7-31]
-=
->
-|
-=
-—|
-ww
-=
 Fuel placards show any limitations on fuel tank usage, such
--
-a]
 as “level flight only” and/or “both” for landings and takeoffs.
 Strainer
 Regardless of the type of fuel selector in use, fuel
@@ -2881,10 +2124,8 @@ Selector valve
 prolonged periods on one tank causes an unbalanced fuel load
 between tanks. Running a tank completely dry may allow air
 Right tank
-AN
 BOTH
 to enter the fuel system and cause vapor lock, which makes
-~
 Left tank
 RIGHT
 LEFT
@@ -2893,9 +2134,6 @@ fuel becomes so hot it vaporizes in the fuel line, not allowing
 OFF
 fuel to reach the cylinders.
 Fuel-pump system
-a
-—
-—
 Figure 7-30. Gravity-feed and fuel-pump systems.
 O
 T
@@ -2909,18 +2147,12 @@ O
 E
 DI
 K
-G
-T
-AL
 NG
 H
-A
 G
 A
-TT
 I
 L
-IT
 T
 F
 UD
@@ -2933,7 +2165,6 @@ pressure inside the tank. They may be vented through the
 filler cap or through a tube extending through the surface
 LEFT
 RIGHT
-=
 of the wing. Fuel tanks also include an overflow drain that
 19 gal
 19 gal
@@ -2949,8 +2180,6 @@ without damage to the tank itself. If the tanks have been
 filled on a hot day, it is not unusual to see fuel coming from
 the overflow drain.
 OFF
-|
-_
 Fuel Gauges
 The fuel quantity gauges indicate the amount of fuel
 Figure 7-31. Fuel selector valve.
@@ -3046,21 +2275,6 @@ indicates that water remains in the tank and is not forcing the
 fuel out of the fuel lines leading to the fuel strainer. Therefore,
 drain enough fuel from the fuel strainer to be certain that
 fuel is being drained from the tank. The amount depends on
-|
-'
-|
-'
-|
-|
-'
-|
-|
-|
-|
-|
-|
-|
-|
 100LL
 JET
 AVGAS
@@ -3409,9 +2623,6 @@ have the same function as a fuse but can be manually reset,
 rather than replaced, if an overload condition occurs in the
 electrical system. Placards at the fuse or circuit breaker panel
 identify the circuit by name and show the amperage limit.
-_
-—
-—
 Figure 7-33. On this master switch, the left half is for the alternator
 and the right half is for the battery.
 An ammeter is used to monitor the performance of the aircraft
@@ -3466,12 +2677,9 @@ Low-voltage
 Alternator
 warning light
 control unit
-|
 To inst
 Low volt out
-ra
 LTS
-=
 To fuel quantity indicators
 P
 circuit
@@ -3482,54 +2690,35 @@ FUEL IND.
 To flashing beacon
 Sense (+)
 I
-a
-=
 Alternator
 F
 M
 To pitot heat
 Field
-—
 BCN PITOT
 A
 To radio cooling fan
 Sense (-)
-\
-|
-a
 B
-=
 R
 G
 PULL
-|
-»
 Ground
 To strobe lights
 Y
 OFF
-|
 STROBE
 Pull off
 B
 RADIO FAN
-i
-a]
-a
-=
-=
 To landing and taxi lights
 B
 U
 LDG LTS
 ALT
-|
-|
 To ignition switch
 S
 B
-i
-=
 A
 A
 Alternator field
@@ -3541,10 +2730,6 @@ T
 Clock
 T
 To red doorpost maplight
->»
-a)
-a
-=
 +30
 -30
 To low-voltage warning light
@@ -3557,25 +2742,13 @@ To instrument, radio, compass
 switch
 A M P
 and post lights
-~
 Starter
-a
-"|
-_
 To oil temperature gauge
 Oil pressure
-J
--
--
-a
 switch
 To turn coordinator
-_
 To low-vacuum warning light
 A
-a
-~\Y
-“
 Switch/circuit breaker to
 V
 standby vacuum pump
@@ -3588,10 +2761,8 @@ To wing
 To audio muting relay
 flap circuit
 I
-a
 Starter
 Flight hour
-=
 breaker
 To control wheel maplight
 contactor
@@ -3602,55 +2773,31 @@ To navigation lights
 S
 DOME
 To dome light
->»
-N
 B
-a
-, 4
-a
-=
 To radio
-_94
 U
-_¥
-,
 Battery
-—
 RADIO 1
 S
 contactor
 Magnetos
 Battery
-i
-=
 To radio
 Ground service
 plug receptacle
-™
 L
 R
 RADIO 2
-a
 To radio or transponder
-=
 and encoding altimeter
-|
-|
 RADIO 3
 Fuse Diode
--
 Circuit breaker (auto-reset)
-™
 Resistor
-ra
-=
 To radio
 CODE
-a
-=
 Circuit breaker (push to reset)
 RADIO 4
-a
 Circuit breaker (pull—off,
 Capacitor (Noise Filter)
 push to reset)
@@ -3669,11 +2816,6 @@ the system. This means that the fluid can be applied to one
 in two different directions. The relief valve provides an outlet
 7-32
 
->
-el
-»
-—
-ee
 +30
 -30
 0 30 60
@@ -3733,18 +2875,12 @@ Nosewheels are either steerable or castering. Steerable
 nosewheels are linked to the rudders by cables or rods, while
 castering nosewheels are free to swivel. In both cases, the
 aircraft is steered using the rudder pedals. Airplanes with a
-\
 BOTH
->
--
-~
 Motion
--
 castering nosewheel may require the pilot to combine the
 Pump
 RIGHT
 LEFT
--
 use of the rudder pedals with independent use of the brakes.
 OFF
 Tailwheel Landing Gear
@@ -3759,43 +2895,46 @@ Figure 7-36. Basic hydraulic system.
 7-33
 
 allows adequate ground clearance for a larger propeller
-maintenance. Retractable landing gear is designed to
 and is more desirable for operations on unimproved fields.
-streamline the airplane by allowing the landing gear to
 [Figure 7-38]
-be stowed inside the structure during cruising flight.
-[Figure 7-39]
 With the CG located behind the main landing gear, directional
-Brakes
 control using this type of landing gear is more difficult while
 on the ground. This is the main disadvantage of the tailwheel
-Airplane brakes are located on the main wheels and are
 landing gear. For example, if the pilot allows the aircraft to
-applied by either a hand control or by foot pedals (toe or heel).
 swerve while rolling on the ground at a low speed, he or
-Foot pedals operate independently and allow for differential
 she may not have sufficient rudder control and the CG will
-braking. During ground operations, differential braking can
 attempt to get ahead of the main gear, which may cause the
-supplement nosewheel/tailwheel steering.
 airplane to ground loop.
-Pressurized Aircraft
 Diminished forward visibility when the tailwheel is on or near
-Aircraft are flown at high altitudes for two reasons. First, an
 the ground is a second disadvantage of tailwheel landing gear
-aircraft flown at high altitude consumes less fuel for a given
 airplanes. Because of these disadvantages, specific training
-airspeed than it does for the same speed at a lower altitude
 is required to operate tailwheel airplanes.
+Fixed and Retractable Landing Gear
+Landing gear can also be classified as either fixed or
+retractable. Fixed landing gear always remains extended
+and has the advantage of simplicity combined with low
+Figure 7-38. Tailwheel landing gear.
+Figure 7-39. Fixed (left) and retractable (right) gear airplanes.
+7-34
+maintenance. Retractable landing gear is designed to
+streamline the airplane by allowing the landing gear to
+be stowed inside the structure during cruising flight.
+[Figure 7-39]
+Brakes
+Airplane brakes are located on the main wheels and are
+applied by either a hand control or by foot pedals (toe or heel).
+Foot pedals operate independently and allow for differential
+braking. During ground operations, differential braking can
+supplement nosewheel/tailwheel steering.
+Pressurized Aircraft
+Aircraft are flown at high altitudes for two reasons. First, an
+aircraft flown at high altitude consumes less fuel for a given
+airspeed than it does for the same speed at a lower altitude
 because the aircraft is more efficient at a high altitude.
 Second, bad weather and turbulence may be avoided by flying
-Fixed and Retractable Landing Gear
 in relatively smooth air above the storms. Many modern
-Landing gear can also be classified as either fixed or
 aircraft are being designed to operate at high altitudes,
-retractable. Fixed landing gear always remains extended
 taking advantage of that environment. In order to fly at
-and has the advantage of simplicity combined with low
 higher altitudes, the aircraft must be pressurized or suitable
 supplemental oxygen must be provided for each occupant.
 It is important for pilots who fly these aircraft to be familiar
@@ -3803,138 +2942,108 @@ with the basic operating principles.
 In a typical pressurization system, the cabin, flight
 compartment, and baggage compartments are incorporated
 into a sealed unit capable of containing air under a pressure
-ey.
-’
-G-BTS mm —_
-:
 higher than outside atmospheric pressure. On aircraft powered
-,
-=
 by turbine engines, bleed air from the engine compressor
 section is used to pressurize the cabin. Superchargers may
-e
 be used on older model turbine-powered aircraft to pump
 air into the sealed fuselage. Piston-powered aircraft may use
 air supplied from each engine turbocharger through a sonic
 venturi (flow limiter). Air is released from the fuselage by
-Figure 7-38. Tailwheel landing gear.
-J
-i
-==——"
-&
-a
-|
-fe
-Romie)
-Ba
-rT
-is
-saeie
-i
-Sez
-a
-Figure 7-39. Fixed (left) and retractable (right) gear airplanes.
-7-34
 
 a device called an outflow valve. By regulating the air exit,
 the outflow valve allows for a constant inflow of air to the
 pressurized area. [Figure 7-40]
 A cabin pressurization system typically maintains a cabin
-The altitude at which the
 pressure altitude of approximately 8,000 feet at the maximum
-standard air pressure is
 designed cruising altitude of an aircraft. This prevents rapid
-equal to 10.9 psi can be
 changes of cabin altitude that may be uncomfortable or cause
-found at 8,000 feet.
 injury to passengers and crew. In addition, the pressurization
 system permits a reasonably fast exchange of air from
+the inside to the outside of the cabin. This is necessary to
+eliminate odors and to remove stale air. [Figure 7-41]
+Pressurization of the aircraft cabin is necessary in order to
+protect occupants against hypoxia. Within a pressurized
+cabin, occupants can be transported comfortably and safely
+for long periods of time, particularly if the cabin altitude
+is maintained at 8,000 feet or below, where the use of
+oxygen equipment is not required. The flight crew in this
+type of aircraft must be aware of the danger of accidental
+loss of cabin pressure and be prepared to deal with such an
+emergency whenever it occurs.
+Cabin heat
+valve
+Heat shroud
+Forward
+air outlets
+Floor level outlets
+Safety/dump valve
+Ambient air
+Compressor discharge air
+CODE
+Pressurization air
+Pre-heated ambient air
+Conditioned pressurization air
+Pressurized cabin
+Figure 7-40. High performance airplane pressurization system.
+The altitude at which the
+standard air pressure is
+equal to 10.9 psi can be
+found at 8,000 feet.
 At an altitude of 28,000
 feet, standard atmo-
-the inside to the outside of the cabin. This is necessary to
 spheric pressure is 4.8
-eliminate odors and to remove stale air. [Figure 7-41]
 psi. By adding this
 pressure to the cabin
 pressure differential of
-Pressurization of the aircraft cabin is necessary in order to
 6.1 psi difference (psid),
-protect occupants against hypoxia. Within a pressurized
 a total air pressure of
-cabin, occupants can be transported comfortably and safely
 10.9 psi is obtained.
-for long periods of time, particularly if the cabin altitude
-is maintained at 8,000 feet or below, where the use of
 Figure 7-41. Standard atmospheric pressure chart.
-oxygen equipment is not required. The flight crew in this
-type of aircraft must be aware of the danger of accidental
 The following terms will aid in understanding the operating
-loss of cabin pressure and be prepared to deal with such an
 principles of pressurization and air conditioning systems:
-emergency whenever it occurs.
 •
 Aircraft altitude—the actual height above sea level at
 which the aircraft is flying
 •
 Ambient temperature—the temperature in the area
-Cabin heat
 Air scoops
 immediately surrounding the aircraft
-valve
 •
 Ambient pressure—the pressure in the area
 Heat exchanger
-Heat shroud
 immediately surrounding the aircraft
 Turbocharger
 •
 Cabin altitude—cabin pressure in terms of equivalent
 compressor
 altitude above sea level
-Forward
 section
-air outlets
 •
 Differential pressure—the difference in pressure
 Flow control
 between the pressure acting on one side of a wall
 venturi
 and the pressure acting on the other side of the
--
 wall. In aircraft air-conditioning and pressurizing
-Floor level outlets
 systems, it is the difference between cabin pressure
 To cabin altitude
 controller
 and atmospheric pressure.
-_
-|
 The cabin pressure control system provides cabin pressure
 regulation, pressure relief, vacuum relief, and the means
 for selecting the desired cabin altitude in the isobaric and
-Safety/dump valve
-q
 differential range. In addition, dumping of the cabin pressure
 Outflow valve
 is a function of the pressure control system. A cabin pressure
-ST
 regulator, an outflow valve, and a safety valve are used to
 accomplish these functions.
-Ambient air
-Compressor discharge air
 The cabin pressure regulator controls cabin pressure to a
-CODE
-Pressurization air
 selected value in the isobaric range and limits cabin pressure
-Pre-heated ambient air
 to a preset differential value in the differential range. When an
 aircraft reaches the altitude at which the difference between
-Conditioned pressurization air
 the pressure inside and outside the cabin is equal to the
-Pressurized cabin
 highest differential pressure for which the fuselage structure
 is designed, a further increase in aircraft altitude will result
-Figure 7-40. High performance airplane pressurization system.
 Atmosphere pressure
 Altitude (ft)
 Pressure (psi)
@@ -3946,7 +3055,6 @@ Sea level
 12.7
 6,000
 11.8
-ee
 8,000
 10.9
 10,000
@@ -3967,7 +3075,6 @@ ee
 5.7
 26,000
 5.2
-re
 28,000
 4.8
 30,000
@@ -3975,78 +3082,81 @@ re
 7-35
 
 in a corresponding increase in cabin altitude. Differential
-Decompression is defined as the inability of the aircraft’s
 control is used to prevent the maximum differential pressure,
-pressurization system to maintain its designed pressure
 for which the fuselage was designed, from being exceeded.
-differential. This can be caused by a malfunction in the
 This differential pressure is determined by the structural
-pressurization system or structural damage to the aircraft.
 strength of the cabin and often by the relationship of the
 cabin size to the probable areas of rupture, such as window
-Physiologically, decompressions fall into the following two
 areas and doors.
+The cabin air pressure safety valve is a combination
+pressure relief, vacuum relief, and dump valve. The pressure
+relief valve prevents cabin pressure from exceeding a
+predetermined differential pressure above ambient pressure.
+The vacuum relief prevents ambient pressure from exceeding
+cabin pressure by allowing external air to enter the cabin
+when ambient pressure exceeds cabin pressure. The flight
+deck control switch actuates the dump valve. When this
+switch is positioned to ram, a solenoid valve opens, causing
+the valve to dump cabin air into the atmosphere.
+The degree of pressurization and the operating altitude of
+the aircraft are limited by several critical design factors.
+Primarily, the fuselage is designed to withstand a particular
+maximum cabin differential pressure.
+Several instruments are used in conjunction with the
+pressurization controller. The cabin differential pressure gauge
+indicates the difference between inside and outside pressure.
+This gauge should be monitored to assure that the cabin does
+not exceed the maximum allowable differential pressure. A
+cabin altimeter is also provided as a check on the performance
+of the system. In some cases, these two instruments are
+combined into one. A third instrument indicates the cabin rate
+of climb or descent. A cabin rate-of-climb instrument and a
+cabin altimeter are illustrated in Figure 7-42.
+I
+CABIN CLIMB
+.5
+THOUSAND FT PER MIN
+.5
+I
+Cabin rate-of-climb indicator
+Figure 7-42. Cabin pressurization instruments.
+7-36
+Decompression is defined as the inability of the aircraft’s
+pressurization system to maintain its designed pressure
+differential. This can be caused by a malfunction in the
+pressurization system or structural damage to the aircraft.
+Physiologically, decompressions fall into the following two
 categories:
 •
 Explosive decompression—a change in cabin pressure
-The cabin air pressure safety valve is a combination
 faster than the lungs can decompress, possibly
-pressure relief, vacuum relief, and dump valve. The pressure
 resulting in lung damage. Normally, the time required
-relief valve prevents cabin pressure from exceeding a
 to release air from the lungs without restrictions, such
-predetermined differential pressure above ambient pressure.
 as masks, is 0.2 seconds. Most authorities consider any
-The vacuum relief prevents ambient pressure from exceeding
 decompression that occurs in less than 0.5 seconds to
-cabin pressure by allowing external air to enter the cabin
 be explosive and potentially dangerous.
-when ambient pressure exceeds cabin pressure. The flight
 •
 Rapid decompression—a change in cabin pressure in
-deck control switch actuates the dump valve. When this
 which the lungs decompress faster than the cabin.
-switch is positioned to ram, a solenoid valve opens, causing
-the valve to dump cabin air into the atmosphere.
 During an explosive decompression, there may be noise,
 and one may feel dazed for a moment. The cabin air fills
-The degree of pressurization and the operating altitude of
 with fog, dust, or flying debris. Fog occurs due to the rapid
-the aircraft are limited by several critical design factors.
 drop in temperature and the change of relative humidity.
-Primarily, the fuselage is designed to withstand a particular
 Normally, the ears clear automatically. Air rushes from the
-maximum cabin differential pressure.
 mouth and nose due to the escape of air from the lungs and
 may be noticed by some individuals.
-Several instruments are used in conjunction with the
-pressurization controller. The cabin differential pressure gauge
 Rapid decompression decreases the period of useful
-indicates the difference between inside and outside pressure.
 consciousness because oxygen in the lungs is exhaled rapidly,
-This gauge should be monitored to assure that the cabin does
 reducing pressure on the body. This decreases the partial
-not exceed the maximum allowable differential pressure. A
 pressure of oxygen in the blood and reduces the pilot’s
-cabin altimeter is also provided as a check on the performance
 effective performance time by one-third to one-fourth its
-of the system. In some cases, these two instruments are
 normal time. For this reason, an oxygen mask should be
-combined into one. A third instrument indicates the cabin rate
 worn when flying at very high altitudes (35,000 feet or
-of climb or descent. A cabin rate-of-climb instrument and a
 higher). It is recommended that the crewmembers select the
-cabin altimeter are illustrated in Figure 7-42.
 100 percent oxygen setting on the oxygen regulator at high
 altitude if the aircraft is equipped with a demand or pressure
 demand oxygen system.
-|
-al
->»
-eal
--_
-Cabin differential
-a
+Cabin diﬀerential
 LT
 A
 pressure indicator
@@ -4057,32 +3167,17 @@ A
 Fe
 C
 (pounds per square
-I
-inch differential)
-2!
-i
+inch diﬀerential)
 DIFF
-CABIN CLIMB
-.5
 PRESS
-THOUSAND FT PER MIN
 Cabin pressure
 PSI
-.5
 altitude indicator
-I
 (thousands of feet)
-S|
 Maximum cabin
-~~
-differential pressure
-|
-.
+diﬀerential pressure
 limit
-Cabin rate-of-climb indicator
-Cabin/differential pressure indicator
-Figure 7-42. Cabin pressurization instruments.
-7-36
+Cabin/diﬀerential pressure indicator
 
 The primary danger of decompression is hypoxia. Quick,
 proper utilization of oxygen equipment is necessary to avoid
@@ -4171,29 +3266,6 @@ location and functioning of oxygen pressure gauges, flow
 indicators, and connections. The mask should be donned and
 the system should be tested. After any oxygen use, verify that
 all components and valves are shut off.
-é
--~
-e
-0,
-:
-“ay
-;
-=
-cr
-Pass
-FLOW
-Presse
-|
-00%
-semeroencr
-owen
-ow
-:
-,
-Ke
-“MASK
-OXYGEN |
-OFF
 Figure 7-43. Oxygen system regulator.
 7-37
 
@@ -4225,8 +3297,6 @@ Cannulas are typically more comfortable than masks, but
 may not provide an adequate flow of oxygen as reliably as
 masks when operating at higher altitudes. Airplanes certified
 to older regulations had cannulas installed with an on-board
-ag
-ef ~se
 Figure 7-44. Cannula with green flow detector.
 7-38
 oxygen system. However, current regulations require aircraft
@@ -4272,7 +3342,6 @@ reduces the amount of air dilution. Ambient air is added to
 the supplied oxygen during inhalation after the reservoir bag
 oxygen supply is depleted. The exhaled air is released to the
 cabin. [Figure 7-45]
-‘
 Electrical Pulse-Demand Oxygen System
 Portable electrical pulse-demand oxygen systems deliver
 oxygen by detecting an individual’s inhalation effort and
@@ -4308,8 +3377,6 @@ Before servicing any aircraft with oxygen, consult the
 specific aircraft service manual to determine the type of
 equipment required and procedures to be used. Certain
 precautions should be observed whenever aircraft oxygen
-af
-ra
 Figure 7-46. EDS-011 portable pulse-demand oxygen system.
 systems are to be serviced. Oxygen system servicing should
 be accomplished only when the aircraft is located outside
@@ -4320,8 +3387,6 @@ with petroleum products. Service people should be certain to
 wash dirt, oil, and grease (including lip salves and hair oil)
 from their hands before working around oxygen equipment. It
 is also essential that clothing and tools are free of oil, grease,
-Cyt
-(py
 Figure 7-47. Onyx pulse oximeter.
 7-39
 
@@ -4374,22 +3439,7 @@ gauge and a pneumatic pressure gauge to indicate proper boot
 operation. These gauges have range markings that indicate
 the operating limits for boot operation. Some systems may
 7-40
-~~
-=
-,
 Tubes deflated
-~~
-==_—
-~~
-~~
-|
-N~
-Ny
-N
-=
-NN
-N
-,
 Tubes inflated
 Figure 6-48. Deicing boots on the leading edge of the wing.
 also incorporate an annunciator light to indicate proper boot
@@ -4452,15 +3502,6 @@ The boots are also grooved to help direct the flow of alcohol.
 This prevents ice from forming on the leading edge of the
 propeller. Propellers can also be fitted with propeller anti-ice
 boots. The propeller boot is divided into two sections—the
-ae
-Oe
-=
-Ne
-ae
-——. =
-SS
-Oe
-eae a
 Figure 7-49. TKS weeping wing anti-ice/deicing system.
 inboard and the outboard sections. The boots are imbedded
 with electrical wires that carry current for heating the
@@ -4484,28 +3525,20 @@ Chapter Summary
 All aircraft have a requirement for essential systems such
 as the engine, propeller, induction, ignition systems as well
 as the fuel, lubrication, cooling, electrical, landing gear, and
-al
-»
-nd
 Prop anti-ice ammeter
 When the system is operating,
 the prop ammeter indicates
 normal operating range. As each
 boot section cycles, the ammeter
-PROP DEICER
 fluctuates.
-AMPS
-Outboard section
-m
-Inboard section
-==
-Prop anti-ice boot
 The boot is divided into two sections: inboard and outboard.
 When the anti-ice is operating, the inboard section heats on
 each blade, and then cycles to the outboard section. If a boot
 fails to heat properly on one blade, unequal ice loading may
 result causing severe vibration.
 Figure 7-50. Prop ammeter and anti-ice boots.
+PROP DEICER
+AMPS
 7-41
 
 environmental control systems to support flight. Understanding

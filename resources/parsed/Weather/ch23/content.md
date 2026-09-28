@@ -1,12 +1,3 @@
-navigation [e.g., Global Positioning System (GPS)], radiation exposure, and radiation effects on avionics. —
-23 Space Weather
-23.1 Introduction
-The term “space weather” is used to designate processes occurring on the Sun or in the Earth’s
-magnetosphere, ionosphere, and thermosphere that could have multi-faceted impacts with the potential to
-affect a wide range of space-based and terrestrial assets and services. Space weather phenomena such as
-solar flares, radiation storms, and geomagnetic storms are some potential concerns for aviation.
-This chapter provides an overall introduction to space weather general theory.
-This chapter also outlines the potential effects of space weather on the aircraft, including communications,
 Chapter 23, Space Weather
 23-1
 
@@ -222,41 +213,3 @@ these components become increasingly smaller, and therefore more susceptible, th
 increases.
 Chapter 23, Space Weather
 23-6
-
-Part 3:
-Technical Details Relating to
-Weather Products and Aviation
-Weather Tools
-Types of Aviation Weather Information
-This handbook groups aviation weather information into five types:
-•
-Observations,
-•
-Analysis,
-•
-Advisories,
-•
-Forecasts, and
-•
-Aviation Weather Tools.
-Observations
-Observations are raw weather data collected automatically by sensor(s), manually by trained weather
-observers, or by a combination of both. The observations can either be in situ (i.e., surface or airborne) or
-remote (e.g., weather radar, satellite, and lightning).
-Analysis
-Analysis is the representation of an atmospheric variable (e.g., temperature, pressure) derived from a finite
-set of irregularly distributed observations onto a regular grid. Analyses of weather information are an
-enhanced depiction and/or interpretation of observed weather data.
-Advisories
-Aviation weather advisories, including warnings and alerts, described in this handbook are primarily
-produced by the NWS. They inform the pilot and/or operator about aviation weather that may be a safety
-of flight risk, or that may need mitigation or avoidance depending on the aircraft’s and/or pilot’s
-certification, current operating limits, or capabilities.
-Forecasts
-Forecasts are the predictions of the development and/or movement of weather phenomena based on
-meteorological observations and various mathematical models. This handbook describes the many forecasts
-primarily produced by the NWS that are either specific to aviation or are public products of interest to
-aviation users.
-Aviation Weather Tools
-Aviation weather tools are web-based applications that incorporate multiple weather products into a
-web-based interactive display.

@@ -1,25 +1,3 @@
-Aviation weather cameras. a
-24 Observations
-24.1 Introduction
-The first of five types of aviation weather information discussed in this handbook is observations.
-Observations are weather data collected automatically by sensor(s), manually by trained weather observers,
-or by a combination of both, and are the basic information upon which forecasts and advisories are made
-in support of a wide-range of weather-sensitive activities within the public and private sectors, including
-aviation.
-For this handbook, observations include the following:
-•
-Surface observations,
-•
-Trained weather observers,
-•
-Aircraft observations,
-•
-Radar observations,
-•
-Satellite observations,
-•
-Upper air observations (e.g., weather balloon), and
-•
 Chapter 24, Observations
 24-1
 
@@ -293,19 +271,6 @@ in the opinion of the observer, is critical.
 A U.S. METAR/SPECI has two major sections: the body (consisting of a maximum of 11 groups) and the
 remarks (consisting of two categories). When an element does not occur, or cannot be observed, the
 corresponding group is omitted from that particular report. See Figure 24-1 for the format.
-METAR KOKC 0119552 AUTO 22015G25KT_180V250
-a
-REPORT
-§IDENTIFIERE
-OF REPORT
-MODIFIER
-3/4SM R17L/2600FT +TSRA BR OVCO10CB 18/16
-bem
-inn|S
-RANGE
-AND DEW POINT
-A2992 RMK AQ2 TSB25 TS OHD MOV E SLP132
-&
 Figure 24-1. METAR/SPECI Coding Format
 Chapter 24, Observations
 24-7
@@ -337,66 +302,6 @@ worldwide listing, refer to ICAO Doc 7910, Location Indicators. Both are availab
 Chapter 24, Observations
 24-8
 
-HO 16s _ISOW SSW _120W 10s maa
-+ in S31 GO TSH
-SOE. 105 12TH NBSRe ASO» CISA
-AFHony
-copys
-LU hae tot Lt bo
-LL |
-wd
-ra gate
-ol PT
-[el
-T
-Berea
-Se gee
-“CCT fe
-ae A
-EPUB
-t,
-L
-x
-ey}
-f
-J
-k
-“CETSREP
-eee Dr eee
-L:
-CETTE Ties
-SEN SSP Siete |
-RATT Poe ae TE
-ttt tt} el rT ORE
-ey.
-ECE
-ge ere ee
-ar
-FLEECE
-tT
-eee
-rer rr |.
-LU
-16SW
-SOW
-13SW
-10sW
-OW
-SW
-OW
-SW
-O30W
-1sW
-1SE
-45E
-OR
-TSE
-WE
-— 10SE
-120K
-135F
-150E
--16S5E
 Figure 24-2. ICAO Continental Codes
 24.4.3.3 Date and Time of Report
 METAR KOKC 011955Z AUTO 22015G25KT 180V250 3/4SM R17L/2600FT +TSRA BR OVC010CB
@@ -702,21 +607,6 @@ Vertical visibility is coded as VV, followed by the vertical visibility into the
 “indefinite ceiling” is a ceiling classification applied when the reported ceiling value represents the vertical
 visibility upward into surface-based obscuration. No space is between the group identifier and the vertical
 visibility. Figure 24-3 illustrates the effect of an obscuration on the vision from a descending aircraft.
-TOM Cel Gs
-Pr
-Sor eaue
-SUNY
-=
-s
-[=
-Raa rooms anee
-INDEFINITE CEILING
-oEErL
-|
-aes
-VERTICAL VISIBILITY.
-.
-tort
 The ceiling is 500 ft in both examples, but the indefinite ceiling example (bottom) produces a more
 adverse impact to landing aircraft. This is because an obscuration (e.g., fog, blowing dust, snow)
 limits runway acquisition due to reduced slant range visibility. This pilot would be able to see the
@@ -773,44 +663,6 @@ To nearest 500
 To nearest 1,000
 24-16
 
-Cloud not
-seen due to
-\
-lower cloud
-\
-|
-layer.
-5,000
-Y
-| 4,000
-Ze
-= a
-| 3,000
-Pa
-/
-oa
-|
-/
-JZ
-/
-| 2,000 J
-Pa
-os
-| 1,009
-fp
-ee
-=
-ry
-—_
-Cow’
-j f
-aa
-oo
-VEZ,
-—
-HORIZON
-~~ \/ ZeUREACE
-EARTH
 Clouds at 1,200 ft obscure 2/8 of the sky (FEW). Higher clouds at 3,000 ft obscure an additional 1/8 of the
 sky, and because the observer cannot see above the 1,200-ft layer, they are to assume that the higher 3,000-ft
 layer also exists above the lower layer (SCT). The highest clouds at 5,000 ft obscure 2/8 of the sky, and,
@@ -823,24 +675,24 @@ For example, a scattered layer of towering cumulus at 1,500 ft would be coded SC
 followed by a space if there were additional higher layers to code.
 Examples:
 SKC
-No layers are present.
 CLR
-No layers are detected at or below 12,000 ft AGL.
 FEW004
-Few at 400 ft AGL.
 SCT023TCU
-Scattered layer of towering cumulus at 2,300 ft AGL.
 BKN100
-Broken layer (ceiling) at 10,000 ft AGL.
-Overcast layer (ceiling) at 25,000 ft AGL.
 OVC250
 VV001
-Indefinite ceiling with a vertical visibility of 100 ft AGL.
 FEW012 SCT046
-Few clouds at 1,200 ft, scattered layer at 4,600 ft AGL.
 SCT033 BKN085
-Scattered layer at 3,300 ft, broken layer (ceiling) at 8,500 ft AGL.
 Chapter 24, Observations
+No layers are present.
+No layers are detected at or below 12,000 ft AGL.
+Few at 400 ft AGL.
+Scattered layer of towering cumulus at 2,300 ft AGL.
+Broken layer (ceiling) at 10,000 ft AGL.
+Overcast layer (ceiling) at 25,000 ft AGL.
+Indefinite ceiling with a vertical visibility of 100 ft AGL.
+Few clouds at 1,200 ft, scattered layer at 4,600 ft AGL.
+Scattered layer at 3,300 ft, broken layer (ceiling) at 8,500 ft AGL.
 24-17
 
 SCT018 OVC032CB
@@ -1290,20 +1142,8 @@ type, location, time, altitude/FL, type aircraft, and at least one other element
 phenomena. The other elements are omitted when no data is reported. All altitude references are mean sea
 level unless otherwise noted. Distance for visibility is in statute miles and all other distances are in nautical
 miles. Time is reported in Coordinated Universal Time.
-UA /OV APE230010/TM 1516/FLO085/TP BE20
-/SK BKNO40-TOPO65/WX FVO3SM BR/TA MO2
-SKY CONDITION]
-/WV 23008KT/TB LGT/IC TRACE RIME/RM TCU W
-[VINO EmmetTURBULENCE ICING
-0 =
 Figure 24-5. PIREP Coding Format
 Chapter 24, Observations
-FLIGHT VISIBILITY
-AND WEATHER
-AIRCRAFT
-AIR
-TEMPERATURE
-REMARKS)
 24-26
 
 24.5.1.1 Message Type (UUA/UA)
@@ -1698,104 +1538,6 @@ Chapter 24, Observations
 
 Additional information can be found in FAA Order 8900.1, Volume 3, Chapter 26, Section 7, Safety
 Assurance System: Volcanic Ash Avoidance, Concepts, Policies, and Guidance.
-VOLCANIC ACTIVITY REPORT
-‘Aic-reports are critically important in assessing the hazards which volcanic ash cloud presents to aircraft operations.
-‘OPERATOR
-[AC IDENTIFICATION (acated on ight ar)
-PILOTN-COMMAND:
-DEP FROM
-DATE
-TIME; UTC
-ARR AT.
-DATE
-TME; UTC:
-‘ADDRESSEE
-‘AIRE SPECIAL
-1-8 are tobe reported immediately othe ATS ui that you aein contac with
-lems
-1)
-ARCRAFT IDENTIFICATION
-2) _ POSITION
-3 TW
-4) _FUGHTLEVELORALTITUDE
-5)
-VOLCANIGACTIVITY OBSERVED AT
-(boston or ening, esimated evel ofach cud and dtance tom att)
-©)
-ARTENPERATURE:
-7)
-_SPOTWNND
-ober
-8)
-SUPPLEMENTARY INFORMATION
-SOsdetedes «= Yes]
-No]
-Aohencnunized
-Yes]
-MO
-(Bet desaipion of aciuty especialy verical and lateral entet of ash coud
-encountered
-Yes]
-NO
-‘Afterlanding complete items 8-16 then fx fom to: (Faxnumber
-ad, whee possi, horzontal movement ate ofsouth,
-the meteorological
-fobe provided bythe meteorological authority based
-onlocal arrangements between
-authority andthe operator concerned)
-9) _DENSITY
-OF ASHCLOUD
-CO @Weey
-(Moderate dense
-(aver dense
-a
-OF ASH CLOUD
-Oe) wie
-CO elistgey
-O @oakgey
-40) COLOUR
-(@) Black
-CO lotr
-11),
-ERUPTION
-(2)
-Coninucus
-Client
-(enetvistle
-OF acTIiTy
-CO @)summit
-O wsie
-O single
-12) POSITION
-(Mute
-C_(Nstobsened
-13) OTHER OBSERVED
-C1 G)tishing
-O coe
-(tare rocks
-OF ERUPTION]. (a) Achtalout
-1) Mushroom
-cous
-a al
-FEATURES
-14) EFFECT ONARCRAFT
-(1 2)Commuricaton — L(t)
-Navigation systems
-CO (Enines
-(a
-Pinstase
-CO
-(e)Wndsceen
-Windows
-15)
-OTHEREFFECTS
-ey Turtutence
-(steimos Fre
-ote fumes
-1)
-OTHER INFORMATION
-(hry inca considered use)
-Dae OTISDOIO
 Figure 24-6. VAR Form
 24.5.4 Turbulence Observations
 Since the 1990s, several innovations have improved the quality and availability of turbulence reports.
@@ -1813,42 +1555,6 @@ AMDAR reports turbulence in terms of Eddy Dissipation Rate (EDR). EDR is the ICA
 dimension for automated turbulence reporting. EDR is a state of the atmosphere measure rather than a state
 of the aircraft measure, and is, therefore, independent of aircraft type.
 Note: This information is restricted.
-toad |
-Select
-snow:
-_WindSpa |
-Barbs | Soundings
-Unzoom|
-_Detaut|
-[World]
-_overays | |
-Cea
-i
-en
-:
-gle
-30 kt
-Ve
-aoe.kat
-ee
-eat
-(Wo
-eee
-Cal
-ie
-Ee
-Stra.
-ee
-Sy USAR SE 2]
-07-Jul-2019 14:00:00 -- 07-Jul-2019 17:59:59 (192925 obs loaded, 122304 in range, 29688 shown)
-NORATESRL/GSD_Attude--1000 0 460008
-600d wandT
-10¢¢sipors loaded in 0.0 seconds
-=
-min spacing1 pixels
-Aircraft loaded: 2230 regular, 0g, 277 edr, 112 rh, 71 vG, 0 ice,
-0 TAMDAR
-v
 Figure 24-7. A Plot of AMDAR Reports Received During a 24-Hour Period in 2019
 24.6 Radar Observations
 24.6.1 Weather Surveillance Radar—1988 Doppler (WSR-88D) Description
@@ -1871,48 +1577,17 @@ observation is the time assigned to the product, which is the end of the last ra
 24.6.1.1.1 WSR-88D Radar (NEXRAD) Network
 The WSR-88D radar network consists of 160 radars operated by the NWS, FAA, and DOD. Figure 24-8,
 Figure 24-9, and Figure 24-10 show the locations of the radars.
-(SB NATIONAL WEATHER SERVICE ier
 Locations of WSR-88D weather radar are indicated by gray circles. Red circles indicate radars that are temporarily
 out of service.
 Figure 24-8. Locations of WSR-88D Weather Radar in the CONUS
 Chapter 24, Observations
-Gulf of
-America
 24-37
 
-NEXRAD COVERAGE BELOW 10,000 FEET AGL.
-rae
-“ALN
->,
-Ji)
-8 ACES
-fF
-ay
-t= or
-pte aga
-:RACEey
-Biv ane eye
-i
-“es e
-rey Acie
-~~
-e
 Figure 24-9. WSR-88D Weather Radar Coverage at 3,000 ft AGL, 6,000 ft AGL, and 10,000 ft AGL over the CONUS
 and Puerto Rico
 Chapter 24, Observations
 24-38
 
-NEXRAD COVERAGE BELOW 10,000 FEET AGL.
-Korea
-rie
-x
-VCP 12 Coverage
-ail 6,000
-ft above ground lever
-Sy
-10,000 ft above ground level*
-“Bottom of beam height (assuming Standard Almospheric Refraction)
-Terrain Blockage Indicated where 50% or more of beam blocked
 Figure 24-10. Additional Locations of WSR-88D Weather Radar and Coverage Outside of the CONUS
 24.6.1.2 Coverage
 Figure 24-9 and Figure 24-10 depict the radar coverage at 3,000 ft AGL, 6,000 ft AGL, and 10,000 ft AGL
@@ -1934,23 +1609,6 @@ Mode.
 In Clear Air Mode, the radar is in its most sensitive operation. The NWS uses Clear Air Mode when there
 is no rain within the range of the radar. This mode has the slowest antenna rotation rate, which permits the
 Chapter 24, Observations
-Japan
-:
-ie
-f
-$0n
-a
-alee.
-PACGMEy
-a
-Hawaii
-Guam
-Pao
-Pak
-’
-PHN
-bua
-nan
 24-39
 
 radar to sample the atmosphere longer. This slower sampling increases the radar’s sensitivity and ability to
@@ -1978,29 +1636,25 @@ service provider and website.
 Reflectivity is correlated to intensity of precipitation. For example, in Precipitation Mode, when the decibel
 value reaches 15, light precipitation is present. The higher the indicated reflectivity value, the higher the
 rainfall rate. The interpretation of reflectivity values is the same for both Clear Air and Precipitation Modes.
-aE a
-RadardBZ5°
-«45
-«#55
 Figure 24-11. Example WSR-88D (NEXRAD) Weather Radar Echo Intensity Legend
 Reflectivity is also correlated with intensity terminology (phraseology) for ATC purposes. Table 24-8
 defines this correlation.
 Table 24-8. WSR-88D Weather Radar Precipitation Intensity Terminology
 Reflectivity
-Weather Radar Echo
 (dBZ) Ranges
-Intensity Terminology
 <26 dBZ
-Light
 26–40 dBZ
-Moderate
 >40–50 dBZ
-Heavy
 50+ dBZ
-Extreme
 Note: En route ATC radar’s weather and radar processor (WARP) does
 not display light precipitation.
 Chapter 24, Observations
+Weather Radar Echo
+Intensity Terminology
+Light
+Moderate
+Heavy
+Extreme
 24-40
 
 Values below 15 dBZ are typically associated with clouds. However, they may also be caused by
@@ -2027,139 +1681,10 @@ reveal important storm structure features and intensity trends of storms (see Fi
 NEXRAD radar displays on airplane avionics use the Composite Reflectivity data for their radar mosaics.
 Figure 24-12. WSR-88D Weather Radar Composite Reflectivity, Single-Site Product Example
 Chapter 24, Observations
-Be
-a NN ak tt Ee NS) |
-~
-gentevile
-a
-|
-LY
-= ~
-4rage
-Madisonville
-est Plains
-sre
-eg
-a
-|
-- 5
-Hopkinsvite
-Se!
-we 3
-eee
-oe NTN
-oe
-=
-5:
-=
-=
-Batesville
-_Jonesboro-
-RG IaaySees BPRS as
-J
--
-Re
-eee a
-ae
-: Rte: i ipars oy Bae sa SR ar ae
-lowen|
-iia
-eRe Bae ret iia Fleet |
-little Rock
-f
-*
-*
-2 eee
-Big
-Pine Butt
-|
-Oxford
-é
-r.
-sa
-_ppelo
-H
-+
-~
-[|
-F
-A
-J
-\
-L]
-x
-dp6
-inona
-eqlum
-bus
-wg
-=) a
-ae
-The
-i
 24-41
 
-?
-bot!
-ry)
-fl
-potato
-hd
-THE VALUE DISPLAYED ON THE COMPOSITE
-REFLECTIVITY PRODUCT IS:
 The Composite Reflectivity product displays the highest reflectivity of all elevation scans.
 Figure 24-13. Creation of a Composite Reflectivity, Single-Site Product
-wel
-oon
-ors weenie Service WSR-BED Wage Toa FSD DERTIODIS NZD ICT TOY AM COT
-_fis
-Wier Service WISR-GED image tin PSD OaaAROS NDOT TET TOY AM COT)
-i,
-rary
-uae
-spusceaerrne f
-4 cow
-ee
-9, cous
-nee ae
-ten ee:
-Sees
-ees
-Pan
-let.a
-ee
-Soo —
-aa)
-ae
-eS =
-ak,Sa
-soence
-te ai
-© ii Se
-anita
-Aiebig
-bene
-‘penlon
-i
-oto
-Si
-Se
-“penton
-P|
-:
-:
-hos
-;
-‘foken tow.
-pombe
-oe
-“peti:
-:
-|oken tow
-fotos
-“ponte:
-Bitopo radar Licoutes MiRivern Wltighways Edcwes Clwamings SAtegend
-Hiro eodar counties MRivers Mvighways cies wamings Siegen
 This Composite Reflectivity shows that in many locations the highest precipitation intensity occurs at an
 altitude higher than precipitation detected at the elevation of the base elevation angle.
 Figure 24-14. Weather Radar 0.5° Base Reflectivity (left) versus Composite Reflectivity (right) Comparison
@@ -2205,38 +1730,8 @@ on and near major airports situated in climates with great exposure to thunderst
 Chapter 24, Observations
 24-43
 
-{Sa NATIONAL WEATHER SERVICE sa
-[RENIES
-DQ serch. 2 orcommen tone
-prone Nate
-ors
-:
-iy
-Gu
-of
-Amaica
-ar
 TWDR locations are indicated by gray circles.
 Figure 24-15. TDWR Locations in the CONUS and Puerto Rico
-pre Coverage Below 10,000 Feet AGL
-Tae!
-|__| Se
-een
-jp"|
-(OP
-Se
-ae
-A
-ee |
-| = | a
-es
-a
-ba val
-EX
-=
-ir
-aw.
-ymecees
 .
 Figure 24-16. TDWR Coverage
 Chapter 24, Observations
@@ -2268,16 +1763,6 @@ city lights come from a static database.
 Chapter 24, Observations
 24-45
 
-=
-eer Va ves Re
-——
-Tee SAE,
-pus hee
-<
-ae
-Beg tS Fe 2
-SDIS'STAR GOES-E:a gars =
-oe
 Figure 24-17. GeoColor Satellite Image—U.S. Example
 24.7.2.2 Visible Imagery
 Visible imagery (see Figure 24-18) displays reflected sunlight from the Earth’s surface, clouds, and
@@ -2290,21 +1775,11 @@ all absorb and reflect incoming solar radiation. Since visible imagery is produc
 Chapter 24, Observations
 24-46
 
-a Ve~~ =On,aae fe
-hsSee
-cg
-i ae i
-a.
-oe
-7 .neoe
 Figure 24-18. Visible Satellite Image—U.S. Example
 24.7.2.2.1 Visible Image Data Legend
 The data legend on a visible image displays albedo, or reflectance, expressed as a percentage (see Figure
 24-19). For example, an albedo of 72 means 72 percent of the sunlight that struck a feature was reflected
 back to space.
-39 42 45 48 ST S4) 57 60) (634664694) 729 747s mga
-@
-27 33%
 The gray shades (values) represent albedo, or reflectance, expressed as a percentage.
 Figure 24-19. Visible Satellite Image Data Legend
 24.7.2.3 Infrared (IR) Imagery
@@ -2316,9 +1791,6 @@ the Earth’s surface are generally quite warm (e.g., +5°C). Likewise, land may
 lower clouds (e.g., +20°C). Those colder clouds emit much less IR energy than the warmer clouds, and the
 land emits more than those warm clouds.
 Chapter 24, Observations
-he
-ee e
-OR
 24-47
 
 The data measured by satellite is calibrated and colorized according to the temperature. If the temperature
@@ -2327,61 +1799,20 @@ determine which clouds are high-level and which are low-level.
 When clouds are present, the temperature displayed on the IR images is that of the tops of clouds. When
 clouds are not present, the temperature is that of the ground or the ocean. A major advantage of the
 IR channel is that it can sense energy at night; therefore, this imagery is available 24 hours a day.
-cy, “= eS oe
-- aes
-Co
-pee
-i“
-ps
-T 4
-=
-\> se zt
-|
-|
-————
-: ea, ie
-wee be Re er)
-i
-as
-ee”, tae
-—2° ae
-:ie
-Poe — Pi
 The scale is in degrees Celsius. Blue/purple colors indicate colder temperatures, while orange/red colors
 indicate warmer temperatures.
 Figure 24-20. Infrared (Color) Satellite Image—U.S. Example
 Chapter 24, Observations
 24-48
 
-wy, pe S.. ge
-aelU,
-ea
-ma, St ae a
-= \> JO,
-Z
-Se
-ee
-a
-ze
 The scale is in degrees Celsius. Lighter gray shades indicate colder temperatures, while darker gray shades
 indicate warmer temperatures.
 Figure 24-21. Unenhanced Infrared (Black and White) Satellite Image—U.S. Example
 24.7.2.3.1 Infrared Image Data Legends
 The data legend on an IR image is calibrated to temperature expressed in degrees Celsius (see Figure 24-22
 and Figure 24-23). The legend may vary based on the satellite image provider.
--68 -64) 60) -56))-52)) 4591-44-40 sok s2B_ 2c 240-200 1CM-12M
-oB-MOM
-Io)
-12)
-16,
 The colors (values) represent temperature in degrees Celsius.
 Figure 24-22. Infrared (Color) Satellite Image Data Legend
-Po
-sa com Sc Sone
-cM Soe oe ay oo teh i284 G4
-«16
-(28
-28 |
 The gray shades (values) represent temperature in degrees Celsius.
 Figure 24-23. Unenhanced Infrared (Black and White) Satellite Image Data Legend
 Chapter 24, Observations
@@ -2403,17 +1834,10 @@ could simply be high-level cirrus types or thunderstorms. That determination can
 this image by itself but could easily be determined when used in conjunction with corresponding visible
 and IR satellite images. A major advantage of the water vapor channel is that it can sense energy at night,
 so this imagery is available 24 hours a day.
-SS (ay
-: os
-2 SES 4
 The scale is in degrees Celsius. Blue/green colors indicate moisture and/or clouds in the mid/upper
 troposphere, while dark gray/orange/red colors indicate dry air in the mid/upper troposphere.
 Figure 24-24. Water Vapor Satellite Image—U.S. Example
 Chapter 24, Observations
-—a
-a
-ee,
-iiew
 24-50
 
 24.7.2.4.1 Water Vapor Image Data Legend
@@ -2421,7 +1845,6 @@ The data legend on water vapor images is calibrated to temperature expressed in 
 24-25). The actual data values on the water vapor images are not particularly useful. Interpretation of the
 patterns and how they change over time is more important. The legend may vary depending on the satellite
 image provider.
-| ~69 ~67)-65 63-6] -59)-57)-55]-53)-51 49-47-45 43) -4 1) 39) 3] 35) ~-33)-3 1] 29-27-25 ~23 -21 -19 -17 -15 -13 -11 |
 The colors (values) represent temperature in degrees Celsius.
 Figure 24-25. Water Vapor Satellite Image Data Legend
 24.7.3 Polar Operational Environment Satellites (POES)
@@ -2468,159 +1891,6 @@ weather is expected in a region.
 Chapter 24, Observations
 24-52
 
-=
-NATIONAL WEATHER SER
-some"
-VICE
-‘? apoc Pn
-PASN,oes
-PES © PEE org
-UPPER AIR
-tS
-pant®
-Alaska
-KUIL¢
-cen
-KOTX
-vy
-}o
-oF
-@ keaw
-¢
-we
-kas
-ant
-kev
-or
-‘eo
-rae
-e
-re
-SJ
-kw
-er
-ue?
-a @)
-SF kapx
-oe
-KCHH
-°
-RE
-°
-°
-KBUF
-Kev
-KLKN
-¢,
-o
-@
-KOTX
-Moi
-KLEF
-KOAX
-@ town
-le
-o
-val
-KEW
-KSLC
-core)
-‘
-KOAK
-KOT
-@
-o
-KUN
-*
-ora
-°
-iter
-¢
-pee
-°
-woe
-KRNK
-°
-Ker
-bd
-KFGZ
-°
-KOHX
-@ Kose
-rawce
-°
-od
-eon
-won
-KOUN
-an
-nine
-’
-°
-°
-KFFC
-ius
-Kemx \ gf
-o
-o
-KEPZ
-KMAE
-@ run
-an
-®
-me
-e
-«
-OHV
-Le
-KTAE
-\DRT
-ack ee
-e
-@KIAX
-¢
-KEW
-KORE
-°
-@iuFL
-Pacific Islands.
-KBRO®
-KEY.
-Mariana
-on
-Hawaii
-ad
-® Upper Air
-aya
-a"
-Islands
-Yap
-hut
-fon
-American Samoa
-oS &, yeh
-Puerto Rico and Virgin Islands
-‘@
-Guam
-Ko
-PTKR
-Pohnpe
-age
-PATO
-SEPTEMBER 2003,
-° Lae
-su
-as
-Gem
-||
-Ge
-eB
->
-=~
-.
-PTTP
-MIRS GIS GROUP
-a
 Figure 24-27. U.S. Radiosonde Network
 24.9 Aviation Weather Cameras
 24.9.1 FAA Aviation Weather Camera Network
@@ -2639,177 +1909,14 @@ Locations.
 Chapter 24, Observations
 24-53
 
-a
-[datsvolasrasrate
-a
-—
-® 20
-&e
-ee
-:
-® 08
-i
-Ss
-®
-©
-OE @
-e
-@
-o C8 SF B00
-6 2
-orld
-®
-%:
-©
-6 o% ®
-FCOO}
-a
-©
-de
-2 ©
-©
-@®
-:
-oe
-© 6B! BO,
-i
-SS
-90,
-Gr
-ee
-©
-OLRsGe
-lOO)
-Cm
-®
-QE
-9 PO
--
-®
-Te
-Ue
-2)
-@
-®
-OP BO ©
-OR
-©
-Cone”
-Go
-®
-oo
-©
-©®
-®
-ro}
-8 oe
-so
-SS
-on
-®
-Oc,
-°
-re)
-g
-CD oF
-wo
-@ canada
-we
-Wo
-©
-®
-®
-@
-OF ig, ®
-®
-®
-®
-®
--
-o
-@
-® ©
-%
-©»
-Ga
-®
-SNM
-3.
-3 ee
-®
-®
-Smo
-)
-Wes.
-9.
-©)
-®,
-© Sen
-8®
-eoTeferew ®
-©
-toh}
-®
-©
-POPS:Nos9
-BexsSe~@
-o©
-©°®
-@®
-ols
-S®
-SS
-®
-a
-©
-©®
-9. OF
-®
-OP:
-8 SS g ge
-aes coos
-o's
-® + a
-2 new York
-Oe,
-*
-al
-O50]
-+
-;
-#5 Legend
-taki
-é
-som
-Otaapcernar
 Figure 24-28. Map of FAA’s Aviation Weather Camera Network in Alaska, the CONUS, and Canada12
-=.
-©
-Kihei
-Kailua-Kona
-=
-fle
-Pahoa
-©
-i
 Figure 24-29. Map of the FAA’s Aviation Weather Camera Network in Hawaii
 12 Canadian camera sites are owned and operated by NAV CANADA, Canada’s civilian air navigation service
 provider.
 Chapter 24, Observations
 24-54
 
-ho aeSs)
-Sgr des |a:Ye-
-Ca td
-hexdsCALSS.eA eai»North)
 Figure 24-30. Sectional Chart Depicting Hyder (4Z7), Alaska Camera Orientations
-CLEARDAY VISUAL REFERENCE
-6300’ MSL
-3.0 SM
-‘Siteaf. 43" MSL Thee
-(as A el
-eo ye
-See
 Figure 24-31. “Clear Day” Image from the Aviation Weather Camera at Hyder (4Z7), Alaska
 Chapter 24, Observations
 24-55
@@ -2827,36 +1934,8 @@ VEIA visibility estimates are supplemental information, for use with other meteo
 displayed in conjunction with the specific site’s camera images. The visibility estimates are accessible on
 the FAA’s Aviation Weather Camera website. See Figure 24-33 for an example VEIA visibility estimate.
 Chapter 24, Observations
-“SO
-psecuicgymcetersoce
 24-56
 
-VEIA Estimated Visibility (ADVISORY)
-VEIA Survey (7
-VEIA Estimated Visibility is only available from sunrise to sunset (not during twilight hours or at night). VEIA will not report at sites with camera outages, obstructed views, or fewer than
-three cameras. VEIA is @ non-certified FAA Automated WX Source.
-Trend
-Most Recent Observation
-10mi
-a
-Visibility
-ea
-/
-7 statute miles
-3mi4+
-oe
-=
--
-09:072
-10:00z
-11:002
-2:002
-13:002
-14:002
-5.072
-j
-<€
-:
 Figure 24-33. VEIA Example at Bald Mountain (K7BM) in Colorado
 24.9.3 Visual Weather Observation System (VWOS)
 VWOS, which is available on the FAA’s Aviation Weather Camera Network, is an advanced camera system
@@ -2880,32 +1959,6 @@ imagery, and weather trends (see Figure 24-34)], TAFs, PIREPs, and other aeronau
 Chapter 24, Observations
 24-57
 
-‘siee_
-rr = “ =
-Ba
-masa
-‘sie ————
-dic
-—
-mbes
-=
-eee
-=
-—
-_
-= = =
-SS
-|
-0 aes
-|
-=e eee
-=
-—
-LSS Se ee
-siemes
-[ =
-=
-A
 Figure 24-34. Weather Trends Example at Unalakleet (PAUN), Alaska
 Chapter 24, Observations
 24-58

@@ -1,10 +1,11 @@
 {
   "bookName": "WeightBalance",
   "sourcePdf": "resources/library/WeightBalance/Weight & Balance Handbook FAA-H-8083-1B.pdf",
-  "cacheKey": "2e4c89df8c501e334f0e15bd4fbe1aa74c8bb57433083fb83b3116f4b9d3cddd",
+  "cacheKey": "0af89856d266e2e35fa2cf80292708e1a29a26baeea03dd337ac224ddea538ef",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "Weight and Balance Control",
       "startPage": 15,
       "endPage": 20,
       "images": [
@@ -392,6 +393,7 @@
     },
     {
       "chapter": "ch02",
+      "title": "Weight and Balance Theory",
       "startPage": 21,
       "endPage": 32,
       "images": [
@@ -5017,6 +5019,7 @@
     },
     {
       "chapter": "ch03",
+      "title": "Weighing the Aircraft and Determining the Empty Weight Center of Gravity",
       "startPage": 33,
       "endPage": 42,
       "images": [
@@ -7132,6 +7135,7 @@
     },
     {
       "chapter": "ch04",
+      "title": "Light Sport Aircraft Weight and Balance Control",
       "startPage": 43,
       "endPage": 48,
       "images": [
@@ -7272,6 +7276,7 @@
     },
     {
       "chapter": "ch05",
+      "title": "Single-Engine Aircraft Weight and Balance Computations",
       "startPage": 49,
       "endPage": 54,
       "images": [
@@ -7336,6 +7341,7 @@
     },
     {
       "chapter": "ch06",
+      "title": "Multiengine Aircraft Weight and Balance Computations",
       "startPage": 55,
       "endPage": 60,
       "images": [
@@ -7400,6 +7406,7 @@
     },
     {
       "chapter": "ch07",
+      "title": "Center of Gravity Change After a Repair or Alteration",
       "startPage": 61,
       "endPage": 68,
       "images": [
@@ -7502,6 +7509,7 @@
     },
     {
       "chapter": "ch08",
+      "title": "Weight and Balance Control— Helicopter",
       "startPage": 69,
       "endPage": 72,
       "images": [
@@ -9105,6 +9113,7 @@
     },
     {
       "chapter": "ch09",
+      "title": "Weight and Balance Control— Commuter Category and Large Aircraft",
       "startPage": 73,
       "endPage": 92,
       "images": [
@@ -9321,6 +9330,7 @@
     },
     {
       "chapter": "ch10",
+      "title": "Use of Computer for Weight and Balance Computations",
       "startPage": 93,
       "endPage": 93,
       "images": [

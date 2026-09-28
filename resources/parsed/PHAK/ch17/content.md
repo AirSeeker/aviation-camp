@@ -1,9 +1,6 @@
 Chapter 17
 Aeromedical
-Aeromedical
 Factors
-Factors
-|
 Introduction
 It is important for a pilot to be aware of the mental and
 physical standards required for the type of flying performed.
@@ -392,10 +389,6 @@ which also causes a temporary reduction in hearing
 Middle ear
 Eustachian tube
 Eardrum
-\
-_
-_—
-»)
 Auditory canal
 Outer ear
 Opening to throat
@@ -504,23 +497,6 @@ Semicircular canals
 Otolith organ
 ROLL
 PITCH
-—_|
--_
-—
-~
-™~
-ee
-eo
-Fa
-=
-—
-'
-|
-—
-—
-_
--
-4g
 PITCH
 ROLL
 YAW
@@ -577,21 +553,14 @@ flight deck, may set the fluid moving, creating the illusion
 of turning or accelerating on an entirely different axis. This
 action causes the pilot to think the aircraft is performing a
 maneuver it is not. The disoriented pilot may maneuver the
-_
-|
-ee
 aircraft into a dangerous attitude in an attempt to correct the
 aircraft’s perceived attitude.
 Graveyard spin
 For this reason, it is important that pilots develop an
 instrument cross-check or scan that involves minimal head
-w
 movement. Take care when retrieving charts and other objects
 in the flight deck—if something is dropped, retrieve it with
 minimal head movement and be alert for the coriolis illusion.
-_
-|
-.
 Graveyard Spiral
 As in other illusions, a pilot in a prolonged coordinated,
 constant-rate turn may experience the illusion of not
@@ -601,15 +570,6 @@ then experience the sensation of turning in the opposite
 Figure 17-5. Graveyard spiral.
 Endolymph
 Cupola
-.
-4g
-.
-.
-eo
-Le)
-ce)
-ce)
-o
 Tube
 No turning
 Start of turn
@@ -684,61 +644,16 @@ demonstration because it illustrates the inability to detect
 The disoriented pilots as a result may place the aircraft in a
 bank or roll.
 dangerous attitude.
-a
-~~
-yo
-N
-|
-|
-_—_
-——_
-—
-—
-—
--
-J
-fi
-|
-_
-~~I
-_
-_
-F
 Level
 Coordinated turn
-Pull out
-NN
-~~=
-Y |
-yo
-N
-,
-~~
-=
-|
-a
-——_=
-‘es
-~
-=
-ta
-es
-is
-—
-ve
-.
-|
-_—_—
-_
--_
-|
 Level skid
 Forward slip
-Uncoordinated turn
 Skid, slip, and uncoordinated turns feel similar.
 Pilots feel they are being forced sideways in their seat.
 Figure 17-6. Sensations from centrifugal force.
 17-8
+Pull out
+Uncoordinated turn
 
 There are several objectives in demonstrating these various
 maneuvers.
@@ -942,49 +857,35 @@ approaches to unfamiliar airports, particularly at night
 or in adverse weather conditions. Consult airport
 
 Runway width illusion
-fsa
 Narrower runway
 Wider runway
 • A narrower-than-usual runway can
 create an illusion that the aircraft
-q
 is higher than it actually is, leading
-_—
-ae
 to a lower approach.
 Normal Approach
 • A wider-than-usual runway can
 Normal Approach
 create an illusion that the aircraft is
-—
 lower than it actually is, leading to
 a higher approach.
-sy
 Narrower runway
 Wider runway
-_
-f
 Runway slope illusion
-a
 Downsloping runway
 Upsloping runway
 • A downsloping runway can create
 the illusion that the aircraft is lower
-—_—
 than it actually is, leading to a
 higher approach.
 Normal Approach
 • An upsloping runway can create
 Normal Approach
 the illusion that the aircraft is higher
-__a—
 than it actually is, leading to a lower
 approach.
-_
-=
 Downsloping runway
 Upsloping runway
-alll
 Normal approach
 Approach due to illusion
 Figure 17-7. Runway illusions.
@@ -1421,7 +1322,7 @@ the brain to use the oxygen that is available can add up to a
 0.27–0.40%
 apathy, impaired consciousness, stupor,
 (270–400 mg)
-significantly decreased response to
+signiﬁcantly decreased response to
 deadly combination.
 stimulation, severe muscular
 incoordination, inability to stand or walk,
@@ -1432,7 +1333,7 @@ bloodstream. This is usually measured as a percentage by
 unconsciousness, depressed or
 weight in the blood. 14 CFR part 91 requires that blood
 (350–500 mg)
-abolished reflexes, abnormal body
+abolished reﬂexes, abnormal body
 alcohol level be less than .04 percent and that 8 hours pass
 temperature, coma, possible death from
 respiratory paralysis (450 mg or above)
@@ -1858,53 +1759,22 @@ specific time periods following dives.
 compensate for potential problems.
 17-19
 
-iy
 The rods and
-daylight or when a high level of artificial illumination exists. @
 cones (film) of
-Rods and
 the retina are
-~~.
-cones
 the receptors
 which record
-if
 the image and
 transmit it
-A
 through the
-Fovea
-|
-Fovea centralis
 optic nerve to
-(all cones)
 the brain for
-”
 interpretation.
-Rod
 Lens
-nan
-concentration
--
-Optic disk
-(blind spot)
--
 Iris
-*
-at
-Gam,
-Optic nerve
-Retina
-PUPIL
 CORNEA
-The pupil (aperture) is the opening at
 Light passes through the cornea (the
-the center of the iris. The size of the
 transparent window on the front of the
-eye) and then through the lens to
-pupil is adjusted to control the amount
-of light entering the eye.
-focus on the retina.
 Figure 17-12. The human eye.
 light energy into electrical impulses that travel through nerves
 that a large amount of light overwhelms them, and they take
@@ -1937,6 +1807,7 @@ resolving fine detail (20/20 or better), but it functions only
 rods are better able to detect movement and provide vision
 in good illumination. Photopic vision is experienced during
 in dim light. The rods are unable to discern color but are
+daylight or when a high level of artificial illumination exists.
 very sensitive at low-light levels. The trouble with rods is
 Types of Vision
 Types of vision used
@@ -2003,15 +1874,11 @@ back of each eye is known as the optic disk. There is a total
 absence of cones and rods in this area, and consequently,
 each eye is completely blind in this spot. [Figure 17-14]
 As a result, it is referred to as the blind spot that everyone
-ae)
 Figure 17-15. The eye’s blind spot.
 Center of vision
 Blind spot
-a
 Pupil
 Retina
-_
-|
 Optic nerve
 LEFT
 Right
@@ -2037,10 +1904,6 @@ will notice the black X on the right side of the picture.
 4.
 Slowly move the page closer to you while continuing
 to stare at the airplane.
-|
-hee
-fh ae
-.
 17-21
 
 5.
@@ -2096,7 +1959,6 @@ for much of the peripheral vision. The concentration of cones
 in the fovea can make a night blind spot in the center of the
 field of vision. To see an object clearly at night, the pilot must
 17-22
-a9
 Figure 17-16. Night vision.
 expose the rods to the image. This can be done by looking 5°
 to 10° off center of the object to be seen. This can be tried in
@@ -2109,16 +1971,8 @@ ability to see an object in the center of the visual field is
 reduced as the cones lose much of their sensitivity and the
 rods become more sensitive. Looking off center can help
 compensate for this night blind spot. Along with the loss of
-—
-@®
-/
--
 Cones active
-_
-@®
-/
 Night blind spot
--
 Rods active
 Pilots must look 5°–10° off center of the
 object in order for the object to be seen.
@@ -2149,8 +2003,6 @@ toward the position of the aircraft (bottom). For each stop, an
 area approximately 30° wide should be scanned. The duration
 of each stop is based on the degree of detail that is required,
 but no stop should last longer than 2 to 3 seconds. When
-_
-=
 Figure 17-18. Scanning techniques.
 moving from one viewing point to the next, pilots should
 overlap the previous field of view by 10°. [Figure 17-18]
@@ -2175,23 +2027,11 @@ process and to keep the eyes adapted to darkness. Some of
 the steps pilots and flight crews can take to protect their night
 vision are described in the following paragraphs.
 10°
-@
-@
-FrSY
-og
-@
-@
-Giii>
-=a
 17-23
 
-——
 Focal points
-> |
-ty
 X
 10 degrees
-—
 X
 X
 X
@@ -2316,38 +2156,38 @@ capacity to combine with oxygen, so less oxygen is carried
 in the blood. Hypoxia caused by carbon monoxide poisoning
 HYPOGLYCEMIA
 HYPOGLYCEMIA
-HYPOGLYCEMIA
-HYPOGLYCEMIA
 DRUGS
 DRUGS
-DRUGS
-DRUGS
-NUTRITIONAL
-NUTRITIONAL
+UGS
+UGS
+HYPO
+HYPO
 NUTRITIONAL
 NUTRITIONAL
 EXHAUSTION
 EXHAUSTION
-EXHAUSTION
-EXHAUSTION
-DEFICIENCY
-DEFICIENCY
+STION
+STION
+NUT
+NUT
 DEFICIENCY
 DEFICIENCY
 POOR PHYSICAL
-POOL PHYSICAL
+CAL
+DE
 POOR PHYSICAL
+DE
 CONDITION
+TION
 CONDITION
-CONDITION
 TOBACCO
+CCO
 TOBACCO
-TOBACCO
-TOBACCO
+CCO
 ALCOHOL
+AL
 ALCOHOL
-ALCOHOL
-ALCOHOL
+AL
 Figure 17-20. Self-imposed stress.
 affects peripheral vision and dark adaptation. The results
 are the same as those for hypoxia caused by high altitude.
@@ -2385,288 +2225,178 @@ or remain fixed. The rate of apparent movement depends on
 the distance the observer is from the object.
 17-25
 
-make an obvious difference in the viewing angle of both eyes.
 Geometric Perspective
-In the flight environment, most distances outside the cockpit
 An object may appear to have a different shape when viewed
-are so great that binocular cues are of little, if any, value. In
 at varying distances and from different angles. Geometric
-addition, binocular cues operate on a more subconscious
 perspective cues include linear perspective, apparent
-level than monocular cues and are performed automatically.
 foreshortening, and vertical position in the field.
 •
 Linear perspective—parallel lines, such as runway
-Night Vision Illusions
 lights, power lines and railroad tracks, tend to
-There are many different types of visual illusions that
 converge as distance from the observer increases.
-commonly occur at night. Anticipating and maintaining
 [Figure 17-21A]
-awareness of them is usually the best way to avoid them.
 •
 Apparent foreshortening—the true shape of an object
 or a terrain feature appears elliptical when viewed
-Autokinesis
 from a distance. [Figure 17-21B]
-Autokinesis is caused by staring at a single point of light
 •
 Vertical position in the field—objects or terrain
-against a dark background for more than a few seconds.
 features farther away from the observer appear higher
-After a few moments, the light appears to move on its own.
 on the horizon than those closer to the observer.
-Apparent movement of the light source will begin in about
-8 to 10 seconds. To prevent this illusion, focus the eyes on
 [Figure 17-21C]
-objects at varying distances and avoid fixating on one source
-of light. This illusion can be eliminated or reduced by visual
 Aerial Perspective
-scanning, by increasing the number of lights, or by varying
 The clarity of an object and the shadow cast by it are
-the light intensity. The most important of the three solutions
 perceived by the brain and are cues for estimating distance.
-is visual scanning. A light or lights should not be stared at
 Subtle variations in color or shade are clearer the closer the
-for more than 10 seconds.
 observer is to an object. However, as distance increases,
 these distinctions may become blurry. The same applies to
-False Horizon
 an object detail or texture. As a person gets farther from an
 object, its discrete details become less apparent. Another
-A false horizon can occur when the natural horizon is
 important fact to remember while flying at night is that every
-obscured or not readily apparent. It can be generated by
 object casts a shadow from a light source. The direction in
-confusing bright stars and city lights. It can also occur while
 which the shadow is cast depends on the position of the light
-flying toward the shore of an ocean or a large lake. Because
 source. If the shadow of an object is cast toward the observer,
-of the relative darkness of the water, the lights along the
 the object is closer than the light source is to the observer.
-shoreline can be mistaken for stars in the sky. [Figure 17-22]
 Binocular Cues
-Reversible Perspective Illusion
 Binocular cues of an object are dependent upon the slightly
-At night, an aircraft may appear to be moving away from
 different viewing angle of each eye of an object. Binocular
-a second aircraft when it is, in fact, approaching a second
 perception is useful only when the object is close enough to
-aircraft. This illusion often occurs when an aircraft is flying
--_
-—
-———
-——
->
-a
-a
->
 A
-B
-C
-|
-A
-a
-|
--
--_
-_
-——
--
->
-|
-A
->
-aa
-ii
--
--
--
--
-_
-ZZ
-_
-|
->
--
->
-A
-Zz
--
-—
-—_
-dt
 Figure 17-21. Geometric perspective.
 17-26
+make an obvious difference in the viewing angle of both eyes.
+In the flight environment, most distances outside the cockpit
+are so great that binocular cues are of little, if any, value. In
+addition, binocular cues operate on a more subconscious
+level than monocular cues and are performed automatically.
+Night Vision Illusions
+There are many different types of visual illusions that
+commonly occur at night. Anticipating and maintaining
+awareness of them is usually the best way to avoid them.
+Autokinesis
+Autokinesis is caused by staring at a single point of light
+against a dark background for more than a few seconds.
+After a few moments, the light appears to move on its own.
+Apparent movement of the light source will begin in about
+8 to 10 seconds. To prevent this illusion, focus the eyes on
+objects at varying distances and avoid fixating on one source
+of light. This illusion can be eliminated or reduced by visual
+scanning, by increasing the number of lights, or by varying
+the light intensity. The most important of the three solutions
+is visual scanning. A light or lights should not be stared at
+for more than 10 seconds.
+False Horizon
+A false horizon can occur when the natural horizon is
+obscured or not readily apparent. It can be generated by
+confusing bright stars and city lights. It can also occur while
+flying toward the shore of an ocean or a large lake. Because
+of the relative darkness of the water, the lights along the
+shoreline can be mistaken for stars in the sky. [Figure 17-22]
+Reversible Perspective Illusion
+At night, an aircraft may appear to be moving away from
+a second aircraft when it is, in fact, approaching a second
+aircraft. This illusion often occurs when an aircraft is flying
+B
+C
 
-Actual horizon
-Apparent horizon
-Pe)|e
-e060 eee "9
-Figure 17-22. At night, the horizon may be hard to discern due to dark terrain and misleading light patterns on the ground.
-parallel to another’s course. To determine the direction of
-steep surrounding terrain, and a wide runway can produce the
-,
-aaa
-ES gi ESE! Pa
-flight, pilots should observe aircraft lights and their relative
-illusion of being too low with a tendency to fly a higher-than-
-position to the horizon. If the intensity of the lights increases,
-normal approach. A set of regularly spaced lights along a road
 the aircraft is approaching; if the lights dim, the aircraft is
-or highway can appear to be runway lights. Pilots have even
 moving away.
-mistaken the lights on moving trains as runway or approach
-lights. Bright runway or approach lighting systems can create
 Size-Distance Illusion
-the illusion that the aircraft is closer to the runway, especially
-where few lights illuminate the surrounding terrain.
 This illusion results from viewing a source of light that is
 increasing or decreasing in luminance (brightness). Pilots
-Prior to flying at night, it is best to learn and know the
 may interpret the light as approaching or retreating.
-challenges of the area in which you are flying in. Study the
-area and know how to navigate your way through areas that
 Fascination (Fixation)
-may pose a problem at night. For example, many areas near
 This illusion occurs when pilots ignore orientation cues and
-water may be obscured by low lying clouds or fog. To help
 fix their attention on a goal or an object. Student pilots tend to
-deal with this type of situation, it is important to have a plan
 have this happen when they are concentrating on the aircraft
-before you leave the ground. In the daytime, fly the routes
 instruments or attempting to land. They become fixated on
-and passes that you will be flying at night and determine the
 one task and forget to look at what is going on around them.
-minimum altitude you are willing to use at night. If weather
 At night, this can be especially dangerous because aircraft
-prevents you from maintaining the altitude that you planned,
 ground-closure rates are difficult to determine, and there may
-make a decision early to turn 180° and land at an alternate
 be minimal time to correct the situation.
-airport with better weather conditions. Always consider
-safer alternatives rather than hope things will work out by
 Flicker Vertigo
-taking a chance.
 A light flickering at a rate between 4 and 20 cycles per
 second can produce unpleasant and dangerous reactions. Such
-Pilots who fly at night should strongly consider oxygen
 conditions as nausea, vomiting, and vertigo may occur. On
-supplementation at altitudes and times not required by the
 rare occasions, convulsions and unconsciousness may also
-FAA, especially at night when critical judgment and hand-eye
 occur. Proper scanning techniques at night can prevent pilots
-coordination is necessary (e.g., IFR) or if he/she is a smoker
 from getting flicker vertigo.
-or not perfectly healthy.
 Night Landing Illusions
-Enhanced Night Vision Systems
 Landing illusions occur in many forms. Above featureless
-Synthetic Vision Systems (SVS) and Enhanced Flight Vision
 terrain at night, there is a natural tendency to fly a lower-
-Systems (EFVS) are two systems that can improve the safety
 than-normal approach. Elements that cause any type of
-of flight at night. The technology of both is evolving rapidly
 visual obscurities, such as rain, haze, or a dark runway
-and being used more and more. [Figure 17-23]
 environment, can also cause low approaches. Bright lights,
+or highway can appear to be runway lights. Pilots have even
+mistaken the lights on moving trains as runway or approach
+lights. Bright runway or approach lighting systems can create
+the illusion that the aircraft is closer to the runway, especially
+where few lights illuminate the surrounding terrain.
+Prior to flying at night, it is best to learn and know the
+challenges of the area in which you are flying in. Study the
+area and know how to navigate your way through areas that
+may pose a problem at night. For example, many areas near
+water may be obscured by low lying clouds or fog. To help
+deal with this type of situation, it is important to have a plan
+before you leave the ground. In the daytime, fly the routes
+and passes that you will be flying at night and determine the
+minimum altitude you are willing to use at night. If weather
+prevents you from maintaining the altitude that you planned,
+make a decision early to turn 180° and land at an alternate
+airport with better weather conditions. Always consider
+safer alternatives rather than hope things will work out by
+taking a chance.
+Pilots who fly at night should strongly consider oxygen
+supplementation at altitudes and times not required by the
+FAA, especially at night when critical judgment and hand-eye
+coordination is necessary (e.g., IFR) or if he/she is a smoker
+or not perfectly healthy.
+Enhanced Night Vision Systems
+Synthetic Vision Systems (SVS) and Enhanced Flight Vision
+Systems (EFVS) are two systems that can improve the safety
+of flight at night. The technology of both is evolving rapidly
+and being used more and more. [Figure 17-23]
 17-27
 
-Synthetic vision system
-Enhanced vision system
-—
-a
-,
-—|
-——
 Figure 17-23. Synthetic and enhanced vision systems.
 Synthetic Vision System
-obvious advantages of SVS are that the digital terrain image
-remains on the pilot’s display regardless of how poor the
 A Synthetic Vision System (SVS) is an electronic means
-visibility is outside.
 to display a synthetic vision image of the external scene
 topography to the flight crew. [Figure 17-24] It is not a
-An SVS image can be displayed on either a head-down
 real-time image like that produced by an EFVS. Unlike
-display or head-up display (HUD); however, to date, SVS
 EFVS, SVS requires a terrain and obstacle database, a
-has only been certified on head-down displays. Development
 precise navigation solution, and a display. The terrain
-efforts to display a synthetic image on a HUD are currently
 image is based on the use of data from a Digital Elevation
-underway as are efforts that would combine SVS with a real-
 Model (DEM) that is stored within the SVS. With SVS, the
-time sensor image produced by an EFVS. These systems are
 synthetic terrain/vision image is intended to enhance pilot
-known as Combined Vision Systems. While SVS is currently
 awareness of spatial position relative to important features
-certified as an aid to situation awareness only, the FAA
 in all visibility conditions. This is particularly useful during
-and aviation industry are working on defining operational
 critical phases of flight, such as takeoff, approach, and
-concepts and airworthiness criteria that would enable SVS
 landing, where important features, such as terrain, obstacles,
-to be used for operational credit in certain low visibility
 runways, and landmarks, may be depicted on the SVS
-conditions. Other future enhancements to SVS displays could
 display. [Figure 17-25] During approach operations, the
-include integrating ADS-B to display traffic information.
-=15
-Laat?
-Enhanced Flight Vision System
-a0
-Enhanced Vision (EV) or Enhanced Flight Vision System
-(EFVS) is an electronic means to provide a display of
-A
-‘
-=
-Sey
-ae,
-at ea
-off
-ie
-)
-om
--
-.
-med)
-— —_an)
-+100
-Se OS
-—
-———— Be
-rs
-a
-:
-5 ee
-=
-=
-=
-z
-rea
-+
-=>
->
-fF
-B00
-a.)
-Hy =-10
--
-=.
-mdi
-yoo
--a-10
-|
-sia
-ropes
-800. US
->»
->.
-4+
-Figure 17-25. Night time SVS system.
 Figure 17-24. SVS system.
 17-28
+obvious advantages of SVS are that the digital terrain image
+remains on the pilot’s display regardless of how poor the
+visibility is outside.
+An SVS image can be displayed on either a head-down
+display or head-up display (HUD); however, to date, SVS
+has only been certified on head-down displays. Development
+efforts to display a synthetic image on a HUD are currently
+underway as are efforts that would combine SVS with a real-
+time sensor image produced by an EFVS. These systems are
+known as Combined Vision Systems. While SVS is currently
+certified as an aid to situation awareness only, the FAA
+and aviation industry are working on defining operational
+concepts and airworthiness criteria that would enable SVS
+to be used for operational credit in certain low visibility
+conditions. Other future enhancements to SVS displays could
+include integrating ADS-B to display traffic information.
+Enhanced Flight Vision System
+Enhanced Vision (EV) or Enhanced Flight Vision System
+(EFVS) is an electronic means to provide a display of
+Figure 17-25. Night time SVS system.
 
 the external scene by use of an imaging sensor, such as
 a Forward-Looking InfraRed (FLIR) or millimeter wave

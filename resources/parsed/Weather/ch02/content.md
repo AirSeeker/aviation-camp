@@ -1,8 +1,3 @@
-NASA, and commercial aviation weather providers. —_
-2 Aviation Weather Service Program
-2.1 Introduction
-The aviation weather service program is a joint effort of the National Oceanic and Atmospheric
-Administration (NOAA), the Federal Aviation Administration (FAA), the Department of Defense (DOD),
 Chapter 2, Aviation Weather Service Program
 2-1
 

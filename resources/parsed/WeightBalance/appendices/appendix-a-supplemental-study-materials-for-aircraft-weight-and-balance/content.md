@@ -1,5 +1,4 @@
 Appendix A
-AppendixA
 Supplemental Study Materials for Aircraft Weight and Balance
 FAA Publications
 (check for most current revision)

@@ -1,8 +1,6 @@
 Chapter 8
 Flight
-.
 Instruments
-a
 Introduction
 In order to safely fly any aircraft, a pilot must understand
 how to interpret and operate the flight instruments. The
@@ -22,27 +20,13 @@ utilized for the operation of the airspeed indicator (ASI),
 altimeter, and vertical speed indicator (VSI). [Figure 8-1]
 8-1
 
-Altimeter
 Airspeed indicator (ASI)
 Vertical speed indicator (VSI)
-aaa
-al
-»
-aaa
-P~
-@}
-a
-29.8
-29.9
-30.0
 Pressure chamber
-Static port
 Static chamber
 Baffle plate
 Pitot tube
 Drain hole
-Jf
-.
 Ram air
 Static hole
 Heater (35 watts)
@@ -99,6 +83,8 @@ there is a small hole in the back of the chamber that allows
 The alternate static source is normally found inside the flight
 moisture to drain from the system should the aircraft enter
 8-2
+Altimeter
+Static port
 
 deck. Due to the venturi effect of the air flowing around the
 fuselage, the air pressure inside the flight deck is lower than
@@ -151,16 +137,6 @@ aneroid wafers (29.92 "Hg), then the wafers are compressed
 10,000 ft. pointer
 1,000 ft. pointer
 Aneroid wafers
-—
-s
-|
-|
-~
-|
-|
-|
-=
-SY
 Crosshatch flag
 Static port
 A crosshatched area appears on
@@ -226,17 +202,11 @@ hazardous situation could occur. For example, if an aircraft is
 flown from a high pressure area to a low pressure area without
 adjusting the altimeter, a constant altitude will be displayed,
 but the actual height of the aircraft above the ground would
-a
 5,000 foot pressure level
-i|
 4,000 foot pressure level
-|
 3,000 foot pressure level
 2,000 foot pressure level
-i
-et
 1,000 foot pressure level
-——
 Sea level
 Figure 8-3. Effects of nonstandard temperature on an altimeter.
 8-4
@@ -271,13 +241,9 @@ that a colder-than-standard temperature places the aircraft
 lower than the altimeter indicates. Therefore, a higher
 indicated altitude may be required to provide adequate terrain
 clearance. A variation of the memory aid used for pressure
-|
 30°C
 15°C
-—
-—
 0°C
-—
 
 can be employed: “FROM HOT TO COLD, LOOK OUT
 at higher levels, particularly the effect of nonstandard
@@ -557,19 +523,10 @@ is indicated on the instrument needle as a climb or descent.
 When the pressure differential stabilizes at a definite ratio,
 the needle indicates the rate of altitude change.
 Diaphragm
-—
-I
-_
-|
-ee
 VERTICAL SPEED
-i
-UP
+P
 THOUSAND FT PER MIN
-=
-I
-DOWN
-SY
+OWN
 Direct static pressure
 Calibrated leak
 Figure 8-5. Vertical speed indicator (VSI).
@@ -608,37 +565,13 @@ the zero line. After takeoff, the VSI should trend upward to
 indicate a positive rate of climb and then, once a stabilized
 climb is established, a rate of climb can be referenced.
 Accelerometer
-=
-_
-a
-,
-~~
-—
-_ &§
-ge
-li
--
-.
-a
-Pa
-\
-a
-St
-SF
 I
 .5
 UP
-ys
-|
-\
-—
-]
 .5
 DOWN
 I
->
 Inlet from static port
-=
 Calibrated leak
 Figure 8-6. An IVSI incorporates accelerometers to help the
 instrument immediately indicate changes in vertical speed.
@@ -675,17 +608,8 @@ or temperature.
 Diaphragm
 Long lever
 Sector
-_
-~
 Pitot connection
--
--
-=
-~
 Pitot tube
--
-_
--_
 Ram air
 Handstaff pinion
 Static air line
@@ -748,29 +672,21 @@ speed and its upper limit provides the maximum flap
 VNE (red line)
 VS0
 Yellow arc
-el
->»
-eal
-a
 VS1
 F°
->.
 -
 PRESS
 ALT
 AIRSPEED
-ei
 KNOTS
 VN0
 White arc
 MPH
 MPH
 T.A.S.
-el
 KTS
 VFE
 Green arc
-ei
 Figure 8-8. Single engine airspeed indicator (ASI).
 speed. Approaches and landings are usually flown at
 speeds within the white arc.
@@ -900,47 +816,52 @@ unobstructed, the following claims can be made:
 2. Dynamic pressure and static pressure are equal.
 3. Because both dynamic and static air pressure are equal
 at zero speed with increased speed, dynamic pressure
->»
 Pitot tube
-Static port
 Blockage
-Drain hole
 Figure 8-9. A blocked pitot tube, but clear drain hole.
+Static port
+Drain hole
 
+Figure 8-10. Blocked pitot system with clear static system.
+must include two components: static pressure and
+dynamic pressure.
+It can be inferred that airspeed indication must be based upon
+a relationship between these two pressures, and indeed it is.
+An ASI uses the static pressure as a reference pressure and
+as a result, the ASI’s case is kept at this pressure behind the
+diaphragm. On the other hand, the dynamic pressure through
+the pitot tube is connected to a highly sensitive diaphragm
+within the ASI case. Because an aircraft in zero motion
+(regardless of altitude) results in a zero airspeed, the pitot tube
+always provides static pressure in addition to dynamic pressure.
+Therefore, the airspeed indication is the result of two
+pressures: the pitot tube static and dynamic pressure within
+the diaphragm as measured against the static pressure in the
+ASI’s case.
+If the aircraft were to descend while the pitot tube is
+obstructed, the pressure in the pitot system, including the
+diaphragm, would remain constant. But as the descent
+is made, the static pressure would increase against the
 diaphragm causing it to compress, thereby resulting in an
-aa
-»
 indication of decreased airspeed. Conversely, if the aircraft
 were to climb, the static pressure would decrease allowing
-EG
 the diaphragm to expand, thereby showing an indication of
 greater airspeed. [Figure 8-10]
 The pitot tube may become blocked during flight due to
-Blockage
-Static port
 visible moisture. Some aircraft may be equipped with pitot
 heat for flight in visible moisture. Consult the AFM/POH for
 specific procedures regarding the use of pitot heat.
-Pitot tube
-Drain hole
 Blocked Static System
 If the static system becomes blocked but the pitot tube
 remains clear, the ASI continues to operate; however, it
-aaa
-»
--_
 is inaccurate. The airspeed indicates lower than the actual
 airspeed when the aircraft is operated above the altitude
 where the static ports became blocked because the trapped
 static pressure is higher than normal for that altitude. When
-Climb
 operating at a lower altitude, a faster than actual airspeed is
 displayed due to the relatively low static pressure trapped
 in the system.
 Revisiting the ratios that were used to explain a blocked pitot
->»
-eal
-Descent
 tube, the same principle applies for a blocked static port. If
 the aircraft descends, the static pressure increases on the pitot
 side showing an increase on the ASI. This assumes that the
@@ -948,42 +869,22 @@ aircraft does not actually increase its speed. The increase in
 static pressure on the pitot side is equivalent to an increase
 in dynamic pressure since the pressure cannot change on
 the static side.
-Figure 8-10. Blocked pitot system with clear static system.
 If an aircraft begins to climb after a static port becomes
-must include two components: static pressure and
 blocked, the airspeed begins to show a decrease as the
-dynamic pressure.
 aircraft continues to climb. This is due to the decrease in
 static pressure on the pitot side, while the pressure on the
-It can be inferred that airspeed indication must be based upon
 static side is held constant.
-a relationship between these two pressures, and indeed it is.
-An ASI uses the static pressure as a reference pressure and
 A blockage of the static system also affects the altimeter and
-as a result, the ASI’s case is kept at this pressure behind the
 VSI. Trapped static pressure causes the altimeter to freeze
-diaphragm. On the other hand, the dynamic pressure through
 at the altitude where the blockage occurred. In the case of
-the pitot tube is connected to a highly sensitive diaphragm
 the VSI, a blocked static system produces a continuous zero
-within the ASI case. Because an aircraft in zero motion
 indication. [Figure 8-11]
-(regardless of altitude) results in a zero airspeed, the pitot tube
-always provides static pressure in addition to dynamic pressure.
 Some aircraft are equipped with an alternate static source in
 the flight deck. In the case of a blocked static source, opening
-Therefore, the airspeed indication is the result of two
 the alternate static source introduces static pressure from the
-pressures: the pitot tube static and dynamic pressure within
 flight deck into the system. Flight deck static pressure is lower
-the diaphragm as measured against the static pressure in the
 than outside static pressure. Check the aircraft AOM/POH for
-ASI’s case.
 airspeed corrections when utilizing alternate static pressure.
-If the aircraft were to descend while the pitot tube is
-obstructed, the pressure in the pitot system, including the
-diaphragm, would remain constant. But as the descent
-is made, the static pressure would increase against the
 8-11
 
 available to a pilot, but also how the information is displayed.
@@ -996,19 +897,8 @@ Primary electronic instrumentation packages are less prone
 Frozen altimeter
 to failure than their analogue counterparts. No longer is it
 necessary for aircraft designers to create cluttered panel
-al
-al
-al
->
-=
--_
 layouts in order to accommodate all necessary flight
-@
-|
 instruments. Instead, multi-panel digital flight displays
-29.8
-29.9
-30.0
 combine all flight instruments onto a single screen that is
 called a primary flight display (PFD). The traditional “six
 pack” of instruments is now displayed on one liquid crystal
@@ -1042,30 +932,12 @@ NAV1 108.00 113.00
 Slip skid indicator
 Attitude indicator
 Altimeter
-oO
--
-oO
--
 NAV2 108.00 110.60
 123.800 118.000 COM2
-oO
-oO
--
 Vertical speed indicator (VSI)
-Y
-—
 Airspeed indicator
-oO
-oO
->
-,
-.
-—
 270°
--
 TAS 106KT
-OT
-_—
 Turn indicator
 VOR 1
 Slip/skid indicator
@@ -1076,8 +948,6 @@ XPDR 5537 IDNT LCL10:12:34
 Turn rate indicator tick marks
 OAT 6°C
 VOR 1
-oO
-oO
 INSET
 PFD
 OBS
@@ -1088,164 +958,97 @@ IDENT
 TMR/REF
 NRST
 ALERTS
--
 Turn rate trend vector
 Figure 8-12. Primary flight display (PFD). Note that the actual location of indications vary depending on manufacturers.
 8-12
 
-Turn Indicator
 normal range, and caution range. [Figure 8-12] The number
 value changes color to red when the airspeed exceeds VNE to
-The turn indicator takes a slightly different form than the
 warn the pilot of exceeding the maximum speed limitation.
-traditional instrumentation. A sliding bar moves left and right
-below the triangle to indicate deflection from coordinated
 Attitude Indicator
-flight. [Figure 8-12] Reference for coordinated flight comes
 One improvement over analogue instrumentation is the
-from accelerometers contained in the AHRS unit.
 larger attitude indicator on EFD. The artificial horizon spans
-Tachometer
 the entire width of the PFD. [Figure 8-12] This expanded
 instrumentation offers better reference through all phases of
-The sixth instrument normally associated with the “six pack”
 flight and all flight maneuvers. The attitude indicator receives
-package is the tachometer. This is the only instrument that is
 its information from the Attitude Heading and Reference
-not located on the PFD. The tachometer is normally located
 System (AHRS).
-on the multi-function display (MFD). In the event of a display
-screen failure, it is displayed on the remaining screen with
 Altimeter
-the PFD flight instrumentation. [Figure 8-13]
 The altimeter is located on the right side of the PFD.
-Slip/Skid Indicator
 [Figure 8-12] As the altitude increases, the larger numbers
 descend from the top of the display tape, with the current
-The slip/skid indicator is the horizontal line below the roll
 altitude being displayed in the black box in the center of the
-pointer. [Figure 8-12] Like a ball in a turn-and-slip indicator,
 display tape. The altitude is displayed in increments of 20 feet.
-a bar width off center is equal to one ball width displacement.
 Vertical Speed Indicator (VSI)
-Turn Rate Indicator
 The VSI is displayed to the right of the altimeter tape and can
-The turn rate indicator, illustrated in Figure 8-12, is typically
 take the form of an arced indicator or a vertical speed tape.
-found directly above the rotating compass card. Tick marks to
 [Figure 8-12] Both are equipped with a vertical speed bug.
-the left and right of the lubber line denote the turn (standard-
-rate versus half standard-rate). Typically denoted by a trend
 Heading Indicator
-line, if the trend vector is extended to the second tick mark
 The heading indicator is located below the artificial horizon
-the aircraft is in a standard-rate turn.
 and is normally modeled after a Horizontal Situation
 Indicator (HSI). [Figure 8-12] As in the case of the attitude
-Individual panel displays can be configured for a variety
 indicator, the heading indicator receives its information from
-of aircraft by installing different software packages.
 the magnetometer, which feeds information to the AHRS unit
-[Figure 8-14] Manufacturers are also able to upgrade existing
 and then out to the PFD.
+Figure 8-13. Multi-function display (MFD).
+Turn Indicator
+The turn indicator takes a slightly different form than the
+traditional instrumentation. A sliding bar moves left and right
+below the triangle to indicate deflection from coordinated
+flight. [Figure 8-12] Reference for coordinated flight comes
+from accelerometers contained in the AHRS unit.
+Tachometer
+The sixth instrument normally associated with the “six pack”
+package is the tachometer. This is the only instrument that is
+not located on the PFD. The tachometer is normally located
+on the multi-function display (MFD). In the event of a display
+screen failure, it is displayed on the remaining screen with
+the PFD flight instrumentation. [Figure 8-13]
+Slip/Skid Indicator
+The slip/skid indicator is the horizontal line below the roll
+pointer. [Figure 8-12] Like a ball in a turn-and-slip indicator,
+a bar width off center is equal to one ball width displacement.
+Turn Rate Indicator
+The turn rate indicator, illustrated in Figure 8-12, is typically
+found directly above the rotating compass card. Tick marks to
+the left and right of the lubber line denote the turn (standard-
+rate versus half standard-rate). Typically denoted by a trend
+line, if the trend vector is extended to the second tick mark
+the aircraft is in a standard-rate turn.
+Individual panel displays can be configured for a variety
+of aircraft by installing different software packages.
+[Figure 8-14] Manufacturers are also able to upgrade existing
 instrument displays in a similar manner, eliminating the need
 to replace individual gauges in order to upgrade.
-an
-ie) fatal) ba] ries Se @
-=
-tm BE |
-||, re
-gia
-de = +:
-=
-i
-“Kel
-joke, PET
-Be)
-FiO) Pores S00. ae
-ie
-ee
-LOS
-Sggeiftcenineeoses LY 20. KOd ieee
-ae
-oe
-ai
-Pen)
-e
-oD
-”
-SS
-|
-D> (E™
-Sy)>
-‘
-© Spossooeo fo eee me
-lL
-:
-;
-meen
-(90000000
-7?) 22
->
-4°
-EET
-PiOhentt
-Ee =
-Figure 8-13. Multi-function display (MFD).
 8-13
 
-——
-vassPies©
-©
 UY
-. Pe
 30.30
 00:03:29
-©
-©}
-I
-A
 UX
-@
 VS
 2320B
-Cc
 W
 S
 N
 E
-€
 MA239 5800’
 IFR APPR
 239 2.3NM
 ANG
 239 A
-Army,
 Figure 8-15. Teledyne’s 90004 TAS/Plus Air Data Computer (ADC)
 computes air data information from the pitot-static pneumatic
-a)
-i)
 system, aircraft temperature probe, and barometric correction
 device to help create a clear picture of flight characteristics.
-7 ee
 does not enter a diaphragm. The ADC computes the received
-+
-B:
-\
 barometric pressure and sends a digital signal to the PFD to
 display the proper altitude readout. EFDs also show trend
 vectors, which show the pilot how the altitude and airspeed
 are progressing.
 Trend Vectors
-S
-Sa
-eo
 Trend vectors are magenta lines that move up and down both
 the ASI and the altimeter. [Figures 8-16 and 8-17] The ADC
-eed
-@
-Haae
-@
 computes the rate of change and displays the 6-second projection
 of where the aircraft will be. Pilots can utilize the trend vectors
 Figure 8-14. Chelton’s FlightLogic (top) and Avidyne’s Entegra
@@ -1259,7 +1062,6 @@ avionics manufacturer’s training material.
 EFDs utilize the same type of instrument inputs as traditional
 analogue gauges; however, the processing system is different.
 The pitot static inputs are received by an ADC. The ADC
-P,
 Airspeed trend vector
 computes the difference between the total pressure and the
 static pressure and generates the information necessary to
@@ -1284,7 +1086,6 @@ their plane of rotation. This is why a bicycle is unstable and
 maneuverable at low speeds and stable and less maneuverable
 at higher speeds.
 Altitude trend vector
-—a
 By mounting this wheel, or gyroscope, on a set of gimbal
 rings, the gyro is able to rotate freely in any direction. Thus,
 -375
@@ -1305,7 +1106,6 @@ deflective force. The reaction to this force does not occur at
 the point at which it was applied; rather, it occurs at a point
 that is 90° later in the direction of rotation. This principle
 allows the gyro to determine a rate of turn by sensing the
-Figure 4-27. Supporting Instruments
 Figure 8-17. Altimeter trend vector.
 amount of pressure created by a change in direction. The rate
 at which the gyro precesses is inversely proportional to the
@@ -1332,62 +1132,18 @@ Any spinning object exhibits gyroscopic properties. A wheel
 applying a force to the front of the tire, causing the bicycle
 or rotor designed and mounted to utilize these properties is
 called a gyroscope. Two important design characteristics
-~
 of an instrument gyro are great weight for its size, or high
-\\,
-if
-J
-~
-if
 density, and rotation at high speed with low friction bearings.
-{
-_
-|
-~ |
 There are two general types of mountings; the type used
-»
-|
 depends upon which property of the gyro is utilized. A freely
 or universally mounted gyroscope is free to rotate in any
-~
 direction about its center of gravity. Such a wheel is said to
-y
 have three planes of freedom. The wheel or rotor is free to
-|
-|
-zi
-\
-~
-i
-ue
-|
-ii
-~
 rotate in any plane in relation to the base and is balanced so
-if
-}
-:
-»
 that, with the gyro wheel at rest, it remains in the position
-’
 in which it is placed. Restricted or semi-rigidly mounted
-Ss
 gyroscopes are those mounted so that one of the planes of
-|
-|
 freedom is held fixed in relation to the base.
-f
-—
-fi
-oY,
-.\'
-=
-4)
-~ |
-SS
--
-~
-|
 There are two fundamental properties of gyroscopic action:
 rigidity in space and precession.
 Rigidity in Space
@@ -1432,12 +1188,7 @@ in the aircraft’s instrument panel and indicates the amount
 Plane of Rotation
 Plane of Force
 FORCE
-_
 Plane of Precession
-/
-————
-|
-oe
 Figure 8-19. Precession of a gyroscope resulting from an applied
 deflective force.
 8-16
@@ -1490,47 +1241,20 @@ is displaced from its normal plane of rotation, rendering its
 indications invalid. Certain instruments have specific pitch
 and bank limits that induce a tumble of the gyro.
 
-[ J
-_
-_
 Vacuum relief valve
 Heading indicator
 Overboard vent line
-ST
 I2
 I5
 2I
->
 Vacuum pump
->
-—
-|
-,
 20 20
 I0 I0
-OT
-“
-a
 I0 I0
-@
-20 20
-i
-|
-_
-—
-TEST
-STBY PWR
-—__
--
-SUCTION
-INCHES MERCURT
-I0
 Suction
 Attitude indicator
 gauge
-——
 Vacuum air filter
-es
 Figure 8-20. Typical vacuum system.
 Turn Coordinator
 aircraft with the turn index. Figure 8-22 shows a picture of a
@@ -1553,56 +1277,12 @@ The turn coordinator can be used to establish and maintain
 a standard-rate turn by aligning the wing of the miniature
 Horizontal gyro
 Gimbal rotation
--
-wt
-wt
-=
-P
-a
 Gimbal
 Gyro rotation
-P
 Gimbal rotation
-c
-—
-_
 Gyro rotation
-_
-~~
-_
-~
-a
-—
-——
-_
-|
-|
-.
-”
-\
-_-
-a
-—
-.
-Fa
-_~
--
--
-|
->
-NY
-+
-~
-—
-,
-"
-‘\
-~
-_—
 Canted gyro
 Standard rate turn index
-—
-—
 Standard rate turn index
 Inclinometer
 Inclinometer
@@ -1613,12 +1293,6 @@ Figure 8-21. Turn indicators rely on controlled precession for their operation.
 
 to the center of the wind screen. When in coordinated flight,
 the string trails straight back over the top of the wind screen.
-al
-»
-al
-»
-P~
-=
 D.C.
 D.C.
 When the aircraft is either slipping or skidding, the yaw
@@ -1640,15 +1314,11 @@ NO PITCH
 INFORMATION
 INFORMATION
 During preflight, ensure that the inclinometer is full of fluid
-ei
 and has no air bubbles. The ball should also be resting at
 Slipping turn
 Skidding turn
 its lowest point. When taxiing, the turn coordinator should
 indicate a turn in the correct direction while the ball moves
-al
-P~_
-»
 opposite the direction of the turn.
 D.C.
 ELEC.
@@ -1692,38 +1362,20 @@ To center the ball, apply rudder pressure on the side to
 Gimbal rotation
 which the ball is deflected. Use the simple rule, “step on the
 ball,” to remember which rudder pedal to press. If aileron
-—
-J
 and rudder are coordinated during a turn, the ball remains
-Z
-j
 centered in the tube. If aerodynamic forces are unbalanced,
-,
-20 20
-20 20
+20 2
 the ball moves away from the center of the tube. As shown
 I0 I0
-I0 I0
-_
-—
-|
-_
-_
+0 I0
 in Figure 8-22, in a slip, the rate of turn is too slow for the
-'
--
--
-a
-I0 I0
-I0 I0
+0 I0
+I0 I
 angle of bank, and the ball moves to the inside of the turn. In
-20 20
-20 20
 a skid, the rate of turn is too great for the angle of bank, and
-i
 TEST
 the ball moves to the outside of the turn. To correct for these
-STBY PWR
+BY PWR
 conditions, and improve the quality of the turn, remember to
 “step on the ball.” Varying the angle of bank can also help
 Roll gimbal
@@ -1773,28 +1425,9 @@ confuse a pilot during an unusual attitude recovery. A number of
 instrument designed to facilitate the use of the magnetic
 modern attitude indicators do not have this problem.
 compass. Errors in the magnetic compass are numerous,
->
->
-J
->
->
->
-,
-|
-I
-,
-,
-™
-wz
-~oF
--
-“=
 20 20
-aw
 I0
-~~
 I0
-ww
 I0 I0
 I0
 I0
@@ -1803,155 +1436,69 @@ I0
 I0
 I0 I0
 I0
-“=
-a
 20 20
-wz
-a
-J
-a
 TEST
 STBY PWR
 TEST
 STBY PWR
 TEST
 STBY PWR
--
--
-—
-Ft
-~
-|
-wt
-ff
-fs
-__
-|=
 Straight climb
 Climbing right bank
 Climbing left bank
 Pointer
->
->
 B
 10°
->
 a
->
 20°
 n
-aaa
 k
->
-,
-|
-_
 s
 30°
->
 c
 al
-~oF
-z=
--
-y
-,
 e
-i
-“=
-.
-a
-we
 45°
 I0
-~~
 I0
 I0
 I0
 I0
 I0
--
 60°
 I0
 I0
-wa
-“=
-wz
-a
 I0 I0
-a
 90°
 TEST
 STBY PWR
 TEST
 STBY PWR
-—
--
-__)
 I0 I0
-_—
->
-a
-y
-NN
-—_
-_
-a
-™—
 TEST
 STBY PWR
-,
-_
-G
 Level left bank
 Level right bank
 Adjustment knob
 Artificial horizon
->
->
-J
->
->
->
-,
-,
-|
-,
-.
 20 20
--
-“=
 I0
-we
 I0
 I0 I0
 I0
 I0
 I0
 I0
--
 I0 I0
 I0
 I0
-“=
-i
 20 20
-yy
-J
-J
 TEST
 TEST
 TEST
 STBY PWR
 STBY PWR
 STBY PWR
--
--
--
-|
-=
-_—
-SF
 Descending left bank
 Straight descent
 Descending right bank
@@ -2018,24 +1565,9 @@ Earth’s field.
 Main drive gear
 Compass card gear
 Gimbal rotation
-.
-.
-—
--
-—
-~
-Wl
-—
-y
-—
 I2
-|
-_
 I5
 2I
-_
--
-SY
 Adjustment gears
 Gimbal
 Gyro
@@ -2047,15 +1579,9 @@ azimuth, with the final zero omitted. For example, “6” represents
 align the heading indicator with the magnetic compass.
 8-20
 
-(c)
--
 Figure 8-27. The soft iron frame of the flux valve accepts the flux from
 the Earth’s magnetic field each time the current in the center coil
-Figure 3-23. The soft iron frame of the flux valve accepts the
 reverses. This flux causes current to flow in the three pickup coils.
-flux from the Earth’s magnetic field each time the current in the
-center coil reverse. This flux causes current to flow in the three
-picked coils.
 As the current reverses between the peaks, it demagnetizes
 the frame so it can accept the flux from the Earth’s field. As
 this flux cuts across the windings in the three coils, it causes
@@ -2065,13 +1591,8 @@ heading of the aircraft changes. [Figure 8-28]
 The three coils are connected to three similar but smaller
 coils in a synchro inside the instrument case. The synchro
 rotates the dial of a radio magnetic indicator (RMI) or a HSI.
-(0)
-(©)
-|
 Figure 8-28. The current in each of the three pickup coils changes
 with the heading of the aircraft.
-Figure 3-24. The current in each of the three pickup coils
-changes with the heading of the aircraft.
 Remote Indicating Compass
 Remote indicating compasses were developed to compensate
 for the errors and limitations of the older type of heading
@@ -2096,144 +1617,96 @@ remotely, usually in a wingtip to eliminate the possibility of
 magnetic interference. It contains the flux valve, which is
 the direction-sensing device of the system. A concentration
 of lines of magnetic force, after being amplified, becomes
-e
-e
-VU
-,
-Qe fe
-ph eS
-Zs
-/
-eS
-Lifln & wy
-A
-SANS
-am,
-2V:
-y
-“
-- \
-e+
-Liiitiiit
-é
-.
 Figure 8-29. Pictorial navigation indicator (HSI, top), slaving meter
 (lower right), and slaving control compensator unit (lower left).
 8-21
 
 a signal relayed to the heading indicator unit, which is also
-or “spills” and no longer gives the correct indication until
 remotely mounted. This signal operates a torque motor in
-reset. After spilling, it may be reset with the caging knob.
 the heading indicator unit that processes the gyro unit until
-Many of the modern instruments used are designed in such
 it is aligned with the transmitter signal. The magnetic slaving
-a manner so that they do not tumble.
 transmitter is connected electrically to the HSI.
-An additional precession error may occur due to a gyro not
 There are a number of designs of the remote indicating
-spinning fast enough to maintain its alignment. When the
 compass; therefore, only the basic features of the system are
-vacuum system stops producing adequate suction to maintain
 covered here. Instrument pilots must become familiar with
-the gyro speed, the heading indicator and the attitude indicator
 the characteristics of the equipment in their aircraft.
-gyros begin to slow down. As they slow, they become more
-susceptible to deflection from the plane of rotation. Some
 As instrument panels become more crowded and the pilot’s
-aircraft have warning lights to indicate that a low vacuum
 available scan time is reduced by a heavier flight deck
-situation has occurred. Other aircraft may have only a vacuum
 workload, instrument manufacturers have worked toward
-gauge that indicates the suction.
 combining instruments. One good example of this is the
-Instrument Check
 RMI in Figure 8-30. The compass card is driven by signals
 from the flux valve, and the two pointers are driven by an
-As the gyro spools up, make sure there are no abnormal
 automatic direction finder (ADF) and a very high frequency
-sounds. While taxiing, the instrument should indicate turns in
 (VHF) omni-directional radio range (VOR).
-the correct direction, and precession should be normal. At idle
-power settings, the gyroscopic instruments using the vacuum
 Heading indicators that do not have this automatic
-system might not be up to operating speeds and precession
 northseeking capability are called “free” gyros and require
-might occur more rapidly than during flight.
 periodic adjustment. It is important to check the indications
-Angle of Attack Indicators
 frequently (approximately every 15 minutes) and reset the
 heading indicator to align it with the magnetic compass
-The purpose of an AOA indicator is to give the pilot better
 when required. Adjust the heading indicator to the magnetic
-situational awareness pertaining to the aerodynamic health
 compass heading when the aircraft is straight and level at a
-of the airfoil. This can also be referred to as stall margin
 constant speed to avoid compass errors.
-awareness. More simply explained, it is the margin that exists
-between the current AOA that the airfoil is operating at, and
 The bank and pitch limits of the heading indicator vary
-the AOA at which the airfoil will stall (critical AOA).
 with the particular design and make of instrument. On some
 heading indicators found in light aircraft, the limits are
-Speed by itself is not a reliable parameter to avoid a stall.
 approximately 55° of pitch and 55° of bank. When either of
-An airplane can stall at any speed. Angle of attack is a better
 these attitude limits is exceeded, the instrument “tumbles”
+Figure 8-30. Driven by signals from a flux valve, the compass card
+in this RMI indicates the heading of the aircraft opposite the upper
+center index mark. The green pointer is driven by the ADF.
+8-22
+or “spills” and no longer gives the correct indication until
+reset. After spilling, it may be reset with the caging knob.
+Many of the modern instruments used are designed in such
+a manner so that they do not tumble.
+An additional precession error may occur due to a gyro not
+spinning fast enough to maintain its alignment. When the
+vacuum system stops producing adequate suction to maintain
+the gyro speed, the heading indicator and the attitude indicator
+gyros begin to slow down. As they slow, they become more
+susceptible to deflection from the plane of rotation. Some
+aircraft have warning lights to indicate that a low vacuum
+situation has occurred. Other aircraft may have only a vacuum
+gauge that indicates the suction.
+Instrument Check
+As the gyro spools up, make sure there are no abnormal
+sounds. While taxiing, the instrument should indicate turns in
+the correct direction, and precession should be normal. At idle
+power settings, the gyroscopic instruments using the vacuum
+system might not be up to operating speeds and precession
+might occur more rapidly than during flight.
+Angle of Attack Indicators
+The purpose of an AOA indicator is to give the pilot better
+situational awareness pertaining to the aerodynamic health
+of the airfoil. This can also be referred to as stall margin
+awareness. More simply explained, it is the margin that exists
+between the current AOA that the airfoil is operating at, and
+the AOA at which the airfoil will stall (critical AOA).
+Speed by itself is not a reliable parameter to avoid a stall.
+An airplane can stall at any speed. Angle of attack is a better
 parameter to use to avoid a stall. For a given configuration,
 the airplane always stalls at the same AOA, referred to as
 the critical AOA. This critical AOA does not change with:
-Co
-la
-:
 •
 Weight
-yo
-Ll, /, 7
-ae
-Aa
 •
 Bank Angle
 •
 Temperature
-~
-‘ee
-wi
-Se
 •
 Density Altitude
-S
-==
 •
 Center of Gravity
-a,
-=
-|
 An AOA indicator can have several benefits when installed in
-‘-
-RN
-So
-area mw i
 General Aviation aircraft, not the least of which is increased
 situational awareness. Without an AOA indicator, the AOA
-J
 is “invisible” to pilots. These devices measure several
-°
-n
 parameters simultaneously and determine the current AOA
 providing a visual image to the pilot of the current AOA along
 with representations of the proximity to the critical AOA.
-Figure 8-30. Driven by signals from a flux valve, the compass card
 [Figure 8-31] These devices can give a visual representation
-in this RMI indicates the heading of the aircraft opposite the upper
 of the energy management state of the airplane. The energy
-center index mark. The green pointer is driven by the ADF.
-8-22
 
-—
-aaa
-I\
-© dm @ Mh &dme
 Figure 8-31. Angle of attack indicators.
 state of an airplane is the balance between airspeed, altitude,
 drag, and thrust and represents how efficiently the airfoil is
@@ -2267,26 +1740,6 @@ is marked with letters representing the cardinal directions,
 north, east, south, and west, and a number for each 30°
 between these letters. The final “0” is omitted from these
 directions. For example, 3 = 30°, 6 = 60°, and 33 = 330°.
-—-
-—
-°°
-aa
-—
-——
-=
-UA
-=
-OF
-=
-ohms
-des Seq
--
-ply
-ou an
-\
-e
-e
-L
 There are long and short graduation marks between the letters
 and numbers, each long mark representing 10° and each short
 mark representing 5°.
@@ -2306,23 +1759,10 @@ bellows in some compasses.
 The magnets align with the Earth’s magnetic field and the
 pilot reads the direction on the scale opposite the lubber
 line. Note that in Figure 8-32, the pilot views the compass
-a
-;
-_
-a
--
-_
-J
-"
-_
-_
-| |
-E-W
-N-S
-|
-_
 Figure 8-32. A magnetic compass. The vertical line is called the
 lubber line.
+E-W
+N-S
 8-23
 
 card from its backside. When the pilot is flying north, as the
@@ -2402,123 +1842,27 @@ Chicago is called the agonic line. Anywhere along this line
 165˚E
 180˚W
 180˚W
--40
 70˚N
-70˚N
-m’ ¢
-ee
--10
--10
-—
--30
 60˚N
-60˚N
--20
--10
 45˚N
-45˚N
-i
-&
-30˚N
 30˚N
 15˚N
-15˚N
--10
--10
--20
 0˚
-0˚
--10
 15˚S
-15˚S
--20
--30
 30˚S
-30˚S
-S|
-Main field declination (D)
-Contour interval:
-2 degrees
 45˚S
-45˚S
--60
-red contours positive (east)
-blue negative (west)
--70
-pink (agonic) zero line.
--90
-Mercator Projection.
-J
--80
 60˚N
-60˚N
--100
--130
-Position of dip poles
--120
--110
--50
--30
--40
--20
 70˚N
-70˚N
-180˚W
-180˚W
-15˚E
-30˚E
-45˚E
-60˚E
-75˚E
-90˚E
-105˚E
-120˚E
-135˚E
-150˚E
-165˚E
-165˚W
-150˚W
-135˚W
-120˚W
-105˚W
-90˚W
-75˚W
-60˚W
-45˚W
-30˚W
-15˚W
-0˚
 Figure 8-33. Isogonic lines are lines of equal variation.
 8-24
 
 To swing the compass, an AMT positions the aircraft
-FOR
-000.
 on a series of known headings, usually at a compass
-STEER
 rose. [Figure 8-34] A compass rose consists of a series
-RDO.ON
-00/
-O62
-1/23
-RDO.OFF
-002.
-03!)
-O94
-125/57
 of lines marked every 30° on an airport ramp, oriented to
 magnetic north. There is minimal magnetic interference at
-FOR
 the compass rose. The pilot or the AMT, if authorized, can
-STEER
-RDO.ON
-(76
-2/0
-27/
-2%
 taxi the aircraft to the compass rose and maneuver the aircraft
-RDO.OFF
-/74
 to the headings prescribed by the AMT.
 Figure 8-35. A compass correction card shows the deviation
 As the aircraft is “swung” or aligned to each compass rose
@@ -2566,7 +1910,6 @@ Dip Errors
 true course desired.
 The Earth's magnetic field runs parallel to its surface only at
 the Magnetic Equator, which is the point halfway between
-f
 the Magnetic North and South Poles. As you move away
 True north
 from the Magnetic Equator towards the magnetic poles, the
@@ -2590,254 +1933,102 @@ deviation errors.
 8-25
 
 rotate only in the horizontal plane. This is done by lowering
-Southerly Turning Errors
 the center of gravity below the pivot point and making the
-When turning in a southerly direction, the forces are such that
 assembly heavy enough that the vertical component of the
-the compass float assembly lags rather than leads. The result
 magnetic force is too weak to tilt it significantly out of the
-is a false southerly turn indication. The compass card, or float
 horizontal plane. The compass can then work effectively at
-assembly, should be allowed to pass the desired heading prior
 all latitudes without specific compensation for dip. However,
-to stopping the turn. As with the northerly error, this error
 close to the magnetic poles, the horizontal component of
-is amplified with the proximity to either magnetic pole. To
 the Earth’s field is too small to align the compass which
-correct this lagging error, the aircraft should be allowed to
 makes the compass unusable for navigation. Because of this
-pass the desired heading prior to stopping the turn. The same
 constraint, the compass only indicates correctly if the card
-rule of 15 degrees plus half of the latitude applies here (i.e.,
 is horizontal. Once tilted out of the horizontal plane, it will
-if the aircraft is being operated in a position near 30 degrees
 be affected by the vertical component of the Earth’s field
-latitude, the turn should be stopped 15+15=30 degrees after
 which leads to the following discussions on northerly and
-passing the desired heading). [Figure 8-36B]
 southerly turning errors.
-Acceleration Error
 Northerly Turning Errors
-The magnetic dip and the forces of inertia cause magnetic
 The center of gravity of the float assembly is located lower
-compass errors when accelerating and decelerating on
 than the pivotal point. As the aircraft turns, the force that
-easterly and westerly headings. Because of the pendulous-
 results from the magnetic dip causes the float assembly to
-type mounting, the aft end of the compass card is tilted
 swing in the same direction that the float turns. The result is
-upward when accelerating and downward when decelerating
 a false northerly turn indication. Because of this lead of the
-during changes of airspeed. When accelerating on either
 compass card, or float assembly, a northerly turn should be
-an easterly or westerly heading, the error appears as a
 stopped prior to arrival at the desired heading. This compass
-turn indication toward north. When decelerating on either
 error is amplified with the proximity to either magnetic pole.
-of these headings, the compass indicates a turn toward
 One rule of thumb to correct for this leading error is to stop
-south. A mnemonic, or memory jogger, for the effect of
 the turn 15 degrees plus half of the latitude (i.e., if the aircraft
-acceleration error is the word “ANDS” (Acceleration-
 is being operated in a position near 40 degrees latitude, the
-North/Deceleration-South) may help you to remember the
 turn should be stopped 15+20=35 degrees prior to the desired
-acceleration error. [Figure 8-37] Acceleration causes an
 heading). [Figure 8-36A]
-OO
 Left turn
-Right turn
-No error
-—_
 A
 DIP
-DIP
-DIP
-@&
-a
-Ea
-i
-.
-/
-=
-N
-N
-t
-t
-N
-c
-c
-D
-D
-fe
-fe
-D
-ip
-ip
-ef
-ef
-R
-e
-e
-A
-C
-p
-p
-C
-A
-ff
-ff
-Di
-Di
-R
-ec
-ec
-D
-t
-t
-OO
-|
-B
-Left turn
-Right turn
+Southerly Turning Errors
+When turning in a southerly direction, the forces are such that
+the compass float assembly lags rather than leads. The result
+is a false southerly turn indication. The compass card, or float
+assembly, should be allowed to pass the desired heading prior
+to stopping the turn. As with the northerly error, this error
+is amplified with the proximity to either magnetic pole. To
+correct this lagging error, the aircraft should be allowed to
+pass the desired heading prior to stopping the turn. The same
+rule of 15 degrees plus half of the latitude applies here (i.e.,
+if the aircraft is being operated in a position near 30 degrees
+latitude, the turn should be stopped 15+15=30 degrees after
+passing the desired heading). [Figure 8-36B]
+Acceleration Error
+The magnetic dip and the forces of inertia cause magnetic
+compass errors when accelerating and decelerating on
+easterly and westerly headings. Because of the pendulous-
+type mounting, the aft end of the compass card is tilted
+upward when accelerating and downward when decelerating
+during changes of airspeed. When accelerating on either
+an easterly or westerly heading, the error appears as a
+turn indication toward north. When decelerating on either
+of these headings, the compass indicates a turn toward
+south. A mnemonic, or memory jogger, for the effect of
+acceleration error is the word “ANDS” (Acceleration-
+North/Deceleration-South) may help you to remember the
+acceleration error. [Figure 8-37] Acceleration causes an
 No error
 DIP
+Right turn
 DIP
-&
-DIP
-&
-a
-i
-rs
-;
-/
-=
-\
-y
-D
-D
-t
-t
-c
-c
-S
-S
-ip
-ip
-fe
-fe
-D
-S
-ef
-ef
-R
-e
-e
-C
-A
-p
-p
-A
-ff
-ff
-C
-R
-Di
-Di
-ec
-ec
-D
-t
-t
-Figure 8-36. Northerly and southerly turning errors.
-8-26
 
-h
-t
-u
-o
-S
-, 5
-. 3
-NORTH
--
-i
-f
-N
-_
-»
-J
--
--
-~~
-P~
-J
-GS
-W
-E
-™~
-NAV
-S
-OBS
-J
-J
-al
-J
-f
-View is from the pilot’s
-™~
-perspective, and the
-movable card is reset
-after each turn.
 Figure 8-37. The effects of acceleration error.
-Figure 3-21. The effects of acceleration error.
 indication toward north; deceleration causes an indication
-se
-ei
-r
-s
-. |
-in
 toward south.
-N
-a
 Oscillation Error
 Oscillation is a combination of all of the errors previously
 mentioned and results in fluctuation of the compass card in
-W
-E
--
 relation to the actual heading direction of the aircraft. When
 setting the gyroscopic heading indicator to agree with the
 magnetic compass, use the average indication between the
-S
 swings.
-ei
-ei
--_
-a
 The Vertical Card Magnetic Compass
-f
-t
 The vertical card magnetic compass eliminates some of the
 errors and confusion encountered with the magnetic compass.
 The dial of this compass is graduated with letters representing
-Figure 8-38. Vertical card magnetic compass.
 the cardinal directions, numbers every 30°, and tick marks
 every 5°. The dial is rotated by a set of gears from the shaft-
-Eddy Current Damping
 mounted magnet, and the nose of the symbolic aircraft on
-In the case of a vertical card magnetic compass, flux from
 the instrument glass represents the lubber line for reading the
-the oscillating permanent magnet produces eddy currents in
 heading of the aircraft from the dial. [Figure 8-38]
-a damping disk or cup. The magnetic flux produced by the
-eddy currents opposes the flux from the permanent magnet
 Lags or Leads
-and decreases the oscillations.
 When starting a turn from a northerly heading, the compass
 lags behind the turn. When starting a turn from a southerly
 heading, the compass leads the turn.
+N
+W
+E
+S
+Figure 8-38. Vertical card magnetic compass.
+Eddy Current Damping
+In the case of a vertical card magnetic compass, flux from
+the oscillating permanent magnet produces eddy currents in
+a damping disk or cup. The magnetic flux produced by the
+eddy currents opposes the flux from the permanent magnet
+and decreases the oscillations.
 8-27
 
 Outside Air Temperature (OAT) Gauge
@@ -2865,7 +2056,6 @@ the magnetic compass.
 8-28
 -20
 -20
-_
 -40
 -40
 C

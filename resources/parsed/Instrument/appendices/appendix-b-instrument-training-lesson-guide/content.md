@@ -1,5 +1,4 @@
 Appendix B
-Appendix8
 Instrument Training Lesson Guide
 Introduction
 Flight instructors may use this guide in the development of

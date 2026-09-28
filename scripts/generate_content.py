@@ -360,9 +360,6 @@ def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, image
 ]} />
 """
 
-    if "<Quiz" not in mdx:
-        mdx = mdx.rstrip() + "\n\n" + quiz.strip() + "\n"
-
     mdx = f"""---
 title: "{title}"
 description: "{description}"
@@ -427,6 +424,14 @@ def generate_mdx_for_chapter(book_name: str, chapter_name: str, chapter_payload:
             if "readTimeMinutes:" in cleaned:
                 read_minutes = estimate_read_time_minutes(cleaned)
                 cleaned = re.sub(r"readTimeMinutes:\s*\d+", f"readTimeMinutes: {read_minutes}", cleaned, count=1)
+            source_title = chapter_payload.get("title")
+            if isinstance(source_title, str) and source_title.strip():
+                cleaned = re.sub(
+                    r"(?m)^title:\s*.*$",
+                    f"title: {json.dumps(source_title.strip(), ensure_ascii=False)}",
+                    cleaned,
+                    count=1,
+                )
             if contains_non_english_text(cleaned):
                 raise ValueError(f"Generated MDX for {book_name}/{chapter_name} contains non-English text")
             return validate_mdx_frontmatter(cleaned, book_name, chapter_name, subject)
@@ -452,6 +457,7 @@ def process_book(book_dir: Path, dry_run: bool = False, serial: bool = False, de
         chapter_name = chapter.get("chapter", "ch01")
         chapter_path = book_dir / chapter_name
         payload = load_chapter_files(book_dir, chapter_name)
+        payload["title"] = chapter.get("title")
         subject = source_book_title(book_name)
         mdx = generate_mdx_for_chapter(book_name, chapter_name, payload, subject)
         target_path = output_dir / f"{chapter_name}.mdx"

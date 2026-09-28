@@ -50,40 +50,6 @@ progressively lower angles of the Sun, halos become fragmentary, and light inten
 When near the horizon, cirrostratus may be impossible to distinguish from cirrus.
 Cirrostratus clouds are composed primarily of ice crystals and contain little, if any, icing and no turbulence.
 Appendix A, Cloud Types
-ee
-ee
-Fie
-Sey
-Eee eT
-hoz” gy
-Oa
-cee |
-+ ate
-RG Fd
-=
-ae ¢
-“ae
-imme pe
-Eb
-|
-Ee
-Tie
-ae
-MO
-gS
-? Tes Oe
-"3 eee iors
-dal de ge
-et
-it
-Re
-Oe.
-Bee
-gd
-"
-MS Re are
-9, So
-Klirhowski
 A-2
 
 Figure A-3. Cirrostratus (Cs)
@@ -105,10 +71,6 @@ The altocumulus in Figure A-4 is a single level, the greater part of which is su
 the position of the Sun and Moon. The clouds do not progressively invade the sky, and the individual
 elements change very little. These thin altocumulus clouds usually produce a corona.
 Appendix A, Cloud Types
-ey
-ace
-©uJinh
-W. Lee
 A-3
 
 Figure A-4. Altocumulus (Ac)
@@ -127,13 +89,6 @@ lifting and moisture. A well-defined wave may be visible (i.e., ACSL cloud) in w
 is an adequate supply of moisture but may not be visible when the environment is very dry, even if the wave
 is intense.
 Appendix A, Cloud Types
-+S.
-=
-a
->
-re
-i
-aale
 A-4
 
 Figure A-5. Altocumulus Standing Lenticular (ACSL)
@@ -158,10 +113,6 @@ Thin altostratus usually evolves from the gradual thickening of a veil of cirros
 most clouds, which increase in height as they grow, altostratus (and nimbostratus) grow as the base of the
 cloud lowers.
 Appendix A, Cloud Types
-a
-DY,
-We
-3S
 A-5
 
 Figure A-6. Thin Altostratus (As)
@@ -213,7 +164,6 @@ negative). Towering cumulus (see Figure A-9) is also referred to as the first st
 13 Virga are wisps or streaks of water or ice particles falling out of a cloud but vaporizing before reaching the Earth’s
 surface as precipitation.
 Appendix A, Cloud Types
-—
 A-7
 
 Figure A-8. Cumulus (Cu) with Little Vertical Development
@@ -229,18 +179,6 @@ whitish layer or patch, that nearly always has dark parts and is nonfibrous (exc
 are tessellated, rounded, roll-shaped, etc., may or may not be merged, and are usually arranged in orderly
 groups, lines, or undulations, giving the appearance of a simple (or occasionally a cross-pattern) wave
 Appendix A, Cloud Types
-a
--
->
-‘.
-ee
--
-:
-% Ys
-:
-»
-a
-i
 A-8
 
 system. These elements are generally flat-topped, smooth, and large; observed at an angle of more than 30
@@ -288,11 +226,6 @@ precipitation. They often form beneath lowering altostratus (As) or nimbostratus
 beneath cumulonimbus (Cb) and precipitating cumulus (Cu) and are collectively known as “scud clouds.”
 Figure A-12. Stratus Fractus (StFra) and/or Cumulus Fractus (CuFra) of Bad Weather
 Appendix A, Cloud Types
-Pa
-f
-?
-"©
-Jim W. Lee
 A-10
 
 A.3.4 Cumulonimbus (Cb)
@@ -324,11 +257,8 @@ the underside of the projecting anvil, and may appear particularly prominent whe
 sky. A whole variety of other clouds, such as dense cirrus, altocumulus, altostratus, stratocumulus, cumulus,
 and stratus may also be present.
 Appendix A, Cloud Types
-,
 A-11
 
 Figure A-14. Cumulonimbus (Cb) with Anvil
 Appendix A, Cloud Types
--
-tn
 A-12

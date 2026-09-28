@@ -1,8 +1,3 @@
-enabled more precision in detecting and displaying precipitation. —_
-15 Weather Radar
-15.1 Introduction
-The most effective tool to detect precipitation is radar. Radar, which is an acronym that stands for “radio
-detection and ranging,” has been used to detect precipitation since the 1940s. Radar enhancements have
 Chapter 15, Weather Radar
 15-1
 
@@ -26,61 +21,6 @@ The amount of energy returned directly back to the radar after striking a target
 Chapter 15, Weather Radar
 15-2
 
-TRANSMITTED
-RADAR
-PULSE
-TARGET
-aeS
-’
-re
-ae
-oo
-_
-I
-;
-im
-Ty
-Pe
-NL,
-BE
-lel
-ty)
-ing
-j
-ia
-.
-wa
-sy
-an
-ran
-a
-rama
-RADAR
-WS
-oF
-pee
-TARGET
-i
-aaa
-aA
-Se
-eo
-Nee
-ee
-ao
--
-BACKSCATTERED
-ENERGY
-a
-aw
-wt
-ee
-_
-~
-a
-a
-RADAR
-TARGET
 Figure 15-2. Backscattered Energy
 Targets may include precipitation, clouds, dust, birds, insects, buildings, air mass boundaries, terrain
 features, wind farms/turbines, etc. Reflectivity is a measurement of the amount of backscattered energy. An
@@ -111,18 +51,8 @@ any, energy will reach targets beyond the initial area of precipitation. Because
 distant targets (i.e., precipitation) may not be displayed on a radar image.
 The amount of precipitation attenuation is related to the wavelength of the radar (see Figure 15-5).
 Chapter 15, Weather Radar
-Precipitation
-Not Observed
-By Radar
-Precipitation
-RadarBeamEnergy '
-ee
-Little or No Energy
-ciao
-To Detect Precipitation
 15-4
 
-©E
 Figure 15-5. Precipitation Attenuation versus Wavelength
 As the wavelength of the radar decreases, the amount of precipitation attenuation increases.
 The WSR-88D’s 10-cm wavelength is not significantly attenuated by precipitation. However, aircraft
@@ -143,9 +73,6 @@ azimuths (see Figure 15-6).
 Chapter 15, Weather Radar
 15-5
 
-Ak
-RADAR
-DISPLAY
 Figure 15-6. Beam Resolution
 Two targets must be separated by at least one beam width (diameter) in order to be displayed as two separate
 echoes on a radar image.
@@ -157,21 +84,8 @@ a range of 60 NM, targets separated by at least 5.5 NM will be displayed separat
 targets separated by at least 10 NM will be displayed separately.
 The beam resolution is better for the WSR-88D than aircraft radar (see Figure 15-7).
 Chapter 15, Weather Radar
-rie
 15-6
 
-WSR88D
-RADAR
-DISPLAY
-By
-AIRCRAFT RADAR
-48.
-F
-10NM
-AIRCRAFT
-RADAR
-DISPLAY
-+
 Figure 15-7. Beam Resolution Comparison Between WSR-88D and Aircraft Weather Radar
 In the example above, the targets (thunderstorms) are at the same range in azimuths for both the aircraft
 and WSR-88D radar. At 10 NM, the beam width is small enough for both the WSR-88D and aircraft radar
@@ -190,12 +104,6 @@ faster. Changes in density can occur over very small distances, so it is common 
 of different densities at the same time as it gets larger. The beam will bend in the direction of the slower
 portion of the wave.
 Chapter 15, Weather Radar
-BEAM
-WIDTH
-60NM
-DISPLAYED
-+—————- ASASOLID
-LINE
 15-7
 
 15.2.7.1 Normal (Standard) Refraction
@@ -216,12 +124,8 @@ underestimate the true strength of a thunderstorm. Thunderstorms may appear weak
 subrefraction causes the radar beam to strike the thunderstorm near the top of the cumulonimbus cloud,
 where the precipitation particles tend to be smaller.
 Chapter 15, Weather Radar
-&
-¥
 15-8
 
-| SUBREFRACTION—__
-a
 Figure 15-9. Subrefraction
 15.2.7.3 Superrefraction
 Conversely, sometimes the density of the atmosphere decreases with height at a less-than-normal rate
@@ -231,7 +135,6 @@ bend more than normal toward the Earth’s surface. This phenomenon is called su
 Superrefraction causes the radar beam to travel closer to the Earth’s surface than what would occur in a
 normal atmosphere. This can lead to overestimating the strength of a thunderstorm, as the beam would
 detect the stronger core of the storm, where precipitation-sized particles are larger.
-NORMAL REFRACTIONay
 Figure 15-10. Superrefraction
 15.2.7.4 Ducting
 If the atmospheric condition that causes superrefraction bends the beam equal to, or greater than, the Earth’s
@@ -240,17 +143,8 @@ When ducting occurs, the radar beam will hit the surface of the Earth, causing s
 to backscatter. This often leads to false echoes, also known as anomalous propagation (AP), to appear in
 the radar display.
 Chapter 15, Weather Radar
--p
-:
-y
-e&
-¥
 15-9
 
-wa =
-r
-wa
-“
 Figure 15-11. Ducting
 15.2.8 Radar Beam Overshooting and Undershooting
 Radar beam overshooting may occur because the lowest radar beam can be higher than the top of
@@ -267,7 +161,6 @@ summer months.
 Undershooting may occur at and near the radar site even in mosaic products when the precipitation is above
 the highest elevation angle. This region above the radar is known as the “cone of silence” (see Figure
 15-12).
-E
 Figure 15-12. Cone of Silence
 Chapter 15, Weather Radar
 15-10
@@ -280,32 +173,6 @@ Tilt,” and “Reflectivity at Lowest Altitude”) images where it appears as a
 perpetually void of echoes. When animating the imagery, the beam blockage area will remain clear of
 echoes even as precipitation and other targets pass through. In many cases, the beam blockage effect seen
 on a single-site radar can be minimized by viewing mosaic images.
-shone
-ml
-+
-Beam Blockage
-iy
-if fot.
-i!
-ar
-A
-cae ey é
-!
-|.
-SadaSpripgs
-a “4 | Malad city
-¢
-aay ass
-Zs ante
-PETG
-\ Pegs
-ae eke be aves ae
-:
-oe
-es ne
-eee
-oli
-Ae,
 Figure 15-13. WSR-88D Weather Radar Beam Blockage on Base Reflectivity Product Example
 15.2.10 Ground Clutter
 Ground clutter (see Figure 15-14) is radar echoes’ returns from trees, buildings, or other objects on the
@@ -316,87 +183,6 @@ image interpretation.
 Chapter 15, Weather Radar
 15-11
 
-DBZ
-Radar Image Tram Matona weather service: RELE
-Ibidb UIC Goll licuuo
-sama
-Saginaw
--
-I
-vs
-*
-=
-“I
-Lo
-"5
-Port Huron
-+ London
-'
-ae
-ge
-ee
-te
-caer
-Pasees:
-«
-ps
-+ Lancia
-ag
-A
-locd keeseat
-:
-ay eae
-*
-TS
-Pee
-eta
-iy
-e-Erie
-betes
-tae
-Toledo
-d
-a"
-=
-bhi)
-Gy
-rap gee
-BO
-rr
-+ Findlay
-PR
-a fron
-t"punsstvn
-TT
-ws
-ita
-+ Mansfield
-y+ Canton
-eo
-Ground Clutter
-Pittsburgh
-eo
-+
-w
-\eeling
-u
-+ Columbus
-.
-+ Cambridge
-MNiaae
-+
-Zanesville
-mundsviie
-bs
-Dayton
-+ New Lexington
-+ Morgay[town
-+ Fairmont:
-‘ND
-Oo
-“
-Radar Image from National Weather Service: KCLE
-16:46 UTC 05/11/2005
 Figure 15-14. WSR-88D Weather Radar Ground Clutter Example
 15.2.11 Ghost
 A ghost (see Figure 15-15) is a diffused echo in apparently clear air caused by a “cloud” of point targets,
@@ -407,41 +193,6 @@ site and quickly expands. When animating the imagery, the ghost echo shows littl
 Chapter 15, Weather Radar
 15-12
 
-DBZ
-Radar image trom Mauonal weather service: KOE
-Ursac WIG OSICOCONs
-.
-* El Dorado
-h28
-NG
-lca
-%
-\
-maw
-Sires:
-=
-ke
-eI
-RE reer te:
-ae
-7 9 anata
-ae
-‘ug RR
-Lie
-TR
-ae
-IeSe oT ra
-Ma
-ana ad gee
-ee
-~
-a
--
-,
-ho
-a
-Ratlar Imaue from National Weather Service: KPOE
-01:42 UTC 09/20/2008
 Figure 15-15. WSR-88D Weather Radar Ghost Example
 15.2.12 Angels
 Angels are echoes caused by a physical phenomenon not discernible by the eye at the radar site. They are
@@ -455,50 +206,6 @@ the evening when they are departing from caves.
 Chapter 15, Weather Radar
 15-13
 
-i
-|
-|
-N
-Lee
-le
-es
-|
-|
-|
-|
-___
-GHOST
-—
-Lt
-}
-|
-|
-|. 32 Have”
-a, ae
-|
-|
-[py
-we
-|r
-|
-all
-ieee} rrom
-=a a
-|
-;
--—
-a
-es ee
-pe
-|
-co] eal eae] haat
-|
-Soe
-|
-[bree ee
-a
-ANGEL
-[
 This angel was caused by bats departing Selman Bat Cave at
 Alabaster Caverns State Park, OK, around sunset.
 Figure 15-16. WSR-88D Weather Radar Angel Example
@@ -513,66 +220,12 @@ move with a smooth, continuous motion while AP appears to “bloom up” and dis
 Chapter 15, Weather Radar
 15-14
 
-_ ANOMALOUS
-we ee pa
-PROPOGATION
-[eee]
-eS
-°
-Poe
--
-te
-ASe
-Rc
-ae
-Anaire| Ve
-ees
-“ie,
-> ee ch
-ON
-eS”
-Le
-ee
 Figure 15-17. WSR-88D Weather Radar AP Example
 15.2.14 Other Non-Meteorological Phenomena
 15.2.14.1 Wind Farms
 Wind farms can affect the return signal of the radar beam. Depending on the proximity of the wind farm to
 the radar site (generally within 10 NM), wind farm turbines can result in beam blockage, false echoes, or
 high reflectivity values (see Figure 15-18).
-oe
-ee
-ee
-Sa
-=
-A at
-=
-i
-S
-ie
-Ao
-te
-oSoe
-aS ee
-ey
-es ewes
-FT
-ete
-aR
-eo
-fegk
-Ss
-eget
-ay
-SS
-=
-mace So
-ed
-en
-ae
-omar
-=
-ae
-i
 Figure 15-18. Wind Farms Can Make Benign Echoes Appear as Small Storms
 Chapter 15, Weather Radar
 15-15
@@ -581,7 +234,6 @@ Chapter 15, Weather Radar
 Chaff
 Chaff is a counter measure used by the military to distract enemy radars from their true targets (see Figure
 15-19)Error! Reference source not found..
-ae.|
 Figure 15-19. Radar Image of Chaff
 15.2.15 Precipitation
 15.2.15.1 Intensity of Precipitation
@@ -625,54 +277,8 @@ Numerous hazards are associated with convective precipitation. These hazards inc
 Low-Level Wind Shear (LLWS), strong and gusty surface winds, icing above the freezing level, hail,
 lightning, tornadoes, and localized IFR conditions below the cloud base due to heavy precipitation.
 Chapter 15, Weather Radar
-LARGER PARTICLES - HIGHER REFLECTIVITY
-SMALLER PARTICLES - LOWER REFLECTIVITY
 15-17
 
-(Hedin Fiteti Sei iise 19S58 eae one FSO tee T nS ee OTe Le
-OTE
-fshiey
-pexandia
-Poerdeen = eit a
-anes
-\
-§, cloud
-fedtietd
-*%
-Watedovn|
-SASS
-=
-Winneapots
-a
-Fe
-som
-cr
-ae
-Sour City
-ie
-ve
-fot 7
-|
-Pawel
-qiotolk,
-|
-Denison
-:
-AG
-Broken Bow
-_folumbus
-z
-_plrtic
-fy
-Tie
--
-~~ Qgrana
-H
-<0
-“Temado | ([Sivate
-Thunderstorm),
-Flash Food! | [SpecialWaring |
-Oo
 Figure 15-21. WSR-88D Weather Radar Convective Precipitation on the 0.5° Base Reflectivity Product Example
 15.2.15.1.3 Stratiform Precipitation
 Stratiform precipitation (see Figure 15-22) has the following radar characteristics:
@@ -689,32 +295,6 @@ Echo patterns change slowly when animating the image.
 Chapter 15, Weather Radar
 15-18
 
-pists) cis Saris Wiseis) Crest ie an Wrens es Wire (CS ALES)
-“7
-pane
-“ash
-y
-wore take YP
-Sedona
-Sgay Hotertown ego
-~s
-fienuny
-b
-a
-neva
-Gennimer
-9Pe
-Ear EG,
-Kltne
-Manchester
-e*-
-“a RL fous Lose oe"pet
-amas
-u
-ators
-naan
-_Hanisburg
-“Tornade [Severe Thunderstorm) Flash Flood |Special Marine)
 Hazards associated with stratiform precipitation include possible
 widespread icing above the freezing level, low ceilings, and reduced
 visibilities.

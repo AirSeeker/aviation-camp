@@ -1,6 +1,5 @@
 Appendix B
 Acronyms
-Acronyms
 A
 AAC—Aircraft Administration Communications
 AAUP—Attention All Users Page

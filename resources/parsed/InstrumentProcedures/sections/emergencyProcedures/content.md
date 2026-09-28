@@ -1,6 +1,5 @@
 Appendix A
 Emergency Procedures
-Emergency Procedures
 Introduction
 Changing weather conditions, air traffic control (ATC), aircraft, and pilots are variables that make instrument flying an
 unpredictable and challenging operation. Safety of the flight depends on the pilot’s ability to manage these variables

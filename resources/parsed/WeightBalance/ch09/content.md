@@ -1,10 +1,7 @@
 Chapter 9
 Weight and Balance Control—
-eee
 Commuter Category and
 Large Aircraft
-i
-||
 Introduction
 This chapter discusses general guidelines and procedures for
 weighing large fixed-wingaircraft exceeding a takeoff weight
@@ -102,13 +99,10 @@ multiply the result by the reduction factor. This gives
 the CG in inches from the datum.
 5.
 Determine the distance of the CG behind the leading
-CG
 edge of the mean aerodynamic chord (LEMAC)
-Distance weight is shifted
 by subtracting the distance between the datum and
 LEMAC from the distance between the datum and
 the CG. [Figure 9-1]
-;ti‘CO;é‘CY
 =
 Distance CG to LEMAC
 Datum to CG – Datum to LEMAC
@@ -120,7 +114,6 @@ CG in inches from LEMAC × 100
 =
 EWCG in % MAC
 MAC
-|
 Figure 9-2. Determining the EWCG in percent MAC.
 
 In the weight change record of a—
@@ -172,8 +165,6 @@ Basic operating weight...................................105,500 lb
 Basic operating index (total moment/1,000).....98,837.0
 MAC...................................................................180.9 in
 LEMAC.................................................................. 860.5
-oT
-OT
 Item
 Weight (lb)
 Moment/1,000
@@ -412,7 +403,6 @@ Total weight
 = × 1,000
 177,710
 = 909.6 inches
-|
 Figure 9-6. Determining the location of the CG in inches aft of
 the datum.
 Determine the distance from the CG to the LEMAC by
@@ -421,7 +411,6 @@ the distance between the datum and the CG. [Figure 9-7]
 Distance CG to LEMAC = Datum to CG – Datum to LEMAC
 = 909.6 – 860.5
 = 49.1 inches
-|
 Figure 9-7. Determining the distance from the CG to the LEMAC.
 The location of the CG in percent MAC must be known in
 order to set the stabilizer trim takeoff. [Figure 9-8]
@@ -434,7 +423,6 @@ MAC
 = × 100
 180.9
 = 27.1%
-|
 Figure 9-8. Determining the location of the CG in percent MAC.
 Operational Empty Weight (OEW)
 Operational empty weight (OEW) is the basic empty weight
@@ -536,7 +524,6 @@ at 8 percent MAC; the stabilizer setting is 73⁄4 units ANU.
 Distance CG to LEMAC = Datum to CG – Datum to LEMAC
 = 635.7 – 625
 = 10.7 inches
-|
 Figure 9-10. Determining the distance from CG to the LEMAC.
 ( )
 Distance CG to LEMAC
@@ -547,7 +534,6 @@ MAC
 = × 100
 134.0
 = 8.0 % MAC
-|
 Figure 9-11. Determining the location of CG in percent MAC.
 Determining CG Changes Caused by
 Flaps (all)
@@ -611,7 +597,6 @@ Total weight
 87,500
 = 580.97 inches
 = 587.51 inches behind the datum
-|
 Figure 9-13. Determining the distance between CG and the datum.
 Figure 9-17. Determining the location of new CG.
 3.
@@ -632,7 +617,6 @@ CG (inches from datum) – LEMAC
 = 587.51 – 549.13
 = 38.38 inches
 Figure 9-14. Determining the moment/1,000 for the original weight.
-|
 Figure 9-18. Determining the distance between the CG and LEMAC.
 4.
 Determine the new weight and new CG by first
@@ -643,7 +627,6 @@ Then, determine the new CG in percent MAC.
 [Figure 9-19]
 centroid of the forward cargo hold (352.1 inches), and
 then divide the result by 1,000. [Figure 9-15]
-,|
 ( )
 Distance CG to LEMA
 CG % MAC = × 100
@@ -668,10 +651,6 @@ moves the CG forward 5.51 inches, from 27.12 percent MAC
 and subtract the moment/1,000 of the removed weight
 to 21.59 percent MAC.
 from the original moment/1,000. [Figure 9-16]
-oS
-|
-oT
-oT
 Weight (lb)
 Moment/1,000
 CG (inches from datum)
@@ -723,7 +702,6 @@ Before the cargo was shifted, the CG was located at station
 580.97, which is 22.5 percent of MAC. The CG moved aft
 10.36 inches, so the new CG is found using the formula from
 Figure 9-21.
-|
 New CG = Old CG ± CG
 = 580.97 + 10.36
 = 591.33 inches
@@ -742,12 +720,10 @@ MAC
 = × 100
 141.5
 = 7.32% MAC
-|
 Figure 9-22. Converting the location of CG to percent MAC.
 New CG % MAC = Old CG ± CG
 = 22.5% + 7.32%
 = 29.82% MAC
-|
 Figure 9-23. Determining the new CG in percent MAC.
 Some AFMs locate the CG relative to an index point rather
 than the datum or the MAC. An index point is a location
@@ -769,7 +745,6 @@ The weight was shifted 372.8 inches (–227.9 + Δ = +144.9,
 Δ =372.8).
 The change in CG can be calculated by using this formula
 found in Figure 9-24.
-=
 Weight shifted × Distance shifted
 CG = × 100
 Total weight
@@ -790,14 +765,12 @@ shown using the formula in Figure 9-25.
 New CG = Old CG ± CG
 = 0.97 + 10.36
 = 11.33 index arm
-|
 Figure 9-25. Determining the new CG, moved aft 10.36 inches.
 The change in the CG in percent MAC is determined by using
 the formula in Figure 9-26.
 New CG % MAC = Old CG ± CG
 = 22.5% + 7.32%
 = 29.82% MAC
-|
 Figure 9-26. The change in the CG in percent MAC.
 The new CG in percent MAC is the sum of the old CG plus
 the change in CG. [Figure 9-27]
@@ -876,14 +849,12 @@ Trip limit
 138,000
 128,000
 Zero fuel weight
-|
 – BOW
 –100,500
 Payload (pounds)
 27,500
 Figure 9-29. Determining the load imposed on the floor by the
 loaded pallet.
-|
 Figure 9-32. Finding maximum payload with lower trip limits.
 Determining the Maximum Amount of Payload
 Under these conditions, 27,500 pounds of payload may be
@@ -942,7 +913,6 @@ Takeoff weight
 182,000
 3.
 In the gross weight table, follow the vertical line
-|
 representing 140,000 pounds gross weight upward
 Figure 9-30. Finding the maximum takeoff weight.
 until it intersects the diagonal line for 16,000 feet
@@ -971,7 +941,6 @@ Draw a vertical line upward from the 15.3 °C
 128,000
 Zero fuel weight
 Temperature Deviation From Standard.
-|
 Figure 9-31. Determining zero fuel weight with lower trip limits.
 9-10
 
@@ -1020,7 +989,6 @@ Lb/hr/engine × No. engines × Hours flight duration
 10.11
 −0.4
 23.3
-|
 Figure 9-35. Determining the total fuel burn for a 4-hour cruise.
 12,000
 19.03
@@ -1202,14 +1170,11 @@ lose to reach the maximum allowable landing weight.
 171,000 lb cruise weight
 – 142,500 lb maximum landing weight
 28,500 lb required reduction
-|
 Figure 9-36. Determining the amount of weight the aircraft must
 lose to reach the maximum allowable landing weight.
 2.
 Determine the amount of fuel burned from the
 beginning of the dump to touchdown. [Figure 9-37]
-fT i
-td
 Fuel flow = 3,170 lb/hr/engine
 = 52.83 lb/min engine
 Figure 9-37. Determining the amount of fuel burned from the
@@ -1227,7 +1192,6 @@ from the required weight reduction. [Figure 9-38]
 28,500.00 lb required weight reduction
 – 2,007.54 lb fuel burned after start of dumping
 26,492.46 lb fuel to be dumped
-|
 Figure 9-38. Determining the amount of fuel needed to dump.
 4.
 Determine the time needed to dump this amount of
@@ -1236,7 +1200,6 @@ by the dump rate. [Figure 9-39]
 26,492.46
 = 11.52 minutes
 2,300
-|
 Figure 9-39. Determine the time needed to dump fuel.
 Weight and Balance of Commuter Category
 Airplanes
@@ -1257,8 +1220,6 @@ F.S. 175.6
 F.S. 453.5
 F.S. 513.5
 Nose baggage compt.
-7}
-F.S. 43.0
 Aft press BHD F.S. 557.5
 F.S. 150.6
 F.S. 456.0
@@ -1291,10 +1252,6 @@ Note
 For compartment loading that results in only partial utilization of total compartment volume, load items must be
 distributed or secured in a manner that precludes shifting under normally anticipated operating conditions.
 Figure 9-40. Loading data for passenger configuration.
-CS
-BC
-oT
-oT
 Item
 Weight
 Arm
@@ -1415,7 +1372,6 @@ Jet B (JP-4)
 AV gas grade
 100/130
 0.703
-—
 Aviation gasoline grade 100/130
 NOTE: The fuel quantity indicator
 is calibrated for correct indication
@@ -1778,16 +1734,10 @@ weight change, but the moment index has been increased by
 station 300.7. [Figure 9-48]
 9-16
 
-eT
-|
-|
-eT
-Sd
 Item
 Weight
 Arm
 Moment/100
-CG
 (−) 300
 Row 1
 (−) 600
@@ -1808,7 +1758,6 @@ Changes
 14,729
 New conditions
 44,294
-300.7
 Figure 9-47. Changes in CG caused by shifting passenger seats.
 It is recommended that the operator take into account the
 ( )
@@ -1819,12 +1768,10 @@ CG = × 100
 seats.
 = 300.7
 If the actual seating location of each passenger is not known,
-|
 the operator may assume that all passengers are seated
 Figure 9-48. Determining the new CG at fuselage station.
 uniformly throughout the cabin or a specified subsection of
 the cabin. Reasonable assumptions can be made about the
-=
 CG = Weight shifted × Distance shifted
 manner in which people distribute themselves throughout
 Total weight
@@ -1856,27 +1803,11 @@ and equipment are secured when the aircraft is in the takeoff
 must implement procedures to ensure the assignment of
 or landing configuration. Standard operating procedures
 passenger seating is incorporated into the loading procedure.
-_|
-TIS a
-G
-G
-C
-A
-G
-A
-L
-A
-L
-G
-A
-A
-C
-a
-|
-Mixed class:
 12 first class seats at 36-inch pitch
 148 economy class seats at 32-inch pitch
 Figure 9-50. One passenger configuration of a B737-800.
+CG
+300.7
 9-17
 
 should be taken into account. Examples of items that can
@@ -1931,10 +1862,8 @@ of 9,005 pounds and a moment index of 25,934 pound
 inches/100.
 9-18
 Loading cargo configuration
-|
 Maximum
 Centroid
-Section
 structural
 arm
 capacity
@@ -1961,47 +1890,34 @@ F.S. 499.5
 K
 F.S. 533.0
 F.S. 210
-Section A
-Notes:
 F.S. 240
-Section B
 1. All cargo in sections A
 F.S. 270
 through J must be
-Section C
 supported on the seat
 tracks and secured to the
 F.S. 300
 seat tracks and side seat
-Section D
 rails by an FAA-approved
 F.S. 330
 system.
-Section E
 F.S. 360
 2. Concentrated cargo loads
-Section F
 in sections A through L
 must not exceed 100 lb
 F.S. 390
 per square foot.
-Section G
 F.S. 420
 3. Cargo in sections K and L
-Section H
 must be retained by
 F.S. 450
 baggage webs and
-Section I
 partitions provided as part
 of standard airplane.
 F.S. 480
-Sec
-J
 4. Any exception to the
 F.S. 513.5
 above procedures
-Section K
 requires approval by a local
 FAA office.
 Figure 9-51. Loading data for cargo configuration.
@@ -2023,10 +1939,6 @@ Maximum zero fuel weight is 14,000 pounds.
 •
 Maximum landing weight is 16,000 pounds.
 
-oT
-oT
-oT
-|
 Item
 Weight
 Arm
@@ -2071,7 +1983,6 @@ gallons 370
 296.2
 Figure 9-52. Flight manifest of a Beech 1900 in the cargo configuration.
 for start and taxi. The takeoff CG is the moment/100
-fC
 CG = Weight shifted x Distance shifted
 divided by the weight, and then the result multiplied
 Total weight
@@ -2080,12 +1991,8 @@ the maximum takeoff weight of 16,600 pounds, and a
 Figure 9-53. Shifting cargo from one section to another.
 check of the weight and balance diagram shows that the
 CG at station 298.0 is also within limits. [Figure 9-56]
-a:
 Total moment index
 CG = x Reduction factor
-oo
-et
-I
 Item
 Weight (lb)
 Moment
@@ -2112,9 +2019,6 @@ Takeoff weight
 of the aircraft with all of the useful load except the
 Figure 9-56. Determining the takeoff weight and CG.
 fuel onboard. [Figure 9-55]
-oe
-|
-ee
 3.
 Determine the landing weight and CG. This is the zero fuel
 Item
@@ -2126,9 +2030,6 @@ weight plus the weight of fuel at landing. [Figure 9-57]
 9,005
 Basic empty weight
 Crew
-oo
-eT
-I
 Item
 Weight (lb)
 Moment

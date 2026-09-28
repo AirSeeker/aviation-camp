@@ -1,5 +1,4 @@
 Appendix A
-AppendixA
 Clearance Shorthand
 The following shorthand system is recommended by the
 Federal Aviation Administration (FAA). Applicants for the

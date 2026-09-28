@@ -1,8 +1,6 @@
 Chapter 14
 Airport
-Iparetene
 Operations
-}
 Introduction
 Each time a pilot operates an aircraft, the flight normally
 begins and ends at an airport. An airport may be a small sod
@@ -246,85 +244,12 @@ organized by regions and are revised every 56 days. The
 Chart Supplement U.S. is also available digitally at www.faa.
 14-3
 
-g
-w,
-«
-Ki
-e
-/
-"ey
-a
-ey
-,
-%e
-ayH ms
-*af
-& Patter altitude:
-¥y/, ES
-/
-Vaananf
-%
-A
-May
-©,
-,
-\
-oe
-Fly cleat of
-a
-\
-:
->
-tafe pation
-g
-3°
-Tee
-$
-o
-downwind
-t
-ae
-Meld to
-\
-trattic and
-we.
-enter
-*
-midfield
-ft
-es
-Soumwind
-my)
-*
-at45*
-LE
-Descend to
-a
-EE
-patter altitude,
-lied
-*,
-thon turn
-‘*
-?
-*
--
-“engn?
-Figure 14-3. Alternate Midfield Entry.
 Figure 14-2. Preferred Entry-Crossing Midfield.
 gov/air_traffic/flight_info/aeronav. Figure 14-4 contains an
 excerpt from a directory. For a complete listing of information
-‘ALABAMA,
 provided in a Chart Supplement U.S. and how the information
 may be decoded, refer to the “Legend Sample” located in the
-Saath omits aacaeR
-ole
 front of each Chart Supplement U.S.
-ne
-OF ee
-“|
-rate
-awe
 In addition to airport information, each Chart Supplement
 U.S. contains information such as special notices, Federal
 Aviation Administration (FAA) and National Weather
@@ -342,9 +267,10 @@ Notices to Airmen (NOTAM)
 Time-critical aeronautical information, which is of a temporary
 nature or not sufficiently known in advance to permit
 publication, on aeronautical charts or in other operational
+14-4
+Figure 14-3. Alternate Midfield Entry.
 Figure 14-4. Chart Supplement U.S. (formerly Airport/Facility
 Directory excerpt.
-14-4
 
 publications receives immediate dissemination by the
 NOTAM system. The NOTAM information could affect your
@@ -492,7 +418,6 @@ runway. The runway numbers on the sign are arranged to
 correspond to the relative location of the respective runway
 thresholds. Figure 14-10 shows “18-36” to indicate the
 threshold for Runway 18 is to the left and the threshold for
-,.
 C
 Typical Runway Safety Area
 A
@@ -507,125 +432,111 @@ Figure 14-9. Runway holding position sign at takeoff end of Runway
 ×
 14-7
 
-Runway Holding Position Marking
-Noncompliance with a runway holding position marking
--
-:
-=
-may result in the FAA filing a Pilot Deviation against you.
-Runway holding position markings consist of four yellow
-lines, two solid and two dashed, that are painted on the surface
-and extend across the width of the taxiway to indicate where
-the aircraft should stop when approaching a runway. These
-ee
-a
-SS SS
-aes
-markings are painted across the entire taxiway pavement, are
-in alignment, and are collocated with the holding position
-sign as described above.
-Se aA RPO HSER Pat
-MEI NikMa,RNRaR
 Figure 14-10. Runway holding position sign at a location other
-As you approach the runway, two solid yellow lines and two
 than the takeoff end of Runway 18-36 with collocated Taxiway
-dashed lines will be visible. Prior to reaching the solid lines, it
 Alpha location sign.
-is imperative to stop and ensure that no portion of the aircraft
-intersects the first solid yellow line. Do not cross the double
 Runway 36 is to the right. The sign also indicates that you
-solid lines until a clearance from ATC has been received.
 are located on Taxiway Alpha.
-[Figure 14-13] When the tower is closed or when operating at
-a nontowered airport, you may taxi onto or across the runway
 If the runway holding position sign is located on a taxiway
-only when the runway is clear and there are no aircraft on final
 at the intersection of two runways, the designations for
-approach. You should use extreme caution when crossing or
 both runways are shown on the sign along with arrows
-taxiing onto the runway and always look both ways.
 showing the approximate alignment of each runway.
 [Figure 14-11A and B] In addition to showing the
-When exiting the runway, the same markings will be seen
 approximate runway alignment, the arrows indicate the
-except the aircraft will be approaching the double dashed
 direction(s) to the threshold of the runway whose designation
-lines. [Figure 14-14] In order to be clear of the runway, the
 is immediately next to each corresponding arrow.
-entire aircraft must cross both the dashed and solid lines.
-An ATC clearance is not needed to cross this marking when
 This type of taxiway and runway/runway intersection
-exiting the runway.
 geometry can be very confusing and create navigational
 challenges. Extreme caution must be exercised when taxiing
-Runway Distance Remaining Signs
 onto or crossing this type of intersection. Figure 14-11A and
-Runway distance remaining signs have a black background
 B shows a depiction of a taxiway, runway/runway intersection
-with a white number and may be installed along one or both
 and is also designated as a “hot spot” on the airport diagram.
-sides of the runway. [Figure 14-15] The number on the
 In the example, Taxiway Bravo intersects with two runways,
-signs indicates the distance, in thousands of feet, of landing
 31-13 and 35-17, which cross each other.
-runway remaining. The last sign, which has the numeral “1,”
-is located at least 950 feet from the runway end.
 Surface painted runway holding position signs may also be
 used to aid you in determining the holding position. These
-Runway Designation Marking
 markings consist of white characters on a red background
-Runway numbers and letters are determined from the
 and are painted on the left side of the taxiway centerline.
-approach direction. The runway number is the whole number
 Figure 14-12 shows a surface painted runway holding
-nearest one-tenth the magnetic azimuth of the centerline of the
 position sign that is the holding point for Runway 32R-14L.
-runway, measured clockwise from the magnetic north. In the
-case where there are parallel runways, the letters differentiate
 You should never allow any part of your aircraft to cross the
-between left (L), right (R), or center (C). [Figure 14-16] For
 runway holding position sign (either a vertical or surface
-example, if there are two parallel runways, they would show
 painted sign) without a clearance from ATC. Doing so poses
-the designation number and then either L or R beneath it.
 a hazard to yourself and others.
-For three parallel runways, the designation number would
-be presented with L, C, or R beneath it.
 When the tower is closed or you are operating at a nontowered
 airport, you may taxi past a runway holding position sign only
 when the runway is clear of aircraft, and there are no aircraft on
 final approach. You may then proceed with extreme caution.
 14-8
+Runway Holding Position Marking
+Noncompliance with a runway holding position marking
+may result in the FAA filing a Pilot Deviation against you.
+Runway holding position markings consist of four yellow
+lines, two solid and two dashed, that are painted on the surface
+and extend across the width of the taxiway to indicate where
+the aircraft should stop when approaching a runway. These
+markings are painted across the entire taxiway pavement, are
+in alignment, and are collocated with the holding position
+sign as described above.
+As you approach the runway, two solid yellow lines and two
+dashed lines will be visible. Prior to reaching the solid lines, it
+is imperative to stop and ensure that no portion of the aircraft
+intersects the first solid yellow line. Do not cross the double
+solid lines until a clearance from ATC has been received.
+[Figure 14-13] When the tower is closed or when operating at
+a nontowered airport, you may taxi onto or across the runway
+only when the runway is clear and there are no aircraft on final
+approach. You should use extreme caution when crossing or
+taxiing onto the runway and always look both ways.
+When exiting the runway, the same markings will be seen
+except the aircraft will be approaching the double dashed
+lines. [Figure 14-14] In order to be clear of the runway, the
+entire aircraft must cross both the dashed and solid lines.
+An ATC clearance is not needed to cross this marking when
+exiting the runway.
+Runway Distance Remaining Signs
+Runway distance remaining signs have a black background
+with a white number and may be installed along one or both
+sides of the runway. [Figure 14-15] The number on the
+signs indicates the distance, in thousands of feet, of landing
+runway remaining. The last sign, which has the numeral “1,”
+is located at least 950 feet from the runway end.
+Runway Designation Marking
+Runway numbers and letters are determined from the
+approach direction. The runway number is the whole number
+nearest one-tenth the magnetic azimuth of the centerline of the
+runway, measured clockwise from the magnetic north. In the
+case where there are parallel runways, the letters differentiate
+between left (L), right (R), or center (C). [Figure 14-16] For
+example, if there are two parallel runways, they would show
+the designation number and then either L or R beneath it.
+For three parallel runways, the designation number would
+be presented with L, C, or R beneath it.
 
 Not to be used for navigation
-_
-A
-Runway 13
-_
-Runway 31
-31-13
-35-17
-B
-35-17
-31-13
-NC-3, 08 MAR 2012 to 05 APR 2012
 Figure 14-11. (A) Taxiway Bravo location sign collocated with runway/runway intersection holding signs at Sioux Gateway Airport
 (SUX) (B) Airport diagram of Sioux Gateway Airport (SUX), Sioux City, Iowa. The area outlined in red is a designated “hot spot” (HS1).
 B
 NC-3, 08 MAR 2012 to 05 APR 2012
 14-9
 
-i-@
 Figure 14-12. Surface painted runway holding position signs for
 Runway 32R-14L along with the enhanced taxiway centerline marking.
+Figure 14-13. Surface painted holding position marking along with
+Figure 14-14. Runway holding position markings as seen when
+exiting the runway. When exiting the runway, no ATC clearance
+is required to cross.
+Land and Hold Short Operations (LAHSO)
+When simultaneous operations (takeoffs and landings) are
+being conducted on intersecting runways, Land and Hold
+Short Operations (LAHSO) may also be in effect. LAHSO
+is an ATC procedure that may require your participation and
+14-10
 Figure 14-15. Runway distance remaining sign indicating that there
 is 2,000 feet of runway remaining.
 compliance. As pilot in command (PIC), you have the final
 authority to accept or decline any LAHSO clearance.
-———————
-oe
 If issued a land and hold short clearance, you must be aware
-:
 of the reduced runway distances and whether or not you can
 comply before accepting the clearance. You do not have
 to accept a LAHSO clearance. Pilots should only receive a
@@ -633,12 +544,9 @@ LAHSO clearance when there is a minimum ceiling of 1,000
 feet and 3 statute miles of visibility.
 Runway holding position signs and markings are installed
 on those runways used for LAHSO. The signs and markings
-Figure 14-13. Surface painted holding position marking along with
-enhanced taxiway centerline.
 are placed at the LAHSO point to aid you in determining
 where to stop and hold the aircraft and are located prior to
 the runway/runway intersection. [Figure 14-17]
-|
 The holding position sign has a white inscription with black
 border around the numbers on a red background and is installed
 adjacent to the holding position markings. If you accept a land
@@ -650,51 +558,42 @@ and should disregard any LAHSO holding position markings
 located on the runway. If you receive and accept LAHSO
 instructions, you must stop short of the intersecting runway
 prior to the LAHSO signs and markings.
-Figure 14-14. Runway holding position markings as seen when
-exiting the runway. When exiting the runway, no ATC clearance
-is required to cross.
 Below is a list of items which, if thoroughly understood
 and complied with, will ensure that LAHSO operations are
-Land and Hold Short Operations (LAHSO)
 conducted properly.
-When simultaneous operations (takeoffs and landings) are
 •
 Know landing distance available.
-being conducted on intersecting runways, Land and Hold
 •
 Be advised by ATC as to why LAHSO are being
-Short Operations (LAHSO) may also be in effect. LAHSO
 conducted.
-is an ATC procedure that may require your participation and
-14-10
 
 L
-—
 Figure 14-16. Two of three parallel runways.
 •
 Advise ATC if you cannot comply with LAHSO.
-If you accept the following clearance from ATC: “Cleared to
-land Runway 36 hold short of Runway 23,” you must either exit
 •
 Know what signs and markings are at the LAHSO point.
-Runway 36 or stop at the holding position prior to Runway 23.
 •
 LAHSO are not authorized for student pilots who are
 performing a solo flight.
-Taxiway Markings and Signs
-Taxiway direction signs have a yellow background and
 •
 At many airports air carrier aircraft are not authorized
-black characters, which identifies the designation or
 to participate in LAHSO if the other aircraft is a
-intersecting taxiways. Arrows indicate the direction of turn
 general aviation aircraft.
-that would place the aircraft on the designated taxiway.
 •
 Generally, LAHSO are not authorized at night.
-[Figure 14-18] Direction signs are normally located on
 •
 LAHSO are not authorized on wet runways.
+Figure 14-17. Runway holding position sign and marking for LAHSO.
+If you accept the following clearance from ATC: “Cleared to
+land Runway 36 hold short of Runway 23,” you must either exit
+Runway 36 or stop at the holding position prior to Runway 23.
+Taxiway Markings and Signs
+Taxiway direction signs have a yellow background and
+black characters, which identifies the designation or
+intersecting taxiways. Arrows indicate the direction of turn
+that would place the aircraft on the designated taxiway.
+[Figure 14-18] Direction signs are normally located on
 the left side of the taxiway and prior to the intersection.
 These signs and markings (with a yellow background and
 black characters) indicate the direction toward a different
@@ -705,77 +604,65 @@ Taxiway direction signs can also be displayed as surface
 painted markings. Figure 14-19 shows Taxiway Bravo as
 proceeding straight ahead while Taxiway Alpha turns to the
 right at approximately 45°.
-“Ena
-os
-estate
-Pate
-mee
-f
-Figure 14-17. Runway holding position sign and marking for LAHSO.
 C
-«a
 14-11
 
+Figure 14-18. Taxiway Bravo direction sign with a collocated
+Taxiway Delta location sign. When the arrow on the direction
+sign indicates a turn, the sign is located prior to the intersection.
+Figure 14-20A and B shows an example of a direction sign at
+a complex taxiway intersection. Figure 14-20A and B shows
+Taxiway Bravo intersects with Taxiway Sierra at 90°, but at
+45° with Taxiway Foxtrot. This type of array can be displayed
+with or without the taxiway location sign, which in this case
+would be Taxiway Bravo.
+Enhanced Taxiway Centerline Markings
+At most towered airports, the enhanced taxiway centerline
+marking is used to warn you of an upcoming runway. It consists
+of yellow dashed lines on either side of the normal solid taxiway
+centerline and the dashes extend up to 150 feet prior to a
+runway holding position marking. [Figure 14-21A and B] They
+are used to aid you in maintaining awareness during surface
+movement to reduce runway incursions.
+Destination Signs
+Destination signs have black characters on a yellow
+background indicating a destination at the airport. These
+Figure 14-19. Surface painted taxiway direction signs.
+14-12
 signs always have an arrow showing the direction of the taxi
 route to that destination. [Figure 14-22] When the arrow on
 the destination sign indicates a turn, the sign is located prior
 to the intersection. Destinations commonly shown on these
 types of signs include runways, aprons, terminals, military
-|
-ee
-|
-=
-‘eaagie
 areas, civil aviation areas, cargo areas, international areas,
 and fixed-base operators. When the inscription for two or
 more destinations having a common taxi route are placed
 on a sign, the destinations are separated by a “dot” (•) and
 one arrow would be used as shown in Figure 14-22. When
 the inscription on a sign contains two or more destinations
-Paina 2eealoft
 having different taxi routes, each destination is accompanied
 by an arrow and separated from the other destination(s) on
 the sign with a vertical black message divider as shown in
-Figure 14-18. Taxiway Bravo direction sign with a collocated
 Figure 14-23. The example shown in Figure 14-23 shows
-Taxiway Delta location sign. When the arrow on the direction
 two signs. The sign in the foreground explains that Runway
-sign indicates a turn, the sign is located prior to the intersection.
 20 threshold is to the left, and Runways 32, 2, and 14 are to
 the right. The sign in the background indicates that you are
-Figure 14-20A and B shows an example of a direction sign at
 located on Taxiway Bravo and Taxiway November will take
-a complex taxiway intersection. Figure 14-20A and B shows
 you to those runways.
-Taxiway Bravo intersects with Taxiway Sierra at 90°, but at
-45° with Taxiway Foxtrot. This type of array can be displayed
 Holding Position Signs and Markings for an
-with or without the taxiway location sign, which in this case
 Instrument Landing System (ILS) Critical Area
-would be Taxiway Bravo.
 The instrument landing system (ILS) broadcasts signals to
 arriving instrument aircraft to guide them to the runway. Each
-Enhanced Taxiway Centerline Markings
 of these ILSs have critical areas that must be kept clear of all
-At most towered airports, the enhanced taxiway centerline
 obstacles in order to ensure quality of the broadcast signal. At
-marking is used to warn you of an upcoming runway. It consists
 many airports, taxiways extend into the ILS critical area. Most
-of yellow dashed lines on either side of the normal solid taxiway
 of the time, this is of no concern; however, during times of
-centerline and the dashes extend up to 150 feet prior to a
 poor weather, an aircraft on approach may depend on a good
-runway holding position marking. [Figure 14-21A and B] They
 signal quality. When necessary, ATC will protect the ILS
-are used to aid you in maintaining awareness during surface
 critical area for arrival instrument traffic by instructing taxiing
-movement to reduce runway incursions.
 aircraft to “hold short” of Runway (XX) ILS critical area.
-Destination Signs
 The ILS critical area hold sign has white characters, outlined
-Destination signs have black characters on a yellow
 in black, on a red background and is installed adjacent to the
-background indicating a destination at the airport. These
 ILS holding position markings. [Figure 14-24] The holding
 position markings for the ILS critical area appear on the
 pavement as a horizontal yellow ladder extending across the
@@ -784,81 +671,29 @@ When instructed to “hold short of Runway (XX) ILS critical
 area,” you must ensure no portion of the aircraft extends
 beyond these markings. [Figure 14-25] If ATC does not
 instruct you to hold at this point, then you may bypass the ILS
-ee| en
 critical area hold position markings and continue with your
 taxi. Figure 14-24 shows that the ILS hold sign is located
 on Taxiway Golf and the ILS ladder hold position marking
 is adjacent to the hold sign.
-Figure 14-19. Surface painted taxiway direction signs.
-14-12
 
 A
-»
 F
 S
-eo
 S
 F
 B
 S
 F
-=
-Figure 14-20. Orientation of signs is from left to right in a clockwise manner. Left turn signs are on the left and right turn on the right.
 In this view, the pilot is on Taxiway Bravo.
-aN
-A
-B
-Enhanced taxiway centerline marking extends 150 feet prior
-to a runway holding position marking. Prepare to STOP.
-B
 Figure 14-21. (A) Enhanced taxiway centerline marking. (B) Enhanced taxiway centerline marking and runway holding position marking.
 S
-aN
-A
-- 7
-F
-B
-Enhanced taxiway centerline marking extends 150 feet prior
-to a runway holding position marking. Prepare to STOP.
-Tha
-B
-Prepare to STOP unless you have been cleared onto
-or across the runway by ATC.
 14-13
 
-|
-en re
-| FBOT
-aa
-+
-Depeed i aS Bp
-x
-ILS
-POR tieRie £alam
-Pape
-ROCk 8raat
-|
-ILS Critical Area boundary
-Rit
-On, At as ee
-peoe
-}
-|
 Figure 14-22. Destination sign to the fixed-base operator (FBO).
-F |
-| |
-The yellow surface
-Hold only
-painted “ladder”
-when
-marking and red ILS
-specifically
-sign are located
-instructed by ATC
-on taxiways where
-the taxiways intersect
-,
-the ILS critical area.
+Figure 14-23. Runway destination sign with different taxi routes.
+Figure 14-24. Instrument landing system (ILS) holding position sign
+and marking on Taxiway Golf.
+14-14
 Figure 14-25. Holding position sign and marking for instrument
 landing system (ILS) critical area boundary.
 Holding Position Markings for Taxiway/Taxiway
@@ -866,65 +701,33 @@ Intersections
 Holding position markings for taxiway/taxiway intersections
 consist of a single dashed yellow line extending across the
 width of the taxiway. [Figure 14-26] They are painted on
-Figure 14-23. Runway destination sign with different taxi routes.
 taxiways where ATC normally holds aircraft short of a
 taxiway intersection. When instructed by ATC “hold short
 of Taxiway X,” you should stop so that no part of your
-uh
 aircraft extends beyond the holding position marking. When
-ad
-L
 the marking is not present, you should stop your aircraft at
-wa
 a point that provides adequate clearance from an aircraft on
 the intersecting taxiway.
-: a ae
-;
 Marking and Lighting of Permanently Closed
 Runways and Taxiways
 For runways and taxiways that are permanently closed, the
-:
-CES
-eee oe x
 lighting circuits are disconnected. The runway threshold,
--:
-oS oo. ee
 runway designation, and touchdown markings are obliterated
-Meee re oe BORESS
-ae
 and yellow “Xs” are placed at each end of the runway and
-ba
-Tees a ge eae na
 at 1,000-foot intervals.
-Figure 14-24. Instrument landing system (ILS) holding position sign
-and marking on Taxiway Golf.
-14-14
+ILS
+ILS Critical Area boundary
 
-.
--
-|
-A
 B
 B
 G
 G
 G
->
->
->
->
-om
-om
 G
 G
 B
 B
-dp
-dp
-{
-—
 Figure 14-26. Holding position marking on a taxiway.
-B
 Temporarily Closed Runways and Taxiways
 For temporarily closed runways and taxiways, a visual
 indication is often provided with yellow “Xs” or raised
@@ -932,14 +735,12 @@ lighted yellow “Xs” placed at each end of the runway.
 Depending on the reason for the closure, duration of closure,
 airfield configuration, and the existence and the hours of
 operation of an ATC tower, a visual indication may not be
-—
 present. As discussed previously in the chapter, you must
 always check NOTAMs and ATIS for runway and taxiway
 closure information.
 Figure 14-27A shows an example of a yellow “X” laid flat
 with an adequate number of heavy sand bags to keep the
 wind from getting under and displacing the vinyl material.
-C
 A very effective and preferable visual aid to depict temporary
 closure is the lighted “X” placed on or near the runway
 designation numbers. [Figure 14-27B and C] This device is
@@ -969,7 +770,6 @@ of the runway, or identify an instrument landing
 white inscription. These signs denote an entrance to a
 system (ILS) critical area.
 runway, critical area, or prohibited area.
-~~
 14-15
 
 •
@@ -1028,22 +828,10 @@ Approach light systems are primarily intended to provide a
 means to transition from instrument flight to visual flight for
 landing. The system configuration depends on whether the
 14-16
-|
-.
 Green
 White
 Yellow
 White
-y
-NN
-df
-N
-j
-j
-:
-a
-re
-aY
 Figure 14-28. Airport rotating beacons.
 runway is a precision or nonprecision instrument runway.
 Some systems include sequenced flashing lights that appear
@@ -1142,7 +930,6 @@ Amber
 On glidepath
 Red
 Below glidepath
-*
 Figure 14-31. Tri-color visual approach slope indicator.
 14-17
 
@@ -1169,10 +956,8 @@ about the runway centerline. The system consists of steady-
 burning white lights that start 100 feet beyond the landing
 threshold and extend to 3,000 feet beyond the landing
 threshold or to the midpoint of the runway, whichever is less.
-"i =
 Figure 14-33. Runway lights.
 14-18
-’///
 Above glidepath
 On glidepath
 Slightly below glidepath
@@ -1321,6 +1106,32 @@ operational at 14 of the nation’s busiest airports with 3 more
 airports scheduled to receive the system by 2017.
 14-19
 
+Figure 14-35. Runway Entrance Lights (REL).
+Figure 14-36. Takeoff Hold Lights (THL).
+Wind Direction Indicators
+It is important for a pilot to know the direction of the wind. At
+facilities with an operating control tower, this information is
+provided by ATC. Information may also be provided by FSS
+personnel either located at a particular airport or remotely
+available through a remote communication outlet (RCO), or
+by requesting information on a CTAF at airports that have the
+capacity to receive and broadcast on this frequency.
+When none of these services is available, it is possible
+to determine wind direction and runway in use by visual
+wind indicators. A pilot should check these wind indicators
+even when information is provided on the CTAF at a given
+airport because there is no assurance that the information
+provided is accurate.
+The wind direction indicator can be a wind cone, wind sock,
+tetrahedron, or wind tee. These are usually located in a central
+location near the runway and may be placed in the center
+of a segmented circle, which identifies the traffic pattern
+direction if it is other than the standard left-hand pattern.
+[Figures 14-37 and 14-38]
+The wind sock is a good source of information since it not
+only indicates wind direction but allows the pilot to estimate
+the wind velocity and/or gust factor. The wind sock extends
+14-20
 out straighter in strong winds and tends to move back and
 forth when the wind is gusting. Wind tees and tetrahedrons
 can swing freely and align themselves with the wind direction.
@@ -1332,220 +1143,106 @@ At airports without an operating control tower, a segmented
 circle visual indicator system, if installed, is designed to
 provide traffic pattern information. [Figure 14-38] Usually
 located in a position affording maximum visibility to pilots in
-Figure 14-35. Runway Entrance Lights (REL).
 the air and on the ground and providing a centralized location
 for other elements of the system, the segmented circle consists
 of the following components: wind direction indicators,
 landing direction indicators, landing strip indicators, and
 traffic pattern indicators.
-ge =
-cee
 A tetrahedron is installed to indicate the direction of landings
 and takeoffs when conditions at the airport warrant its use.
-#
-ve
-*
-—
 It may be located at the center of a segmented circle and
 may be lighted for night operations. The small end of the
 tetrahedron points in the direction of landing. Pilots are
-i,
-a
-———-
-_
-a
 cautioned against using a tetrahedron for any purpose other
 than as an indicator of landing direction. At airports with
-Figure 14-36. Takeoff Hold Lights (THL).
 control towers, the tetrahedron should only be referenced
 when the control tower is not in operation. Tower instructions
-Wind Direction Indicators
 supersede tetrahedron indications.
-It is important for a pilot to know the direction of the wind. At
-facilities with an operating control tower, this information is
 Landing strip indicators are installed in pairs and are used to
-provided by ATC. Information may also be provided by FSS
 show the alignment of landing strips. [Figure 14-38] Traffic
-personnel either located at a particular airport or remotely
 pattern indicators are arranged in pairs in conjunction with
-available through a remote communication outlet (RCO), or
 landing strip indicators and used to indicate the direction of
-by requesting information on a CTAF at airports that have the
 turns when there is a variation from the normal left traffic
-capacity to receive and broadcast on this frequency.
 pattern. (If there is no segmented circle installed at the airport,
 traffic pattern indicators may be installed on or near the end
-When none of these services is available, it is possible
 of the runway.)
-to determine wind direction and runway in use by visual
-wind indicators. A pilot should check these wind indicators
 At most airports and military air bases, traffic pattern altitudes
-even when information is provided on the CTAF at a given
 for propeller-driven aircraft generally extend from 600 feet
-airport because there is no assurance that the information
 to as high as 1,500 feet above ground level (AGL). Pilots
-provided is accurate.
 can obtain the traffic pattern altitude for an airport from the
 Chart Supplement U.S. (formerly Airport/Facility Directory).
-The wind direction indicator can be a wind cone, wind sock,
 Also, traffic pattern altitudes for military turbojet aircraft
-tetrahedron, or wind tee. These are usually located in a central
 sometimes extend up to 2,500 feet AGL. Therefore, pilots of
-location near the runway and may be placed in the center
 en route aircraft should be constantly on alert for other aircraft
-of a segmented circle, which identifies the traffic pattern
 in traffic patterns and avoid these areas whenever possible.
-direction if it is other than the standard left-hand pattern.
 When operating at an airport, traffic pattern altitudes should
-[Figures 14-37 and 14-38]
 be maintained unless otherwise required by the applicable
 distance from cloud criteria according to Title 14 of the Code
-The wind sock is a good source of information since it not
 of Federal Regulations (14 CFR) part 91, section 91.155.
-only indicates wind direction but allows the pilot to estimate
 Additional information on airport traffic pattern operations
-the wind velocity and/or gust factor. The wind sock extends
-14-20
 
-until beyond departure end of runway. [Figure 14-40]-
-y
-~
-“=
-,
-=
-i
-“=
-~*~
-|
-wt
-(
-a
-~~,
-ap
-Tetrahedron
-WIND
-r
-Wind tee
-a
-GD
-Wind sock or cone
 Figure 14-37. Wind direction indicators.
-a
+Figure 14-38. Segmented circle.
+can be found in Chapter 4, “Air Traffic Control,” of the AIM.
+Pilots can find traffic pattern information and restrictions, such
+as noise abatement in the Chart Supplement U.S. (formerly
+Airport/Facility Directory).
+Example: Key to Traffic Pattern Operations—
+Single Runway
+1.
+Enter pattern in level flight, abeam the midpoint
+of the runway, at pattern altitude. (1,000' AGL is
+recommended pattern altitude unless otherwise
+established.) [Figure 14-39]
+WIND
 2.
 Maintain pattern altitude until abeam approach end of
-|
 the landing runway on downwind leg. [Figure 14-39]
-Traffic pattern
-"|
-indicators
 3.
 Complete turn to final at least ¼ mile from the runway.
-ea
 [Figure 14-39]
-L
-Landing direction
-indicator
 4.
 After takeoff or go-around, continue straight ahead
 until beyond departure end of runway. [Figure 14-39]
 5.
 If remaining in the traffic pattern, commence turn to
--
-\
 crosswind leg beyond the departure end of the runway
 within 300 feet of pattern altitude. [Figure 14-39]
-|
-“
 6.
 If departing the traffic pattern, continue straight out,
 or exit with a 45° turn (to the left when in a left-hand
 traffic pattern; to the right when in a right-hand traffic
 pattern) beyond the departure end of the runway, after
-ap
-F |
 reaching pattern altitude. [Figure 14-39]
-Wind cone
-Landing runway
-or landing strip
 Example: Key to Traffic Pattern Operations—
-indicators
 Parallel Runways
 1.
 Enter pattern in level flight, abeam the midpoint
-Figure 14-38. Segmented circle.
 of the runway, at pattern altitude. (1,000' AGL is
 recommended pattern altitude unless otherwise
-can be found in Chapter 4, “Air Traffic Control,” of the AIM.
 established.) [Figure 14-40]
-Pilots can find traffic pattern information and restrictions, such
 2.
 Maintain pattern altitude until abeam approach end of
-as noise abatement in the Chart Supplement U.S. (formerly
 the landing runway on downwind leg. [Figure 14-40]
-Airport/Facility Directory).
 3.
 Complete turn to final at least ¼ mile from the runway.
-Example: Key to Traffic Pattern Operations—
 [Figure 14-40]
-Single Runway
 4.
 Do not overshoot final or continue on a track that
-1.
-Enter pattern in level flight, abeam the midpoint
 penetrates the final approach of the parallel runway
-of the runway, at pattern altitude. (1,000' AGL is
 5.
 After takeoff or go-around, continue straight ahead
-recommended pattern altitude unless otherwise
-established.) [Figure 14-39]
+until beyond departure end of runway. [Figure 14-40]
 14-21
 
-P|
-in the AIM assists a pilot in the use and understanding of _
-—-
-—-
-Application of traffic
-LEGEND
-|
-Entry
-pattern indicators
-Recommended standard left-hand traffic
-pattern (depicted)
-(standard right-hand
-~_
-f-
-|
-traffic pattern would be mirror image)
-y
-h
-F
-all
--
 Downwind
 Departure
-fs]
-Segmented circle
 Crosswind
-q
-ll
 Base
-F
-/
-:
-f
-.
-/
-|
-o
-all
-all
-J
 Departure
 Final
 Departure
 RUNWAY
-,
-,
 Figure 14-39. Traffic pattern operations—single runway.
 Radio Equipment
 6.
@@ -1602,68 +1299,18 @@ a pilot’s ability to operate safely and efficiently in the airspace
 internationally, that uses other than a VHF radio, and that
 system. A review of the Pilot/Controller Glossary contained
 meets other criteria.
+in the AIM assists a pilot in the use and understanding of
 14-22
 
-po
-po
-LEGEND
-frequency and/or watch for light signals as appropriate.-
-i
-.F
-Standard left-hand
-=
-=
-traffic pattern (depicted)
--
-Right-hand traffic
-J
-pattern (depicted)
 Crosswind
--
 Base
-F
-_
-f
-i
-.
-|
--
--
-J
--
 Final
 Departure
-fs]
-PF
-PF
-a
-No transgression zone
-No transgression zone
-Segmented circle
--
--
-we
 Final
 Departure
--
 Crosswind
--
 Base
-,
-,
-~\
--
-A
--
--
 Downwind
-A
-A
-,
-~\
-A
->
--
 Entry
 Figure 14-40. Traffic pattern operation—parallel runways.
 standard terminology. The AIM also contains many examples
@@ -1696,6 +1343,7 @@ are not accepted at busy airports. If authorization is given
 pilot should continue, enter the pattern, report a position as
 to depart, the pilot is advised to monitor the appropriate
 appropriate, and watch for light signals from the tower. Light
+frequency and/or watch for light signals as appropriate.
 signal colors and their meanings are contained in Figure 14-42.
 14-23
 
@@ -1960,32 +1608,12 @@ responsibility to see and avoid other aircraft. [Figure 14-44]
 In addition to basic radar service, terminal radar service
 14-26
 A
-B
-Wind
-a
-~
 TRACK
-TRACK
-a
-~~
-a
-~
-a
-~~
-f
-.
-~*~
--
-|
-.
-f
-.
-f
-Traffic information would be issued to the pilot of aircraft “A”
-as 12 o’clock. The actual position of the traffic as seen by
-the pilot of aircraft “A” would be 1 o’clock. Traffic information
+Trafﬁc information would be issued to the pilot of aircraft “A”
+as 12 o’clock. The actual position of the trafﬁc as seen by
+the pilot of aircraft “A” would be 1 o’clock. Trafﬁc information
 issued to aircraft “B” would also be given as 12 o’clock, but
-in this case, the pilot of “B” would see traffic at 10 o’clock.
+in this case, the pilot of “B” would see trafﬁc at 10 o’clock.
 Figure 14-44. Traffic advisories.
 area (TRSA) has been implemented at certain terminal
 locations. TRSAs are depicted on sectional aeronautical
@@ -2019,88 +1647,51 @@ of the wingtips. After the rollup is completed, the wake
 consists of two counter rotating cylindrical vortices. Most of
 the energy lies within a few feet of the center of each vortex.
 [Figure 14-45]
+Wind
+B
+TRACK
 
-.
-j
-a
-\
-\
-~
-=
-Ty
-_
-~
-_
-S
-.
-_
-a
-\
--
-a
-q
-5%
->
-q
-» |
-\
-=
-,
-ss
-.
-—
-=
--
-.
-~_
 Figure 14-45. Vortex generation.
 Vortex Strength
-operating in the NAS. There have been wake turbulence
 Terminal Area
-events in excess of 30NM and 2000 feet lower than the wake
-generating aircraft. Air density is also a factor in wake strength.
 Wake turbulence has historically been thought of as only
-Even though the speeds are higher in cruise at high altitude,
 a function of aircraft weight, but recent research considers
-the reduced air density may result in wake strength comparable
 additional parameters, such as speed, aspects of the wing, wake
-to that in the terminal area. In addition, for a given separation
 decay rates, and aircraft resistance to wake, just to name a few.
-distance, the higher speeds in cruise result in less time for the
 The vortex characteristics of any aircraft will be changed with
-wake to decay before being encountered by a trailing aircraft.
 the extension of flaps or other wing configuration devices, as
 well as changing speed. However, as the basic factors are weight
-Vortex Behavior
 and speed, the vortex strength increases proportionately with
-Trailing vortices have certain behavioral characteristics
 an increase in aircraft operating weight or decrease in aircraft
-that can help a pilot visualize the wake location and take
 speed. The greatest vortex strength occurs when the generating
-avoidance precautions.
 aircraft is heavy, slow, and clean, since the turbulence from a
 “dirty” aircraft configuration hastens wake decay.
-Vortices are generated from the moment an aircraft leaves the
-ground (until it touches down), since trailing vortices are the
 En Route
-byproduct of wing lift. [Figure 14-46] The vortex circulation
 En route wake turbulence events have been influenced by
-is outward, upward, and around the wingtips when viewed
 changes to the aircraft fleet mix that have more “Super”
-from either ahead or behind the aircraft. Tests with large
 (A380) and “Heavy” (B-747, B-777, A340, etc.) aircraft
-a
-~
-“s
-~~
-| |
--_
-Wake ends
-a
+Figure 14-46. Vortex behavior.
 Wake begins
 Rotation
+operating in the NAS. There have been wake turbulence
+events in excess of 30NM and 2000 feet lower than the wake
+generating aircraft. Air density is also a factor in wake strength.
+Even though the speeds are higher in cruise at high altitude,
+the reduced air density may result in wake strength comparable
+to that in the terminal area. In addition, for a given separation
+distance, the higher speeds in cruise result in less time for the
+wake to decay before being encountered by a trailing aircraft.
+Vortex Behavior
+Trailing vortices have certain behavioral characteristics
+that can help a pilot visualize the wake location and take
+avoidance precautions.
+Vortices are generated from the moment an aircraft leaves the
+ground (until it touches down), since trailing vortices are the
+byproduct of wing lift. [Figure 14-46] The vortex circulation
+is outward, upward, and around the wingtips when viewed
+from either ahead or behind the aircraft. Tests with large
+Wake ends
 Touchdown
-Figure 14-46. Vortex behavior.
 14-27
 
 aircraft have shown that vortices remain spaced a bit less than
@@ -2218,149 +1809,21 @@ maneuver. During instruction, the pilot should be asked
 to verbalize the clearing procedures (call out “clear left,
 right, above, and below”).
 
-wa,
-S
-J
 A
-WIND
-.
-a
-\
-tA
-é
-rd
-A
-ra
-\
-\
-\
-\
-\
-, a
-\
-\
-y
->
-ee
-Z
-A
-™”
-’
-~
-A
-~
-~
-Touchdown point of larger aircraft
-~
-,
-~
-,
-=!
-Side view
-\
-oe
-pe
-‘
-=>
-ff
-fs
-a
--
-\
--—
-é
-,
-s
-tf
-é
-¢
-.
-, an
->
-J
 B
-.
-\
-tA
-/
-é
-/
-\
-\
-\
-\
-\
-\
-\
-, a
-\
-\
-eS
-ee
-~
-'
-~
-A
 Aircraft altitude is above wake
-~
-Less than 2500 feet
-~
-~
-~
-y
-,
-Z
-f
-\
-_
-\
-=>
-S
+C
+Figure 14-47. Vortex avoidance procedures.
 Parallel Runway Situation
-\
-=_—
+Aircraft crossing over
+wake turbulence
+WIND
+Touchdown point of larger aircraft
+Side view
+Less than 2500 feet
 Touchdown point
 WIND
-wz?
-J
-C
-=—
-.
-7!
-~
-~!~
-‘
-~
-~
-A
-A
-A
-;
-QA
-\
-FT
-™
-a“
 Aircraft altitude is above wake
-a
-_
-\
-- 2
-A
-, A
-, a
-, A
-’
-, a
-a
-‘
-Aircraft crossing over
-_
-P|
-“=
-wake turbulence
-™
-Figure 14-47. Vortex avoidance procedures.
 14-29
 
 High-wing and low-wing aircraft have their respective
@@ -2612,8 +2075,6 @@ often results in you unintentionally taking off or landing on
 a taxiway or wrong runway. Generally, you are unaware of
 the mistake until after it has occurred.
 14-32
-yA
-aa
 Figure 14-48. Heads-up, eyes outside.
 In August 2006, the flight crew of a commercial regional jet
 was cleared for takeoff on Runway 22 but mistakenly lined
@@ -2651,20 +2112,6 @@ routing of traffic onto runways. In other cases, departing
 traffic may be required to back taxi on the runway in order
 to utilize the full runway length.
 
-yy
-i
-|
-|
-j
-Zz
-J
-ey
-I
-.
-—
-q
-i
-i
 Figure 14-49. Confusing runway/runway intersection.
 Since inattention and confusion often are factors contributing to
 runway incursion, it is important to remain extremely cautious
@@ -2717,136 +2164,55 @@ ATC is required to obtain a read-back from the pilot of
 all runway “hold short” instructions. Therefore, you
 must read back the entire clearance and “hold short”
 instruction, to include runway identifier and your call sign.
-diy
 Figure 14-50. A sound practice is to write down taxi instructions
 from ATC.
 14-33
 
-a—
-| y
-4; —
-P
-,
-P|
-Controller
-y
-.
-|
-November 477ZA,
-Runway four, taxi via
-Echo, hold short of
-a
-Runway two five at
-_
-_
-Taxiway Delta.
-_
-_
-_
-_
-_
-_
-ns
-[|
-a
-Pilot
-I
-November 477ZA,
-—
-Runway four via Echo,
-hold short of Runway
-two five at Delta.
-Figure 14-53. Example of taxi and “hold short” instructions from
-ATC to a pilot.
 Figure 14-51. Do NOT cross a runway holding position marking
 without ATC clearance. If the tower is closed or you are operating
-short” or crossing instructions when approaching an entrance
 from a non-towered airport, check both directions for conflicting
-to a runway. Scan the full length of the runway and the final
 traffic before crossing the hold position marking.
-approaches before entering or crossing any runway, even if
-ATC has issued a clearance.
 Figure 14-53 shows an example of a controller’s taxi and “hold
 short” instructions and the reply from the pilot.
-ATC Instructions—“Line Up and Wait” (LUAW)
-ATC now uses the “line up and wait” (LUAW) instruction
 ATC Instructions—Explicit Runway Crossing
-when a takeoff clearance cannot be issued immediately due
 As of June 30, 2010, ATC is required to issue explicit
-to traffic or other reasons. The words “line up and wait” have
 instructions to “cross” or “hold short” of each runway.
-replaced “position and hold” in directing you to taxi onto a
 Instructions to “cross” a runway are normally issued one at a
-runway and await takeoff clearance.
 time, and an aircraft must have crossed the previous runway
 before another runway crossing is issued. Exceptions may
-An ATC instruction to “line up and wait” is not a clearance
 apply for closely spaced runways that have less than 1,000
-for takeoff. It is only a clearance to enter the runway and
 feet between centerlines. This applies to all runways to include
-hold in position for takeoff. Under LUAW phraseology, the
 active, inactive, or closed. Figure 14-54 shows communication
-controller states the aircraft call sign, departure runway, and
 between ATC and a pilot who is requesting a taxi clearance.
-“line up and wait.” Be aware that “traffic holding in position”
 Extra caution should be used when directed by ATC to
-will continue to be used to advise other aircraft that traffic
 taxi onto or across a runway, especially at night and during
-has been authorized to line up and wait on an active runway.
 reduced visibility conditions. Always comply with “hold
-Pay close attention when instructed to “line up and wait,”
-especially at night or during periods of low visibility. Before
-==
-ea
-Pilot
-po
-“Ground, November 1234
-ee
-ready to taxi from the GA
-[|
-———
-a
-ramp with Bravo.”
-ATC
-|
-“November 1234,
-Runway two seven, taxi
-via Alpha, hold short
-of Runway three one.”
-(|
-Pilot
-dé
-|
-“November 1234,
-Runway two seven, taxi
-.
-EBay
-_
-ay
-via Alpha, hold short
-Runway three one.”
-(|
-ATC
-=
-a
-=
-ee
-|
-=
-When able, tower will
-A,
-——S—
-issue crossing clearance:
-—
-am eT
-“November 1234, cross
-Runway three one.”
--
-Figure 14-54. Communication between ATC and a pilot who is
 Figure 14-52. Runway 13-31 holding position sign and marking
-requesting taxi procedures.
 located on Taxiway Charlie.
 14-34
+Figure 14-53. Example of taxi and “hold short” instructions from
+ATC to a pilot.
+short” or crossing instructions when approaching an entrance
+to a runway. Scan the full length of the runway and the final
+approaches before entering or crossing any runway, even if
+ATC has issued a clearance.
+ATC Instructions—“Line Up and Wait” (LUAW)
+ATC now uses the “line up and wait” (LUAW) instruction
+when a takeoff clearance cannot be issued immediately due
+to traffic or other reasons. The words “line up and wait” have
+replaced “position and hold” in directing you to taxi onto a
+runway and await takeoff clearance.
+An ATC instruction to “line up and wait” is not a clearance
+for takeoff. It is only a clearance to enter the runway and
+hold in position for takeoff. Under LUAW phraseology, the
+controller states the aircraft call sign, departure runway, and
+“line up and wait.” Be aware that “traffic holding in position”
+will continue to be used to advise other aircraft that traffic
+has been authorized to line up and wait on an active runway.
+Pay close attention when instructed to “line up and wait,”
+especially at night or during periods of low visibility. Before
+Figure 14-54. Communication between ATC and a pilot who is
+requesting taxi procedures.
 
 entering the runway, remember to scan the full length of the
 runway and its approach end for other aircraft.
@@ -3000,7 +2366,6 @@ May 1999—A Saab 340 commuter aircraft overran
 the runway at John F. Kennedy International Airport
 (JFK).
 14-36
-yee SS ——
 Figure 14-55. Engineered material arresting system (EMAS)
 located at Yeager Airport, Charleston, West Virginia.
 •
@@ -3042,7 +2407,6 @@ to study airport information, become familiar with the details
 and limitations of the arresting system, and the runways that
 are equipped with them. [Figure 14-60]
 
-BT
 Typical Plan View
 Runway safety area length
 Runway
@@ -3051,7 +2415,6 @@ Runway width
 ARRESTOR BED
 Side steps
 An EMASMAX bed is typically the full width of the runway and the arrestor bed is set-back from the end of the runway.
-BT
 Typical Profile View
 Debris deflector
 Arrestor bed
@@ -3060,7 +2423,6 @@ Lead in ramp
 Side steps
 Base surface
 The front of an EMASMAX bed includes a lead-in ramp to transition the aircraft into the material.
-BT
 Typical Section View
 Arrestor bed
 Stepped sides provide arff
@@ -3098,117 +2460,39 @@ Braking procedures outlined in the Flight Manual.
 briefing prior to takeoff or during the approach briefing prior
 14-37
 
-—
-E@
-é
-eee
-Do tg LANES nepe ape 3
-<n
-~
-Par
-a ee —
-amate ons:
-é
-en
-2 a
-Se
-~
-Se) BT opp
-Ee
-—
-Se
-Ne
-ee eS TS
-Pe
-ees
-eee
-=
-=
-Bewe
-=
-<&
-a
-Z
-ae
-SI Re
-a >
-——= —
-=S a —
-i
-<
-ea
-=
-i =
-=e
-Figure 14-58. A Bombardier CRJ-200 regional jet overran the
 Figure 14-57. There have been several incidents where the EMAS
-runway at Yeager Airport (KCRW) in Charleston, West Virginia.
 has successfully arrested the aircraft.
-The chapter identifies best practices to help you avoid errors
 2.
 Maintain runway centerline - Not veering left or right
-that may potentially lead to runway incursions. Although the
 of the bed and continuing straight ahead will maximize
-chapter pertains mostly to surface movements for single-pilot
 stopping capability of the EMAS bed. The quality of
-operations, all of the information is relevant for flight crew
 deceleration will be best within the confines of the bed.
-operations as well.
 3.
 Maintain deceleration efforts - The arrestor bed is a
 passive system, so this is the only action required by
-Additional information about surface operations is available
 the pilot.
-through the following sources:
 4.
 Once stopped, do not attempt to taxi or otherwise move
-•
-Federal Aviation Administration (FAA) Runway
 the aircraft.
-Safety website—www.faa.gov/go/runwaysafety
 Chapter Summary
-•
-FAA National Aeronautical Navigation Services
-(AeroNav), formerly known as the National
 This chapter focused on airport operations both in the air and
-Aeronautical Charting Office (NACO)—www.faa.
 on the surface. For specific information about an unfamiliar
-gov/air_traffic/flight_info/aeronav
 airport, consult the Chart Supplement U.S. (formerly
-•
-Chart Supplement U.S. (formerly Airport/Facility
 Airport/Facility Directory) and NOTAMS before flying. For
-Directory)—www.faa.gov/air_traffic/flight_info/
 further information regarding procedures discussed in this
-aeronav/digital_products/dafd/search/
 chapter, refer to 14 CFR part 91 and the AIM. By adhering
 to established procedures, both airport operations and safety
-•
-Automatic Terminal Information Service (ATIS)
 are enhanced.
-•
-Notice to Airmen (NOTAMs)—http://www.faa.gov/
-pilots/flt_plan/notams
 This chapter is also designed to help you attain an
 understanding of the risks associated with surface navigation
-•
-Advisory Circular (AC) 91-73, part 91 and part 135,
 and is intended to provide you with basic information
-Single-Pilot and Flight School Procedures During Taxi
 regarding the safe operation of aircraft at towered and
-Operations
 nontowered airports. This chapter focuses on the following
-•
-Aeronautical Information Manual (AIM)—www.faa.
 major areas:
-gov/air_traffic/publications/atpubs/aim/
 •
 Runway incursion overview
 •
-AC 120-74, parts 91, 121, 125, and 135, Flight Crew
-•
 Taxi route planning
-Procedures During Taxi Operations
 •
 Taxi procedures
 •
@@ -3216,280 +2500,47 @@ Communications
 •
 Airport signs, markings and lighting
 14-38
+Figure 14-58. A Bombardier CRJ-200 regional jet overran the
+runway at Yeager Airport (KCRW) in Charleston, West Virginia.
+The chapter identifies best practices to help you avoid errors
+that may potentially lead to runway incursions. Although the
+chapter pertains mostly to surface movements for single-pilot
+operations, all of the information is relevant for flight crew
+operations as well.
+Additional information about surface operations is available
+through the following sources:
+•
+Federal Aviation Administration (FAA) Runway
+Safety website—www.faa.gov/go/runwaysafety
+•
+FAA National Aeronautical Navigation Services
+(AeroNav), formerly known as the National
+Aeronautical Charting Office (NACO)—www.faa.
+gov/air_traffic/flight_info/aeronav
+•
+Chart Supplement U.S. (formerly Airport/Facility
+Directory)—www.faa.gov/air_traffic/flight_info/
+aeronav/digital_products/dafd/search/
+•
+Automatic Terminal Information Service (ATIS)
+•
+Notice to Airmen (NOTAMs)—http://www.faa.gov/
+pilots/flt_plan/notams
+•
+Advisory Circular (AC) 91-73, part 91 and part 135,
+Single-Pilot and Flight School Procedures During Taxi
+Operations
+•
+Aeronautical Information Manual (AIM)—www.faa.
+gov/air_traffic/publications/atpubs/aim/
+•
+AC 120-74, parts 91, 121, 125, and 135, Flight Crew
+Procedures During Taxi Operations
 
-_
-Not to be used for navigation
-MASSACHUSETTS
-BOSTON
-GENERAL EDWARD LAWRENCE LOGAN INTL
-(Bos)
-uTc~5(-4DT)
-NEW YORK
-N42°21.78' W71°00.39"
-COPTER
-NOTAM FILE BOS
-ARFF Index E
-H-1O),
-110, 12K, L-330, 341
-B
-S4
-FUEL
-1OOLL,JETA
-OX4,2,3,4
-LRA
-Class,
-TAP, AD
-RWY 15R-33L: H10083X150 (ASPH-GRVD)
-$-200, D-200, 25-175,
-20-400, 20/2D2-800
-HIRL CL
-Hcephere erat) of
-RWY 15R: MALSR. TDZL. PAPI(P4L)—GA 3.0° TCH 60’. Thid dspicd
-Rwy 15R-33l: 10083
-880’.
-X 150
-RWY
-Trees.
-—~,
-o
-RWY O4R-221: H10005X150 (ASPH-GRVD)
-33L: MALSR. TOZL. PAPI(P4R)—GA 3.0° TCH 57’. Boat.
-BSE
-S-200, 0-200, 28-175,
-Va
-Ye tee
-20-400, 20/2D2-800
-HIRL CL
-LAS &
-a
-= ®
-RWY O4R: ALSF2, TDZL. PAPI(P4L)—GA 3,0° TCH 67’,Thid dsplod
-Ye-< en Fad
-1154’, Boat.
-A
-oo eR Keys
-RWY 22L: MALSF. PAPI(P4R)—GA 3.0" TCH 55’. Thid dspled 1199", DS
-zs ee
-AWY O4L-22R: H7861X150 (ASPH-GRVD) $-200, D-200, 25-175, QS eS Mf
-Boat.
-+e
-ay:
-20-400, 20/2D2-800
-IRL
-~ lt
-ya
-RWY DAL: REIL. PAPI(P4L)—GA 3.0°TCH 50’. Boat.
-Mp
-oy “he
-B
-RWY 22R: PAPI(P4L)—GA 3.0° TCH 50’, Thid dspled 815’. Boat.
-N
-Of
-Oe
-RWY 09-27: H7000X150 (ASPH-GRVD) $-200, D-200, 25-175,
-Ce SO)
-20-400, 20/2D2-800
-HIRL CL
-FIN?
-NS, &)
-RWY 09; Boat,
-"a
-RWY 27: REIL. PAPI(PA4L}—GA 8,0° TCH 71’, Boat,
-xO
-coe
-RWY 14-32: HSOOOX100 (ASPH-GRVD) —_S-75, D-200, 25-175.
-REYY
-20-400, 2D/2D2-875 — HIRL
-RWY 14: Bldg.
-RWY 32: REIL. PAPI (P4L)—GA 3.0° TCH 45,
-RWY 15L-33R: H2557X100 (ASPH)
-—$-200, D-200, 28-175, 20-400, 20/2D2-800
-MIRL
-LAND AND HOLD SHORT OPERATIONS
-LANDING
-HOLD SHORT POINT
-DIST AYBL
-RWY O4L
-15L-33R
-RWY 15R
-09-27
-WY 22L
-09-27
-RWY 27
-O4R-22L
-RUNWAY DECLARED DISTANCE INFORMATION
-RWYO4l:
-TORA-7861
-TODA-7861
-ASDA-7861
-LDA-7861
-RWY04R:
-TORA-10005
-TODA-10005
-ASDA-10005
-LDA-8851
-RWY 03:
-TORA-7000
-TODA-7000
-ASDA-7000
-LDA-7000
-RWY 14:
-TORA-5000
-TODA-5000
-ASDA-5000
-LDA-5000
-RWY 15l:
-TORA-2557
-TODA-2557
-ASDA-2557
-LDA-2557
-RWY 15R:
-TORA-10083
-TODA-10083
-ASDA~10083
-LDA-9203
-RWY 22:
-TORA-10005
-TODA-10005
-ASDA-10005
-LDA-8806
-RWY 22R;
-TORA-7861
-TODA-7861
-ASDA-7861
-LDA-7046
-RWY 27;
-TORA-7000
-TODA-7000
-ASDA-7000
-LDA-7000
-RWY 32:
-TORA-SO000
-TODA-5000
-ASDA~5000
-LDA-5000
-RWY 33L:
-TORA-10083
-TODA-10083
-ASDA-10083
-LDA-10083
-RWY33R:
-TORA-2557
-TODA-2557
-ASDA-2557
-LDA-2557
-ARRESTING GEAR/SYSTEM
-RWY O4L: EMAS
-RWY 15R: EMAS.
 Figure 14-59. EMAS information for Boston Logan International Airport located in the Chart Supplement U.S. (formerly Airport/
 Facility Directory).
 14-39
 
-Not to be used for navigation
-_
-el—_
-\ CEMEBVT EDMVED VM
-VIBbOBL DIVCBYW
-ree eww)
-BO2IOM
-EWve
-ee So
-j=
-c
-180 X 180
-:
-oS
-)
-bIEK
-E
-awe
-s
-E
-Lose
-s
-Lazel
-|
-f
-|
-o
-. Ya
-A
-IN
-\
-i
-i
-.
-Bs
-_
-Nita
-@,
-te
-mV
-A
-bis
-—
-a
-—
-Oo
-a)
-Ve
-ue 2
-ale =
->
-\
-F
-we
-JP he
-\
-NE-1, 28 JUL 2011 to 25 AUG 2011
-=
--
-e —
-—
-+ y
-s
-&
-,
-ae
-~
-nail 4 F Re
-j
-SL
-As
-eA
-NE-1, 28 JUL 2011 to 25 AUG 2011
--
-*
-|
-ay
-—— | ka
-C
-s
-Ss,
-v,
-‘eo
-e
-We
-‘eviern
-Vc
-\
-<J
-La
-oe
-A
-coven
-‘su.seqot peq ou yubory prediswa"
-Teo! fo Lecoduise ou EVI Kin
-Laie
-Yc! a
-"a
-re
-iP
-Ss
-ms
-to”
-BV
-oS.
 Figure 14-60. An airport diagram with EMAS information.
 14-40
 

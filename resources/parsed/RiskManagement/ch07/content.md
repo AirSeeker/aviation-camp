@@ -1,7 +1,4 @@
 Chapter 7: Automation & Flight Path
-Chapter7:Automation
-& Flight Path
-Management
 Management
 Introduction
 Automation systems provide an interface allowing the pilot to set a desired aircraft state. The system takes pilot input and
@@ -24,31 +21,6 @@ interface with an autopilot. [Figure 7-1]
 • Automated fuel management systems that operate without pilot intervention during normal operations.
 • Auto-throttles and digital engine controls.
 • Avionics systems that load flight plan information from a database or from an outside source.
-Doom:
-OoOoL
-E
-£
-o
-&)
-:
-.
-anette
-ae
-FMS1 ny ALTS
-a
-ee
-200- [4
-Of)
-ee
-2.
-oo
-——S—SsSCi
-0X
-—10
-:
-y
-See
-"anf
 Figure 7-1. Autopilot interface.
 7-1
 
@@ -119,7 +91,6 @@ unique risks. While pilots often rely on the autopilot, they also need to be abl
 standards.
 Pilots should train and practice using automation under VFR with an appropriately qualified and knowledgeable flight instructor
 before attempting IFR flight. In addition, using a flight simulation training device provides the opportunity to practice and
-oO
 Figure 7-2. Steps for interacting with automation
 AP
 ALT

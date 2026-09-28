@@ -1,11 +1,3 @@
-_
-13 Atmospheric Stability
-13.1 Introduction
-Convective clouds and precipitation pose a distinctly different flying environment than stratiform clouds
-and precipitation. These sharply contrasting conditions result from the atmosphere either resisting or
-accelerating the vertical motion of air parcels. Atmospheric stability is the property of the ambient air that
-either enhances or suppresses vertical motion of air parcels and determines which type of clouds and
-precipitation a pilot will encounter.
 Chapter 13, Atmospheric Stability
 13-1
 
@@ -34,46 +26,6 @@ environmental air and would tend to sink back to its level of origin.
 Chapter 13, Atmospheric Stability
 13-2
 
-Environmental
-Parcel
-Temperature
-Parcel
-Air
-Temperature!
-Difference
-Stability
-Temperature
-Dewpoint °C
-18°C
-Cr)
-+11°C
-Stable
-=7
-19°C
-()
-+10°C
-Stable
-i
-1 3
-Lifting Condensation Level
-20°C
-+9°C
-Stable
-a
-(LCL)
-o
-=)
-iS
-21°C
-14/11.5
-+7°C
-Stable
-;
-i F
-20°C
-17/112
-+3°C
-Stable
 Figure 13-1. Absolute Stability Example
 13.3.2 Neutral Stability
 Neutral stability (see Figure 13-2) is the state of a column of air in the atmosphere in which an ascending
@@ -84,43 +36,6 @@ temperature equals the moist adiabatic lapse rate.
 Chapter 13, Atmospheric Stability
 13-3
 
-Environmental
-Parcel
-Temperature
-Parcel
-Air
-Temperature/
-Difference
-Stability
-Temperature
-Dewpoint °C
-79°C
-Cr)
-occ
-Neutral
-=
-93°C
-(*)
-o°c
-Neutral
-ww
-i
-1 3
-Lifting Condensation Level
-44°C
-oc
-Neutral
-*
-(LCL)
-=)
-=)
-14°C
-14/11.5
-o°c
-Neutral
-17°C
-oc
-Neutral
 Figure 13-2. Neutral Stability Example
 13.3.3 Absolute Instability
 Absolute instability (see Figure 13-3) is the state of a column of air in the atmosphere when it has a
@@ -130,51 +45,6 @@ parcel would consequently increase with increasing distance from its level of or
 Chapter 13, Atmospheric Stability
 13-4
 
-Environmental
-Parcel
-Temperature
-Parcel
-Air
-Temperature!
-Difference
-Stability
-Temperature
-Dewpoint °C
-o-c
-(a7
-\i
-Unstable
-)
-bE
-4°C
-)(*) )
--5°C
-Unstable
-wi
-{
-)
-uw
-|
-Le
-}
-Lifting Condensation Level
-8°C
-a
--3°C
-Unstable
-=
-(LCL)
-=)
-=)
-12°C
-14/11.5
--2°C
-Unstable
-bu
-16°C
-17/12
-°C
-Unstable
 Figure 13-3. Absolute Instability Example
 13.3.4 Conditional Instability
 Conditional instability (see Figure 13-4) is the state of a column of unsaturated air in the atmosphere when
@@ -189,93 +59,9 @@ of air.
 Chapter 13, Atmospheric Stability
 13-5
 
-Environmental
-Parcel
-Temperature
-Parcel
-Air
-Temperature!
-Difference
-Stability
-Temperature
-Dewpoint °C
-6°C
-\ Cr)
-19°C
-Unstable
-)
-(
-)
-Levelof Free Convection
-9°c
-{
-oc
-Neutral
-(LFc)
-|
-=7
-i
-1 3
-Lifting Condensation Level
-12°C
-(
-+4°C
-Stable
-(LCL)
-o
-=)
-iS
-15°C
-14/41.5
-+1°C
-Stable
-;
-a
-18°C
-17/112
-+1°C
-Stable
 Figure 13-4. Conditional Instability Example
 13.3.5 Summary of Stability Types
 Figure 13-5 summarizes the possible atmospheric stability types.
-Up D
-ths
-c
-»
-N
-\
-=
-‘\
-_
-* :
-at
-N%,
-YSN
-Ne
-~
-Ney,
-“%
-z
-N%,
-%,
-Len,
-Os
-&,
-Yen,
-S
-RG
-Ls,
-XN
-\
-ve
-NS w\N
-SAN
-“Xs
-RAN
-S
-Seat
-TEMPERATURE
-Warm
 Chapter 13, Atmospheric Stability
 13-6
 
@@ -321,65 +107,6 @@ Changes in atmospheric stability are inversely related to temperature (density) 
 lapse rates decrease, then stability increases. Most of these changes occur as a result of the movement of
 air, but diurnal (day/night) temperature variations can play a significant role.
 In Figure 13-6, the column of air on the right is less stable because its temperature lapse rate is higher.
-Environmental
-Parcel
-Temperature
-| Environmental
-Parcel
-Temperature
-Air
-Temperature/ Difference
-Air
-Temperature/ Difference
-Temperature
-Dewpoint°C
-|
-Temperature
-Dewpoint°C
-11°C
-+8°C
-|
-TC
-(«)
-19°C
-12°C
-6/1.5
-+6°C
-|
-10°C
-11/1.5
--1°C
-&
-:
-|
-ww
-Le
-5 2
-13°C
-9/2
-+4°C
-|
-13°C
-14/2
-17°C
-ss
-=
-=)3|
-14°C
-12/2.5
-+2°C
-|
-16°C
-1712.5
--1°C
-Sy
-Ny
-45°C
-(Gen)
-20°C
-Gor)
-More Stable
-Less Stable
 Figure 13-6. Temperature Lapse Rate Effects on Stability
 Chapter 13, Atmospheric Stability
 13-7
@@ -400,32 +127,10 @@ the rapid decrease in air density aloft causes the column to stretch out vertica
 unsaturated, the entire layer cools at the dry adiabatic lapse rate (see Figure 13-7). However, due to the
 stretching effect, air at the top of the column cools more than the air at the bottom of the column. This
 process acts to increase the temperature lapse rate and decrease stability.
-Up
-See
-!
-(39
-a
-E
-tl
-f
-if
-@)
 Figure 13-7. Vertical Motion Effects on Stability
 A rising column of air will become less stable when air at the bottom has a higher relative humidity than
 air at the top. As the air moves upward, the bottom becomes saturated first and cools at the lesser moist
 Chapter 13, Atmospheric Stability
-Temperature Lapse
-_
-,.,
-(bottom — top)
-eens
-LESS STABLE
-Temperature Lapse
-_
-,,
-(bottom — top)
-See
-MORE STABLE
 13-8
 
 adiabatic lapse rate. The net effect is to increase the lapse rate within the column and decrease stability.
@@ -441,64 +146,6 @@ latitude, sky cover (e.g., clouds and pollutants), water vapor content of the ai
 variation is maximized over land, at low latitudes, with a clear sky, dry air, and light wind. Conversely,
 temperature variation is minimized over large bodies of water, at high latitudes, with a cloudy sky, moist
 air, and strong wind.
-Environmental
-Parcel
-Temperature
-| Environmental
-Parcel
-Temperature
-Air
-Temperature/
-Difference
-Air
-Temperature/
-Difference
-Temperature
-Dewpoint°C
-| Temperature
-Dewpoint°C
-15°C
-#12°C
-l
-15°C
-(w)
-°c
-fi
-3.
-15°C
-6/1.5
-+#9°C
-|
-18°C
-(113)
-°c
-ww
-|
-he
-15°C
-9/2
-+6°C
-|
-21°C
-22/2
-4°90
-g
-a
-a
-=)3|
-15°C
-12/2.5
-+3°C
-|
-24°C
-25/2.5
-41°C
-etc
-(15/3)
-evo
-(2813)
-Daybreak
-Mid-Afternoon
 Figure 13-8. Diurnal Temperature Variation Effects on Stability
 13.5 Measurements of Stability
 Several stability indices and other quantities exist that evaluate atmospheric stability and the potential for
@@ -515,70 +162,6 @@ value indicates an unstable column of air, and a value of zero indicates a neutr
 larger the positive (negative) LI value, the more stable (unstable) the column of air.
 LI is generally used in thunderstorm forecasting; however, CAPE is generally considered a superior
 measurement of instability. However, LI is easier to determine without using a computer.
-Environmental
-Parcel
-Air
-Temperature/
-Temperature
-Dewpoint°C
-_
-Se
-/
-._
-LIFTED INDEX =
-ec
-18°C
-{ ( -44/-44
-|
-(-18-(-11))=-7
-}
-\
-W
-(
-'
-{
-=)
-{
-)
-<
-=
-'
-FS
-WW, LevelofFreeConvection
-490¢
-(119)
-90s =
-=)
-(LFC)
-|
-w
-=
-|
-F
-a
-|
-g
-z 2
-Q
-dene
-21°C
-21/21.\_J
-Lifting Condensation Level
-\
-oH
-~
-¢
-w
-&
-E
-;
-| 4
-24°C
-5/21.5)
-F
-=a
-Bo
-Cain)
 Figure 13-9. Lifted Index Example
 13.5.2 Convective Available Potential Energy (CAPE)
 CAPE is the maximum amount of energy available to an ascending air parcel for convection. CAPE is

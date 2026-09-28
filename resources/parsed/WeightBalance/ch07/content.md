@@ -1,7 +1,6 @@
 Chapter 7
 Center of Gravity Change After
 a Repair or Alteration
-rf
 Introduction
 The largest weight changes that occur during the lifetime of
 an aircraft are those caused by alterations and repairs. It is the
@@ -12,126 +11,63 @@ Operating Handbook/Aircraft Flight Manual (POH/AFM).
 7-1
 
 Equipment List
-an equipment item as required, standard, or optional. Suffix
-letters are as follows:
 The Federal Aviation Administration (FAA) considers
-–R = required item or equipment for FAA certificatio
 the addition or removal of equipment included in the
 Comprehensive Equipment List to be a minor alteration.
-–S = standard equipment item
 The weights and arms are included with the items in the
-–O = optional equipment item replacing required or
 equipment list, and these minor alterations can be done and the
-standard item(s)
 aircraft approved for return to service by an FAA-certificate
-–A = optional equipment item that is in addition to
 mechanic or repairman. The only documentation required is an
-required or standard items
 entry in the aircraft maintenance records and the appropriate
 change to the weight and balance record in the POH/AFM.
-In the Equipment List Description column, each item is
 [Figure 7-1]
-assigned a descriptive name to help identify its function.
 Figure 7-2 is a comprehensive list of all Cessna equipment
-In the Ref Drawing column, a drawing number is provided
 that is available for the Model 182S airplane. It should
-that corresponds to the item.
 not be confused with the airplane-specific equipment list.
 An airplane-specific list is provided with each individual
-Note: Additional equipment must be installed in accordance
 airplane at delivery and is typically found at the end of the
-with the reference drawing, service bulletin, or a separate
 Pilot’s Operating Handbook. The following comprehensive
-FAA approval.
 equipment list and the airplane-specific list have a similar
 order of listing.
-In the Wt and Arm columns, you find the weight in pounds
-and arm in inches of the equipment item.
 The comprehensive equipment list provides the following
 information in column form:
-Notes: Unless otherwise indicated, true values (not net
-change values) for the weight and arm are shown. Positive
 In the Item No column, each item is assigned a coded number.
-arms are distances aft of the airplane datum; negative
 The first two digits of the code represent the assignment
-arms are distances forward of the datum. Asterisks (*) in
 of an equipment item within the ATA Specification 100
-the weight and arm column indicate complete assembly
 breakdown (Chapter 11 for Placards, Chapter 21 for Air
-installations. Some major components of the assembly are
 Conditioning, Chapter 77 for Engine Indicating, etc.). These
-listed on the lines immediately following. The sum of these
 assignments also correspond to the Maintenance Manual
-major components does not necessarily equal the complete
 chapter breakdown for the airplane. Items receive a unique
-assembly installation.
 sequence number (01, 02, 03, etc.). After the sequence
 number (and hyphen), a suffix letter is assigned to identify
-ae
-ae
-Weight and Balance Record
-(Continuous history of changes in structure or equipment affecting weight and balance)
-Airplane Model
-Serial Number
-Page Number
-Cessna 182L
-Weight Change
-Running
-Basic Empty
-Item No.
-Description
-Added (+)
-Removed (−)
-Date
-Weight
-of Article or
-Modification
-Wt.
-Arm
-Moment/
-Wt.
-Arm
-Moment/
-Wt.
-Moment/
-In
-Out
-(lb)
-(in)
-1,000
-(lb)
-(in)
-1,000
-(lb)
-1,000
-As delivered
-1,876
-67.8
-8-7-09
-Alteration per FAA Form 337
-Dated 8-7-09
-7.38
-.346
-1,883.4 68.1
-34-XX
-Turn coordinator
-–2.5
-15.0
-–.037
-1,880.9 68.1
-34-XX
-Directional gyro
-–3.12 13.5
-–.042
-1,877.8 68.1
-22-XX
-Autopilot system
-13.0
-32.7
-.425
-1,890.8 68.5
 Figure 7-1. A typical 14 CFR part 23 weight and balance record.
 7-2
+an equipment item as required, standard, or optional. Suffix
+letters are as follows:
+–R = required item or equipment for FAA certificatio
+–S = standard equipment item
+–O = optional equipment item replacing required or
+standard item(s)
+–A = optional equipment item that is in addition to
+required or standard items
+In the Equipment List Description column, each item is
+assigned a descriptive name to help identify its function.
+In the Ref Drawing column, a drawing number is provided
+that corresponds to the item.
+Note: Additional equipment must be installed in accordance
+with the reference drawing, service bulletin, or a separate
+FAA approval.
+In the Wt and Arm columns, you find the weight in pounds
+and arm in inches of the equipment item.
+Notes: Unless otherwise indicated, true values (not net
+change values) for the weight and arm are shown. Positive
+arms are distances aft of the airplane datum; negative
+arms are distances forward of the datum. Asterisks (*) in
+the weight and arm column indicate complete assembly
+installations. Some major components of the assembly are
+listed on the lines immediately following. The sum of these
+major components does not necessarily equal the complete
+assembly installation.
 
 * Indicates total weight/arm for all subcomponents
 Figure 7-2. Typical comprehensive equipment list.
@@ -174,209 +110,6 @@ including a statement that the new computations supersede
 the computations dated “MM/DD/YY.”
 7-3
 
-Weight & Balance
-Cessna 182L
-Date: 04/22/95
-N42565
-_
-S/N 18259080
-Supersedes Computations of
-FAA Form
-_
-337, dated 10/02/90.
-Removed the following equipment:
-Date: 08/07/09
-Weight & Balance
-1.
-Turn Coordinator P/N C66 1003-0201
-Weight
-Arm
-Moment
-Cessna 182L
-Supersedes computations of FAA Form
-2.
-Directional Gyro P/N 0706000
-2.5 Ibs
-1S
-37.5
-N42565
-337 dated 10/02/07.
-S/N 18259080
-3,12 Ibs
-13.5
-42.12
-TOTAL
-5.62
-79.62
-Removed the following equipment:
-Weight x Arm = Moment
-2.50 lb
-15.0
-37.50
-1876.00
-36.14
-67798.64
-1. Turn coordinator P/N C661003-0201
-+3.12 lb
-13.5
-+42.12
--5.62
--79.62
-2. Directional gyro P/N 0706000
-5.62
-79.62
-Total
-1,876.00
-36.14
-67,798.64
-−5.62
-−79.62
-Installed the following equipment:
-1,870.38
-36.20
-67,719.02
-Aircraft after removal:
-1.
-S-Tec 40 Autopilot system, includes
-;
-Turn Coordinator and Directional Gyro.
-Weight
-Arm
-Moment
-13 Ibs
-32.7
-425.13
-Installed the following equipment:
-Weight x Arm = Moment
-13 lb
-32.70
-425.13
-1870.38
-36.20
-67719.02
-1. S-TEC System 40 autopilot, includes
-+13.00
-+425.13
-turn coordinator and directional gyro
-1,870.38
-36.20
-67,719.02
-*REVISED LICENSED EMPTY WEIGHT
-1883.38
-36.18
-68 144.15
-+13.00
-+425.13
-NEW USEFUL LOAD 1216.62
-1,883.38
-36.18
-68,144.15
-*REVISED LICENSED EMPTY WEIGHT
-NEW USEFUL LOAD 1,216.62
-Forward Check (Limit +33.0)
-Rearward Check (Limit +46.0)
-Rearward check (Limit +46.0)
-Forward check (Limit +33.0)
-Wt.
-Arm
-Moment
-Wt.
-Arm
-Moment
-A/CEmpty
-1883.38
-36.18
-68144.15
-A/CEmpty
-—:1883.38
-36.18
-68144.15
-Wt. × Arm =
-Moment
-Wt. × Arm = Moment
-Fwd. Seats
-170.00
-37.00
-6290.00
-Fwd. Seats
-170.00
-37.00
-6290.00
-A/C empty
-A/C empty
-1,883.38
-36.18
-68,144.15
-1,883.38
-36.18
-68,144.15
-Fwd. seats
-Fwd. seats
-Aft. Seats
-Aft. Seats
-340.00
-74.00
-25160.00
-170.00
-37.00
-6,290.00
-170.00
-37.00
-6,290.00
-Aft seats
-Aft seats
-340.00
-74.00
-25,160.00
-Fuel (min.)
-115.00
-48.00
-5520.00
-Fuel (max.)
-528.00
-48.20
-25449.60
-Fuel (min.)
-Fuel (min.)
-528.00
-48.20
-25,449.60
-115.00
-48.00
-5,520.00
-Baggage A
-Baggage A
-100.00
-97.00
-9700.00
-Baggage A
-Baggage A
-100.00
-97.00
-9,700.00
-BaggageBo
-BaggageB
-__60.00 116.00
-_6960.00
-Baggage B
-Baggage B
-60.00
-116.00
-6,960.00
-2168.38
-+36.87
-79954.15
-3081.38
-45.98 141703.75
-3,081.38
-45.98 141,703.75
-2,168.38
-+36.87
-79,954.15
-Jeseph P. Kline
-Joseph P. Kline
-A&P 123456789
-A& P 123456789
 Figure 7-3. A typical airplane weight and balance revision record.
 7-4
 
@@ -413,11 +146,6 @@ compartment.
 aft of the datum, multiply the total moment index by 100 to
 get the moment, and divide this by the total weight to get
 the new CG.
-oT
-oT
-oT
-|
-eT
 =
 x
 Item
@@ -425,8 +153,6 @@ Weight (lb)
 Arm (in)
 Moment (lb-in)
 New CG
-_
-_
 36.1
 1,876.0
 Airplane
@@ -460,10 +186,6 @@ Total
 68,613.9
 +36.4
 Figure 7-4. Weight, arm, and moment changes caused by typical alteration or repair.
-oT
-oT
-oT
-oT
 Item
 Weight (lb)
 Moment indexes (lb-in/100)
@@ -505,14 +227,8 @@ Forward
 This procedure is the same as found in Chapter 5, Single-
 limit
 Engine Aircraft Weight and Balance Computations.
-[
-/
 Refer to the load conditions and CG information found in
 Figures 7-5, 7-6, and 7-7 to compute the CG in percent MAC:
-a
-a
-—
-oun
 The loaded CG is +36.4 inches aft of the datum.
 The MAC is 58.0 inches long.
 Fuel +48.2
@@ -533,7 +249,6 @@ Engine METO horsepower 230
 CG range
 (+40.9) to (+46.0) at 3,100 lb
 (+33.0) to (+46.0) at 2,250 lb or less
-a
 Straight line variation between points given
 CG in inches from LEMAC x 100
 Empty weight CG range
@@ -659,7 +374,6 @@ outside of the limits, it can usually be brought back in by
 using ballast.
 Make a chart like the one in Figure 7-9 to determine the CG
 with the aircraft loaded for its most forward CG. With the
-_
 When rear row of seats is occupied, 120 pounds of
 load consisting of only a pilot and the minimum fuel, the CG
 baggage or ballast must be carried in forward baggage
@@ -668,15 +382,8 @@ compartment. For additional loading instruction,
 see Weight and Balance Data.
 for this weight of +33.0.
 Figure 7-11. Typical baggage compartment placard.
-oT
-I
-eT
-oe
-OT
 =
 x
-_
--
 Item
 Weight (lb)
 Arm (in)
@@ -699,15 +406,8 @@ Total
 79,098.6
 +36.6
 Figure 7-9. Load conditions for forward adverse-load CG check.
-oT
-oo
-oT
-oe
-oT
 =
 x
--
-=
 Item
 Weight (lb)
 Arm (in)
@@ -779,7 +479,6 @@ the ballast.
 7-8
 To determine the amount of ballast needed, use the formula
 in Figure 7-13.
-OT
 Aircraft empty weight × Dist. out of limits
 =
 Ballast weight

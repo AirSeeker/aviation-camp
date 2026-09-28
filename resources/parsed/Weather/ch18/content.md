@@ -1,9 +1,3 @@
-—<—
-18 Weather and Obstructions to
-Visibility
-18.1 Introduction
-Weather and obstructions to visibility include fog, mist, haze, smoke, precipitation, blowing snow,
-dust storm, sandstorm, and volcanic ash. This chapter will discuss each in detail.
 Chapter 18, Weather and Obstructions to Visibility
 18-1
 
@@ -27,18 +21,8 @@ radiational cooling reduces the air temperature to or below its dewpoint. Thus, 
 nighttime occurrence and often does not dissipate until after sunrise.
 Figure 18-1. Radiation Fog Formation
 Chapter 18, Weather and Obstructions to Visibility
-RADIATION FOG
-nv
-aia)
-}
-\
-\
-)
-SHALLOW MOIST LAYER.
-WIND LIGHT OR CALM
 18-2
 
-Copyright Robert Allan Prentice, 1997
 Figure 18-2. Radiation Fog
 Radiation fog is relatively shallow fog. It may be dense enough to hide the entire sky, or it may conceal
 only part of the sky. Ground fog is a form of radiation fog that is confined to near ground level.
@@ -68,79 +52,7 @@ and spring months and is densest around sunrise when surface temperatures are of
 Chapter 18, Weather and Obstructions to Visibility
 18-3
 
-Air cools at higher
-@ elevations as the ground
-‘
-radiates heat into the
-atmosphere and space. VA
-O
-t
-s
-“ey
-SVWARMER®
-9 ---—
-ogy!
-“«/vepor
-—ligas
-Pome
-Sel
-of ep hele
--
-sae
-o
-er
-+
-Ia cofo}LER
-.
-ea
-™, cool, stable
-Masay
-tdhaensationy
-‘
-,
-WA ya
-layefforms near
-+
-B,
-“wy
-ea,
-the ground, which
-ks
--
-a.
-Ww
-|
-(©) limitsturbulent
-~~\)
-|
-fe AN
-i
-Ny
-mixing and traps)
-a
-pass
-ai
--_,
-the cool, moistiain
-» ui
-yy
-©)
-Cooler air
-a
-sae
-aa
-Unrest
-/
-drains downsl
-en
-ma
-into the valley.
-The air near the ground continues to cool
-@S
-q ) until water vapor molecules are changed
-into small droplets of liquid water.
 Figure 18-3. Mountain/Valley Fog Formation
-Photo: NOAA
 Figure 18-4. Mountain/Valley Fog
 18.1.1.1.2 Advection Fog
 Advection fog (see Figure 18-5 and Figure 18-6) forms when moist air moves over a colder surface and the
@@ -151,16 +63,7 @@ stratocumulus clouds.
 Chapter 18, Weather and Obstructions to Visibility
 18-4
 
-MOISTAIR [so
-a
-FOG
-COLDER SURFACE
 Figure 18-5. Advection Fog Formation
-F_
-‘
-A.
-ssithusricIey,
-r
 Figure 18-6. Advection Fog
 The West Coast of the United States is quite vulnerable to advection fog. This fog frequently forms offshore
 as a result of cold water and then is carried inland by the wind. It can remain over the water for weeks,
@@ -181,19 +84,6 @@ moves up sloping terrain (see Figure 18-7). Winds speeds of 5–15 kt are most f
 winds tend to lift the fog into a layer of low stratus clouds. Unlike radiation fog, it can form under cloudy
 skies. Upslope fog is common along the eastern slopes of the Rocky Mountains and somewhat less frequent
 east of the Appalachian Mountains. Upslope fog is often quite dense and extends to high altitudes.
-UPSLOPE FOG
-}
-Be
-sf
-Sey
-i
-~
-:
-al
-iN
-STABLE
-AIR
-;
 Figure 18-7. Upslope Fog Formation
 18.1.1.1.4 Frontal Fog
 When warm, moist air is lifted over a front, clouds and precipitation may form. If the cold air below is near
@@ -206,10 +96,6 @@ can occur with other fronts as well.
 Chapter 18, Weather and Obstructions to Visibility
 18-6
 
-Front
-a
-COPD AUR
-THT
 Figure 18-8. Frontal Fog Formation
 18.1.1.1.5 Steam Fog
 When very cold air moves across relatively warm water, enough moisture may evaporate from the water
@@ -224,17 +110,8 @@ Steam fog is associated with a shallow layer of unstable air; thus, pilots can e
 flying through it. On occasion, columns of condensed vapor rise from the fog layer, forming whirling steam
 devils, which appear similar to the dust devils on land.
 Chapter 18, Weather and Obstructions to Visibility
-S@@
-MOIST AIR
 18-7
 
-STEAM FOG
-ae
--
-COLD AIR
-g
-ice
-‘WARM WATER
 Figure 18-9. Steam Fog Formation
 18.1.1.1.6 Freezing Fog
 Freezing fog occurs when the temperature falls to 32°F (0°C) or below. Tiny supercooled liquid water
@@ -242,27 +119,6 @@ droplets in fog can freeze instantly on exposed surfaces when surface temperatur
 Surfaces that these droplets may freeze on include tree branches, stairs and rails, sidewalks, roads, and
 vehicles (see Figure 18-10). For those flying, or even taxiing, a layer of ice can form on the aircraft, making
 flight very dangerous unless the aircraft is treated or has effective deicing equipment.
-Za
-Nee } ioaa
-=
-ts
-Ne
-a
-o.
-ech
-te
-<
-BAS
-e.g
-a
-ee
-ass
-—
-~.
-:
-;
-ae
-tes
 Figure 18-10. Freezing Fog
 Chapter 18, Weather and Obstructions to Visibility
 18-8
@@ -381,8 +237,6 @@ turbine blades and fuel injectors/igniters. With no air going into the engine, t
 comes to a slow spinning stop by spooling down, and a flameout occurs. As the aircraft exits the ash cloud
 and enters colder temperatures, the cooled, hardened silicas on the turbine blades become dislodged,
 Chapter 18, Weather and Obstructions to Visibility
-ie
-a
 18-11
 
 allowing the fan blades to rotate, allowing for an engine relight as the air moves through the engine again.

@@ -1,12 +1,3 @@
-al
-4 The Earth’s Atmosphere
-4.1 Introduction
-The Earth’s atmosphere is a cloud of gas and suspended solids extending from the surface out many
-thousands of miles, becoming thinner with distance but always held by the Earth’s gravitational pull. The
-atmosphere is made up of layers surrounding the Earth that holds the air that people breathe, protects us
-from outer space, and holds moisture (e.g., vapor, clouds, and precipitation), gases, and tiny particles. In
-short, the atmosphere is the protective bubble that people live in.
-This chapter covers the atmosphere’s composition and vertical structure and the standard atmosphere.
 Chapter 4, The Earth’s Atmosphere
 4-1
 
@@ -147,56 +138,6 @@ thermopause.
 Chapter 4, The Earth’s Atmosphere
 4-4
 
-—
-=
-%
-bee
-t
-ls
-RS
-SS
-anor
-ig
-Thermosphere
-seret
-es
-| SSa | 100
-oz
-esopavse
-Mesosphere
-i
-oa
-sd
-rama
-:
-JF
-meteors
-|
-4d
-—— .
-Stratosphere
-e
-vier soon
-|
-ropopatise
-#
-ra
-tt iY
-i
-=|.
-|
-|
-Troposphere
-A
-crepes!
-|
-!
-i
-“00-80-60
-40-20
-20-4060
-Boon cv
-Temperate °C
 The regions of the stratosphere and the mesosphere, along with the stratopause and mesopause, are called
 the middle atmosphere. The transition boundary that separates the stratosphere from the mesosphere is
 called the stratopause. Please note that in this figure the temperature is not necessarily to scale with the
@@ -216,94 +157,26 @@ Chapter 4, The Earth’s Atmosphere
 
 Table 4-2. Selected Properties of the Standard Atmosphere
 Property
-Metric Units
-English Units
-29.92 inches of
 Sea level pressure
-1013.25 hectopascals (hPa)
-mercury (inHg)
 Sea level temperature
-15 °C
-59 °F
 Lapse rate of temperature in the
-6.5 °C/1,000 m
-3.57 °F/1,000 ft
 troposphere
 Pressure altitude of the tropopause
-11,000 m
-36,089 ft
 Temperature at the tropopause
--56.5 °C
--69.7 °F
 Note: 1 hectopascal = 1 millibar.
-KM
-FEET
-39,000
-@&
-ROPOPA\
-"1
-Ss
-35,000
-~
-9+30,000
-g
-oe
-&
-x
-G
--
-g
-a
-|
-<
-a
-ae
-=
-6+
-20,000 <
-w
-Z
-ir
-=
-®
-iN
-15,000 «
-ft
-SI
-=
-|
-:
-_
-|
-|
-|
-KE]
-310,000
-tf | ETNTT
-PoP
-:
-Lf
-s
-*
-ot
-|
-ft ff
-PS TY
-4,898pf ff ft
-|
-|
-|
-aa
-,
-|
-oo
--30
--20
-40°C
-aee
--20
-°F
-TEMPERATURE
 Figure 4-2. U.S. Standard Atmosphere Within the Troposphere
 Chapter 4, The Earth’s Atmosphere
+Metric Units
+1013.25 hectopascals (hPa)
+15 °C
+6.5 °C/1,000 m
+11,000 m
+-56.5 °C
+English Units
+29.92 inches of
+mercury (inHg)
+59 °F
+3.57 °F/1,000 ft
+36,089 ft
+-69.7 °F
 4-6

@@ -1,7 +1,3 @@
-Icing is a cumulative hazard. The longer an aircraft collects icing, the worse the hazard becomes. Z_
-20 Icing
-20.1 Introduction
-In general, icing is any deposit of ice forming on an object. It is one of the major weather hazards to aviation.
 Chapter 20, Icing
 20-1
 
@@ -136,53 +132,6 @@ icing but only in a comparatively narrow band along the front.
 Chapter 20, Icing
 20-4
 
-*
-* Mostly Ice Crystals
-«+
-»
-.
-i er. ee
-2G
-i
-:
-waterdroplet
-od
-Supercooled
-ey.
-ee
-4s
-P
-Lae
-=
-a
-a
-Ns
-=
-ty tee
-Warm, moist
-- A
-air
-Cold air
-:
-g
-;
-ee a —-
-a.
-a
-Bees
-A
-Ae
-«
-7 meee
-»
-«
-«
-«§ A A
-A
-Ws wl
-‘Snow
-oi
-aliaj a
 Figure 20-1. Icing with Fronts
 A favored location for severe clear icing is freezing rain and/or freezing drizzle below a front. Rain forms
 above the frontal surface at temperatures warmer than freezing. Subsequently, it falls through air at
@@ -200,12 +149,6 @@ flow effect to create extremely hazardous icing zones (see Figure 20-2).
 Chapter 20, Icing
 20-5
 
--
-sciQe
-WINDWARD a F
-ZB; SS ™
-i
-ole
 Figure 20-2. Icing with Mountains
 The most severe icing occurs above the crests and on the ridges’ windward side. This zone usually extends
 to about 5,000 ft above the mountaintops but can extend much higher if cumuliform clouds develop.
@@ -230,7 +173,6 @@ when compared to the airflow disruption it causes. As power is added to compensa
 and the nose is lifted to maintain altitude, the angle of attack is increased. This allows the underside of the
 wings and fuselage to accumulate additional ice.
 Chapter 20, Icing
-|
 20-6
 
 Wind tunnel and flight tests have shown that frost, snow, and ice accumulations on the leading edge or
@@ -266,39 +208,6 @@ in an air temperature in the carburetor of 30°F (-1°C).
 Chapter 20, Icing
 20-7
 
-Bi
-E
-Icing (glide and cruise power)
-Le |
-B Serious icing (cruise power)
-Serious icing (glide power)
-=a 80
-yieSs
-BB icing (pressure-type carburetors)
-ee
-;
-) | $3
-yi
-ome
-Ste
-ar:
-A oa
-Amn
-J
-a
-y:
-_.<CEEEE
-Y_waCaenaeee
-4)
-YL | | | Tt |
-Aflet
-shal
-eee
-: iG
-20 .
-10.
-AMBIENT TEMPERATURE
-°F
 Figure 20-3. Carburetor Icing
 20.4.2 High Ice Water Content (HIWC)
 High Ice Water Content (HIWC) is a relatively new icing hazard, at least from the standpoint of research

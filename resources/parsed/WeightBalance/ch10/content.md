@@ -1,9 +1,6 @@
 Chapter 10
 Use of Computer for Weight
-Use ofComputer
 and Balance Computations
-and Balance Computations
-mz
 Introduction
 Almost all weight and balance problems involve only simple
 math. This allows slide rules and hand-held electronic
@@ -14,5 +11,4 @@ weighed. First, it shows how to determine the CG using a
 simple electronic calculator, then solves the same problem
 using an E6-B flightcomputer. Finally, it shows how to solve
 it using a dedicated electronic flight computer
-for Weight
 10-1

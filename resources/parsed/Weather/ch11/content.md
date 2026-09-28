@@ -1,10 +1,3 @@
-——
-11 Air Masses, Fronts, and the
-Wave Cyclone Model
-11.1 Introduction
-An air mass is a large body of air with generally uniform temperature and humidity.
-A wave cyclone is a low-pressure circulation that forms and moves along a front.
-This chapter will discuss air masses, fronts, and the wave cyclone model.
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
 11-1
 
@@ -48,21 +41,6 @@ Note: Maritime Arctic (mA) is not listed, since it seldom (if ever) forms.
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
 11-2
 
-Eaal
-f 4
-Gc DES aa
-Maritime
-\ NZ
-SS >)a)
-Polar
-Polar
-\
-e7 4
-o
-oat cased
-Na
-Sain
-Ae
 Figure 11-1. Air Mass Classification
 11.2.2 Air Mass Modification
 As these air masses move around the Earth, they can begin to acquire different attributes. For example, in
@@ -77,15 +55,6 @@ stagnant over the Midwest, a drought may result. Maritime tropical (mT) air is a
 moved north over cooler water.
 A warm, moist air mass moving over a cold surface (see Figure 11-2) produces stable air associated with
 stratiform clouds, fog, and drizzle.
-Stratiform clouds,
-Warm, moist
-»
-fog, drizzle
-airmass
-[ir)
->
-WARM SOURCE
-COLD SURFACE
 Figure 11-2. Air Mass Modification—Warm, Moist Air Mass Moving Over a Cold Surface
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
 11-3
@@ -100,42 +69,12 @@ ice-free lakes (see Figure 11-3). As initially cold, dry, stable polar air over 
 warm water, the air is heated and moistened, and stability decreases. Shallow cumuliform clouds develop
 with low tops. The strength of the convection increases with increasing temperature differences between
 warm water and cold air, increasing wind speeds, and decreasing relative humidity within the cold, dry air.
-COLD,
-|
-|
-;
-,
-oe
-3 £
-DRY AIR
-TEAI
-a
-m
--
-COLD
-COLD
-ANE
-WARM WATER
-rer
 Figure 11-3. Lake Effect
 11.3 Fronts
 Air masses can control the weather for a relatively long time period ranging from days to months. Most
 weather occurs along the periphery of these air masses at boundaries called fronts. A front is a boundary or
 transition zone between two air masses. Fronts are classified by which type of air mass (cold or warm) is
 replacing the other (see Figure 11-4).
-Cold Front anal colder airreplaces warmer air.
-vv
-Afrontthat moves in such a way that
-a
-a
-Afrontthat moves in such a way that
-air replaces colder air.
-warmer
-Stationary Front
-A frontwhich is stationary or nearly so
-Occluded Front
-Acomposite of two fronts as a cold front
-overtakes a warm frontor stationary front.
 Figure 11-4. Fronts
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
 11-4
@@ -167,7 +106,6 @@ the south-southwest. With warming temperatures, the dewpoint rises and then leve
 a slight rise in barometric pressure, followed by a decrease of barometric pressure.
 Figure 11-5. Warm Front
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
-mn
 11-5
 
 11.3.2 Cold Front
@@ -214,7 +152,6 @@ slope can vary, but clouds and precipitation would still form in the warm rising
 both warm and cold fronts.
 Figure 11-7. Stationary Front
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
-ea
 11-7
 
 11.3.4 Occluded Front
@@ -234,11 +171,8 @@ A warm front occlusion occurs when the air ahead of the warm front is colder tha
 When this is the case, the cold front rides up and over the warm front. If the air forced aloft by the warm
 front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion.
 Embedded thunderstorms, rain, and fog are likely to occur.
-:
-COLD wm \
 Figure 11-8. Occluded Front
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
-COOL
 11-8
 
 11.4 The Wave Cyclone Model
@@ -248,36 +182,22 @@ producers in the mid-latitudes. They are large lows that generally travel from w
 They last from a few days to more than a week.
 A wave cyclone typically follows a predictable evolution. Initially, there is a stationary front separating
 warm air from cold air (see Figure 11-9).
-SN
-eeee
-So
-<<< < <=
-‘
-a
-ee
-\
-;
-> ——
 Figure 11-9. Wave Cyclone Model—Stage 1
 A low-pressure wave forms on the front (see Figure 11-10). The front develops a kink where the wave
 develops. Precipitation develops with the heaviest intensity (dark green) located in the zone of lift along
 the front.
-ea~
 Figure 11-10. Wave Cyclone Model—Stage 2
 As the wave intensifies, both the cold and warm fronts become better organized (see Figure 11-11).
 3 A wave cyclone should not be confused with the alternative name for a tornado. They are quite different.
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
 11-9
 
-SA
 Figure 11-11. Wave Cyclone Model—Stage 3
 In the fourth stage, the wave becomes a mature low (see Figure 11-12). The occluded front forms as the
 cold front overtakes the warm front.
-OS4
 Figure 11-12. Wave Cyclone Model—Stage 4
 As the cold front continues advancing on the warm front, the occlusion increases and eventually cuts off
 the supply of warm moist air (see Figure 11-13). This causes the low to gradually dissipate.
-we)
 Figure 11-13. Wave Cyclone Model—Stage 5
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
 11-10
@@ -287,10 +207,6 @@ A dryline is a low-level boundary, hundreds of miles long, and separating moist 
 United States, it typically lies north-south across the southern and central High Plains during the spring and
 early summer, where it separates moist (mT) air from the Gulf of America to the east and dry desert (cT)
 air from the southwestern states to the west (see Figure 11-14).
-y EPA
-CA
-ln
-od i
 Figure 11-14. Dryline Example
 The dryline typically advances eastward during the afternoon and retreats westward at night. However, a
 strong wave cyclone can sweep the dryline eastward into the Mississippi Valley, or even farther east,
@@ -302,8 +218,4 @@ shift from south or southeasterly to west or southwesterly. Blowing dust and ris
 follow, especially if the dryline passes during the daytime. These changes occur in reverse order when the
 dryline retreats westward.
 Chapter 11, Air Masses, Fronts, and the Wave Cyclone Model
-z
-\
-pas
-oist Air V
 11-11

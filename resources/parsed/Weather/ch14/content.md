@@ -1,9 +1,3 @@
-snow, snow grains, ice crystals, ice pellets, hail, and small hail and/or snow pellets. Tl
-14 Precipitation
-14.1 Introduction
-Precipitation is any of the forms of water particles, whether liquid or solid, that fall from the atmosphere
-and reach the ground. This chapter covers the necessary ingredients for formation, the growth process, and
-the types of precipitation. Some precipitation types include drizzle, rain, freezing rain, freezing drizzle,
 Chapter 14, Precipitation
 14-1
 
@@ -42,57 +36,6 @@ The vertical distribution of temperature will often determine the type of precip
 surface. Snow occurs when the temperature remains below freezing throughout the entire depth of the
 atmosphere (see Figure 14-2).
 Chapter 14, Precipitation
-ee
-}
-Large cloude
-3 oy
-fCosroplet
-°
-°
-ot
-AN Small
->|
-©
-oe—
-cloud
-ono
-f°
-8°
-a fea
-°
-Oie
-Raindrop
-©
-°
-eo
-°
-oila
-°
-|
-otis
-= 8
-°
-©
-oo
-st
-wifi,
-©
-Large drop
-illo
-4? ih
-breaking
-9}
-°
-ce Mitt 9 © apat
-o
-a
-.
-oe
-e
-°
-it
-8.
-°
 14-3
 
 Figure 14-2. Snow Temperature Environment
@@ -108,59 +51,6 @@ layer of below-freezing air at the surface. Ordinarily, air temperatures decreas
 freezing rain requires a temperature inversion, which can occur when a warmer air mass overlies a colder
 air mass. This situation can occur along a warm front, where a warm air mass overruns a cold air mass. It
 Chapter 14, Precipitation
-ee
-%
-ere
-NN
-Altitude
-\
-ee, *
-x
-sAs
-x
-beep 5
-%
-*
-icv
-ey
-*a
-pe %
-ayer q
-*/
-&®
-y
-e
--4°C
-orc
-Temperature of
-“=== the atmosphere
-A artic
-N
-Increasing
-Cold
-\
-HE,
-La
-N
-&
-ON
-» He .*
-\
-Se te
-Shallow
-i a
-Warm
-]
-ee
-rig
-gets
-Eeyer
-/
-Sl. a
-am
-occ
-Temperature of
-—s===" the atmosphere
 14-4
 
 can begin as rain and/or snow but becomes solely rain in the warm layer. The rain falls back into
@@ -175,47 +65,6 @@ Hail is precipitation in the form of balls or other irregular lumps of ice produ
 Thunderstorms that are characterized by strong updrafts, large Supercooled Liquid Water Content (SLWC),
 large cloud-drop sizes, and great vertical height, are favorable to hail formation.
 Chapter 14, Precipitation
-Cold
-\
-Increasing
-HF:
-\
-x
-Fs
-*
-‘ Bers
-Deep
-\
-°
-Warm
-\
-*
-Layer
-]/
-/
-Cold Layer,
-occ
-Temperature of
-===" the atmosphere
-~
-Increasing
-Altitude
-\
-\
-\
-\
-\
-\
-\
-Deep
-\
-Warm
-|
-Layer
-occ
-4c
-Temperature of
-=n" the atmosphere
 14-5
 
 Hail forms when supercooled water droplets above the freezing level begin to freeze. Once a droplet has
@@ -230,25 +79,6 @@ in diameter, 18.62 in in circumference, and weighed 1.93 lb (see Figure 14-6).
 As hailstones fall through air with temperatures above 0°C, they begin to melt, and precipitation may reach
 the ground as either hail or rain. Rain at the surface does not mean the absence of hail aloft. Pilots should
 anticipate possible hail with any thunderstorm, especially beneath the anvil of a large cumulonimbus.
-MOAN)
-peat
-Ps
-es
-if
->
-+
-eer a
-,
-uel
-sit A
-i
-a
-\
-\
-eed
-»
-i
-.
 Figure 14-6. Vivian, South Dakota, Record Hailstone
 Hail is most frequently found in the interior of continents within the mid-latitudes and generally confined
 to higher elevations within the tropics. In the United States, hail is most common across the Great Plains

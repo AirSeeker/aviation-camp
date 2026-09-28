@@ -1,15 +1,3 @@
-density will be discussed, along with its relationship to density altitude. |
-8 Atmospheric Pressure and Altimetry
-8.1 Introduction
-Atmospheric pressure is one of the most basic variables used to describe the state of the atmosphere and is
-commonly reported in weather observations. Unlike temperature and relative humidity, changes in
-atmospheric pressure are not as readily sensed by people. However, variations of pressure across the Earth
-are associated with pressure centers (either high-pressure centers or low-pressure centers) that cause the
-wind to blow and can bring important weather changes. Density, which is directly related to pressure, is a
-property of the atmosphere, which can be used by pilots to help determine how their aircraft will perform
-at various altitudes.
-This chapter discusses atmospheric pressure, how it is measured, and how it varies across the Earth. This
-chapter also covers the altimeter, which is a pressure sensor used by pilots to determine altitude. Finally,
 Chapter 8, Atmospheric Pressure and Altimetry
 8-1
 
@@ -36,23 +24,10 @@ changes. One end of the cell is fixed, while the other end moves the registering
 mechanism magnifies the movement of the cell driving an indicator hand along a scale graduated in
 pressure units.
 Chapter 8, Atmospheric Pressure and Altimetry
-600 0
-000°
-OAR
-0 OQ
-©
-AirMolecule
 Air is composed of matter and thus, has weight due to
 the pull of Earth’s gravity.
 8-2
 
-Ss
-& :
-1070 Zz
-sS
-C2
-Lever system
-| | | i}
 Figure 8-2. Aneroid Barometer
 8.2.2 Atmospheric Pressure Units
 Atmospheric pressure is expressed in many ways throughout the world (see Table 8-1). Meteorologists
@@ -63,34 +38,30 @@ developed in 1968. Many meteorologists prefer to use the term they learned durin
 work experience. Therefore, some continue to use the term “millibars,” while others use “hectopascal”
 (which are equivalent). The unit inch of mercury (inHg or Hg) is still used in the United States for altimetry.
 Table 8-1. Units of Pressure
-Standard Atmosphere
 Units of Pressure
-Common Use
-Value at Sea Level
 Hectopascals (hPa)
-1013.2 hPa
-METAR/SPECI
 Millibars (mb or mbar)
-1013.2 mb
-U.S. Weather Charts
 Inches of mercury (inHg or Hg)
-29.92 inHg
-U.S. Aviation
 Pounds per square inch (psi)
-14.7 psi
-U.S. Engineering
 8.2.3 Station Pressure
 The pressure measured at an airport is called station pressure, or the actual pressure at field elevation.
 Pressure is lower at higher altitudes. Therefore, airports with higher field elevations usually have lower
 pressure than airports with lower field elevations. For instance, station pressure at Denver is less than at
 New Orleans (see Figure 8-3).
 Chapter 8, Atmospheric Pressure and Altimetry
+Standard Atmosphere
+Value at Sea Level
+1013.2 hPa
+1013.2 mb
+29.92 inHg
+14.7 psi
+Common Use
+METAR/SPECI
+U.S. Weather Charts
+U.S. Aviation
+U.S. Engineering
 8-3
 
-Station Pressure
-Denver 24.92”
-|
-j
 Figure 8-3. Station Pressure
 The next few sections will examine some factors that influence pressure.
 8.2.4 Pressure Variation
@@ -104,26 +75,10 @@ The standard altitudes in Figure 8-4 are based on standard temperatures. In the 
 temperatures are seldom standard, so temperature’s effects on pressure will be explored in the following
 section.
 Chapter 8, Atmospheric Pressure and Altimetry
-Station Pressure
-New Orleans
-29.92”
 8-4
 
-(millibars)
-20039,000
-\
-sty, MOIETIES dbase
-10neil
 Figure 8-4. Air Pressure in the Standard Atmosphere
 Chapter 8, Atmospheric Pressure and Altimetry
-53,000
-16,200m
-(feet)
-meters
-;
-m
-al
-tn, 4G?
 8-5
 
 8.2.4.2 Temperature’s Effects on Pressure
@@ -143,44 +98,6 @@ elevation is 25 inHg; pressure increases about 1 inHg for each 1,000 ft, or a to
 pressure is approximately 25 + 5, or 30 inHg.
 Figure 8-6. Reduction of Station Pressure to Sea Level
 Chapter 8, Atmospheric Pressure and Altimetry
-Warm Air
-Standard
-Atmosphere
-O me) O
-Be
-O
-f
-Cold Air
-tee
-O
-Bie te o
-io
-_O
-;
-01.9,|?
-o?’o
-O10 O
-©
-rot
-fe)
-10 9
-O00AB!
-|S 00
-ice
-°
-59S OY
-[26 00]
-[20
-ate Equal Mass and PressureA
-© Air Molecule
-Pressure at 5,000 feet
-25 inches ofmercury “|
-CS
-ee
-When reduced
-25 +5 = 30 inches
-to sea-level
-of mercury
 8-6
 
 Sea level pressure is typically displayed on surface weather charts. Pressure continually changes across the
@@ -197,17 +114,6 @@ The shorter parcel (i.e., the parcel with the smaller volume) has a higher densi
 contains the larger volume. This is due to the fact that the air molecules within the shorter parcel must be
 compressed within the smaller volume.
 Chapter 8, Atmospheric Pressure and Altimetry
-DENSITY= MASS (WEIGHT)
-VOLUME
-te)
-OO
-= 1 kg
-Mass
-Density =1ka = 1.0 kg/m?
-=
-1m?
-Volume
-1m
 8-7
 
 Figure 8-8. Volume’s Effects on Density
@@ -223,41 +129,6 @@ As previously discussed, air pressure decreases with height in the atmosphere. T
 decreases with height (see Figure 8-9). In the atmosphere, pressure has the greatest effect on density in the
 vertical direction.
 Chapter 8, Atmospheric Pressure and Altimetry
-Loo 5©)
-oi2
-o
-lo
-°
-Ky
-01° sale)
-20°0%
-°
-O10 0
-oo
-|e
-to)
-ln 1609
-‘aig
-019 5 O|
-Oo;
-Oi Sy
-39..9.
-Io.
-25°0 “ol?
-go
-Wass= 3g
-Wass=3KG
-Densiy=248 =3.0kgin
-=2 ry
-Volume =
-1 m?
-Volume
-=24S = 1.kg
-Density
-Shorter Parcel,
-Taller Parcel,
-Higher Density
-Lower Density
 𝜌= 𝑀𝑃
 𝑅𝑇
 8-8
@@ -268,76 +139,6 @@ Density is inversely related to temperature. Assuming constant mass and pressure
 higher temperature is less dense than an air parcel with a lower temperature (see Figure 8-10). This is
 because the warmer air occupies a large volume.
 Chapter 8, Atmospheric Pressure and Altimetry
-100 —
-53,000
-.
-A
-breve
-(millibars)®
-e
-(feet)
-eens
-C6
-e
-)
-e
-200=~
-e
-O°
-‘aoa
-> (=|
-e
-C)
-e
-eS
-e@
-e
-300 ——
-oO
-.
-30,000
-C)
-C)
-9,200m
-e
-es
-@
-O
-*
-—_——_
-24,000
-7200m
-500 o oi exe —— 48,000
-o@
-Ce
-@
-@
-EQUAL
-MASS
-800m
-eo? ©Ogre)
-DE
-St le
-OO
-F
-600 pee
-ne
-EM i
-1 90560590,°
-I
-ee
-ee Tele(Mie. Gil
-800:
-Bere
-:
-cot
-300 —————____>____
-Aron
-B00
-- 3,000
-eocoeooonoeeeee
-eee:
-———__—__
 8-9
 
 Figure 8-10. Temperature’s Effects on Density
@@ -355,68 +156,6 @@ The altimeter is essentially an aneroid barometer. The difference is the scale. 
 read increments of altitude rather than units of pressure. The standard for graduating the altimeter is the
 standard atmosphere.
 Chapter 8, Atmospheric Pressure and Altimetry
-Warm Air Parcel
-Standard
-fo. 0
-Atmosphere
-:
-O
-Parcel
-fe)
-ie)
-fe)
-a
-O
-| Q fe)
-Cold Air Parcel
-P1990
-Jo
-ol
-he
-‘
-OO
-° tO
-Go
-ite)
-ie)
-HeRe)
-elie
-O
-Kole)
-0100 29
-mone)
-oo
-«Cd
-SOolMmE
-1Pio off
-io Og
-“AaOO™iB
-iy
-(e)POO Fn cal
-PORE
-a
-Polo op
-jo 90%
-eon
-ee Equal Mass and Pressureee
-© Air Molecule
-eee ee
-Moist Aire parcel
-pry Alt parcel
-0°
-PoAei
-Po:eea
-eee:
-@0°
-ea°e ©
-oes:
-ea%e 2
-eae
-ry Air Molecule
-o
-Water
-por Molecule
-Vapo!
 8-10
 
 8.4.1 Altitude
@@ -432,44 +171,6 @@ equal at the bottoms and tops of the three layers. Since an altimeter is essenti
 altitude indicated by the altimeter at the top of each column would be the same. To see this effect more
 clearly, see Figure 8-12. In the warm air column, a pilot would fly at an altitude that is higher than the
 indicated altitude. In the cold air column, the pilot would fly at an altitude lower than the indicated altitude.
-Indicated Altitude
-10,000 feet
-True Altitude
-Indicated Altitude
-11,000 feet.
-10,000 feet
-‘pe
-True Altitude
-;
-YA
-ET
--
-Indicated Altitude
-10,000 feet.
-f
-10,000 feet
-a
-A
-i
-True Altitude
--
-H
-9,000 feet .
-i
-i
-Shas7]
-H
-Warm Air
-i
-Standard
-H
-i
-Atmosphere
-i
-Cold Air
-H
-{
-—— Equal Mass and PressureA
 Figure 8-12. True Versus Indicated Altitude
 Height indicated on the altimeter also changes with changes in surface pressure. A movable scale on the
 altimeter permits the pilot to adjust for surface pressure, but the pilot has no means of adjusting the altimeter
@@ -491,52 +192,8 @@ vigilant in adjusting the altimeter during flight. As the pilot flies from high 
 plane is lower than the altimeter indicates.
 Figure 8-13. Pressure Change’s Effects on Altimeter Readings
 Chapter 8, Atmospheric Pressure and Altimetry
-998mb
-1002mb
-|
-ee
-Pry
-WHEN PRESSURE LOWERS
-1006mb
-ENROUTE - YOU ARE
-LOWER THAN YOUR
-ALTIMETER INDICATES
-1010mb
-——
-29.96”
-(1014.6mb)
-(oe
-ad
-ot
-3-
-—
-29.84”
-(1010.5mb)
 8-12
 
-Is.
-pn
-aes,
-:=?
-?
-boa
-ALTIMETER READS
-TOO Low
-Is.
-~\l
-ALTIMETER READS
-CORRECT ALTITUDE
-/
-_.
-_Ps
-I
-ALTIMETER READS
-a
-TOO HIGH
-|
-STANDARD
-INDICATED ALTITUDE EQUAL!
-TRUE ALTITUDE
 Figure 8-14. Temperature Change’s Effects on Altimeter Readings
 Figure 8-14 shows that as a pilot flies from warm to cold air, the altimeter reads too high—the pilot is lower
 than the altimeter indicates. Over flat terrain, this lower-than-true reading is no great problem; other aircraft
@@ -604,36 +261,6 @@ altitude on takeoff distance and rate of climb.
 Chapter 8, Atmospheric Pressure and Altimetry
 8-14
 
-Density Altitude
-= Sea Level
-Rate of Climb
-1500"
-1300 ft! Minute
-—
-1000"
-Takeoff roll 1300 ft
-_——-
-ae
-.
-SaoSo
-sou
-=
-\naatasiesi te
-_
-Ye$
-Density Altitude
-= 5,000 ft MSL
-Rate of Climb
-far
-1000 ft! Minute
-1000"
-Takeoff roll 1800 ft
-a
-|neuen
-500°
-ieeewaanened lt
-f
-a
 Figure 8-15. High Density Altitude’s Effects on Flight
 High density altitude also can be a problem at cruising altitude. When air temperature is higher (warmer)
 than standard atmosphere, the higher density altitude lowers the service ceiling. For example, if temperature

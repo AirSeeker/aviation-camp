@@ -1,10 +1,11 @@
 {
   "bookName": "PHAK",
   "sourcePdf": "resources/library/PHAK/Pilot’s Handbook of Aeronautical Knowledge, FAA-H-8083-25C (Full Version).pdf",
-  "cacheKey": "0e651d0841f03c6392c52612e05d48cd29c5c50370ab28d45b86a7e471dac5fc",
+  "cacheKey": "1d24f96ef71b0dbc53fb79733e8991e137daca0b4b72cd41aa21e5ae0a97c92c",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "Introduction To Flying",
       "startPage": 16,
       "endPage": 39,
       "images": [
@@ -704,6 +705,7 @@
     },
     {
       "chapter": "ch02",
+      "title": "Aeronautical Decision-Making",
       "startPage": 40,
       "endPage": 71,
       "images": [
@@ -1907,6 +1909,7 @@
     },
     {
       "chapter": "ch03",
+      "title": "Aircraft Construction",
       "startPage": 72,
       "endPage": 87,
       "images": [
@@ -2607,6 +2610,7 @@
     },
     {
       "chapter": "ch04",
+      "title": "Principles of Flight",
       "startPage": 88,
       "endPage": 97,
       "images": [
@@ -2690,6 +2694,7 @@
     },
     {
       "chapter": "ch05",
+      "title": "Aerodynamics of Flight Forces Acting on the Aircraft Thrust, drag, lift, and weight are forces that act upon all aircraft in flight. Understanding how these forces work and knowing how to control them with the use of power and flight controls are essential to flight. This chapter discusses the aerodynamics of flight—how design, weight, load factors,",
       "startPage": 98,
       "endPage": 148,
       "images": [
@@ -3181,6 +3186,7 @@
     },
     {
       "chapter": "ch06",
+      "title": "Flight Controls",
       "startPage": 149,
       "endPage": 160,
       "images": [
@@ -8375,6 +8381,7 @@
     },
     {
       "chapter": "ch07",
+      "title": "Aircraft Systems",
       "startPage": 161,
       "endPage": 202,
       "images": [
@@ -8971,6 +8978,7 @@
     },
     {
       "chapter": "ch08",
+      "title": "Flight Instruments",
       "startPage": 203,
       "endPage": 230,
       "images": [
@@ -9613,6 +9621,7 @@
     },
     {
       "chapter": "ch09",
+      "title": "Flight Manuals and Other Documents",
       "startPage": 231,
       "endPage": 244,
       "images": [
@@ -9696,6 +9705,7 @@
     },
     {
       "chapter": "ch10",
+      "title": "Weight and Balance",
       "startPage": 245,
       "endPage": 256,
       "images": [
@@ -9874,6 +9884,7 @@
     },
     {
       "chapter": "ch11",
+      "title": "Aircraft Performance",
       "startPage": 257,
       "endPage": 284,
       "images": [
@@ -10033,6 +10044,7 @@
     },
     {
       "chapter": "ch12",
+      "title": "Weather Theory",
       "startPage": 285,
       "endPage": 310,
       "images": [
@@ -10533,6 +10545,7 @@
     },
     {
       "chapter": "ch13",
+      "title": "Aviation Weather Services",
       "startPage": 311,
       "endPage": 334,
       "images": [
@@ -10844,6 +10857,7 @@
     },
     {
       "chapter": "ch14",
+      "title": "Airport Operations",
       "startPage": 335,
       "endPage": 375,
       "images": [
@@ -12509,6 +12523,7 @@
     },
     {
       "chapter": "ch15",
+      "title": "Airspace",
       "startPage": 376,
       "endPage": 387,
       "images": [
@@ -12649,6 +12664,7 @@
     },
     {
       "chapter": "ch16",
+      "title": "Navigation",
       "startPage": 388,
       "endPage": 422,
       "images": [
@@ -13482,6 +13498,7 @@
     },
     {
       "chapter": "ch17",
+      "title": "Aeromedical Factors",
       "startPage": 423,
       "endPage": 452,
       "images": [

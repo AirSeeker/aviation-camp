@@ -1,27 +1,3 @@
-—_
-19 Turbulence
-19.1 Introduction
-Aircraft turbulence is irregular motion of an aircraft in flight, especially when characterized by rapid
-up-and-down motion caused by a rapid variation of atmospheric wind velocities. Turbulence varies from
-annoying bumpiness to severe jolts that may cause structural damage to an aircraft and/or injury to its
-passengers. It is important to note that the effect of turbulence varies based on the size of the aircraft.
-Turbulence intensities and their associated aircraft reactions are described below:
-•
-Light − Causes slight, erratic changes in altitude and/or attitude (pitch, roll, or yaw). Report as
-Light Turbulence. Or it causes slight, rapid, and somewhat rhythmic bumpiness without appreciable
-changes in altitude or attitude. Report as Light Chop.
-•
-Moderate − Similar to Light but of greater intensity. Changes in altitude and/or attitude occur, but
-the aircraft remains in positive control at all times. It usually causes variations in indicated airspeed.
-Report as Moderate Turbulence. Or turbulence that is similar to Light Chop but of greater intensity.
-It causes rapid bumps or jolts without appreciable changes in aircraft altitude or attitude. Report as
-Moderate Chop.
-•
-Severe − Causes large, abrupt changes in altitude and/or attitude. It usually causes large variations
-in indicated airspeed. Aircraft may be momentarily out of control.
-•
-Extreme − The aircraft is violently tossed about and is practically impossible to control. It may
-cause structural damage.
 Chapter 19, Turbulence
 19-1
 
@@ -48,21 +24,6 @@ convective current. A pilot can expect to encounter turbulence beneath or in the
 clouds, air generally is smooth (see Figure 19-1). When convection extends to great heights, it develops
 larger towering cumulus clouds and cumulonimbus with anvil-like tops. The cumulonimbus gives visual
 warning of violent convective turbulence.
-\.__..
-Smooth flight above cumuliform ____
-aS
-clouds
-=
-—
-=)
-.
-‘ES
-TURBULENCE
-seme
->
-~~
-<—|
-UNEVEN SURFACE HEATING:
 Figure 19-1. Convective Turbulence
 When the air is too dry for cumuliform clouds to form, convective currents can still be active. This is called
 dry convection, or thermals (see Figure 19-2). A pilot has little or no indication of their presence until
@@ -70,9 +31,6 @@ encountering the turbulence.
 Chapter 19, Turbulence
 19-2
 
-+
-Smooth flight above thermals ——
-~_UNEVENSORFACE HEATING
 Figure 19-2. Thermals
 19.2.1.1 Thunderstorms
 Turbulence is present in all thunderstorms, and severe or extreme turbulence is common. A severe
@@ -95,8 +53,6 @@ Shelf clouds are most common with multicell line thunderstorms.
 Chapter 19, Turbulence
 19-3
 
-TN ME at te gee
-Copyright Robert Allan Prentice, 2005
 Figure 19-3. Thunderstorm with Shelf Cloud
 19.2.2 Mechanical Turbulence
 Mechanical turbulence is turbulence caused by obstructions to the wind flow, such as trees, buildings,
@@ -106,14 +62,6 @@ Figure 19-4. Mechanical Turbulence
 The intensity of mechanical turbulence depends on wind speed, surface roughness, size of the obstructions,
 and stability of the air. The higher the speed and/or the rougher the surface, the greater the turbulence.
 Chapter 19, Turbulence
-e
-i
-iy
-t
-Seee
-eee
-~-
-ati
 19-4
 
 The wind carries the turbulent eddies downstream, with the distance dependent on wind speed and stability
@@ -133,9 +81,6 @@ Inversions commonly occur within the lowest few thousand feet above ground due t
 cooling, along frontal zones, and when cold air is trapped in a valley. Strong wind shears often occur across
 temperature inversion layers, which can generate turbulence (see Figure 19-6).
 Chapter 19, Turbulence
-Pn)
-Ot? snearzone¢” AYE C
-Ja?)
 19-5
 
 Figure 19-6. Wind Shear Turbulence Associated with a Temperature Inversion
@@ -162,25 +107,6 @@ There are several patterns of upper-level winds that are associated with CAT. On
 trough. CAT is found most frequently at, and just upwind of, the base of the trough, especially just
 downwind of an area of strong temperature advection. Another area of the trough in which to suspect CAT
 Chapter 19, Turbulence
-Warm air
-—
-,
-a>
-T
-ty)
-~~ rad,
-7s
-ae
-ze
-&,
-|
-Se
-i
-a]
-Sf
-Cold air
-Ww
-x=
 19-6
 
 is along the centerline of a trough area, where there is a strong horizontal wind shear between the jet core
@@ -241,16 +167,8 @@ mean? It means that within the lowest 2,000 ft, the wind speed and/or direction 
 200-ft layer (see Figure 19-8). Non-convective LLWS is commonly associated with passing frontal systems,
 temperature inversions, and strong upper-level winds (greater than 25 kt).
 Chapter 19, Turbulence
-—————_—E
-SS
-<
-es
-a—— ee
 19-8
 
-<——_—
-Az
-ee
 Figure 19-8. LLWS Example
 19.2.4.2 Convective Wind Shear
 See Section 22.7.3 for information on convective wind shear.

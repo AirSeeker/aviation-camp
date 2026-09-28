@@ -1,9 +1,6 @@
 Chapter 1
 Introduction
-Introduction
 To Flying
-To Flying
-}
 Introduction
 The Pilot’s Handbook of Aeronautical Knowledge provides
 basic knowledge for the student pilot learning to fly, as well
@@ -55,8 +52,6 @@ balloon. A madness for balloon flight captivated the public’s
 imagination and for a time flying enthusiasts turned their
 expertise to the promise of lighter-than-air flight. But for
 all its majesty in the air, the balloon was little more than a
-Cea
-Aig!
 Figure 1-1. Leonardo da Vinci’s ornithopter wings.
 1-2
 billowing heap of cloth capable of no more than a one-way,
@@ -78,33 +73,6 @@ air vehicle supported by kite-shaped wings. [Figure 1-2] The
 principles on which the modern science of aeronautics is
 founded; built what is recognized as the first successful flying
 model; and tested the first full-size man-carrying airplane.
-Mechanics’ Magazine,
-MUSEUM, REGISTER, JOURNAL, AND GAZETTE.
-‘Ne 1820)
-‘SATURDAY, SEPTESHER 25, 1852. (Price
-ES
-34, Stamped 4d.
-ee
-‘SIR GEORGE CAYLEY'S GOVERNABLE PARACHUTES.
-Tet.
-<
-[OUTER
-ST] ype
-Za ray
-[>
-ls
-Te.
-= ay
-‘s
-\
-aLE
-Pa
-eS
-a
-Ve
-<P
-<S
-V
 Figure 1-2. Glider from 1852 by Sir George Cayley, British aviator
 (1773–1857).
 
@@ -141,7 +109,6 @@ the genesis for modern airline travel.
 P. E. Fansler, a Florida businessman living in St. Petersburg,
 approached Tom Benoist of the Benoist Aircraft Company
 in St. Louis, Missouri, about starting a flight route from St.
-—
 Figure 1-3. First flight by the Wright brothers.
 Petersburg across the waterway to Tampa. Benoist suggested
 using his “Safety First” airboat and the two men signed an
@@ -174,7 +141,6 @@ passenger airline travel was viable.
 The advent of World War I offered the airplane a chance
 to demonstrate its varied capabilities. It began the war as a
 reconnaissance platform, but by 1918, airplanes were being
-———_ 74
 Figure 1-4. Benoist airboat.
 1-3
 
@@ -216,49 +182,6 @@ Air Mail Route system, had initiated this system. The
 Figure 1-5. The de Haviland DH-4 on the New York to San
 Francisco inaugural route in 1921.
 1-4
-So
-1 New York
-6 Iowa City
-11 Rock Springs
-2 Bellefonte
-7 Omaha
-12 Salt Lake City
-3 Cleveland
-8 North Platte
-13 Elko
-4 Bryan
-9 Cheyenne
-14 Reno
-5 Chicago
-10 Rawlins
-15 San Francisco
-»
-12 11 10
--
-» 7
-» 7
--
-'
-=
-=
-»
-» 7
-»
->
-»>
-=
-»>
-»
->
-=
--
->
--
-Figure 1-6. The transcontinental airmail route ran from New York
-to San Francisco.
-Department of Commerce made significant advances in
-aviation communications, including the introduction of radio
-beacons as an effective means of navigation.
 Built at intervals of approximately 10 miles apart, the
 standard beacon tower was 51 feet high, and was topped
 with a powerful rotating light. Below the rotating light, two
@@ -288,57 +211,10 @@ the Aeronautics Branch was renamed the Bureau of Air
 Commerce. [Figure 1-9] Within this time frame, the Bureau
 of Air Commerce brought together a group of airlines
 
-BA
-q
-i
-|
-|
-|
-|
-\
-y
-,
-q
-i
-,
-,
-q
-q
-d
-,
-d
-y
-,
-yo
-j
-ees
-d
-|
-ij
-» |
-A
-y
-x
-a
-lode
-y
-yo
-j
--
-—_—_
-a
-dj
-|
-y
-|
-—_
-yo
-_—
-we
-My
-‘aa -_ R
-i|
 D-KC
+Figure 1-7. A standard airway beacon tower.
+Figure 1-8. The first pilot license was issued to William P.
+MacCracken, Jr.
 Figure 1-9. The third head of the Aeronautics Branch, Eugene
 L. Vidal, is flanked by President Franklin D. Roosevelt (left) and
 Secretary of Agriculture Henry A. Wallace (right). The photograph
@@ -348,135 +224,86 @@ new name more accurately reflected the status of the organization
 within the Department of Commerce.
 and encouraged them to form the first three Air Traffic
 Control (ATC) facilities along the established air routes.
-Figure 1-7. A standard airway beacon tower.
-Figure 1-8. Standard airway beacon installation.
 Then in 1936, the Bureau of Air Commerce took over the
-‘al UNITED STATES OF AMERICA
 responsibilities of operating the centers and continued to
-DEPARTMENT OF COMMERCE
-OFFICIAL NO.
 advance the ATC facilities. ATC has come a long way from
-oR Resse
 the early controllers using maps, chalkboards, and performing
-This Certifies, That
 mental math calculations in order to separate aircraft along
-whose photograph and signature accompany this license,
-WILLIAM P. MacCRACKEN, Jr.
 flight routes.
-isa
-PRIVATE PILOT
 The Civil Aeronautics Act of 1938
-of civil aircraft of the United States.
-The helder is not
-authorized
-to transport persons
-or property
-for hire or
 In 1938, the Civil Aeronautics Act transferred the civil
-reward.
-This license expires
-APYAL Sth,
-1928)
 aviation responsibilities to a newly created, independent
 body, named the Civil Aeronautics Authority (CAA). This
 Act empowered the CAA to regulate airfares and establish
 new routes for the airlines to service.
-ae
-UNITED STATES OF AMERICA
-PeYAERONAUTICS BRANCH
-TC
-Ce
 President Franklin Roosevelt split the CAA into two
 agencies—the Civil Aeronautics Administration (CAA)
-| 9K
-PILOT'S IDENTIFICATION CARD
 and the Civil Aeronautics Board (CAB). Both agencies
-6th dayof April
-This Identification Card, issued on the
-fu
-ed
 were still part of the Department of Commerce but the CAB
-, 197, accompanies 9)
-ae
 functioned independently of the Secretary of Commerce.
-Pilot’s License No. 1
-ie
-Age 38
-ke
-wr
-a.
 The role of the CAA was to facilitate ATC, certification of
-Weight 200.
-Color hair Brown
-‘ ey
 airmen and aircraft, rule enforcement, and the development
-Height 6*13"Color eyes Blue
-beatae
 of new airways. The CAB was charged with rule making to
-LD)
-“a
 enhance safety, accident investigation, and the economic
-rom Rit
-SSS
-Bilas Sigur.
 regulation of the airlines. Then in 1946, Congress gave the
 CAA the responsibility of administering the Federal Aid
-Figure 1-8. The first pilot license was issued to William P.
-MacCracken, Jr.
 1-5
 
 Airport Program. This program was designed to promote
-the future. The DOT began operation on April 1, 1967. At
 the establishment of civil airports throughout the country.
-this same time, the Federal Aviation Agency was renamed
-to the Federal Aviation Administration (FAA).
 The Federal Aviation Act of 1958
-The role of the CAB was assumed by the newly created
 By mid-century, air traffic had increased and jet aircraft had
-National Transportation Safety Board (NTSB), which was
 been introduced into the civil aviation arena. A series of
-charged with the investigation of all transportation accidents
 mid-air collisions underlined the need for more regulation
-within the United States.
 of the aviation industry. Aircraft were not only increasing in
 numbers, but were now streaking across the skies at much
-As aviation continued to grow, the FAA took on additional
 higher speeds. The Federal Aviation Act of 1958 established
-duties and responsibilities. With the highjacking epidemic
 a new independent body that assumed the roles of the CAA
-of the 1960s, the FAA was responsible for increasing the
 and transferred the rule making authority of the CAB to the
-security duties of aviation both on the ground and in the air.
 newly created Federal Aviation Agency (FAA). In addition,
-After September 11, 2001, the duties were transferred to
 the FAA was given complete control of the common civil-
-a newly created body called the Department of Homeland
 military system of air navigation and ATC. The man who
-Security (DHS).
 was given the honor of being the first Administrator of the
 FAA was former Air Force General Elwood Richard “Pete”
-With numerous aircraft flying in and out of larger cities, the
 Quesada. He served as the administrator from 1959–1961.
-FAA began to concentrate on the environmental aspect of
 [Figure 1-10]
-aviation by establishing and regulating the noise standards
 Department of Transportation (DOT)
-of aircraft. Additionally, in the 1960s and 1970s, the FAA
-began to regulate high altitude (over 500 feet) kite and balloon
 On October 15, 1966, Congress established the Department
-flying. In 1970, more duties were assumed by the FAA in the
 of Transportation (DOT), which was given oversight of the
-addition of a new federal airport aid program and increased
 transportation industry within the United States. The result
-responsibility for airport safety.
 was a combination of both air and surface transportation. Its
 mission was and is to serve the United States by ensuring a
-ATC Automation
 fast, safe, efficient, accessible, and convenient transportation
-By the mid-1970s, the FAA had achieved a semi-automated
 system meeting vital national interests and enhancing the
-ATC system based on a marriage of radar and computer
 quality of life of the American people, then, now, and into
+Figure 1-10. First Administrator of the FAA was General Elwood
+Richard “Pete” Quesada, 1959–1961.
+1-6
+the future. The DOT began operation on April 1, 1967. At
+this same time, the Federal Aviation Agency was renamed
+to the Federal Aviation Administration (FAA).
+The role of the CAB was assumed by the newly created
+National Transportation Safety Board (NTSB), which was
+charged with the investigation of all transportation accidents
+within the United States.
+As aviation continued to grow, the FAA took on additional
+duties and responsibilities. With the highjacking epidemic
+of the 1960s, the FAA was responsible for increasing the
+security duties of aviation both on the ground and in the air.
+After September 11, 2001, the duties were transferred to
+a newly created body called the Department of Homeland
+Security (DHS).
+With numerous aircraft flying in and out of larger cities, the
+FAA began to concentrate on the environmental aspect of
+aviation by establishing and regulating the noise standards
+of aircraft. Additionally, in the 1960s and 1970s, the FAA
+began to regulate high altitude (over 500 feet) kite and balloon
+flying. In 1970, more duties were assumed by the FAA in the
+addition of a new federal airport aid program and increased
+responsibility for airport safety.
+ATC Automation
+By the mid-1970s, the FAA had achieved a semi-automated
+ATC system based on a marriage of radar and computer
 technology. By automating certain routine tasks, the system
 allowed controllers to concentrate more efficiently on the
 vital task of providing aircraft separation. Data appearing
@@ -489,27 +316,16 @@ created by the Airline Deregulation Act of 1978. This law
 phased out CAB’s economic regulation of the airlines, and
 CAB ceased to exist at the end of 1984.
 To meet the challenge of traffic growth, the FAA unveiled
-|
 the National Airspace System (NAS) Plan in January
 1982. The new plan called for more advanced systems
-—_Z
-=”
-~
-“
-y
-*
 for en route and terminal ATC, modernized flight service
 stations, and improvements in ground-to-air surveillance
 and communication.
 The Professional Air Traffic Controllers
-eer
 Organization (PATCO) Strike
 While preparing the NAS Plan, the FAA faced a strike
 by key members of its workforce. An earlier period of
-Figure 1-10. First Administrator of the FAA was General Elwood
 discord between management and the Professional Air
-Richard “Pete” Quesada, 1959–1961.
-1-6
 
 Traffic Controllers Organization (PATCO) culminated in a
 1970 “sickout” by 3,000 controllers. Although controllers
@@ -594,12 +410,8 @@ in Figure 1-12.
 For the pilot, certain parts of 14 CFR are more relevant
 than others. During flight training, it is helpful for the pilot
 to become familiar with the parts and subparts that relate
-ee 2 Res Cy
-NOW Ene aS) ayq
 Figure 1-11. President Jimmy Carter signs the Airline Deregulation
 Act in late 1978.
-Sh)
-|
 1-7
 
 Code of Federal Regulations
@@ -747,10 +559,7 @@ FAA Safety Team (FAASTeam)
 The FAA is dedicated to improving the safety of United
 States civilian aviation by conveying safety principles and
 practices through training, outreach, and education. The FAA
-—
-<-o
 Figure 1-13. Atlanta Flight Standards District Office (FSDO).
-ERa,,
 Safety Team (FAASTeam) exemplifies this commitment.
 The FAASTeam has replaced the Aviation Safety Program
 (ASP), whose education of airmen on all types of safety
@@ -800,13 +609,6 @@ airports, is also available. The AIM also contains information
 of interest to pilots, such as health and medical facts, flight
 1-9
 
-a
-e
-Aeronautical
-Information
-Maal penne
-nd TG Poors
-ofaal
 Figure 1-14. Aeronautical Information Manual.
 safety, a pilot/controller glossary of terms used in the
 system, and information on safety, accidents, and reporting
@@ -889,46 +691,19 @@ may be needed to:
 Provide an acceptable, clearly understood method for
 complying with a regulation
 
--
-a
-Cherokee Archer Il
-~,
-Pilot's Operating Handbook
-%
-Pilot’s Operating Handbook
-And Flight Training Supplement
-‘
-“
-ERJ-170
-See
-. =
-Pilot
-pide
-Operating
-Handbook
 Figure 1-16. Pilot Operating Handbooks from manufacturers.
-Flight Publications
 •
 Standardize implementation of a regulation or
 harmonize implementation for the international
-The FAA, in concert with other government agencies,
 aviation community
-orchestrates the publication and changes to publications
-that are key to safe flight. Figure 1-18 illustrates some
 •
 Resolve a general misunderstanding of a regulation
-publications a pilot may use.
 •
 Respond to a request from some government entity,
 such as General Accounting Office, NTSB, or the
 Office of the Inspector General
-a
 •
 Help the industry and FAA effectively implement a
-Same
-Adviso!
-&
-Circular,
 regulation
 •
 Explain requirements and limits of an FAA grant
@@ -947,236 +722,78 @@ this sequence. The third part of the number is a letter assigned
 by the originating office and shows the revision sequence if
 an AC is revised. The first version of an AC does not have
 a revision letter. In Figure 1-17, this is the fifth revision, as
-Figure 1-17. Example of an Advisory Circular in its fifth revision.
 designated by the “E.”
+Flight Publications
+The FAA, in concert with other government agencies,
+orchestrates the publication and changes to publications
+that are key to safe flight. Figure 1-18 illustrates some
+publications a pilot may use.
+Figure 1-17. Example of an Advisory Circular in its fifth revision.
 1-11
 
-|
-a
-\ poeeeea4
-N
-E
-V
-A
-D
-A
-a2
-UNITED STATES:
-Sa ea co
-ALAMO LANDING FLD
-(L92)
-2 W
-UTC
-8(
-7DT)
-N37°21.75 W115°11.67
-LAS VEGAS
-sectionaU
-EE
-NOTAM FILE RNO
-82"
-RWY 14–32:5000X120 (DIRT)
-RWY 14:Brush.
-RWY 32:Berm.
-|
-Se
-ta
-RWY 15–33:2500X70 (DIRT)
-SSee
-RWY 15:Berm.
-RWY 33:Berm.
-Unattended. Uncontrolled vehicle access. No line of sight between rwy ends. Rwys 15–33 and Rwy
-AIRPORT REMARKS:
-14–32 livestock in vicinity of rwys.
-122.9
-COMMUNICATIONS: CTAF
-p
-7S
-AUSTIN (TMT)
-4 SW
-UTC
-8(
-7DT)
-N39°28.08 W117°11.72
-LAS VEGAS
-weah
-B
-NOTAM FILE RNO
-H–3C, L–9B
-oe
-RWY 18–36:H6000X75 (ASPH)
-S–30
-MIRL
-RWY 18:REIL. PAPI(P2L)—GA 3.0 ° TCH 40 .
-RWY 36:REIL. PAPI(P2L)—GA 3.0 ° TCH 40 . Fence.
-Unattended. Military acft opr in vicinity of arpt. ACTIVATE MIRL Rwy 18–36, PAPI Rwys 18 and 36,
-AIRPORT REMARKS:
-pe
-os2. ===
-REIL Rwy 18 and 36—CTAF.
-AWOS–3PT 132.925 (775) 964–1144.
-WEATHER DATA SOURCES:
-122.9
-COMMUNICATIONS: CTAF
-NOTAM FILE RNO.
-RADIO AIDS TO NAVIGATION:
-a 2
-N38 °33.92 W118°01.97
-019° 66.7 NM to fld. 7860/17E.
-115.1
-MVA
-Chan 98
-MINA (H) VORTAC
-HIWAS.
-BATTLE MOUNTAIN(BAM)
-3 SE
-UTC
-8(
-7DT)
-N40°35.94 W116°52.46
-SALT LAKE CITY
-B
-S4
-FUEL 100LL, JET A
-NOTAM FILE RNO
-H–3C, L–9B, 11B
-Samcoal
-RWY 12–30:H7302X150 (ASPH)
-S–30, D–104, 2S–132
-MIRL
-IAP
-RWY 03–21:H7299X150 (ASPH)
-S–30, D–125, 2S–159
-MIRL
-RWY 03:VASI(V2R)—GA 3.0 ° TCH 26 .
-RWY 21:PAPI(P4L)—GA 3.0 ° TCH 45 .
-Attended Oct–May 1500–0100Z ‡, Jun–Sep
-AIRPORT REMARKS:
-1500–0200Z‡. After hrs call 775–635–2245. ACTIVATE MIRL Rwy
-03–21 and Rwy 12–30, and perimeter lgts H1—CTAF.
-ape as. eas ite ca
-AWOS–3 119.45 (775) 635–8419.
-WEATHER DATA SOURCES:
-122.8
-COMMUNICATIONS: CTAF/UNICOM
-MT LEWIS RCO122.65 (RENO RADIO)
-132.25
-SALT LAKE CENTER APP/DEP CON
-oe
-NOTAM FILE RNO.
-RADIO AIDS TO NAVIGATION:
-(H) VORTACW112.2
-BAM
-Chan 59
-N40 °34.15
-W116°55.34
-033° 2.8 NM to fld. 4536/18E.
-== bg
-VORTAC unusable:
-050°–060° byd 30 NM blo 12,000
-115°–165° byd 15 NM blo 12,000
-ae
-255°–290° byd 15 NM blo 12,000
-an
-DME unusable 246 °–255° byd 34 NM blo 14,000
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-•
-HELIPAD H1:H60X60 (CONC)
-HELIPAD H2:H60X60 (CONC)
-Rwy H1 perimeter lights. ACTIVATE MIRL Rwy 03–21 and Rwy 12–30, and perimeter lgts
-HELIPORT REMARKS:
-H1—CTAF.
-Fanpet0: Ane
-=— oe | t= |S
-mann
-SS"
-‘COOOL
-Cy
-[AERA MANE
-[feeCaO
-NSN ronio\etones
-Ld
-Se Ee
-EEN
-OHTANY
-,
 Figure 1-18. From left to right, a sectional VFR chart, IFR chart, and chart supplement U.S. (formerly Airport/Facility Directory) with
 a sample of a page from the supplement.
 Pilot and Aeronautical Information
-•
-Notification of an operationally significant change in
-volcanic ash or other dust contamination (an ASHTAM)
 Notices to Airmen (NOTAMs)
 Notices to Airmen, or NOTAMs, are time-critical aeronautical
-•
-Software code risk announcements with associated
 information either temporary in nature or not sufficiently
-patches to reduce specific vulnerabilities
 known in advance to permit publication on aeronautical
 charts or in other operational publications. The information
-NOTAM information is generally classified into four
 receives immediate dissemination via the National Notice to
-categories: NOTAM (D) or NOTAMs that receive distant
 Airmen (NOTAM) System. NOTAMs contain current notices
-dissemination, distant and Flight Data Center (FDC)
 to airmen that are considered essential to the safety of flight,
-NOTAMs, Pointer NOTAMs, and Military NOTAMs
 as well as supplemental data affecting other operational
-pertaining to military airports or NAVAIDs that are part of the
 publications. There are many different reasons that NOTAMs
-NAS. NOTAMs are available through Flight Service Station
 are issued. Following are some of those reasons:
-(FSS), Direct User Access Terminal Service (DUATS),
-private vendors, and many online websites.
 •
 Hazards, such as air shows, parachute jumps, kite
 flying, and rocket launches
-NOTAM (D) Information
 •
 Flights by important people such as heads of state
-NOTAM (D) information is disseminated for all navigational
 •
 Closed runways
-facilities that are part of the NAS, and all public use airports,
-seaplane bases, and heliports listed in the Chart Supplement
 •
 Inoperable radio navigational aids
-U.S. (formerly Airport/Facility Directory). NOTAM (D)
 •
 Military exercises with resulting airspace restrictions
-information now includes such data as taxiway closures,
 •
 Inoperable lights on tall obstructions
-personnel and equipment near or crossing runways, and
-airport lighting aids that do not affect instrument approach
 •
 Temporary erection of obstacles near airfields
-criteria, such as visual approach slope indicator (VASI).
 •
 Passage of flocks of birds through airspace (a NOTAM
-All D NOTAMs are required to have one of the following
 in this category is known as a BIRDTAM)
-keywords as the first part of the text: RWY, TWY, RAMP,
 •
 Notifications of runway/taxiway/apron status with
-APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U),
 respect to snow, ice, and standing water (a SNOWTAM)
-or (O). [Figure 1-19]
 1-12
+•
+Notification of an operationally significant change in
+volcanic ash or other dust contamination (an ASHTAM)
+•
+Software code risk announcements with associated
+patches to reduce specific vulnerabilities
+NOTAM information is generally classified into four
+categories: NOTAM (D) or NOTAMs that receive distant
+dissemination, distant and Flight Data Center (FDC)
+NOTAMs, Pointer NOTAMs, and Military NOTAMs
+pertaining to military airports or NAVAIDs that are part of the
+NAS. NOTAMs are available through Flight Service Station
+(FSS), Direct User Access Terminal Service (DUATS),
+private vendors, and many online websites.
+NOTAM (D) Information
+NOTAM (D) information is disseminated for all navigational
+facilities that are part of the NAS, and all public use airports,
+seaplane bases, and heliports listed in the Chart Supplement
+U.S. (formerly Airport/Facility Directory). NOTAM (D)
+information now includes such data as taxiway closures,
+personnel and equipment near or crossing runways, and
+airport lighting aids that do not affect instrument approach
+criteria, such as visual approach slope indicator (VASI).
+All D NOTAMs are required to have one of the following
+keywords as the first part of the text: RWY, TWY, RAMP,
+APRON, AD, OBST, NAV, COM, SVC, AIRSPACE, (U),
+or (O). [Figure 1-19]
 
 FDC NOTAMs
 FDC NOTAMs are issued by the National Flight Data
@@ -1522,95 +1139,65 @@ privileges, and limitations of airmen, means
 1-15
 
 a specific make and basic model of aircraft,
-•
-Privileges—define where and when the pilot may fly,
 Including modifications thereto that do not
-with whom they may fly, the purpose of the flight, and
 change its handling or flight characteristics.
-the type of aircraft they are allowed to fly.
 Examples include: 737-700, G-IV, and 1900; and
-•
-Limitations—the FAA may impose limitations on a
 2. As used with respect to the certification of
-pilot certificate if, during training or the practical test,
 aircraft, means those aircraft which are similar
-the pilot does not demonstrate all skills necessary to
 in design. Examples include: 737-700 and 737-
-exercise all privileges of a privilege level, category,
 700C; G-IV and G-IV-X; and 1900 and 1900C.
-class, or type rating.
-Endorsements, a form of authorization, are written to establish
 This system of definitions allows the FAA to group and
-that the certificate holder has received training in specific skill
 regulate aircraft to provide for their safe operation.
-areas. Endorsements are written and signed by an authorized
-individual, usually a certificated flight instructor (CFI), and
 Pilot Certifications
-are based on aircraft classification. [Figure 1-21]
 The type of intended flying influences what type of pilot’s
 certificate is required. Eligibility, training, experience,
-Sport Pilot
 and testing requirements differ depending on the type of
-To become a sport pilot, the student pilot is required to have
 certificates sought. [Figure 1-20] Each type of pilot’s
-flown, at a minimum, the following hours depending upon
 certificate has privileges and limitations that are inherent
-the aircraft:
 within the certificate itself. However, other privileges and
-•
-Airplane: 20 hours
 limitations may be applicable based on the aircraft type,
-•
-Powered Parachute: 12 hours
 operation being conducted, and the type of certificate.
 For example, a certain certificate may have privileges and
+limitations under 14 CFR part 61 and part 91.
+Figure 1-20. Front side (top) and back side (bottom) of an airman
+certificate issued by the FAA.
+1-16
+•
+Privileges—define where and when the pilot may fly,
+with whom they may fly, the purpose of the flight, and
+the type of aircraft they are allowed to fly.
+•
+Limitations—the FAA may impose limitations on a
+pilot certificate if, during training or the practical test,
+the pilot does not demonstrate all skills necessary to
+exercise all privileges of a privilege level, category,
+class, or type rating.
+Endorsements, a form of authorization, are written to establish
+that the certificate holder has received training in specific skill
+areas. Endorsements are written and signed by an authorized
+individual, usually a certificated flight instructor (CFI), and
+are based on aircraft classification. [Figure 1-21]
+Sport Pilot
+To become a sport pilot, the student pilot is required to have
+flown, at a minimum, the following hours depending upon
+the aircraft:
+•
+Airplane: 20 hours
+•
+Powered Parachute: 12 hours
 •
 Weight-Shift Control (Trikes): 20 hours
-limitations under 14 CFR part 61 and part 91.
 •
 Glider: 10 hours
 •
 Rotorcraft (gyroplane only): 20 hours
-NITED STATES|OF AMERICA
-x
-ay
 •
 Lighter-Than-Air: 20 hours (airship) or 7 hours
 (balloon)
-)
--UB
-HX XHXXHKXH
-KAKA
-AKAKK,
-|
-ADDRESS
-XX
-XXX
-HXHXXXHXXKXKXAXKXKK,
-|
 To earn a Sport Pilot Certificate, one must:
-9XHXXIKHAKHHIHHIAAIEX
-EXXKXRXXXXKHXXKKK
-|
 •
 Be at least 16 years old to become a student sport pilot
-LITY
-USA wT
-SEX HEIGHT WEIGHT HAIR
-EYES
-1AS
-Fe
-i
-1)
-7280.
-BROWN BROWN
 (14 years old for gliders or balloons)
-BEN
-FOUNOITA
-BY PAoPEHLY
-GUALIED
-TO EXERCISE
-THE PRIVILEGESOF
 •
 Be at least 17 years old to test for a sport pilot
 certificate (16 years old for gliders or balloons)
@@ -1620,54 +1207,19 @@ language
 •
 Hold a current and valid driver’s license as evidence
 of medical eligibility
-[ sexxeicoraicocreaxe3xecxeaa9oKARORHAEKOIOOKK we oR
-|
-Sage
-XI RATINGS
-|
 When operating as a sport pilot, some of the following
-Doaenmtacocavocoacommooucooancoonoooau
-oon Cava
-XXXKXY
-BOOKXIII XNIAIK XXII
-XXX XII
-HIHEHN HHI
 privileges and limitations may apply.
-re
-IIIIIIII III HI
-«x
-WOOO O00 UI 00 0000010 00K I
-III
-XKKHAKIKIRK IHIHHI
-HA CIIIIH THIIIOCK
 Privileges:
 •
 Operate as pilot in command (PIC) of a light-sport
-OOK
-XXRK XXX XXKKOOO
-OERIAEOODRIOEXIOKIOX KIN
-KKK
-OOOO
-poongoing XXIII AHIR
-RKIII KKK
-OIE
-KK
-Xx
-"a
 aircraft
-oo
-vs
-:
 •
 Carry a passenger and share expenses (fuel, oil, airport
 expenses, and aircraft rental)
 •
 Fly during the daytime using VFR, a minimum of
 3 statute miles visibility and visual contact with the
-Figure 1-20. Front side (top) and back side (bottom) of an airman
 ground are required
-certificate issued by the FAA.
-1-16
 
 Recreational pilot to conduct solo flights for the purpose of obtaining an additional certificate or rating while under
 the supervision of an authorized flight instructor: section 61.101(i).
@@ -1764,96 +1316,67 @@ Pilot Certificate is the certificate held by the majority of
 
 active pilots. It allows command of any aircraft (subject
 to appropriate ratings) for any noncommercial purpose
-he: , = A
-=~
-kl fe ss
 and gives almost unlimited authority to fly under VFR.
 Passengers may be carried and flight in furtherance of a
-“
-i) |)
 business is permitted; however, a private pilot may not be
 compensated in any way for services as a pilot, although
-he,
-ee
-F.
 passengers can pay a pro rata share of flight expenses, such
 as fuel or rental costs. If training under 14 CFR part 61,
 experience requirements include at least 40 hours of piloting
 time, including 20 hours of flight with an instructor and 10
 hours of solo flight. [Figure 1-22]
-Figure 1-23. A complex aircraft.
 Commercial Pilot
-and understand the English language, and be “of good moral
 A commercial pilot may be compensated for flying. Training
-standing.” A pilot may obtain an ATP certificate with restricted
 for the certificate focuses on a better understanding of
-privileges enabling him/her to serve as an SIC in scheduled
 aircraft systems and a higher standard of airmanship. The
-airline operations. The minimum pilot experience is reduced
 Commercial Pilot Certificate itself does not allow a pilot
-based upon specific academic and flight training experience.
 to fly in instrument meteorological conditions (IMC), and
-The minimum age to be eligible is 21 years. [Figure 1-24]
 commercial pilots without an instrument rating are restricted
 to daytime flight within 50 NM when flying for hire.
-Selecting a Flight School
 A commercial airplane pilot must be able to operate
-Selecting a flight school is an important consideration in
 a complex airplane, as a specific number of hours of
-the flight training process. FAA-approved training centers,
 complex (or turbine-powered) aircraft time are among
-FAA-approved pilot schools, noncertificated flying schools,
 the prerequisites, and at least a portion of the practical
-and independent flight instructors conduct flight training in
 examination is performed in a complex aircraft. A complex
-the United States. All flight training is conducted under the
 aircraft must have retractable landing gear, movable flaps,
-auspices of the FAA following the regulations outlined in
 and a controllable-pitch propeller. See 14 CFR part 61,
-14 CFR parts 142, 141, or 61. Training centers, also referred
 section 61.31(e) for additional information. [Figure 1-23]
+Airline Transport Pilot
+The airline transport pilot (ATP) is tested to the highest level
+of piloting ability. The ATP certificate is a prerequisite for
+serving as a PIC and second in command (SIC) of scheduled
+airline operations. It is also a prerequisite for serving as a PIC
+in select charter and fractional operations. The minimum pilot
+experience is 1,500 hours of flight time. In addition, the pilot
+must be at least 23 years of age, be able to read, write, speak,
+Figure 1-22. A typical aircraft a private pilot might fly.
+1-18
+Figure 1-23. A complex aircraft.
+and understand the English language, and be “of good moral
+standing.” A pilot may obtain an ATP certificate with restricted
+privileges enabling him/her to serve as an SIC in scheduled
+airline operations. The minimum pilot experience is reduced
+based upon specific academic and flight training experience.
+The minimum age to be eligible is 21 years. [Figure 1-24]
+Selecting a Flight School
+Selecting a flight school is an important consideration in
+the flight training process. FAA-approved training centers,
+FAA-approved pilot schools, noncertificated flying schools,
+and independent flight instructors conduct flight training in
+the United States. All flight training is conducted under the
+auspices of the FAA following the regulations outlined in
+14 CFR parts 142, 141, or 61. Training centers, also referred
 to as flight academies, operate under 14 CFR part 142 and
 are certificated by the FAA. Application for certification
-Airline Transport Pilot
 is voluntary and the training center must meet stringent
-The airline transport pilot (ATP) is tested to the highest level
 requirements for personnel, equipment, maintenance,
-of piloting ability. The ATP certificate is a prerequisite for
 facilities, and must teach a curriculum approved by the
-serving as a PIC and second in command (SIC) of scheduled
 FAA. Training centers typically utilize a number of flight
-airline operations. It is also a prerequisite for serving as a PIC
 simulation training devices as part of its curricula. Flight
-in select charter and fractional operations. The minimum pilot
 training conducted at a training center is primarily done
-experience is 1,500 hours of flight time. In addition, the pilot
 under contract to airlines and other commercial operators
-must be at least 23 years of age, be able to read, write, speak,
 in transport or turbine aircraft, however many also provide
-L/
-I
-“al
-ye wr
-hana
-t
-= —= %
-Ds
-a aOrINe
--
-ee
-ae
-—
-aa
-.
-——
-aaa = — =
-SR
-eee
-a
-a
-Figure 1-22. A typical aircraft a private pilot might fly.
 Figure 1-24. Type of aircraft flown by an airline transport pilot.
-1-18
 
 flight training for the private pilot certificate, commercial
 pilot certificate, instrument rating, and ATP certificate.
@@ -2161,445 +1684,58 @@ testing/test_guides/.
 1-21
 
 When To Take the Knowledge Test
-knowledge and skill must be demonstrated by the applicant.
-Since the FAA requires all practical tests be conducted in
 The knowledge test is more meaningful to the applicant
-accordance with the appropriate PTS and the policies set forth
 and more likely to result in a satisfactory grade if it is taken
-in the Introduction section of the PTS book. The pilot applicant
 after beginning the flight portion of the training. Therefore,
-should become familiar with this book during training.
 the FAA recommends the knowledge test be taken after the
 student pilot has completed a solo cross-country flight. The
-The PTS book is a testing document and not intended to be
 operational knowledge gained by this experience can be used
-a training syllabus. An appropriately-rated flight instructor
 to the student’s advantage in the knowledge test. The student
-is responsible for training the pilot applicant to acceptable
 pilot’s CFI is the best person to determine when the applicant
-standards in all subject matter areas, procedures, and
 is ready to take the knowledge test.
-maneuvers. Descriptions of tasks and information on how to
-perform maneuvers and procedures are contained in reference
 Practical Test
-and teaching documents such as this handbook. A list of
 The FAA has developed PTS for FAA pilot certificates
-reference documents is contained in the Introduction section
 and associated ratings. [Figure 1-25] In 2015, the FAA
-of each PTS book. Copies may obtained by:
 began transitioning to the ACS approach. The ACS is
 essentially an “enhanced” version of the PTS. It adds task-
-•
-Downloading from the FAA website at www.faa.gov
 specific knowledge and risk management elements to each
-•
-Purchasing print copies from the GPO, Pittsburgh,
 PTS Area of Operation and Task. The result is a holistic,
-Pennsylvania, or via their official online bookstore
 integrated presentation of specific knowledge, skills, and
-at www.access.gpo.gov
 risk management elements and performance metrics for each
 Area of Operation and Task The ACS evaluation program
-The flight proficiency maneuvers listed in 14 CFR part 61
 will eventually replace the PTS program for evaluating and
-are the standard skill requirements for certification. They
 certifying pilots.
-are outlined in the PTS as “areas of operation.” These are
-phases of the practical test arranged in a logical sequence
 The practical tests are administered by FAA ASIs and DPEs.
-within the standard. They begin with preflight preparation
 Title 14 CFR part 61 specifies the areas of operation in which
-and end with postflight procedures. Each area of operation
-FAA-S-8081-12C
-|
-|
-publication(s) that describes the TASK.
-Practical Test Standard Concept
-identifies the
-REFERENCE
-Descriptions of TASKS are not included in the standards because this,
-FAA-S-8081-14B
-Practical Test Standard Concept
-listed for each TASK,
-Title 14
-US.Depariment
-information ean be found in the REFERENCES
-of
-the Code of Federal Regulations (14 CFR) part 61 specifies,
-|
-REFERENCE
-Publications other than those listed may be used as references if their
-of Transportation
-identifies the
-the areas
-the Code of Federal Regulations (14 CFR) part 61 specifies,
-in which knowledge and skill shall be demonstrated by an
-publication(s) that describes the TASK.
-Descriptions of TASKS are not included in the standards because this,
-content conveys substantially the same meaning as the referenced
-applicant before issuance of @ commercial
-of
-Federal Aviation
-Title 14
-in which knowledge and skill shall be demonstrated by an
-information ean be found in the REFERENCES
-current
-FAA-S-8081-8B
-associated category and
-the
-Administration
-include
-pilot certifeate with
-the areas
-this book
-containing specific TASKS in which competency shall be demonstrated
-pilot certifeate with the
-in
-listed
-REFERENCES
-US.Depariment
-Publications other than those listed may be used as references if their
-the
-class ratings.
-applicant before issuance of @ commercial
-of the folowing publications:
-Publication.
-listed for each TASK,
-This regulation provides the
-flexibity
-that
-of Transportation
-permits
-This regulation provides the
-content conveys substantially the same meaning as the referenced
-the FAA
-revisions
-class ratings.
-to
-publish
-associated category and
-practical
-are needed in the interest of safety.
-test standards
-test standards
-and Abbreviations
-containing specific TASKS in which competency shall be demonstrated
-Publication.
-Federal Aviation
-practical
-publish
-REFERENCES
-to
-the FAA
-The FAA will revise this book whenever
-US.Depariment
-revisionsof the folowing publications:
-permits
-that
-Definitions
-listed
-flexibity
-in
-Administration
-this book
-14CFR part
-include
-of Transportation
-the
-itis determined that changes
-current
-Maintenance, Preventative Maintenance,
-itis determined that changes
-are needed in the interest of safety.
-14CFR part 43.
-Adherence to the provisions of the
-The FAA will revise this book whenever
-Federal Aviation
-regulations ang the practical test stancards is mandatory for evaluation
-Rebuilding, and Alteration
-Adherence to the provisions of the
-14CFR part
-and Abbreviations
-Administration
-of commercial plat apalicants.
-Definitions
-Certfication: Plots and Flight Instructors
-regulations ang the practical test stancards is mandatory for evaluation
-14CFR part 43.
-AACFR part 61
-Maintenance,
-Practical Test Book Description
-General Operating and Flight Rules,
-Notification and Reporting of Aircraft Accidents
-Preventative Maintenance,
-14CFR part91
-Rebuilding, and Alteration
-of commercial plat apalicants.
-NTSB 830
-AACFR part 61
-Certfication:
-ighter-than-ait
-Plots and Flight Instructors
-Practical Test Book Description
-14CFR part91
-‘and Incidents
-Advisory Circular Checklist
-NTSB 830
-This book contains the practical
-General Operating and Flight Rules,
-Notification and Reporting of Aircraft Accidents
-Ac 00-2
-test stancards for commercial plot—
-test stancards for commercial plot—
-‘Aviation Weather
-ighter-than-ait
-Ac 00-2
-AC 00-6
-‘and Incidents
-Section 1
-This book contains the practical
-Advisory Circular Checklist
-Lighter-Than-Air, Balloon
-‘Aviation Weather Services
-‘Aviation Instructor's Handbook
-AC 00-45
-AC 60-14
-AC 00-6
-Section 2
-‘Aviation Weather
-Lighter-Than-Air, Airship
-Lighter-Than-Air, Balloon
-AC 00-45
-Flight Training Handbook
-AC 60-14
-Section 1
-‘Aviation Weather Services
-AC 61.21
-Include the AREAS OF OPERATION anc TASKS for the issuance of
-‘Aviation Instructor's Handbook
-Pilot's Handbook of Aeronautical Knowledge
-and Flight Instructors
-The Commercial
-fan
-AC 61-23
-Lighter-Than-Air, Airship
-Plot —
-AC 61.21
-Lighter-Than-Air
-Section 2
-Cettfcation: Pilots
-Stall Spin Awareness Training
-Practical
-Flight Training Handbook
-Test Standards
-AC 61-65
-AC 61-67
-AC 61-23
-initial
-Test Standards
-Pilot's Handbook of Aeronautical Knowledge
-Include the AREAS OF OPERATION anc TASKS for the issuance of
-commercial
-Practical
-Plot — Lighter-Than-Air
-pilot certificate and for the addition
-AC 61-65
-The Commercial
-AC 61-67
-and Flight Instructors
-Role of Prefight Preparation
-andlor class ratings to that cetineate
-Cettfcation: Pilots
-fan
-Stall Spin Awareness Training
-of
-AC 61-84
-category
-Currency and Additional Qualifeation
-category
-of
-pilot certificate and for the addition
-AC 61.98
-AC 61-84
-commercial
-Requirements for Certificated Pilots
-Practical Test Standard Description
-initial
-Role of Prefight Preparation
-AREAS OF OPERATION ate phases of the practical test arranged
-AC 61.98
-andlor class ratings to that cetineate
-Presolo Written Test
-Currency and Additional Qualifeation
-Pilots’ Role in Colision Avoidance
-Ac 61-401
-AC 90-48
-Requirements for Certificated Pilots
-Ac 61-401
-Practical Test Standard Description
-AC 90-48
-logieal sequence within each standard.
-Cold Weather Operation of Aircraft
-Presolo Written Test
-Pilots’ Role in Colision Avoidance
-AREAS OF OPERATION ate phases of the practical test arranged
-in
-AC 91-43
-a
-They begin with Fundamentals
-of
-Operation of Hot Air Balloons with
-Instructing
-a
-and
-in
-end
-with
-AC 91-43
-Acat71
-Postfight
-knowiedge areas,
-Procedures.
-Cold Weather Operation of Aircraft
-AREA OF OPERATION. However, the examiner may conduct the
-Airborne Heaters
-They begin with Fundamentals
-TASKS
-flight procedures, or maneuvers appropriate
-Acat71
-are
-logieal sequence within each standard.
-Operation of Hot Air Balloons with
-test
-Airgortacilty Directory
-‘Aeronautical Information Manual
-are
-TASKS
-to an
-Procedures.
-Postfight
-AFD
-with
-practical test in any sequence that results in @ complete and efficient
-AIM
-end
-and
-Airborne Heaters
-Instructing
-of
-to an
-flight procedures, or maneuvers appropriate
-to airmen
-AREA OF OPERATION. However, the examiner may conduct the
-AFD
-AIM
-Airgortacilty Directory
-In Section
-knowiedge areas,
-‘Aeronautical Information Manual
-Notices
-NOTAM's
-Balloon Digest (Balloon Federation of America)
-How To FlyA Balloon (Balloon Publishing Co.)
-to airmen
-practical test in any sequence that results in @ complete and efficient
-NOTAM's
-test
-Other
-Notices
-TASK title refers to the type of balloon to which that TASK applies.
-|, an abbreviation within parentheses immediately following @
-Other
-Balloon Digest (Balloon Federation of America)
-balloons.
-Aerostatics (US Air Corps)
-Balloon and Airship Flight Manuals
-How To FlyA Balloon (Balloon Publishing Co.)
-In Section
-Absence of an abbreviation
-Equipment Operations Manuals
-|, an abbreviation within parentheses immediately following @
-indicates the TASK
-TASK title refers to the type of balloon to which that TASK applies.
-Aerostatics (US Air Corps)
-is appropriate for al
-Balloon and Airship Flight Manuals
-Navigation
-LBG — Lighter-Than-Air, Balloon (Gas)
-Selected Navigation Charts
-Equipment Operations Manuals
-is appropriate for al
-balloons.
-indicates the TASK
-Navigation
-Absence of an abbreviation
-Each TASK has an Objective consisting of a series of elements, The
-BH
-Selected Navigation Charts
-Lighter-Than-Air,
-Balloon (with Alrbome Heater)
-Each TASK has an Objective consisting of a series of elements, The
-the TASK Objective
-LBG — Lighter-Than-Air, Balloon (Gas)
-examiner determines that the applicant meets
-NOTE
-is used
-to emphasize
-of
-elements
-examiner determines that the applicant meets
-various
-special
-in
-competency
-considerations required
-AREA OF OPERATION or TASK
-of
-Balloon (with Alrbome Heater)
-the demonstration
-through
-in certain AREAS
-Lighter-Than-Air,
-in
-through
-the
-the TASK Objective
-of TASKS
-BH
-the demonstration
-The Objectives
-knowledge ancior skill
-of
-competency
-knowledge ancior skill
-Instructing and Tecnica
-in
-various
-suen as Fundamentals of
-in the
-elements
-considerations required
-The Objectives
-of
-OF OPERATION,
-special
-of TASKS
-to emphasize
-OF OPERATION,
-is used
-in certain AREAS
-NOTE
-suen as Fundamentals of
-Subjects, include only knowledge elements
-FaAs-081-18
-AREA OF OPERATION or TASK
-Subjects, include only knowledge elements
-Instructing and Tecnica
-FaAS-081-18
-FaAS-081-18
-FaAs-081-18
 Figure 1-25. Examples of Practical Test Standards.
 1-22
+knowledge and skill must be demonstrated by the applicant.
+Since the FAA requires all practical tests be conducted in
+accordance with the appropriate PTS and the policies set forth
+in the Introduction section of the PTS book. The pilot applicant
+should become familiar with this book during training.
+The PTS book is a testing document and not intended to be
+a training syllabus. An appropriately-rated flight instructor
+is responsible for training the pilot applicant to acceptable
+standards in all subject matter areas, procedures, and
+maneuvers. Descriptions of tasks and information on how to
+perform maneuvers and procedures are contained in reference
+and teaching documents such as this handbook. A list of
+reference documents is contained in the Introduction section
+of each PTS book. Copies may obtained by:
+•
+Downloading from the FAA website at www.faa.gov
+•
+Purchasing print copies from the GPO, Pittsburgh,
+Pennsylvania, or via their official online bookstore
+at www.access.gpo.gov
+The flight proficiency maneuvers listed in 14 CFR part 61
+are the standard skill requirements for certification. They
+are outlined in the PTS as “areas of operation.” These are
+phases of the practical test arranged in a logical sequence
+within the standard. They begin with preflight preparation
+and end with postflight procedures. Each area of operation
+FAA-S-8081-8B
 
 contains “tasks,” which are comprised of knowledge areas,
 flight procedures, and/or flight maneuvers appropriate to the

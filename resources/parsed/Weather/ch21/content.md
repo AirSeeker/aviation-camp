@@ -1,33 +1,6 @@
-This chapter also covers Arctic aviation weather hazards. —
-21 Arctic Weather
-21.1 Introduction
-Strictly speaking, the Arctic is the region shown in Figure 21-1, which lies within the Arctic Circle (66.5° N
-latitude). However, it is loosely defined as the northern regions, in general. This chapter includes Alaska
-weather, even though much of Alaska lies south of the Arctic Circle.
-As an introduction to Arctic weather, this chapter surveys climate, air masses, and fronts of the Arctic, and
-introduces some Arctic weather peculiarities.
 Chapter 21, Arctic Weather
 21-1
 
-RUSSIA
-ARCTIC CIRCLE
-[IX
-FINLAND:
-Sy“swenen
-SVALBARD
-"ARCHIPELAGO
-ARCTIC
-OCEAN
-ICELAND
-ALASKA
-GREENLAND.
-ATLANTIC
-OCEAN
-paCirIC
-‘OCEAN
-CANADA
-nupsox.
-BAY
 Figure 21-1. The Arctic Circle
 21.2 Climate, Air Masses, and Fronts
 There are a number of factors that influence Arctic climate. Climate of any region, especially in the Arctic,

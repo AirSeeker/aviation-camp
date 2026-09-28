@@ -11,6 +11,7 @@ from scripts.parse_pdf import (
     cleanup_stale_outputs,
     deduplicate_repeated_header_footer,
     detect_chapter_ranges,
+    extract_chapter_title,
     extract_images_for_chapter,
     extract_layout_lines,
     find_book_output_collisions,
@@ -258,6 +259,55 @@ class LayoutExtractionTests(unittest.TestCase):
         self.assertEqual(
             lines,
             ["Left column first", "Left column second", "Right column first", "Right column second"],
+        )
+
+    def test_omits_text_inside_an_embedded_figure(self) -> None:
+        doc = fitz.open()
+        page = doc.new_page()
+        pixmap = fitz.Pixmap(fitz.csRGB, fitz.IRect(0, 0, 8, 8))
+        pixmap.set_rect(fitz.IRect(0, 0, 8, 8), (220, 40, 40))
+        page.insert_image(fitz.Rect(100, 100, 300, 300), stream=pixmap.tobytes("png"))
+        page.insert_text((120, 150), "Figure label")
+        page.insert_text((72, 350), "Figure caption")
+
+        try:
+            lines = [line[4] for line in extract_layout_lines(page)]
+        finally:
+            doc.close()
+
+        self.assertNotIn("Figure label", lines)
+        self.assertIn("Figure caption", lines)
+
+    def test_keeps_text_over_a_full_page_image(self) -> None:
+        doc = fitz.open()
+        page = doc.new_page()
+        pixmap = fitz.Pixmap(fitz.csRGB, fitz.IRect(0, 0, 8, 8))
+        pixmap.set_rect(fitz.IRect(0, 0, 8, 8), (220, 40, 40))
+        page.insert_image(page.rect, stream=pixmap.tobytes("png"))
+        page.insert_text((72, 100), "Recognized page text")
+
+        try:
+            lines = [line[4] for line in extract_layout_lines(page)]
+        finally:
+            doc.close()
+
+        self.assertIn("Recognized page text", lines)
+
+
+class ChapterTitleExtractionTests(unittest.TestCase):
+    def test_extracts_inline_chapter_title(self) -> None:
+        self.assertEqual(
+            extract_chapter_title(["Chapter 2: Ground Operations", "Introduction"], 2),
+            "Ground Operations",
+        )
+
+    def test_extracts_multiline_chapter_title_and_skips_duplicates(self) -> None:
+        self.assertEqual(
+            extract_chapter_title(
+                ["Chapter 1", "The National", "The National", "Airspace System", "Airspace System", "Introduction"],
+                1,
+            ),
+            "The National Airspace System",
         )
 
 
@@ -560,6 +610,7 @@ class ParseBookIntegrationTests(unittest.TestCase):
             manifest = parse_book(pdf_path, output_root, images_root)
 
             self.assertEqual(len(manifest["chapters"]), 1)
+            self.assertEqual(manifest["chapters"][0]["title"], "Basics")
             self.assertEqual(
                 (output_root / "TestBook" / "ch01" / "content.md").read_text(encoding="utf-8"),
                 "Chapter 1: Basics\nAviation study text",

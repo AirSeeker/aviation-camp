@@ -50,7 +50,9 @@ export async function getLessons(): Promise<Lesson[]> {
       readdir(directory),
       readFile(path.join(parsedRoot, book.name, 'book_manifest.json'), 'utf8'),
     ]);
-    const manifest = JSON.parse(manifestText) as { chapters: Array<{ chapter: string; startPage: number; endPage: number }> };
+    const manifest = JSON.parse(manifestText) as {
+      chapters: Array<{ chapter: string; title?: string; startPage: number; endPage: number }>;
+    };
     const pageRanges = new Map(manifest.chapters.map((chapter) => [chapter.chapter, chapter]));
     return Promise.all(files.filter((file) => file.endsWith('.mdx')).map(async (file) => {
       const source = await readFile(path.join(directory, file), 'utf8');
@@ -59,7 +61,7 @@ export async function getLessons(): Promise<Lesson[]> {
       const pageRange = pageRanges.get(file.replace(/\.mdx$/, ''));
       return {
         slug: file.replace(/\.mdx$/, ''),
-        title,
+        title: pageRange?.title || title,
         book: book.name,
         chapterNumber: Number(frontmatterValue(source, 'chapterNumber')) || 0,
         readTimeMinutes: Number(frontmatterValue(source, 'readTimeMinutes')) || 0,

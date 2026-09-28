@@ -1,6 +1,4 @@
-||
 Chapter 15
-Airspace
 Airspace
 Introduction
 The two categories of airspace are: regulatory and
@@ -17,13 +15,16 @@ to illustrate how airspace is depicted.
 15-1
 
 FL 600
-Class A
+A
+Class
 18,000' MSL
-Class B
-]
-Class E
+B
+Class
+E
+Class
 14,500' MSL
-Class C
+C
+Class
 1,200'
 1,200'
 1,200'
@@ -31,15 +32,16 @@ AGL
 AGL
 AGL
 Nontowered
-Class G
+G
+Class
 700'
 Nontowered
 airport with
 700'
-Class D
 700'
-_
+D
 AGL
+Class
 airport with
 AGL
 no instrument
@@ -47,9 +49,12 @@ AGL
 instrument
 approach
 approach
-Class G
-Class G
-Class G
+G
+G
+G
+Class
+Class
+Class
 Figure 15-1. Airspace profile.
 Controlled Airspace
 Class C Airspace
@@ -204,347 +209,184 @@ for it to do so.
 2. If the restricted area is active and has not been released
 to the FAA, the ATC facility issues a clearance that
 ensures the aircraft avoids the restricted airspace.
-Oe
-ROE NTR lala
-eae
-Jsaeionn
-a=
-a
-| farcensanes|
-RIE
-“AN GE,
-gS
-5)ies Me e/a
-SCRE goal ao) ga
-ie,
-\windiest 03
-pL
 Figure 15-2. An example of a prohibited area, P-40 around Camp
 David.
 15-3
 
 Restricted areas are charted with an “R” followed by a
-Ve thptee
 number (e.g., R-4401) and are depicted on the en route
-|
 chart appropriate for use at the altitude or FL being flown.
 [Figure 15-3] Restricted area information can be obtained
 on the back of the chart.
 Warning Areas
-=o Ei
 Warning areas are similar in nature to restricted areas;
 however, the United States government does not have sole
-* pall
-GES
-*
-\
-YF
-ais
-ity lite Ne age
 jurisdiction over the airspace. A warning area is airspace of
 defined dimensions, extending from 3 NM outward from
-me ee
 the coast of the United States, containing activity that may
 be hazardous to nonparticipating aircraft. The purpose of
-Figure 15-4. Requirements for airspace operations.
 such areas is to warn nonparticipating pilots of the potential
 danger. A warning area may be located over domestic or
-pilots of areas that may contain a high volume of pilot training
 international waters or both. The airspace is designated with
-or an unusual type of aerial activity. Pilots should exercise
 a “W” followed by a number (e.g., W-237). [Figure 15-4]
-caution in alert areas. All activity within an alert area shall
-be conducted in accordance with regulations, without waiver,
 Military Operation Areas (MOAs)
-and pilots of participating aircraft, as well as pilots transiting
 MOAs consist of airspace with defined vertical and lateral
-the area, shall be equally responsible for collision avoidance.
 limits established for the purpose of separating certain
-[Figure 15-6]
 military training activities from IFR traffic. Whenever an
 MOA is being used, nonparticipating IFR traffic may be
-Controlled Firing Areas (CFAs)
 cleared through an MOA if IFR separation can be provided by
-CFAs contain activities that, if not conducted in a controlled
 ATC. Otherwise, ATC reroutes or restricts nonparticipating
-environment, could be hazardous to nonparticipating aircraft.
 IFR traffic. MOAs are depicted on sectional, VFR terminal
-The difference between CFAs and other special use airspace
 area, and en route low altitude charts and are not numbered
-is that activities must be suspended when a spotter aircraft,
 (e.g., “Camden Ridge MOA”). [Figure 15-5] However, the
-radar, or ground lookout position indicates an aircraft might
 MOA is also further defined on the back of the sectional
-be approaching the area. There is no need to chart CFAs
 charts with times of operation, altitudes affected, and the
-since they do not cause a nonparticipating aircraft to change
 controlling agency.
-its flight path.
 Alert Areas
-Other Airspace Areas
 Alert areas are depicted on aeronautical charts with an “A”
-“Other airspace areas” is a general term referring to the
 followed by a number (e.g., A-211) to inform nonparticipating
+Figure 15-3. Restricted areas on a sectional chart.
+15-4
+Figure 15-4. Requirements for airspace operations.
+pilots of areas that may contain a high volume of pilot training
+or an unusual type of aerial activity. Pilots should exercise
+caution in alert areas. All activity within an alert area shall
+be conducted in accordance with regulations, without waiver,
+and pilots of participating aircraft, as well as pilots transiting
+the area, shall be equally responsible for collision avoidance.
+[Figure 15-6]
+Controlled Firing Areas (CFAs)
+CFAs contain activities that, if not conducted in a controlled
+environment, could be hazardous to nonparticipating aircraft.
+The difference between CFAs and other special use airspace
+is that activities must be suspended when a spotter aircraft,
+radar, or ground lookout position indicates an aircraft might
+be approaching the area. There is no need to chart CFAs
+since they do not cause a nonparticipating aircraft to change
+its flight path.
+Other Airspace Areas
+“Other airspace areas” is a general term referring to the
 majority of the remaining airspace. It includes:
 •
 Local airport advisory (LAA)
-Se 4
-COS
-SS
-AA
-(499)
 •
 Military training route (MTR)
-Saye
 •
 Temporary flight restriction (TFR)
-NSM
-fing T/AA
-Tee
-udysto
 •
 Parachute jump aircraft operations
-RE
-:
-\ic:
-elby
-ys
-| Ysa Spn
 •
 Published VFR routes
 •
 Terminal radar service area (TRSA)
-BEZEEYAGLERAAE(SU)
-/eaqQ\. |) 7S
-, \ BS e126.2%<] 350))
-as
-50/2
 •
 National security area (NSA)
-: 280% | iS :
-/ aS SoH y
 •
 Air Defense Identification Zones (ADIZ) land and
-|
-: RES TRICTERY® Sa
 water based and need for Defense VFR (DVFR) flight
-& BIRR
-(
-RAZOTA
 plan to operate VFR in this airspace
 •
 Intercept Procedures and use of 121.5 for
-MEIN.
-ay
-HMA
-| ESOT
-SS
 communication if not on ATC already
-ee
-en
-al
-Figure 15-3. Restricted areas on a sectional chart.
-15-4
 
-Nei, es 7me
-SON mn ”sels, oS
-escy:
-iS aeteen
-oc, Wate
-ta
-ga
-mn: 1p.
-ayace
-FayNe anaag osPanel (ae
-heBeak EY <G
-aay ie) = aN Ope
 Figure 15-5. Camden Ridge MOA is an example of a military operations area.
-a “ajoaahae Haas 29 |
-See
-Vieeu
-Ade TORI, ibe 7,
-Tea
-AEM
-“gf
-sy
-Tn
-(PRN)
-sepSoU eSpie uety 2s
-IAN
-| ba rnd
-Ean
-ereoriron
-ce /
-£31741
-v
-Aris
-Lesu—AN Wr Greenville
-eareee AR,
-Rye Pier,
-“ER3uC
-¢
-Pies
-rhe fuss theo ce
-ys
-oof BV TOR,
-Cha
-eats
-ear
-ane syS =ea
-aye BLETA CA ray.
-I
-pis (Sook
-ok
-inte
-wiaphor
-Lue Se Rotary aney
-salad
-\
-eee /e
-HIS VOL MECET
-NE
-TRAININGY [,/ \238
-23 / 733
-’
-waar(Ay
-/*
-EDM 50
-Non
-A ee
-Z
-Al
-BRL
-.
-& BPR a10 MOR Ei |
-Sse yn 83
-o4/
-Ede
-it ieee elezi
-Lg
-A
-R
-NG
-RO
-oe ea
-chimp
-Seayy7e
-MY
-aod
-A BPO GmA
-4 |SIN
-EY
 Figure 15-6. Alert area (A-211).
 15-5
 
 •
 Flight Restricted Zones (FRZ) in vicinity of Capitol
-accommodate operations above 1,500 feet AGL. IR routes
 and White House
-are conducted in accordance with IFR regardless of weather
-conditions. VFR sectional charts depict military training
 •
 Special Awareness Training required by
-activities, such as IR, VR, MOA, restricted area, warning
 14 CFR 91.161 for pilots to operate VFR within 60
-area, and alert area information.
 NM of the Washington, DC VOR/DME
 •
 Wildlife Areas/Wilderness Areas/National Parks and
-Temporary Flight Restrictions (TFR)
 request to operate above 2,000 AGL
-A flight data center (FDC) Notice to Airmen (NOTAM)
-is issued to designate a TFR. The NOTAM begins with
 •
 National Oceanic and Atmospheric Administration
-the phrase “FLIGHT RESTRICTIONS” followed by the
 (NOAA) Marine Areas off the coast with requirement
-location of the temporary restriction, effective time period,
 to operate above 2,000 AGL
-area defined in statute miles, and altitudes affected. The
 •
 Tethered Balloons for observation and weather
-NOTAM also contains the FAA coordination facility and
 recordings that extend on cables up to 60,000
-telephone number, the reason for the restriction, and any other
-information deemed appropriate. The pilot should check the
 Local Airport Advisory (LAA)
-NOTAMs as part of flight planning.
 An advisory service provided by Flight Service Station
 (FSS) facilities, which are located on the landing airport,
-Some of the purposes for establishing a TFR are:
 using a discrete ground-to-air frequency or the tower
-•
-Protect persons and property in the air or on the surface
 frequency when the tower is closed. LAA services include
-from an existing or imminent hazard.
 local airport advisories, automated weather reporting with
 voice broadcasting, and a continuous Automated Surface
-•
-Provide a safe environment for the operation of
 Observing System (ASOS)/Automated Weather Observing
-disaster relief aircraft.
 Station (AWOS) data display, other continuous direct reading
-•
-Prevent an unsafe congestion of sightseeing aircraft
 instruments, or manual observations available to the specialist.
-above an incident or event, that may generate a high
-degree of public interest.
 Military Training Routes (MTRs)
-•
-Protect declared national disasters for humanitarian
 MTRs are routes used by military aircraft to maintain
-reasons in the State of Hawaii.
 proficiency in tactical flying. These routes are usually
 established below 10,000 feet MSL for operations at speeds
-•
-Protect the President, Vice President, or other public
 in excess of 250 knots. Some route segments may be defined
-figures.
 at higher altitudes for purposes of route continuity. Routes
-•
-Provide a safe environment for space agency
 are identified as IFR (IR), and VFR (VR), followed by
-operations.
 a number. [Figure 15-7] MTRs with no segment above
 1,500 feet AGL are identified by four number characters
-Since the events of September 11, 2001, the use of TFRs has
 (e.g., IR1206, VR1207). MTRs that include one or more
-become much more common. There have been a number of
 segments above 1,500 feet AGL are identified by three
-incidents of aircraft incursions into TFRs that have resulted
 number characters (e.g., IR206, VR207). IFR low altitude
-in pilots undergoing security investigations and certificate
 en route charts depict all IR routes and all VR routes that
+Figure 15-7. Military training route (MTR) chart symbols.
+15-6
+accommodate operations above 1,500 feet AGL. IR routes
+are conducted in accordance with IFR regardless of weather
+conditions. VFR sectional charts depict military training
+activities, such as IR, VR, MOA, restricted area, warning
+area, and alert area information.
+Temporary Flight Restrictions (TFR)
+A flight data center (FDC) Notice to Airmen (NOTAM)
+is issued to designate a TFR. The NOTAM begins with
+the phrase “FLIGHT RESTRICTIONS” followed by the
+location of the temporary restriction, effective time period,
+area defined in statute miles, and altitudes affected. The
+NOTAM also contains the FAA coordination facility and
+telephone number, the reason for the restriction, and any other
+information deemed appropriate. The pilot should check the
+NOTAMs as part of flight planning.
+Some of the purposes for establishing a TFR are:
+•
+Protect persons and property in the air or on the surface
+from an existing or imminent hazard.
+•
+Provide a safe environment for the operation of
+disaster relief aircraft.
+•
+Prevent an unsafe congestion of sightseeing aircraft
+above an incident or event, that may generate a high
+degree of public interest.
+•
+Protect declared national disasters for humanitarian
+reasons in the State of Hawaii.
+•
+Protect the President, Vice President, or other public
+figures.
+•
+Provide a safe environment for space agency
+operations.
+Since the events of September 11, 2001, the use of TFRs has
+become much more common. There have been a number of
+incidents of aircraft incursions into TFRs that have resulted
+in pilots undergoing security investigations and certificate
 suspensions. It is a pilot’s responsibility to be aware of TFRs
-:
-RQ
-ofa.
-(425)
 in their proposed area of flight. One way to check is to visit
->
 the FAA website, www.tfr.faa.gov, and verify that there is
 not a TFR in the area.
-oh
-DeeAh soecA SON NK
-|
-Hs»
-a oh?
-Nic
 Parachute Jump Aircraft Operations
 Parachute jump aircraft operations are published in the Chart
 Supplement U.S. (formerly Airport/Facility Directory). Sites
 that are used frequently are depicted on sectional charts.
-Military Training
 Published VFR Routes
-Soe
-RST es 09)
-Route (MTR)
 Published VFR routes are for transitioning around, under, or
 through some complex airspace. Terms such as VFR flyway,
 VFR corridor, Class B airspace VFR transition route, and
-Figure 15-7. Military training route (MTR) chart symbols.
 terminal area VFR route have been applied to such routes.
-15-6
 
 These routes are generally found on VFR terminal area
 planning charts.
@@ -646,21 +488,25 @@ Basic VFR Weather Minimums
 Airspace
 Flight Visibility
 Distance from Clouds
-Class A
+A
 Not applicable
 Not applicable
-Class B
+Class
+B
 3 statute miles
 Clear of clouds
+Class
 3 statute miles
 1,000 feet above
-Class C
+C
 500 feet below
+Class
 2,000 feet horizontal
 3 statute miles
 1,000 feet above
-Class D
+D
 500 feet below
+Class
 2,000 feet horizontal
 5 statute miles
 1,000 feet above
@@ -668,7 +514,8 @@ At or above
 1,000 feet below
 10,000 feet MSL
 1 statute mile horizontal
-Class E
+E
+Class
 3 statute miles
 1,000 feet above
 Less than
@@ -694,7 +541,8 @@ More than 1,200
 500 feet below
 feet above the
 2,000 feet horizontal
-Class G
+G
+Class
 surface but less
 than 10,000 feet
 Night
@@ -776,22 +624,25 @@ requirements:
 Class
 Entry Requirements
 Airspace
-Class A
-d
+A
 ATC clearance
-Class B
-dl
+Class
+B
 ATC clearance
+Class
 Two-way radio communications
-Class C
+C
+Class
 prior to entry
 Two-way radio communications
-Class D
-df
+D
+Class
 prior to entry
-Class E
+E
 None for VFR
-Class G
+Class
+G
+Class
 None
 *Beginning January 1, 2020, ADS-B Out equipment may be required in accordance with 14 CFR part 91, section 91.225.
 Figure 15-9. Requirements for airspace operations.
@@ -835,7 +686,7 @@ Private—(However, a student or
 recreational pilot may operate at
 with altitude reporting capability
 other than the primary airport if
-seeking private pilot certification and
+seeking private pilot certiﬁcation and
 if regulatory requirements are met.)
 No specific requirement
 Two-way radio, transponder

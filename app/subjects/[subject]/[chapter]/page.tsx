@@ -25,7 +25,7 @@ async function getLessonFigures(book: string, chapter: string, source: string): 
   }
 }
 
-function insertLessonFigures(source: string, figures: LessonFigure[]): string {
+function insertLessonFigures(source: string, figures: LessonFigure[], startPage?: number, endPage?: number): string {
   if (figures.length === 0) return source;
 
   const frontmatter = source.match(/^---\s*\n[\s\S]*?\n---\s*/);
@@ -43,7 +43,10 @@ function insertLessonFigures(source: string, figures: LessonFigure[]): string {
 
   const insertions = new Map<number, string[]>();
   figures.forEach((figure, index) => {
-    const targetIndex = textBlockIndexes[Math.floor(((index + 1) * textBlockIndexes.length) / (figures.length + 1))] ?? textBlockIndexes.at(-1)!;
+    const pageProgress = figure.page && startPage && endPage && endPage >= startPage
+      ? Math.max(0, Math.min(1, (figure.page - startPage + 1) / (endPage - startPage + 1)))
+      : (index + 1) / (figures.length + 1);
+    const targetIndex = textBlockIndexes[Math.max(0, Math.ceil(pageProgress * textBlockIndexes.length) - 1)] ?? textBlockIndexes.at(-1)!;
     const label = figure.figureRef || `Illustration ${index + 1}`;
     const pageLabel = figure.page ? ` · PDF p. ${figure.page}` : '';
     const figureMarkup = `<figure>\n<img src="${figure.relativePath}" alt="${label}" />\n<figcaption>${label}${pageLabel}</figcaption>\n</figure>`;
@@ -82,7 +85,8 @@ export default async function LessonPage({ params }: { params: { subject: string
   const figures = await getLessonFigures(subject.id, lesson.slug, lesson.source);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
-  const source = insertLessonFigures(lesson.source, figures).replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1');
+  const source = insertLessonFigures(lesson.source, figures, lesson.sourcePageStart, lesson.sourcePageEnd)
+    .replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1');
   try {
     ({ content } = await compileMDX({
       source,

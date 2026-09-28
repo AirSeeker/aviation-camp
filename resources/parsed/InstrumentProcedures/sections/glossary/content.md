@@ -1,5 +1,4 @@
 Glossary
-Glossary
 Abeam Fix. A fix, NAVAID, point, or object positioned
 approximately 90 degrees to the right or left of the aircraft
 track along a route of flight. Abeam indicates a general

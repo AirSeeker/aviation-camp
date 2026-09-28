@@ -1,5 +1,4 @@
 Glossary
-Glossary
 #
 14 CFR. See Title 14 of the Code of Federal Regulations.
 3P. An acronym that represents the three components of the risk management cycle: Perceive, Process, Perform.

@@ -1,10 +1,11 @@
 {
   "bookName": "RiskManagement",
   "sourcePdf": "resources/library/RiskManagement/Risk Management Handbook FAA-H-8083-2A.pdf",
-  "cacheKey": "e59a7dbf4e2a0062ed0e38b6613bfd430e3932ad35138efa6e90930c04d5e1aa",
+  "cacheKey": "d60fcbab87efb166433ac635b2d1c590d7356c598755c466e1c3ebc89d2ae5fe",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "Introduction to Risk Management",
       "startPage": 10,
       "endPage": 12,
       "images": [
@@ -107,12 +108,14 @@
     },
     {
       "chapter": "ch02",
+      "title": "Personal Minimums",
       "startPage": 13,
       "endPage": 18,
       "images": []
     },
     {
       "chapter": "ch03",
+      "title": "Identifying Hazards & Associated",
       "startPage": 19,
       "endPage": 33,
       "images": [
@@ -253,12 +256,14 @@
     },
     {
       "chapter": "ch04",
+      "title": "Assessing Risk",
       "startPage": 34,
       "endPage": 38,
       "images": []
     },
     {
       "chapter": "ch05",
+      "title": "Mitigating Risk",
       "startPage": 39,
       "endPage": 43,
       "images": [
@@ -285,12 +290,14 @@
     },
     {
       "chapter": "ch06",
+      "title": "Threat and Error Management",
       "startPage": 44,
       "endPage": 49,
       "images": []
     },
     {
       "chapter": "ch07",
+      "title": "Automation & Flight Path",
       "startPage": 50,
       "endPage": 53,
       "images": [
@@ -336,6 +343,7 @@
     },
     {
       "chapter": "ch08",
+      "title": "Aeronautical Decision-Making in",
       "startPage": 54,
       "endPage": 57,
       "images": [

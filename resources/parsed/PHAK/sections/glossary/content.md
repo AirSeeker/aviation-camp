@@ -1,5 +1,4 @@
 Glossary
-Glossary
 A
 14 CFR. See Title 14 of the Code of Federal Regulations.
 100-hour inspection. An inspection identical in scope to

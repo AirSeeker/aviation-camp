@@ -1,6 +1,5 @@
 Chapter 10
 Weight and Balance
-Weight
 Introduction
 Compliance with the weight and balance limits of any aircraft
 is critical to flight safety. Operating above the maximum
@@ -24,7 +23,6 @@ assure that the lift generated is sufficient to counteract weight,
 loading an aircraft beyond the manufacturer’s recommended
 weight must be avoided. If the weight is greater than the lift
 generated, the aircraft may be incapable of flight.
-and Balance
 10-1
 
 Effects of Weight
@@ -113,24 +111,8 @@ Location of the CG with reference to the lateral axis is also
 important. For each item of weight existing to the left of
 Empty
 Full
-|
-—_
-. J
-_
-|
 Lateral unbalance will cause wing heaviness.
 Excess baggage
-=
-—
-oO
-ae
-—
-,
-»
-———e
-~
-=
-—
 Longitudinal unbalance will cause
 either nose or tail heaviness.
 Figure 10-1. Lateral and longitudinal unbalance.
@@ -485,30 +467,15 @@ To establish a balance, a total of 5,000 in-lb must be applied
 to the other end of the board. Any combination of weight
 and distance which, when multiplied, produces a 5,000 in-
 lb moment will balance the board. For example (illustrated
-—
 CG
 range
 Fwd limit
 Aft limit
 Datum
-|
-—
-ee
-|
-,
-|
-a
-—
-————————
-=
-—
-|
 ( – )
 ( + )
-rs
 Arm
 Arm
->
 Moment = 700 in-lb
 ( + ) Arm 70"
 10 lb
@@ -520,7 +487,6 @@ Datum
 lb
 Fulcrum
 Moment = 5,000 in-lb
-a
 Wt x Arm = Moment
 (lb) x (in) = (in-lb)
 Note: The datum is assumed to be
@@ -553,13 +519,10 @@ Datum
 lb
 lb
 lb
-—
 Fulcrum
 2,500
 2,500
 5,000
-|
-|
 in-lb
 in-lb
 in-lb
@@ -696,10 +659,8 @@ Figure 10-6. Weight and balance data.
 10-7
 
 Load Moment/1,000 (kilogram-millimeters)
-y-
 Rear passengers
 62 gal***(234.7 liters)
-y
 Fuel (6 lb/gal; 0.72 kg/liter)
 60 gal (227.1 liters)
 Pilot & front passenger
@@ -711,7 +672,6 @@ Load Weight (pounds)
 30 gal (113.6 liters)
 20 gal (75.7 liters)
 Maximum Usable Fuel
-YT
 Baggage area 1 or
 passenger on child’s seat
 * Standard tanks
@@ -751,363 +711,23 @@ Loaded Aircraft Moment/1,000 (inch-pounds)
 Figure 10-8. CG moment envelope.
 10-8
 
-Table Method
 way.) Once this has been done for each item, total the weight
 and moments and draw a line for both weight and moment
-The table method applies the same principles as the
 on the CG envelope graph. If the lines intersect within the
-computational and graph methods. The information
 envelope, the aircraft is loaded within limits. In this sample
-and limitations are contained in tables provided by the
 loading problem, the aircraft is loaded within limits.
-manufacturer. Figure 10-9 is an example of a table and a
-BE
-/
-Occupants
-Minimum
-Maximum
-Usable Fuel
-Moment
-Moment
-Weight
-Front Seat
-Rear Seats
-Arm 85
-Arm 121
-Main Wing Tanks Arm 75
-2,057
-2,400
-1,848
-,
-Moment
-Moment
-2,065
-2,410
-1,856
-Weight
-Weight
-Moment
-Gallons
-Weight
-2,074
-2,420
-1,863
-2,083
-2,430
-1,871
-2,091
-2,440
-1,879
-2,100
-2,450
-1,887
-FUEL TANK
-2,108
-2,460
-1,894
-2,117
-2,470
-1,092
-2,125
-2,480
-1,911
-2,134
-2,490
-1,921
-eT
-2,143
-2,500
-1,932
-2,151
-2,510
-1,942
-ST
-2,160
-2,520
-1,953
-2,168
-2,530
-1,963
-———————
-2,176
-2,540
-1,974
-SEATING AREA
-2,184
-2,550
-1,984
-———f
-2,192
-2,560
-1,995
-2,200
-2,570
-2,005
-2,208
-2,580
-2,016
-2,216
-2,590
-2,026
-BAGGAGE AREA
 OIL
-2,224
-2,600
-2,037
-2,232
-2,610
-2,048
--
-2,239
-2,620
-2,058
-pS
--
-2,247
-2,630
-2,069
-Minimum
-Maximum
-2,255
-2,640
-2,080
-*Oil
-Moment
-Moment
-Baggage or 5th
-Weight
-™
-2,263
-2,650
-2,090
-Seat Occupant
-Moment
-2,271
-2,660
-2,101
-Quarts
-Weight
-Arm 140
-1,800
-2,100
-2,279
-1,617
-2,670
-2,112
-1,808
-2,110
-2,287
-1,625
-2,680
-2,123
-Moment
-Weight
-1,817
-2,120
-2,295
-1,632
-2,690
-2,133
-FUEL TANK
-1,825
-2,130
-1,640
-*Included in basic empty weight
-1,834
-2,140
-2,303
-1,648
-2,700
-2,144
-1,843
-2,150
-2,311
-1,656
-2,710
-2,155
 Empty Weight ~ 2,015
-1,851
-2,160
-2,319
-1,663
-2,720
-2,166
 MOM/ 100 ~ 1,554
-1,860
-2,170
-2,326
-1,671
-2,730
-2,177
-1,868
-2,180
-2,334
-1,679
-|
-2,740
-2,188
-1,877
-2,190
-2,342
-1,686
-2,750
-2,199
-Moment Limits vs Weight
-2,350
-2,760
-2,210
-Moment limits are based on the following weight and
-1,885
-2,200
-2,358
-1,694
-2,770
-2,221
-center of gravity limit data (landing gear down).
-1,894
-2,210
-2,366
-1,702
-2,780
-2,232
-Weight
-Forward
-AFT
-1,903
-2,220
-2,374
-1,709
-2,790
-2,243
-1,911
-2,230
-1,717
-Condition
-CG Limit
-CG Limit
-1,920
-2,240
-2,381
-1,725
-2,800
-2,254
-OB
-82.1
-84.7
-2,950 lb (takeoff
-1,928
-2,250
-2,389
-1,733
-or landing)
-2,810
-2,265
-2,525 lb
-77.5
-85.7
-1,937
-2,260
-2,397
-1,740
-2,820
-2,276
-2,475 lb or less
-77.0
-85.7
-1,945
-2,270
-2,405
-1,748
-2,830
-2,287
-a
-1,954
-2,280
-2,413
-1,756
-2,840
-2,298
-1,963
-2,290
-2,421
-1,763
-2,850
-2,309
-Sample Loading Problem
-Weight
-Moment
-1,971
-2,300
-2,426
-1,771
-2,860
-2,320
-Basic empty weight
-2,015
-1,554
-1,980
-2,310
-2,436
-1,779
-2,870
-2,332
-1,988
-2,320
-2,444
-1,786
-Fuel main tanks (44 gal)
-2,880
-2,343
-1,997
-2,330
-2,452
-1,794
-2,890
-2,354
-*Front seat passengers
-2,005
-2,340
-3,460
-1,802
-2,900
-2,365
-*Rear seat passengers
-2,014
-2,350
-2,468
-1,810
-2,910
-2,377
-2,023
-Baggage
-2,360
-2,475
-1,817
-2,920
-2,388
-2,031
-2,370
-2,483
-1,825
-2,930
-2,399
-2,040
-2,380
-2,491
-1,833
-2,940
-2,411
-Total
-2,799
-2,278/100
-2,048
-2,390
-2,499
-1,840
-2,950
-2,422
-* Interpolate or, as in this case, add appropriate numbers.
 Figure 10-9. Loading schedule placard.
+Table Method
+The table method applies the same principles as the
+computational and graph methods. The information
+and limitations are contained in tables provided by the
+manufacturer. Figure 10-9 is an example of a table and a
+SEATING AREA
+BAGGAGE AREA
+FUEL TANK
 10-9
 
 weight and balance calculation based on that table. In this

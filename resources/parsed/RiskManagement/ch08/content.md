@@ -1,197 +1,10 @@
 Chapter 8: Aeronautical Decision-Making in
-Chapter8: Acronautical Decision-Making in
-Flight
 Flight
 Introduction
 This chapter focuses on the pilot aeronautical decision-making (ADM) skills used to mitigate risk factors while in flight.
 Advisory Circular (AC) 60-22, Aeronautical Decision-Making [Figure 8-1], provides additional information, background
 references, definitions, and other pertinent information about ADM training in the general aviation environment and is available
 here.
-Circular
-AC 60-22
-32/3/91
-Ce on
-stew ccoination and eommurieadon, snd other
-Report Number
-Tide
-"ADM techniques, the reader i directed to one ct
-‘nore of the manuals waich may he ohisined
-—OTYFAA/PM.8G/46Aeronnetical
-Decision
-‘rom National Technical Tnfrmation Serves,
-Making
-~
-Cockpit
-escuree Management
-&
-Published Documens.
-(Price
-ct
-NTIS
-identificatien
-dividual
-documents
-is
-suhct
-to
-change
-umber
-ADAZ05I15,
-‘tout noice)
-rice $23.00,
-.
-Bepor Number
-Tide
-b.
-Any of the series of ADM unig
-‘manwals aay De oblained by writing or calling:
-DOTEAMPM-£6i61
-Acroncutieal
-Decision
-Making for Student nd
-‘Malling Addeess:.
-National Teeliical
-Private Pilots.
-NTIS
-Information Service
-acon 22
-sist
-‘igentfieon
-number
-S285 Pot Royal Read
-ADAIR25§9,
-price
-Springfield, Virginia 22161
-i evn he eae rage of poster
-te per ep en
-$23.00.
-2.
-4. CONVENTIONAL DECISION MAKING. inn
-‘Telephone:
-(103) 487 4550 (oxders)
-veedforaves hagee by mepgusii fetes
-decison mating, te onset he deed Sang e Seerains
-Making for Commercial
-(rash orders only)
-Someng has changed an expect cage id
-une of en
-DOTFAAPM-8642
-Aeronautics!
-Decision
-(00) 386-4700
-Im conventional
-tox ove Recopaion
-(903) 478-4780 (ie idenieaion
-{hangin he stuaon & 2 val hep iaay how ls facta capes Somnoo esse
-of anger of mon,
-bFlare
-2 lasraes the ADM process,
-Pinte.
-NTIS
-branch)
-Seetlon mating pct, Notnodcing We ange ang ahd shoys be inerocon of Ue ADM
-Wenliication
-amber
-ine sao cm ead diucly 2 miop soe Sl tow Bese mop car er ie
-ADA198772,
-price, DEFINITIONS,
-Gigure the Gage nds Ost sn spre. Subse Ser wineneselioeet
-51700,
-fete response of aclon i essary inode oan flowing wih an sexes of ieanes
-cases,
-DOT/PAAPMER6G3
-8, ADM isa systematic approach
-the
-Aeronanieal
-Decision
-mental
-process
-used.
-by
-aireall
-pilots
-Foye soon (or at les ane of eee aedonos ootaes made
-ees
-‘Making
-for instrument
-cenistenlly determine the best eourse of action
-‘Ren that compte 1)an bing Soot a Cesied ue mamtoned, ADM echnces
-few station, Teor, suaianal sarees s decides malig process whan sven of
-ie sooremsod
-Pilots.
-NTIS
-inmsponse ta given set of
-circumstances,
-ie detoonmalng, At
-inparanes
-oes
-deste ees
-identification
-ourmber
-18724880, price $17.00.
-D Atiwude is a persona’
-motivational
-tokeytomniehland
-‘teispositon to respond in persons, siuations,
-DOTIFAAPMES6M4
-Acronautcal
-Decision
-ar_evonts
-ina
-given
-manner
-thal
-can,
-Makiag
-for Tnsincror——neyereless, be changed or modified dhrough
-Picts (now to wach
-caining, sort of mental shortcut to decision
-coeasacs
-ADM).
-NTIS
-making
-identification
-mamber
-$17.00,
-the ails 9
-ADAI82611,
-price
-€.
-Anticude Managements
-reegnize hazanlous aidesin onesel the
-vaillingness 10 mocify them a8 nesessary through
-[srTUATION]
-APS-500 (Advisory Circuler Staff)
-DOTFAAPM8545
-Acronauteal
-Decision
-rhe
-application
-of
-an
-approprinte
-Making fur Welicper —antigcle wrought,
-Pilots.
-NTIS
-Hemiicction
-number
-Cookpit Resource
-Management,
-ADAI80325,
-prise
-(CRM, in mulkipsison oxew vonfguraiors,
-is
-$030,
-the effective use of alpersonnel and materiel
-Ez]
-a
-Par
-¢
-|
-eS == Ete]
-‘roffas C. Accardi
-FIGURE 2. AERONAUTICAL DECISION MAKING PROCESS
-cup
 Figure 8-1. Advisory Circular (AC) 60-22, Aeronautical Decision-Making, includes a wealth of information for pilots.
 Accidents still occur despite advances in training methods, aircraft technology, and services available to pilots. Despite
 improvements in training and technology, human error remains an issue. ADM provides a foundation, which should help pilots
@@ -214,14 +27,12 @@ the simpler 3P model, which stands for Perceive, Process, and Perform. [Figure 8
 
 risk management activity taken before flight, and allows the pilot to address additional hazards while dealing with a higher
 workload.
-©
 (Perceive)
 Aeronautical
 Decision-
 Making
 (Process)
 (Perform)
-=
 Figure 8-2. The illustration shows how the 3P model is used in decision-making.
 Perceive: While en route, for example, a pilot checks data-link weather on an electronic flight bag and sees thunderstorms
 developing ahead. The pilot perceives this as a significant hazard since the likelihood of a thunderstorm affecting the aircraft
@@ -256,20 +67,6 @@ following scenario, a pilot’s familiarity with a previous incident led to a su
 A turkey vulture impacted the front fan of a jet engine shortly after takeoff and destroyed the engine. Several titanium fan blades
 departed the aircraft and the cabin filled with smoke. The crew landed safely after donning masks and goggles. The impact was
 forceful enough to leave an impression of the feathers on some of the remaining blades. [Figure 8-3]
-Z
-¢ £22
-ke
-i
-Wes
-oe
-Y
-as
-:
-€
-ES
-eee
-a
-Figure 8-3. Sheared off titanium fan blade with feather impressions.
 Years later, a pilot who investigated this bird strike was flying a turbojet. When a large bird appeared in the departure path, the
 pilot delayed rotation a few seconds, and the airplane flew under the bird without incident. Visualizing what could happen,
 knowing that there were no obstacles ahead, sensing that a short delay would not exceed any limitations, and remembering that
@@ -288,6 +85,7 @@ use a particular resource. For example, ATC assistance may be very useful if a p
 contact ATC in an emergency. During an emergency, a pilot needs to prioritize tasks and manage workload.
 Many older aircraft may have modern equipment installed, which require a flight manual supplement. This equipment can be a
 valuable single-pilot resource if the pilot uses the equipment proficiently and adjusts procedures appropriately. In some cases,
+Figure 8-3. Sheared off titanium fan blade with feather impressions.
 8-3
 
 the procedures for new equipment affect the aircraft checklists. A short video on modern installations and checklist management

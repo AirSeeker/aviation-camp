@@ -1,25 +1,3 @@
-26 Advisories
-26.1 Introduction
-The third of five types of aviation weather information contained in this handbook are advisories. For this
-handbook, advisories include the following:
-1. Significant Meteorological Information (SIGMET):
-•
-Inside the CONUS:
-o Non-Convective.
-o Convective.
-•
-Outside the CONUS.
-2. Airmen’s Meteorological Information (AIRMET):
-•
-Inside the CONUS.
-•
-Outside the CONUS.
-3. Center Weather Advisory (CWA).
-4. Volcanic Ash Advisory (VAA).
-5. Tropical Cyclone Advisory (TCA).
-6. Space Weather Advisory.
-7. Wind Shear Alerts.
-8. Airport Weather Warning (AWW).
 Chapter 26, Advisories
 26-1
 
@@ -50,191 +28,11 @@ WFO Honolulu is responsible for the Oakland Oceanic FIR south of 30°N latitude 
 Chapter 26, Advisories
 26-2
 
-%
-Salt Lake City |.
-a
-Mr
-o Va
-<2
-y
-ie = {es _
-\ ee
-a
-r
-|
-—
-Se
-Le
-ee
-;
-|
-|
-wa
-—£
-|
-S
-]
-See
-|
-ak
-/
-<=
-Dallas/Fort Worth _| 4,/_;
-we
-!
-Sorta
-N
-~~
-A
-rN
-Si
-Vv
 Figure 26-1. AWC SIGMET Areas of Responsibility—CONUS
-{SF
-oy,
-|
-fs
-1 a
-'
-i
-7k
-iS
-- of) fy
-aS
-py
-hg
-“y ps
-| &
-,
-{
-|
-fn
-4)
-s&s
-x
-j
-|
-3.
-&
-|
-_
-a
-jae TY
-f
-'
-'
-|
-i
-ae
-se
-a
-'
-f
-\
-Ea ee
-|
-NEWYORK OCEANICFIR
-= |_
-1” Houston ik) a
-:
-'
-\
-if
-¥
-OCEANIC oceanic-\
-9- «MIAMI,
-‘
-H
-|
-\
-+
-:
-i
-(
-FIR
-FIR!
-OCEANIC
-(|
-“
-|
-ten SO
-BR
-i
-H
-i
-ennaof i= === PSS
-AMY
-= ==22122199
-~_al
-toy SS) oFIR
-H
-i
-——
-P 6—
-'
-'
-et
-'
-‘
-“fay
-ft
-i
-s
-;
-i
-Ce
-Ros
-ps
-.
-;
--90
-TA -80
-CAC
-UV*esb0
--50
--40
 Figure 26-2. AWC SIGMET Areas of Responsibility—Atlantic Basin
 Chapter 26, Advisories
 26-3
 
-ray
-a
-ll
-ND
-ee
-.
-ire
-ws
--
-A
-Ss Cee
-FIR<,
-a
-at
-;
-ys
-\
-(fs ene:
-v
-iit
-|
-ie
-tae
-|
-—/—m-
-===
-foo
--B == 1-1-1
-SO AKLAND OCEANIC-FIR| ~~~ ------>-
-Beg =
-bet
-a
-Eerie!
-!
-'
-'
-aie”* Dy ee Sago.
-igo -170 -160 -150 -140 -130 -120)
 Note that KKCI refers to the AWC that is in Kansas City, MO.
 Figure 26-3. SIGMET Areas of Responsibility—Pacific Basin
 26.2.2 SIGMET Identification
@@ -426,13 +224,8 @@ Convective SIGMETs within the region. Convective SIGMETs are valid for two hours
 by the next hourly issuance. A Convective SIGMET bulletin must be transmitted each hour for each region.
 When conditions do not meet or are not expected to meet Convective SIGMET criteria within a region at
 the scheduled time of issuance, a “CONVECTIVE SIGMET...NONE” message is transmitted.
-|
-fee
-AALS...
-Gene Fomners esas
 Figure 26-5. AWC Convective SIGMET Areas of Responsibility
 Chapter 26, Advisories
-pine
 26-8
 
 26.2.4.2.4 Convective SIGMET Format and Example
@@ -457,24 +250,6 @@ Cloud top (e.g., TOPS ABV FL450).
 Remarks (e.g., TORNADOES...HAIL TO 2.5 IN...WIND GUSTS TO 70KT POSS).
 Note: Tropical cyclone information will be added to the remarks section of the CONUS Convective
 SIGMETs when appropriate.
-LINE
-~ MKCC WST 221855
-CONVECTIVE SIGMET 20C
-VALID UNTIL 20552
-ND sD
-FROM 90W MOT-GFK-ABR-90W MOT
-~ INTSFYG AREA SEV TS MOVG FROM 24045KT.
-TOPS
-ABV FL450.
-WIND GUSTS
-TO
-60KTS
-RPRID.
-TORNADOES..HAIL TO
-IN.. WIND GUSTS TO
-65KTS
-POSS ND
-PIN.
 Figure 26-6. Convective SIGMET—Example
 Chapter 26, Advisories
 26-9
@@ -605,15 +380,6 @@ Changes in intensity, using, as appropriate, the abbreviations for intensifying 
 •
 Forecast position of the volcanic ash cloud or the center of the tropical cyclone at the end of the
 validity period of the SIGMET message.
-LINE
-pee
-WSPAO7 PHFO 010410
-2—_> Bg Ny
-Kien KZAK SIGMET TANGO 2 VALID 010410/010800 PHFO-
-umes OAKLAND OCEANIC FIR FRQ TS OBS AND FCST WI 200NM
-N3006 W14012
-- N2012 W15016 CB TOP FL400 Mov W
-10KT WKN
 Figure 26-7. SIGMET Outside the CONUS—Example
 Chapter 26, Advisories
 26-12
@@ -992,15 +758,6 @@ CWAs are issued by the NWS CWSU. CWSU areas of responsibility are depicted in Fi
 Chapter 26, Advisories
 26-20
 
-- \ TTpee
-PAT
-"bs Scare
-p
-PH)
-wake
-ziw
-oe
-RRS
 Figure 26-8. CWSU Areas of Responsibility
 CWAs are valid for up to two hours and may include forecasts of conditions expected to begin within two
 hours of issuance. If conditions are expected to persist after the advisory’s valid period, a statement to that
@@ -1043,53 +800,35 @@ Anything that in the judgment of the CWSU forecaster will add value to an existi
 If in the forecaster’s judgment the conditions listed above, or any others, may adversely impact the
 safe flow of air traffic.
 26.4.3 CWA Format and Example
-ZDV2 CWA 032140
-ZDV CWA 202 VALID UNTIL
-FROM FMN TO
-10N FMN TO
-20NE
-FMN TO
-10E
-FMN TO FMN
-ISOLD SEV TS NR FMN MOVG NEWD
-10KTS.
-TOP FL410.
-WND
-GSTS TO
-55KTS.
-HAIL TO
-INCH RPRTD AT FMN.
-SEV TS CONTG BYD
-23402.
 Figure 26-9. CWA—Example
 Table 26-5. Decoding a CWA
 Line
 Content
-Description
 ZDV
-ARTCC identification
-Phenomenon number (single digit, 1–6)
 CWA
-Product type (CWA)
-Beginning and/or issuance UTC date/time
 ZDV
-ARTCC identification
 CWA
-Product type
-Phenomenon number (single digit, 1–6)
-Issuance number (issued sequentially for
-each phenomenon number)
 VALID TIL 032340Z
-Ending valid UTC date/time
 FROM FMN TO 10N FMN TO 20NE FMN
-Phenomenon location
 TO 10E FMN TO FMN
 ISOLD SEV TS NR FMN MOVG NEWD
-Phenomenon description
 10KTS. TOP FL410. WND GSTS TO
 55KTS. HAIL TO 1 INCH RPRTD AT
 FMN. SEV TS CONTG BYD 2340Z
 Chapter 26, Advisories
+Description
+ARTCC identification
+Phenomenon number (single digit, 1–6)
+Product type (CWA)
+Beginning and/or issuance UTC date/time
+ARTCC identification
+Product type
+Phenomenon number (single digit, 1–6)
+Issuance number (issued sequentially for
+each phenomenon number)
+Ending valid UTC date/time
+Phenomenon location
+Phenomenon description
 26-22
 
 The CWA in Figure 26-9 is decoded as follows:
@@ -1130,21 +869,6 @@ Issuing advisory information regarding the extent and forecast movement of the v
 Chapter 26, Advisories
 26-23
 
-ee ae Na
-ee Ker
-Sones Seer SEER
-MO AB no oe
-gi
-| Bass co
-Al
-| weititgron |
-|
-ie
-“ watttTncs
-|
-a
-Se
-al
 Areas of responsibility for VAACs include Anchorage, Montreal, Washington, Wellington (New Zealand), Buenos
 Aires (Argentina), London, Toulouse (France), Tokyo, and Darwin.
 Figure 26-10. Volcanic Ash Advisory Centers
@@ -1208,159 +932,6 @@ Chapter 26, Advisories
 26-25
 
 26.5.1.4 VAA Graphic Example
-19/1730Z
-i
-i
-19/2330Z
-i
-}
-d
-t= --4---5----4--7
-t----4---y----4--7-
-\
-'
-\
-'
-\
-'
-'
-\
-\
-\
-\
-\
-\
-\
-'
-\
-'
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-BTOE
-Jaan
-Gye Sar
-Sper Seep ee
-tet
-VA
-EM'SFCIFL240.
-!
-VA
-FMISFC/FL240
-i
-f
-i
-a oe
-fa a8
-ate
-Ben
-axa
-aio
-'
-f
-'
-\
-\
-'
-\
-'
-\
-i
-'
-'
-\
-\
-Bhs = HieEL a Oe So
-a
-a a)
-20/0530Z
-:
-t
-;
-20/1130Z
-,
-i
-:
-Me
-a pee
-ee
-Wee Re ae i
-ee OE
-\
-'
-\
-\
-\
-\
-t
-\
-\
-\
-'
-f
-\
-f
-\
-\
-\
-\
-f
-So ne Se
-Bee
-PRR IE 2
-a
-ae Seep
-Bee
-\
-\
-'
-\
-\
-a|
-'
-i
-i
-i
-\
-\
-\
-Ala = a
-dua
-Mie oH
-= ee ee
-foe
-\
-\
-\
-\
-f
-f
-\
-\
-f
-i
-\
-ole Sa A og
-a ee?
-BrersuisdA ives OY
-ERUPHON DETAILS: Va Clg BONG ARND' isiaeoZ
-YANG: WASHINGTON
-BK: Va crDS BGNG ARND 14900 1S. NO LONGER ATTACHED TO
-Vottalio® SaNGay 3szo90
-SUMiait BUT Is Mou Wal) aN MUCH QUICKER THAN FIRST EST. va
-BREA ECUADOR
-EXTOS FM JUST OF SUMMIT TQ SOUTH OF SEGH. MODEL GUIDANCE
-SUM ECE: 17159 ET (5230 M)
-ENOWS A\ConT usta? MOV OF CURRENT Va THRU Tae ARS.
-ADVISORY We: 2018078
-TRPABVISORY: WiLL BENSSUeD BN cuTau71 UOUOZ
 Figure 26-11. VAA in Graphical Format
 26.6 Aviation Tropical Cyclone Advisory (TCA)
 The aviation TCA is intended to provide tropical cyclone forecast guidance, through 24 hours, for

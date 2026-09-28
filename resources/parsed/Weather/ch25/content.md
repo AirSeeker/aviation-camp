@@ -1,26 +1,3 @@
-LE
-25 Analysis
-25.1 Introduction
-The second of five types of aviation weather information discussed in this handbook are analyses. Analyses
-of weather information are an enhanced depiction and/or interpretation of observed weather data. Prior to
-the 1990s, most analysis charts were hand-drawn by forecasters. Today’s analyses are automated, and
-depending on the weather information provider (e.g., the NWS, commercial weather services, and flight
-planning services), the appearance and content of these analyses will vary.
-This chapter will only focus on those analyses produced by the NWS and made available on various
-websites, including the AWC, the WPC, the Ocean Prediction Center (OPC), and the AAWU.
-For this handbook, analyses include the following:
-•
-Surface Chart Analysis.
-•
-Upper Air Analysis.
-•
-Freezing Level Analysis.
-•
-Icing Analysis [Current Icing Product (CIP)].
-•
-Turbulence [Graphical Turbulence Guidance (GTG)] Analysis.
-•
-Real-Time Mesoscale Analysis (RTMA).
 Chapter 25, Analysis
 25-1
 
@@ -91,10 +68,6 @@ Reporting System (ACARS)].
 Satellite [e.g., GOES sensors that provide temperature, moisture, and wind (through cloud
 movement)].
 Note: Human observers can augment automated reports.
-——
-L
-‘
-wn
 Figure 25-1. Weather Observation Sources
 25.2.2 Analysis
 Analysis is the drawing and interpretation of the patterns of various elements on a weather chart. It is an
@@ -109,14 +82,11 @@ drawn between dots representing various elements of the atmosphere. An isopleth 
 line on a weather map connecting points with equal values of a particular atmospheric variable. See Table
 25-1 for common isopleths.
 Chapter 25, Analysis
-bees
-ee]
 25-3
 
 Table 25-1. Common Isopleths
 Isopleth
 Variable
-Definition
 Isobar
 Pressure
 A line connecting points of equal or constant pressure.
@@ -147,48 +117,9 @@ their ranges to determine the optimal contour interval and values to be analyzed
 will contain enough contours to identify significant weather features, but not so many that the chart becomes
 cluttered. Each weather element has a standard contour interval on NWS weather charts, but these values
 can be adjusted in other analyses as necessary.
-°
-e
-e
-°
-o
-°
-qoos
-ra
-es
-°
-eo
-°
-°
-gos
-(993
-°
-©
-°
-)
-e
-e
-e
-e
-e
-99g
-e
-°
-°
-e
-°
-e
-°
-toor
-e
-qos
-toto
-@
-°
-oot
-4oo1
 Figure 25-2. Analysis Procedure Step 1: Determine the Optimal Contour Interval and Values to be Analyzed
 Chapter 25, Analysis
+Definition
 25-4
 
 Every contour value must be evenly divisible by the contour interval. So, for example, if the contour interval
@@ -225,49 +156,6 @@ in the isopleths should be created so that the data point values can still be re
 Chapter 25, Analysis
 25-5
 
-1 4
-1 1
-°
-e
-e
-°
-o
-°
-qoos
-ra
-es
-°
-eo
-°
-°
-gos
-(993
-°
-©
-°
-)
-e
-e
-e
-e
-e
-99g
-e
-°
-°
-e
-°
-e
-°
-1 4
-toor
-e
-qos
-toto
-@
-°
-oot
-4oo1
 Figure 25-3. Analysis Procedure Step 2: Draw the Isopleths and Extrema
 25.2.2.1.3 Step 3: Identify Significant Weather Features
 The third (and final) step is to interpret significant weather features. The conventional labels for extrema
@@ -286,71 +174,28 @@ Chapter 25, Analysis
 Table 25-2. Common Weather Chart Symbols
 Feature
 Symbol
-Definition
 A minimum of atmospheric pressure in two dimensions (closed
-L
 Low
 isobars) on a surface chart, or a minimum of height (closed
 contours) on a constant-pressure chart. Also known as a cyclone.
 A maximum of atmospheric pressure in two dimensions (closed
 isobars) on a surface chart, or a maximum of height (closed
-H
 High
 contours) on a constant-pressure chart. Also known as an
 anticyclone.
-™~s ~ ~w
 Trough
 An elongated area of relatively low atmospheric pressure or height.
-Teas
 An elongated area of relatively high atmospheric pressure or
 Ridge
 height. May also be used as reference to other meteorological
 quantities, such as temperature and dewpoint.
-Joos 1008
-oe
-s0174
-.
-1015 | 1013
-ri
-A016 ©
--
-.
-o”
-®
-id
-ae
-gos | 3
-bi
-eo
-to10 | 117
-o
-z
-°
-“e
-“yf
-191\
-1016,
-/
-toos | 1002
-.
-9s
-a
-£3
-A
-o”
-soos
-O°
-*
-oof
-ie
-4sog ©
-eS
 Figure 25-4. Analysis Procedure Step 3: Interpret Significant Weather Features
 25.2.3 Surface Analysis Chart
 The WPC in College Park, MD, produces a variety of surface analysis charts for North America that are
 available on their website. The WPC’s surface analysis is also available on the AWC’s and other providers’
 websites.
 Chapter 25, Analysis
+Definition
 25-7
 
 A surface chart (also called surface map or sea level pressure chart) is an analyzed chart of surface weather
@@ -373,176 +218,13 @@ Chapter 25, Analysis
 
 25.2.3.2 Analysis Symbols
 Figure 25-6 shows analysis symbols used on NWS surface analysis charts.
-WW 6082 FRONT
-Vy oot FRONTOLYsIs
-—&_@__@ warm FRONT
-<2 — Mm WARM FRONTOLYSIS
-v*yT STATIONARY FRONT
-_ @& STATIONARY
-wy occiupen Front
-Vv
-FRONTOLYSIS
-wi*-y7 CHANGE OF FRONT TYPEW
-—
-OCCLUDED FRONTOLYSIS
-ad
-VV FY cotn Frontocenesis
-H
-HIGH PRESSURE CENTER
-<2. 2. MB WARM FRONTOGENESIS
-L
-LOW PRESSURE CENTER
-~
-=
-STATIONARY
-TROPICAL (TRPL) WAVE
-Vv
-FRONTOGENESIS
-T.D.
-— — —= — TROUGH (TROF) OR
-L xxx
-TROPICAL DEPRESSION
-OUTFLOW BONDARY
-(OUTFLOW BNDRY)
-TRPCL STORM TROPICAL STORM
-WITTE
-DRVLINE
-XXX
-RIDGE
-yurcN
-HURRICANE
-—00—80—
-SQUALLLINE
-XK
 Figure 25-6. NWS Surface Analysis Chart Symbols
 25.2.3.3 Examples
-_ <a Se abe
-~
-PP
-hee S\ ae Soh} oy Y
-aRS
-Dr Nee
-| OR leer ONT ‘unkam
-ee
-ee
-Ng
-ert ogar a
-Pre
-UG
-a
-awengrargenagee
-Sa Cs
-L,
 Figure 25-7. Example of a Surface Chart with Surface Observations
 Chapter 25, Analysis
 25-9
 
-aN.
-ra
-NY
-*
-IS
-a
-eta
-:
-DBZ
-oa
-:
-ae
-6g
-“os
-:
-eee
-A
-Get
-ar
-ey
-aE
-aX
-or2
-@
-CSAC.
-a
-Mag
-ae
-018.
-we
-iB
-tor
-:/]
-kee
-H
-frm,
-WH
-a
-ot
-Mans
-i
-Pome
-Nae
-e002 SURFACE ANALYSIS
-\
-on
-H
-Role alee tre mpaere
-\
-ed
-EGIIAEOREHI CENTERS rc, nic, oe
-ee
-“in.
 Figure 25-8. Surface Analysis with Radar Composite Example
-5Seco,
-SAM ec
-ie. \
-|) ae
-a1
-deb
-ras
-ye
-fo
-ot ds ACth
-35 aes 4e 4 oe
-ae
-i if fad { ce". PRI
-se
-oe Lots
-il poe |
-So,
-lett ee
-Xo 7
-i=
-oo ae,
-<a
-bales AY
-OEE ll se
-|
-cee
-SS
-ak
-hy
-iw) Are
-lia
-ae
-ee)
-ates
-ee \
-as 7B
-56.9
-if
-i Af Pe
-\
-Nin :
-tATE Tue rae patS°®
-ee?
-eee
-cot 5Q-- %
-ati i
-ae ef
-<<
-Yo
-EXWRGANADYSTHAUIOND|. ic, ope 213528 cOmS-a/w wosarc us sar Mace
-14182 TUE JUL 02 2019
-ee”
 Figure 25-9. Surface Analysis with Satellite Composite Example
 Chapter 25, Analysis
 25-10
@@ -553,39 +235,7 @@ surface weather features. These plotted observations are referred to as station 
 not be plotted due to space limitations. However, all reporting stations are used in the analysis.
 Figure 25-10 and Figure 25-11 contain the most commonly used station plot models used in surface analysis
 charts.
-Wind
-Sea-level pressure
-re \
-J
-Weather ——»> ee
-\
-Pressure trend (mb)
-DewPointF)
-Sky cover
 Figure 25-10. NWS Surface Analysis Chart Station Plot Model
-Wind
-‘omper ature:
-\
-Sea-level
-ture
-(F)
-Pressure
-or
-Gn
-Current
-Weather> oe
--é6\_<e
-Station —> 41010
-10605<—"2""
-Identification
-Information
-Water
-62 /
-Temperature (F)
-<<
-‘ Swell
-sh (F) oh covet
-Information
 Figure 25-11. NWS Surface Analysis Chart Ship/Buoy Plot Model
 Chapter 25, Analysis
 25-11
@@ -617,32 +267,6 @@ Chapter 25, Analysis
 25-12
 
 Figure 25-13 contains a list of the most common weather symbols.
-oo
-oe
-oo
-Rain (lightmoderate,heavy)
-we
-te
-=
-Snow (lightmoderatesheavy)
-ROR
-TK
-Thunder (with rain,snow.no precipitation)
-a*
-VVv
-‘Shower (rain,snow)
-”
-Drizzle
-WO
-#
-Freezing rain, Freezing drizzle
-A
-Ice pellets/Sleet
-=
-=
-Fog (shallow,deep)
-co
-Haze
 Figure 25-13. NWS Surface Analysis Chart Common Weather Symbols
 25.2.3.4.5 Wind
 Wind is plotted in increments of 5 kt. The wind direction is referenced to true north and is depicted by a
@@ -653,19 +277,6 @@ Chapter 25, Analysis
 25-13
 
 Figure 25-14 includes some sample wind symbols.
-50+WMi
-Wind blowingfromthe
-west at 75 knots
-ie
-Wind
-blowing
-from
-th
-Wiblingene
-Wind blowing from the
-south at5 knots
-©
-Calm wind
 Figure 25-14. NWS Surface Analysis Chart Sample Wind Symbols
 25.2.3.4.6 Ceiling
 Ceiling is plotted in hundreds of feet AGL.
@@ -687,59 +298,11 @@ The pressure trend has two components, a number and a symbol, to indicate how th
 changed during the past three hours. The number provides the three-hour change in tenths of millibars,
 while the symbol provides a graphic illustration of how this change occurred.
 Figure 25-15 contains the meanings of the pressure trend symbols.
-\
-Continuously falling
-Continuously rising
-\L
-Falling, then steady
-Rising, then steady
-\V
-Falling before a lesser rise
-SW
-Falling before a greater rise
-fall
-Z*
-Rising before a lesser fall
-Rising before a greater
-—
-Steady
 Figure 25-15. NWS Surface Analysis Chart Pressure Trends
 25.2.3.4.10 Sky Cover
 The approximate amount of sky cover can be determined by the circle at the center of the station plot. The
 amount that the circle is filled reflects the amount of sky covered by clouds. Figure 25-16 contains the
 common cloud cover depictions.
-Sky
-Sune
-Sky
-Cover
-a
-Name
-Abbr. | Cover
-[8 | @ [vei
-(oktas)
-(tenths)
-Sky
-Lt 1D]
-ae ||
-sews
-Few
-FEW*
-Bice Scattered | SCT
-| + [|
-ps |e
-| 7 ||
-Pr [re omen [ oe [we
-)
-Sky
-un-
-Obscured
-known
-(/)
-Not
-un-
-Measured
-known
-* “Few” is used for (0 oktas) < coverage < (2 oktas).
 Figure 25-16. NWS Surface Analysis Chart Sky Cover Symbols
 Chapter 25, Analysis
 25-15
@@ -794,227 +357,7 @@ The Unified Surface Analysis Chart is issued four times daily for valid times 00
 Chapter 25, Analysis
 25-16
 
-LA ix ie? falas Hise SABENo ae
-pe (| CH) SUB oeS eG
-es
-ee
-(hae, aeFe
-(oy Wee
-ee
-Ce hepe ee BHR HE
-VS bakry $b E-
-hs HEY)//
-eas
-2 CH? joss.
-at
 Figure 25-17. Unified Surface Analysis Chart Example
-a
-a
-fa [is
-a
-a
-pBe
-¥
-ON
-a
-:
-101330%
-Ness05s
-Diez ee Sap oie
-the\
-£6
-f@-15\
-1153. 09e
-®+2/ | SS
-\sc
-ee
-eg A
-a
-&
-STEEP oom ggio
-Ep!Sg
-=
-TE
-'
-85 Pep “IY 51585
-y
-Sol
-1013 ce
-EO
-fee
-AL" 1009 tei haan
-Wer Od
--t@
-¢
-Bo PO,
-i
-Bid
-Bee Uy
-“ph
-as i) (oo,eee Eee
-ae
-ee
-=
-Sg
-Re
->
-Oo -FAD OB
-es
-2oag
-Ae
-ge
-oe 5°] eet eqs Fy
-ae Al
-a
-seg
-ang
-5,
-‘
-8 +5gp Wert—
-Song Ee
-FOR
-sate
-SO,
-ea
-Ag
-fo
-Nagin
-OTB
-BY
-i
-~-------/A-
-AE OR a)OS 1011265 engl One
-ar
-99 /
-See kk
-ale
-ia 1 oe= eeeBg094
-So
-A=
-'
-Wace Ve
-H
-Laue
-HES
-on
-ey
-27__
-eq
-nA
-Re
-oleae
-oe
-a
-180)
-ang
-a
-ee
-62 14
-a +5
-a
-an
-so oor
-;
-/
-=
-Gu
-Ne Eigse
-a
-eas 10117:
-pe
-tN ek
-y
-“A
-lea ee ore
-oF
-arise | |
-SY
-fh fe
-os
-ANH aus P1018.
-OBrc a
-i
-2g
-LY
-Nhe,
-op 7s “Bie SS,
-lv
-“3 1016
-a
-p79 galas cee
-72.1837
-“Sos
-ee
-Pa
-“
-Ps oR
-266 SSA
-ves]
-=
-236 I
-d
-sprites
-al
-< ais| 159
-'
-76.133
-+7 SERB
-12.9%
-(i, [101s ree a Ge
-Ea
-ug
-Poe, oe
-ee
-SN
-pGee as
-|
-aks
-hen,
-|
-8 16° 2,
-4?
-ZB AER
-oS
-y
-rs
-forme seh
-2b Sis ba
-gol isi
-7eyls0
-ce
-®
-Ne hot ek a
-ae
-ey
-it los REC LE TOR YES
-es Gey
-Bd
-i
-v7
-«BOW
-2ON
-+4 AOR Ge Panes @
-las ai CEE OED
-asw
-eee
-Sie
-Bow©
-8)
-) eta
-a
-a
-“ne
-_
-ae
-.
-UTC
-JULY
-G2
-@
--
-NATIONAL
-SERVIC
-c
 Figure 25-18. Unified Surface Analysis Chart Example (Enlarged Area)
 25.2.4.2 Analysis Symbols
 Unified Surface Analysis Charts use the symbols shown in Figure 25-6.
@@ -1025,51 +368,6 @@ from the AAWU’s website.
 Chapter 25, Analysis
 25-17
 
-a
-Me
-Oa
-:
-:
-_
-Tey
-hep
-‘on:
->
-“90.
-[11078
-ea
-YESS
-'
-A
-SH
-SZ
-roel
-.
-; AY) = (.
-fi
-a
-if
-ig
-ek
-1021, : 20
-<<
-“joist
-‘,
-1000,WAY ‘2
-:
-“ay 1015)ex
-Sek
-LAY)
-H
-|
-1008.
-a,
-c
-c
-A
-oy
-|
-’
 Figure 25-19. Unified Surface Analysis Chart Example with Fixed Area Coverage over Alaska
 25.3 Upper Air Analysis
 An upper air chart (also known as a constant-pressure chart or an isobaric chart) is a weather map
@@ -1095,9 +393,11 @@ crests (ridges) and valleys (troughs) and are in constant movement.
 Chapter 25, Analysis
 25-18
 
-5.
 Figure 25-20. Schematic of 500 mb Constant-Pressure Chart
 Table 25-3. Common Constant-Pressure Charts
+25.3.1 Issuance
+The NWS provides data to produce upper air analysis charts.
+Chapter 25, Analysis
 Pressure Altitude (approximate)
 Chart
 Feet (ft)
@@ -1129,82 +429,10 @@ Meters (m)
 925 mb
 2,500 ft
 750 m
-25.3.1 Issuance
-The NWS provides data to produce upper air analysis charts.
-Chapter 25, Analysis
 25-19
 
 25.3.1.1 Examples
 See Figure 25-21 for an example of a 500 mb chart.
-Se
-OM
-SIN
-BTA
-ee a Se
-ane
-YW
-~ Ss
-ea Ra
-“
-y
-<8
-eee Oe
-_
-oy
->
-va
-tae
-“
-a
--ar sy {B86
-ge es
-aa
-Bie
-| 1507\ la cor GSCNet
-&
-oe
-“7 58g
-ne
-a} pom
-3G,
--9-599
--a 2
-|v s09 gi eeaia wg
-“
-Sah
-its
-at
-a
-he
-oY
-at
-AY
-og
-~
-afin
-\ oR
---a[s07
-a
-ee
-\
-gt
-4)
-+,
-Sshsae -6 592
-ae
-a
-.
-x
-~
-Le
-of
-|
->
-at
-‘
-us
-Sey ia
-a eae
 Figure 25-21. Example of a 500 mb Constant-Pressure Chart
 Constant pressure level forecasts are used to provide an overview of weather patterns at specified times and
 pressure altitudes and are the source for wind and temperature aloft forecasts.
@@ -1253,23 +481,6 @@ observation (weather balloon).
 Bold, solid green line represents the dewpoint profile.
 •
 Wind aloft is shown on the far-right side.
-"f
-19070470000 72681
-KBOI
-LCLP: -9999 LIFT: -9999 PWAT:
-a
-TARA]
-ORK
-KYXDEEN
-AR
-SANDERS
-wh
-\SARA
-[SAGA BAVARIA
-a
-Ve
-soo NENA A NINN ENS
-800 SDN NeNRO]
 Figure 25-22. Skew-T Diagram Example
 Chapter 25, Analysis
 25-21
@@ -1278,58 +489,12 @@ Chapter 25, Analysis
 Two examples are provided below: a multiple freezing level example (see Figure 25-23) and a cloud top
 example (see Figure 25-24).
 25.3.2.3.1 Multiple Freezing Level Example
-A
-<
-Sot
-SS
-—
-~;
-KaSONORA
-SSG
-|
-eyOS
-[O77 NN NOR
-RTE TF
-yooNS
-NORTE
-onoNN
-900 P—_S>
-EES ST ET
-[ZN NNN
-SS
-NS
-009GN
-a
-CS 27,SY|
-=20
-°
-TEMPERATURE(TMPC)
-IN RED
-DEWPOINT(DWPC)
-IN 8REEN
 Note how the temperature profile (bold red line) crosses the 0-degree temperature line (also known as an
 isotherm) five times (near 900 mb, 860 mb, 775 mb, 725 mb, and 675 mb).
 Figure 25-23. Skew-T Diagram—Multiple Freezing Level Example
 25.3.2.3.2 Cloud Top Example
 Figure 25-24 is the radiosonde observation from Vandenberg Space Force Base (VSFB), California, for
 1200 UTC for a typical coastal stratus cloud.
-100 SN
-NOD
-OER
-on NNN
-OOS
-NORE
-Fy|S/O
-NE 7A
-7A
-|
-1009 SEN
-Re
-=20
-TEMPERATURE(TMPC)
-IN RED
-DEWPOINT(DWPC)
-IN 8REEN
 At about 950 mb, the temperature profile (bold red line) and dewpoint profile (bold green line) almost touch
 each other. This is the profile of a cloud top. The temperature and dewpoint quickly diverge, representing
 a change from the cool, moist air (and associated stratus cloud) to the dry and warmer air (cloud free)

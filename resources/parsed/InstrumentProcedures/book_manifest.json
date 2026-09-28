@@ -1,10 +1,11 @@
 {
   "bookName": "InstrumentProcedures",
   "sourcePdf": "resources/library/InstrumentProcedures/Instrument Procedures Handbook FAA-H-8083-16B.pdf",
-  "cacheKey": "4350453cb7e66a06c19e7724bcb96825fac99557cc539732479fc869e9cf27d4",
+  "cacheKey": "1780573bf66b34cc780693043b0f570e2cabfbaa2cd49290f20f2bb596a9b7c5",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "Departure Procedures",
       "startPage": 17,
       "endPage": 60,
       "images": [
@@ -762,6 +763,7 @@
     },
     {
       "chapter": "ch02",
+      "title": "En Route Operations",
       "startPage": 61,
       "endPage": 112,
       "images": [
@@ -2316,6 +2318,7 @@
     },
     {
       "chapter": "ch03",
+      "title": "Arrivals",
       "startPage": 113,
       "endPage": 140,
       "images": [
@@ -3026,6 +3029,7 @@
     },
     {
       "chapter": "ch04",
+      "title": "Approaches",
       "startPage": 141,
       "endPage": 232,
       "images": [
@@ -4852,6 +4856,7 @@
     },
     {
       "chapter": "ch05",
+      "title": "Improvement Plans",
       "startPage": 233,
       "endPage": 250,
       "images": [
@@ -6715,6 +6720,7 @@
     },
     {
       "chapter": "ch06",
+      "title": "Airborne Navigation Databases",
       "startPage": 251,
       "endPage": 268,
       "images": [
@@ -7140,6 +7146,7 @@
     },
     {
       "chapter": "ch07",
+      "title": "Helicopter Instrument Procedures",
       "startPage": 269,
       "endPage": 286,
       "images": [

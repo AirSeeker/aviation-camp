@@ -371,12 +371,50 @@ def clean_text_lines(page_lines: Iterable[str], book_name: str) -> List[str]:
     return cleaned
 
 
+def extract_chapter_title(page_lines: Iterable[str], chapter_number: int) -> str | None:
+    lines = [normalize_line(line) for line in page_lines if normalize_line(line)]
+    chapter_pattern = re.compile(rf"^chapter\s+{chapter_number}\s*[:.,-]\s*(.+)$", re.I)
+    for line in lines[:20]:
+        match = chapter_pattern.match(line)
+        if match:
+            return match.group(1).strip(" .:-") or None
+
+    chapter_heading = re.compile(rf"^chapter\s+{chapter_number}\s*$", re.I)
+    for index, line in enumerate(lines[:20]):
+        if not chapter_heading.match(line):
+            continue
+        title_lines: List[str] = []
+        for candidate in lines[index + 1:index + 9]:
+            if candidate.lower() == "introduction" and title_lines:
+                break
+            if not re.search(r"[A-Za-z]", candidate):
+                break
+            if title_lines and candidate == title_lines[-1]:
+                continue
+            title_lines.append(candidate)
+        if title_lines:
+            return " ".join(title_lines).strip(" .:-")
+
+    numbered_heading = re.compile(rf"^{chapter_number}\s+([A-Za-z].+)$")
+    for line in lines[:10]:
+        match = numbered_heading.match(line)
+        if match:
+            return match.group(1).strip(" .:-")
+    return None
+
+
 def create_ocr_textpage(page: fitz.Page, language: str, dpi: int) -> fitz.TextPage:
     return page.get_textpage_ocr(language=language, dpi=dpi, full=False)
 
 
 def extract_layout_lines(page: fitz.Page, textpage: fitz.TextPage | None = None) -> List[Tuple[float, float, float, float, str]]:
     page_dict = page.get_text("dict", textpage=textpage) if textpage is not None else page.get_text("dict")
+    image_rects = [
+        rect
+        for xref in {item[0] for item in page.get_images(full=True)}
+        for rect in page.get_image_rects(xref)
+        if rect.get_area() < page.rect.get_area() * 0.75
+    ]
     lines: List[Tuple[float, float, float, float, str]] = []
     for block in page_dict["blocks"]:
         if block.get("type") != 0:
@@ -387,6 +425,12 @@ def extract_layout_lines(page: fitz.Page, textpage: fitz.TextPage | None = None)
             if not text.strip():
                 continue
             x0, y0, x1, y1 = line.get("bbox", block["bbox"])
+            line_rect = fitz.Rect(x0, y0, x1, y1)
+            if line_rect.get_area() and any(
+                (line_rect & image_rect).get_area() / line_rect.get_area() >= 0.5
+                for image_rect in image_rects
+            ):
+                continue
             lines.append((float(x0), float(y0), float(x1), float(y1), text))
 
     if not lines:
@@ -541,7 +585,7 @@ def build_parse_cache_key(
     appendix_ranges: List[Dict[str, Any]] | None = None,
 ) -> str:
     payload = {
-        "parser_version": 5,
+        "parser_version": 6,
         "pdf": str(pdf_path.resolve()),
         "ocr": bool(ocr),
         "ocr_language": ocr_language,
@@ -869,6 +913,9 @@ def parse_book(
                     chapter_manifest.append(
                         {
                             "chapter": chapter_key,
+                            "title": extract_chapter_title(
+                                page_text_by_num.get(start_page, []), index
+                            ),
                             "startPage": start_page,
                             "endPage": end_page,
                             "images": images,

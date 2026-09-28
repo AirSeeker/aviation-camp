@@ -1,10 +1,11 @@
 {
   "bookName": "Instrument",
   "sourcePdf": "resources/library/Instrument/Instrument Flying Handbook FAA-H-8083-15B.pdf",
-  "cacheKey": "9e9d0c07f116561f75e96973309ba5ccd589475d482169ac78b174fb347c4a32",
+  "cacheKey": "67f778639981ece2ed57d6cd1be195eba580ffc3119e1bb3317ed373381ed989",
   "chapters": [
     {
       "chapter": "ch01",
+      "title": "The National Airspace System",
       "startPage": 20,
       "endPage": 51,
       "images": [
@@ -1323,6 +1324,7 @@
     },
     {
       "chapter": "ch02",
+      "title": "The Air Traffic Control System",
       "startPage": 52,
       "endPage": 67,
       "images": [
@@ -1997,6 +1999,7 @@
     },
     {
       "chapter": "ch03",
+      "title": "Human Factors",
       "startPage": 68,
       "endPage": 77,
       "images": [
@@ -2061,6 +2064,7 @@
     },
     {
       "chapter": "ch04",
+      "title": "Aerodynamic Factors",
       "startPage": 78,
       "endPage": 95,
       "images": [
@@ -2170,6 +2174,7 @@
     },
     {
       "chapter": "ch05",
+      "title": "Flight Instruments",
       "startPage": 96,
       "endPage": 133,
       "images": [
@@ -4132,6 +4137,7 @@
     },
     {
       "chapter": "ch06",
+      "title": "Section I",
       "startPage": 134,
       "endPage": 161,
       "images": [
@@ -7438,6 +7444,7 @@
     },
     {
       "chapter": "ch07",
+      "title": "Section I",
       "startPage": 162,
       "endPage": 223,
       "images": [
@@ -12277,6 +12284,7 @@
     },
     {
       "chapter": "ch08",
+      "title": "Helicopter Attitude Instrument Flying",
       "startPage": 224,
       "endPage": 243,
       "images": [
@@ -12436,6 +12444,7 @@
     },
     {
       "chapter": "ch09",
+      "title": "Navigation Systems",
       "startPage": 244,
       "endPage": 291,
       "images": [
@@ -15656,6 +15665,7 @@
     },
     {
       "chapter": "ch10",
+      "title": "IFR Flight",
       "startPage": 292,
       "endPage": 325,
       "images": [
@@ -16128,6 +16138,7 @@
     },
     {
       "chapter": "ch11",
+      "title": "Emergency Operations",
       "startPage": 326,
       "endPage": 339,
       "images": [

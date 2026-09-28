@@ -1,5 +1,4 @@
 Appendix D: Risk Management Exercises
-Appendix D: Risk Management Exercises
 Four Scenarios
 This appendix includes four hypothetical scenarios to illustrate the cycle of risk management including risk identification,
 assessment, and mitigation. While similar to the accident scenarios in Appendix C, the following case studies do not include a
@@ -18,16 +17,11 @@ Scenario 1: Recreational Aviation
 A pilot is planning an annual flight to EAA Airventure in Oshkosh, WI (OSH) using a single-engine piston airplane. [Figure
 D-1]. It is a direct, non-stop (390 NM) from Chan Gurney Municipal (YKN) in Yankton, SD. Passengers include two friends
 who have never flown in a small aircraft. The planning began several days before the scheduled departure.
-Oem gos re
 AirVenture starts on Monday, and the plan is to make the flight to OSH on Sunday. The prognostic weather charts for the next
 several days show that a large weather system will arrive in YKN late Saturday night from the west. It will generate a line of
 severe thunderstorms that move rapidly east and pass OSH late Sunday evening. Behind the front, there will be low ceilings
 of 300-500 feet and light to moderate rain. On Saturday, Visual Meteorological Conditions (VMC) will exist in both YKN and
 OSH, with the potential for isolated thunderstorms.
-OL
-NS
-CONT ae
-SS.ep
 Figure D-1. Scenario 1 chart excerpt.
 D-1
 
@@ -42,19 +36,6 @@ It is now 10:00 am on a Friday in August after a hectic but successful new produ
 press conference and wishes to head north to enjoy the weekend in the Berkshires before meetings at the Massachusetts facility
 on Monday. The pilot plans to fly the PA-46 nonstop (984 NM) from St. Petersburg Clearwater (PIE) to the Pittsfield, MA
 airport (PSF) at FL270. [Figure D-2]
-aa
-oe
-Y
-oss
-\
-Rae
-J
-“
-Grants SC a Yee >
-eG ee A
-leat
-PRON PepSe
-Figure D-2. Scenario 2 chart excerpt.
 While a family member/passenger drives the pilot to the airport for an 11:00 AM takeoff, the pilot reviews the flight planning.
 The flight should take 3:45, and the fuel on board provides endurance of 4:45. The weather is good at PSF and en route, with
 isolated to scattered air mass thunderstorms. However, the pilot contemplates the air traffic in the Washington, DC and New
@@ -69,13 +50,8 @@ airport (SMO) and flights to Van Nuys (VNY), San Gabriel Valley (EMT), Brackett 
 (FUL). The pilot plans to make the return flight to SMO in the early evening, to arrive just before sunset. Figure D-3 shows
 the route of flight.
 D-2
+Figure D-2. Scenario 2 chart excerpt.
 
-|Fe cakeny Sen lig 2 peeae
-Te Wel
-=BS eeSRSaie
-Sa atea
-ROA
-Figure D-3. Scenario 3 chart excerpt.
 The weather throughout the basin is marginal VFR, with visibility of 3-5 miles and ceilings varying from 1,700 feet at FUL
 to 800 feet at POC. Clear skies are forecast after 2:00 PM. The pilot has an instrument rating, and the helicopter has IFR
 instrumentation, but it is not approved for IFR flight. The pilot is not instrument current. High terrain exists on the leg from
@@ -91,6 +67,7 @@ minute reserve. The weather for Thursday in Massachusetts is forecast to be marg
 miles visibility with cloud tops at 8,000 feet.
 The pilot considers the destination logistics and consults both the New York sectional chart, the associated chart supplement,
 as well as sources for fuel, airport services, rental cars, and hotels. [Figure D-4]
+Figure D-3. Scenario 3 chart excerpt.
 D-3
 
 The runway at Turners Falls is 3,200 feet. Nearby airports Orange (ORE) and Northampton (7B2) have runways of 5,000 feet
@@ -109,100 +86,4 @@ The minimums at Orange and Westfield-Barnes Regional provide for vertical guidan
 only lateral guidance (LNAV) is available with a Minimum Descent Altitude (MDA) approximately 800 feet above the ground.
 Only circling minimums with an MDA approximately 1,100 feet above ground is available at Turners Falls.
 D-4
-Al
-UNE SEASOE)
-M25) <"
-° ea
-Beat \is0e |2525
-é
-92 12
-JOY
-I)
-kK
-.
-XQ eam,i YSOHJos BO2%
-YAS
-AAS IS
-R
-XGtange
-(201)
-y
-( ~\
-ee
-a
-ea Qe
-JAA
-ORANGE (ORE),
-{ARR
-Mu
-eNO oh ili “ASOS 135.675\,
-acaene
-2-=
-60 122. 8OSE 123-157
-Te ISON
-WW
-Faalis: B56"
-el\
-oto ice
-be
-PA Sew
-shield
-<Beesela7
-NY
-a)
-\
-n.Leverett
-Salem
-Se
-o's
-Deert
-y,
-\ temre
-eno
-a
-p Jove
-lass *
-oO
-Ks
-*
-~¥ {whatet /
-[
-u
-SR 1281 6 Vo
-tes
-]
-AEN | Waapee8
-Ke
-aos Lak
-Gos (nse
-XN
-RQ (277)
-2900/0 “hse ie OX
-yarn
-Leics
-4)
-[jtehosZOU
-) ya Ne Av) Pe 0yrANINER-HIL
-a
-sdhuas J
-SEPMERSTNA\ Bp Senet
-ae
-/me NORTHAMPTON aa” ANis78
-\
-Biota x
-ee
-Lad 123%.@, PUPGY
-yo
-7 WAI
-ON
-RSciUi2r
-_ NoRTHAUPTO
-ees
-Pup
-ls
-Ne
-NAO
-WENT
-VA)
-Sciervte
 Figure D-4. Scenario 4 chart excerpt.

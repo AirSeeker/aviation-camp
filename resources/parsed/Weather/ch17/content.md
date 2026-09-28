@@ -1,11 +1,3 @@
-regions, and transitory systems that invade or disturb the basic tropical circulation. a
-17 Tropical Weather
-17.1 Introduction
-Technically, the Tropics lie between latitudes 23½° N and 23½° S. However, weather typical of this region
-sometimes extends as much as 45° from the Equator. One may think of the Tropics as uniformly rainy,
-warm, and humid. The facts are, however, that the Tropics contain both the wettest and driest regions of
-the world.
-This chapter describes the basic circulation over the Tropics, terrain influences that determine arid and wet
 Chapter 17, Tropical Weather
 17-1
 
@@ -27,32 +19,6 @@ over oceans with troughs or lows over continents, as shown in Figure 17-1 and Fi
 highs shift southward during the Northern Hemisphere winter and northward during summer. The seasonal
 shift, the height and strength of the inversion, and terrain features determine the weather in the subtropical
 high-pressure belts.
-bd
-~ <
-<=,Semi-Permanent PressureSystems: July
-”
-@
-Dir \S pee, AEA he/G
------
-ait
-nS
-eS ES
-Sore
-oe
-is LS as
-S
-EA BNE. area wy
-oe
-ee
-cs
-ye
-,
-~.
-SSeS
-eS SS SS
-SS
-— ee
-SS
 In the warm Northern Hemisphere, warm land areas tend to have low pressure and cool oceanic areas tend
 to have high pressure. In the cool Southern Hemisphere, the pattern is reversed: cool land areas tend to have
 high pressure and water surfaces have low pressure. However, the relationship is not so evident in the
@@ -62,38 +28,6 @@ Figure 17-1. Mean Worldwide Surface Pressure Distribution and Prevailing Winds T
 Chapter 17, Tropical Weather
 17-2
 
-a
-.Semi-Permanent Pressure Systems: January
-—oraae|,
-+ )*) Slee
-L
-= =) ae ZZ?
-KS eT ee. =
-pies
-?
-2,
-as
-Lo
-=
-Noe
-ee 7
-Re
-\
-ye
-.
-=
-‘
-a
-a
-Nive
-gw
-a
-:
-SS)
-ee
-ee
-Se
-SS
 In this season, the pattern from Figure 17-1 is reversed. In the cool Northern Hemisphere, cold continental
 areas are predominantly areas of high pressure, while warm oceans tend to be low-pressure areas. In the
 warm Southern Hemisphere, land areas tend to have low pressure and oceans have high pressure. The
@@ -283,21 +217,6 @@ extensive, and sometimes dense cirrus and some convective turbulence and CAT, of
 TUTTs and lows aloft produce considerable amounts of rainfall in the Tropics, especially over land areas
 where mountains and surface heating lift air to saturation. Low-pressure systems aloft contribute
 Chapter 17, Tropical Weather
-HIGH
-\g
-cine. —
-pei
-|
-SHEE
-|
-=
-J
-3/
->
-id
-S|
-ay
-=
 17-7
 
 significantly to the 300+ in of annual rainfall over the higher terrain of Maui and the big island of Hawaii.
@@ -316,10 +235,6 @@ Tropical waves occur in all seasons but are more frequent and stronger during su
 Pacific waves frequently affect Hawaii; Atlantic waves occasionally move into the Gulf of America,
 reaching the coast of the United States.
 Chapter 17, Tropical Weather
-ey
-Pa
-HAWAIIAN
-ISLANDS.
 17-8
 
 Note that winds shift generally from northeasterly to southeasterly. The wave moves
@@ -333,9 +248,6 @@ latitudes into the oceanic trade winds. In the North Atlantic, this is known as 
 Line (WADL). A WADL can move faster than easterly waves at 20 to 40 mph. Some WADLs eventually
 develop into tropical storms or hurricanes.
 Chapter 17, Tropical Weather
-,
-ASS
-Ba
 17-9
 
 17.3.5 Tropical Cyclones
@@ -370,26 +282,6 @@ low-pressure area. Winds flow directly into an equatorial low and rapidly fill i
 Chapter 17, Tropical Weather
 17-10
 
-= ieee
-i,
-Me
-oa
-Ye (fe
-SS
-ea
-ar
-“oie
-a
-Rl
-fo
-SR ey eS
-le
-—"
-—
-HA
-ENS ea
-All
-Next
 This map is based on all storm tracks available from the International Best Track Archive for Climate Stewardship
 (IBTrACS), a global inventory of tropical cyclones, through 2008. The accumulation of tracks reveals several details
 of hurricane climatology, such as where the most severe storms form and the large-scale atmospheric patterns that
@@ -442,67 +334,7 @@ Hurricane Wind Scale.
 Chapter 17, Tropical Weather
 17-12
 
-No Le a
-eA
-ence renecriy
-Soa
-Ae <
-Aiea
-aan % POR Py tance oie
-Pape:
-Ra
-fC
-ee
-haf
-"ibe, i
-Fabs
-ares
-Seikae
-ss
-Pe
-;
-ei
-“a,
-/
-a
-———
-ft
-= eS
 Figure 17-8. Radar Image of Hurricane Katrina Observed at New Orleans, Louisiana, on August 29, 2005
-. cad
-?
-a4
-i
-ye
-t
-i
-er
-Smee .
-Pe
-2. Sy
-eae
-“<4
-ri
-Sy
-S
-yg
-Hurricane Andrew.
-ad ae ym
-\
-; @. 4 NOAA-12 AVHRR HRPT ey da
-,
-fe
-Multi-spectral False Color Image’:
--
-,
-:
-:
-sae
-be
-i
-gust 23,4 9S20@) 12:31 UTC
-nd
-=
 Figure 17-9. Hurricane Andrew Observed by Satellite in 1992
 Chapter 17, Tropical Weather
 17-13

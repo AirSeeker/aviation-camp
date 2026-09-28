@@ -1,15 +1,3 @@
-products. Note that the FAA does not certify internet providers of aviation weather services. |
-3 Overview of Aviation Weather
-Information
-3.1 Introduction
-Title 14 of the Code of Federal Regulations (14 CFR) § 91.103 states the requirements for preflight action
-for 14 CFR part 91 operations. According to 14 CFR § 91.103, each pilot-in-command (PIC) shall, before
-beginning a flight, become familiar with all available information concerning the flight, including weather
-reports and forecasts.
-This handbook describes the weather products primarily produced by the NWS. There is an ever-expanding
-suite of weather products available on the internet, weather applications (apps) for phones and tablets, as
-well as commercial Electronic Flight Bags (EFB). Pilots and operators should consult with their Principal
-Operations Inspector (POI) or their service provider when in doubt about the content and use of new weather
 Chapter 3, Overview of Aviation Weather Information
 3-1
 
@@ -2872,8 +2860,3 @@ Chapter 3, Overview of Aviation Weather Information
 Summary
 Summary
 3-36
-
-|,|
-Weather Theory and Aviation
-Part 2:
-Hazards

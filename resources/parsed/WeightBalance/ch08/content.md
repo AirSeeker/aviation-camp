@@ -1,7 +1,6 @@
 Chapter 8
 Weight and Balance Control—
 Helicopter
-F |
 Introduction
 Weight and balance considerations of a helicopter are similar
 to those of an airplane, except they are far more critical,
@@ -51,30 +50,16 @@ example of such CG envelopes.
 Datum FS 0.0
 FS 68.0
 FS 254.5
-=
 Longitudinal CG Envelope
 2,400
-e
-att
 2,203
 2,200
 Gross Weight (lb)
 2,027
-oJ
-———
 2,000
-_
 1,877
-BL 27.4 R
-Butt
-——
-ee
 Approved Area
-line
-BL 0
 1,800
-zero
-BL −38.7 L
 95.0
 98.2
 94.4
@@ -207,12 +192,6 @@ either ballast or a passenger, as computed in Figure 8-6 and
 plotted in Figure 8-3.
 8-3
 
-oT
-Od
-ee
-Od
-|
-|
 Longitude
 Longitude
 Longitude
@@ -225,10 +204,6 @@ x
 Item
 Weight
 Weight
--
-tI
-tI
--
 Arm
 Moment
 CG
@@ -261,12 +236,6 @@ Fuel (48 gallons)
 207,991
 94.4
 Figure 8-4. Determining the longitudinal CG and the lateral offset moment.
-ST
-ee
-I
-Od
-|
-|
 Longitude
 Longitude
 Longitude
@@ -279,10 +248,6 @@ x
 Item
 Weight
 Weight
-I
--
--
-I
 Arm
 Moment
 CG
@@ -310,12 +275,6 @@ Fuel (22 gallons)
 184,439
 98.2
 Figure 8-5. Determining the longitudinal CG and the lateral offset moment for the second leg of the flight.
-oT
-I
-|
-I
-|
-|
 Longitude
 Longitude
 Longitude
@@ -325,10 +284,6 @@ Lateral Offset
 =
 x
 x
-J
-=
-=
-J
 Item
 Weight
 Weight

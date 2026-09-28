@@ -1,8 +1,3 @@
-the atmosphere. This chapter will discuss global circulations and jet streams. —_
-9 Global Circulations and Jet Streams
-9.1 Introduction
-Global circulations explain how air and storm systems, which have potential impacts on aircraft operations,
-travel over the Earth’s surface. Jet streams are relatively narrow bands of strong wind in the upper levels of
 Chapter 9, Global Circulations and Jet Streams
 9-1
 
@@ -34,9 +29,6 @@ Polar cell—Air rises, diverges, and travels toward the poles. Once over the po
 forming the polar highs. At the surface, air diverges outward from the polar highs. Surface winds
 in the polar cell are easterly (polar easterlies).
 Chapter 9, Global Circulations and Jet Streams
-z™S
-SS
-VA
 9-2
 
 Figure 9-2. Earth Circulation System
@@ -58,7 +50,6 @@ Why do the jet stream winds blow from west to east? As stated in the previous se
 rotating, the warm air would rise at the Equator and move toward both the poles. The Earth’s rotation
 divides this circulation into three cells. Likewise, the Earth’s rotation is responsible for the jet stream.
 Chapter 9, Global Circulations and Jet Streams
-EZ
 9-3
 
 The motion of the air is not directly north and south, but rather is affected by the momentum the air has as
@@ -80,14 +71,6 @@ In addition, with the three cell circulations mentioned previously, the regions 
 temperature between the two locations increases, the strength of the wind increases. Therefore, the regions
 around 30° N/S and 50°–60° N/S are also regions where the wind in the upper atmosphere is the strongest.
 Chapter 9, Global Circulations and Jet Streams
-LLL. WSs
-| |e\\S
-LL
-HELL
-WUT
-Wy
-WY
-ANN
 9-4
 
 Figure 9-4. Three Cell Circulations and Jet Stream Location
@@ -103,20 +86,6 @@ Jet streams also follow the Sun, in that as the Sun’s elevation increases each
 shift north, moving into Canada by summer. As autumn approaches and the Sun’s elevation decreases, the
 jet stream moves south into the United States, helping to bring cooler air to the country.
 Chapter 9, Global Circulations and Jet Streams
-Subtropical jet
-Polarot
-o
-t
-Polar Jet
->
-Subtropical Jet e{27 “A = \
-i
-—~
-—s
-E/
-"
-Yen
-y
 9-5
 
 Figure 9-6. Jet Stream Wind Speeds
@@ -127,13 +96,4 @@ than just a distinct location.
 One way of visualizing this is to consider a river. The river’s current is generally the strongest in the center,
 with decreasing strength as one approaches the river’s bank. It can be said that jet streams are rivers of air.
 Chapter 9, Global Circulations and Jet Streams
-mph
-100 mph
-_
-(1)
-} —120 mph
->
-Jetsti
-7-140 mph
-og.
 9-6

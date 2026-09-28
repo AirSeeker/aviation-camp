@@ -1,9 +1,6 @@
 Chapter 1
 The National
-The National
 Airspace System
-Airspace System
-pe
 Introduction
 The National Airspace System (NAS) is the network of
 United States airspace: air navigation facilities, equipment,
@@ -159,8 +156,6 @@ approach
 Class G
 Class G
 Class G
--
-J
 Class A
 Class B
 Class C
@@ -358,140 +353,39 @@ east/west. If more than one airway coincides on a route
 segment, the numbers are listed serially (e.g., “V287-495-
 500”). [Figure 1-2]
 
-Altitude change
-Gi.
-GEE
-e RA “a8 /
-No altitude change
-Ga.|
-Sy.
-tar ase So
-V520 (even)
-yl
-(cours
-=a
-=
-oriented east/west
-icra
-Lag ee
-|
-Al
-Lissetsseadaay 2
-a
-RU
-oe
-tages
-tye i)
-:
-ves
-amine
-©
-CiRvewentraee
-“ova
-(Gey eal
-SOs
-|
-eel ae
-—
-Lf
-eBRE
-[fe
-WY
-sees.)
-|
-ii
-=f
-—s.
-yo ed
-rapa
-Te
-nas[yi
-xan”
-6D
-iis
-V595 MRA 9300
-ha
-V287-495-500
-e0304
-PAS
-osc,
-“oth
-confluence of airways
-Geman
-L,
-:
-A
-pee
-Mem
-Altitude change
-ed
-mccov A
-¥
-— vies oaoase:
-Nes
-Nt see 2
-x
-S|
->
-e SO
-%
-a
-V165 (odd)
-Dyoe
-V287 MOCA *3400
-Ga,|
-oriented north/south
-agS4a®
-_—ti«@Y
-Victor Airway V23
-ndegelomen
-ag.
-~
-Ni
-ig Om
-(Coma
-a
-yd
-NY
-ess
-| OES
-BS
-»
-cua
 Figure 1-2. Victor airways and charted IFR altitudes.
-Figure 8-2. Victor airways, and charted IFR altitudes.
 Jet routes exist only in Class A airspace, from 18,000 feet MSL
-Radar monitoring by ATC is required on all random
 to FL 450, and are depicted on high-altitude en route charts.
-RNAV routes. These routes can only be approved in a
 The letter “J” precedes a number to label the airway (e.g., J12).
-radar environment. Factors that are considered by ATC
-in approving random RNAV routes include the capability
 Area navigation (RNAV) routes have been established in
-to provide radar monitoring and compatibility with traffic
 both the low-altitude and the high-altitude structures in recent
-volume and flow. ATC will radar monitor each flight;
 years and are depicted on the en route low and high chart
-however, navigation on the random RNAV route is the
 series. High altitude RNAV routes are identified with a “Q”
-responsibility of the pilot.
 prefix (except the Q-routes in the Gulf of Mexico) and low
-Other Routing
 altitude RNAV routes are identified with a “T” prefix. RNAV
 routes and data are depicted in aeronautical blue.
+In addition to the published routes, a random RNAV route
+may be flown under IFR if it is approved by ATC. Random
+RNAV routes are direct routes, based on RNAV capability,
+between waypoints defined in terms of latitude/longitude
+coordinates, degree-distance fixes, or offsets from established
+routes/airways at a specified distance and direction.
+Radar monitoring by ATC is required on all random
+RNAV routes. These routes can only be approved in a
+radar environment. Factors that are considered by ATC
+in approving random RNAV routes include the capability
+to provide radar monitoring and compatibility with traffic
+volume and flow. ATC will radar monitor each flight;
+however, navigation on the random RNAV route is the
+responsibility of the pilot.
+Other Routing
 Preferred IFR routes have been established between
 major terminals to guide pilots in planning their routes of
-In addition to the published routes, a random RNAV route
 flight, minimizing route changes, and aiding in the orderly
-may be flown under IFR if it is approved by ATC. Random
 management of air traffic on Federal airways. Low and high
-RNAV routes are direct routes, based on RNAV capability,
 altitude preferred routes are listed in the Airport/Facility
-between waypoints defined in terms of latitude/longitude
 Directory (A/FD). To use a preferred route, reference the
-coordinates, degree-distance fixes, or offsets from established
 departure and arrival airports; if a routing exists for your
-routes/airways at a specified distance and direction.
 flight, then airway instructions are listed.
 1-5
 
@@ -592,67 +486,64 @@ equipment (DME) and the chart indicates the intersection can
 be identified with such equipment, the pilot could define the
 ) indicates Class C and D
 
-Figure 8-3. En route airport legend.
 Figure 1-3. En route airport legend.
-Navigation Features
 fix without attaining the MRA. On AeroNav Products charts,
 the MRA is indicated by the symbol
-and the altitude
-Types of NAVAIDs
 preceded by “MRA” (e.g., “MRA 9300”). [Figure 1-2]
-Very high frequency omnidirectional ranges (VORs) are the
-principal NAVAIDs that support the Victor and Jet airways.
 The minimum crossing altitude (MCA) is charted when
-Many other navigation tools are also available to the pilot.
 a higher MEA route segment is approached. The MCA is
-For example, nondirectional beacons (NDBs) can broadcast
 usually indicated when a pilot is approaching steeply rising
-signals accurate enough to provide stand-alone approaches,
 terrain and obstacle clearance and/or signal reception is
-and DME allows the pilot to pinpoint a reporting point on the
 compromised. In this case, the pilot is required to initiate a
-airway. Though primarily navigation tools, these NAVAIDs
 climb so the MCA is reached by the time the intersection is
-can also transmit voice broadcasts.
 crossed. On AeroNav Products charts, the MCA is indicated
 by the symbol
 , and the Victor airway number, altitude,
-Tactical air navigation (TACAN) channels are represented
 and the direction to which it applies (e.g. “V24 8000 SE”).
+The maximum authorized altitude (MAA) is the highest
+altitude at which the airway can be flown with assurance
+of receiving adequate navigation signals. Chart depictions
+appear as “MAA-15000.”
+When an MEA, MOCA, and/or MAA change on a segment
+other than at a NAVAID, a sideways “T” (
+on the chart. If there is an airway break without the symbol,
+one can assume the altitudes have not changed (see the upper
+left area of Figure 1-2). When a change of MEA to a higher
+MEA is required, the climb may commence at the break,
+ensuring obstacle clearance. [Figure 1-4]
+Navigation Features
+and the altitude
+Types of NAVAIDs
+Very high frequency omnidirectional ranges (VORs) are the
+principal NAVAIDs that support the Victor and Jet airways.
+Many other navigation tools are also available to the pilot.
+For example, nondirectional beacons (NDBs) can broadcast
+signals accurate enough to provide stand-alone approaches,
+and DME allows the pilot to pinpoint a reporting point on the
+airway. Though primarily navigation tools, these NAVAIDs
+can also transmit voice broadcasts.
+Tactical air navigation (TACAN) channels are represented
 as the two- or three-digit numbers following the three-letter
 identifier in the NAVAID boxes. The AeroNav Products
-The maximum authorized altitude (MAA) is the highest
 terminal procedures provide a frequency-pairing table for
-altitude at which the airway can be flown with assurance
 the TACAN-only sites. On AeroNav Products charts, very-
-of receiving adequate navigation signals. Chart depictions
 high frequencies and ultra-high frequencies (VHF/UHF)
-appear as “MAA-15000.”
 NAVAIDs (e.g., VORs) are depicted in black, while low
 frequencies and medium frequencies (LF/MF) are depicted
-When an MEA, MOCA, and/or MAA change on a segment
 as brown. [Figure 1-5]
-other than at a NAVAID, a sideways “T” (
 ) is depicted
-on the chart. If there is an airway break without the symbol,
 Identifying Intersections
-one can assume the altitudes have not changed (see the upper
 Intersections along the airway route are established by a variety
-left area of Figure 1-2). When a change of MEA to a higher
 of NAVAIDs. An open triangle
-MEA is required, the climb may commence at the break,
 ATC reporting point at an intersection. If the triangle is solid
-ensuring obstacle clearance. [Figure 1-4]
 , a report is compulsory. [Figure 1-4] NDBs, localizers,
 indicates the location of an
 1-7
 
 Figure 1-4. Legend from en route low attitude chart, air traffic services and airspace information section.
 1-8
-Figure 8-4b. Legend from en route low altitude chart.
 
 Figure 1-5. Legend from en route low attitude chart.
-Figure 8-4a. Legend from en route low altitude chart.
 1-9
 
 and off-route VORs are used to establish intersections. NDBs
@@ -765,150 +656,7 @@ Name
 000.0
 000.0
 
-navii10.78+ 117-98 BvO|ss 13iber _r1K O00: _eTe28:25 _ esa3700er_| 122.700 (121.658)com
-WPT _ _ _ _ _ _ DIS _ _ ._ NM DTK _ _ _° TRK 360°
-aj
-NAV1 108.00 113.00
-134.000 118.000 COM1
-nw2117.98
-117.60 osu
-HAP WIVIGATTON WAP
-| 118.525
-132.9010 cone
-Oo
-a
-oO
-a
-NAV2 108.00 110.60
-123.800 118.000 COM2
-MAP - NAVIGATION MAP
-ed a?
-a ——
-i
-wd
-PS
-(ee
-TO}
-“LINING
-Pe
-ange
-Oi?
-ee
-fas fem sa”
-@
-i
-© 213
-sonar
-Oo
-Oo
-a
-a
-23.0
-(? Lan
-eae}
-LE)
-of
-eo
-RPH
-|
-ee
-a
-* 290 "|
-tors:
-e
-ae
-cm O°
-x
-A
-\
-FFLOW gPH
-:
-[1
-tS
-cane. TOG
-(e)
-Oo
->
-, |
-[resin fin]
-g
-nite
-|
-=
-b
-ed
-Se
-Fe
-|r goott
-x 2
-OTL PRES
-i
-(agi
-Es
-o
-shi
-on Tee
-ieee a
-ne
-awit
-13.7
-270°
-on
-a
-P
-|
-\
-|
-a
-TAS 100KT
-RCS
-sm
-t
-era
-A
-en
-i
-:
-tr
-a
-VOR 1
-,
-,
-“alecraica—
-& ee
-eS
-ee OF,
-—
-,
-23 mean
-Se
-ee
-al
-363 NB
-TRE
-Re,
-5S"
-pe
-Coa... SRT Smt
-=
-,
-,
-(00 ars a0 fe oe eee
-oe
-Nee WeT AUX NAST HOO
-XPDR 5537 IDNT LCL23:00:34
-OAT 7°C
-enpen LE) al
-[ENGINE
-a en
-DCLTR
-MAP
-oO
-oO
-a
-a
 Figure 1-6. Moving map display.
-MFD provide navigation information - moving map
 hazardous weather. GPS systems can be certified for terminal
 area and en route use as well as approach guidance.
 Additional breakthroughs in display technology are the
@@ -917,20 +665,13 @@ facilitate the use of electronic documents in the general
 aviation flight deck. [Figure 1-7] An electronic chart or
 flight bag is a self-powered electronic library that stores and
 displays en route charts and other essential documents on a
-i;
-i =|
 screen. These electronic devices can store the digitized United
 States terminal procedures, en route charts, the complete
-ty
-mY
 A/FD, in addition to 14 CFR and the AIM. Full touch-screen
 based computers allow pilots to view airport approach and
 area charts electronically while flying. With FAA approval,
 an operator may replace paper charts as well as other paper
-Hy
-———
 materials including minimum equipment lists (MELs),
-E aa ==
 standard operating procedures (SOPs), standard instrument
 departures (SIDs), standard terminal arrival routes (STARs),
 checklists, and flight deck manuals. As with paper flight
@@ -1040,106 +781,14 @@ not have straight-in landing minimums. Examples include
 procedure titles at the same airport, which have only
 circling minimums. The first approach of this type created
 
-a
-SE-3, 16 DEC 2010 to 13 JAN 2011
-SE-3, 16 DEC 2010 to 13 JAN 2011
 Figure 1-8. Obstacle departure procedures (ODP) and standard instrument departures (SID).
-|
-16 DEC 2010 to 13 JAN 2011
-TA
-TA
-SC-1
-TAKE-OFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES
-TAKE-OFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES
-(Obstacle) DP is published as a graphic procedure, its name will be listed below, and it can be found in
-and establishes take-off minimums for certain operators as follows: (1) Aircraft having two engines or
-centerline, 1435' MSL. Trees beginning 1215' from DER,
-CIVIL USERS NOTE: Title 14 Code of Federal Regulations Part 91 prescribes standard take-off rules
-Procedures apply to all runways unless otherwise specified. Altitudes, unless otherwise indicated, are
-MILITARY USERS NOTE: Civil (nonstandard) take-off minima are published below. For military take-
-1425' MSL, aircraft taxiing between 1038' and 2525' from
-IFR TAKE-OFF MINIMUMS AND (OBSTACLE) DEPARTURE PROCEDURES
-either this volume (civil), or a separate Departure Procedure volume (military), as appropriate. Users
-ALL USERS: Airports that have Departure Procedures (DPs) designed specifically to assist pilots in
-DPs specifically designed for obstacle avoidance are referred to as Obstacle Departure Procedures
-clearance and are published under the appropriate airport section. ATC clearance must be received
-avoiding obstacles during the climb to the minimum enroute altitude , and/or airports that have civil
-Graphic DPs designed by ATC to standardize traffic flows, ensure aircraft separation and enhance
-will recognize graphic obstacle DPs by the term "(OBSTACLE)" included in the procedure title; e.g.,
-taxiing 87' from DER, 360' left of centerline, 65' AGL/
-TETON TWO (OBSTACLE). If not assigned a SID or radar vector by ATC, an ODP may be flown
-TAKE-OFF OBSTACLES: 174° Assault Strip, Aircraft
-capacity are referred to as "Standard Instrument Departures (SIDs)". SIDs also provide obstacle
-TAKE-OFF MINIMUMS
-DEPARTURE PROCEDURE: Rwys 8, 35, climb on
-IFR take-off minimums other than standard, are listed below. Take-off Minimums and Departure
-NOTE: Rwy 35, terrain 51' from DER, 410' right of
-ALTUS, OK . . . . . . . . . . . . . . . . . .09295
-less - one statute mile. (2) Aircraft having more than two engines - one-half statute mile. These
-ALTUS/QUARTZ MOUNTAIN RGNL (AXS)
-DER, 717' left of centerline, 65' AGL/1425' MSL.
-(ODPs) and are described below in text, or published separately as a graphic procedure. If the
-765' left of centerline, up to 40' AGL/1470' MSL.
-runway heading to 2000 before turning.
-INSTRUMENT APPROACH PROCEDURE CHARTS
-standard minima apply in the absence of any different minima listed below.
-ALTUS AFB (KLTS)
-Civil Airports and Selected Military Airports
-ORIG 09267 (FAA)
-ALTUS, OK
-ALVA RGNL
-ALVA, OK
-NAME
-L1
-without ATC clearance to ensure obstacle clearance.
-off minima, refer to appropriate service directives.
-L1
-AGL/1065' MSL. Trees beginning 132' from DER, 261'
-beginning 75' from DER, 72' left of centerline, up to 56'
-min. climb of 307' per NM to 1300. Rwy 17, 300-1¼ or
-centerline, up to 82' AGL/1041' MSL. Trees beginning
-1037' MSL. Rwy 31, trees beginning 2179' from DER,
-1017' from DER, 449' left of centerline, 90' AGL/1053'
-centerline, 9' AGL/988' MSL. Tower 5477' from DER,
-872' left of centerline, 120' AGL/1117' MSL. Post 123'
-DEPARTURE PROCEDURE: Rwy 17, climb heading
-TAKE-OFF MINIMUMS
-Obstruction light on amom 703' from DER, 548' right
-32' from DER, 100' right of centerline, up to 58' AGL/
-AGL/1160' MSL. Rwy 17, tower 1.02 NM from DER,
-from DER, 73' right of centerline, 3' AGL/982' MSL.
-1411' right of centerline, 165' AGL/1165' MSL. Pole
-Tower 1.08 NM from DER, 9' left of centerline, 160'
-TAKE-OFF MINIMUMS: Rwy 13, 300-1¼ or std. w/
-988' right of centerline, up to 64' AGL/1083' MSL.
-MSL. Trees beginning 83' from DER, 272' left of
-NOTE: Rwy 13, bush 316' from DER, 43' right of
-of centerline, 6' AGL/1042' MSL. Rwy 35, trees
-right of centerline, up to 51' AGL/1050' MSL.
-174° to 1600 before proceeding on course.
-std. w/ min. climb of 326' per NM to 1300.
-minimum altitudes in MSL.
-AMDT 3 09127 (FAA)
-prior to flying a SID.
-ADA MUNI (ADH)
-ADA, OK
-NAME
-TA
-TA
-TA
-16 DEC 2010 to 13 JAN 2011
 1-13
 
-a
 1-14
-SE-3, 16 DEC 2010 to 13 JAN 2011
-SE-3, 16 DEC 2010 to 13 JAN 2011
 16 DEC 2010 to 13 JAN 2011
 16 DEC 2010 to 13 JAN 2011
 Figure 1-9. DP chart legend and STAR.
 
-FY
-Issuing authority
 AND
 PILOT BRIEFING
 PROCEDURE NOTES
@@ -1147,20 +796,7 @@ PLAN VIEW
 SE-3, 16 DEC 2010 to 13 JAN 2011
 PROFILE
 MINIMUMS
-ap
-GD
-Amendment #
-Latitude/longitude coordinates
 Figure 1-10. Instrument approach chart.
-rs)
-Procedure ID
-ro)
-City/airport
-J
-Coverage
-area/
-effective
-date
 SE-3, 16 DEC 2010 to 13 JAN 2011
 AIRPORT
 DIAGRAM
@@ -1272,40 +908,14 @@ route facilities and feeder facilities.
 16 DEC 2010 to 13 JAN 2011
 INSTRUMENT APPROACH PROCEDURES (CHARTS)
 16 DEC 2010 to 13 JAN 2011
-r_—S
+SE-2, 16 DEC 2010 to 13 JAN 2011
+SE-2, 16 DEC 2010 to 13 JAN 2011
+PLAN VIEW
 MINIMUMS
 PROFILE
-SE-2, 16 DEC 2010 to 13 JAN 2011
-No procedure turn
-Main procedure
-_~
-Main procedure
-Holding pattern
-rT
-FY
-r
-a
-@
-Nonprecision FAF
 Figure 1-11. IAP plan view and symbol legends.
-NAVAID ID
-Obstacle
-@
-IAF
-eae
-esa
-—
-requirement
-Additional
-equipment
-PROCEDURE NOTES
-Highest obstacle
-SE-2, 16 DEC 2010 to 13 JAN 2011
 DIAGRAM
-AND
-PLAN VIEW
 AIRPORT
-PILOT BRIEFING
 1-17
 
 The primary airport depicted in the plan view is drawn
@@ -1417,22 +1027,16 @@ to the aircraft’s arrival from the en route structure.
 16 DEC 2010 to 13 JAN 2011
 INSTRUMENT APPROACH PROCEDURES (CHARTS)
 16 DEC 2010 to 13 JAN 2011
-PROFILE
-MINIMUMS
 SC-4, 16 DEC 2010 to 13 JAN 2011
-eG
-end
-Missed approach icons
-Missed approach text
-pe|
-Nonprecision approaches (FAF)
 PROCEDURE NOTES
 SC-4, 16 DEC 2010 to 13 JAN 2011
-DIAGRAM
 PLAN VIEW
 AND
-AIRPORT
 PILOT BRIEFING
+PROFILE
+MINIMUMS
+DIAGRAM
+AIRPORT
 Figure 1-12. Basic “T” design of terminal arrival area (TAA) and legend.
 1-19
 
@@ -1470,7 +1074,6 @@ a minimum of 5 NM where only Category A or helicopter
 aircraft are operated, or increased to as much as 15 NM to
 accommodate high performance aircraft. Descent below the
 Figure 1-13. 45° procedure turn.
-Procedure Turns
 1-20
 procedure turn altitude begins after the aircraft is established
 on the inbound course.
@@ -1501,415 +1104,154 @@ When holding in lieu of a procedure turn, the holding pattern
 must be followed, except when RADAR VECTORING to
 the final approach course is provided or when NoPT is shown
 on the approach course.
--=ee_
-a e
-ic Yeats |
-oa
-C - 1 , 3 1 A U G 2 0 0 6 t o 2 8 S E P 2 0 0 6
-Holding in Lieu of Procedure Turn
 Figure 1-14. Holding in lieu of procedure turn.
+AUG 2006 to 28 SEP 2006
 
 Teardrop Procedure
-altitude for crossing the FAF when the GS is inoperative
-or not used. Precision approach profiles also depict the GS
 When a teardrop procedure turn is depicted and a course
-angle of descent, threshold crossing height (TCH), and GS
 reversal is required, unless otherwise authorized by ATC,
-altitude at the outer marker (OM).
 this type of procedure must be executed. [Figure 1-15] The
 teardrop procedure consists of departure from an IAF on the
-For nonprecision approaches, a final descent is initiated and
 published outbound course followed by a turn toward and
-the final segment begins at either the FAF or the final approach
 intercepting the inbound course at or prior to the intermediate
-point (FAP). The FAF is identified by use of the Maltese cross
 fix or point. Its purpose is to permit an aircraft to reverse
-symbol in the profile view (
 direction and lose considerable altitude within reasonably
-is depicted, the final approach point is the point at which the
 limited airspace. Where no fix is available to mark the
-aircraft is established inbound on the final approach course.
 beginning of the intermediate segment, it shall be assumed
-[Figure 1-16]
 to commence at a point 10 NM prior to the FAF. When the
 facility is located on the airport, an aircraft is considered
-Stepdown fixes in nonprecision procedures are provided
 to be on final approach upon completion of the penetration
-between the FAF and the airport for authorizing a lower
 turn. However, the final approach segment begins on the final
+procedure. The profile view aids in the pilot’s interpretation
+of the IAP. The profile view is not drawn to scale.
+[Figures 1-10, 1-11, 1-12, and 1-16]
+The precision approach glideslope (GS) intercept altitude
+is a minimum altitude for GS interception after completion
+of the procedure turn, illustrated by an altitude number and
+“zigzag” line. It applies to precision approaches, and except
+where otherwise prescribed, also applies as a minimum
+altitude for crossing the FAF when the GS is inoperative
+or not used. Precision approach profiles also depict the GS
+angle of descent, threshold crossing height (TCH), and GS
+altitude at the outer marker (OM).
+For nonprecision approaches, a final descent is initiated and
+the final segment begins at either the FAF or the final approach
+point (FAP). The FAF is identified by use of the Maltese cross
+symbol in the profile view (
+is depicted, the final approach point is the point at which the
+aircraft is established inbound on the final approach course.
+[Figure 1-16]
+Stepdown fixes in nonprecision procedures are provided
+between the FAF and the airport for authorizing a lower
 minimum descent altitude (MDA) after passing an
-me
-ccna SRM 22
-approach course 10 NM from the facility.
 obstruction. Stepdown fixes can be identified by NAVAID,
 NAVAID fix, waypoint, or radar and are depicted by a hash
 marked line ( ). Normally, there is only one stepdown fix
 between the FAF and the MAP, but there can be several.
-|
-NF
 If the stepdown fix cannot be identified for any reason, the
 minimum altitude at the stepdown fix becomes the MDA for
 the approach. However, circling minimums apply if they are
-yf
-(ry)
 higher than the stepdown fix minimum altitude, and a circling
-vl
-aa
 approach is required.
-me]
-\)
 The visual descent point (VDP) is a defined point on the
-:
-en
-Rot
 final approach course of a nonprecision straight-in approach
-:
-a
-a Sat ee
 procedure. A normal descent from the MDA to the runway
-“9,
-ae
 touchdown point may be commenced, provided visual
 reference is established. The VDP is identified on the profile
 view of the approach chart by the symbol “V.” [Figure 1-12]
 The MAP varies depending upon the approach flown. For
 the ILS, the MAP is at the decision altitude/decision height
-Figure 1-15. Teardrop procedure.
-Dothan Teardrop
 (DA/DH). For nonprecision procedures, the pilot determines
 the MAP by timing from FAF when the approach aid is away
-NN:
-op
-The Profile View
 from the airport, by a fix or NAVAID when the navigation
-Neay
-So
-a
 facility is located on the field, or by waypoints as defined
-The profile view is a depiction of the procedure from the side
-Leis oe
-|
 by GPS or VOR/DME RNAV. The pilot may execute the
-and illustrates the vertical approach path altitudes, headings,
 MAP early, but pilots should, unless otherwise cleared by
-distances, and fixes. [Figures 1-10, 1-11, and 1-12] The
-[sereSeto
-iol
-[rotor ie [ttt |
 ATC, fly the IAP as specified on the approach plate to the
-view includes the minimum altitude and the maximum
 MAP at or above the MDA or DA/DH before executing a
-han oa
-eee
-distance for the procedure turn, altitudes over prescribed
-sropwesanw.
-aoe
 turning maneuver.
-fixes, distances between fixes, and the missed approach
-procedure. The profile view aids in the pilot’s interpretation
 A complete description of the MAP appears in the pilot
-of the IAP. The profile view is not drawn to scale.
 briefing section. [Figure 1-16] Icons indicating what is to
-[Figures 1-10, 1-11, 1-12, and 1-16]
 be accomplished at the MAP are located in the profile view.
 When initiating a missed approach, the pilot is directed to
-The precision approach glideslope (GS) intercept altitude
 climb straight ahead (e.g., “Climb to 2,000”) or commence
-is a minimum altitude for GS interception after completion
 a turning climb to a specified altitude (e.g., “Climbing right
-of the procedure turn, illustrated by an altitude number and
 turn to 2,000.”). In some cases, the procedure directs the pilot
-“zigzag” line. It applies to precision approaches, and except
 to climb straight ahead to an initial altitude, then turn or enter
-where otherwise prescribed, also applies as a minimum
 ). [Figure 1-11] When no FAF
 1-21
 
-a
-ed
-@ammp
-fCss
-a>
-[min:Sec] 9:54 [ 2:36 [1:57 [1:34 [1:18 |
-[minsSec] 5.06 [9:24 | 2:99 | 2002] 1-42 |
-[ knots [ 60 | 96 [120 [150 [180 |
-[winssecf [JtT]
-speed
-Stepdown fix—cannot descend from 5,300' until 4 DME from LMT is identified.
-|
-rl)
-QE
-Glideslope descent angle
-—
-Glideslope intercept for full ILS
-»
-csaE
-|
-eoan
-2800,
-Disregard glide slope indications.
-GS 3,00°
-TCH 57
-ge 7600
-within 10 NM
-OFS 7300"
-ee 2600
-LACRE INT 1-BFI{7.6)
-|
-within 10 NM
-_ Remain
-,
-Holding Pattern
-oe 2600
-Procedure Turn
-wan
-Remain
-ee
-One Minute
-038°
-Lae
-ao
-NA
-ge
-i}
-}
-|
-1.328
-| $800
-aaa
-“2100
-°
-*LOC only
-TED)
-ent
-|
-aN
-|
-1499,
-_
-*%000
-eae
-rPTrioor
-QR
-TORNO LOM
-INT
-a
-rete [5)
-VORTAC
-LOM
-LAT
-ne
-!
-|
-I
-BENSE
-j
-|
-|
-|
-|
-1.-BFI
-rns EE
-continue climb on R-260 to 10,000 to
-GIANT/16 DME and hold East, le
-imt[4)
-FAF Maltese cross
-[>——2.6NM
-Ce eo
-climbing left turn to 10,000 direct
-turn to 8500 via LMT R:260 then
-direct TURNO LOM and hold.
-HUN R-336 to WOKEN lat ond
-Glideslope outer marker altitude
-.
-on ed
-LMT VORTAC. (TACAN circraft
-Climb to 5006 then climbing toft
-Climbing right turn to 9000 via
-ee
-|
-SLE
-10 MINNE LOM/INT and hold.
-Gay
-Climbing right turn to 2600
-right turn to 2400 via LMMV
-rT |
-MISSED APPROACH
-MISSED APPROACH
-MISSED APPROACH
-via heading 285° and SEA
-Climb to 600 then climbing
-MISSED APPROACH
-raul 8)
-Climbing lef tum ta 6000
-Bel
-MISSED APPROACH
-wD
-ep
-R.307 to LOFAL Int ond
-a“
-"
-turns, 260° inbound.)
-"onagd
-[Tools
-runway for obstacle
-VORTAC
-MAP 0.4 NM from
-Ms,
-hold.
-hold.
-clearance
-DIAGRAM
-AIRPORT
 SC-4, 16 DEC 2010 to 13 JAN 2011
-Figure 1-16. More IAP profile view features.
 PROCEDURE NOTES
-MUMS
 SC-4, 16 DEC 2010 to 13 JAN 2011
 PLAN VIEW
-PROFILE
 AND
-MINI-
 PILOT BRIEFING
 1-22
+DIAGRAM
+AIRPORT
+Figure 1-16. More IAP profile view features.
+MUMS
+PROFILE
+MINI-
 
 a climbing turn to the holding altitude (e.g., “Climb to 900,
-two sets of minimums may be published depending upon
 then climbing right turn to 2,500 direct ABC VOR and hold.”)
-how the fix can be identified. Two sets of minimums may
-also be published when a second altimeter source is used
 When the MAP specifies holding at a facility or fix, the pilot
-in the procedure. The minimums ensure that final approach
 proceeds according to the missed approach track and pattern
-obstacle clearance is provided from the start of the final
 depicted on the plan view. An alternate MAP may also be
-segment to the runway or MAP, whichever occurs last. The
 issued by ATC. The textual description also specifies the
-same minimums apply to both day and night operations unless
-——
-BOOS NS
-ase
-RNAV (GPS) RWY 5
-NAVAID(s) or radials that identify the holding fix.
-different minimums are specified in the notes section of the
-oes |F $3
-ENTERPRSE MUNDY)
-pilot briefing. Published circling minimums provide obstacle
-The profile view also depicts minimum, maximum,
-clearance when pilots remain within the appropriate area of
-recommended, and mandatory block altitudes used in
-protection. [Figure 1-18]
-approaches. The minimum altitude is depicted with the
-altitude underscored (
-). On final approach, aircraft are
-Minimums are specified for various aircraft approach
-required to maintain an altitude at or above the depicted
-categories based upon a value 1.3 times the stalling speed
-we (-)
-altitude until reaching the subsequent fix. The maximum
-of the aircraft in the landing configuration at maximum
-altitude is depicted with the altitude overscored (
-),
-certified gross landing weight. If it is necessary to maneuver
-and aircraft must remain at or below the depicted altitude.
-at speeds in excess of the upper limit of a speed range for a
-Mandatory altitudes are depicted with the altitude both
-category, the minimums for the next higher category should
-underscored and overscored (
-), and altitude is to be
-be used. For example, an aircraft that falls into category
-Aw
-wll
-maintained at the depicted value. Recommended altitudes
-A, but is circling to land at a speed in excess of 91 knots,
-are advisory altitudes and are neither over- nor underscored.
-should use approach category B minimums when circling
-When an over- or underscore spans two numbers, a
-to land. [Figure 1-19]
-g |win
-wworg) nn
-:
-mandatory block altitude is indicated, and aircraft are
-required to maintain altitude within the range of the two
-The minimums for straight-in and circling appear directly
-|e
-ae
-Fae)
-wore, | 3
-numbers. [Figures 1-11 and 1-12]
-under each aircraft category. [Figure 1-19] When there is
-no solid division line between minimums for each category
-The Vertical Descent Angle (VDA) found on nonprecision
-on the rows for straight-in or circling, the minimums apply
-;
-CG
-(
-@
-jfk
-approach charts provides the pilot with information required
-to the two or more categories.
-]
-\
-A]
-to establish a stabilized approach descent from the FAF or
-stepdown fix to the TCH. [Figure 1-17] Pilots can use the
-The terms used to describe the minimum approach altitudes
-[Eev 369 T
-published angle and estimated or actual groundspeed to find
-differ between precision and nonprecision approaches.
-a target rate of descent using the rate of descent table in the
-Precision approaches use DH, which is referenced to the
-back of the TPP.
-height above threshold elevation (HAT). Nonprecision
-approaches use MDA, referenced to “feet MSL.” The MDA
-s
-is also referenced to HAT for straight-in approaches, or
-ree
-Be |
-es
-height above airport (HAA) for circling approaches. On
-oe
-AH
-‘
-we
-Y
-AeroNav Products charts, the figures listed parenthetically
-Vested eos
-el
-wos |ete
-are for military operations and are not used in civil aviation.
-600)
-aan
-Visibility figures are provided in statute miles or runway
-Sais
-Wa
-visual range (RVR), which is reported in hundreds of feet.
-———
-RVR is measured by a transmissometer, which represents the
-horizontal distance measured at points along the runway. It
-[erame | scor eiveon [tien| |
-sien 520)
-is based on the sighting of either high intensity runway lights
-or on the visual contrast of other targets, whichever yields
-aory
-ENTERPRGE MUNNCEDN)
-Sense
-ariewassew
-RNAV IGPS) RWY 5
-the greater visual range. RVR is horizontal visual range, not
-slant visual range, and is used in lieu of prevailing visibility
 Figure 1-17. Vertical descent angle (VDA).
-Final Approach Angle for Vertical Path Computers
-in determining minimums for a particular runway. It is
-illustrated in hundreds of feet if less than a mile (i.e., “24”
 Landing Minimums
-is an RVR of 2,400 feet). [Figures 1-19 and 1-20]
 The minimums section sets forth the lowest altitude and
 visibility requirements for the approach, whether precision
-Visibility figures are depicted after the DA/DH or MDA in the
 or nonprecision, straight-in or circling, or radar vectored.
-minimums section. If visibility in statute miles is indicated,
 When a fix is incorporated in a nonprecision final segment,
+two sets of minimums may be published depending upon
+how the fix can be identified. Two sets of minimums may
+also be published when a second altimeter source is used
+in the procedure. The minimums ensure that final approach
+obstacle clearance is provided from the start of the final
+segment to the runway or MAP, whichever occurs last. The
+same minimums apply to both day and night operations unless
+different minimums are specified in the notes section of the
+pilot briefing. Published circling minimums provide obstacle
+clearance when pilots remain within the appropriate area of
+Minimums are specified for various aircraft approach
+categories based upon a value 1.3 times the stalling speed
+of the aircraft in the landing configuration at maximum
+certified gross landing weight. If it is necessary to maneuver
+at speeds in excess of the upper limit of a speed range for a
+category, the minimums for the next higher category should
+be used. For example, an aircraft that falls into category
+A, but is circling to land at a speed in excess of 91 knots,
+should use approach category B minimums when circling
+The minimums for straight-in and circling appear directly
+under each aircraft category. [Figure 1-19] When there is
+no solid division line between minimums for each category
+on the rows for straight-in or circling, the minimums apply
+The terms used to describe the minimum approach altitudes
+differ between precision and nonprecision approaches.
+Precision approaches use DH, which is referenced to the
+height above threshold elevation (HAT). Nonprecision
+approaches use MDA, referenced to “feet MSL.” The MDA
+is also referenced to HAT for straight-in approaches, or
+height above airport (HAA) for circling approaches. On
+AeroNav Products charts, the figures listed parenthetically
+are for military operations and are not used in civil aviation.
+Visibility figures are provided in statute miles or runway
+visual range (RVR), which is reported in hundreds of feet.
+RVR is measured by a transmissometer, which represents the
+horizontal distance measured at points along the runway. It
+is based on the sighting of either high intensity runway lights
+or on the visual contrast of other targets, whichever yields
+the greater visual range. RVR is horizontal visual range, not
+slant visual range, and is used in lieu of prevailing visibility
+in determining minimums for a particular runway. It is
+illustrated in hundreds of feet if less than a mile (i.e., “24”
+is an RVR of 2,400 feet). [Figures 1-19 and 1-20]
+Visibility figures are depicted after the DA/DH or MDA in the
+minimums section. If visibility in statute miles is indicated,
 1-23
 
 SE-2, 16 DEC 2010 to 13 JAN 2011
@@ -1926,8 +1268,6 @@ MINIMUMS
 PROFILE
 DIAGRAM
 AIRPORT
-rti(itiSY]
-Vertical descent angle
 Figure 1-18. IAP profile legend.
 
 SE-3, 16 DEC 2010 to 13 JAN 2011
@@ -1940,7 +1280,6 @@ PILOT BRIEFING
 16 DEC 2010 to 13 JAN 2011
 DIAGRAM
 AIRPORT
-RVR
 MINIMUMS
 PROFILE
 Figure 1-19. Descent rate table.
@@ -2159,47 +1498,24 @@ National Aeronautical Navigation Products (AeroNav Products)
 Telephone 800-626-3677
 www.aeronav.faa.gov
 
-a
 Figure 1-23. IAP inoperative components table.
 1-31
 
-=
-pilot controlled
-Runway lights
-[ )
-DIAGRAM
-VASI
-AIRPORT
 SE-4, 16 DEC 2010 to 13 JAN 2011
-a|
-Alternate minimums
-PROCEDURE NOTES
 SE-4, 16 DEC 2010 to 13 JAN 2011
-MUMS
 PLAN VIEW
-PROFILE
-AND
-MINI-
-PILOT BRIEFING
-not authorized
-rs
-|ed
-AIRPORT
-DIAGRAM
 SW-1, 16 DEC 2010 to 13 JAN 2011
-zone elevation
-Field elevation
-Touchdown
-rg
-a
-Approach lights
-PAPI
 PROCEDURE NOTES
 SW-1, 16 DEC 2010 to 13 JAN 2011
 AND
 PLAN VIEW
-PROFILE
-MINIMUMS
 PILOT BRIEFING
 1-32
+DIAGRAM
+AIRPORT
+MUMS
+PROFILE
+MINI-
+PROFILE
+MINIMUMS
 Figure 1-24. RNAV instrument approach charts.
