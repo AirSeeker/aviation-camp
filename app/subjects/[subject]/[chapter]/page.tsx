@@ -6,6 +6,7 @@ import type { ReactNode } from 'react';
 import path from 'node:path';
 import { ArrowLeft, Plane } from 'lucide-react';
 import Quiz from '../../../../components/Quiz';
+import { VoiceReader } from '../../../../components/VoiceReader';
 import { LessonCompletion } from '../../../../components/StudyProgress';
 import { getLessons, subjects } from '../../../../src/content/subjects';
 
@@ -103,6 +104,7 @@ export default async function LessonPage({ params }: { params: { subject: string
       <p className="reader-summary">{lesson.readTimeMinutes} min read</p>
       {lesson.sourcePageStart && lesson.sourcePageEnd && <p className="source-citation">Source: {subject.title}, PDF pp. {lesson.sourcePageStart}–{lesson.sourcePageEnd}</p>}
       <LessonCompletion lessonId={lessonId} />
+      <VoiceReader text={lesson.source} label="Read chapter aloud" />
       <div className="lesson-content">{content}</div>
       {!hasInlineImages && figures.length > 0 && <section className="lesson-figures" aria-label="Chapter illustrations">
         {figures.map((figure, index) => <figure key={figure.relativePath}>
