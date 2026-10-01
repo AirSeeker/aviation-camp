@@ -385,6 +385,22 @@ def extract_chapter_title(page_lines: Iterable[str], chapter_number: int) -> str
     return None
 
 
+def markdown_text_for_spans(spans: List[Dict[str, Any]]) -> str:
+    parts: List[str] = []
+    for span in spans:
+        text = span.get("text", "")
+        font_name = span.get("font", "").lower()
+        flags = span.get("flags", 0)
+        bold = "bold" in font_name or bool(flags & 16)
+        italic = any(style in font_name for style in ("italic", "oblique")) or bool(flags & 2)
+        if bold:
+            text = f"<strong>{text}</strong>"
+        if italic:
+            text = f"<em>{text}</em>"
+        parts.append(text)
+    return "".join(parts)
+
+
 def extract_layout_lines(page: fitz.Page, textpage: fitz.TextPage | None = None) -> List[Tuple[float, float, float, float, str]]:
     page_dict = page.get_text("dict", textpage=textpage) if textpage is not None else page.get_text("dict")
     image_rects = [
@@ -481,6 +497,84 @@ def chapter_text_from_range(page_text_by_num: Dict[int, List[str]], start_page: 
     return "\n\n".join(chunks).strip()
 
 
+def chapter_markdown_from_range(
+    doc: fitz.Document,
+    start_page: int,
+    end_page: int,
+    page_text_by_num: Dict[int, List[str]],
+    images: List[Dict[str, Any]],
+) -> str:
+    page_chunks: List[str] = []
+    for page_num in range(start_page, end_page + 1):
+        page = doc.load_page(page_num - 1)
+        included_lines = set(page_text_by_num.get(page_num, []))
+        layout_lines = extract_layout_lines(page)
+
+        styled_lines: Dict[str, List[str]] = {}
+        for block in page.get_text("dict")["blocks"]:
+            if block.get("type") != 0:
+                continue
+            for line in block.get("lines", []):
+                spans = line.get("spans", [])
+                plain_text = "".join(span.get("text", "") for span in spans)
+                if plain_text.strip():
+                    styled_lines.setdefault(plain_text, []).append(markdown_text_for_spans(spans))
+
+        items: List[Tuple[float, float, str, str]] = []
+        for x0, y0, _, _, text in layout_lines:
+            if text in included_lines:
+                formatted_lines = styled_lines.get(text, [])
+                formatted_text = formatted_lines.pop(0) if formatted_lines else text
+                items.append((x0, y0, "text", formatted_text))
+
+        for image in images:
+            for placement in image.get("placements", []):
+                if placement.get("page") != page_num or not placement.get("renderInContent"):
+                    continue
+                x0, y0, _, _ = placement["bbox"]
+                label = image.get("figureRef") or "Illustration"
+                figure = (
+                    f'<figure>\n<img src="{image["relativePath"]}" alt="{label}" />\n'
+                    f'<figcaption>{label} · PDF p. {page_num}</figcaption>\n</figure>'
+                )
+                items.append((x0, y0, "image", figure))
+
+        if not items:
+            continue
+
+        column_gap = page.rect.width * 0.15
+        column_starts = sorted({item[0] for item in items})
+        columns: List[List[float]] = []
+        for x_start in column_starts:
+            if not columns or x_start - columns[-1][-1] > column_gap:
+                columns.append([x_start])
+            else:
+                columns[-1].append(x_start)
+
+        def column_for(x_start: float) -> int:
+            return min(
+                range(len(columns)),
+                key=lambda index: min(abs(x_start - candidate) for candidate in columns[index]),
+            )
+
+        ordered_items = sorted(items, key=lambda item: (column_for(item[0]), item[1], item[0]))
+        blocks: List[str] = []
+        text_lines: List[str] = []
+        for _, _, item_type, content in ordered_items:
+            if item_type == "text":
+                text_lines.append(content)
+            else:
+                if text_lines:
+                    blocks.append("\n".join(text_lines))
+                    text_lines = []
+                blocks.append(content)
+        if text_lines:
+            blocks.append("\n".join(text_lines))
+        page_chunks.append("\n\n".join(blocks))
+
+    return "\n\n".join(chunk for chunk in page_chunks if chunk).strip()
+
+
 def image_extension_for_pixmap(pix: fitz.Pixmap) -> str:
     return "png"
 
@@ -500,7 +594,11 @@ def extract_images_for_chapter(doc: fitz.Document, chapter_dir: Path, book_name:
             seen_page_xrefs.add(xref)
 
             placements = [
-                {"page": page_num, "bbox": [float(value) for value in rect]}
+                {
+                    "page": page_num,
+                    "bbox": [float(value) for value in rect],
+                    "renderInContent": rect.get_area() < page.rect.get_area() * 0.75,
+                }
                 for rect in page.get_image_rects(xref)
             ]
             if xref in images_by_xref:
@@ -550,7 +648,7 @@ def build_parse_cache_key(
     appendix_ranges: List[Dict[str, Any]] | None = None,
 ) -> str:
     payload = {
-        "parser_version": 7,
+        "parser_version": 8,
         "pdf": str(pdf_path.resolve()),
         "chapter_starts": chapter_starts or [],
         "chapter_ranges": chapter_ranges or [],
@@ -845,13 +943,14 @@ def parse_book(
                     chapter_dir = staged_book_dir / chapter_key
                     chapter_dir.mkdir(parents=True, exist_ok=True)
 
-                    raw_text = chapter_text_from_range(page_text_by_num, start_page, end_page)
-                    (chapter_dir / "content.md").write_text(raw_text, encoding="utf-8")
-
                     image_dir = staged_image_book_dir / chapter_key
                     image_dir.mkdir(parents=True, exist_ok=True)
 
                     images = extract_images_for_chapter(doc, image_dir, book_name, chapter_key, start_page, end_page)
+                    markdown = chapter_markdown_from_range(
+                        doc, start_page, end_page, page_text_by_num, images
+                    )
+                    (chapter_dir / "content.md").write_text(markdown, encoding="utf-8")
                     (chapter_dir / "images_manifest.json").write_text(
                         json.dumps({"chapter": chapter_key, "images": images}, ensure_ascii=False, indent=2),
                         encoding="utf-8",

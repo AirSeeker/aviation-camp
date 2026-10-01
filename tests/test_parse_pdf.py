@@ -6,6 +6,7 @@ from unittest.mock import Mock, patch
 import fitz
 
 from scripts.parse_pdf import (
+    chapter_markdown_from_range,
     clean_text_lines,
     collect_page_text,
     cleanup_stale_outputs,
@@ -291,6 +292,42 @@ class LayoutExtractionTests(unittest.TestCase):
             doc.close()
 
         self.assertIn("Recognized page text", lines)
+
+
+class ChapterMarkdownTests(unittest.TestCase):
+    def test_preserves_bold_and_italic_text(self) -> None:
+        doc = fitz.open()
+        page = doc.new_page()
+        page.insert_text((72, 72), "Important", fontname="hebo")
+        page.insert_text((150, 72), "caution", fontname="heit")
+
+        try:
+            result = chapter_markdown_from_range(doc, 1, 1, {1: ["Important", "caution"]}, [])
+        finally:
+            doc.close()
+
+        self.assertEqual(result, "<strong>Important</strong>\n<em>caution</em>")
+
+    def test_places_image_after_text_at_its_page_position(self) -> None:
+        doc = fitz.open()
+        page = doc.new_page()
+        page.insert_text((72, 90), "Text before figure")
+        page.insert_text((72, 360), "Text after figure")
+        image = {
+            "relativePath": "/images/TestBook/ch01/figure.png",
+            "figureRef": "Figure 1-1",
+            "placements": [{"page": 1, "bbox": [72, 180, 300, 300], "renderInContent": True}],
+        }
+
+        try:
+            result = chapter_markdown_from_range(
+                doc, 1, 1, {1: ["Text before figure", "Text after figure"]}, [image]
+            )
+        finally:
+            doc.close()
+
+        self.assertLess(result.index("Text before figure"), result.index("<figure>"))
+        self.assertLess(result.index("<figure>"), result.index("Text after figure"))
 
 
 class ChapterTitleExtractionTests(unittest.TestCase):

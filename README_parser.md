@@ -63,6 +63,8 @@ If neither config exists, the book is skipped instead of being auto-split.
 
 ### Parsed text
 
+Chapter `content.md` files preserve PDF bold and italic spans as MDX-compatible `<strong>` and `<em>` elements, and embed figures near their PDF page positions. Large page-background images stay in the image manifest but are omitted from the reading flow.
+
 ```text
 resources/parsed/<BookName>/
   book_manifest.json

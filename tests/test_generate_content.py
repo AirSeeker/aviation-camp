@@ -4,6 +4,7 @@ from scripts.generate_content import (
     build_system_prompt,
     contains_non_english_text,
     estimate_read_time_minutes,
+    build_user_prompt,
     generate_fallback_mdx,
     infer_title_from_chapter,
     load_chapter_files,
@@ -48,6 +49,30 @@ class GenerateContentTests(unittest.TestCase):
         self.assertIn('lang: "en"', prompt)
         self.assertIn('translationKey', prompt)
         self.assertIn('FAA', prompt)
+
+    def test_user_prompt_preserves_source_figures_and_emphasis(self) -> None:
+        prompt = build_user_prompt(
+            "PHAK",
+            "ch01",
+            '<strong>Important</strong>\n\n<figure><img src="/images/PHAK/ch01/figure.png" /></figure>',
+            [],
+            "Principles of Flight",
+        )
+
+        self.assertIn("Preserve any <strong>, <em>, and <figure> markup", prompt)
+        self.assertIn("including its position in the chapter", prompt)
+
+    def test_fallback_does_not_duplicate_an_embedded_figure(self) -> None:
+        source = '<figure><img src="/images/PHAK/ch01/figure.png" /></figure>\n\nSource paragraph.'
+        mdx = generate_fallback_mdx(
+            "PHAK",
+            "ch01",
+            source,
+            [{"relativePath": "/images/PHAK/ch01/figure.png"}],
+            "Principles of Flight",
+        )
+
+        self.assertEqual(mdx.count('/images/PHAK/ch01/figure.png'), 1)
 
     def test_translation_key_is_stable_and_normalized(self) -> None:
         self.assertEqual(translation_key_for("PHAK", "ch01"), "phak-ch01")

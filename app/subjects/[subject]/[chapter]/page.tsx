@@ -15,7 +15,7 @@ import { getLessons, subjects } from '../../../../src/content/subjects';
 
 export const dynamicParams = false;
 
-type LessonFigure = { relativePath: string; figureRef?: string; page?: number };
+type LessonFigure = { relativePath: string; figureRef?: string; page?: number; placements?: { renderInContent?: boolean }[] };
 type QuizQuestion = { id?: string; question: string; options: string[]; correctAnswer: number; explanation: string; reference?: { book: string; chapter: string; anchor: string } };
 
 async function getLessonQuiz(book: string, chapter: string): Promise<QuizQuestion[]> {
@@ -32,7 +32,8 @@ async function getLessonFigures(book: string, chapter: string, source: string): 
     const manifestPath = path.join(process.cwd(), 'resources', 'parsed', book, chapter, 'images_manifest.json');
     const manifest = JSON.parse(await readFile(manifestPath, 'utf8')) as { images?: LessonFigure[] };
     return (manifest.images || [])
-      .filter((image) => image.relativePath?.startsWith('/images/') && !source.includes(image.relativePath))
+      .filter((image) => image.relativePath?.startsWith('/images/') && !source.includes(image.relativePath)
+        && (!image.placements?.length || image.placements.some((placement) => placement.renderInContent !== false)))
   } catch {
     return [];
   }

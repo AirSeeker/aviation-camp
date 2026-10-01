@@ -196,6 +196,8 @@ Required rules:
 - Use the supplied handbook name as the subject and use a neutral chapter title unless the source clearly provides a chapter title.
 - Preserve operational accuracy and safe training context.
 - Use the glossary below when relevant terms appear in the source text.
+- Preserve source <strong>, <em>, and <figure> markup and keep figures at their source positions.
+- Do not add a second image placeholder for an image already embedded in the source.
 - Structure the page with a clear progression: introduction, core concepts, practical application, safety considerations, and summary.
 - Include short callout blocks in Markdown format such as: > **Attention:** ...
 - For images, use JSX tags in the form <img src="/images/..." alt="..." /> when appropriate.
@@ -235,10 +237,11 @@ Output requirements:
 3. Write the full lesson in English only, including headings, paragraphs, callouts, and quiz questions.
 4. Use Markdown headings with ## and ###.
 5. Include 2–4 callouts in the form > **Attention:** ...
-6. Insert image placeholders in appropriate places using JSX <img src="..." alt="..." />.
-7. End the page with a self-closing JSX Quiz marker: <Quiz />. Store the 3–5 questions in the matching chapter JSON file.
-8. Keep the chapter concise, practical, and suitable for a PPL student.
-9. Use standard FAA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
+6. Preserve any <strong>, <em>, and <figure> markup from the source, including its position in the chapter. Add image placeholders only for images not already embedded there.
+7. Insert image placeholders in appropriate places using JSX <img src="..." alt="..." />.
+8. End the page with a self-closing JSX Quiz marker: <Quiz />. Store the 3–5 questions in the matching chapter JSON file.
+9. Keep the chapter concise, practical, and suitable for a PPL student.
+10. Use standard FAA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
 """
 
 
@@ -345,7 +348,7 @@ def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, image
 
     valid_images = sanitize_images(images)
     image_snippet = ""
-    if valid_images:
+    if valid_images and not any(image.get("relativePath") in summary for image in valid_images):
         top_image = valid_images[0]
         image_snippet = f'\n\n<img src="{top_image.get("relativePath", "/images/placeholder.png")}" alt="{top_image.get("figureRef", "Illustration")}" />\n\n'
 
