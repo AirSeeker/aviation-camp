@@ -95,24 +95,6 @@ def infer_image_kind(text: str) -> str:
     return "figure"
 
 
-def needs_ocr_retry(lines: Iterable[str]) -> bool:
-    cleaned = [normalize_line(line) for line in lines if normalize_line(line)]
-    if not cleaned:
-        return True
-
-    meaningful = [
-        line for line in cleaned
-        if not re.fullmatch(r"(?:page\s*)?\d+", line, flags=re.I)
-        and not re.fullmatch(r"(?:figure|table|chart|image)\s*\d+.*", line, flags=re.I)
-        and len(line) > 2
-    ]
-    if not meaningful:
-        return True
-
-    word_count = sum(len(re.findall(r"\b\w+\b", line)) for line in meaningful)
-    return word_count < 10
-
-
 def ranges_from_starts(starts: Iterable[int], page_count: int) -> List[Tuple[int, int]]:
     ordered_starts = sorted(set(starts))
     if any(start < 1 or start > page_count for start in ordered_starts):
@@ -403,10 +385,6 @@ def extract_chapter_title(page_lines: Iterable[str], chapter_number: int) -> str
     return None
 
 
-def create_ocr_textpage(page: fitz.Page, language: str, dpi: int) -> fitz.TextPage:
-    return page.get_textpage_ocr(language=language, dpi=dpi, full=False)
-
-
 def extract_layout_lines(page: fitz.Page, textpage: fitz.TextPage | None = None) -> List[Tuple[float, float, float, float, str]]:
     page_dict = page.get_text("dict", textpage=textpage) if textpage is not None else page.get_text("dict")
     image_rects = [
@@ -457,21 +435,12 @@ def extract_layout_lines(page: fitz.Page, textpage: fitz.TextPage | None = None)
 def collect_page_text(
     doc: fitz.Document,
     book_name: str,
-    ocr: bool = False,
-    ocr_language: str = "eng",
-    ocr_dpi: int = 300,
-    ocr_retry_dpi: int | None = None,
 ) -> Tuple[Dict[int, List[str]], Dict[int, set[str]]]:
     page_text_by_num: Dict[int, List[str]] = {}
     edge_lines_by_num: Dict[int, set[str]] = {}
-    retry_dpi = ocr_retry_dpi if ocr_retry_dpi is not None else max(ocr_dpi, 400)
     for page_index in range(doc.page_count):
         page = doc.load_page(page_index)
-        textpage = create_ocr_textpage(page, ocr_language, ocr_dpi) if ocr else None
-        layout_lines = extract_layout_lines(page, textpage)
-        if ocr and needs_ocr_retry([line[4] for line in layout_lines]):
-            retry_textpage = create_ocr_textpage(page, ocr_language, retry_dpi)
-            layout_lines = extract_layout_lines(page, retry_textpage)
+        layout_lines = extract_layout_lines(page)
         lines = [line[4] for line in layout_lines]
         page_num = page_index + 1
         page_text_by_num[page_num] = clean_text_lines(lines, book_name)
@@ -575,22 +544,14 @@ def read_existing_manifest(manifest_path: Path) -> Dict[str, Any]:
 
 def build_parse_cache_key(
     pdf_path: Path,
-    ocr: bool,
-    ocr_language: str,
-    ocr_dpi: int,
     chapter_starts: List[int] | None,
-    ocr_retry_dpi: int | None = None,
     chapter_ranges: List[Tuple[int, int]] | None = None,
     section_ranges: Dict[str, Tuple[int, int]] | None = None,
     appendix_ranges: List[Dict[str, Any]] | None = None,
 ) -> str:
     payload = {
-        "parser_version": 6,
+        "parser_version": 7,
         "pdf": str(pdf_path.resolve()),
-        "ocr": bool(ocr),
-        "ocr_language": ocr_language,
-        "ocr_dpi": int(ocr_dpi),
-        "ocr_retry_dpi": int(ocr_retry_dpi) if ocr_retry_dpi is not None else None,
         "chapter_starts": chapter_starts or [],
         "chapter_ranges": chapter_ranges or [],
         "section_ranges": section_ranges or {},
@@ -814,10 +775,6 @@ def parse_book(
     pdf_path: Path,
     output_root: Path,
     public_images_root: Path,
-    ocr: bool = False,
-    ocr_language: str = "eng",
-    ocr_dpi: int = 300,
-    ocr_retry_dpi: int | None = None,
     chapter_starts: List[int] | None = None,
 ) -> Dict[str, Any]:
     book_name = sanitize_book_name(pdf_path.parent.name)
@@ -833,13 +790,13 @@ def parse_book(
     configured_sections = load_section_ranges(chapter_config_path) if chapter_config_path.exists() else {}
     configured_appendices = load_appendix_ranges(chapter_config_path) if chapter_config_path.exists() else []
     effective_starts = None if configured_ranges is not None else chapter_starts
+    if configured_ranges is None and effective_starts is None:
+        raise ValueError(
+            f"Skipping {pdf_path.parent.name}: missing chapters.json manifest and no chapter override pages."
+        )
     cache_key = build_parse_cache_key(
         pdf_path,
-        ocr,
-        ocr_language,
-        ocr_dpi,
         effective_starts,
-        ocr_retry_dpi,
         configured_ranges,
         configured_sections,
         configured_appendices,
@@ -874,18 +831,7 @@ def parse_book(
                 for index in range(1, len(ordered_appendix_ranges)):
                     if ordered_appendix_ranges[index][0] <= ordered_appendix_ranges[index - 1][1]:
                         raise ValueError("Configured appendices must not overlap each other.")
-                page_text_by_num, edge_lines_by_num = collect_page_text(
-                    doc,
-                    book_name,
-                    ocr=ocr,
-                    ocr_language=ocr_language,
-                    ocr_dpi=ocr_dpi,
-                    ocr_retry_dpi=ocr_retry_dpi,
-                )
-                pages_without_text = [page_num for page_num, lines in page_text_by_num.items() if not lines or needs_ocr_retry(lines)]
-                if pages_without_text:
-                    page_list = ", ".join(str(page_num) for page_num in pages_without_text)
-                    print(f"Warning: low-quality text extraction in {pdf_path} on page(s): {page_list}; OCR may be needed.", file=sys.stderr)
+                page_text_by_num, edge_lines_by_num = collect_page_text(doc, book_name)
                 page_text_by_num = deduplicate_repeated_header_footer(page_text_by_num, edge_lines_by_num)
                 chapter_ranges = detect_chapter_ranges(
                     doc, page_count, effective_starts, configured_ranges
@@ -991,10 +937,6 @@ def process_pdf_batch(
     output_root: Path,
     public_images_root: Path,
     chapter_overrides: Dict[str, List[int]],
-    ocr: bool = False,
-    ocr_language: str = "eng",
-    ocr_dpi: int = 300,
-    ocr_retry_dpi: int | None = None,
     workers: int = 4,
 ) -> List[Tuple[Path, Dict[str, Any]]]:
     book_files = list(pdf_files)
@@ -1014,17 +956,17 @@ def process_pdf_batch(
                         pdf_path,
                         output_root,
                         public_images_root,
-                        ocr=ocr,
-                        ocr_language=ocr_language,
-                        ocr_dpi=ocr_dpi,
-                        ocr_retry_dpi=ocr_retry_dpi,
                         chapter_starts=chapter_overrides.get(sanitize_book_name(pdf_path.parent.name)),
                     ),
                 )
             )
 
         for pdf_path, future in futures:
-            ordered_results.append((pdf_path, future.result()))
+            try:
+                ordered_results.append((pdf_path, future.result()))
+            except ValueError as error:
+                print(f"Skipped: {pdf_path.parent.name} ({error})", file=sys.stderr)
+                continue
 
     return ordered_results
 
@@ -1032,10 +974,6 @@ def process_pdf_batch(
 def main() -> None:
     parser = argparse.ArgumentParser(description="Parse aviation PDF textbooks into chapter text and images")
     parser.add_argument("--book", help="Optional book folder name under resources/library")
-    parser.add_argument("--ocr", action="store_true", help="OCR pages with Tesseract for scanned or image-based text")
-    parser.add_argument("--ocr-language", default="eng", help="Tesseract language code (default: eng)")
-    parser.add_argument("--ocr-dpi", type=int, default=300, help="OCR render resolution (default: 300)")
-    parser.add_argument("--ocr-retry-dpi", type=int, default=400, help="OCR retry resolution for sparse pages (default: 400)")
     parser.add_argument("--workers", type=int, default=4, help="Number of PDF books to process in parallel (default: 4)")
     parser.add_argument(
         "--chapter-overrides",
@@ -1045,12 +983,6 @@ def main() -> None:
     )
     args = parser.parse_args()
 
-    if args.ocr and not shutil.which("tesseract"):
-        raise SystemExit("--ocr requires the Tesseract executable on PATH.")
-    if args.ocr_dpi < 72:
-        raise SystemExit("--ocr-dpi must be at least 72.")
-    if args.ocr_retry_dpi < 72:
-        raise SystemExit("--ocr-retry-dpi must be at least 72.")
     if args.workers < 1:
         raise SystemExit("--workers must be at least 1.")
 
@@ -1078,10 +1010,6 @@ def main() -> None:
         output_root=PARSED_ROOT,
         public_images_root=PUBLIC_IMAGES_ROOT,
         chapter_overrides=chapter_overrides,
-        ocr=args.ocr,
-        ocr_language=args.ocr_language,
-        ocr_dpi=args.ocr_dpi,
-        ocr_retry_dpi=args.ocr_retry_dpi,
         workers=max(1, min(args.workers, len(pdf_files))),
     )
     failures = 0

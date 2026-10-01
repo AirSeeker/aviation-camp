@@ -26,35 +26,14 @@ The parser performs the following steps:
 
 1. Discovers PDF files under `resources/library`
 2. Validates input PDFs and rejects empty or corrupt files
-3. Reads explicit chapter page ranges from `chapters.json` next to each PDF, falling back to PDF bookmarks and heading detection when no config exists
+3. Requires a per-book `chapters.json` or explicit chapter overrides before parsing a book
 4. Excludes pages before the first educational chapter and supplemental sections after the last chapter
 5. Extracts text page-by-page
-6. Uses OCR fallback when extraction is sparse or weak
-7. Cleans repeated header/footer noise
-8. Extracts images and deduplicates reused figures
-9. Groups pages into chapter output folders
-10. Publishes staged output atomically into the final parsed directories
-
-## OCR behavior
-
-OCR is optional and enabled with:
-
-```bash
-source .venv/bin/activate
-python scripts/parse_pdf.py --ocr
-```
-
-The script checks for `tesseract` on the PATH and exits early if it is missing.
-
-Additional OCR tuning options:
-
-```bash
-python scripts/parse_pdf.py --ocr --ocr-dpi 300 --ocr-retry-dpi 400 --workers 4
-```
-
-- `--ocr-dpi`: main OCR rendering resolution
-- `--ocr-retry-dpi`: higher DPI used when sparse pages are retried
-- `--workers`: number of PDF books processed in parallel
+6. Cleans repeated header/footer noise with no OCR fallback
+7. Extracts images and deduplicates reused figures
+8. Groups pages into chapter output folders
+9. Publishes staged output atomically into the final parsed directories
+10. Skips books that do not declare a valid chapter split
 
 ## Per-book chapter ranges
 
@@ -76,11 +55,9 @@ Each book folder can contain a `chapters.json` file next to its PDF. Ranges use 
 }
 ```
 
-Section ranges are optional; use `null` when a book has no separate section. Appendices are a list of named ranges; use an empty list when a book has no appendices. The parser writes configured sections to `sections/<section>/content.md` and each appendix to `appendices/<name-slug>/content.md`, preserving its display name and page range in `book_manifest.json`. Section ranges and appendix ranges are validated against the PDF; appendices cannot overlap each other. Pages may be skipped between chapter ranges. When a per-book config exists, it takes precedence over automatic detection and the legacy global overrides.
+Section ranges are optional; use `null` when a book has no separate section. Appendices are a list of named ranges; use an empty list when a book has no appendices. The parser writes configured sections to `sections/<section>/content.md` and each appendix to `appendices/<name-slug>/content.md`, preserving its display name and page range in `book_manifest.json`. Section ranges and appendix ranges are validated against the PDF; appendices cannot overlap each other. Pages may be skipped between chapter ranges. A book is only parsed with a valid per-book `chapters.json` or explicit chapter overrides.
 
-For compatibility, `resources/library/chapter_overrides.json` remains supported as a fallback for PDFs without a local `chapters.json`.
-
-If neither config exists, the parser falls back to PDF bookmarks and chapter-page headings.
+If neither config exists, the book is skipped instead of being auto-split.
 
 ## Output structure
 
@@ -129,13 +106,13 @@ From the project root:
 
 ```bash
 source .venv/bin/activate
-python scripts/parse_pdf.py --ocr --workers 1
+python scripts/parse_pdf.py --workers 1
 ```
 
 To process a single book folder:
 
 ```bash
-python scripts/parse_pdf.py --book "AFH" --ocr
+python scripts/parse_pdf.py --book "AFH"
 ```
 
 ## Validation
@@ -153,6 +130,6 @@ python -m unittest tests.test_parse_pdf -v
 
 ## Notes
 
-- OCR can be slow, especially for large manuals.
-- Some PDFs produce warning messages about sparse extraction; the parser will retry OCR at a higher DPI when appropriate.
-- The parser is tuned for high-volume aviation manuals and favors robust parsing over fragile assumptions.
+- Parsing is intentionally strict: books without a valid chapter manifest are skipped rather than auto-split.
+- The parser preserves the original wording of each page as closely as possible by removing repeated headers/footers and page numbers, without OCR reconstruction.
+- The parser is tuned for high-volume aviation manuals and favors reliable chapter boundaries over fragile heuristic guessing.

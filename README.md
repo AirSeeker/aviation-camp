@@ -74,10 +74,10 @@ Activate the environment:
 source .venv/bin/activate
 ```
 
-Run the parser in OCR mode:
+Run the parser with the current manifest-based workflow:
 
 ```bash
-python scripts/parse_pdf.py --ocr --workers 1
+python scripts/parse_pdf.py --workers 1
 ```
 
 Run the regression tests:
@@ -88,5 +88,5 @@ python -m unittest tests.test_parse_pdf -v
 
 ## Notes
 
-- OCR requires Tesseract to be installed and available on PATH.
-- The parser validates document structure, cleans repeated page artifacts, deduplicates images, and stages output before publishing it.
+- Books without a valid `chapters.json` or explicit chapter overrides are skipped rather than auto-split.
+- The parser validates document structure, removes repeated page artifacts, deduplicates images, and stages output before publishing it.

@@ -14,6 +14,6 @@ Add a `chapters.json` file beside each PDF to define exact chapter ranges. Page 
 }
 ```
 
-Ranges must be ordered, within the PDF, and non-overlapping. Gaps between ranges are allowed. The legacy `resources/library/chapter_overrides.json` can still supply chapter start pages when no per-book config exists.
+Ranges must be ordered, within the PDF, and non-overlapping. Gaps between ranges are allowed. The legacy `resources/library/chapter_overrides.json` can still supply chapter start pages when no per-book config exists; if neither is present, the book is skipped instead of being auto-split.
 
-Scanned PDFs can be processed with `--ocr`. This requires Tesseract on `PATH` and the requested language data; set the language with `--ocr-language` and rendering resolution with `--ocr-dpi`.
+The parser does not perform OCR. It reads the source PDF text directly and removes repeated headers, footers, and page numbers while preserving the original wording as closely as possible.
