@@ -1,10 +1,38 @@
 {
+  "AFH": {
+    "etag": "",
+    "lastModified": "",
+    "path": "resources/library/AFH/AFH.pdf",
+    "sha256": "",
+    "url": "https://www.faa.gov/sites/faa.gov/files/10_afh_full_book.pdf"
+  },
+  "EASA_AirOps": {
+    "etag": "",
+    "lastModified": "",
+    "path": "resources/library/EASA_AirOps/EASA_AirOps.pdf",
+    "sha256": "",
+    "url": "https://www.easa.europa.eu/en/downloads/138804/en"
+  },
+  "EASA_Aircrew": {
+    "etag": "",
+    "lastModified": "",
+    "path": "resources/library/EASA_Aircrew/EASA_Aircrew.pdf",
+    "sha256": "",
+    "url": "https://www.easa.europa.eu/en/downloads/138128/en"
+  },
   "EASA_SERA": {
     "etag": "",
     "lastModified": "",
     "path": "resources/library/EASA_SERA/EASA_SERA.pdf",
     "sha256": "96ff0e38e48eba950633a70b056a06d8a60548bf097257aa55c134393d0272b7",
     "url": "https://www.easa.europa.eu/en/downloads/115485/en"
+  },
+  "Instructor": {
+    "etag": "",
+    "lastModified": "",
+    "path": "resources/library/Instructor/Instructor.pdf",
+    "sha256": "",
+    "url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/faa-h-8083-9b.pdf"
   },
   "Instrument": {
     "etag": "",
@@ -20,11 +48,32 @@
     "sha256": "67bee284221e2748c426a99793c332fe9f57018b9858f77b911675c814a03e91",
     "url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B.pdf"
   },
+  "PHAK": {
+    "etag": "",
+    "lastModified": "Mon, 17 Jul 2023 16:08:36 GMT",
+    "path": "resources/library/PHAK/PHAK.pdf",
+    "sha256": "247929cace0ab56b376e683eba540cc4c8f39f199ab35414e8b604e24f395cb7",
+    "url": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-25C.pdf"
+  },
+  "RiskManagement": {
+    "etag": "",
+    "lastModified": "",
+    "path": "resources/library/RiskManagement/RiskManagement.pdf",
+    "sha256": "",
+    "url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/risk_management_handbook/FAA-H-8083-2A.pdf"
+  },
   "Weather": {
     "etag": "",
     "lastModified": "Mon, 13 Apr 2026 18:36:24 GMT",
     "path": "resources/library/Weather/Weather.pdf",
     "sha256": "2a87e4a5613e2a8e060aaf83a95dfc55b61b0e576f5b783df9fdcebe62da62c3",
     "url": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf"
+  },
+  "WeightBalance": {
+    "etag": "",
+    "lastModified": "",
+    "path": "resources/library/WeightBalance/WeightBalance.pdf",
+    "sha256": "",
+    "url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-1A.pdf"
   }
 }
