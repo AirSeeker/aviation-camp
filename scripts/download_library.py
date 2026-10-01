@@ -13,47 +13,6 @@ ROOT = Path(__file__).resolve().parent.parent
 LIBRARY_DIR = ROOT / 'resources' / 'library'
 MANIFEST_PATH = LIBRARY_DIR / 'download_manifest.json'
 
-BOOKS = {
-    'PHAK': [
-        'https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-25C.pdf',
-        'https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/phak_full.pdf',
-    ],
-    'AFH': [
-        'https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-3C.pdf',
-        'https://www.faa.gov/sites/faa.gov/files/10_afh_full_book.pdf',
-    ],
-    'Weather': [
-        'https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf',
-    ],
-    'Instrument': [
-        'https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf',
-    ],
-    'InstrumentProcedures': [
-        'https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B.pdf',
-    ],
-    'RiskManagement': [
-        'https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-2A.pdf',
-        'https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/risk_management_handbook/FAA-H-8083-2A.pdf',
-    ],
-    'WeightBalance': [
-        'https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-1B.pdf',
-        'https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-1A.pdf',
-    ],
-    'Instructor': [
-        'https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-9B.pdf',
-        'https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/faa-h-8083-9b.pdf',
-    ],
-    'EASA_Aircrew': [
-        'https://www.easa.europa.eu/en/downloads/138128/en',
-    ],
-    'EASA_SERA': [
-        'https://www.easa.europa.eu/en/downloads/115485/en',
-    ],
-    'EASA_AirOps': [
-        'https://www.easa.europa.eu/en/downloads/138804/en',
-    ],
-}
-
 
 def sha256(path: Path) -> str:
     digest = hashlib.sha256()
@@ -110,23 +69,6 @@ def download_pdf(url: str, destination: Path) -> None:
             handle.write(chunk)
 
 
-def try_download_candidates(book: str, candidate_urls: list[str], target: Path) -> tuple[str, str, bool]:
-    last_url = ''
-    last_error = ''
-    for url in candidate_urls:
-        last_url = url
-        try:
-            download_pdf(url, target)
-            return url, '', True
-        except error.HTTPError as exc:
-            last_error = f'{exc}'
-            continue
-        except Exception as exc:  # pragma: no cover - defensive fallback for network edge cases
-            last_error = f'{exc}'
-            continue
-    return last_url, last_error, False
-
-
 def main() -> None:
     LIBRARY_DIR.mkdir(parents=True, exist_ok=True)
     manifest = existing_manifest()
@@ -134,32 +76,27 @@ def main() -> None:
     downloaded = 0
     skipped = 0
 
-    for book, candidate_urls in BOOKS.items():
-        book_dir = LIBRARY_DIR / book
-        book_dir.mkdir(parents=True, exist_ok=True)
-        target = book_dir / f'{book}.pdf'
-        chosen_url = candidate_urls[0]
-        etag, last_modified = fetch_metadata(chosen_url)
-        should_update = is_newer_or_missing(book, chosen_url, target, refreshed)
+    for book, book_info in manifest.items():
+        if not isinstance(book_info, dict) or not book_info.get('url'):
+            continue
+        url = book_info['url']
+        target = ROOT / book_info.get('path', f'resources/library/{book}/{book}.pdf')
+        target.parent.mkdir(parents=True, exist_ok=True)
+        etag, last_modified = fetch_metadata(url)
+        should_update = is_newer_or_missing(book, url, target, refreshed)
 
         if should_update:
-            chosen_url, last_error, success = try_download_candidates(book, candidate_urls, target)
-            if not success:
+            try:
+                download_pdf(url, target)
+            except Exception as exc:  # pragma: no cover - defensive fallback for network edge cases
                 skipped += 1
-                print(f'Skipped {book}: no working download URL found ({last_error or "no response"})')
-                refreshed[book] = {
-                    'url': chosen_url,
-                    'etag': '',
-                    'lastModified': '',
-                    'sha256': sha256(target) if target.exists() else '',
-                    'path': str(target.relative_to(ROOT)) if target.exists() else str(target.relative_to(ROOT)),
-                }
+                print(f'Skipped {book}: download failed ({exc})')
                 continue
             downloaded += 1
 
         final_hash = sha256(target) if target.exists() else ''
         refreshed[book] = {
-            'url': chosen_url,
+            'url': url,
             'etag': etag,
             'lastModified': last_modified,
             'sha256': final_hash,
