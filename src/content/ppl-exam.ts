@@ -1,15 +1,6 @@
-import questions from '../../content/quizzes/ppl/aerodynamics.json';
+import { easaQuizQuestions, fallbackQuizQuestions, faaQuizQuestions, type ExamQuestion } from './quiz-bank';
 
-export type ExamQuestion = {
-  id: string;
-  question: string;
-  options: string[];
-  correctAnswer: number;
-  explanation: string;
-  source?: string;
-  reference?: { book: string; chapter: string; anchor: string };
-};
-
+export type { ExamQuestion };
 export type Authority = 'FAA' | 'EASA';
 
 export const EASA_DISCIPLINES = [
@@ -24,24 +15,6 @@ export const EASA_DISCIPLINES = [
   { id: 'navigation', label: 'Navigation' },
 ] as const;
 
-const quizContext = (path: string) => {
-  try {
-    return (require as any).context(path, true, /\.json$/);
-  } catch {
-    return null;
-  }
-};
-
-function normalizeQuestionList(raw: unknown): ExamQuestion[] {
-  if (!Array.isArray(raw)) return [];
-  return raw.filter((entry): entry is ExamQuestion => !!entry && typeof entry === 'object' && 'question' in entry && 'options' in entry);
-}
-
-function collectQuestionsFromContext(context: any): ExamQuestion[] {
-  if (!context) return [];
-  return context.keys().flatMap((key: string) => normalizeQuestionList(context(key).default ?? context(key)));
-}
-
 function shuffleArray<T>(values: T[]): T[] {
   const next = [...values];
   for (let index = next.length - 1; index > 0; index -= 1) {
@@ -53,8 +26,7 @@ function shuffleArray<T>(values: T[]): T[] {
 
 export function getExamQuestions(authority: Authority = 'FAA', discipline: string = 'all'): ExamQuestion[] {
   if (authority === 'EASA') {
-    const context = quizContext('../../content/quizzes/easa');
-    const pool = collectQuestionsFromContext(context);
+    const pool = easaQuizQuestions;
 
     if (!discipline || discipline === 'all') {
       return shuffleArray(pool).slice(0, Math.min(12, pool.length || 1));
@@ -68,10 +40,8 @@ export function getExamQuestions(authority: Authority = 'FAA', discipline: strin
     return shuffleArray(filtered.length ? filtered : pool).slice(0, Math.min(12, filtered.length || pool.length || 1));
   }
 
-  const context = quizContext('../../content/quizzes');
-  const pool = collectQuestionsFromContext(context).filter((question) => !question.id?.startsWith('easa-'));
-
-  return shuffleArray(pool.length ? pool : Array.isArray(questions) ? questions : []).slice(0, Math.min(12, (pool.length || (Array.isArray(questions) ? questions.length : 0)) || 1));
+  const pool = faaQuizQuestions.length ? faaQuizQuestions : fallbackQuizQuestions;
+  return shuffleArray(pool).slice(0, Math.min(12, pool.length || 1));
 }
 
 export const pplExamQuestions: ExamQuestion[] = getExamQuestions();
