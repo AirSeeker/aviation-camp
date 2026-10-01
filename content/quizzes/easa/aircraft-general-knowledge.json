@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-agn-01",
+    "question": "The aircraft flight manual is most useful for which purpose?",
+    "options": [
+      "To determine the route of the nearest restaurant",
+      "To provide operating limitations and procedures",
+      "To list only the aircraft paint choices",
+      "To replace air traffic control instructions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The aircraft flight manual provides operating limitations, procedures, and specific performance information for the aircraft.",
+    "reference": { "book": "EASA", "chapter": "general-knowledge", "anchor": "afm" }
+  },
+  {
+    "id": "easa-agn-02",
+    "question": "Why are aircraft systems checks important before departure?",
+    "options": [
+      "They confirm the aircraft is in a suitable and safe condition",
+      "They replace the need for weather briefings",
+      "They shorten the flight time automatically",
+      "They remove the requirement for a clearance"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Checks confirm that the aircraft and its systems are operating within normal limits and ready for flight.",
+    "reference": { "book": "EASA", "chapter": "general-knowledge", "anchor": "systems-checks" }
+  }
+]

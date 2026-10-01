@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-human-01",
+    "question": "Which factor most commonly reduces a pilot's ability to make sound decisions during high workload conditions?",
+    "options": [
+      "Strong weather briefings",
+      "Fatigue and stress",
+      "Correct fuel quantity",
+      "Stable visual references"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Fatigue and stress reduce attention, reaction time, and judgment, increasing the risk of poor decisions.",
+    "reference": { "book": "EASA", "chapter": "human-performance", "anchor": "fatigue" }
+  },
+  {
+    "id": "easa-human-02",
+    "question": "A pilot should manage workload by doing which of the following?",
+    "options": [
+      "Ignoring abnormal indications until landing",
+      "Prioritising tasks and delegating where appropriate",
+      "Reducing checklists to save time",
+      "Flying faster than the operating envelope"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Prioritisation and disciplined task management help maintain situational awareness and reduce errors under pressure.",
+    "reference": { "book": "EASA", "chapter": "human-performance", "anchor": "workload-management" }
+  }
+]

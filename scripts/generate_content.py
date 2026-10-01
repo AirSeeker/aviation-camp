@@ -351,7 +351,7 @@ def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, image
 
     chapter_key = translation_key_for(book_name, chapter_name)
 
-        quiz = "<Quiz />"
+    quiz = "<Quiz />"
 
     mdx = f"""---
 title: "{title}"

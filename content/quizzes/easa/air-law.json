@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-air-law-01",
+    "question": "Which document governs the legal framework for flight operations in a given state?",
+    "options": [
+      "The aircraft maintenance logbook",
+      "The national air law and regulations",
+      "The pilot's personal logbook only",
+      "The route manual for one airline"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air law defines the legal and operational rules that apply to flight operations, airspace use, licensing, and responsibilities.",
+    "reference": { "book": "EASA", "chapter": "air-law", "anchor": "air-law" }
+  },
+  {
+    "id": "easa-air-law-02",
+    "question": "Who is primarily responsible for ensuring that a flight is conducted within the applicable regulations?",
+    "options": [
+      "The ground engineer on duty",
+      "The pilot in command",
+      "The air traffic controller",
+      "The aircraft manufacturer"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The pilot in command remains responsible for the safe conduct of the flight and compliance with applicable rules.",
+    "reference": { "book": "EASA", "chapter": "air-law", "anchor": "pilot-in-command" }
+  }
+]

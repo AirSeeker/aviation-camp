@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-navigation-01",
+    "question": "Navigation planning should primarily support which objective?",
+    "options": [
+      "To keep the flight within the planned route and safe boundaries",
+      "To reduce cabin noise to zero",
+      "To increase fuel usage beyond reserves",
+      "To avoid all radio communication"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Good navigation planning keeps the flight within route, altitude, and safety limits while maintaining situational awareness.",
+    "reference": { "book": "EASA", "chapter": "navigation", "anchor": "planning" }
+  },
+  {
+    "id": "easa-navigation-02",
+    "question": "The primary reason for cross-checking position information is to ensure what?",
+    "options": [
+      "There is a smooth inflight meal service",
+      "The aircraft remains accurately located relative to intended route and obstacles",
+      "The cockpit lights are switched off",
+      "Only one radio is available"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cross-checking navigation data helps prevent position errors and ensures the aircraft is where it should be relative to the route and obstacles.",
+    "reference": { "book": "EASA", "chapter": "navigation", "anchor": "position" }
+  }
+]

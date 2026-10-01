@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-comm-01",
+    "question": "The purpose of standard phraseology is to ensure which of the following?",
+    "options": [
+      "Aviation communications are slower than normal",
+      "Clear, concise, and unambiguous communication",
+      "Only aircraft manufacturers use it",
+      "That controllers can ignore ATC instructions"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Standard phraseology improves clarity and reduces ambiguity in pilot-controller communications.",
+    "reference": { "book": "EASA", "chapter": "communications", "anchor": "phraseology" }
+  },
+  {
+    "id": "easa-comm-02",
+    "question": "When a clearance is heard, what is the correct response before making any changes to the flight?",
+    "options": [
+      "Repeat it back if required and confirm understanding",
+      "Ignore it unless it conflicts with weather",
+      "Change altitude immediately without confirmation",
+      "Ask for a different route before reading back"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Read-back and confirmation of clearances reduce errors and confirm that ATC instructions are understood correctly.",
+    "reference": { "book": "EASA", "chapter": "communications", "anchor": "readback" }
+  }
+]

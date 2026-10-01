@@ -5,9 +5,12 @@ import { readFile } from 'node:fs/promises';
 import type { ReactNode } from 'react';
 import path from 'node:path';
 import { ArrowLeft, Plane } from 'lucide-react';
+import { TermTooltip } from '../../../../components/TermTooltip';
 import Quiz from '../../../../components/Quiz';
 import { VoiceReader } from '../../../../components/VoiceReader';
 import { LessonCompletion } from '../../../../components/StudyProgress';
+import terms from '../../../../content/dictionary/terms.json';
+import abbreviations from '../../../../content/dictionary/abbreviations.json';
 import { getLessons, subjects } from '../../../../src/content/subjects';
 
 export const dynamicParams = false;
@@ -79,6 +82,22 @@ function LessonImage({ src, alt }: { src?: string; alt?: string }) {
   return <img src={`${basePath}${src}`} alt={alt || ''} loading="lazy" />;
 }
 
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+}
+
+function applyTermTooltips(source: string): string {
+  const glossary = [...(terms as Array<{ term: string; definition: string }>), ...(abbreviations as Array<{ term: string; definition: string }>)];
+  const entries = glossary.filter((entry) => entry.term && entry.definition).sort((left, right) => right.term.length - left.term.length);
+
+  let result = source;
+  for (const entry of entries) {
+    const expression = new RegExp(`\\b${escapeRegExp(entry.term)}\\b`, 'gi');
+    result = result.replace(expression, (match) => `<TermTooltip term="${match.replace(/"/g, '&quot;')}" definition="${entry.definition.replace(/"/g, '&quot;')}" />`);
+  }
+  return result;
+}
+
 export async function generateStaticParams() {
   const lessons = await getLessons();
   return lessons.flatMap((lesson) => {
@@ -96,13 +115,14 @@ export default async function LessonPage({ params }: { params: { subject: string
   const quizQuestions = await getLessonQuiz(subject.id, lesson.slug);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
-  const source = insertLessonFigures(lesson.source, figures, lesson.sourcePageStart, lesson.sourcePageEnd)
-    .replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1');
+  const source = applyTermTooltips(insertLessonFigures(lesson.source, figures, lesson.sourcePageStart, lesson.sourcePageEnd)
+    .replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1'));
   try {
     ({ content } = await compileMDX({
       source,
       components: {
         Quiz: () => quizQuestions.length > 0 ? <Quiz questions={quizQuestions} lessonId={lessonId} /> : null,
+        TermTooltip,
         img: LessonImage,
       },
     }));

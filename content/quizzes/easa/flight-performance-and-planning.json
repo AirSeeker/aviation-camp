@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-performance-01",
+    "question": "Performance planning normally includes assessing which two major limits?",
+    "options": [
+      "Runway length and aircraft mass/power limits",
+      "Airline ticket prices and baggage tags",
+      "Airport shop hours and lounge access",
+      "Chief pilot schedules only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Performance planning ensures that runway requirements, takeoff, landing, and aircraft limitations are compatible with the intended flight.",
+    "reference": { "book": "EASA", "chapter": "performance", "anchor": "planning" }
+  },
+  {
+    "id": "easa-performance-02",
+    "question": "A pilot should account for which variable when planning a route?",
+    "options": [
+      "Fuel endurance and reserve requirements",
+      "The sound of the cabin crew announcement",
+      "Colour of the route map only",
+      "Passenger seat preferences"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fuel, reserves, and route planning are core to safe and compliant flight performance planning.",
+    "reference": { "book": "EASA", "chapter": "performance", "anchor": "fuel" }
+  }
+]

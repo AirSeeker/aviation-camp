@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-operational-01",
+    "question": "Before flight, a pilot should usually verify which of the following?",
+    "options": [
+      "Only the destination hotel options",
+      "Aircraft documents, weather, and performance data",
+      "The names of all passengers only",
+      "The colour of the runway markings only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pre-flight preparation includes checking documents, weather, performance, and the route for safe operation.",
+    "reference": { "book": "EASA", "chapter": "operational-procedures", "anchor": "preflight" }
+  },
+  {
+    "id": "easa-operational-02",
+    "question": "An abnormal situation should normally be handled by which of the following methods?",
+    "options": [
+      "Ignoring it until after landing",
+      "Following the checklist and the appropriate procedures",
+      "Reducing power immediately without confirmation",
+      "Turning away from the published route"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Structured procedures and checklists help the pilot respond correctly and consistently to abnormal or emergency conditions.",
+    "reference": { "book": "EASA", "chapter": "operational-procedures", "anchor": "abnormal-operations" }
+  }
+]

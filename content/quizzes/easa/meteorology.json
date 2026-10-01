@@ -1,0 +1,28 @@
+[
+  {
+    "id": "easa-meteorology-01",
+    "question": "What is the main source of energy that drives the Earth's weather systems?",
+    "options": [
+      "Ocean tides",
+      "Incoming solar radiation",
+      "Magnetic storms",
+      "Aircraft engine heat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Solar radiation is the primary driver of atmospheric heating, circulation, cloud formation, and weather patterns.",
+    "reference": { "book": "EASA", "chapter": "meteorology", "anchor": "solar-radiation" }
+  },
+  {
+    "id": "easa-meteorology-02",
+    "question": "Which weather phenomenon is most closely associated with convective activity and turbulence?",
+    "options": [
+      "High pressure ridge",
+      "Thunderstorm cell",
+      "Stable layer",
+      "Upper-level trough with no moisture"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thunderstorms are convective weather systems that can produce turbulence, hail, lightning, and gust fronts.",
+    "reference": { "book": "EASA", "chapter": "meteorology", "anchor": "thunderstorms" }
+  }
+]
