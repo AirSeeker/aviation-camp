@@ -176,7 +176,7 @@ export default async function LessonPage({ params }: { params: { subject: string
 
         <div className="lesson-header">
           <div>
-            <h1 className="reader-title">Chapter {lesson.chapterNumber}</h1>
+            <h1 className="reader-title">Chapter {lesson.chapterNumber}: {lesson.title}</h1>
             <p className="reader-summary">{lesson.readTimeMinutes} min read</p>
           </div>
           <div className="subject-hero-stat">

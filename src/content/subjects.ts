@@ -56,18 +56,28 @@ export async function getLessons(): Promise<Lesson[]> {
     const pageRanges = new Map(manifest.chapters.map((chapter) => [chapter.chapter, chapter]));
     return Promise.all(files.filter((file) => file.endsWith('.mdx')).map(async (file) => {
       const source = await readFile(path.join(directory, file), 'utf8');
+      const slug = file.replace(/\.mdx$/, '');
+      let parsedSource: string | undefined;
+      try {
+        parsedSource = await readFile(path.join(parsedRoot, book.name, slug, 'content.md'), 'utf8');
+      } catch {
+        parsedSource = undefined;
+      }
       const title = frontmatterValue(source, 'title');
       if (!title) return null;
-      const pageRange = pageRanges.get(file.replace(/\.mdx$/, ''));
+      const pageRange = pageRanges.get(slug);
+      const lessonSource = parsedSource?.trim()
+        ? `${parsedSource.trim()}\n\n<Quiz />`
+        : source.replace(/^---[\s\S]*?---\s*/, '');
       return {
-        slug: file.replace(/\.mdx$/, ''),
+        slug,
         title: pageRange?.title || title,
         book: book.name,
         chapterNumber: Number(frontmatterValue(source, 'chapterNumber')) || 0,
         readTimeMinutes: Number(frontmatterValue(source, 'readTimeMinutes')) || 0,
         sourcePageStart: pageRange?.startPage,
         sourcePageEnd: pageRange?.endPage,
-        source: source.replace(/^---[\s\S]*?---\s*/, ''),
+        source: lessonSource,
       };
     }));
   }));

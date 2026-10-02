@@ -51,7 +51,7 @@ export default async function SubjectPage({ params }: { params: { subject: strin
                 <Link href={`/subjects/${subject.id}/${lesson.slug}`}>
                   <span className="lesson-icon"><BookOpen size={18} /></span>
                   <span className="lesson-details">
-                    <strong>Chapter {lesson.chapterNumber}</strong>
+                    <strong>{lesson.title}</strong>
                     <small>{lesson.readTimeMinutes} MIN READ</small>
                   </span>
                   <ArrowRight className="lesson-arrow" size={17} />

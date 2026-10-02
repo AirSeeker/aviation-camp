@@ -308,6 +308,22 @@ class ChapterMarkdownTests(unittest.TestCase):
 
         self.assertEqual(result, "<strong>Important</strong>\n<em>caution</em>")
 
+    def test_matches_pdf_lines_with_trailing_whitespace(self) -> None:
+        doc = fitz.open()
+        page = doc.new_page()
+        page.insert_text((72, 72), "Body line")
+
+        try:
+            with patch(
+                "scripts.parse_pdf.extract_layout_lines",
+                return_value=[(72.0, 60.0, 180.0, 75.0, "Body line  ")],
+            ):
+                result = chapter_markdown_from_range(doc, 1, 1, {1: ["Body line"]}, [])
+        finally:
+            doc.close()
+
+        self.assertEqual(result, "Body line")
+
     def test_places_image_after_text_at_its_page_position(self) -> None:
         doc = fitz.open()
         page = doc.new_page()
@@ -328,6 +344,29 @@ class ChapterMarkdownTests(unittest.TestCase):
 
         self.assertLess(result.index("Text before figure"), result.index("<figure>"))
         self.assertLess(result.index("<figure>"), result.index("Text after figure"))
+
+    def test_converts_pdf_bullet_and_number_markers_to_markdown_lists(self) -> None:
+        doc = fitz.open()
+        page = doc.new_page()
+        page.insert_text((72, 72), "Introduction")
+        page.insert_text((72, 100), "• First point")
+        page.insert_text((72, 120), "⦁ Second point")
+        page.insert_text((72, 160), "1. First step")
+        page.insert_text((72, 180), "2) Second step")
+
+        try:
+            result = chapter_markdown_from_range(
+                doc,
+                1,
+                1,
+                {1: ["Introduction", "· First point", "· Second point", "1. First step", "2) Second step"]},
+                [],
+            )
+        finally:
+            doc.close()
+
+        self.assertIn("Introduction\n\n- First point\n- Second point", result)
+        self.assertIn("1. First step\n2. Second step", result)
 
 
 class ChapterTitleExtractionTests(unittest.TestCase):

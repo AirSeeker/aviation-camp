@@ -401,6 +401,18 @@ def markdown_text_for_spans(spans: List[Dict[str, Any]]) -> str:
     return "".join(parts)
 
 
+def markdown_list_item(text: str, formatted_text: str) -> str | None:
+    bullet = re.match(r"^\s*[•⦁●▪◦‣⁃·]\s*", text)
+    numbered = re.match(r"^\s*(\d{1,3})[.)]\s+", text)
+    if bullet:
+        content = formatted_text[bullet.end():].lstrip()
+        return f"- {content}"
+    if numbered:
+        content = formatted_text[numbered.end():].lstrip()
+        return f"{numbered.group(1)}. {content}"
+    return None
+
+
 def extract_layout_lines(page: fitz.Page, textpage: fitz.TextPage | None = None) -> List[Tuple[float, float, float, float, str]]:
     page_dict = page.get_text("dict", textpage=textpage) if textpage is not None else page.get_text("dict")
     image_rects = [
@@ -516,16 +528,18 @@ def chapter_markdown_from_range(
                 continue
             for line in block.get("lines", []):
                 spans = line.get("spans", [])
-                plain_text = "".join(span.get("text", "") for span in spans)
+                plain_text = normalize_line("".join(span.get("text", "") for span in spans))
                 if plain_text.strip():
                     styled_lines.setdefault(plain_text, []).append(markdown_text_for_spans(spans))
 
-        items: List[Tuple[float, float, str, str]] = []
+        items: List[Tuple[float, float, str, str, bool]] = []
         for x0, y0, _, _, text in layout_lines:
-            if text in included_lines:
-                formatted_lines = styled_lines.get(text, [])
+            normalized_text = normalize_line(text)
+            if normalized_text in included_lines:
+                formatted_lines = styled_lines.get(normalized_text, [])
                 formatted_text = formatted_lines.pop(0) if formatted_lines else text
-                items.append((x0, y0, "text", formatted_text))
+                list_item = markdown_list_item(normalized_text, formatted_text)
+                items.append((x0, y0, "text", list_item or formatted_text, list_item is not None))
 
         for image in images:
             for placement in image.get("placements", []):
@@ -537,7 +551,7 @@ def chapter_markdown_from_range(
                     f'<figure>\n<img src="{image["relativePath"]}" alt="{label}" />\n'
                     f'<figcaption>{label} · PDF p. {page_num}</figcaption>\n</figure>'
                 )
-                items.append((x0, y0, "image", figure))
+                items.append((x0, y0, "image", figure, False))
 
         if not items:
             continue
@@ -560,13 +574,18 @@ def chapter_markdown_from_range(
         ordered_items = sorted(items, key=lambda item: (column_for(item[0]), item[1], item[0]))
         blocks: List[str] = []
         text_lines: List[str] = []
-        for _, _, item_type, content in ordered_items:
+        previous_was_list_item = False
+        for _, _, item_type, content, is_list_item in ordered_items:
             if item_type == "text":
+                if text_lines and is_list_item != previous_was_list_item:
+                    text_lines.append("")
                 text_lines.append(content)
+                previous_was_list_item = is_list_item
             else:
                 if text_lines:
                     blocks.append("\n".join(text_lines))
                     text_lines = []
+                previous_was_list_item = False
                 blocks.append(content)
         if text_lines:
             blocks.append("\n".join(text_lines))
@@ -648,7 +667,7 @@ def build_parse_cache_key(
     appendix_ranges: List[Dict[str, Any]] | None = None,
 ) -> str:
     payload = {
-        "parser_version": 8,
+        "parser_version": 10,
         "pdf": str(pdf_path.resolve()),
         "chapter_starts": chapter_starts or [],
         "chapter_ranges": chapter_ranges or [],

@@ -17,6 +17,246 @@
     }
   },
   {
+    "id": "phak-ch05-q-04",
+    "question": "In straight-and-level, unaccelerated flight, which statement best describes the balance of forces?",
+    "options": ["The upward and downward force components balance, as do the forward and rearward components", "Lift always equals thrust, and weight always equals drag", "Thrust must be greater than drag to maintain a constant airspeed", "Weight disappears when the aircraft reaches its cruise altitude"],
+    "correctAnswer": 0,
+    "explanation": "Steady flight requires balanced force components. Lift and weight, and thrust and drag, are useful simplifications in level flight, but the full force vectors can have additional components.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "forces-acting-on-the-aircraft" }
+  },
+  {
+    "id": "phak-ch05-q-05",
+    "question": "How is the angle of attack defined?",
+    "options": ["The angle between the aircraft's longitudinal axis and the horizon", "The acute angle between an airfoil's chord line and the relative wind", "The angle between the aircraft's ground track and magnetic north", "The angle between the wing and the vertical axis"],
+    "correctAnswer": 1,
+    "explanation": "Angle of attack is the acute angle between the airfoil chord line and the direction of the relative wind.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "angle-of-attack" }
+  },
+  {
+    "id": "phak-ch05-q-06",
+    "question": "What happens to lift as angle of attack increases, with other factors unchanged and below the critical angle?",
+    "options": ["Lift decreases in direct proportion", "Lift remains constant", "Lift increases", "Weight decreases"],
+    "correctAnswer": 2,
+    "explanation": "For a given airfoil and other unchanged factors, increasing angle of attack increases lift until the critical angle is reached.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "lift-and-angle-of-attack" }
+  },
+  {
+    "id": "phak-ch05-q-07",
+    "question": "What is the usual aerodynamic result of exceeding an airfoil's critical angle of attack?",
+    "options": ["The coefficient of lift begins to decrease rapidly", "Parasite drag becomes zero", "The aircraft's weight is reduced", "The relative wind stops flowing over the airfoil"],
+    "correctAnswer": 0,
+    "explanation": "At the critical angle of attack, the airfoil reaches its maximum coefficient of lift; increasing the angle further causes lift to diminish rapidly.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "critical-angle-of-attack" }
+  },
+  {
+    "id": "phak-ch05-q-08",
+    "question": "If airspeed doubles while angle of attack and all other lift factors remain constant, how does lift change?",
+    "options": ["It doubles", "It quadruples", "It is cut in half", "It remains unchanged"],
+    "correctAnswer": 1,
+    "explanation": "Lift varies with the square of velocity, so doubling velocity produces four times the lift when other factors remain constant.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "lift-equation" }
+  },
+  {
+    "id": "phak-ch05-q-09",
+    "question": "Which set lists the principal factors in the lift relationship described in the PHAK?",
+    "options": ["Air density, velocity squared, coefficient of lift, and wing area", "Fuel quantity, runway slope, wind direction, and engine temperature", "Weight, heading, bank angle, and outside air temperature only", "Thrust, propeller pitch, magnetic variation, and humidity only"],
+    "correctAnswer": 0,
+    "explanation": "The lift equation relates lift to the coefficient of lift, air density, velocity squared, and the area of the lifting surface.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "lift-equation" }
+  },
+  {
+    "id": "phak-ch05-q-10",
+    "question": "An airplane accelerates in level flight. What angle-of-attack change normally helps prevent the increased lift from making it climb?",
+    "options": ["Increase angle of attack", "Decrease angle of attack", "Increase weight", "Increase wing area by changing the flight path"],
+    "correctAnswer": 1,
+    "explanation": "As airspeed increases, the pilot normally reduces angle of attack enough to keep lift in balance with weight and maintain level flight.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "maintaining-level-flight" }
+  },
+  {
+    "id": "phak-ch05-q-11",
+    "question": "At the same angle of attack, what generally must happen to true airspeed at higher altitude to produce comparable lift?",
+    "options": ["It must increase because air density is lower", "It must decrease because air density is lower", "It must remain identical regardless of density", "It becomes independent of wing area"],
+    "correctAnswer": 0,
+    "explanation": "Lower air density reduces lift for a given angle of attack and airspeed, so greater true airspeed is needed to produce comparable lift.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "air-density-and-lift" }
+  },
+  {
+    "id": "phak-ch05-q-12",
+    "question": "Why can a hot, humid day require greater true airspeed for a given angle of attack to produce the same lift?",
+    "options": ["Warm, moist air is less dense than cool, dry air", "Humidity increases the aircraft's wing area", "Warm air eliminates induced drag", "Moist air increases the aircraft's weight"],
+    "correctAnswer": 0,
+    "explanation": "Warm air is less dense than cool air, and moist air is less dense than dry air; reduced density means less lift at a given angle of attack and true airspeed.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "air-density-and-lift" }
+  },
+  {
+    "id": "phak-ch05-q-13",
+    "question": "If an airplane's weight increases and its angle of attack is held constant, what change can provide the additional lift needed for flight?",
+    "options": ["Increase airspeed", "Reduce airspeed", "Reduce air density further", "Increase parasite drag"],
+    "correctAnswer": 0,
+    "explanation": "With angle of attack held constant, increasing airspeed increases lift; the PHAK notes this as a way to offset increased weight, assuming no high-lift device change.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "weight-and-lift" }
+  },
+  {
+    "id": "phak-ch05-q-14",
+    "question": "What does a higher lift-to-drag ratio indicate about an aircraft or airfoil?",
+    "options": ["Greater aerodynamic efficiency", "Greater weight for every unit of lift", "That induced drag is absent", "That the airfoil cannot stall"],
+    "correctAnswer": 0,
+    "explanation": "The lift-to-drag ratio compares lift produced with drag incurred; a higher ratio indicates greater aerodynamic efficiency.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "lift-drag-ratio" }
+  },
+  {
+    "id": "phak-ch05-q-15",
+    "question": "What is the significance of operating at the maximum lift-to-drag ratio in steady flight?",
+    "options": ["The aircraft has minimum total drag for its lift condition", "The aircraft has maximum parasite drag", "The aircraft is necessarily at its critical angle of attack", "The aircraft produces no induced drag"],
+    "correctAnswer": 0,
+    "explanation": "At maximum L/D, the lift-to-drag ratio is greatest and total drag is at a minimum for the aircraft's lift condition.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "maximum-lift-drag-ratio" }
+  },
+  {
+    "id": "phak-ch05-q-16",
+    "question": "Which description best fits parasite drag?",
+    "options": ["Drag unrelated to producing lift, including form, interference, and skin-friction drag", "Drag produced only by wingtip vortices", "Drag that acts forward to overcome weight", "Drag that occurs only when an airplane is stalled"],
+    "correctAnswer": 0,
+    "explanation": "Parasite drag is not associated with lift production and includes form drag, interference drag, and skin-friction drag.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "parasite-drag" }
+  },
+  {
+    "id": "phak-ch05-q-17",
+    "question": "Which example is primarily a source of form drag?",
+    "options": ["Airflow separating and rejoining around a component's shape", "Wingtip vortices created while producing lift", "A reduction in aircraft weight", "The vertical component of lift in a turn"],
+    "correctAnswer": 0,
+    "explanation": "Form drag results from an object's shape and the airflow displacement and separation around it; streamlining components helps reduce it.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "form-drag" }
+  },
+  {
+    "id": "phak-ch05-q-18",
+    "question": "What causes interference drag?",
+    "options": ["Intersecting airstreams that create turbulence or disrupt smooth airflow", "The increase in lift when airspeed rises", "The force of gravity acting through the center of gravity", "Air molecules contacting only the wing's upper surface"],
+    "correctAnswer": 0,
+    "explanation": "Interference drag arises where airflow around different aircraft surfaces intersects and forms eddies or turbulence, such as at a wing root.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "interference-drag" }
+  },
+  {
+    "id": "phak-ch05-q-19",
+    "question": "How can fairings reduce drag where aircraft surfaces meet?",
+    "options": ["They help smooth the airflow and reduce interference at the intersection", "They increase wingtip vortex strength", "They remove the need for lift", "They increase skin roughness to energize the airflow"],
+    "correctAnswer": 0,
+    "explanation": "Fairings smooth the transition where surfaces meet and help reduce the interference drag produced by intersecting airstreams.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "interference-drag" }
+  },
+  {
+    "id": "phak-ch05-q-20",
+    "question": "What is skin-friction drag?",
+    "options": ["Aerodynamic resistance caused by moving air contacting the aircraft's surface", "The rearward component of aircraft weight during a climb", "Drag caused exclusively by changing engine power", "The force that produces lift at the wingtip"],
+    "correctAnswer": 0,
+    "explanation": "Skin-friction drag is the resistance resulting from contact between moving air and the aircraft's surface.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "skin-friction-drag" }
+  },
+  {
+    "id": "phak-ch05-q-21",
+    "question": "Which maintenance-related action helps reduce skin-friction drag?",
+    "options": ["Keeping aircraft surfaces clean and smooth", "Adding protrusions to the wing surface", "Increasing angle of attack beyond the critical angle", "Allowing dirt to remain on the airfoil"],
+    "correctAnswer": 0,
+    "explanation": "Surface irregularities and dirt disrupt airflow; a clean, smooth surface helps reduce skin-friction drag.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "skin-friction-drag" }
+  },
+  {
+    "id": "phak-ch05-q-22",
+    "question": "When is induced drag present?",
+    "options": ["Whenever an airfoil is producing lift", "Only when the engine is producing thrust", "Only during a descent", "Only when parasite drag is zero"],
+    "correctAnswer": 0,
+    "explanation": "Induced drag is inseparable from lift production and is present whenever an airfoil produces lift.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "induced-drag" }
+  },
+  {
+    "id": "phak-ch05-q-23",
+    "question": "What airflow pattern at a wingtip contributes to wingtip vortices?",
+    "options": ["Air tends to flow from the higher-pressure lower surface toward the lower-pressure upper surface", "Air flows from the upper surface to the lower surface only at the wing root", "Air stops moving whenever the wing produces lift", "Air flows spanwise only when the airplane is descending"],
+    "correctAnswer": 0,
+    "explanation": "The pressure difference across a lifting wing drives spanwise flow around the tips, rolling the airflow into vortices that trail behind the wing.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "wingtip-vortices" }
+  },
+  {
+    "id": "phak-ch05-q-24",
+    "question": "How does downwash contribute to induced drag?",
+    "options": ["It tilts the relative wind and lift vector so that lift has a rearward component", "It turns the lift vector directly forward", "It eliminates the pressure difference across the wing", "It converts parasite drag into thrust"],
+    "correctAnswer": 0,
+    "explanation": "Wingtip vortices create downwash, which tilts the relative wind and the lift vector rearward, producing an induced-drag component.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "downwash-and-induced-drag" }
+  },
+  {
+    "id": "phak-ch05-q-25",
+    "question": "Why does induced drag generally increase as an airplane slows while maintaining level flight?",
+    "options": ["More angle of attack is needed to produce the required lift", "Less lift is required at lower airspeed", "Parasite drag becomes the only type of drag", "Wingtip vortices disappear and reverse direction"],
+    "correctAnswer": 0,
+    "explanation": "At lower airspeed, a greater angle of attack is required to maintain lift equal to weight; the resulting stronger downwash increases induced drag.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "induced-drag" }
+  },
+  {
+    "id": "phak-ch05-q-26",
+    "question": "How does induced drag vary with airspeed, with other relevant conditions held constant?",
+    "options": ["It varies inversely with the square of airspeed", "It increases directly with the square of airspeed", "It remains constant at every airspeed", "It varies only with aircraft heading"],
+    "correctAnswer": 0,
+    "explanation": "The PHAK describes induced drag as varying inversely with the square of airspeed; it becomes more significant at lower speeds.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "drag-and-airspeed" }
+  },
+  {
+    "id": "phak-ch05-q-27",
+    "question": "How does parasite drag generally change as airspeed increases?",
+    "options": ["It increases with the square of airspeed", "It decreases with the square of airspeed", "It remains zero until the airplane stalls", "It changes only when the aircraft turns"],
+    "correctAnswer": 0,
+    "explanation": "Parasite drag increases approximately with the square of airspeed, becoming increasingly important at higher speeds.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "drag-and-airspeed" }
+  },
+  {
+    "id": "phak-ch05-q-28",
+    "question": "Which pairing correctly describes the relative importance of the two basic drag types?",
+    "options": ["Induced drag is more significant at low speed; parasite drag is more significant at high speed", "Parasite drag is more significant at low speed; induced drag is more significant at high speed", "Both types exist only at high speed", "Neither type changes with airspeed"],
+    "correctAnswer": 0,
+    "explanation": "Induced drag rises as speed decreases because greater angle of attack is needed for lift, while parasite drag rises with the square of speed.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "drag-and-airspeed" }
+  },
+  {
+    "id": "phak-ch05-q-29",
+    "question": "In a stabilized climb, how can parts of the thrust and weight vectors contribute to the force balance?",
+    "options": ["A component of thrust may act upward, while a component of weight acts rearward", "All thrust acts downward and all weight acts forward", "Thrust and weight both act only perpendicular to the flight path", "Neither thrust nor weight has components outside the aircraft axes"],
+    "correctAnswer": 0,
+    "explanation": "In a climb, force vectors are resolved into components; a portion of thrust acts upward and a portion of weight acts rearward relative to the flight path.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "force-components-in-climbs" }
+  },
+  {
+    "id": "phak-ch05-q-30",
+    "question": "During a glide, what role can a component of aircraft weight play along the flight path?",
+    "options": ["It acts forward along the flight path, contributing like thrust", "It acts upward and replaces all lift", "It acts rearward and eliminates drag", "It has no component along the flight path"],
+    "correctAnswer": 0,
+    "explanation": "In a glide, part of the weight vector is directed along the forward flight path and acts like thrust.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "force-components-in-glides" }
+  },
+  {
+    "id": "phak-ch05-q-31",
+    "question": "An airplane in level flight has thrust greater than drag. What happens while this imbalance continues?",
+    "options": ["The airplane accelerates", "The airplane must immediately stall", "The airplane's weight decreases", "The airplane's airspeed remains constant"],
+    "correctAnswer": 0,
+    "explanation": "When thrust exceeds drag, the airplane accelerates; airspeed stabilizes when thrust and drag again balance.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "thrust-and-drag" }
+  },
+  {
+    "id": "phak-ch05-q-32",
+    "question": "After power is reduced in level flight, what happens as the airplane slows and reaches a new steady airspeed?",
+    "options": ["Airspeed stabilizes when thrust again equals drag", "Airspeed continues decreasing even after thrust equals drag", "Lift becomes unrelated to airspeed", "Weight becomes equal to drag"],
+    "correctAnswer": 0,
+    "explanation": "With reduced thrust, the airplane decelerates while thrust is less than drag; it reaches a steady airspeed when the forces balance again.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "thrust-and-drag" }
+  },
+  {
+    "id": "phak-ch05-q-33",
+    "question": "Which statement about lift direction is correct?",
+    "options": ["Lift acts perpendicular to the relative wind", "Lift always acts parallel to the aircraft's longitudinal axis", "Lift always acts vertically upward, regardless of flight path", "Lift acts opposite to thrust"],
+    "correctAnswer": 0,
+    "explanation": "Lift acts perpendicular to the flight path and relative wind; its direction is not always vertically upward when the aircraft is climbing, descending, or maneuvering.",
+    "reference": { "book": "phak", "chapter": "chapter-5", "anchor": "forces-acting-on-the-aircraft" }
+  },
+  {
     "id": "phak-ch05-q-02",
     "question": "Why is it important to apply these concepts in practice?",
     "options": [
