@@ -2,7 +2,17 @@
 
 This project collects, parses, and organizes aviation training manuals into chapter-level content and image assets.
 
+It now includes a polished learning dashboard, dark mode, subject and chapter reader pages, exam practice flow, glossary, and flashcards, all built with a consistent visual system.
+
 For a complete architecture, data-flow, feature, setup, and validation guide, see [PROJECT_GUIDE.md](PROJECT_GUIDE.md).
+
+## Current product highlights
+
+- Modern landing page with handbook cards, quick actions, progress summary, and library navigation
+- Dark / light mode toggle with saved preference in local storage
+- Unified styling across the home page, subject pages, lesson pages, exam, glossary, and flashcards
+- Chapter-based study flow with lesson completion tracking and local progress persistence
+- Exam simulator, glossary, and flashcard practice modes for revision and recall
 
 ## Included documents
 
