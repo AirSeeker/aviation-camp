@@ -7,16 +7,16 @@
 Aviation Camp збирає навчальну бібліотеку з авіаційних посібників FAA. Вміст зберігається у файлах, а Next.js під час збірки перетворює уроки на статичні сторінки. Для підготовки контенту передбачений окремий Python-конвеєр:
 
 ```text
-PDF + chapters.json
+library_manifest.json + PDF URLs
         |
         v
-scripts/parse_pdf.py
-        |  витягнутий текст, маніфести, зображення
+scripts/process_pdf_sections.py
+        |  структурований текст, таблиці, зображення
         v
-resources/parsed/<book>/ + public/images/<book>/
+output/<book>/parsed_content.json + images/
         |
         v
-scripts/generate_content.py (Gemini API або fallback)
+scripts/generate_content.py (потребує адаптації до нового формату)
         |
         v
 src/content/docs/<book>/*.mdx
@@ -117,40 +117,36 @@ Frontmatter уроку має містити `title`, `description`, `subject`, 
 | `src/content/docs/` | Готові MDX-уроки; саме їх читає вебзастосунок під час build. |
 | `content/quizzes/` | Банк питань JSON окремо для кожної книги/глави та PPL-іспиту. |
 | `content/dictionary/` | JSON-файли термінів і абревіатур для словника. |
-| `resources/library/` | Вихідні PDF та конфігурація сторінок глав `chapters.json`. |
-| `resources/parsed/` | Результат PDF-парсера: текст, маніфест книги, маніфести зображень, секції й додатки. |
+| `resources/library/` | Маніфест PDF і джерельні локальні PDF. |
+| `resources/library/library_manifest.json` | Єдине джерело URL, download-метаданих і меж глав/секцій/додатків. |
+| `output/<book>/` | Результат `process_pdf_sections.py`: `parsed_content.json` та витягнуті зображення. |
+| `resources/parsed/` | Попереднє parsed-дерево, яке поки читає наявний генератор сторінок. |
 | `public/images/` | Файли зображень, які копіюються/публікуються як статичні assets. |
-| `scripts/parse_pdf.py` | Витяг тексту, визначення глав за маніфестом, зображення й безпечна публікація результату. |
+| `scripts/process_pdf_sections.py` | Поточне завантаження й структуроване витягання секцій PDF за library manifest. |
 | `scripts/generate_content.py` | Генерація MDX із parsed-тексту через Gemini або fallback. |
+| `scripts/parse_airmand.py` | Окремий scraper прикладів питань; не є частиною PDF-процесора. |
 | `scripts/migrate_quizzes_to_json.mjs` | Перенесення вбудованих `<Quiz questions={...} />` у зовнішні JSON-банки та заміна на `<Quiz />`. Це одноразовий міграційний скрипт, не крок звичайного build. |
 | `scripts/verify_quizzes.mjs` | Перевірка JSON-схеми банків і унікальних ID. |
 | `scripts/verify_pages_export.mjs` | Postbuild: пошуковий індекс, звіт аудиту контенту, локальні картинки/посилання та статичні маршрути. |
-| `tests/` | Python `unittest` для парсера й генератора. |
+| `tests/` | Python `unittest` для PDF-процесора й генератора. |
 | `README_parser.md`, `README_generator.md` | Детальні інструкції для відповідних Python-конвеєрів. |
 
 `content/README.md` і `components/README.md` мають загальні/історичні приклади; фактичним джерелом уроків є `src/content/docs`, а банк квізів зберігається окремо в `content/quizzes`.
 
-## 5. PDF-парсер
+## 5. PDF processing
 
-Основний файл — `scripts/parse_pdf.py`. Він використовує PyMuPDF і проходить такі етапи:
+The active processor is `scripts/process_pdf_sections.py`; run it with
+`resources/library/library_manifest.json`. The manifest is the single source
+for each book's download metadata and 1-based inclusive page boundaries.
+Processing writes each downloaded PDF, structured `parsed_content.json`, and
+extracted images under `output/<book_id>/`.
 
-1. Знаходить PDF у `resources/library`; `--book` обмежує запуск одним каталогом.
-2. Відкриває та перевіряє документ; виявляє різні PDF, що мали б записатися в той самий каталог книги.
-3. Визначає діапазони глав. Пріоритет: локальний `chapters.json`; інакше legacy-мапа `resources/library/chapter_overrides.json`; якщо ні того ні іншого немає, книга пропускається.
-4. Для конфігурованої книги може окремо витягнути `glossary`, `acronyms`, `emergencyProcedures` і named appendices.
-5. Витягує текст сторінками, зберігаючи порядок колонок і фільтруючи повторювані колонтитули/текст із фігур без OCR реконструкції.
-6. Витягує зображення, класифікує підписи/фігури, дедуплікує повторне використання й записує місця розташування.
-7. Спочатку готує тимчасовий набір файлів, потім публікує його; є rollback при невдалому оновленні, очищення за попереднім маніфестом і кеш за PDF та налаштуваннями.
+`scripts/parse_airmand.py` remains a separate scraper for example questions.
 
-`chapters.json` використовує номери сторінок PDF з 1, включно з обома межами. Діапазони мають бути валідні й упорядковані, глави не повинні перекриватися; проміжки між явно заданими главами допустимі. Приклад структури та докладні правила є в `README_parser.md`.
-
-CLI:
-
-```bash
-python scripts/parse_pdf.py [--book AFH] [--workers 4] [--chapter-overrides PATH]
-```
-
-Якщо книга не має `chapters.json` і не задана через `chapter_overrides`, вона пропускається замість автоматичного розбиття.
+The current page generator still consumes the previous
+`resources/parsed/<book>/` layout. Adapting it to the new processor output is
+future work; don't expect running the PDF processor alone to regenerate site
+pages.
 
 ## 6. Генератор MDX
 
@@ -210,7 +206,7 @@ pip install -r requirements.txt
 
 ```bash
 npm run verify:quizzes
-python -m unittest tests.test_parse_pdf -v
+python -m unittest tests.test_process_pdf_sections -v
 python -m unittest tests.test_generate_content -v
 npm run build
 ```
@@ -222,9 +218,8 @@ npm run build
 Під час аналізу в поточному робочому дереві були отримані такі результати:
 
 - `npm run verify:quizzes`: успіх, перевірено 311 питань у 101 JSON-банку.
-- `python -m unittest tests.test_parse_pdf -v`: успіх, 43 тести.
 - `npm run build`: успіх; згенеровано 100 уроків/112 HTML-сторінок, postbuild перевірив 3 032 зображення та локальні посилання.
-- `python -m unittest tests.test_parse_pdf tests.test_generate_content -v`: не може імпортувати модуль генератора. У `scripts/generate_content.py` перед присвоєнням `quiz = "<Quiz />"` у `generate_fallback_mdx` є зайвий відступ, через що Python повідомляє `IndentationError` (рядок 354). Через це недоступні тести генератора і виконання самого скрипту, доки синтаксичну помилку не виправлено.
+- Нинішній PDF-процесор перевіряється через `python -m unittest tests.test_process_pdf_sections -v`. Генератор сторінок ще не адаптовано до його `parsed_content.json`; це наступна окрема робота.
 
 Перевірки описують поведінку тестового набору та build, але не підтверджують точність згенерованого навчального тексту чи правильність авіаційних відповідей. Контент походить із матеріалів FAA і частково може бути створений мовною моделлю; його необхідно звіряти з першоджерелами. Звіт `out/content-review-report.json` знаходить низку структурних/текстових ознак (наприклад, метадані, кирилицю, пошкоджений OCR/placeholder), але це не є редакторською чи авіаційною сертифікацією.
 
@@ -232,10 +227,10 @@ npm run build
 
 ### Додати або перевидати посібник
 
-1. Покласти PDF в окремий `resources/library/<Book>/` та налаштувати `chapters.json`.
-2. Переконатися, що ім'я папки збігається з book ID у TypeScript і перевірці export.
-3. Запустити парсер; переглянути `book_manifest.json`, текст і картинки.
-4. Запустити генератор для цієї книги; перевірити/відредагувати MDX та окремі банки квізів.
+1. Додати URL і page boundaries до `resources/library/library_manifest.json`.
+2. Переконатися, що `book_id` узгоджений із TypeScript і перевіркою export.
+3. Запустити PDF processor; переглянути `output/<book_id>/parsed_content.json` та картинки.
+4. Після адаптації генератора запустити його для книги; перевірити MDX та банки квізів.
 5. Запустити Python-тести, `npm run verify:quizzes` та `npm run build`.
 
 ### Змінити питання або словник

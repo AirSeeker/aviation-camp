@@ -1,0 +1,1189 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "book_id": "AFH",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/00_afh_full.pdf",
+      "pdf_path": "resources/library/AFH/AFH.pdf",
+      "sha256": "90dda95dcbe992bd798f1932b02b5a02d620d8344565c0516a6917f29dea1f8d",
+      "etag": "",
+      "lastModified": "Fri, 25 Mar 2022 19:36:16 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 22,
+          "end_page": 37
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 38,
+          "end_page": 61
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 62,
+          "end_page": 86
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 87,
+          "end_page": 105
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 106,
+          "end_page": 132
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 133,
+          "end_page": 146
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 147,
+          "end_page": 164
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 165,
+          "end_page": 171
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 172,
+          "end_page": 209
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 210,
+          "end_page": 217
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 11",
+          "start_page": 218,
+          "end_page": 231
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 12",
+          "start_page": 232,
+          "end_page": 249
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 13",
+          "start_page": 250,
+          "end_page": 286
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 14",
+          "start_page": 287,
+          "end_page": 294
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 15",
+          "start_page": 295,
+          "end_page": 309
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 16",
+          "start_page": 310,
+          "end_page": 334
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 17",
+          "start_page": 335,
+          "end_page": 349
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 18",
+          "start_page": 350,
+          "end_page": 372
+        },
+        {
+          "type": "glossary",
+          "title": "Glossary",
+          "start_page": 373,
+          "end_page": 391
+        }
+      ]
+    },
+    {
+      "book_id": "EASA_AirOps",
+      "pdf_url": "https://www.easa.europa.eu/en/downloads/20342/en",
+      "pdf_path": "resources/library/EASA_AirOps/EASA_AirOps.pdf",
+      "sha256": "71e9264f25a8d5b24e74f64b52fc91db63c0472ad1d974fc8e61ab3a829870f1",
+      "etag": "",
+      "lastModified": "",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 172,
+          "end_page": 188
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 189,
+          "end_page": 238
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 239,
+          "end_page": 330
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 331,
+          "end_page": 888
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 889,
+          "end_page": 1435
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 1436,
+          "end_page": 1787
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 1788,
+          "end_page": 2042
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 2043,
+          "end_page": 2175
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 2176,
+          "end_page": 2458
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 2459,
+          "end_page": 2566
+        }
+      ]
+    },
+    {
+      "book_id": "EASA_Aircrew",
+      "pdf_url": "https://www.easa.europa.eu/en/downloads/115485/en",
+      "pdf_path": "resources/library/EASA_Aircrew/EASA_Aircrew.pdf",
+      "sha256": "96ff0e38e48eba950633a70b056a06d8a60548bf097257aa55c134393d0272b7",
+      "etag": "",
+      "lastModified": "",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 40,
+          "end_page": 64
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 65,
+          "end_page": 1433
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 1434,
+          "end_page": 1441
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 1442,
+          "end_page": 1442
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 1443,
+          "end_page": 1577
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 1578,
+          "end_page": 1584
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 1585,
+          "end_page": 1728
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 1729,
+          "end_page": 1838
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 1839,
+          "end_page": 1858
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 1859,
+          "end_page": 1869
+        }
+      ]
+    },
+    {
+      "book_id": "EASA_SERA",
+      "pdf_url": "https://www.easa.europa.eu/en/downloads/68174/en",
+      "pdf_path": "resources/library/EASA_SERA/EASA_SERA.pdf",
+      "sha256": "8e20dff807760c51d9f1b492d5cd6e0a6c0344c84d26fe3a2b76c92453c082b9",
+      "etag": "",
+      "lastModified": "",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 19,
+          "end_page": 41
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 42,
+          "end_page": 42
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 43,
+          "end_page": 44
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 45,
+          "end_page": 55
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 56,
+          "end_page": 61
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 62,
+          "end_page": 69
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 70,
+          "end_page": 81
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 82,
+          "end_page": 84
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 85,
+          "end_page": 100
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 101,
+          "end_page": 106
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 11",
+          "start_page": 107,
+          "end_page": 107
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 12",
+          "start_page": 108,
+          "end_page": 126
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 13",
+          "start_page": 127,
+          "end_page": 129
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 14",
+          "start_page": 130,
+          "end_page": 135
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 15",
+          "start_page": 136,
+          "end_page": 214
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 16",
+          "start_page": 215,
+          "end_page": 218
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 17",
+          "start_page": 219,
+          "end_page": 238
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 18",
+          "start_page": 239,
+          "end_page": 244
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 19",
+          "start_page": 245,
+          "end_page": 245
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 20",
+          "start_page": 246,
+          "end_page": 248
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 21",
+          "start_page": 249,
+          "end_page": 258
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 22",
+          "start_page": 259,
+          "end_page": 274
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 23",
+          "start_page": 275,
+          "end_page": 275
+        }
+      ]
+    },
+    {
+      "book_id": "Instructor",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/aviation_instructors_handbook/aviation_instructors_handbook.pdf",
+      "pdf_path": "resources/library/Instructor/Instructor.pdf",
+      "sha256": "8a3c2cc0133d5d0231ff42589b55b49d995f604c21c16dffe688db1beccbaf73",
+      "etag": "",
+      "lastModified": "Fri, 25 Mar 2022 19:37:46 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 5,
+          "end_page": 33
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 34,
+          "end_page": 51
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 52,
+          "end_page": 93
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 94,
+          "end_page": 103
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 104,
+          "end_page": 131
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 132,
+          "end_page": 144
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 145,
+          "end_page": 158
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 159,
+          "end_page": 170
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 171,
+          "end_page": 184
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 185,
+          "end_page": 193
+        }
+      ]
+    },
+    {
+      "book_id": "Instrument",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-15B.pdf",
+      "pdf_path": "resources/library/Instrument/Instrument.pdf",
+      "sha256": "15cbf13fef6bf9810ad38d1f5bbff318133554a6ca118c4474bc1760ad9059d5",
+      "etag": "",
+      "lastModified": "Fri, 25 Mar 2022 19:39:33 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 20,
+          "end_page": 51
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 52,
+          "end_page": 67
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 68,
+          "end_page": 77
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 78,
+          "end_page": 95
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 96,
+          "end_page": 133
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 134,
+          "end_page": 161
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 162,
+          "end_page": 223
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 224,
+          "end_page": 243
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 244,
+          "end_page": 291
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 292,
+          "end_page": 325
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 11",
+          "start_page": 326,
+          "end_page": 339
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix A - Clearance Shorthand",
+          "start_page": 340,
+          "end_page": 341
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix B - Instrument Training Lesson Guide",
+          "start_page": 342,
+          "end_page": 345
+        },
+        {
+          "type": "glossary",
+          "title": "Glossary",
+          "start_page": 346,
+          "end_page": 365
+        }
+      ]
+    },
+    {
+      "book_id": "InstrumentProcedures",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/instrument_procedures_handbook/FAA-H-8083-16B.pdf",
+      "pdf_path": "resources/library/InstrumentProcedures/InstrumentProcedures.pdf",
+      "sha256": "67bee284221e2748c426a99793c332fe9f57018b9858f77b911675c814a03e91",
+      "etag": "",
+      "lastModified": "Fri, 25 Mar 2022 19:35:48 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 17,
+          "end_page": 60
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 61,
+          "end_page": 112
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 113,
+          "end_page": 140
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 141,
+          "end_page": 232
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 233,
+          "end_page": 250
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 251,
+          "end_page": 268
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 269,
+          "end_page": 286
+        },
+        {
+          "type": "emergencyProcedures",
+          "title": "Emergency Procedures",
+          "start_page": 287,
+          "end_page": 292
+        },
+        {
+          "type": "acronyms",
+          "title": "Acronyms",
+          "start_page": 293,
+          "end_page": 300
+        },
+        {
+          "type": "glossary",
+          "title": "Glossary",
+          "start_page": 301,
+          "end_page": 312
+        }
+      ]
+    },
+    {
+      "book_id": "PHAK",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-25C.pdf",
+      "pdf_path": "resources/library/PHAK/PHAK.pdf",
+      "sha256": "247929cace0ab56b376e683eba540cc4c8f39f199ab35414e8b604e24f395cb7",
+      "etag": "",
+      "lastModified": "Mon, 17 Jul 2023 16:08:36 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 16,
+          "end_page": 39
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 40,
+          "end_page": 71
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 72,
+          "end_page": 87
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 88,
+          "end_page": 97
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 98,
+          "end_page": 148
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 149,
+          "end_page": 160
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 161,
+          "end_page": 202
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 203,
+          "end_page": 230
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 231,
+          "end_page": 244
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 245,
+          "end_page": 256
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 11",
+          "start_page": 257,
+          "end_page": 284
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 12",
+          "start_page": 285,
+          "end_page": 310
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 13",
+          "start_page": 311,
+          "end_page": 334
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 14",
+          "start_page": 335,
+          "end_page": 375
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 15",
+          "start_page": 376,
+          "end_page": 387
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 16",
+          "start_page": 388,
+          "end_page": 422
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 17",
+          "start_page": 423,
+          "end_page": 452
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix A - Performance Data for Cessna Model 172R and Challenger 605",
+          "start_page": 453,
+          "end_page": 460
+        },
+        {
+          "type": "acronyms",
+          "title": "Acronyms",
+          "start_page": 461,
+          "end_page": 472
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix C - Airport Signs and Markings",
+          "start_page": 473,
+          "end_page": 476
+        },
+        {
+          "type": "glossary",
+          "title": "Glossary",
+          "start_page": 477,
+          "end_page": 512
+        }
+      ]
+    },
+    {
+      "book_id": "RiskManagement",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/2022-06/risk_management_handbook_2A.pdf",
+      "pdf_path": "resources/library/RiskManagement/RiskManagement.pdf",
+      "sha256": "519443a598eedd34c1824ad2ea482f393af0b80e52649e33c0e24a351e4c78bf",
+      "etag": "",
+      "lastModified": "Thu, 02 Jun 2022 20:16:25 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 10,
+          "end_page": 12
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 13,
+          "end_page": 18
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 19,
+          "end_page": 33
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 34,
+          "end_page": 38
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 39,
+          "end_page": 43
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 44,
+          "end_page": 49
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 50,
+          "end_page": 53
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 54,
+          "end_page": 57
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix Introduction",
+          "start_page": 58,
+          "end_page": 58
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix A - Risk Management Training",
+          "start_page": 59,
+          "end_page": 59
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix B - Risk Management Tools",
+          "start_page": 60,
+          "end_page": 63
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix C - Accident Case Studies",
+          "start_page": 64,
+          "end_page": 68
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix D - Risk Management Exercises",
+          "start_page": 69,
+          "end_page": 72
+        },
+        {
+          "type": "glossary",
+          "title": "Glossary",
+          "start_page": 73,
+          "end_page": 76
+        }
+      ]
+    },
+    {
+      "book_id": "Weather",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/FAA-H-8083-28B.pdf",
+      "pdf_path": "resources/library/Weather/Weather.pdf",
+      "sha256": "2a87e4a5613e2a8e060aaf83a95dfc55b61b0e576f5b783df9fdcebe62da62c3",
+      "etag": "",
+      "lastModified": "Mon, 13 Apr 2026 18:36:24 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 16,
+          "end_page": 17
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 18,
+          "end_page": 23
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 24,
+          "end_page": 60
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 61,
+          "end_page": 66
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 67,
+          "end_page": 79
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 80,
+          "end_page": 86
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 87,
+          "end_page": 94
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 95,
+          "end_page": 109
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 110,
+          "end_page": 115
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 116,
+          "end_page": 133
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 11",
+          "start_page": 134,
+          "end_page": 144
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 12",
+          "start_page": 145,
+          "end_page": 153
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 13",
+          "start_page": 154,
+          "end_page": 164
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 14",
+          "start_page": 165,
+          "end_page": 170
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 15",
+          "start_page": 171,
+          "end_page": 189
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 16",
+          "start_page": 190,
+          "end_page": 206
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 17",
+          "start_page": 207,
+          "end_page": 220
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 18",
+          "start_page": 221,
+          "end_page": 232
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 19",
+          "start_page": 233,
+          "end_page": 242
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 20",
+          "start_page": 243,
+          "end_page": 250
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 21",
+          "start_page": 251,
+          "end_page": 255
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 22",
+          "start_page": 256,
+          "end_page": 277
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 23",
+          "start_page": 278,
+          "end_page": 284
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 24",
+          "start_page": 285,
+          "end_page": 342
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 25",
+          "start_page": 343,
+          "end_page": 367
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 26",
+          "start_page": 368,
+          "end_page": 401
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 27",
+          "start_page": 402,
+          "end_page": 469
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 28",
+          "start_page": 470,
+          "end_page": 472
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix A - Cloud Types",
+          "start_page": 473,
+          "end_page": 484
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix B - Standard Conversion Chart",
+          "start_page": 485,
+          "end_page": 485
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix C - Density Altitude Calculation",
+          "start_page": 486,
+          "end_page": 486
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix D - Special Terminal Operation Procedures (STOP) for Operations in a Noncontiguous State",
+          "start_page": 487,
+          "end_page": 499
+        },
+        {
+          "type": "acronyms",
+          "title": "Acronyms",
+          "start_page": 500,
+          "end_page": 509
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix F - Units of Measurement",
+          "start_page": 510,
+          "end_page": 511
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix G - Websites",
+          "start_page": 512,
+          "end_page": 513
+        }
+      ]
+    },
+    {
+      "book_id": "WeightBalance",
+      "pdf_url": "https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/FAA-H-8083-1.pdf",
+      "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+      "sha256": "84015042cdf8f4ab46cfec8a55fd47e9c96cbe95b423f0f6cab14e4425079a10",
+      "etag": "",
+      "lastModified": "Fri, 25 Mar 2022 19:39:50 GMT",
+      "boundaries": [
+        {
+          "type": "chapter",
+          "title": "Chapter 1",
+          "start_page": 15,
+          "end_page": 20
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 2",
+          "start_page": 21,
+          "end_page": 32
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 3",
+          "start_page": 33,
+          "end_page": 42
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 4",
+          "start_page": 43,
+          "end_page": 48
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 5",
+          "start_page": 49,
+          "end_page": 54
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 6",
+          "start_page": 55,
+          "end_page": 60
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 7",
+          "start_page": 61,
+          "end_page": 68
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 8",
+          "start_page": 69,
+          "end_page": 72
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 9",
+          "start_page": 73,
+          "end_page": 92
+        },
+        {
+          "type": "chapter",
+          "title": "Chapter 10",
+          "start_page": 93,
+          "end_page": 93
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix A - Supplemental Study Materials for Aircraft Weight and Balance",
+          "start_page": 101,
+          "end_page": 102
+        },
+        {
+          "type": "appendix",
+          "title": "Appendix B - Key Weight and Balance Locations on an Aircraft",
+          "start_page": 103,
+          "end_page": 104
+        },
+        {
+          "type": "glossary",
+          "title": "Glossary",
+          "start_page": 105,
+          "end_page": 110
+        }
+      ]
+    }
+  ]
+}

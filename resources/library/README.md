@@ -1,19 +1,16 @@
 # PDF Library
 
-Put each source PDF in its own folder under `resources/library`. The folder name is used as the book's output identity.
+`library_manifest.json` is the single source of truth for PDF download
+metadata and page boundaries. Each entry includes the book ID, source URL,
+local PDF path, optional download metadata, and all chapter/section/appendix
+ranges.
 
-Add a `chapters.json` file beside each PDF to define exact chapter ranges. Page numbers are 1-based PDF pages and both endpoints are included. Pages outside the ranges (for example, the table of contents and appendices) are excluded:
+Run the processor from the repository root:
 
-```json
-{
-  "version": 1,
-  "chapters": [
-    { "number": 1, "startPage": 16, "endPage": 39 },
-    { "number": 2, "startPage": 40, "endPage": 71 }
-  ]
-}
+```bash
+python scripts/process_pdf_sections.py resources/library/library_manifest.json
 ```
 
-Ranges must be ordered, within the PDF, and non-overlapping. Gaps between ranges are allowed. The legacy `resources/library/chapter_overrides.json` can still supply chapter start pages when no per-book config exists; if neither is present, the book is skipped instead of being auto-split.
-
-The parser does not perform OCR. It reads the source PDF text directly and removes repeated headers, footers, and page numbers while preserving the original wording as closely as possible.
+Boundary page numbers refer to 1-based PDF pages and include both endpoints.
+Edit `library_manifest.json` when updating book metadata or ranges; separate
+per-book chapter files and the old download manifest are no longer used.

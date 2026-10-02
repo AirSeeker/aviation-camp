@@ -30,12 +30,12 @@ The library includes FAA training material under `resources/library`, including:
 
 The PDF processing pipeline lives in:
 
-- `scripts/parse_pdf.py`
+- `scripts/process_pdf_sections.py`
 
-It converts each manual into structured parsed output under:
+It reads the merged library metadata and writes structured output under:
 
-- `resources/parsed`
-- `public/images`
+- `resources/library/library_manifest.json`
+- `output/<book_id>`
 
 For full parser documentation, see:
 
@@ -84,19 +84,19 @@ Activate the environment:
 source .venv/bin/activate
 ```
 
-Run the parser with the current manifest-based workflow:
+Run the PDF processor:
 
 ```bash
-python scripts/parse_pdf.py --workers 1
+python scripts/process_pdf_sections.py resources/library/library_manifest.json
 ```
 
-Run the regression tests:
+Run the PDF processor tests:
 
 ```bash
-python -m unittest tests.test_parse_pdf -v
+python -m unittest tests.test_process_pdf_sections -v
 ```
 
 ## Notes
 
-- Books without a valid `chapters.json` or explicit chapter overrides are skipped rather than auto-split.
-- The parser validates document structure, removes repeated page artifacts, deduplicates images, and stages output before publishing it.
+- `resources/library/library_manifest.json` is the source of PDF URLs and section page boundaries.
+- The existing content generator still reads `resources/parsed`; connecting it to the new processor output is a separate follow-up.
