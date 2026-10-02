@@ -5,6 +5,7 @@ import { readFile } from 'node:fs/promises';
 import type { ReactNode } from 'react';
 import path from 'node:path';
 import { ArrowLeft, Plane } from 'lucide-react';
+import { ThemeToggle } from '../../../../components/ThemeToggle';
 import { TermTooltip } from '../../../../components/TermTooltip';
 import Quiz from '../../../../components/Quiz';
 import { VoiceReader } from '../../../../components/VoiceReader';
@@ -154,19 +155,47 @@ export default async function LessonPage({ params }: { params: { subject: string
     </div>;
   }
 
-  return <main className="reader-shell">
-    <header className="reader-topbar">
-      <Link className="brand" href="/"><span className="brand-mark"><Plane size={19} /></span><span>Aviation <b>Camp</b></span></Link>
-      <Link className="reader-back" href={`/subjects/${subject.id}/`}><ArrowLeft size={15} /> {subject.title}</Link>
-    </header>
-    <article className="reader-main lesson-article">
-      <div className="eyebrow muted"><span /> {subject.title.toUpperCase()} / CHAPTER {String(lesson.chapterNumber).padStart(2, '0')}</div>
-      <h1 className="reader-title">Chapter {lesson.chapterNumber}</h1>
-      <p className="reader-summary">{lesson.readTimeMinutes} min read</p>
-      {lesson.sourcePageStart && lesson.sourcePageEnd && <p className="source-citation">Source: {subject.title}, PDF pp. {lesson.sourcePageStart}–{lesson.sourcePageEnd}</p>}
-      <LessonCompletion lessonId={lessonId} />
-      <VoiceReader text={lesson.source} label="Read chapter aloud" />
-      <div className="lesson-content">{content}</div>
-    </article>
-  </main>;
+  return (
+    <main className="reader-shell">
+      <header className="reader-topbar">
+        <Link className="brand" href="/">
+          <span className="brand-mark"><Plane size={19} /></span>
+          <span>Aviation <b>Camp</b></span>
+        </Link>
+
+        <div className="reader-nav">
+          <ThemeToggle />
+          <Link className="reader-back" href={`/subjects/${subject.id}/`}>
+            <ArrowLeft size={15} /> {subject.title}
+          </Link>
+        </div>
+      </header>
+
+      <article className="reader-main lesson-article">
+        <div className="eyebrow muted"><span /> {subject.title.toUpperCase()} / CHAPTER {String(lesson.chapterNumber).padStart(2, '0')}</div>
+
+        <div className="lesson-header">
+          <div>
+            <h1 className="reader-title">Chapter {lesson.chapterNumber}</h1>
+            <p className="reader-summary">{lesson.readTimeMinutes} min read</p>
+          </div>
+          <div className="subject-hero-stat">
+            <strong>{lesson.readTimeMinutes}</strong>
+            <span>mins</span>
+          </div>
+        </div>
+
+        {lesson.sourcePageStart && lesson.sourcePageEnd && (
+          <p className="source-citation">Source: {subject.title}, PDF pp. {lesson.sourcePageStart}–{lesson.sourcePageEnd}</p>
+        )}
+
+        <div className="lesson-toolbar">
+          <LessonCompletion lessonId={lessonId} />
+          <VoiceReader text={lesson.source} label="Read chapter aloud" />
+        </div>
+
+        <div className="lesson-content">{content}</div>
+      </article>
+    </main>
+  );
 }

@@ -3,6 +3,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { ArrowLeft, Plane } from 'lucide-react';
+import { ThemeToggle } from '../../../components/ThemeToggle';
 import terms from '../../../content/dictionary/terms.json';
 import abbreviations from '../../../content/dictionary/abbreviations.json';
 
@@ -39,18 +40,34 @@ export default function FlashcardsPage() {
   return (
     <main className="reader-shell">
       <header className="reader-topbar">
-        <Link className="brand" href="/"><span className="brand-mark"><Plane size={19} /></span><span>Aviation <b>Camp</b></span></Link>
-        <Link className="reader-back" href="/glossary/"><ArrowLeft size={15} /> Glossary</Link>
+        <div className="brand-stack">
+          <Link className="brand" href="/">
+            <span className="brand-mark"><Plane size={19} /></span>
+            <span>Aviation <b>Camp</b></span>
+          </Link>
+        </div>
+
+        <div className="reader-nav">
+          <ThemeToggle />
+          <Link className="reader-back" href="/glossary/">
+            <ArrowLeft size={15} /> Glossary
+          </Link>
+          <Link className="reader-back" href="/exam/">Exam Simulator</Link>
+          <Link className="reader-back" href="/">Library</Link>
+        </div>
       </header>
+
       <section className="reader-main">
         <div className="eyebrow muted"><span /> FLASHCARDS / REVISION</div>
         <h1 className="reader-title">Aviation flashcards</h1>
         <p className="reader-summary">Review important terms and abbreviations using spaced repetition. Your progress is saved locally in the browser.</p>
+
         <div className="flashcard-stats">
           <div><strong>{stats.learned}</strong><span>Learned</span></div>
           <div><strong>{stats.review}</strong><span>Review</span></div>
           <div><strong>{stats.total}</strong><span>Total</span></div>
         </div>
+
         <div className="flashcard-grid">
           {entries.map((entry) => {
             const status = selected[entry.term] || 'review';
