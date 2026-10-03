@@ -38,6 +38,44 @@ export type Lesson = {
   source: string;
 };
 
+export type ParsedTextElement = {
+  type: 'text';
+  text: string;
+  font_name: string;
+  font_size: number;
+  color: string;
+  is_bold: boolean;
+  is_italic: boolean;
+  bbox: number[];
+};
+
+export type ParsedImageElement = {
+  type: 'image';
+  image_path: string;
+  bbox: number[];
+};
+
+export type ParsedTableElement = {
+  type: 'table';
+  data: Array<Array<string | null>>;
+  bbox: number[];
+};
+
+export type ParsedElement = ParsedTextElement | ParsedImageElement | ParsedTableElement;
+
+export type ParsedPage = {
+  page_number: number;
+  elements: ParsedElement[];
+};
+
+export type ParsedSection = {
+  type: string;
+  title: string;
+  start_page: number;
+  end_page: number;
+  pages: ParsedPage[];
+};
+
 const docsRoot = path.join(process.cwd(), 'src', 'content', 'docs');
 const parsedRoot = path.join(process.cwd(), 'resources', 'parsed');
 
@@ -127,4 +165,19 @@ export async function getLessons(): Promise<Lesson[]> {
 
 export async function getLessonsForBook(book: string): Promise<Lesson[]> {
   return (await getLessons()).filter((lesson) => lesson.book === book);
+}
+
+export async function getParsedSection(book: string, chapter: string): Promise<ParsedSection | null> {
+  let source: string;
+  try {
+    source = await readFile(path.join(parsedRoot, book, `${chapter}.json`), 'utf8');
+  } catch (error) {
+    if (error && typeof error === 'object' && 'code' in error && error.code === 'ENOENT') return null;
+    throw error;
+  }
+
+  const payload = JSON.parse(source) as { section?: Partial<ParsedSection> };
+  const section = payload.section;
+  if (!section || !Array.isArray(section.pages)) return null;
+  return section as ParsedSection;
 }

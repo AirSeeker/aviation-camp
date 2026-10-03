@@ -12,7 +12,7 @@ import { VoiceReader } from '../../../../components/VoiceReader';
 import { LessonCompletion } from '../../../../components/StudyProgress';
 import terms from '../../../../content/dictionary/terms.json';
 import abbreviations from '../../../../content/dictionary/abbreviations.json';
-import { getLessons, subjects } from '../../../../src/content/subjects';
+import { getLessons, getParsedSection, subjects, type ParsedElement, type ParsedPage, type ParsedTextElement } from '../../../../src/content/subjects';
 
 export const dynamicParams = false;
 
@@ -100,6 +100,127 @@ function applyTermTooltips(source: string): string {
   return result;
 }
 
+type ParsedLine = {
+  spans: ParsedTextElement[];
+  top: number;
+  bottom: number;
+  left: number;
+  fontSize: number;
+  column: number;
+};
+
+type ParsedBlock = ParsedLine | Exclude<ParsedElement, ParsedTextElement>;
+
+function isTextElement(element: ParsedElement): element is ParsedTextElement {
+  return element.type === 'text';
+}
+
+function parsedLines(page: ParsedPage): ParsedBlock[] {
+  const midpoint = Math.max(...page.elements.map((element) => element.bbox[2]), 1) / 2;
+  const result: ParsedBlock[] = [];
+
+  for (const element of page.elements) {
+    if (!isTextElement(element)) {
+      result.push(element);
+      continue;
+    }
+
+    const [x0, y0, , y1] = element.bbox;
+    const column = x0 < midpoint ? 0 : 1;
+    const previous = result.at(-1);
+    if (
+      previous &&
+      'spans' in previous &&
+      previous.column === column &&
+      Math.abs(previous.top - y0) <= 2.5 &&
+      x0 - previous.spans.at(-1)!.bbox[2] <= Math.max(36, element.font_size * 4)
+    ) {
+      previous.spans.push(element);
+      previous.top = Math.min(previous.top, y0);
+      previous.bottom = Math.max(previous.bottom, y1);
+      previous.fontSize = Math.max(previous.fontSize, element.font_size);
+    } else {
+      result.push({ spans: [element], top: y0, bottom: y1, left: x0, fontSize: element.font_size, column });
+    }
+  }
+
+  return result;
+}
+
+function ParsedTextLine({ line }: { line: ParsedLine }) {
+  return <>{line.spans.map((span, index) => {
+    const previous = line.spans[index - 1];
+    const needsSpace = previous && span.bbox[0] - previous.bbox[2] > Math.max(1, span.font_size * 0.16);
+    const color = /^#[0-9a-f]{6}$/i.test(span.color) ? span.color : undefined;
+    const fontSize = Number.isFinite(span.font_size) ? Math.min(32, Math.max(9, span.font_size * 1.5)) : undefined;
+    return <span key={`${index}-${span.bbox[0]}`} style={{
+      color,
+      fontSize,
+      fontWeight: span.is_bold ? 700 : undefined,
+      fontStyle: span.is_italic ? 'italic' : undefined,
+    }}>{needsSpace ? ' ' : null}{span.text}</span>;
+  })}</>;
+}
+
+function ParsedPdfContent({ pages }: { pages: ParsedPage[] }) {
+  return <div className="parsed-pdf-content">
+    {pages.map((page) => {
+      const blocks = parsedLines(page);
+      const rendered: ReactNode[] = [];
+      let paragraph: ParsedLine[] = [];
+
+      const flushParagraph = () => {
+        if (!paragraph.length) return;
+        const lines = paragraph;
+        const isHeading = lines.length === 1 && lines[0].fontSize >= 11.5 && lines[0].spans.some((span) => span.is_bold);
+        const content = lines.map((line, index) => <span key={index}>
+          {index > 0 ? ' ' : null}<ParsedTextLine line={line} />
+        </span>);
+        rendered.push(isHeading
+          ? <h2 key={`heading-${rendered.length}`}>{content}</h2>
+          : <p key={`paragraph-${rendered.length}`}>{content}</p>);
+        paragraph = [];
+      };
+
+      for (const block of blocks) {
+        if ('spans' in block) {
+          const previous = paragraph.at(-1);
+          const verticalGap = previous ? block.top - previous.top : 0;
+          const sameParagraph = previous
+            && block.column === previous.column
+            && Math.abs(block.fontSize - previous.fontSize) < 1
+            && Math.abs(block.left - previous.left) < 24
+            && verticalGap <= Math.max(18, block.fontSize * 1.8);
+          if (paragraph.length && !sameParagraph) flushParagraph();
+          paragraph.push(block);
+          continue;
+        }
+
+        flushParagraph();
+        if (block.type === 'image') {
+          rendered.push(<figure key={`image-${rendered.length}`}>
+            <LessonImage src={block.image_path} alt={`PDF page ${page.page_number} illustration`} />
+          </figure>);
+        } else {
+          rendered.push(<div className="parsed-table-scroll" key={`table-${rendered.length}`}>
+            <table><tbody>{block.data.map((row, rowIndex) => <tr key={rowIndex}>
+              {row.map((cell, cellIndex) => rowIndex === 0
+                ? <th key={cellIndex}>{cell ?? ''}</th>
+                : <td key={cellIndex}>{cell ?? ''}</td>)}
+            </tr>)}</tbody></table>
+          </div>);
+        }
+      }
+      flushParagraph();
+
+      return <section className="parsed-pdf-page" key={page.page_number} aria-label={`PDF page ${page.page_number}`}>
+        <div className="parsed-pdf-page-label">PDF page {page.page_number}</div>
+        {rendered}
+      </section>;
+    })}
+  </div>;
+}
+
 export async function generateStaticParams() {
   const lessons = await getLessons();
   return lessons.flatMap((lesson) => {
@@ -113,46 +234,57 @@ export default async function LessonPage({ params }: { params: { subject: string
   const lesson = (await getLessons()).find((item) => item.slug === params.chapter && item.book === subject?.id);
   if (!subject || !lesson) return null;
 
+  const parsedSection = await getParsedSection(subject.id, lesson.slug);
   const figures = await getLessonFigures(subject.id, lesson.slug, lesson.source);
   const quizQuestions = await getLessonQuiz(subject.id, lesson.slug);
   let content: ReactNode;
   const lessonId = `${subject.id}/${lesson.slug}`;
+  const parsedText = parsedSection?.pages
+    .flatMap((page) => page.elements.filter(isTextElement).map((element) => element.text))
+    .join(' ') || '';
   const source = applyTermTooltips(insertLessonFigures(lesson.source, figures, lesson.sourcePageStart, lesson.sourcePageEnd)
     .replace(/\{([A-Za-z][A-Za-z ]*)\}/g, '$1'));
-  try {
-    ({ content } = await compileMDX({
-      source,
-      components: {
-        Quiz: () => quizQuestions.length > 0 ? <Quiz questions={quizQuestions} lessonId={lessonId} /> : null,
-        TermTooltip,
-        img: LessonImage,
-      },
-    }));
-  } catch {
-    const fallbackContent = source.replace(/<Quiz\b[\s\S]*?\/>/g, '');
-    const contentParts = fallbackContent.split(/(<figure\b[\s\S]*?<\/figure>|<img\b[^>]*\/?\s*>)/g);
-    const fallbackBlocks: ReactNode[] = [];
-    contentParts.forEach((part, index) => {
-      const image = part.match(/<img\b[^>]*\bsrc="([^"]+)"[^>]*>/);
-      if (image) {
-        const alt = part.match(/\balt="([^"]*)"/)?.[1] || '';
-        const caption = part.match(/<figcaption>([\s\S]*?)<\/figcaption>/)?.[1];
-        fallbackBlocks.push(<figure key={`figure-${index}`}><LessonImage src={image[1]} alt={alt} />{caption && <figcaption>{caption}</figcaption>}</figure>);
-        return;
-      }
+  const sourceWithQuiz = quizQuestions.length > 0 && !/<Quiz\b/.test(source)
+    ? `${source}\n\n<Quiz />`
+    : source;
+  if (parsedSection) {
+    content = <>
+      <ParsedPdfContent pages={parsedSection.pages} />
+      {quizQuestions.length > 0 && <Quiz questions={quizQuestions} lessonId={lessonId} />}
+    </>;
+  } else {
+    try {
+      ({ content } = await compileMDX({
+        source: sourceWithQuiz,
+        components: {
+          Quiz: () => quizQuestions.length > 0 ? <Quiz questions={quizQuestions} lessonId={lessonId} /> : null,
+          TermTooltip,
+          img: LessonImage,
+        },
+      }));
+    } catch {
+      const fallbackContent = sourceWithQuiz.replace(/<Quiz\b[\s\S]*?\/>/g, '');
+      const contentParts = fallbackContent.split(/(<figure\b[\s\S]*?<\/figure>|<img\b[^>]*\/?\s*>)/g);
+      const fallbackBlocks: ReactNode[] = [];
+      contentParts.forEach((part, index) => {
+        const image = part.match(/<img\b[^>]*\bsrc="([^"]+)"[^>]*>/);
+        if (image) {
+          const alt = part.match(/\balt="([^"]*)"/)?.[1] || '';
+          const caption = part.match(/<figcaption>([\s\S]*?)<\/figcaption>/)?.[1];
+          fallbackBlocks.push(<figure key={`figure-${index}`}><LessonImage src={image[1]} alt={alt} />{caption && <figcaption>{caption}</figcaption>}</figure>);
+          return;
+        }
 
-      const paragraphs = part.replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[*_`]/g, '')
-        .split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
-      fallbackBlocks.push(...paragraphs.map((paragraph, paragraphIndex) => <p key={`paragraph-${index}-${paragraphIndex}`}>{paragraph.replace(/\n/g, ' ')}</p>));
-    });
+        const paragraphs = part.replace(/^#{1,6}\s*/gm, '').replace(/^\s*[-*>]\s*/gm, '').replace(/[*_`]/g, '')
+          .split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+        fallbackBlocks.push(...paragraphs.map((paragraph, paragraphIndex) => <p key={`paragraph-${index}-${paragraphIndex}`}>{paragraph.replace(/\n/g, ' ')}</p>));
+      });
 
-    let fallbackQuiz: ReactNode = null;
-    if (quizQuestions.length > 0) fallbackQuiz = <Quiz questions={quizQuestions} lessonId={lessonId} />;
-
-    content = <div>
-      {fallbackBlocks}
-      {fallbackQuiz ? <div>{fallbackQuiz}</div> : null}
-    </div>;
+      content = <div>
+        {fallbackBlocks}
+        {quizQuestions.length > 0 && <Quiz questions={quizQuestions} lessonId={lessonId} />}
+      </div>;
+    }
   }
 
   return (
@@ -191,7 +323,7 @@ export default async function LessonPage({ params }: { params: { subject: string
 
         <div className="lesson-toolbar">
           <LessonCompletion lessonId={lessonId} />
-          <VoiceReader text={lesson.source} label="Read chapter aloud" />
+          <VoiceReader text={parsedText || lesson.source} label="Read chapter aloud" />
         </div>
 
         <div className="lesson-content">{content}</div>

@@ -195,10 +195,10 @@ for (const file of htmlFiles) {
 if (missingLinks.size) throw new Error(`Broken local links or assets:\n${[...missingLinks].slice(0, 30).join('\n')}`);
 
 const quizPage = await readFile(path.join(outRoot, 'subjects', 'PHAK', 'ch01', 'index.html'), 'utf8');
-if (quizPage.includes('Knowledge check')) {
-  console.log('Sample chapter quiz detected in static export.');
-} else {
-  console.log('Static export is running without quizzes; this is expected for the no-AI content pipeline.');
+const sampleQuiz = JSON.parse(await readFile(path.join(root, 'content', 'quizzes', 'PHAK', 'ch01.json'), 'utf8'));
+if (Array.isArray(sampleQuiz) && sampleQuiz.length > 0 && !quizPage.includes('Knowledge check')) {
+  throw new Error('Sample chapter quiz questions exist but are missing from the static export.');
 }
+if (Array.isArray(sampleQuiz) && sampleQuiz.length > 0) console.log('Sample chapter quiz detected in static export.');
 
 console.log(`Verified ${lessonFiles.length} lessons, ${htmlFiles.length} HTML pages, and ${referencedImages.size} referenced images.`);
