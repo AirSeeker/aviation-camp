@@ -1,25 +1,18 @@
 #!/usr/bin/env python3
-"""Generate MDX content from parsed PDF chapters using the Gemini API."""
+"""Generate static MDX chapter pages from parsed PDF chapters without AI or quiz generation."""
 
 from __future__ import annotations
 
 import argparse
 import json
-import os
 import re
 import time
 from pathlib import Path
 from typing import Any, Dict, Iterable, List
 
-from dotenv import load_dotenv
-from google import genai
-from google.genai import types
-
 ROOT = Path(__file__).resolve().parents[1]
 PARSED_ROOT = ROOT / "resources" / "parsed"
 DOCS_OUTPUT_ROOT = ROOT / "src" / "content" / "docs"
-
-load_dotenv(ROOT / ".env")
 
 GLOSSARY = {
     "Angle of Attack": "Angle of Attack",
@@ -50,7 +43,6 @@ GLOSSARY = {
     "Aviation Weather": "Aviation Weather",
 }
 
-DEFAULT_MODEL = os.getenv("GEMINI_MODEL", "gemini-3.8-flash")
 REQUIRED_FRONTMATTER_FIELDS = [
     "title",
     "description",
@@ -120,9 +112,62 @@ def source_book_title(book_name: str) -> str:
 
 def normalize_text(raw_text: str) -> str:
     text = raw_text.replace("\r\n", "\n").replace("\r", "\n")
+    text = text.replace("\u2022", "-")
     text = re.sub(r"\n{3,}", "\n\n", text)
     text = re.sub(r"[ \t]+\n", "\n", text)
+    text = re.sub(r"\n{2,}", "\n\n", text)
+    text = re.sub(r"(?<!\n)\n(?=[a-z])", " ", text)
+    text = re.sub(r"\s+", " ", text)
     return text.strip()
+
+
+def normalize_parsed_body(text: str) -> str:
+    cleaned = normalize_text(text)
+    cleaned = re.sub(r"<figure\b.*?</figure>", " ", cleaned, flags=re.IGNORECASE | re.DOTALL)
+    cleaned = re.sub(r"<img\s+[^>]*src=[\"']([^\"']+)[\"'][^>]*>", " ", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"(?i)\bFigure\s+\d+(?:-\d+)?\.?\s*", " ", cleaned)
+    cleaned = re.sub(r"\[\s*Figure\s+\d+(?:-\d+)?\s*\]", " ", cleaned)
+    cleaned = re.sub(r"\[\s*\]\s*", " ", cleaned)
+    cleaned = re.sub(r"[•⦁]\s*", "\n- ", cleaned)
+    cleaned = re.sub(r"(?i)\bChapter\s+\d+\s+Introduction\s+To\s+Flying\s+Introduction\b", "", cleaned)
+    cleaned = re.sub(r"(?i)\b(?:Chapter\s+\d+\s*)?(?:Introduction\s+To\s+Flying|Introduction)\b", "", cleaned)
+    cleaned = re.sub(r"(?i)\bThe\s+following\s+In\s+2004\b", "In 2004", cleaned)
+    cleaned = re.sub(r"(?i)\bFlight\s+information\s+publications\s+outlining\s+baseline\s+data:\s*", "", cleaned)
+    cleaned = re.sub(r"(?i)\bThe\s+following\s+are\s+two\s+examples\s+of\s+how\s+the\s+time\s+would\s+be\s+presented:\b", "Examples of time notation:", cleaned)
+    cleaned = re.sub(r"(?i)\bThe\s+FAA\s+selects\s+highly\s+qualified\s+individuals\s+to\s+be\s+DPEs\.?\b", "The FAA selects highly qualified individuals to be DPEs.", cleaned)
+    cleaned = re.sub(r"(?i)\bA\s+FSDO\s+inspector\s+is\s+assigned\b", "A FSDO inspector is assigned", cleaned)
+    cleaned = re.sub(r"(?i)\bRole\s+of\s+the\s+FAA\s+The\s+Federal\s+Aviation\s+Administration\s*\(FAA\)\b", "The Federal Aviation Administration (FAA)", cleaned)
+    cleaned = re.sub(r"(?<=\.)\s+(?=-\s+[A-Z])", "\n\n", cleaned)
+    cleaned = re.sub(r"\s*[-–—]{2,}\s*", "\n- ", cleaned)
+    cleaned = re.sub(r"\s+-\s+(?=[A-Z])", "\n- ", cleaned)
+    cleaned = re.sub(r"(?i)\bLocal\s+(?=\d)", "", cleaned)
+    cleaned = re.sub(r"\b(websites|website)\.\s+", "", cleaned)
+    cleaned = re.sub(r"\s+([,.;:!?])", r"\1", cleaned)
+    cleaned = re.sub(r"(?i)\b(?:no\s+)?figure\s+\d+(?:-\d+)?\b", " ", cleaned)
+    cleaned = re.sub(r"\s{2,}", " ", cleaned)
+    chunks = [chunk.strip() for chunk in re.split(r"(?<=[.!?])\s+(?=[A-Z])", cleaned) if chunk.strip()]
+    if not chunks:
+        return cleaned.strip()
+    paragraphs = []
+    current = ""
+    for chunk in chunks:
+        if not current:
+            current = chunk
+            continue
+        if len(current) + 1 + len(chunk) <= 220:
+            current = f"{current} {chunk}".strip()
+        else:
+            paragraphs.append(current)
+            current = chunk
+    if current:
+        paragraphs.append(current)
+
+    sanitized = []
+    for para in paragraphs:
+        text = re.sub(r"\s+", " ", para).strip()
+        if text:
+            sanitized.append(text)
+    return "\n\n".join(sanitized)
 
 
 def chunk_text(text: str, chunk_size: int = 1800) -> List[str]:
@@ -145,12 +190,13 @@ def chunk_text(text: str, chunk_size: int = 1800) -> List[str]:
 
 
 def load_book_manifest(book_dir: Path) -> Dict[str, Any]:
-    manifest_path = book_dir / "book_manifest.json"
-    if manifest_path.exists():
-        try:
-            return json.loads(manifest_path.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            return {}
+    manifest_paths = [book_dir / "parser_manifest.json", book_dir / "book_manifest.json"]
+    for manifest_path in manifest_paths:
+        if manifest_path.exists():
+            try:
+                return json.loads(manifest_path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                return {}
     return {}
 
 
@@ -167,6 +213,35 @@ def load_chapter_files(book_dir: Path, chapter_name: str) -> Dict[str, Any]:
             images = json.loads(manifest_path.read_text(encoding="utf-8")).get("images", [])
         except json.JSONDecodeError:
             images = []
+
+    parsed_file = book_dir / f"{chapter_name}.json"
+    if parsed_file.exists():
+        try:
+            payload = json.loads(parsed_file.read_text(encoding="utf-8"))
+            section = payload.get("section", {})
+            if isinstance(section, dict):
+                element_text: List[str] = []
+                image_entries: List[Dict[str, Any]] = []
+                for page in section.get("pages", []):
+                    for element in page.get("elements", []):
+                        if element.get("type") == "text":
+                            text = str(element.get("text", "")).strip()
+                            if text:
+                                element_text.append(text)
+                        elif element.get("type") == "image":
+                            image_path = str(element.get("image_path") or "").strip()
+                            if image_path:
+                                image_entries.append({"relativePath": image_path})
+                if element_text:
+                    return {
+                        "content": normalize_text("\n\n".join(element_text)),
+                        "images": image_entries or images,
+                        "book_title": payload.get("book_title", book_dir.name),
+                        "section": section,
+                    }
+        except json.JSONDecodeError:
+            pass
+
     return {
         "content": normalize_text(texts),
         "images": images,
@@ -185,27 +260,17 @@ def build_glossary_prompt() -> str:
 
 def build_system_prompt(subject: str) -> str:
     return f"""
-You are a Senior Technical Writer and Certified Flight Instructor (CFI) creating English-language MDX study content grounded in a named FAA reference handbook.
+Create a static English-language MDX chapter page from the supplied source text using FAA-style training wording.
 
-Your task is to convert raw PDF text into clear, accurate MDX study pages. Do not claim that one handbook covers an entire EASA syllabus subject.
-
-Required rules:
-- Write all output in English only, including titles, headings, explanations, callouts, and quiz questions.
-- Use standard FAA/EASA aviation terminology throughout.
-- Do not invent facts that are not supported by the source text.
-- Use the supplied handbook name as the subject and use a neutral chapter title unless the source clearly provides a chapter title.
-- Preserve operational accuracy and safe training context.
-- Use the glossary below when relevant terms appear in the source text.
-- Preserve source <strong>, <em>, and <figure> markup and keep figures at their source positions.
-- Do not add a second image placeholder for an image already embedded in the source.
-- Structure the page with a clear progression: introduction, core concepts, practical application, safety considerations, and summary.
-- Include short callout blocks in Markdown format such as: > **Attention:** ...
-- For images, use JSX tags in the form <img src="/images/..." alt="..." /> when appropriate.
-- At the end of the file, include a self-closing Quiz marker: <Quiz />. Quiz questions are stored in chapter-scoped JSON files, not inline in MDX.
-- The content must match the subject: {subject}.
-- Every chapter frontmatter must include the required metadata fields: title, description, subject, chapterNumber, readTimeMinutes, lang: "en", translationKey.
-- Translation-ready structure: use stable English title text and a unique translationKey such as "phak-ch01".
-- Keep jargon accessible to student pilots while retaining correct technical meaning.
+Rules:
+- Write every title and heading in English only.
+- Preserve the source chapter content as faithfully as possible.
+- Keep valid frontmatter fields: title, description, subject, chapterNumber, readTimeMinutes, lang: "en", translationKey.
+- Use the handbook subject passed in as the subject value.
+- Keep figures and emphasis tags already present in the source.
+- Do not invent facts, add quiz questions, or generate AI-style rewrites.
+- Do not add any <Quiz /> marker.
+- The generated chapter must match the FAA subject: {subject}.
 
 Glossary:
 {build_glossary_prompt()}
@@ -222,7 +287,7 @@ def build_user_prompt(book_name: str, chapter_name: str, content: str, images: L
     translation_key = translation_key_for(book_name, chapter_name)
 
     return f"""
-Create an MDX chapter page for {chapter_name} from the book {book_name}.
+Create a static MDX chapter page for {chapter_name} from the book {book_name}.
 Subject: {subject}
 Translation key: {translation_key}
 
@@ -231,67 +296,15 @@ Source text:
 
 {image_block}
 
-Output requirements:
+Requirements:
 1. Use YAML frontmatter with fields: title, description, subject, chapterNumber, readTimeMinutes, lang, translationKey.
 2. Set lang to "en" and use a stable translationKey value matching the chapter, such as "phak-ch01".
-3. Write the full lesson in English only, including headings, paragraphs, callouts, and quiz questions.
+3. Keep the lesson content in English and preserve the source text without rewriting it into new AI-generated prose.
 4. Use Markdown headings with ## and ###.
-5. Include 2–4 callouts in the form > **Attention:** ...
-6. Preserve any <strong>, <em>, and <figure> markup from the source, including its position in the chapter. Add image placeholders only for images not already embedded there.
-7. Insert image placeholders in appropriate places using JSX <img src="..." alt="..." />.
-8. End the page with a self-closing JSX Quiz marker: <Quiz />. Store the 3–5 questions in the matching chapter JSON file.
-9. Keep the chapter concise, practical, and suitable for a PPL student.
-10. Use standard FAA terminology such as Angle of Attack, Stall, Indicated Airspeed (IAS), and Center of Gravity (CG).
+5. Preserve any <strong>, <em>, and <figure> markup from the source, including its position in the chapter. Add image placeholders only for images not already embedded there.
+6. Do not create any quiz questions, answer keys, or <Quiz /> markers.
+7. Keep the chapter concise, practical, and suitable for a PPL student.
 """
-
-
-def gemini_client() -> genai.Client:
-    api_key = (
-        os.getenv("GEMINI_API_KEY")
-        or os.getenv("GOOGLE_API_KEY")
-        or os.getenv("OPENAI_API_KEY")
-    )
-    if not api_key:
-        raise RuntimeError("GEMINI_API_KEY or GOOGLE_API_KEY is not set")
-    return genai.Client(api_key=api_key)
-
-
-def extract_retry_delay_seconds(exc: Exception) -> float:
-    message = str(exc)
-    match = re.search(r"Please retry in\s+([0-9.]+)s", message)
-    if match:
-        return max(1.0, float(match.group(1))) + 1.0
-    if "RESOURCE_EXHAUSTED" in message or "UNAVAILABLE" in message:
-        return 10.0
-    return 0.0
-
-
-def call_gemini(messages: List[Dict[str, str]], model: str = DEFAULT_MODEL) -> str:
-    client = gemini_client()
-    system_prompt = next((item["content"] for item in messages if item["role"] == "system"), "")
-    user_prompt = "\n\n".join(item["content"] for item in messages if item["role"] == "user")
-    config = types.GenerateContentConfig(
-        system_instruction=system_prompt,
-        temperature=0.2,
-    )
-    for attempt in range(3):
-        try:
-            response = client.models.generate_content(
-                model=model,
-                contents=user_prompt,
-                config=config,
-            )
-            return response.text or ""
-        except Exception as exc:
-            delay = extract_retry_delay_seconds(exc)
-            if attempt == 2:
-                raise
-            if delay > 0:
-                time.sleep(delay)
-            else:
-                time.sleep(2 ** attempt)
-
-    return ""
 
 
 def validate_mdx_frontmatter(mdx: str, book_name: str, chapter_name: str, subject: str) -> str:
@@ -331,30 +344,44 @@ def sanitize_images(images: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
         rel_path = str(img.get("relativePath") or "").strip()
         if not rel_path:
             continue
+        if rel_path.startswith("/images/"):
+            valid.append({**img, "relativePath": rel_path})
+            continue
         absolute_path = (ROOT / rel_path.lstrip("/")).resolve()
         if absolute_path.exists():
             valid.append(img)
+        else:
+            public_candidate = (ROOT / "public" / rel_path.lstrip("/")).resolve()
+            if public_candidate.exists():
+                valid.append({**img, "relativePath": f"/images/{Path(rel_path).name}"})
     return valid
 
 
-def generate_fallback_mdx(book_name: str, chapter_name: str, content: str, images: List[Dict[str, Any]], subject: str) -> str:
+def generate_fallback_mdx(
+    book_name: str,
+    chapter_name: str,
+    content: str,
+    images: List[Dict[str, Any]],
+    subject: str,
+    explicit_title: str | None = None,
+) -> str:
     chapter_num = maybe_infer_chapter_number(chapter_name)
-    title = infer_title_from_chapter(book_name, chapter_name, subject, content)
-    description = f"Learn the key concepts and practical considerations covered in {subject.lower()} for this chapter."
-    body = normalize_text(content)
-    paragraphs = [p.strip() for p in re.split(r"\n\s*\n+", body) if p.strip()][:6]
-    summary = "\n\n".join(paragraphs) if paragraphs else "This chapter introduces the core principles and operational context relevant to the lesson topic."
-    read_time = estimate_read_time_minutes(summary)
+    title = explicit_title or infer_title_from_chapter(book_name, chapter_name, subject, content)
+    description = f"Reference material for {subject.lower()} chapter {chapter_num}."
+    body = normalize_parsed_body(content)
+    if not body:
+        body = "This chapter introduces the related aircraft principles and operating context."
 
+    read_time = estimate_read_time_minutes(body)
     valid_images = sanitize_images(images)
     image_snippet = ""
-    if valid_images and not any(image.get("relativePath") in summary for image in valid_images):
+    if valid_images:
         top_image = valid_images[0]
-        image_snippet = f'\n\n<img src="{top_image.get("relativePath", "/images/placeholder.png")}" alt="{top_image.get("figureRef", "Illustration")}" />\n\n'
+        image_path = str(top_image.get("relativePath") or "/images/placeholder.png")
+        image_alt = str(top_image.get("figureRef") or "Chapter figure")
+        image_snippet = f'\n\n<img src="{image_path}" alt="{image_alt}" />\n\n'
 
     chapter_key = translation_key_for(book_name, chapter_name)
-
-    quiz = "<Quiz />"
 
     mdx = f"""---
 title: "{title}"
@@ -366,29 +393,11 @@ lang: "en"
 translationKey: "{chapter_key}"
 ---
 
-## {title}
+# {title}
 
-{summary}
+{body}
 
 {image_snippet}
-
-## Key principles
-
-- Understand the core definitions and terminology used in the subject.
-- Apply the information to realistic flight scenarios and normal operating conditions.
-- Cross-check critical parameters before making decisions during flight.
-
-> **Attention:** Each flight requires continuous attention to aircraft state, environment, and procedural compliance.
-
-> **Remember:** When uncertain, prioritize the safest and most conservative course of action.
-
-## Practical application
-
-- These concepts help you interpret aircraft performance and flight conditions.
-- They support sound decision making during normal and abnormal operations.
-- They reinforce disciplined, safe, and consistent pilot technique.
-
-{quiz}
 """
 
     return validate_mdx_frontmatter(mdx, book_name, chapter_name, subject)
@@ -397,64 +406,34 @@ translationKey: "{chapter_key}"
 def generate_mdx_for_chapter(book_name: str, chapter_name: str, chapter_payload: Dict[str, Any], subject: str) -> str:
     content = chapter_payload.get("content", "")
     images = chapter_payload.get("images", [])
-    if not content:
-        return generate_fallback_mdx(book_name, chapter_name, "", images, subject)
-
-    try:
-        system_prompt = build_system_prompt(subject)
-        user_prompt = build_user_prompt(book_name, chapter_name, content, images, subject)
-        response = call_gemini([
-            {"role": "system", "content": system_prompt},
-            {"role": "user", "content": user_prompt},
-        ])
-        cleaned = response.strip()
-        if cleaned.startswith("```"):
-            cleaned = re.sub(r"^```(?:mdx|markdown)?\s*", "", cleaned)
-            cleaned = re.sub(r"\s*```$", "", cleaned)
-        if "---" in cleaned and "title:" in cleaned:
-            if "lang: \"en\"" not in cleaned:
-                cleaned = cleaned.replace("readTimeMinutes: ", "readTimeMinutes: ")
-                cleaned = cleaned.replace("---\n\n", "---\nlang: \"en\"\ntranslationKey: \"" + translation_key_for(book_name, chapter_name) + "\"\n---\n\n", 1)
-            if "translationKey:" not in cleaned:
-                cleaned = cleaned.replace("---\n\n", "---\ntranslationKey: \"" + translation_key_for(book_name, chapter_name) + "\"\n---\n\n", 1)
-            if "readTimeMinutes:" in cleaned:
-                read_minutes = estimate_read_time_minutes(cleaned)
-                cleaned = re.sub(r"readTimeMinutes:\s*\d+", f"readTimeMinutes: {read_minutes}", cleaned, count=1)
-            source_title = chapter_payload.get("title")
-            if isinstance(source_title, str) and source_title.strip():
-                cleaned = re.sub(
-                    r"(?m)^title:\s*.*$",
-                    f"title: {json.dumps(source_title.strip(), ensure_ascii=False)}",
-                    cleaned,
-                    count=1,
-                )
-            if contains_non_english_text(cleaned):
-                raise ValueError(f"Generated MDX for {book_name}/{chapter_name} contains non-English text")
-            return validate_mdx_frontmatter(cleaned, book_name, chapter_name, subject)
-    except Exception as exc:
-        print(f"Gemini generation failed for {book_name}/{chapter_name}: {exc}")
-
-    return generate_fallback_mdx(book_name, chapter_name, content, images, subject)
+    explicit_title = chapter_payload.get("title") or (chapter_payload.get("section", {}) or {}).get("title")
+    return generate_fallback_mdx(book_name, chapter_name, content, images, subject, explicit_title=explicit_title)
 
 
 def process_book(book_dir: Path, dry_run: bool = False, serial: bool = False, delay_seconds: float = 0.0) -> None:
     book_name = book_dir.name
     manifest = load_book_manifest(book_dir)
-    chapters = manifest.get("chapters", [])
-    if not chapters:
-        chapter_dirs = sorted([p for p in book_dir.iterdir() if p.is_dir() and p.name.startswith("ch")])
-        chapters = [{"chapter": p.name, "startPage": 1, "endPage": 1} for p in chapter_dirs]
+    sections = manifest.get("sections", [])
+
+    if not sections and manifest.get("chapters"):
+        sections = manifest["chapters"]
+
+    if not sections:
+        chapter_files = sorted(p for p in book_dir.iterdir() if p.is_file() and p.suffix == ".json" and p.name != "parser_manifest.json")
+        sections = [{"title": f"Chapter {chapter_file.stem[2:] if chapter_file.stem.startswith('ch') else chapter_file.stem}", "content_path": chapter_file.name} for chapter_file in chapter_files]
 
     output_dir = DOCS_OUTPUT_ROOT / book_name
     if not dry_run:
         output_dir.mkdir(parents=True, exist_ok=True)
 
-    for i, chapter in enumerate(chapters, start=1):
-        chapter_name = chapter.get("chapter", "ch01")
-        chapter_path = book_dir / chapter_name
+    default_subject = manifest.get("title") or book_name
+    for i, section in enumerate(sections, start=1):
+        content_path = str(section.get("content_path") or "")
+        chapter_name = Path(content_path).stem if content_path else f"ch{i:02d}"
         payload = load_chapter_files(book_dir, chapter_name)
-        payload["title"] = chapter.get("title")
-        subject = source_book_title(book_name)
+        payload["title"] = section.get("title") or chapter_name
+        payload["book_title"] = payload.get("book_title") or manifest.get("title") or default_subject
+        subject = payload.get("book_title") or default_subject
         mdx = generate_mdx_for_chapter(book_name, chapter_name, payload, subject)
         target_path = output_dir / f"{chapter_name}.mdx"
         if dry_run:
@@ -462,7 +441,7 @@ def process_book(book_dir: Path, dry_run: bool = False, serial: bool = False, de
             continue
         target_path.write_text(mdx, encoding="utf-8")
         print(f"Generated: {target_path}")
-        if serial and i < len(chapters) and delay_seconds > 0:
+        if serial and i < len(sections) and delay_seconds > 0:
             time.sleep(delay_seconds)
 
 
