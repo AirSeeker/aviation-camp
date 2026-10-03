@@ -10,7 +10,1133 @@
     "pages": [
       {
         "page_number": 165,
-        "elements": []
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 8: Airport Traffic Patterns ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 13.998000144958496,
+            "color": "#404040",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.78499984741211,
+              54.531822204589844,
+              271.6350402832031,
+              70.13959503173828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 12.005999565124512,
+            "color": "#943634",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              87.89457702636719,
+              110.08765411376953,
+              101.2812728881836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airport traffic patterns ensure that air traffic moves into and out of an airport safely. The direction and placement of the pattern, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              104.81118774414062,
+              574.3587036132812,
+              115.84244537353516
+            ]
+          },
+          {
+            "type": "text",
+            "text": "altitude at which it is to be flown, and the procedures for entering and exiting the pattern may depend on local conditions. Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              116.08157348632812,
+              574.511474609375,
+              127.11283111572266
+            ]
+          },
+          {
+            "type": "text",
+            "text": "regarding the procedures for a specific airport can be found in the Chart Supplements. General information on airport operations and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              127.35195922851562,
+              574.4972534179688,
+              138.38320922851562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic patterns can also be found in the Aeronautical Information Manual (AIM). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737030029296875,
+              138.62234497070312,
+              362.5358581542969,
+              149.65359497070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airport Traffic Patterns and Operations ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 12.005999565124512,
+            "color": "#943634",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              166.1445770263672,
+              262.7691345214844,
+              179.53126525878906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Just as roads and streets are essential for operating automobiles, airports or airstrips are essential for operating airplanes. Since flight ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              183.08120727539062,
+              574.4884033203125,
+              194.11245727539062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "begins and ends at an airport or other suitable landing field, pilots need to learn the traffic rules, traffic procedures, and traffic pattern ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              194.34164428710938,
+              574.4894409179688,
+              205.37289428710938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "layouts in use at various airports. ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              205.60208129882812,
+              170.783203125,
+              216.63333129882812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When an automobile is driven on congested city streets, it can be brought to a stop to give way to conflicting traffic. Airplane pilots ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              227.21615600585938,
+              574.5181884765625,
+              238.24740600585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "do not have that option. Consequently, traffic patterns and traffic control procedures exist to minimize conflicts during takeoffs, ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              238.48654174804688,
+              574.102783203125,
+              249.51779174804688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "departures, arrivals, and landings. The exact nature of each airport traffic pattern is dependent on the runway in use, wind conditions ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              249.75692749023438,
+              574.5252075195312,
+              260.7881774902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(which determine the runway in use), obstructions, and other factors. ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              261.0273132324219,
+              312.9000549316406,
+              272.0585632324219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airports vary in complexity from small grass or sod strips to major terminals with paved runways and taxiways. Regardless of the ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              282.6214599609375,
+              574.2691040039062,
+              293.6527099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "type of airport, a pilot should know and abide by the applicable rules and operating procedures. In addition to checking the traffic ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              293.8918762207031,
+              574.5473022460938,
+              304.9231262207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pattern and operating procedures for airports of intended use in the Chart Supplements, pilots should know how to interpret any ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              305.16229248046875,
+              574.723388671875,
+              316.19354248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airport visual markings and signs that may be encountered. In total, the information provided to the pilot keeps air traffic moving with ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              316.4327087402344,
+              574.5631103515625,
+              327.4639587402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximum",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              327.703125,
+              76.66077423095703,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "safety",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.6193618774414,
+              327.703125,
+              105.32510375976562,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              110.30859375,
+              327.703125,
+              124.65619659423828,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "efficiency.",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.85992431640625,
+              327.703125,
+              171.84243774414062,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "However,",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              177.01431274414062,
+              327.703125,
+              215.86883544921875,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              221.03968811035156,
+              327.703125,
+              233.14515686035156,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "use",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              238.24923706054688,
+              327.703125,
+              251.44488525390625,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              256.5848388671875,
+              327.703125,
+              264.935546875,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              270.0076904296875,
+              327.703125,
+              284.3553466796875,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              289.329833984375,
+              327.703125,
+              313.55181884765625,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "responsibility to see and avoid other aircraft from ramp-out to ramp-in. ",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737060546875,
+              338.9735412597656,
+              322.343017578125,
+              350.0047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When operating at an airport with an operating control tower, the pilot receives a clearance to approach or depart, as well as pertinent ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737060546875,
+              360.5477600097656,
+              574.4913330078125,
+              371.5790100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information about the traffic pattern by radio. The tower operator can instruct pilots to enter the traffic pattern at any point or to make ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737091064453125,
+              371.8081970214844,
+              574.427490234375,
+              382.8394470214844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a straight-in approach without flying the usual rectangular pattern. Many other deviations are possible if the tower operator and the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737091064453125,
+              383.0686340332031,
+              573.72412109375,
+              394.0998840332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot work together in an effort to keep traffic moving smoothly. Jets or heavy airplanes will frequently fly wider and/or higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737091064453125,
+              394.3290710449219,
+              574.2522583007812,
+              405.3603210449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "patterns than lighter airplanes, and will sometimes make a straight-in approach for landing. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737091064453125,
+              405.5895080566406,
+              401.56390380859375,
+              416.6207580566406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A pilot is not expected to have extensive knowledge of all traffic patterns at all airports, but if the pilot is familiar with the basic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737091064453125,
+              427.0640869140625,
+              574.1544189453125,
+              438.0953369140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rectangular pattern, it is easy to make proper approaches and departures from most airports, regardless of whether or not they have ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737091064453125,
+              438.3345031738281,
+              574.4464111328125,
+              449.3657531738281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "control towers.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73712158203125,
+              449.60491943359375,
+              96.79219055175781,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "However,",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.68602752685547,
+              449.60491943359375,
+              138.54055786132812,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              141.42941284179688,
+              449.60491943359375,
+              147.5180206298828,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "there is",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              150.2982635498047,
+              449.60491943359375,
+              179.72987365722656,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not a control tower,",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              182.56494140625,
+              449.60491943359375,
+              261.6690368652344,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "it is",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              264.55694580078125,
+              449.60491943359375,
+              279.47052001953125,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilot’s",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              282.1850280761719,
+              449.60491943359375,
+              322.5154113769531,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to comply with appropriate traffic rules, and to display common courtesy toward other pilots operating in the area. When operating at ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73712158203125,
+              460.8753356933594,
+              574.533203125,
+              471.9065856933594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airports without a control tower, the pilot may not see all traffic. Therefore, the pilot should develop the habit of continued scanning ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737152099609375,
+              472.145751953125,
+              574.5423583984375,
+              483.177001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "even when air traffic appears light or nil. Adherence to the basic rectangular traffic pattern reduces the possibility of conflicts and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737152099609375,
+              483.4161682128906,
+              574.084228515625,
+              494.4474182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reduces the probability of a midair collision. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.737152099609375,
+              494.68658447265625,
+              216.07028198242188,
+              505.71783447265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Standard Airport Traffic Patterns ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 12.005999565124512,
+            "color": "#943634",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              522.2736206054688,
+              226.6274871826172,
+              535.6602783203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An airport traffic pattern includes the direction and altitude of the pattern and procedures for entering and leaving the pattern. Unless ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              539.210205078125,
+              574.5244750976562,
+              550.241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the airport displays approved visual markings indicating that turns should be made to the right, the pilot should make all turns in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              550.470703125,
+              574.4584350585938,
+              561.501953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pattern to the left. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              561.7310791015625,
+              110.08438873291016,
+              572.7623901367188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-1 ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              36.73699951171875,
+              583.34521484375,
+              83.40309143066406,
+              594.37646484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shows a standard rectangular traffic pattern. The traffic pattern altitude is usually 1,000 feet above the elevation of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              84.42948913574219,
+              583.34521484375,
+              573.6632080078125,
+              594.37646484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airport surface. The use of a common altitude at a given airport is the key factor in minimizing the risk of collisions at airports ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              594.6055908203125,
+              574.3917846679688,
+              605.6369018554688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "without operating control towers. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              605.8660888671875,
+              172.08163452148438,
+              616.8973388671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft speeds are restrained by 14 CFR part 91, section 91.117. When operating in the traffic pattern at most airports with an ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              625.9057006835938,
+              574.759521484375,
+              639.3285522460938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "operating control tower, aircraft typically fly at airspeeds no greater than 200 knots (230 miles per hour (mph)). Sensible practice ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              637.1661987304688,
+              574.7664184570312,
+              650.5890502929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "suggests flying at or below these speeds when operating in the traffic pattern of an airport without an operating control tower. In any ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              648.4266357421875,
+              574.759521484375,
+              661.8494873046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "case, the pilot should adjust the airspeed, when necessary, so that it is compatible with the airspeed of other aircraft in the traffic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              659.6870727539062,
+              574.7643432617188,
+              673.1099243164062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pattern.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              670.947509765625,
+              66.90105438232422,
+              684.370361328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pattern,",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              318.517333984375,
+              327.703125,
+              348.7143249511719,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "service,",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              353.7635498046875,
+              327.703125,
+              384.43585205078125,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              389.5179748535156,
+              327.703125,
+              397.8686828613281,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedure",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              402.9308776855469,
+              327.703125,
+              442.9474792480469,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "does",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              448.032470703125,
+              327.703125,
+              466.39801025390625,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              471.4601745605469,
+              327.703125,
+              484.18548583984375,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "diminish",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              489.2576599121094,
+              327.703125,
+              523.8810424804688,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              528.8486328125,
+              327.703125,
+              540.9540405273438,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot’s",
+            "font_name": "Times",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              545.9385986328125,
+              327.703125,
+              571.3941650390625,
+              338.734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "responsibility",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              325.23382568359375,
+              449.60491943359375,
+              379.5062255859375,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              382.0741882324219,
+              449.60491943359375,
+              389.82696533203125,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "determine the direction",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              392.6171569824219,
+              449.60491943359375,
+              485.50103759765625,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              488.19146728515625,
+              449.60491943359375,
+              496.54315185546875,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              499.2127685546875,
+              449.60491943359375,
+              511.3182678222656,
+              460.63616943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic pattern, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              514.678466796875,
+              449.60491943359375,
+              574.3458251953125,
+              460.63616943359375
+            ]
+          }
+        ]
       },
       {
         "page_number": 166,
@@ -25,9 +1151,9 @@
             "is_italic": true,
             "bbox": [
               294.2099914550781,
-              632.62939453125,
+              631.771240234375,
               360.2181396484375,
-              642.5944213867188
+              642.802490234375
             ]
           },
           {
@@ -40,9 +1166,9 @@
             "is_italic": false,
             "bbox": [
               250.9600067138672,
-              634.1210327148438,
+              633.3701782226562,
               293.8457946777344,
-              642.1650390625
+              642.3392944335938
             ]
           },
           {
@@ -55,9 +1181,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              653.37939453125,
+              652.521240234375,
               574.518310546875,
-              663.3444213867188
+              663.552490234375
             ]
           },
           {
@@ -70,9 +1196,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              664.6398315429688,
+              663.7816162109375,
               574.4924926757812,
-              674.6048583984375
+              674.8129272460938
             ]
           },
           {
@@ -85,9 +1211,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              675.93017578125,
+              675.072021484375,
               574.587158203125,
-              685.8952026367188
+              686.103271484375
             ]
           },
           {
@@ -100,9 +1226,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              687.1906127929688,
+              686.3323974609375,
               339.7527770996094,
-              697.1556396484375
+              697.3637084960938
             ]
           },
           {
@@ -115,9 +1241,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              698.4510498046875,
+              697.5928955078125,
               574.5462646484375,
-              708.4160766601562
+              708.6241455078125
             ]
           },
           {
@@ -130,9 +1256,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              709.7115478515625,
+              708.8533935546875,
               574.5114135742188,
-              719.6765747070312
+              719.8846435546875
             ]
           },
           {
@@ -145,9 +1271,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              720.9719848632812,
+              720.11376953125,
               386.4687805175781,
-              730.93701171875
+              731.1450805664062
             ]
           },
           {
@@ -160,9 +1286,9 @@
             "is_italic": true,
             "bbox": [
               340.66949462890625,
-              687.1906127929688,
+              686.3323974609375,
               394.7117004394531,
-              697.1556396484375
+              697.3637084960938
             ]
           },
           {
@@ -175,9 +1301,9 @@
             "is_italic": false,
             "bbox": [
               395.6763000488281,
-              687.1906127929688,
+              686.3323974609375,
               574.5502319335938,
-              697.1556396484375
+              697.3637084960938
             ]
           }
         ]
@@ -205,9 +1331,9 @@
             "is_italic": true,
             "bbox": [
               273.9200134277344,
-              463.639404296875,
+              462.78118896484375,
               380.5155944824219,
-              473.6044006347656
+              473.81243896484375
             ]
           },
           {
@@ -220,9 +1346,9 @@
             "is_italic": false,
             "bbox": [
               230.6699981689453,
-              465.1310119628906,
+              464.38018798828125,
               273.5557861328125,
-              473.1750183105469
+              473.3492431640625
             ]
           },
           {
@@ -235,9 +1361,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              484.6593933105469,
+              483.8011779785156,
               315.3584899902344,
-              494.6243896484375
+              494.8324279785156
             ]
           },
           {
@@ -250,9 +1376,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              507.6784973144531,
+              505.2677917480469,
               61.85411834716797,
-              517.6434936523438
+              518.1126708984375
             ]
           },
           {
@@ -265,9 +1391,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              507.9994201660156,
+              507.1412048339844,
               67.94273376464844,
-              517.9644165039062
+              518.1724853515625
             ]
           },
           {
@@ -280,9 +1406,9 @@
             "is_italic": false,
             "bbox": [
               68.09220886230469,
-              507.9994201660156,
+              507.1412048339844,
               485.8751220703125,
-              517.9644165039062
+              518.1724853515625
             ]
           },
           {
@@ -295,9 +1421,9 @@
             "is_italic": false,
             "bbox": [
               62.33243942260742,
-              519.3893432617188,
+              518.5311279296875,
               291.3978576660156,
-              529.3543701171875
+              529.5624389648438
             ]
           },
           {
@@ -310,9 +1436,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              543.388427734375,
+              540.9777221679688,
               61.85411834716797,
-              553.3534545898438
+              553.8226318359375
             ]
           },
           {
@@ -325,9 +1451,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              543.7093505859375,
+              542.8511962890625,
               493.4884338378906,
-              553.6743774414062
+              553.8824462890625
             ]
           },
           {
@@ -340,9 +1466,9 @@
             "is_italic": false,
             "bbox": [
               62.332435607910156,
-              555.099365234375,
+              554.2412109375,
               249.98333740234375,
-              565.0643920898438
+              565.2724609375
             ]
           },
           {
@@ -355,9 +1481,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              579.10302734375,
+              576.6923217773438,
               61.85411834716797,
-              589.0680541992188
+              589.5372314453125
             ]
           },
           {
@@ -370,9 +1496,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              579.4239501953125,
+              578.5657958984375,
               485.9748229980469,
-              589.3889770507812
+              589.5970458984375
             ]
           },
           {
@@ -385,9 +1511,9 @@
             "is_italic": false,
             "bbox": [
               62.332435607910156,
-              590.8093872070312,
+              589.951171875,
               485.3469543457031,
-              600.7789916992188
+              600.987060546875
             ]
           },
           {
@@ -400,9 +1526,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              614.81298828125,
+              612.4022827148438,
               61.85411834716797,
-              624.7780151367188
+              625.2471923828125
             ]
           },
           {
@@ -415,9 +1541,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              615.1339111328125,
+              614.2757568359375,
               467.26043701171875,
-              625.0989379882812
+              625.3070068359375
             ]
           },
           {
@@ -430,9 +1556,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              636.7493896484375,
+              635.8912353515625,
               574.5861206054688,
-              646.7144165039062
+              646.9224853515625
             ]
           },
           {
@@ -445,9 +1571,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              648.0098266601562,
+              647.151611328125,
               574.5293579101562,
-              657.974853515625
+              658.1829223632812
             ]
           },
           {
@@ -460,9 +1586,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              659.270263671875,
+              658.412109375,
               574.3765869140625,
-              669.2352905273438
+              669.443359375
             ]
           },
           {
@@ -475,9 +1601,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              670.5606079101562,
+              669.702392578125,
               574.5283203125,
-              680.525634765625
+              680.7337036132812
             ]
           },
           {
@@ -490,9 +1616,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              681.8310546875,
+              680.972900390625,
               574.6429443359375,
-              691.7960815429688
+              692.004150390625
             ]
           },
           {
@@ -505,9 +1631,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              693.0914916992188,
+              692.2332763671875,
               574.4517211914062,
-              703.0565185546875
+              703.2645874023438
             ]
           },
           {
@@ -520,9 +1646,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              704.3519287109375,
+              703.4937744140625,
               574.6190795898438,
-              714.3169555664062
+              714.5250244140625
             ]
           },
           {
@@ -535,9 +1661,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              715.6124267578125,
+              714.7542724609375,
               88.7542953491211,
-              725.5774536132812
+              725.7855224609375
             ]
           }
         ]
@@ -555,9 +1681,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              46.80977249145508,
+              45.951568603515625,
               574.4996337890625,
-              56.77477264404297
+              56.98282241821289
             ]
           },
           {
@@ -570,9 +1696,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              58.07020950317383,
+              57.212005615234375,
               574.560302734375,
-              68.03520965576172
+              68.2432632446289
             ]
           },
           {
@@ -585,9 +1711,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              69.3405990600586,
+              68.48239135742188,
               574.6309814453125,
-              79.30559539794922
+              79.5136489868164
             ]
           },
           {
@@ -600,9 +1726,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              80.6209945678711,
+              79.76278686523438,
               195.96766662597656,
-              90.58599090576172
+              90.7940444946289
             ]
           },
           {
@@ -615,9 +1741,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              102.2193832397461,
+              101.36117553710938,
               574.5074462890625,
-              112.18437957763672
+              112.3924331665039
             ]
           },
           {
@@ -630,9 +1756,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              113.47982025146484,
+              112.62161254882812,
               574.5355834960938,
-              123.44481658935547
+              123.65287017822266
             ]
           },
           {
@@ -645,9 +1771,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              124.75020599365234,
+              123.89199829101562,
               574.1017456054688,
-              134.7152099609375
+              134.92324829101562
             ]
           },
           {
@@ -660,9 +1786,9 @@
             "is_italic": false,
             "bbox": [
               36.73698425292969,
-              136.01063537597656,
+              135.15243530273438,
               574.4852905273438,
-              145.97564697265625
+              146.18368530273438
             ]
           },
           {
@@ -675,9 +1801,9 @@
             "is_italic": false,
             "bbox": [
               36.73698425292969,
-              147.2710723876953,
+              146.41287231445312,
               574.6161499023438,
-              157.236083984375
+              157.44412231445312
             ]
           },
           {
@@ -690,9 +1816,9 @@
             "is_italic": false,
             "bbox": [
               36.73698425292969,
-              158.5414581298828,
+              157.68325805664062,
               530.3237915039062,
-              168.5064697265625
+              168.71450805664062
             ]
           },
           {
@@ -705,9 +1831,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              180.10939025878906,
+              179.25119018554688,
               574.45947265625,
-              190.07440185546875
+              190.28244018554688
             ]
           },
           {
@@ -720,9 +1846,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              191.3698272705078,
+              190.51162719726562,
               574.525390625,
-              201.3348388671875
+              201.54287719726562
             ]
           },
           {
@@ -735,9 +1861,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              202.63026428222656,
+              201.77206420898438,
               434.37066650390625,
-              212.59527587890625
+              212.80331420898438
             ]
           },
           {
@@ -750,9 +1876,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              224.1493682861328,
+              223.29116821289062,
               574.5086059570312,
-              234.1143798828125
+              234.32241821289062
             ]
           },
           {
@@ -765,9 +1891,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              235.4197540283203,
+              234.56155395507812,
               574.4067993164062,
-              245.384765625
+              245.59280395507812
             ]
           },
           {
@@ -780,9 +1906,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              246.68019104003906,
+              245.82199096679688,
               574.5385131835938,
-              256.64520263671875
+              256.8532409667969
             ]
           },
           {
@@ -795,9 +1921,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              257.9505920410156,
+              257.0923767089844,
               113.54723358154297,
-              267.91558837890625
+              268.1236267089844
             ]
           },
           {
@@ -810,9 +1936,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              279.55938720703125,
+              278.701171875,
               574.5473022460938,
-              289.5243835449219
+              289.732421875
             ]
           },
           {
@@ -825,9 +1951,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              290.8298034667969,
+              289.9715881347656,
               574.2244262695312,
-              300.7947998046875
+              301.0028381347656
             ]
           },
           {
@@ -840,9 +1966,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              302.0902404785156,
+              301.2320251464844,
               574.298828125,
-              312.05523681640625
+              312.2632751464844
             ]
           },
           {
@@ -855,9 +1981,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              313.3506774902344,
+              312.4924621582031,
               553.2521362304688,
-              323.315673828125
+              323.5237121582031
             ]
           },
           {
@@ -870,9 +1996,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              334.82940673828125,
+              333.97119140625,
               574.5394287109375,
-              344.7944030761719
+              345.00244140625
             ]
           },
           {
@@ -885,9 +2011,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              346.08984375,
+              345.23162841796875,
               482.8601989746094,
-              356.0548400878906
+              356.26287841796875
             ]
           },
           {
@@ -900,9 +2026,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              367.7593994140625,
+              366.90118408203125,
               574.5153198242188,
-              377.7243957519531
+              377.93243408203125
             ]
           },
           {
@@ -915,9 +2041,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              379.01983642578125,
+              378.16162109375,
               574.5422973632812,
-              388.9848327636719
+              389.19287109375
             ]
           },
           {
@@ -930,9 +2056,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              390.2802734375,
+              389.42205810546875,
               574.40869140625,
-              400.2452697753906
+              400.45330810546875
             ]
           },
           {
@@ -945,9 +2071,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              401.5506896972656,
+              400.6924743652344,
               506.6936950683594,
-              411.51568603515625
+              411.7237243652344
             ]
           },
           {
@@ -960,9 +2086,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              423.0194091796875,
+              422.16119384765625,
               574.6430053710938,
-              432.9844055175781
+              433.19244384765625
             ]
           },
           {
@@ -975,9 +2101,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              434.2898254394531,
+              433.4316101074219,
               574.5631713867188,
-              444.25482177734375
+              444.4628601074219
             ]
           },
           {
@@ -990,9 +2116,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              445.5702209472656,
+              444.7120056152344,
               244.55604553222656,
-              455.53521728515625
+              455.7432556152344
             ]
           },
           {
@@ -1005,9 +2131,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              467.18939208984375,
+              466.3311767578125,
               43.40358352661133,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1020,9 +2146,9 @@
             "is_italic": false,
             "bbox": [
               46.67210388183594,
-              467.18939208984375,
+              466.3311767578125,
               90.30883026123047,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1035,9 +2161,9 @@
             "is_italic": false,
             "bbox": [
               93.57736206054688,
-              467.18939208984375,
+              466.3311767578125,
               100.2240219116211,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1050,9 +2176,9 @@
             "is_italic": false,
             "bbox": [
               103.53239440917969,
-              467.18939208984375,
+              466.3311767578125,
               143.8009490966797,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1065,9 +2191,9 @@
             "is_italic": false,
             "bbox": [
               147.18905639648438,
-              467.18939208984375,
+              466.3311767578125,
               184.83682250976562,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1080,9 +2206,9 @@
             "is_italic": false,
             "bbox": [
               188.2050018310547,
-              467.18939208984375,
+              466.3311767578125,
               223.19210815429688,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1095,9 +2221,9 @@
             "is_italic": false,
             "bbox": [
               226.47059631347656,
-              467.18939208984375,
+              466.3311767578125,
               262.10540771484375,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1110,9 +2236,9 @@
             "is_italic": false,
             "bbox": [
               265.10491943359375,
-              467.18939208984375,
+              466.3311767578125,
               335.3184814453125,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1125,9 +2251,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              478.4498291015625,
+              477.59161376953125,
               574.4952392578125,
-              488.4148254394531
+              488.62286376953125
             ]
           },
           {
@@ -1140,9 +2266,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              489.7202453613281,
+              488.8620300292969,
               178.38949584960938,
-              499.68524169921875
+              499.8932800292969
             ]
           },
           {
@@ -1155,9 +2281,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              517.63525390625,
+              516.5145874023438,
               166.66473388671875,
-              529.6412353515625
+              529.9012451171875
             ]
           },
           {
@@ -1170,9 +2296,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              534.3193359375,
+              533.461181640625,
               574.6159057617188,
-              544.2843627929688
+              544.492431640625
             ]
           },
           {
@@ -1185,9 +2311,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              545.579833984375,
+              544.7216796875,
               574.4895629882812,
-              555.5448608398438
+              555.7529296875
             ]
           },
           {
@@ -1200,9 +2326,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              556.8502197265625,
+              555.9920654296875,
               238.31890869140625,
-              566.8152465820312
+              567.0233154296875
             ]
           },
           {
@@ -1215,9 +2341,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              578.4893798828125,
+              577.6312255859375,
               574.5213623046875,
-              588.4544067382812
+              588.6624755859375
             ]
           },
           {
@@ -1230,9 +2356,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              589.7498168945312,
+              588.8916015625,
               574.4705200195312,
-              599.71484375
+              599.9229125976562
             ]
           },
           {
@@ -1245,9 +2371,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              601.01025390625,
+              600.152099609375,
               574.642822265625,
-              610.9752807617188
+              611.183349609375
             ]
           },
           {
@@ -1260,9 +2386,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              612.2807006835938,
+              611.4224853515625,
               574.229248046875,
-              622.2457275390625
+              622.4537963867188
             ]
           },
           {
@@ -1275,9 +2401,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              623.5411376953125,
+              622.6829833984375,
               234.5821075439453,
-              633.5061645507812
+              633.7142333984375
             ]
           },
           {
@@ -1290,9 +2416,9 @@
             "is_italic": false,
             "bbox": [
               237.8506317138672,
-              623.5411376953125,
+              622.6829833984375,
               294.7907409667969,
-              633.5061645507812
+              633.7142333984375
             ]
           },
           {
@@ -1305,9 +2431,9 @@
             "is_italic": false,
             "bbox": [
               298.0691223144531,
-              623.5411376953125,
+              622.6829833984375,
               310.2463684082031,
-              633.5061645507812
+              633.7142333984375
             ]
           },
           {
@@ -1320,9 +2446,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              634.8115234375,
+              633.953369140625,
               491.03173828125,
-              644.7765502929688
+              644.984619140625
             ]
           },
           {
@@ -1335,9 +2461,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              646.072021484375,
+              645.2138671875,
               240.9896240234375,
-              656.0370483398438
+              656.2451171875
             ]
           },
           {
@@ -1350,9 +2476,9 @@
             "is_italic": false,
             "bbox": [
               338.3875427246094,
-              467.18939208984375,
+              466.3311767578125,
               393.2848815917969,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1365,9 +2491,9 @@
             "is_italic": false,
             "bbox": [
               396.5532531738281,
-              467.18939208984375,
+              466.3311767578125,
               404.3060302734375,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1380,9 +2506,9 @@
             "is_italic": false,
             "bbox": [
               407.5745544433594,
-              467.18939208984375,
+              466.3311767578125,
               462.2027587890625,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1395,9 +2521,9 @@
             "is_italic": false,
             "bbox": [
               465.4014587402344,
-              467.18939208984375,
+              466.3311767578125,
               506.4174499511719,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1410,9 +2536,9 @@
             "is_italic": false,
             "bbox": [
               509.6659851074219,
-              467.18939208984375,
+              466.3311767578125,
               520.6275024414062,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1425,9 +2551,9 @@
             "is_italic": false,
             "bbox": [
               523.8262329101562,
-              467.18939208984375,
+              466.3311767578125,
               574.528076171875,
-              477.1543884277344
+              477.3624267578125
             ]
           },
           {
@@ -1440,9 +2566,9 @@
             "is_italic": false,
             "bbox": [
               313.4252014160156,
-              623.5411376953125,
+              622.6829833984375,
               359.9418640136719,
-              633.5061645507812
+              633.7142333984375
             ]
           },
           {
@@ -1455,9 +2581,9 @@
             "is_italic": true,
             "bbox": [
               363.3797607421875,
-              623.5411376953125,
+              622.6829833984375,
               423.749755859375,
-              633.5061645507812
+              633.7142333984375
             ]
           },
           {
@@ -1470,9 +2596,9 @@
             "is_italic": false,
             "bbox": [
               424.9734191894531,
-              623.5411376953125,
+              622.6829833984375,
               574.3787841796875,
-              633.5061645507812
+              633.7142333984375
             ]
           },
           {
@@ -1485,9 +2611,9 @@
             "is_italic": true,
             "bbox": [
               492.4664001464844,
-              634.8115234375,
+              633.953369140625,
               552.9569091796875,
-              644.7765502929688
+              644.984619140625
             ]
           },
           {
@@ -1500,9 +2626,9 @@
             "is_italic": false,
             "bbox": [
               554.2991943359375,
-              634.8115234375,
+              633.953369140625,
               574.597900390625,
-              644.7765502929688
+              644.984619140625
             ]
           }
         ]
@@ -1520,9 +2646,9 @@
             "is_italic": false,
             "bbox": [
               101.11000061035156,
-              396.0393981933594,
+              395.1811828613281,
               140.81056213378906,
-              406.00439453125
+              406.2124328613281
             ]
           },
           {
@@ -1535,9 +2661,9 @@
             "is_italic": true,
             "bbox": [
               140.97000122070312,
-              396.0393981933594,
+              395.1811828613281,
               552.8934326171875,
-              406.00439453125
+              406.2124328613281
             ]
           },
           {
@@ -1550,9 +2676,9 @@
             "is_italic": false,
             "bbox": [
               57.89099884033203,
-              397.531005859375,
+              396.7801818847656,
               100.75263977050781,
-              405.57501220703125
+              405.7492370605469
             ]
           },
           {
@@ -1565,9 +2691,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              417.1694030761719,
+              416.3111877441406,
               574.5880737304688,
-              427.1343994140625
+              427.3424377441406
             ]
           },
           {
@@ -1580,9 +2706,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              428.4398193359375,
+              427.58160400390625,
               505.36138916015625,
-              438.4048156738281
+              438.61285400390625
             ]
           },
           {
@@ -1595,9 +2721,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              449.95941162109375,
+              449.1011962890625,
               56.118919372558594,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1610,9 +2736,9 @@
             "is_italic": false,
             "bbox": [
               58.80947494506836,
-              449.95941162109375,
+              449.1011962890625,
               65.45613098144531,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1625,9 +2751,9 @@
             "is_italic": false,
             "bbox": [
               68.28619384765625,
-              449.95941162109375,
+              449.1011962890625,
               130.84645080566406,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1640,9 +2766,9 @@
             "is_italic": false,
             "bbox": [
               133.68649291992188,
-              449.95941162109375,
+              449.1011962890625,
               141.4392547607422,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1655,9 +2781,9 @@
             "is_italic": false,
             "bbox": [
               144.22946166992188,
-              449.95941162109375,
+              449.1011962890625,
               211.68252563476562,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1670,9 +2796,9 @@
             "is_italic": false,
             "bbox": [
               214.5026397705078,
-              449.95941162109375,
+              449.1011962890625,
               255.98692321777344,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1685,9 +2811,9 @@
             "is_italic": false,
             "bbox": [
               258.8668212890625,
-              449.95941162109375,
+              449.1011962890625,
               265.533447265625,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1700,9 +2826,9 @@
             "is_italic": false,
             "bbox": [
               268.20404052734375,
-              449.95941162109375,
+              449.1011962890625,
               283.1216125488281,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1715,9 +2841,9 @@
             "is_italic": false,
             "bbox": [
               285.8321228027344,
-              449.95941162109375,
+              449.1011962890625,
               344.5558776855469,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -1730,9 +2856,9 @@
             "is_italic": false,
             "bbox": [
               36.737060546875,
-              461.2198486328125,
+              460.36163330078125,
               74.45457458496094,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1745,9 +2871,9 @@
             "is_italic": false,
             "bbox": [
               77.50387573242188,
-              461.2198486328125,
+              460.36163330078125,
               91.36518859863281,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1760,9 +2886,9 @@
             "is_italic": false,
             "bbox": [
               94.5340576171875,
-              461.2198486328125,
+              460.36163330078125,
               139.72532653808594,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1775,9 +2901,9 @@
             "is_italic": false,
             "bbox": [
               142.9938507080078,
-              461.2198486328125,
+              460.36163330078125,
               159.00759887695312,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1790,9 +2916,9 @@
             "is_italic": false,
             "bbox": [
               162.17648315429688,
-              461.2198486328125,
+              460.36163330078125,
               182.9933624267578,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1805,9 +2931,9 @@
             "is_italic": false,
             "bbox": [
               186.06259155273438,
-              461.2198486328125,
+              460.36163330078125,
               205.43453979492188,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1820,9 +2946,9 @@
             "is_italic": false,
             "bbox": [
               208.473876953125,
-              461.2198486328125,
+              460.36163330078125,
               267.9549560546875,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1835,9 +2961,9 @@
             "is_italic": false,
             "bbox": [
               271.20355224609375,
-              461.2198486328125,
+              460.36163330078125,
               282.1949768066406,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1850,9 +2976,9 @@
             "is_italic": false,
             "bbox": [
               285.2342834472656,
-              461.2198486328125,
+              460.36163330078125,
               344.72540283203125,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -1865,9 +2991,9 @@
             "is_italic": false,
             "bbox": [
               36.737091064453125,
-              472.4902648925781,
+              471.6320495605469,
               184.8767547607422,
-              482.45526123046875
+              482.6632995605469
             ]
           },
           {
@@ -1880,9 +3006,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              494.0993957519531,
+              493.2411804199219,
               574.5133056640625,
-              504.06439208984375
+              504.2724304199219
             ]
           },
           {
@@ -1895,9 +3021,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              505.3697814941406,
+              504.5115661621094,
               573.8807373046875,
-              515.3347778320312
+              515.5428466796875
             ]
           },
           {
@@ -1910,9 +3036,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              516.66015625,
+              515.802001953125,
               354.4142150878906,
-              526.6251831054688
+              526.833251953125
             ]
           },
           {
@@ -1925,9 +3051,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              544.5752563476562,
+              543.45458984375,
               166.66592407226562,
-              556.5812377929688
+              556.8412475585938
             ]
           },
           {
@@ -1940,9 +3066,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              561.2593994140625,
+              560.4012451171875,
               574.3826904296875,
-              571.2244262695312
+              571.4324951171875
             ]
           },
           {
@@ -1955,9 +3081,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              572.5198364257812,
+              571.66162109375,
               574.735595703125,
-              582.48486328125
+              582.6929321289062
             ]
           },
           {
@@ -1970,9 +3096,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              583.7802734375,
+              582.922119140625,
               574.5641479492188,
-              593.7453002929688
+              593.953369140625
             ]
           },
           {
@@ -1985,9 +3111,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              595.0506591796875,
+              594.1925048828125,
               574.3888549804688,
-              605.0156860351562
+              605.2237548828125
             ]
           },
           {
@@ -2000,9 +3126,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              606.3111572265625,
+              605.4530029296875,
               528.5695190429688,
-              616.2761840820312
+              616.4842529296875
             ]
           },
           {
@@ -2015,9 +3141,9 @@
             "is_italic": false,
             "bbox": [
               36.72698974609375,
-              617.5715942382812,
+              616.71337890625,
               574.5151977539062,
-              627.53662109375
+              627.7446899414062
             ]
           },
           {
@@ -2030,9 +3156,9 @@
             "is_italic": false,
             "bbox": [
               36.72698974609375,
-              628.842041015625,
+              627.98388671875,
               80.15447235107422,
-              638.8070678710938
+              639.01513671875
             ]
           },
           {
@@ -2045,9 +3171,9 @@
             "is_italic": false,
             "bbox": [
               347.3460693359375,
-              449.95941162109375,
+              449.1011962890625,
               367.2262878417969,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -2060,9 +3186,9 @@
             "is_italic": false,
             "bbox": [
               370.0164489746094,
-              449.95941162109375,
+              449.1011962890625,
               412.6667175292969,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -2075,9 +3201,9 @@
             "is_italic": false,
             "bbox": [
               415.3572082519531,
-              449.95941162109375,
+              449.1011962890625,
               440.2597961425781,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -2090,9 +3216,9 @@
             "is_italic": false,
             "bbox": [
               443.0499572753906,
-              449.95941162109375,
+              449.1011962890625,
               486.07891845703125,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -2105,9 +3231,9 @@
             "is_italic": false,
             "bbox": [
               488.7693786621094,
-              449.95941162109375,
+              449.1011962890625,
               515.485595703125,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -2120,9 +3246,9 @@
             "is_italic": false,
             "bbox": [
               518.8836059570312,
-              449.95941162109375,
+              449.1011962890625,
               574.4782104492188,
-              459.9244079589844
+              460.1324462890625
             ]
           },
           {
@@ -2135,9 +3261,9 @@
             "is_italic": false,
             "bbox": [
               347.98388671875,
-              461.2198486328125,
+              460.36163330078125,
               371.1325988769531,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2150,9 +3276,9 @@
             "is_italic": false,
             "bbox": [
               374.38116455078125,
-              461.2198486328125,
+              460.36163330078125,
               388.7308044433594,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2165,9 +3291,9 @@
             "is_italic": false,
             "bbox": [
               392.0092468261719,
-              461.2198486328125,
+              460.36163330078125,
               415.8157043457031,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2180,9 +3306,9 @@
             "is_italic": false,
             "bbox": [
               418.86492919921875,
-              461.2198486328125,
+              460.36163330078125,
               430.45428466796875,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2195,9 +3321,9 @@
             "is_italic": false,
             "bbox": [
               433.59320068359375,
-              461.2198486328125,
+              460.36163330078125,
               463.41851806640625,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2210,9 +3336,9 @@
             "is_italic": false,
             "bbox": [
               466.5773620605469,
-              461.2198486328125,
+              460.36163330078125,
               507.2047119140625,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2225,9 +3351,9 @@
             "is_italic": false,
             "bbox": [
               510.3536071777344,
-              461.2198486328125,
+              460.36163330078125,
               526.0086059570312,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2240,9 +3366,9 @@
             "is_italic": false,
             "bbox": [
               529.0479736328125,
-              461.2198486328125,
+              460.36163330078125,
               539.062744140625,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2255,9 +3381,9 @@
             "is_italic": false,
             "bbox": [
               542.112060546875,
-              461.2198486328125,
+              460.36163330078125,
               574.5660400390625,
-              471.1848449707031
+              471.39288330078125
             ]
           },
           {
@@ -2270,9 +3396,9 @@
             "is_italic": true,
             "bbox": [
               528.718994140625,
-              606.3111572265625,
+              605.4530029296875,
               574.5480346679688,
-              616.2761840820312
+              616.4842529296875
             ]
           }
         ]
@@ -2290,9 +3416,9 @@
             "is_italic": false,
             "bbox": [
               62.33244323730469,
-              48.72938919067383,
+              47.871185302734375,
               327.4313659667969,
-              58.69438934326172
+              58.90243911743164
             ]
           },
           {
@@ -2305,9 +3431,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              72.72847747802734,
+              70.3177719116211,
               61.85411834716797,
-              82.69347381591797
+              83.16265869140625
             ]
           },
           {
@@ -2320,9 +3446,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              73.04940032958984,
+              72.19119262695312,
               269.80865478515625,
-              83.01439666748047
+              83.22245025634766
             ]
           },
           {
@@ -2335,9 +3461,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              97.2025375366211,
+              94.79183197021484,
               61.85411834716797,
-              107.16753387451172
+              107.63671875
             ]
           },
           {
@@ -2350,9 +3476,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              97.5234603881836,
+              96.66525268554688,
               428.05108642578125,
-              107.48845672607422
+              107.6965103149414
             ]
           },
           {
@@ -2365,9 +3491,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              121.6566390991211,
+              119.24593353271484,
               61.85411834716797,
-              131.62164306640625
+              132.0908203125
             ]
           },
           {
@@ -2380,9 +3506,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              121.9775619506836,
+              121.11935424804688,
               367.0133972167969,
-              131.94256591796875
+              132.15060424804688
             ]
           },
           {
@@ -2395,9 +3521,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              146.1007843017578,
+              143.69009399414062,
               61.85411834716797,
-              156.0657958984375
+              156.53497314453125
             ]
           },
           {
@@ -2410,9 +3536,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              146.4217071533203,
+              145.56350708007812,
               429.0047607421875,
-              156.38671875
+              156.59475708007812
             ]
           },
           {
@@ -2425,9 +3551,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              170.54493713378906,
+              168.13424682617188,
               61.85411834716797,
-              180.50994873046875
+              180.9791259765625
             ]
           },
           {
@@ -2440,9 +3566,9 @@
             "is_italic": false,
             "bbox": [
               61.85411834716797,
-              170.86585998535156,
+              170.00765991210938,
               327.7093200683594,
-              180.83087158203125
+              181.03890991210938
             ]
           },
           {
@@ -2465,9 +3591,9 @@
             "is_italic": true,
             "bbox": [
               183.25,
-              575.4693603515625,
+              574.6112060546875,
               470.9724426269531,
-              585.4343872070312
+              585.6424560546875
             ]
           },
           {
@@ -2480,9 +3606,9 @@
             "is_italic": false,
             "bbox": [
               140.00999450683594,
-              576.9609985351562,
+              576.2101440429688,
               182.89576721191406,
-              585.0050048828125
+              585.1792602539062
             ]
           },
           {
@@ -2495,9 +3621,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              596.5593872070312,
+              595.701171875,
               574.5969848632812,
-              606.5244140625
+              606.7324829101562
             ]
           },
           {
@@ -2510,9 +3636,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              607.81982421875,
+              606.961669921875,
               68.45559692382812,
-              617.7848510742188
+              617.992919921875
             ]
           },
           {
@@ -2525,9 +3651,9 @@
             "is_italic": false,
             "bbox": [
               54.76900100708008,
-              629.33935546875,
+              628.481201171875,
               357.7059020996094,
-              639.3043823242188
+              639.512451171875
             ]
           },
           {
@@ -2540,9 +3666,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              640.6098022460938,
+              639.7515869140625,
               335.3943176269531,
-              650.5748291015625
+              650.7828979492188
             ]
           },
           {
@@ -2555,9 +3681,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              651.8702392578125,
+              651.0120849609375,
               375.37396240234375,
-              661.8352661132812
+              662.0433349609375
             ]
           },
           {
@@ -2570,9 +3696,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              663.1306762695312,
+              662.2724609375,
               455.6609191894531,
-              673.095703125
+              673.3037719726562
             ]
           },
           {
@@ -2585,9 +3711,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              674.401123046875,
+              673.54296875,
               311.7870178222656,
-              684.3661499023438
+              684.57421875
             ]
           },
           {
@@ -2600,9 +3726,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              685.6615600585938,
+              684.8033447265625,
               263.1179504394531,
-              695.6265869140625
+              695.8346557617188
             ]
           },
           {
@@ -2615,9 +3741,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              696.9219970703125,
+              696.0638427734375,
               324.283203125,
-              706.8870239257812
+              707.0950927734375
             ]
           },
           {
@@ -2630,9 +3756,9 @@
             "is_italic": false,
             "bbox": [
               54.76982116699219,
-              708.1824951171875,
+              707.3243408203125,
               293.4415283203125,
-              718.1475219726562
+              718.3555908203125
             ]
           },
           {
@@ -2645,9 +3771,9 @@
             "is_italic": false,
             "bbox": [
               327.7093200683594,
-              170.86585998535156,
+              170.00765991210938,
               332.6918029785156,
-              180.83087158203125
+              181.03890991210938
             ]
           }
         ]
@@ -2665,9 +3791,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              41.845245361328125,
+              40.7245979309082,
               143.57838439941406,
-              53.85124588012695
+              54.11128616333008
             ]
           },
           {
@@ -2680,9 +3806,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              58.52937698364258,
+              57.671173095703125,
               574.7855224609375,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -2695,9 +3821,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              69.7898178100586,
+              68.93161010742188,
               572.1607666015625,
-              79.75481414794922
+              79.9628677368164
             ]
           }
         ]

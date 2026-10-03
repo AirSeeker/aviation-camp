@@ -10,6 +10,7 @@ import fitz
 from scripts.parser_library import (
     extract_page,
     download_pdf,
+    filter_books,
     key_value_from_lines,
     load_config,
     process_book,
@@ -117,6 +118,14 @@ class ConfigValidationTests(unittest.TestCase):
             for book in books
             for boundary in book["boundaries"]
         ))
+
+    def test_filters_book_ids_case_insensitively_and_trims_whitespace(self) -> None:
+        books = [
+            {"book_id": "AFH", "title": "Airplane Flying Handbook", "pdf_url": "https://example.test/afh.pdf", "pdf_path": "resources/library/AFH/AFH.pdf", "boundaries": [{"type": "chapter", "title": "Chapter 1", "start_page": 1, "end_page": 1}]},
+            {"book_id": "PHAK", "title": "Pilot's Handbook", "pdf_url": "https://example.test/phak.pdf", "pdf_path": "resources/library/PHAK/PHAK.pdf", "boundaries": [{"type": "chapter", "title": "Chapter 1", "start_page": 1, "end_page": 1}]},
+        ]
+        filtered = filter_books(books, [" afh ", "PHAK"])
+        self.assertEqual([book["book_id"] for book in filtered], ["AFH", "PHAK"])
 
     def test_download_retries_timeout_and_streams_response(self) -> None:
         with TemporaryDirectory() as directory:

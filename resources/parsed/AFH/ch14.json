@@ -10,7 +10,918 @@
     "pages": [
       {
         "page_number": 287,
-        "elements": []
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 14: Transition to Tailwheel Airplanes ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 13.998000144958496,
+            "color": "#404040",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.78499984741211,
+              54.531822204589844,
+              346.23883056640625,
+              70.13959503173828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 12.005999565124512,
+            "color": "#943634",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              87.89457702636719,
+              110.09365844726562,
+              101.2812728881836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Due to their design and structure, tailwheel airplanes (tailwheels) exhibit operational and handling characteristics different from those ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              104.81118774414062,
+              574.50244140625,
+              115.84244537353516
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of tricycle-gear airplanes (nose-wheels). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              116.07162475585938,
+              199.6298828125,
+              127.1028823852539
+            ]
+          },
+          {
+            "type": "text",
+            "text": "[Figure 14-1] ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              199.70462036132812,
+              116.07162475585938,
+              258.2868347167969,
+              127.1028823852539
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A few aircraft, primarily antique and experimental, may have a tailskid instead ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              258.79705810546875,
+              116.07162475585938,
+              574.2294311523438,
+              127.1028823852539
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of a tailwheel. The same principles discussed in this chapter usually apply to tailskid. In general, tailwheels are less forgiving of pilot ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.7469482421875,
+              127.34201049804688,
+              574.5371704101562,
+              138.37326049804688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "error while in contact with the ground than are nose-wheels. This chapter focuses on the operational differences that occur during ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.7469482421875,
+              138.62240600585938,
+              574.2802124023438,
+              149.65365600585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ground operations, takeoffs, and landings. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.7469482421875,
+              149.89279174804688,
+              206.5405731201172,
+              160.92404174804688
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/AFH_p287_b9.jpeg",
+            "bbox": [
+              35.99559020996094,
+              174.649658203125,
+              572.1559448242188,
+              334.3034362792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Piper Super Cub on the left is a popular tailwheel airplane. The airplane on the right is a Mooney M20, which is a ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              85.14299774169922,
+              340.461181640625,
+              573.7371215820312,
+              351.492431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 14-1. ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 8.043999671936035,
+            "color": "#0C0C0C",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              342.0601806640625,
+              84.57306671142578,
+              351.02923583984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "nose-wheel (tricycle gear) airplane. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              36.733028411865234,
+              351.7315979003906,
+              182.93052673339844,
+              362.7628479003906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Although",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              372.9811706542969,
+              74.12567901611328,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "still",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              77.65328979492188,
+              372.9811706542969,
+              92.58087158203125,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "termed",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              96.12840270996094,
+              372.9811706542969,
+              123.6517333984375,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“conventional-gear",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              127.30888366699219,
+              372.9811706542969,
+              203.49130249023438,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airplanes,”",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              207.10861206054688,
+              372.9811706542969,
+              250.0377960205078,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tailwheel designs",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              253.64517211914062,
+              372.9811706542969,
+              323.2906188964844,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "first learned in nose-wheels. Therefore, tailwheel operations are approached as they appear to a pilot making a transition from nosewheel designs. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              384.2515869140625,
+              572.15966796875,
+              395.2828369140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Landing Gear ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 12.005999565124512,
+            "color": "#943634",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              423.194580078125,
+              117.58540344238281,
+              436.5812683105469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The main landing gear forms the principal support of the airplane on the ground. The tailwheel also supports the airplane, but steering ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              440.1111755371094,
+              574.6329345703125,
+              451.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and directional control are its primary functions. With the tailwheel-type airplane, the two main landing gear struts are attached to the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              451.381591796875,
+              574.2860717773438,
+              462.412841796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airplane slightly",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              462.6619567871094,
+              101.49954223632812,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ahead",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              104.17015838623047,
+              462.6619567871094,
+              127.39856719970703,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.3183135986328,
+              462.6619567871094,
+              138.66897583007812,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the airplane’s",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              141.4591827392578,
+              462.6619567871094,
+              195.72854614257812,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "center",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              198.568603515625,
+              462.6619567871094,
+              222.8831787109375,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              225.79298400878906,
+              462.6619567871094,
+              234.14364624023438,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "gravity",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              236.93385314941406,
+              462.6619567871094,
+              265.0949401855469,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(CG),",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              267.76556396484375,
+              462.6619567871094,
+              290.76483154296875,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "so",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              293.6546325683594,
+              462.6619567871094,
+              302.4836120605469,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that the plane naturally",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.40338134765625,
+              462.6619567871094,
+              397.9783020019531,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "created by the main gear and the tailwheel. This arrangement is responsible for the three major handling differences between nosewheel and tailwheel airplanes. They center on directional instability, angle of attack (AOA), and crosswind weathervaning tendencies. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              473.932373046875,
+              572.1596069335938,
+              484.963623046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Proper usage of the rudder pedals is crucial for directional control while taxiing. Steering with the pedals may be accomplished ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              506.7812194824219,
+              574.5021362304688,
+              517.8125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "through the forces of airflow or propeller slipstream acting on the rudder surface or through a direct mechanical linkage or a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              518.0516357421875,
+              574.536376953125,
+              529.0828857421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mechanical linkage acting through springs to turn the tailwheel. Initially, the pilot should taxi with the heels of the feet resting on the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              529.31201171875,
+              574.5192260742188,
+              540.3433227539062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "floor and the balls of the feet on the bottom of the rudder pedals. The feet should be slid up onto the brake pedals only when it is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              540.58251953125,
+              574.5990600585938,
+              551.61376953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "necessary to depress the brakes. This permits the simultaneous application of rudder and brake whenever needed. Some models of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              551.8428955078125,
+              574.5510864257812,
+              562.8742065429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tailwheel airplanes are equipped with heel brakes rather than toe brakes. As in nose-wheel airplanes, brakes are used to slow and stop ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              563.1033935546875,
+              574.3131103515625,
+              574.1346435546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft and to increase turning authority when tailwheel steering inputs prove insufficient. Whenever used, brakes should be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              574.373779296875,
+              574.5371704101562,
+              585.4050903320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "applied smoothly and evenly. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              585.63427734375,
+              156.177490234375,
+              596.66552734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Instability ",
+            "font_name": "Arial-BoldMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              613.0316772460938,
+              86.08368682861328,
+              624.1426391601562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Because of the relative placement of the main gear and the CG, tailwheel aircraft are inherently unstable on the ground. As taxi turns ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              627.76123046875,
+              574.5901489257812,
+              638.79248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are started, the aircraft begins to pivot on one or the other of the main wheels. From that point, with the CG aft of that pivot point, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              639.0316162109375,
+              574.51513671875,
+              650.0628662109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forward momentum of the plane acts to continue and even tighten the turn without further steering inputs. Ordinarily, removal of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              650.2921142578125,
+              574.6438598632812,
+              661.3233642578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rudder pressure does not stop a turn that has been started, and it is necessary to apply an opposite input (opposite rudder) to bring the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              661.552490234375,
+              574.4994506835938,
+              672.5838012695312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft back to straight-line travel. For this reason, many tailwheel airplanes are equipped with a centering spring(s) or similar device ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              672.8228759765625,
+              574.037109375,
+              683.8541870117188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that returns the tailwheel to a center position upon relaxation of a rudder pedal input. However, this mechanism may not return the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              684.0833740234375,
+              574.5293579101562,
+              695.1146240234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airplane to a straight line of travel from a tight turn. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.73699951171875,
+              695.3438720703125,
+              244.55706787109375,
+              706.3751220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are most likely",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              326.84808349609375,
+              372.9811706542969,
+              388.0930480957031,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              391.510986328125,
+              372.9811706542969,
+              399.2637634277344,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be encountered",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              402.8910217285156,
+              372.9811706542969,
+              464.4848327636719,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "today",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              468.02227783203125,
+              372.9811706542969,
+              490.2542419433594,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              493.56256103515625,
+              372.9811706542969,
+              503.5774230957031,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilots",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              506.8658447265625,
+              372.9811706542969,
+              529.0977783203125,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "who",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              532.5256958007812,
+              372.9811706542969,
+              549.3963623046875,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              552.9140625,
+              372.9811706542969,
+              574.1195068359375,
+              384.0124206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rests",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              400.5491943359375,
+              462.6619567871094,
+              418.8449401855469,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              421.5354919433594,
+              462.6619567871094,
+              429.28826904296875,
+              473.6932067871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a nose-high attitude on the triangle ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 9.96500015258789,
+            "color": "#0C0C0C",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              431.9688415527344,
+              462.6619567871094,
+              574.4503784179688,
+              473.6932067871094
+            ]
+          }
+        ]
       },
       {
         "page_number": 288,
@@ -25,9 +936,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              46.75960159301758,
+              45.901397705078125,
               574.0490112304688,
-              56.72460174560547
+              56.93265151977539
             ]
           },
           {
@@ -40,9 +951,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              58.02998733520508,
+              57.171783447265625,
               574.5222778320312,
-              67.99498748779297
+              68.20304107666016
             ]
           },
           {
@@ -55,9 +966,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              69.30037689208984,
+              68.44216918945312,
               574.5560913085938,
-              79.26537322998047
+              79.47342681884766
             ]
           },
           {
@@ -70,9 +981,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              80.57076263427734,
+              79.71255493164062,
               305.51397705078125,
-              90.53575897216797
+              90.74381256103516
             ]
           },
           {
@@ -85,9 +996,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              102.17488861083984,
+              101.31668090820312,
               574.697509765625,
-              112.13988494873047
+              112.34793853759766
             ]
           },
           {
@@ -100,9 +1011,9 @@
             "is_italic": false,
             "bbox": [
               36.746978759765625,
-              113.4353256225586,
+              112.57711791992188,
               68.36592102050781,
-              123.40032196044922
+              123.6083755493164
             ]
           },
           {
@@ -115,9 +1026,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              141.30520629882812,
+              140.18455505371094,
               127.39312744140625,
-              153.3112030029297
+              153.5712432861328
             ]
           },
           {
@@ -130,9 +1041,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              157.95936584472656,
+              157.10116577148438,
               573.7490234375,
-              167.92437744140625
+              168.13241577148438
             ]
           },
           {
@@ -145,9 +1056,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              169.22975158691406,
+              168.37155151367188,
               574.1873168945312,
-              179.19476318359375
+              179.40280151367188
             ]
           },
           {
@@ -160,9 +1071,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              180.50013732910156,
+              179.64193725585938,
               574.5125732421875,
-              190.46514892578125
+              190.67318725585938
             ]
           },
           {
@@ -175,9 +1086,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              191.77052307128906,
+              190.91232299804688,
               282.4798278808594,
-              201.73553466796875
+              201.94357299804688
             ]
           },
           {
@@ -190,9 +1101,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              219.67422485351562,
+              218.55357360839844,
               82.2013168334961,
-              231.6802215576172
+              231.9402618408203
             ]
           },
           {
@@ -205,9 +1116,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              236.34840393066406,
+              235.49020385742188,
               573.9421997070312,
-              246.31341552734375
+              246.52145385742188
             ]
           },
           {
@@ -220,9 +1131,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              247.6088409423828,
+              246.75064086914062,
               574.500244140625,
-              257.5738525390625
+              257.7818908691406
             ]
           },
           {
@@ -235,9 +1146,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              258.8692932128906,
+              258.0110778808594,
               574.446533203125,
-              268.83428955078125
+              269.0423278808594
             ]
           },
           {
@@ -250,9 +1161,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              270.1297302246094,
+              269.2715148925781,
               572.0188598632812,
-              280.0947265625
+              280.3027648925781
             ]
           },
           {
@@ -265,9 +1176,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              281.3901672363281,
+              280.5319519042969,
               320.959716796875,
-              291.35516357421875
+              291.5632019042969
             ]
           },
           {
@@ -280,9 +1191,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              302.98431396484375,
+              302.1260986328125,
               574.414794921875,
-              312.9493103027344
+              313.1573486328125
             ]
           },
           {
@@ -295,9 +1206,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              314.2447509765625,
+              313.38653564453125,
               574.4865112304688,
-              324.2097473144531
+              324.41778564453125
             ]
           },
           {
@@ -310,9 +1221,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              325.50518798828125,
+              324.64697265625,
               348.4750671386719,
-              335.4701843261719
+              335.67822265625
             ]
           },
           {
@@ -325,9 +1236,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              347.02960205078125,
+              346.17138671875,
               574.1567993164062,
-              356.9945983886719
+              357.20263671875
             ]
           },
           {
@@ -340,9 +1251,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              358.2900390625,
+              357.43182373046875,
               574.75927734375,
-              368.2550354003906
+              368.46307373046875
             ]
           },
           {
@@ -355,9 +1266,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              369.55047607421875,
+              367.2074890136719,
               574.75341796875,
-              379.84222412109375
+              380.6303405761719
             ]
           },
           {
@@ -370,9 +1281,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              380.8109130859375,
+              379.95269775390625,
               573.38232421875,
-              390.7759094238281
+              390.98394775390625
             ]
           },
           {
@@ -385,9 +1296,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              402.4349670410156,
+              401.5767517089844,
               574.4384765625,
-              412.39996337890625
+              412.6080017089844
             ]
           },
           {
@@ -400,9 +1311,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              413.6954040527344,
+              412.8371887207031,
               44.489768981933594,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -415,9 +1326,9 @@
             "is_italic": false,
             "bbox": [
               47.1603889465332,
-              413.6954040527344,
+              412.8371887207031,
               95.9271011352539,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -430,9 +1341,9 @@
             "is_italic": false,
             "bbox": [
               98.50006866455078,
-              413.6954040527344,
+              412.8371887207031,
               156.86904907226562,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -445,9 +1356,9 @@
             "is_italic": false,
             "bbox": [
               159.43603515625,
-              413.6954040527344,
+              412.8371887207031,
               176.5349578857422,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -460,9 +1371,9 @@
             "is_italic": false,
             "bbox": [
               179.22653198242188,
-              413.6954040527344,
+              412.8371887207031,
               194.66030883789062,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -475,9 +1386,9 @@
             "is_italic": false,
             "bbox": [
               197.3329315185547,
-              413.6954040527344,
+              412.8371887207031,
               237.60845947265625,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -490,9 +1401,9 @@
             "is_italic": false,
             "bbox": [
               240.142578125,
-              413.6954040527344,
+              412.8371887207031,
               257.9480285644531,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -505,9 +1416,9 @@
             "is_italic": false,
             "bbox": [
               260.4213562011719,
-              413.6954040527344,
+              412.8371887207031,
               267.0679931640625,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -520,9 +1431,9 @@
             "is_italic": false,
             "bbox": [
               269.5393371582031,
-              413.6954040527344,
+              412.8371887207031,
               303.3167419433594,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -535,9 +1446,9 @@
             "is_italic": false,
             "bbox": [
               305.8816833496094,
-              413.6954040527344,
+              412.8371887207031,
               381.506103515625,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -550,9 +1461,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              424.9558410644531,
+              424.0976257324219,
               574.3099975585938,
-              434.92083740234375
+              435.1288757324219
             ]
           },
           {
@@ -565,9 +1476,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              436.2162780761719,
+              435.3580627441406,
               574.5014038085938,
-              446.1812744140625
+              446.3893127441406
             ]
           },
           {
@@ -580,9 +1491,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              447.4767150878906,
+              446.6184997558594,
               405.2677001953125,
-              457.44171142578125
+              457.6497497558594
             ]
           },
           {
@@ -595,9 +1506,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              469.0808410644531,
+              468.2226257324219,
               574.1724853515625,
-              479.04583740234375
+              479.2538757324219
             ]
           },
           {
@@ -610,9 +1521,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              480.3412780761719,
+              479.4830627441406,
               574.4346923828125,
-              490.3062744140625
+              490.5143127441406
             ]
           },
           {
@@ -625,9 +1536,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              491.6017150878906,
+              490.7434997558594,
               445.3200378417969,
-              501.56671142578125
+              501.7747497558594
             ]
           },
           {
@@ -640,9 +1551,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              513.09619140625,
+              512.238037109375,
               575.28857421875,
-              523.0612182617188
+              523.269287109375
             ]
           },
           {
@@ -655,9 +1566,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              524.3665771484375,
+              523.5084228515625,
               574.2741088867188,
-              534.3316040039062
+              534.5396728515625
             ]
           },
           {
@@ -670,9 +1581,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              535.6370239257812,
+              534.77880859375,
               574.3367919921875,
-              545.60205078125
+              545.8101196289062
             ]
           },
           {
@@ -685,9 +1596,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              546.907470703125,
+              546.04931640625,
               443.0650634765625,
-              556.8724975585938
+              557.08056640625
             ]
           },
           {
@@ -700,9 +1611,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              568.5015869140625,
+              567.6434326171875,
               574.0180053710938,
-              578.4666137695312
+              578.6746826171875
             ]
           },
           {
@@ -715,9 +1626,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              579.7620849609375,
+              578.9039306640625,
               574.0928955078125,
-              589.7271118164062
+              589.9351806640625
             ]
           },
           {
@@ -730,9 +1641,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              591.0225219726562,
+              590.164306640625,
               574.3269653320312,
-              600.987548828125
+              601.1956176757812
             ]
           },
           {
@@ -745,9 +1656,9 @@
             "is_italic": false,
             "bbox": [
               36.756927490234375,
-              602.282958984375,
+              601.4248046875,
               450.7569274902344,
-              612.2479858398438
+              612.4560546875
             ]
           },
           {
@@ -760,9 +1671,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              630.1332397460938,
+              629.0125732421875,
               126.11686706542969,
-              642.1392211914062
+              642.3992309570312
             ]
           },
           {
@@ -775,9 +1686,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              646.807373046875,
+              645.94921875,
               574.4826049804688,
-              656.7723999023438
+              656.98046875
             ]
           },
           {
@@ -790,9 +1701,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              658.0678100585938,
+              657.2095947265625,
               574.444580078125,
-              668.0328369140625
+              668.2409057617188
             ]
           },
           {
@@ -805,9 +1716,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              669.3282470703125,
+              668.4700927734375,
               534.6893310546875,
-              679.2932739257812
+              679.5013427734375
             ]
           },
           {
@@ -820,9 +1731,9 @@
             "is_italic": false,
             "bbox": [
               383.95745849609375,
-              413.6954040527344,
+              412.8371887207031,
               395.54681396484375,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -835,9 +1746,9 @@
             "is_italic": false,
             "bbox": [
               398.08782958984375,
-              413.6954040527344,
+              412.8371887207031,
               415.9053039550781,
-              423.660400390625
+              423.8684387207031
             ]
           },
           {
@@ -850,9 +1761,9 @@
             "is_italic": false,
             "bbox": [
               418.3466796875,
-              413.6954040527344,
+              412.8371887207031,
               574.371826171875,
-              423.660400390625
+              423.8684387207031
             ]
           }
         ]
@@ -870,9 +1781,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              41.845245361328125,
+              40.7245979309082,
               89.58743286132812,
-              53.85124588012695
+              54.11128616333008
             ]
           },
           {
@@ -885,9 +1796,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              58.52937698364258,
+              57.671173095703125,
               132.63018798828125,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -900,9 +1811,9 @@
             "is_italic": false,
             "bbox": [
               135.32073974609375,
-              58.52937698364258,
+              57.671173095703125,
               167.6770477294922,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -915,9 +1826,9 @@
             "is_italic": false,
             "bbox": [
               170.46730041503906,
-              58.52937698364258,
+              57.671173095703125,
               246.38063049316406,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -930,9 +1841,9 @@
             "is_italic": false,
             "bbox": [
               249.07122802734375,
-              58.52937698364258,
+              57.671173095703125,
               266.0416564941406,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -945,9 +1856,9 @@
             "is_italic": false,
             "bbox": [
               268.6325378417969,
-              58.52937698364258,
+              57.671173095703125,
               298.4478759765625,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -960,9 +1871,9 @@
             "is_italic": false,
             "bbox": [
               301.13836669921875,
-              58.52937698364258,
+              57.671173095703125,
               330.3658142089844,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -975,9 +1886,9 @@
             "is_italic": false,
             "bbox": [
               36.737060546875,
-              69.7898178100586,
+              68.93161010742188,
               574.5491943359375,
-              79.75481414794922
+              79.9628677368164
             ]
           },
           {
@@ -990,9 +1901,9 @@
             "is_italic": false,
             "bbox": [
               36.737060546875,
-              81.0602035522461,
+              80.20199584960938,
               574.0599975585938,
-              91.02519989013672
+              91.2332534790039
             ]
           },
           {
@@ -1005,9 +1916,9 @@
             "is_italic": false,
             "bbox": [
               36.737060546875,
-              92.32064056396484,
+              91.46243286132812,
               78.2911148071289,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1020,9 +1931,9 @@
             "is_italic": false,
             "bbox": [
               82.06784057617188,
-              92.32064056396484,
+              91.46243286132812,
               101.9480209350586,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1035,9 +1946,9 @@
             "is_italic": false,
             "bbox": [
               105.58523559570312,
-              92.32064056396484,
+              91.46243286132812,
               136.12794494628906,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1050,9 +1961,9 @@
             "is_italic": false,
             "bbox": [
               139.63565063476562,
-              92.32064056396484,
+              91.46243286132812,
               162.25619506835938,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1065,9 +1976,9 @@
             "is_italic": false,
             "bbox": [
               166.01300048828125,
-              92.32064056396484,
+              91.46243286132812,
               270.6554260253906,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1080,9 +1991,9 @@
             "is_italic": false,
             "bbox": [
               274.3325500488281,
-              92.32064056396484,
+              91.46243286132812,
               309.20013427734375,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1095,9 +2006,9 @@
             "is_italic": false,
             "bbox": [
               36.737060546875,
-              103.5810775756836,
+              102.72286987304688,
               574.4864501953125,
-              113.54607391357422
+              113.7541275024414
             ]
           },
           {
@@ -1110,9 +2021,9 @@
             "is_italic": false,
             "bbox": [
               36.737060546875,
-              114.8514633178711,
+              113.99325561523438,
               238.33892822265625,
-              124.81645965576172
+              125.0245132446289
             ]
           },
           {
@@ -1125,9 +2036,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              142.74520874023438,
+              141.6245574951172,
               148.1886749267578,
-              154.75120544433594
+              155.01124572753906
             ]
           },
           {
@@ -1140,9 +2051,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              159.3993682861328,
+              158.54116821289062,
               574.641845703125,
-              169.3643798828125
+              169.57241821289062
             ]
           },
           {
@@ -1155,9 +2066,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              170.65980529785156,
+              169.80160522460938,
               574.5401611328125,
-              180.62481689453125
+              180.83285522460938
             ]
           },
           {
@@ -1170,9 +2081,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              181.93019104003906,
+              181.07199096679688,
               574.5194091796875,
-              191.89520263671875
+              192.10324096679688
             ]
           },
           {
@@ -1185,9 +2096,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              193.1906280517578,
+              192.33242797851562,
               574.44482421875,
-              203.1556396484375
+              203.36367797851562
             ]
           },
           {
@@ -1200,9 +2111,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              204.48097229003906,
+              203.62277221679688,
               135.25100708007812,
-              214.44598388671875
+              214.65402221679688
             ]
           },
           {
@@ -1215,9 +2126,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              232.35574340820312,
+              231.23284912109375,
               153.6084442138672,
-              244.3857421875
+              244.64630126953125
             ]
           },
           {
@@ -1230,9 +2141,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              249.0293731689453,
+              248.17117309570312,
               573.970458984375,
-              258.994384765625
+              259.2024230957031
             ]
           },
           {
@@ -1245,9 +2156,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              260.2898254394531,
+              259.4316101074219,
               574.5301513671875,
-              270.25482177734375
+              270.4628601074219
             ]
           },
           {
@@ -1260,9 +2171,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              271.5602111816406,
+              270.7019958496094,
               574.4863891601562,
-              281.52520751953125
+              281.7332458496094
             ]
           },
           {
@@ -1275,9 +2186,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              282.8206481933594,
+              281.9624328613281,
               521.8744506835938,
-              292.78564453125
+              292.9936828613281
             ]
           },
           {
@@ -1290,9 +2201,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              304.31939697265625,
+              303.461181640625,
               574.6157836914062,
-              314.2843933105469
+              314.492431640625
             ]
           },
           {
@@ -1305,9 +2216,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              315.579833984375,
+              314.72161865234375,
               556.732666015625,
-              325.5448303222656
+              325.75286865234375
             ]
           },
           {
@@ -1320,9 +2231,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              337.2193908691406,
+              336.3611755371094,
               574.0401000976562,
-              347.18438720703125
+              347.3924255371094
             ]
           },
           {
@@ -1335,9 +2246,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              348.48980712890625,
+              347.631591796875,
               574.5442504882812,
-              358.4548034667969
+              358.662841796875
             ]
           },
           {
@@ -1350,9 +2261,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              359.750244140625,
+              358.89202880859375,
               574.5601196289062,
-              369.7152404785156
+              369.92327880859375
             ]
           },
           {
@@ -1365,9 +2276,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              371.0206604003906,
+              370.1624450683594,
               572.15966796875,
-              380.98565673828125
+              381.1936950683594
             ]
           },
           {
@@ -1380,9 +2291,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              403.869384765625,
+              403.01116943359375,
               574.5314331054688,
-              413.8343811035156
+              414.04241943359375
             ]
           },
           {
@@ -1395,9 +2306,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              415.15972900390625,
+              414.301513671875,
               574.2821044921875,
-              425.1247253417969
+              425.332763671875
             ]
           },
           {
@@ -1410,9 +2321,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              426.420166015625,
+              425.56195068359375,
               574.5452880859375,
-              436.3851623535156
+              436.59320068359375
             ]
           },
           {
@@ -1425,9 +2336,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              437.68939208984375,
+              436.8311767578125,
               130.88633728027344,
-              447.6543884277344
+              447.8624267578125
             ]
           },
           {
@@ -1440,9 +2351,9 @@
             "is_italic": false,
             "bbox": [
               133.45729064941406,
-              437.68939208984375,
+              436.8311767578125,
               173.23753356933594,
-              447.6543884277344
+              447.8624267578125
             ]
           },
           {
@@ -1455,9 +2366,9 @@
             "is_italic": false,
             "bbox": [
               175.68896484375,
-              437.68939208984375,
+              436.8311767578125,
               232.9777069091797,
-              447.6543884277344
+              447.8624267578125
             ]
           },
           {
@@ -1470,9 +2381,9 @@
             "is_italic": false,
             "bbox": [
               235.42913818359375,
-              437.68939208984375,
+              436.8311767578125,
               279.6339416503906,
-              447.6543884277344
+              447.8624267578125
             ]
           },
           {
@@ -1485,9 +2396,9 @@
             "is_italic": false,
             "bbox": [
               281.9856262207031,
-              437.68939208984375,
+              436.8311767578125,
               313.13629150390625,
-              447.6543884277344
+              447.8624267578125
             ]
           },
           {
@@ -1500,9 +2411,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              465.4652099609375,
+              464.3445739746094,
               73.96760559082031,
-              477.4712219238281
+              477.73126220703125
             ]
           },
           {
@@ -1515,9 +2426,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              482.139404296875,
+              481.28118896484375,
               574.5213623046875,
-              492.1044006347656
+              492.31243896484375
             ]
           },
           {
@@ -1530,9 +2441,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              493.4098205566406,
+              492.5516052246094,
               68.95384216308594,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -1545,9 +2456,9 @@
             "is_italic": false,
             "bbox": [
               71.73408508300781,
-              493.4098205566406,
+              492.5516052246094,
               125.3158950805664,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -1560,9 +2471,9 @@
             "is_italic": false,
             "bbox": [
               127.8868637084961,
-              493.4098205566406,
+              492.5516052246094,
               189.39080810546875,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -1575,9 +2486,9 @@
             "is_italic": false,
             "bbox": [
               191.8422393798828,
-              493.4098205566406,
+              492.5516052246094,
               370.89349365234375,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -1590,9 +2501,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              504.6702575683594,
+              503.8120422363281,
               302.49359130859375,
-              514.63525390625
+              514.8433227539062
             ]
           },
           {
@@ -1605,9 +2516,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              526.309326171875,
+              525.451171875,
               574.258056640625,
-              536.2743530273438
+              536.482421875
             ]
           },
           {
@@ -1620,9 +2531,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              537.5797729492188,
+              536.7215576171875,
               574.6116943359375,
-              547.5447998046875
+              547.7528686523438
             ]
           },
           {
@@ -1635,9 +2546,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              548.8402099609375,
+              547.9820556640625,
               518.8042602539062,
-              558.8052368164062
+              559.0133056640625
             ]
           },
           {
@@ -1650,9 +2561,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              570.4593505859375,
+              569.6011962890625,
               574.6231079101562,
-              580.4243774414062
+              580.6324462890625
             ]
           },
           {
@@ -1665,9 +2576,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              581.7198486328125,
+              580.8616943359375,
               574.6378784179688,
-              591.6848754882812
+              591.8929443359375
             ]
           },
           {
@@ -1680,9 +2591,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              592.990234375,
+              592.132080078125,
               574.622802734375,
-              602.9552612304688
+              603.163330078125
             ]
           },
           {
@@ -1695,9 +2606,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              604.2506713867188,
+              603.3924560546875,
               574.5214233398438,
-              614.2156982421875
+              614.4237670898438
             ]
           },
           {
@@ -1710,9 +2621,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              615.5111083984375,
+              614.6529541015625,
               298.4079284667969,
-              625.4761352539062
+              625.6842041015625
             ]
           },
           {
@@ -1725,9 +2636,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              643.2952270507812,
+              642.174560546875,
               147.86453247070312,
-              655.3012084960938
+              655.5612182617188
             ]
           },
           {
@@ -1740,9 +2651,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              659.9693603515625,
+              659.1112060546875,
               574.5094604492188,
-              669.9343872070312
+              670.1424560546875
             ]
           },
           {
@@ -1755,9 +2666,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              671.2297973632812,
+              670.37158203125,
               441.63519287109375,
-              681.19482421875
+              681.4028930664062
             ]
           },
           {
@@ -1770,9 +2681,9 @@
             "is_italic": false,
             "bbox": [
               333.0562744140625,
-              58.52937698364258,
+              57.671173095703125,
               340.8090515136719,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1785,9 +2696,9 @@
             "is_italic": false,
             "bbox": [
               343.5992431640625,
-              58.52937698364258,
+              57.671173095703125,
               414.41058349609375,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1800,9 +2711,9 @@
             "is_italic": false,
             "bbox": [
               417.1309814453125,
-              58.52937698364258,
+              57.671173095703125,
               441.4356384277344,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1815,9 +2726,9 @@
             "is_italic": false,
             "bbox": [
               444.12615966796875,
-              58.52937698364258,
+              57.671173095703125,
               452.47686767578125,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1830,9 +2741,9 @@
             "is_italic": false,
             "bbox": [
               455.1474609375,
-              58.52937698364258,
+              57.671173095703125,
               486.66680908203125,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1845,9 +2756,9 @@
             "is_italic": false,
             "bbox": [
               489.4469909667969,
-              58.52937698364258,
+              57.671173095703125,
               519.98974609375,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1860,9 +2771,9 @@
             "is_italic": false,
             "bbox": [
               522.540771484375,
-              58.52937698364258,
+              57.671173095703125,
               545.7691040039062,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1875,9 +2786,9 @@
             "is_italic": false,
             "bbox": [
               548.5693359375,
-              58.52937698364258,
+              57.671173095703125,
               556.9199829101562,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1890,9 +2801,9 @@
             "is_italic": false,
             "bbox": [
               559.4710693359375,
-              58.52937698364258,
+              57.671173095703125,
               574.0697631835938,
-              68.49437713623047
+              68.70243072509766
             ]
           },
           {
@@ -1905,9 +2816,9 @@
             "is_italic": false,
             "bbox": [
               312.8472900390625,
-              92.32064056396484,
+              91.46243286132812,
               370.494873046875,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1920,9 +2831,9 @@
             "is_italic": false,
             "bbox": [
               374.1419982910156,
-              92.32064056396484,
+              91.46243286132812,
               391.6305847167969,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1935,9 +2846,9 @@
             "is_italic": false,
             "bbox": [
               395.13824462890625,
-              92.32064056396484,
+              91.46243286132812,
               422.6914978027344,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1950,9 +2861,9 @@
             "is_italic": false,
             "bbox": [
               426.2190856933594,
-              92.32064056396484,
+              91.46243286132812,
               448.4610595703125,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1965,9 +2876,9 @@
             "is_italic": false,
             "bbox": [
               451.8689880371094,
-              92.32064056396484,
+              91.46243286132812,
               459.62176513671875,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1980,9 +2891,9 @@
             "is_italic": false,
             "bbox": [
               463.2490234375,
-              92.32064056396484,
+              91.46243286132812,
               493.82171630859375,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -1995,9 +2906,9 @@
             "is_italic": false,
             "bbox": [
               497.4289855957031,
-              92.32064056396484,
+              91.46243286132812,
               505.759765625,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -2010,9 +2921,9 @@
             "is_italic": false,
             "bbox": [
               509.2873229980469,
-              92.32064056396484,
+              91.46243286132812,
               574.5779418945312,
-              102.28563690185547
+              102.49369049072266
             ]
           },
           {
@@ -2025,9 +2936,9 @@
             "is_italic": false,
             "bbox": [
               373.44439697265625,
-              493.4098205566406,
+              492.5516052246094,
               458.43603515625,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -2040,9 +2951,9 @@
             "is_italic": false,
             "bbox": [
               460.8773193359375,
-              493.4098205566406,
+              492.5516052246094,
               499.1230163574219,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -2055,9 +2966,9 @@
             "is_italic": false,
             "bbox": [
               501.5644226074219,
-              493.4098205566406,
+              492.5516052246094,
               521.5442504882812,
-              503.37481689453125
+              503.5828552246094
             ]
           },
           {
@@ -2070,9 +2981,9 @@
             "is_italic": false,
             "bbox": [
               524.115234375,
-              493.4098205566406,
+              492.5516052246094,
               574.597900390625,
-              503.37481689453125
+              503.5828552246094
             ]
           }
         ]
@@ -2090,9 +3001,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              46.80977249145508,
+              45.951568603515625,
               574.5333862304688,
-              56.77477264404297
+              56.98282241821289
             ]
           },
           {
@@ -2105,9 +3016,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              58.07020950317383,
+              57.212005615234375,
               574.6099853515625,
-              68.03520965576172
+              68.2432632446289
             ]
           },
           {
@@ -2120,9 +3031,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              69.3405990600586,
+              68.48239135742188,
               574.5392456054688,
-              79.30559539794922
+              79.5136489868164
             ]
           },
           {
@@ -2135,9 +3046,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              80.6209945678711,
+              79.76278686523438,
               573.9503173828125,
-              90.58599090576172
+              90.7940444946289
             ]
           },
           {
@@ -2150,9 +3061,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              91.8913803100586,
+              91.03317260742188,
               574.5509033203125,
-              101.85637664794922
+              102.0644302368164
             ]
           },
           {
@@ -2165,9 +3076,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              103.15181732177734,
+              102.29360961914062,
               574.4825439453125,
-              113.11681365966797
+              113.32486724853516
             ]
           },
           {
@@ -2180,9 +3091,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              114.42220306396484,
+              113.56399536132812,
               95.12194061279297,
-              124.38719940185547
+              124.59525299072266
             ]
           },
           {
@@ -2195,9 +3106,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              142.26522827148438,
+              141.1445770263672,
               149.5802001953125,
-              154.27122497558594
+              154.53126525878906
             ]
           },
           {
@@ -2210,9 +3121,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              158.9193878173828,
+              158.06118774414062,
               574.5463256835938,
-              168.8843994140625
+              169.09243774414062
             ]
           },
           {
@@ -2225,9 +3136,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              170.17982482910156,
+              169.32162475585938,
               574.520263671875,
-              180.14483642578125
+              180.35287475585938
             ]
           },
           {
@@ -2240,9 +3151,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              181.45021057128906,
+              180.59201049804688,
               574.44189453125,
-              191.41522216796875
+              191.62326049804688
             ]
           },
           {
@@ -2255,9 +3166,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              192.7106475830078,
+              191.85244750976562,
               494.3671569824219,
-              202.6756591796875
+              202.88369750976562
             ]
           },
           {
@@ -2270,9 +3181,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              220.51522827148438,
+              219.3945770263672,
               141.53738403320312,
-              232.52122497558594
+              232.78126525878906
             ]
           },
           {
@@ -2285,9 +3196,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              237.1894073486328,
+              236.33120727539062,
               574.5056762695312,
-              247.1544189453125
+              247.36245727539062
             ]
           },
           {
@@ -2300,9 +3211,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              248.4597930908203,
+              247.60159301757812,
               90.88681030273438,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2315,9 +3226,9 @@
             "is_italic": false,
             "bbox": [
               93.60725402832031,
-              248.4597930908203,
+              247.60159301757812,
               142.38592529296875,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2330,9 +3241,9 @@
             "is_italic": false,
             "bbox": [
               144.82736206054688,
-              248.4597930908203,
+              247.60159301757812,
               186.9992218017578,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2345,9 +3256,9 @@
             "is_italic": false,
             "bbox": [
               189.59014892578125,
-              248.4597930908203,
+              247.60159301757812,
               197.34291076660156,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2360,9 +3271,9 @@
             "is_italic": false,
             "bbox": [
               200.01353454589844,
-              248.4597930908203,
+              247.60159301757812,
               238.21934509277344,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2375,9 +3286,9 @@
             "is_italic": false,
             "bbox": [
               240.82020568847656,
-              248.4597930908203,
+              247.60159301757812,
               271.7117614746094,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2390,9 +3301,9 @@
             "is_italic": false,
             "bbox": [
               274.15313720703125,
-              248.4597930908203,
+              247.60159301757812,
               320.301025390625,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -2405,9 +3316,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              259.7202453613281,
+              258.8620300292969,
               574.6461791992188,
-              269.68524169921875
+              269.8932800292969
             ]
           },
           {
@@ -2420,9 +3331,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              270.9806823730469,
+              270.1224670410156,
               574.5321044921875,
-              280.9456787109375
+              281.1537170410156
             ]
           },
           {
@@ -2435,9 +3346,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              282.2510986328125,
+              281.39288330078125,
               574.6030883789062,
-              292.2160949707031
+              292.42413330078125
             ]
           },
           {
@@ -2450,9 +3361,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              293.51153564453125,
+              292.6533203125,
               104.548828125,
-              303.4765319824219
+              303.6845703125
             ]
           },
           {
@@ -2465,9 +3376,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              315.07940673828125,
+              314.22119140625,
               574.60888671875,
-              325.0444030761719
+              325.25244140625
             ]
           },
           {
@@ -2480,9 +3391,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              326.3697509765625,
+              325.51153564453125,
               574.5601196289062,
-              336.3347473144531
+              336.54278564453125
             ]
           },
           {
@@ -2495,9 +3406,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              337.63018798828125,
+              336.77197265625,
               317.55078125,
-              347.5951843261719
+              347.80322265625
             ]
           },
           {
@@ -2510,9 +3421,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              359.2493896484375,
+              358.39117431640625,
               574.1149291992188,
-              369.2143859863281
+              369.42242431640625
             ]
           },
           {
@@ -2525,9 +3436,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              370.50982666015625,
+              369.651611328125,
               68.70471954345703,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -2540,9 +3451,9 @@
             "is_italic": false,
             "bbox": [
               71.8536605834961,
-              370.50982666015625,
+              369.651611328125,
               126.48179626464844,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -2555,9 +3466,9 @@
             "is_italic": false,
             "bbox": [
               129.68055725097656,
-              370.50982666015625,
+              369.651611328125,
               192.0215606689453,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -2570,9 +3481,9 @@
             "is_italic": false,
             "bbox": [
               194.95130920410156,
-              370.50982666015625,
+              369.651611328125,
               240.39170837402344,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -2585,9 +3496,9 @@
             "is_italic": false,
             "bbox": [
               243.44100952148438,
-              370.50982666015625,
+              369.651611328125,
               276.465087890625,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -2600,9 +3511,9 @@
             "is_italic": false,
             "bbox": [
               279.53424072265625,
-              370.50982666015625,
+              369.651611328125,
               306.5892639160156,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -2615,9 +3526,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              381.7802429199219,
+              380.9220275878906,
               293.5948486328125,
-              391.7452392578125
+              391.9532775878906
             ]
           },
           {
@@ -2630,9 +3541,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              409.70574951171875,
+              408.5828552246094,
               86.81787872314453,
-              421.7357482910156
+              421.9963073730469
             ]
           },
           {
@@ -2645,9 +3556,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              426.37939453125,
+              425.52117919921875,
               574.3001708984375,
-              436.3443908691406
+              436.55242919921875
             ]
           },
           {
@@ -2660,9 +3571,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              437.63983154296875,
+              436.7816162109375,
               574.149658203125,
-              447.6048278808594
+              447.8128662109375
             ]
           },
           {
@@ -2675,9 +3586,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              448.9002685546875,
+              448.04205322265625,
               574.099853515625,
-              458.8652648925781
+              459.07330322265625
             ]
           },
           {
@@ -2690,9 +3601,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              460.1706848144531,
+              459.3124694824219,
               144.42877197265625,
-              470.13568115234375
+              470.3437194824219
             ]
           },
           {
@@ -2705,9 +3616,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              481.6694030761719,
+              480.8111877441406,
               574.4767456054688,
-              491.6343994140625
+              491.8424377441406
             ]
           },
           {
@@ -2720,9 +3631,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              492.9298400878906,
+              492.0716247558594,
               574.4215698242188,
-              502.89483642578125
+              503.1028747558594
             ]
           },
           {
@@ -2735,9 +3646,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              504.1902770996094,
+              503.3320617675781,
               121.87796020507812,
-              514.1552734375
+              514.3633422851562
             ]
           },
           {
@@ -2750,9 +3661,9 @@
             "is_italic": false,
             "bbox": [
               125.50521850585938,
-              504.1902770996094,
+              503.3320617675781,
               156.41661071777344,
-              514.1552734375
+              514.3633422851562
             ]
           },
           {
@@ -2765,9 +3676,9 @@
             "is_italic": false,
             "bbox": [
               159.93429565429688,
-              504.1902770996094,
+              503.3320617675781,
               574.1317749023438,
-              514.1552734375
+              514.3633422851562
             ]
           },
           {
@@ -2780,9 +3691,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              515.460693359375,
+              514.6025390625,
               105.88414001464844,
-              525.4257202148438
+              525.6337890625
             ]
           },
           {
@@ -2795,9 +3706,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              543.375244140625,
+              542.2545776367188,
               107.6684341430664,
-              555.3812255859375
+              555.6412353515625
             ]
           },
           {
@@ -2810,9 +3721,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              560.0593872070312,
+              559.201171875,
               574.4307861328125,
-              570.0244140625
+              570.2324829101562
             ]
           },
           {
@@ -2825,9 +3736,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              571.31982421875,
+              570.461669921875,
               90.88681030273438,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -2840,9 +3751,9 @@
             "is_italic": false,
             "bbox": [
               93.60725402832031,
-              571.31982421875,
+              570.461669921875,
               160.37274169921875,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -2855,9 +3766,9 @@
             "is_italic": false,
             "bbox": [
               163.08323669433594,
-              571.31982421875,
+              570.461669921875,
               203.58094787597656,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -2870,9 +3781,9 @@
             "is_italic": false,
             "bbox": [
               206.37120056152344,
-              571.31982421875,
+              570.461669921875,
               256.80401611328125,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -2885,9 +3796,9 @@
             "is_italic": false,
             "bbox": [
               259.49462890625,
-              571.31982421875,
+              570.461669921875,
               315.92645263671875,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -2900,9 +3811,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              582.5802612304688,
+              581.7220458984375,
               574.5191650390625,
-              592.5452880859375
+              592.7533569335938
             ]
           },
           {
@@ -2915,9 +3826,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              593.8507080078125,
+              592.9925537109375,
               366.2796325683594,
-              603.8157348632812
+              604.0238037109375
             ]
           },
           {
@@ -2930,9 +3841,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              615.349365234375,
+              614.4912109375,
               574.4156494140625,
-              625.3143920898438
+              625.5224609375
             ]
           },
           {
@@ -2945,9 +3856,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              626.6098022460938,
+              625.7515869140625,
               574.6229248046875,
-              636.5748291015625
+              636.7828979492188
             ]
           },
           {
@@ -2960,9 +3871,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              637.8702392578125,
+              637.0120849609375,
               574.552001953125,
-              647.8352661132812
+              648.0433349609375
             ]
           },
           {
@@ -2975,9 +3886,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              649.1406860351562,
+              648.282470703125,
               574.5839233398438,
-              659.105712890625
+              659.3137817382812
             ]
           },
           {
@@ -2990,9 +3901,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              660.401123046875,
+              659.54296875,
               187.8761749267578,
-              670.3661499023438
+              670.57421875
             ]
           },
           {
@@ -3005,9 +3916,9 @@
             "is_italic": false,
             "bbox": [
               322.9617004394531,
-              248.4597930908203,
+              247.60159301757812,
               402.4626159667969,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -3020,9 +3931,9 @@
             "is_italic": false,
             "bbox": [
               405.1330871582031,
-              248.4597930908203,
+              247.60159301757812,
               441.5452575683594,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -3035,9 +3946,9 @@
             "is_italic": false,
             "bbox": [
               444.2357482910156,
-              248.4597930908203,
+              247.60159301757812,
               461.943603515625,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -3050,9 +3961,9 @@
             "is_italic": false,
             "bbox": [
               464.6141662597656,
-              248.4597930908203,
+              247.60159301757812,
               507.53350830078125,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -3065,9 +3976,9 @@
             "is_italic": false,
             "bbox": [
               510.08447265625,
-              248.4597930908203,
+              247.60159301757812,
               574.5479736328125,
-              258.4248046875
+              258.6328430175781
             ]
           },
           {
@@ -3080,9 +3991,9 @@
             "is_italic": false,
             "bbox": [
               309.76806640625,
-              370.50982666015625,
+              369.651611328125,
               319.7829284667969,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3095,9 +4006,9 @@
             "is_italic": false,
             "bbox": [
               322.7126159667969,
-              370.50982666015625,
+              369.651611328125,
               405.41229248046875,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3110,9 +4021,9 @@
             "is_italic": false,
             "bbox": [
               408.48138427734375,
-              370.50982666015625,
+              369.651611328125,
               416.83209228515625,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3125,9 +4036,9 @@
             "is_italic": false,
             "bbox": [
               419.9710388183594,
-              370.50982666015625,
+              369.651611328125,
               457.8580322265625,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3140,9 +4051,9 @@
             "is_italic": false,
             "bbox": [
               460.9869689941406,
-              370.50982666015625,
+              369.651611328125,
               481.96331787109375,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3155,9 +4066,9 @@
             "is_italic": false,
             "bbox": [
               485.1022644042969,
-              370.50982666015625,
+              369.651611328125,
               520.9065551757812,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3170,9 +4081,9 @@
             "is_italic": false,
             "bbox": [
               524.055419921875,
-              370.50982666015625,
+              369.651611328125,
               574.5181274414062,
-              380.4748229980469
+              380.682861328125
             ]
           },
           {
@@ -3185,9 +4096,9 @@
             "is_italic": false,
             "bbox": [
               318.63690185546875,
-              571.31982421875,
+              570.461669921875,
               348.8209533691406,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -3200,9 +4111,9 @@
             "is_italic": false,
             "bbox": [
               351.5114440917969,
-              571.31982421875,
+              570.461669921875,
               373.6537170410156,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -3215,9 +4126,9 @@
             "is_italic": false,
             "bbox": [
               376.34423828125,
-              571.31982421875,
+              570.461669921875,
               423.1200256347656,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -3230,9 +4141,9 @@
             "is_italic": true,
             "bbox": [
               426.16925048828125,
-              571.31982421875,
+              570.461669921875,
               484.9010009765625,
-              581.2848510742188
+              581.492919921875
             ]
           },
           {
@@ -3245,9 +4156,9 @@
             "is_italic": false,
             "bbox": [
               485.5008544921875,
-              571.31982421875,
+              570.461669921875,
               574.5480346679688,
-              581.2848510742188
+              581.492919921875
             ]
           }
         ]
@@ -3275,9 +4186,9 @@
             "is_italic": true,
             "bbox": [
               284.0,
-              294.6593933105469,
+              293.8011779785156,
               374.8610534667969,
-              304.6243896484375
+              304.8324279785156
             ]
           },
           {
@@ -3290,9 +4201,9 @@
             "is_italic": false,
             "bbox": [
               236.32000732421875,
-              296.1510009765625,
+              295.4001770019531,
               283.64605712890625,
-              304.19500732421875
+              304.3692321777344
             ]
           },
           {
@@ -3305,9 +4216,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              321.9617919921875,
+              321.03167724609375,
               136.6689910888672,
-              331.92681884765625
+              332.14263916015625
             ]
           },
           {
@@ -3320,9 +4231,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              336.5093994140625,
+              335.65118408203125,
               574.5560302734375,
-              346.4743957519531
+              346.68243408203125
             ]
           },
           {
@@ -3335,9 +4246,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              347.76983642578125,
+              346.91162109375,
               573.9822998046875,
-              357.7348327636719
+              357.94287109375
             ]
           },
           {
@@ -3350,9 +4261,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              359.0302734375,
+              358.17205810546875,
               574.325927734375,
-              368.9952697753906
+              369.20330810546875
             ]
           },
           {
@@ -3365,9 +4276,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              370.3006896972656,
+              369.4424743652344,
               574.48828125,
-              380.26568603515625
+              380.4737243652344
             ]
           },
           {
@@ -3380,9 +4291,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              381.5810852050781,
+              380.7228698730469,
               241.1889190673828,
-              391.54608154296875
+              391.7541198730469
             ]
           },
           {
@@ -3395,9 +4306,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              403.1794128417969,
+              402.3211975097656,
               574.5699462890625,
-              413.1444091796875
+              413.3524475097656
             ]
           },
           {
@@ -3410,9 +4321,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              414.4398498535156,
+              413.5816345214844,
               574.56201171875,
-              424.40484619140625
+              424.6128845214844
             ]
           },
           {
@@ -3425,9 +4336,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              425.71026611328125,
+              424.85205078125,
               236.89398193359375,
-              435.6752624511719
+              435.88330078125
             ]
           },
           {
@@ -3440,9 +4351,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              447.31939697265625,
+              446.461181640625,
               574.2172241210938,
-              457.2843933105469
+              457.492431640625
             ]
           },
           {
@@ -3455,9 +4366,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              458.5898132324219,
+              457.7315979003906,
               574.6458129882812,
-              468.5548095703125
+              468.7628479003906
             ]
           },
           {
@@ -3470,9 +4381,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              469.8502502441406,
+              468.9920349121094,
               93.20865631103516,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3485,9 +4396,9 @@
             "is_italic": false,
             "bbox": [
               96.36756134033203,
-              469.8502502441406,
+              468.9920349121094,
               153.2876434326172,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3500,9 +4411,9 @@
             "is_italic": false,
             "bbox": [
               156.23727416992188,
-              469.8502502441406,
+              468.9920349121094,
               250.725341796875,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3515,9 +4426,9 @@
             "is_italic": false,
             "bbox": [
               253.85440063476562,
-              469.8502502441406,
+              468.9920349121094,
               271.661865234375,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3530,9 +4441,9 @@
             "is_italic": false,
             "bbox": [
               274.7310791015625,
-              469.8502502441406,
+              468.9920349121094,
               309.8178405761719,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3545,9 +4456,9 @@
             "is_italic": false,
             "bbox": [
               36.7369384765625,
-              481.1106872558594,
+              480.2524719238281,
               208.83242797851562,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3560,9 +4471,9 @@
             "is_italic": false,
             "bbox": [
               212.82846069335938,
-              481.1106872558594,
+              480.2524719238281,
               220.023193359375,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3575,9 +4486,9 @@
             "is_italic": false,
             "bbox": [
               223.8696746826172,
-              481.1106872558594,
+              480.2524719238281,
               285.3637390136719,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3590,9 +4501,9 @@
             "is_italic": false,
             "bbox": [
               289.3497009277344,
-              481.1106872558594,
+              480.2524719238281,
               318.1087951660156,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3605,9 +4516,9 @@
             "is_italic": false,
             "bbox": [
               36.7369384765625,
-              492.381103515625,
+              491.52288818359375,
               314.0550231933594,
-              502.3460998535156
+              502.55413818359375
             ]
           },
           {
@@ -3620,9 +4531,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              513.9693603515625,
+              513.1112060546875,
               574.5699462890625,
-              523.9343872070312
+              524.1424560546875
             ]
           },
           {
@@ -3635,9 +4546,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              525.23974609375,
+              524.381591796875,
               574.512451171875,
-              535.2047729492188
+              535.412841796875
             ]
           },
           {
@@ -3650,9 +4561,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              536.500244140625,
+              535.64208984375,
               574.593994140625,
-              546.4652709960938
+              546.67333984375
             ]
           },
           {
@@ -3665,9 +4576,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              547.7606811523438,
+              546.9024658203125,
               77.35433197021484,
-              557.7257080078125
+              557.9337768554688
             ]
           },
           {
@@ -3680,9 +4591,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              569.2593994140625,
+              568.4012451171875,
               574.5342407226562,
-              579.2244262695312
+              579.4324951171875
             ]
           },
           {
@@ -3695,9 +4606,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              580.5198364257812,
+              579.66162109375,
               574.529296875,
-              590.48486328125
+              590.6929321289062
             ]
           },
           {
@@ -3710,9 +4621,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              591.7902221679688,
+              590.9320068359375,
               572.1596069335938,
-              601.7552490234375
+              601.9633178710938
             ]
           },
           {
@@ -3725,9 +4636,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              624.6693725585938,
+              623.8111572265625,
               574.491455078125,
-              634.6343994140625
+              634.8424682617188
             ]
           },
           {
@@ -3740,9 +4651,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              635.9298095703125,
+              635.0716552734375,
               228.9020233154297,
-              645.8948364257812
+              646.1029052734375
             ]
           },
           {
@@ -3755,9 +4666,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              663.4918212890625,
+              662.5617065429688,
               110.4680404663086,
-              673.4568481445312
+              673.6726684570312
             ]
           },
           {
@@ -3770,9 +4681,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              678.1593627929688,
+              677.3011474609375,
               574.515380859375,
-              688.1243896484375
+              688.3324584960938
             ]
           },
           {
@@ -3785,9 +4696,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              689.4197998046875,
+              688.5616455078125,
               574.2162475585938,
-              699.3848266601562
+              699.5928955078125
             ]
           },
           {
@@ -3800,9 +4711,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              700.6802978515625,
+              699.8221435546875,
               190.47702026367188,
-              710.6453247070312
+              710.8533935546875
             ]
           },
           {
@@ -3815,9 +4726,9 @@
             "is_italic": true,
             "bbox": [
               190.81582641601562,
-              700.6802978515625,
+              699.8221435546875,
               249.51763916015625,
-              710.6453247070312
+              710.8533935546875
             ]
           },
           {
@@ -3830,9 +4741,9 @@
             "is_italic": false,
             "bbox": [
               250.1175537109375,
-              700.6802978515625,
+              699.8221435546875,
               574.0499877929688,
-              710.6453247070312
+              710.8533935546875
             ]
           },
           {
@@ -3845,9 +4756,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              711.9407348632812,
+              711.08251953125,
               574.5789794921875,
-              721.90576171875
+              722.1138305664062
             ]
           },
           {
@@ -3860,9 +4771,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              723.201171875,
+              722.343017578125,
               71.48495483398438,
-              733.1661987304688
+              733.374267578125
             ]
           },
           {
@@ -3875,9 +4786,9 @@
             "is_italic": false,
             "bbox": [
               312.8870544433594,
-              469.8502502441406,
+              468.9920349121094,
               336.1354064941406,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3890,9 +4801,9 @@
             "is_italic": false,
             "bbox": [
               339.045166015625,
-              469.8502502441406,
+              468.9920349121094,
               374.7498474121094,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3905,9 +4816,9 @@
             "is_italic": false,
             "bbox": [
               377.9285888671875,
-              469.8502502441406,
+              468.9920349121094,
               387.9434509277344,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3920,9 +4831,9 @@
             "is_italic": false,
             "bbox": [
               390.8731384277344,
-              469.8502502441406,
+              468.9920349121094,
               574.3507080078125,
-              479.81524658203125
+              480.0232849121094
             ]
           },
           {
@@ -3935,9 +4846,9 @@
             "is_italic": false,
             "bbox": [
               322.0946960449219,
-              481.1106872558594,
+              480.2524719238281,
               339.06512451171875,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3950,9 +4861,9 @@
             "is_italic": false,
             "bbox": [
               342.86175537109375,
-              481.1106872558594,
+              480.2524719238281,
               376.64312744140625,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3965,9 +4876,9 @@
             "is_italic": false,
             "bbox": [
               380.5294494628906,
-              481.1106872558594,
+              480.2524719238281,
               402.6717224121094,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3980,9 +4891,9 @@
             "is_italic": false,
             "bbox": [
               406.5679931640625,
-              481.1106872558594,
+              480.2524719238281,
               424.15625,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -3995,9 +4906,9 @@
             "is_italic": false,
             "bbox": [
               428.0525207519531,
-              481.1106872558594,
+              480.2524719238281,
               501.5146789550781,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -4010,9 +4921,9 @@
             "is_italic": false,
             "bbox": [
               505.3111572265625,
-              481.1106872558594,
+              480.2524719238281,
               522.7996826171875,
-              491.07568359375
+              491.2837219238281
             ]
           },
           {
@@ -4025,9 +4936,9 @@
             "is_italic": false,
             "bbox": [
               526.6761474609375,
-              481.1106872558594,
+              480.2524719238281,
               574.1991577148438,
-              491.07568359375
+              491.2837219238281
             ]
           }
         ]
@@ -4045,9 +4956,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              46.80977249145508,
+              45.951568603515625,
               574.5559692382812,
-              56.77477264404297
+              56.98282241821289
             ]
           },
           {
@@ -4060,9 +4971,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              58.07020950317383,
+              57.212005615234375,
               71.4849853515625,
-              68.03520965576172
+              68.2432632446289
             ]
           },
           {
@@ -4085,9 +4996,9 @@
             "is_italic": true,
             "bbox": [
               297.92999267578125,
-              271.2193908691406,
+              270.3611755371094,
               360.9487609863281,
-              281.18438720703125
+              281.3924255371094
             ]
           },
           {
@@ -4100,9 +5011,9 @@
             "is_italic": false,
             "bbox": [
               250.24000549316406,
-              272.71099853515625,
+              271.9601745605469,
               297.5741271972656,
-              280.7550048828125
+              280.9292297363281
             ]
           },
           {
@@ -4115,9 +5026,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              292.5993957519531,
+              291.7411804199219,
               574.536376953125,
-              302.56439208984375
+              302.7724304199219
             ]
           },
           {
@@ -4130,9 +5041,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              303.8598327636719,
+              303.0016174316406,
               574.5841064453125,
-              313.8248291015625
+              314.0328674316406
             ]
           },
           {
@@ -4145,9 +5056,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              315.1302490234375,
+              314.27203369140625,
               574.5702514648438,
-              325.0952453613281
+              325.30328369140625
             ]
           },
           {
@@ -4160,9 +5071,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              326.39068603515625,
+              325.532470703125,
               152.46054077148438,
-              336.3556823730469
+              336.563720703125
             ]
           },
           {
@@ -4175,9 +5086,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              347.889404296875,
+              347.03118896484375,
               574.1546630859375,
-              357.8544006347656
+              358.06243896484375
             ]
           },
           {
@@ -4190,9 +5101,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              359.14984130859375,
+              358.2916259765625,
               342.97137451171875,
-              369.1148376464844
+              369.3228759765625
             ]
           },
           {
@@ -4205,9 +5116,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              386.841796875,
+              385.91168212890625,
               96.17823791503906,
-              396.80682373046875
+              397.02264404296875
             ]
           },
           {
@@ -4220,9 +5131,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              401.4993896484375,
+              400.64117431640625,
               572.1595458984375,
-              411.4643859863281
+              411.67242431640625
             ]
           },
           {
@@ -4235,9 +5146,9 @@
             "is_italic": false,
             "bbox": [
               36.74005126953125,
-              412.75982666015625,
+              411.901611328125,
               574.124755859375,
-              422.7248229980469
+              422.932861328125
             ]
           },
           {
@@ -4250,9 +5161,9 @@
             "is_italic": false,
             "bbox": [
               36.74005126953125,
-              424.0298156738281,
+              423.1716003417969,
               574.01025390625,
-              433.9952392578125
+              434.2032775878906
             ]
           },
           {
@@ -4265,9 +5176,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              435.2902526855469,
+              434.4320373535156,
               574.2156372070312,
-              445.2552490234375
+              445.4632873535156
             ]
           },
           {
@@ -4280,9 +5191,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              446.5606689453125,
+              445.70245361328125,
               564.4216918945312,
-              456.5256652832031
+              456.73370361328125
             ]
           },
           {
@@ -4295,9 +5206,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              474.335205078125,
+              473.2145690917969,
               144.40557861328125,
-              486.3412170410156
+              486.60125732421875
             ]
           },
           {
@@ -4310,9 +5221,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              491.0093994140625,
+              490.15118408203125,
               574.6229248046875,
-              500.9743957519531
+              501.18243408203125
             ]
           },
           {
@@ -4325,9 +5236,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              502.2798156738281,
+              501.4216003417969,
               574.6002807617188,
-              512.2448120117188
+              512.452880859375
             ]
           },
           {
@@ -4340,9 +5251,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              513.5402221679688,
+              512.6820068359375,
               574.593017578125,
-              523.5052490234375
+              523.7133178710938
             ]
           },
           {
@@ -4355,9 +5266,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              524.8006591796875,
+              523.9425048828125,
               574.5321655273438,
-              534.7656860351562
+              534.9737548828125
             ]
           },
           {
@@ -4370,9 +5281,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              536.071044921875,
+              535.212890625,
               132.3013458251953,
-              546.0360717773438
+              546.244140625
             ]
           },
           {
@@ -4385,9 +5296,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              557.6593627929688,
+              556.8011474609375,
               574.5562133789062,
-              567.6243896484375
+              567.8324584960938
             ]
           },
           {
@@ -4400,9 +5311,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              568.9197998046875,
+              568.0616455078125,
               574.5112915039062,
-              578.8848266601562
+              579.0928955078125
             ]
           },
           {
@@ -4415,9 +5326,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              580.1902465820312,
+              579.33203125,
               574.6080932617188,
-              590.1552734375
+              590.3633422851562
             ]
           },
           {
@@ -4430,9 +5341,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              591.45068359375,
+              590.592529296875,
               574.5133666992188,
-              601.4157104492188
+              601.623779296875
             ]
           },
           {
@@ -4445,9 +5356,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              602.7210693359375,
+              601.8629150390625,
               226.43072509765625,
-              612.6860961914062
+              612.8941650390625
             ]
           },
           {
@@ -4460,9 +5371,9 @@
             "is_italic": true,
             "bbox": [
               227.18807983398438,
-              602.7210693359375,
+              601.8629150390625,
               286.27960205078125,
-              612.6860961914062
+              612.8941650390625
             ]
           },
           {
@@ -4475,9 +5386,9 @@
             "is_italic": false,
             "bbox": [
               287.24713134765625,
-              602.7210693359375,
+              601.8629150390625,
               574.3190307617188,
-              612.6860961914062
+              612.8941650390625
             ]
           },
           {
@@ -4490,9 +5401,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              613.9815673828125,
+              613.1234130859375,
               261.9659118652344,
-              623.9465942382812
+              624.1546630859375
             ]
           }
         ]
@@ -4510,9 +5421,9 @@
             "is_italic": true,
             "bbox": [
               256.7300109863281,
-              384.7694091796875,
+              383.91119384765625,
               402.0498046875,
-              394.7344055175781
+              394.94244384765625
             ]
           },
           {
@@ -4525,9 +5436,9 @@
             "is_italic": false,
             "bbox": [
               209.05999755859375,
-              386.2610168457031,
+              385.51019287109375,
               256.3619384765625,
-              394.3050231933594
+              394.479248046875
             ]
           },
           {
@@ -4540,9 +5451,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              405.9093933105469,
+              405.0511779785156,
               574.6182861328125,
-              415.8743896484375
+              416.0824279785156
             ]
           },
           {
@@ -4555,9 +5466,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              417.1698303222656,
+              416.3116149902344,
               574.4923706054688,
-              427.13482666015625
+              427.3428649902344
             ]
           },
           {
@@ -4570,9 +5481,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              428.44024658203125,
+              427.58203125,
               574.5413208007812,
-              438.4052429199219
+              438.61328125
             ]
           },
           {
@@ -4585,9 +5496,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              439.7305908203125,
+              438.87237548828125,
               64.8681869506836,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4600,9 +5511,9 @@
             "is_italic": false,
             "bbox": [
               67.54878234863281,
-              439.7305908203125,
+              438.87237548828125,
               140.5125274658203,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4615,9 +5526,9 @@
             "is_italic": false,
             "bbox": [
               142.99380493164062,
-              439.7305908203125,
+              438.87237548828125,
               178.5488739013672,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4630,9 +5541,9 @@
             "is_italic": false,
             "bbox": [
               181.00030517578125,
-              439.7305908203125,
+              438.87237548828125,
               189.35096740722656,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4645,9 +5556,9 @@
             "is_italic": false,
             "bbox": [
               191.78244018554688,
-              439.7305908203125,
+              438.87237548828125,
               252.9276885986328,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4660,9 +5571,9 @@
             "is_italic": false,
             "bbox": [
               255.2794189453125,
-              439.7305908203125,
+              438.87237548828125,
               300.331298828125,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4675,9 +5586,9 @@
             "is_italic": false,
             "bbox": [
               302.912109375,
-              439.7305908203125,
+              438.87237548828125,
               312.9269714355469,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -4690,9 +5601,9 @@
             "is_italic": false,
             "bbox": [
               36.737030029296875,
-              450.99102783203125,
+              450.1328125,
               485.0428161621094,
-              460.9560241699219
+              461.1640625
             ]
           },
           {
@@ -4705,9 +5616,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              472.45941162109375,
+              471.6011962890625,
               574.533203125,
-              482.4244079589844
+              482.6324462890625
             ]
           },
           {
@@ -4720,9 +5631,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              483.7298278808594,
+              482.8716125488281,
               364.00762939453125,
-              493.69482421875
+              493.9028625488281
             ]
           },
           {
@@ -4735,9 +5646,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              505.3694152832031,
+              504.5111999511719,
               574.6099853515625,
-              515.3344116210938
+              515.54248046875
             ]
           },
           {
@@ -4750,9 +5661,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              516.6297607421875,
+              515.7716064453125,
               574.5082397460938,
-              526.5947875976562
+              526.8028564453125
             ]
           },
           {
@@ -4765,9 +5676,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              527.9002075195312,
+              527.0419921875,
               574.5360717773438,
-              537.865234375
+              538.0733032226562
             ]
           },
           {
@@ -4780,9 +5691,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              539.16064453125,
+              538.302490234375,
               260.7601013183594,
-              549.1256713867188
+              549.333740234375
             ]
           },
           {
@@ -4795,9 +5706,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              566.9552612304688,
+              565.8345947265625,
               209.48049926757812,
-              578.9612426757812
+              579.2212524414062
             ]
           },
           {
@@ -4810,9 +5721,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              583.619384765625,
+              582.76123046875,
               574.01904296875,
-              593.5844116210938
+              593.79248046875
             ]
           },
           {
@@ -4825,9 +5736,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              594.8798217773438,
+              594.0216064453125,
               574.5162963867188,
-              604.8448486328125
+              605.0529174804688
             ]
           },
           {
@@ -4840,9 +5751,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              606.1402587890625,
+              605.2821044921875,
               574.50341796875,
-              616.1052856445312
+              616.3133544921875
             ]
           },
           {
@@ -4855,9 +5766,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              617.4306030273438,
+              616.5723876953125,
               489.317626953125,
-              627.3956298828125
+              627.6036987304688
             ]
           },
           {
@@ -4870,9 +5781,9 @@
             "is_italic": false,
             "bbox": [
               36.7369384765625,
-              628.6910400390625,
+              627.8328857421875,
               387.81402587890625,
-              638.6560668945312
+              638.8641357421875
             ]
           },
           {
@@ -4885,9 +5796,9 @@
             "is_italic": false,
             "bbox": [
               36.7369384765625,
-              639.9614868164062,
+              639.103271484375,
               205.60179138183594,
-              649.926513671875
+              650.1345825195312
             ]
           },
           {
@@ -4900,9 +5811,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              661.5293579101562,
+              660.671142578125,
               574.4945068359375,
-              671.494384765625
+              671.7024536132812
             ]
           },
           {
@@ -4915,9 +5826,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              672.789794921875,
+              671.931640625,
               574.4833984375,
-              682.7548217773438
+              682.962890625
             ]
           },
           {
@@ -4930,9 +5841,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              684.05029296875,
+              683.192138671875,
               574.5330200195312,
-              694.0153198242188
+              694.223388671875
             ]
           },
           {
@@ -4945,9 +5856,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              695.3107299804688,
+              694.4525146484375,
               574.50244140625,
-              705.2757568359375
+              705.4838256835938
             ]
           },
           {
@@ -4960,9 +5871,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              706.5711669921875,
+              705.7130126953125,
               574.4884643554688,
-              716.5361938476562
+              716.7442626953125
             ]
           },
           {
@@ -4975,9 +5886,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              717.8316040039062,
+              716.973388671875,
               76.03895568847656,
-              727.796630859375
+              728.0046997070312
             ]
           },
           {
@@ -4990,9 +5901,9 @@
             "is_italic": false,
             "bbox": [
               315.2587585449219,
-              439.7305908203125,
+              438.87237548828125,
               350.61468505859375,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -5005,9 +5916,9 @@
             "is_italic": false,
             "bbox": [
               352.92645263671875,
-              439.7305908203125,
+              438.87237548828125,
               387.6645202636719,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -5020,9 +5931,9 @@
             "is_italic": false,
             "bbox": [
               390.1158447265625,
-              439.7305908203125,
+              438.87237548828125,
               435.8652648925781,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -5035,9 +5946,9 @@
             "is_italic": false,
             "bbox": [
               438.3165588378906,
-              439.7305908203125,
+              438.87237548828125,
               488.2812194824219,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -5050,9 +5961,9 @@
             "is_italic": false,
             "bbox": [
               490.8221435546875,
-              439.7305908203125,
+              438.87237548828125,
               519.441650390625,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -5065,9 +5976,9 @@
             "is_italic": false,
             "bbox": [
               521.9129638671875,
-              439.7305908203125,
+              438.87237548828125,
               574.5880126953125,
-              449.6955871582031
+              449.90362548828125
             ]
           },
           {
@@ -5080,9 +5991,9 @@
             "is_italic": true,
             "bbox": [
               491.6292724609375,
-              617.4306030273438,
+              616.5723876953125,
               552.0111694335938,
-              627.3956298828125
+              627.6036987304688
             ]
           },
           {
@@ -5095,9 +6006,9 @@
             "is_italic": false,
             "bbox": [
               554.2991333007812,
-              617.4306030273438,
+              616.5723876953125,
               574.5978393554688,
-              627.3956298828125
+              627.6036987304688
             ]
           },
           {
@@ -5110,9 +6021,9 @@
             "is_italic": false,
             "bbox": [
               391.1322021484375,
-              628.6910400390625,
+              627.8328857421875,
               439.8013916015625,
-              638.6560668945312
+              638.8641357421875
             ]
           },
           {
@@ -5125,9 +6036,9 @@
             "is_italic": false,
             "bbox": [
               443.17938232421875,
-              628.6910400390625,
+              627.8328857421875,
               470.244384765625,
-              638.6560668945312
+              638.8641357421875
             ]
           },
           {
@@ -5140,9 +6051,9 @@
             "is_italic": false,
             "bbox": [
               473.5227966308594,
-              628.6910400390625,
+              627.8328857421875,
               508.61956787109375,
-              638.6560668945312
+              638.8641357421875
             ]
           },
           {
@@ -5155,9 +6066,9 @@
             "is_italic": false,
             "bbox": [
               511.7983703613281,
-              628.6910400390625,
+              627.8328857421875,
               541.62353515625,
-              638.6560668945312
+              638.8641357421875
             ]
           },
           {
@@ -5170,9 +6081,9 @@
             "is_italic": false,
             "bbox": [
               544.79248046875,
-              628.6910400390625,
+              627.8328857421875,
               561.9122924804688,
-              638.6560668945312
+              638.8641357421875
             ]
           },
           {
@@ -5185,9 +6096,9 @@
             "is_italic": false,
             "bbox": [
               565.1708984375,
-              628.6910400390625,
+              627.8328857421875,
               571.8175659179688,
-              638.6560668945312
+              638.8641357421875
             ]
           }
         ]
@@ -5205,9 +6116,9 @@
             "is_italic": true,
             "bbox": [
               277.2799987792969,
-              281.4794006347656,
+              280.6211853027344,
               381.4443359375,
-              291.44439697265625
+              291.6524353027344
             ]
           },
           {
@@ -5220,9 +6131,9 @@
             "is_italic": false,
             "bbox": [
               229.58999633789062,
-              282.97100830078125,
+              282.2201843261719,
               276.9241027832031,
-              291.0150146484375
+              291.1892395019531
             ]
           },
           {
@@ -5235,9 +6146,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              309.0652160644531,
+              307.944580078125,
               153.55416870117188,
-              321.07122802734375
+              321.3312683105469
             ]
           },
           {
@@ -5250,9 +6161,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              325.7394104003906,
+              324.8811950683594,
               574.2843017578125,
-              335.70440673828125
+              335.9124450683594
             ]
           },
           {
@@ -5265,9 +6176,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              337.00982666015625,
+              336.151611328125,
               574.626953125,
-              346.9748229980469
+              347.182861328125
             ]
           },
           {
@@ -5280,9 +6191,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              348.270263671875,
+              347.41204833984375,
               420.0008544921875,
-              358.2352600097656
+              358.44329833984375
             ]
           },
           {
@@ -5295,9 +6206,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              376.0752258300781,
+              374.95458984375,
               145.5113525390625,
-              388.08123779296875
+              388.3412780761719
             ]
           },
           {
@@ -5310,9 +6221,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              392.7493896484375,
+              391.89117431640625,
               574.08984375,
-              402.7143859863281
+              402.92242431640625
             ]
           },
           {
@@ -5325,9 +6236,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              404.0198059082031,
+              403.1615905761719,
               574.0839233398438,
-              413.98480224609375
+              414.1928405761719
             ]
           },
           {
@@ -5340,9 +6251,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              415.2802429199219,
+              414.4220275878906,
               574.5902099609375,
-              425.2452392578125
+              425.4532775878906
             ]
           },
           {
@@ -5355,9 +6266,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              426.5406799316406,
+              425.6824645996094,
               74.46449279785156,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5370,9 +6281,9 @@
             "is_italic": false,
             "bbox": [
               77.03546142578125,
-              426.5406799316406,
+              425.6824645996094,
               84.7882308959961,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5385,9 +6296,9 @@
             "is_italic": false,
             "bbox": [
               87.34923553466797,
-              426.5406799316406,
+              425.6824645996094,
               141.37948608398438,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5400,9 +6311,9 @@
             "is_italic": false,
             "bbox": [
               143.98033142089844,
-              426.5406799316406,
+              425.6824645996094,
               175.34014892578125,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5415,9 +6326,9 @@
             "is_italic": false,
             "bbox": [
               178.02076721191406,
-              426.5406799316406,
+              425.6824645996094,
               203.3019561767578,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5430,9 +6341,9 @@
             "is_italic": false,
             "bbox": [
               205.95266723632812,
-              426.5406799316406,
+              425.6824645996094,
               231.0146484375,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5445,9 +6356,9 @@
             "is_italic": false,
             "bbox": [
               233.6653289794922,
-              426.5406799316406,
+              425.6824645996094,
               248.46334838867188,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5460,9 +6371,9 @@
             "is_italic": false,
             "bbox": [
               251.05426025390625,
-              426.5406799316406,
+              425.6824645996094,
               274.1531982421875,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5475,9 +6386,9 @@
             "is_italic": false,
             "bbox": [
               276.8337097167969,
-              426.5406799316406,
+              425.6824645996094,
               314.3221130371094,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5490,9 +6401,9 @@
             "is_italic": false,
             "bbox": [
               36.736968994140625,
-              437.81109619140625,
+              436.952880859375,
               319.5337829589844,
-              447.7760925292969
+              447.984130859375
             ]
           },
           {
@@ -5505,9 +6416,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              465.7052307128906,
+              464.5845947265625,
               116.08463287353516,
-              477.71124267578125
+              477.9712829589844
             ]
           },
           {
@@ -5520,9 +6431,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              482.37939453125,
+              481.52117919921875,
               574.5184936523438,
-              492.3443908691406
+              492.55242919921875
             ]
           },
           {
@@ -5535,9 +6446,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              493.6498107910156,
+              492.7915954589844,
               574.4964599609375,
-              503.61480712890625
+              503.8228454589844
             ]
           },
           {
@@ -5550,9 +6461,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              504.9102478027344,
+              504.0520324707031,
               574.5791015625,
-              514.875244140625
+              515.0833129882812
             ]
           },
           {
@@ -5565,9 +6476,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              516.1806640625,
+              515.322509765625,
               99.27733612060547,
-              526.1456909179688
+              526.353759765625
             ]
           },
           {
@@ -5580,9 +6491,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              537.7893676757812,
+              536.93115234375,
               574.56005859375,
-              547.75439453125
+              547.9624633789062
             ]
           },
           {
@@ -5595,9 +6506,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              549.059814453125,
+              548.20166015625,
               574.4974975585938,
-              559.0248413085938
+              559.23291015625
             ]
           },
           {
@@ -5610,9 +6521,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              560.3202514648438,
+              559.4620361328125,
               262.4541931152344,
-              570.2852783203125
+              570.4933471679688
             ]
           },
           {
@@ -5625,9 +6536,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              581.8193359375,
+              580.961181640625,
               574.540283203125,
-              591.7843627929688
+              591.992431640625
             ]
           },
           {
@@ -5640,9 +6551,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              593.1097412109375,
+              592.2515869140625,
               574.4865112304688,
-              603.0747680664062
+              603.2828369140625
             ]
           },
           {
@@ -5655,9 +6566,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              604.3701782226562,
+              603.511962890625,
               574.5560302734375,
-              614.335205078125
+              614.5432739257812
             ]
           },
           {
@@ -5670,9 +6581,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              615.630615234375,
+              614.7724609375,
               77.21482849121094,
-              625.5956420898438
+              625.8037109375
             ]
           },
           {
@@ -5685,9 +6596,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              643.5252685546875,
+              642.4046020507812,
               143.57838439941406,
-              655.53125
+              655.791259765625
             ]
           },
           {
@@ -5700,9 +6611,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              660.2093505859375,
+              659.3511962890625,
               574.280029296875,
-              670.1743774414062
+              670.3824462890625
             ]
           },
           {
@@ -5715,9 +6626,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              671.4698486328125,
+              670.6116943359375,
               574.575927734375,
-              681.4348754882812
+              681.6429443359375
             ]
           },
           {
@@ -5730,9 +6641,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              682.740234375,
+              681.882080078125,
               574.4882202148438,
-              692.7052612304688
+              692.913330078125
             ]
           },
           {
@@ -5745,9 +6656,9 @@
             "is_italic": false,
             "bbox": [
               36.73699951171875,
-              694.0006713867188,
+              693.1424560546875,
               453.4136047363281,
-              703.9656982421875
+              704.1737670898438
             ]
           },
           {
@@ -5760,9 +6671,9 @@
             "is_italic": false,
             "bbox": [
               316.89300537109375,
-              426.5406799316406,
+              425.6824645996094,
               346.7182922363281,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5775,9 +6686,9 @@
             "is_italic": false,
             "bbox": [
               349.2892150878906,
-              426.5406799316406,
+              425.6824645996094,
               359.3040771484375,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5790,9 +6701,9 @@
             "is_italic": false,
             "bbox": [
               361.875,
-              426.5406799316406,
+              425.6824645996094,
               386.6480712890625,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5805,9 +6716,9 @@
             "is_italic": false,
             "bbox": [
               389.0993957519531,
-              426.5406799316406,
+              425.6824645996094,
               427.33514404296875,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5820,9 +6731,9 @@
             "is_italic": false,
             "bbox": [
               429.98577880859375,
-              426.5406799316406,
+              425.6824645996094,
               488.32098388671875,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5835,9 +6746,9 @@
             "is_italic": false,
             "bbox": [
               490.80218505859375,
-              426.5406799316406,
+              425.6824645996094,
               498.5549621582031,
-              436.50567626953125
+              436.7137145996094
             ]
           },
           {
@@ -5850,9 +6761,9 @@
             "is_italic": false,
             "bbox": [
               501.1059875488281,
-              426.5406799316406,
+              425.6824645996094,
               574.458251953125,
-              436.50567626953125
+              436.7137145996094
             ]
           }
         ]

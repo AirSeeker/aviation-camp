@@ -23,11 +23,14 @@ HEADER_FOOTER_FRACTION = 0.05
 
 
 def safe_book_id(value: Any) -> str:
-    if not isinstance(value, str) or not value.strip():
+    if not isinstance(value, str):
         raise ValueError("book_id must be a non-empty string.")
-    if value in {".", ".."} or Path(value).name != value or not re.fullmatch(r"[A-Za-z0-9._-]+", value):
+    normalized = value.strip()
+    if not normalized:
+        raise ValueError("book_id must be a non-empty string.")
+    if normalized in {".", ".."} or Path(normalized).name != normalized or not re.fullmatch(r"[A-Za-z0-9._-]+", normalized):
         raise ValueError(f"Invalid book_id {value!r}; use letters, numbers, '.', '_' or '-'.")
-    return value
+    return normalized
 
 
 def validate_book_config(config: Any) -> dict[str, Any]:
@@ -91,7 +94,7 @@ def load_config(path: Path) -> list[dict[str, Any]]:
     if not books:
         raise ValueError("Configuration must contain at least one book.")
     validated = [validate_book_config(item) for item in books]
-    book_ids = [safe_book_id(item["book_id"]) for item in validated]
+    book_ids = [safe_book_id(item["book_id"]).casefold() for item in validated]
     if len(book_ids) != len(set(book_ids)):
         raise ValueError("Configuration contains duplicate book_id values.")
     return validated
@@ -482,12 +485,20 @@ def filter_books(books: list[dict[str, Any]], requested_ids: list[str] | None = 
     if not requested_ids:
         return books
 
-    requested_set = {safe_book_id(value) for value in requested_ids}
-    available_ids = {safe_book_id(book["book_id"]) for book in books}
-    missing = sorted(requested_set - available_ids)
+    normalized_books = {safe_book_id(book["book_id"]).casefold(): book for book in books}
+    ordered_requested: list[str] = []
+    requested_set: set[str] = set()
+    for value in requested_ids:
+        normalized = safe_book_id(value).casefold()
+        if normalized not in requested_set:
+            ordered_requested.append(normalized)
+            requested_set.add(normalized)
+
+    missing = sorted(requested_set - normalized_books.keys())
     if missing:
-        raise ValueError(f"Requested book_id values not found in manifest: {', '.join(missing)}")
-    return [book for book in books if safe_book_id(book["book_id"]) in requested_set]
+        missing_values = sorted({safe_book_id(value) for value in requested_ids if safe_book_id(value).casefold() in missing})
+        raise ValueError(f"Requested book_id values not found in manifest: {', '.join(missing_values)}")
+    return [normalized_books[key] for key in ordered_requested]
 
 
 def main(argv: list[str] | None = None) -> int:
