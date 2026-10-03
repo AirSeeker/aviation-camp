@@ -8,7 +8,7 @@ ranges.
 Run the processor from the repository root:
 
 ```bash
-python scripts/process_pdf_sections.py resources/library/library_manifest.json
+python scripts/parser_library.py resources/library/library_manifest.json
 ```
 
 Boundary page numbers refer to 1-based PDF pages and include both endpoints.

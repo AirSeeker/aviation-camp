@@ -1,0 +1,5852 @@
+{
+  "book_id": "EASA_SERA",
+  "book_title": "Easy Access Rules for Standardised European Rules of the Air (SERA)",
+  "pdf_path": "resources/library/EASA_SERA/EASA_SERA.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 21",
+    "start_page": 249,
+    "end_page": 258,
+    "pages": [
+      {
+        "page_number": 249,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              103.22000122070312,
+              118.51995849609375,
+              114.12799835205078,
+              136.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              170.4199981689453,
+              118.51995849609375,
+              179.54600524902344,
+              136.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "T",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              182.77999877929688,
+              118.51995849609375,
+              191.69000244140625,
+              136.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PPENDIX ",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              114.13999938964844,
+              121.12995910644531,
+              170.4630889892578,
+              135.64996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ECHNICAL SPECIFICATIONS RELATED TO AIRCRAFT ",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              191.66000366210938,
+              121.12995910644531,
+              495.3314208984375,
+              135.64996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "OBSERVATIONS AND REPORTS BY VOICE COMMUNICATIONS",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              114.86000061035156,
+              143.08998107910156,
+              480.4592590332031,
+              157.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A. ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              187.45999145507812,
+              84.1190414428711,
+              198.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "REPORTING INSTRUCTIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              187.45999145507812,
+              227.30503845214844,
+              198.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "MODEL AIREP SPECIAL ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              206.89999389648438,
+              176.9950408935547,
+              217.9399871826172
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "ITEM",
+                "PARAMETER",
+                "TRANSMIT IN TELEPHONY as appropriate"
+              ],
+              [
+                "─",
+                "Message-type\ndesignator\n─ special air-report",
+                "[AIREP] SPECIAL"
+              ]
+            ],
+            "bbox": [
+              102.42076147170295,
+              224.3599853515625,
+              523.2018432617188,
+              297.22998046875
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "Section 1",
+                "1",
+                "Aircraft identification",
+                "(aircraft identification)"
+              ],
+              [
+                null,
+                "2",
+                "Position",
+                "POSITION (latitude and longitude)"
+              ],
+              [
+                null,
+                null,
+                null,
+                "OVER (significant point)"
+              ],
+              [
+                null,
+                null,
+                null,
+                "ABEAM (significant point)"
+              ],
+              [
+                null,
+                null,
+                null,
+                "(significant point) (bearing) (distance)"
+              ],
+              [
+                null,
+                "3",
+                "Time",
+                "(time)"
+              ],
+              [
+                null,
+                "4",
+                "Level",
+                "FLIGHT LEVEL (number) or (number) METERS or FEET"
+              ],
+              [
+                null,
+                null,
+                null,
+                "CLIMBING TO FLIGHT LEVEL (number) or (number)\nMETERS or FEET"
+              ],
+              [
+                null,
+                null,
+                null,
+                "DESCENDING TO FLIGHT LEVEL (number) or (number)\nMETERS or FEET"
+              ],
+              [
+                null,
+                "5",
+                "Next position and\nestimated time over",
+                "(position) (time)"
+              ],
+              [
+                null,
+                "6",
+                "Ensuing significant point",
+                "(position) NEXT"
+              ],
+              [
+                "Section 2",
+                "7",
+                "Estimated time of arrival",
+                "(aerodrome) (time)"
+              ],
+              [
+                null,
+                "8",
+                "Endurance",
+                "ENDURANCE (hours and minutes)"
+              ],
+              [
+                "Section 3",
+                "9",
+                "Phenomenon\nencountered or\nobserved prompting a\nspecial air-report:",
+                ""
+              ],
+              [
+                null,
+                null,
+                "─ Moderate turbulence",
+                "TURBULENCE MODERATE"
+              ],
+              [
+                null,
+                null,
+                "─ Severe turbulence",
+                "TURBULENCE SEVERE"
+              ],
+              [
+                null,
+                null,
+                "─ Moderate icing",
+                "ICING MODERATE"
+              ]
+            ],
+            "bbox": [
+              72.01066483391656,
+              317.0419677734375,
+              523.2018432617188,
+              752.7839599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2024/1111 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              172.27999877929688,
+              524.992919921875,
+              179.24000549316406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 249 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 250,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                "",
+                "─ Severe icing",
+                "ICING SEVERE"
+              ],
+              [
+                null,
+                null,
+                "─ Severe mountain wave",
+                "MOUNTAIN WAVE SEVERE"
+              ],
+              [
+                null,
+                null,
+                "─ Thunderstorms\nwithout hail",
+                "THUNDERSTORMS"
+              ],
+              [
+                null,
+                null,
+                "─ Thunderstorms with\nhail",
+                "THUNDERSTORMS WITH HAIL"
+              ],
+              [
+                null,
+                null,
+                "─ Heavy dust/sandstorm",
+                "DUSTSTORM or SANDSTORM HEAVY"
+              ],
+              [
+                null,
+                null,
+                "─ Volcanic ash cloud",
+                "VOLCANIC ASH CLOUD"
+              ],
+              [
+                null,
+                null,
+                "─ Pre- eruption volcanic\nactivity or volcanic\neruption",
+                "PRE-ERUPTION VOLCANIC ACTIVITY or VOLCANIC\nERUPTION"
+              ],
+              [
+                null,
+                null,
+                "",
+                ""
+              ],
+              [
+                null,
+                null,
+                "Runway braking action",
+                ""
+              ],
+              [
+                null,
+                null,
+                "• Good",
+                "GOOD"
+              ],
+              [
+                null,
+                null,
+                "• Good to medium",
+                "GOOD TO MEDIUM"
+              ],
+              [
+                null,
+                null,
+                "• Medium",
+                "MEDIUM"
+              ],
+              [
+                null,
+                null,
+                "• Medium to poor",
+                "MEDIUM TO POOR"
+              ],
+              [
+                null,
+                null,
+                "• Poor",
+                "POOR"
+              ],
+              [
+                null,
+                null,
+                "• Less than poor",
+                "LESS THAN POOR"
+              ]
+            ],
+            "bbox": [
+              72.00899815559387,
+              115.0519775390625,
+              523.1950244903564,
+              467.87798461914065
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              489.54998779296875,
+              83.0390396118164,
+              500.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CONTENTS OF AIR-REPORTS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              489.54998779296875,
+              230.30503845214844,
+              500.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.1. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              508.9900207519531,
+              119.5150375366211,
+              520.030029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Position reports and special air-reports ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              508.9900207519531,
+              304.9450378417969,
+              520.030029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.1.1. Section 1 of the model set out in point A is obligatory for position reports and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              528.429931640625,
+              525.804443359375,
+              539.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "special air-reports, although Items 5 and 6 thereof may be omitted. Section 2 shall ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              541.8699951171875,
+              525.7203979492188,
+              552.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be added, in whole or in part, only when so requested by the operator or its ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              555.3099365234375,
+              525.5708618164062,
+              566.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "designated representative, or when deemed necessary by the pilot-in-command. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              568.7499389648438,
+              525.9111938476562,
+              579.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 3 shall be included in special air-reports. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              582.18994140625,
+              374.9250183105469,
+              593.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.1.2. Condition prompting the issuance of a special air-report are to be selected from ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              601.6299438476562,
+              525.79052734375,
+              612.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the list presented in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              615.0699462890625,
+              275.0072021484375,
+              626.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.12005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              274.9700012207031,
+              615.0699462890625,
+              328.4367370605469,
+              626.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.1.3. In the case of special air-reports containing information on volcanic activity, a postflight report shall be made using the volcanic activity reporting form (Model VAR) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              634.3899536132812,
+              523.5582275390625,
+              645.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "set out in point B. All elements which are observed shall be recorded and indicated ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              661.2999267578125,
+              525.8470458984375,
+              672.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "respectively in the appropriate places on the form Model VAR. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              674.739990234375,
+              438.64501953125,
+              685.780029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.1.4. Special air-reports shall be issued as soon as practicable after a phenomenon ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              694.179931640625,
+              525.7410888671875,
+              705.219970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "calling for a special air-report has been observed. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              707.6199340820312,
+              379.72503662109375,
+              718.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2. ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              727.0599365234375,
+              83.0390396118164,
+              738.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "DETAILED REPORTING INSTRUCTIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              727.0599365234375,
+              274.1050109863281,
+              738.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              328.510009765625,
+              615.0699462890625,
+              345.64501953125,
+              626.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 250 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 251,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.1. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              117.01998901367188,
+              119.5150375366211,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Items of an air-report shall be reported in the order in which they are listed in the model ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              117.01998901367188,
+              525.7703247070312,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIREP SPECIAL form. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              130.45999145507812,
+              222.6250457763672,
+              141.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              149.89999389648438,
+              138.6511993408203,
+              160.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "MESSAGE TYPE DESIGNATOR. Report “SPECIAL” for a special air-report. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.66000366210938,
+              149.89999389648438,
+              466.7550354003906,
+              160.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 1 ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              100.33999633789062,
+              169.22000122070312,
+              144.1150360107422,
+              180.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 1",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              188.66000366210938,
+              130.15904235839844,
+              199.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – AIRCRAFT IDENTIFICATION. Report the aircraft radiotelephony call sign as prescribed ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.10000610351562,
+              188.66000366210938,
+              525.7347412109375,
+              199.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              202.10000610351562,
+              137.2467041015625,
+              213.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.14050",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              137.3000030517578,
+              202.10000610351562,
+              190.6342315673828,
+              213.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              190.6999969482422,
+              202.10000610351562,
+              195.8350372314453,
+              213.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 2",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              221.54000854492188,
+              129.91615295410156,
+              232.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – POSITION. Report position in latitude (degrees as 2 numerics or degrees and minutes ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.97999572753906,
+              221.54000854492188,
+              525.621826171875,
+              232.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as 4 numerics, followed by “North” or “South”) and longitude (degrees as 3 numerics or degrees ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              234.98001098632812,
+              525.6890869140625,
+              246.02000427246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and minutes as 5 numerics followed by “East” or “West”), or as a significant point identified by ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              248.42001342773438,
+              525.8451538085938,
+              259.46002197265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a coded designator (2 to 5 characters), or as a significant point followed by magnetic bearing (3 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              261.8599548339844,
+              525.7662353515625,
+              272.89996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "numerics) and distance in nautical miles from the point. Precede significant point with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              275.3299865722656,
+              525.711181640625,
+              286.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“ABEAM”, if applicable. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              288.7699890136719,
+              207.50503540039062,
+              299.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 3",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              308.0899963378906,
+              130.75518798828125,
+              319.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – TIME. Report time in hours and minutes UTC (4 numerics) unless reporting time in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.6999969482422,
+              308.0899963378906,
+              525.648193359375,
+              319.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minutes past the hour (2 numerics) is prescribed on the basis of regional air navigation ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              321.5299987792969,
+              525.6118774414062,
+              332.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "agreements. The time reported must be the actual time of the aircraft at the position and not ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              334.969970703125,
+              525.8886108398438,
+              346.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the time of origination or transmission of the report. Time shall always be reported in hours and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              348.40997314453125,
+              525.7553100585938,
+              359.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minutes UTC when issuing a special air-report. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              361.8499755859375,
+              309.7450256347656,
+              372.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 4",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              381.28997802734375,
+              131.47279357910156,
+              392.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – FLIGHT LEVEL OR ALTITUDE. Report flight level by 3 numerics when on standard ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              131.5399932861328,
+              381.28997802734375,
+              525.619384765625,
+              392.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressure altimeter setting. Report altitude in metres followed by “METRES” or in feet followed ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              394.72998046875,
+              525.5787963867188,
+              405.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by “FEET” when on QNH. Report “CLIMBING” (followed by the level) when climbing or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              408.16998291015625,
+              525.9150390625,
+              419.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“DESCENDING” (followed by the level) when descending to a new level after passing the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              421.6099853515625,
+              525.6338500976562,
+              432.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "significant point. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              435.04998779296875,
+              177.23504638671875,
+              446.0899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 5",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              454.3699951171875,
+              129.78367614746094,
+              465.4100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – NEXT POSITION AND ESTIMATED TIME OVER. Report the next reporting point and the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.86000061035156,
+              454.3699951171875,
+              525.60400390625,
+              465.4100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "estimated time over such reporting point, or report the estimated position that will be reached ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              467.8299865722656,
+              525.711181640625,
+              478.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "one hour later, according to the position reporting procedures in force. Use the data ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              481.2699890136719,
+              525.8992309570312,
+              492.30999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conventions specified in Item 2 for position. Report the estimated time over this position. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              494.7099914550781,
+              525.5455932617188,
+              505.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Report time in hours and minutes UTC (4 numerics) unless reporting time in minutes past the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              508.1499938964844,
+              525.6227416992188,
+              519.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hour (2 numerics) as prescribed by regional air navigation agreements. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              521.5899658203125,
+              418.3650207519531,
+              532.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 6",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              541.0299682617188,
+              129.57391357421875,
+              552.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – ENSUING SIGNIFICANT POINT. Report the ensuing significant point following the “next ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.6199951171875,
+              541.0299682617188,
+              525.7658081054688,
+              552.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "position and estimated time over”. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              554.469970703125,
+              258.7450256347656,
+              565.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 2 ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              100.33999633789062,
+              573.909912109375,
+              144.1150360107422,
+              584.949951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 7",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              593.3499755859375,
+              129.4524688720703,
+              604.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – ESTIMATED TIME OF ARRIVAL. Report the name of the aerodrome of the first intended ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.3800048828125,
+              593.3499755859375,
+              525.7951049804688,
+              604.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "landing, followed by the estimated time of arrival at this aerodrome in hours and minutes UTC ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              606.669921875,
+              525.5454711914062,
+              617.7099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4 numerics). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              620.1099853515625,
+              161.51504516601562,
+              631.1500244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 8",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              639.5499267578125,
+              130.03759765625,
+              650.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – ENDURANCE. Report “ENDURANCE” followed by fuel/energy endurance in hours and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.97999572753906,
+              639.5499267578125,
+              525.707275390625,
+              650.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minutes (4 numerics). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              653.0199584960938,
+              200.30503845214844,
+              664.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 3 ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              100.33999633789062,
+              672.4599609375,
+              144.1150360107422,
+              683.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 9",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              100.33999633789062,
+              691.8999633789062,
+              131.47279357910156,
+              702.9400024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – PHENOMENON PROMPTING A SPECIAL AIR-REPORT. Report one of the following ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              131.5399932861328,
+              691.8999633789062,
+              525.798095703125,
+              702.9400024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "phenomena encountered or observed: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              705.3399658203125,
+              275.6650390625,
+              716.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              724.7799682617188,
+              128.33119201660156,
+              735.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moderate turbulence as “TURBULENCE MODERATE” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              724.7799682617188,
+              372.7650146484375,
+              735.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe turbulence as “TURBULENCE SEVERE” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              744.2159423828125,
+              332.08502197265625,
+              755.2559814453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 251 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 252,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The following specifications apply: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              117.01998901367188,
+              312.9850158691406,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              136.45999145507812,
+              167.09120178222656,
+              147.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moderate – Conditions in which moderate changes in aircraft attitude and/or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              136.45999145507812,
+              525.7308349609375,
+              147.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "altitude may occur but the aircraft remains in positive control at all times. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              149.77999877929688,
+              525.6641235351562,
+              160.8199920654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Usually, small variations in airspeed. Changes in accelerometer readings of 0,5 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              163.22000122070312,
+              525.7192993164062,
+              174.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "g to 1,0 g at the aircraft’s centre of gravity. Difficulty in walking. Occupants feel ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              176.66000366210938,
+              525.8187255859375,
+              187.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "strain against seat belts. Loose objects move about. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              190.10000610351562,
+              408.1650390625,
+              201.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              209.54000854492188,
+              167.09120178222656,
+              220.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe – Conditions in which abrupt changes in aircraft attitude and/or altitude ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              209.54000854492188,
+              525.835693359375,
+              220.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occur; aircraft may be out of control for short periods. Usually, large variations ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              222.98001098632812,
+              525.7415161132812,
+              234.02000427246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in airspeed. Changes in accelerometer readings greater than 1,0 g at the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              236.42001342773438,
+              525.6640014648438,
+              247.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft’s centre of gravity. Occupants are forced violently against seat belts. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              249.85995483398438,
+              525.7156372070312,
+              260.89996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loose objects are tossed about. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              263.2999572753906,
+              318.9850158691406,
+              274.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              282.7699890136719,
+              128.33119201660156,
+              293.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moderate icing as “ICING MODERATE” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              282.7699890136719,
+              310.34503173828125,
+              293.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe icing as “ICING SEVERE” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              302.2099914550781,
+              269.6650390625,
+              313.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The following specifications apply: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              321.5299987792969,
+              312.9850158691406,
+              332.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              340.969970703125,
+              167.09120178222656,
+              352.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moderate – Conditions in which change of heading and/or altitude may be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              340.969970703125,
+              525.7257080078125,
+              352.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "considered desirable. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              354.40997314453125,
+              273.2650146484375,
+              365.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              373.8499755859375,
+              167.09120178222656,
+              384.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe – Conditions in which immediate change of heading and/or altitude is ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              373.8499755859375,
+              525.7669067382812,
+              384.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "considered essential. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              387.28997802734375,
+              271.58502197265625,
+              398.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              406.72998046875,
+              128.33119201660156,
+              417.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe mountain wave as “MOUNTAIN WAVE SEVERE” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              406.72998046875,
+              383.4450378417969,
+              417.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The following specification applies: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              426.16998291015625,
+              287.5450134277344,
+              437.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              445.6099853515625,
+              167.09120178222656,
+              456.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe – Conditions in which the accompanying downdraft is 3,0 m/s (600 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              445.6099853515625,
+              525.7175903320312,
+              456.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ft/min) or more and/or severe turbulence is encountered. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              459.0699768066406,
+              436.4850158691406,
+              470.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              478.5099792480469,
+              128.33119201660156,
+              489.54998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorm without hail as “THUNDERSTORM” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              478.5099792480469,
+              360.5250244140625,
+              489.54998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorm with hail as “THUNDERSTORM WITH HAIL” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              497.8299865722656,
+              388.0050354003906,
+              508.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The following specification applies: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              517.2699584960938,
+              315.9850158691406,
+              528.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Only report those thunderstorms which are: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              536.7099609375,
+              357.0450134277344,
+              547.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              556.1499633789062,
+              167.09120178222656,
+              567.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "obscured in haze, or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              556.1499633789062,
+              267.9850158691406,
+              567.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              575.5899658203125,
+              167.09120178222656,
+              586.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "embedded in cloud, or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              575.5899658203125,
+              278.6650390625,
+              586.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              595.0299682617188,
+              167.09120178222656,
+              606.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "widespread, or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              595.0299682617188,
+              244.5850372314453,
+              606.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              614.469970703125,
+              167.09120178222656,
+              625.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forming a squall line. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.10000610351562,
+              614.469970703125,
+              270.8650207519531,
+              625.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              633.9099731445312,
+              128.33119201660156,
+              644.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heavy duststorm or sandstorm as “DUSTSTORM HEAVY” or “SANDSTORM HEAVY” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              633.9099731445312,
+              505.6350402832031,
+              644.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              653.3799438476562,
+              128.33119201660156,
+              664.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Volcanic ash cloud as “VOLCANIC ASH CLOUD” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              653.3799438476562,
+              346.0050354003906,
+              664.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              672.699951171875,
+              128.33119201660156,
+              683.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pre-eruption volcanic activity or a volcanic eruption as “PREERUPTION VOLCANIC ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              672.699951171875,
+              525.7088012695312,
+              683.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ACTIVITY” or “VOLCANIC ERUPTION” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              686.1399536132812,
+              302.5450134277344,
+              697.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The following specification applies: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              705.5799560546875,
+              315.9850158691406,
+              716.6199951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“Pre-eruption volcanic activity” in this context means unusual and/or increasing ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              725.0199584960938,
+              525.6588134765625,
+              736.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "volcanic activity which could presage a volcanic eruption. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              738.4559326171875,
+              414.8850402832031,
+              749.4959716796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              757.8959350585938,
+              128.33119201660156,
+              768.9359741210938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Good braking action as “BRAKING ACTION GOOD” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              757.8959350585938,
+              361.84503173828125,
+              768.9359741210938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 252 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 253,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              117.01998901367188,
+              128.33119201660156,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Good to medium braking action as “BRAKING ACTION GOOD TO MEDIUM” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              117.01998901367188,
+              471.9150390625,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              136.45999145507812,
+              128.33119201660156,
+              147.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Medium braking action as “BRAKING ACTION MEDIUM” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              136.45999145507812,
+              387.7650146484375,
+              147.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              155.89999389648438,
+              128.33119201660156,
+              166.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Medium to poor braking action as “BRAKING ACTION MEDIUM TO POOR” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              155.89999389648438,
+              467.3550109863281,
+              166.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              175.22000122070312,
+              128.33119201660156,
+              186.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Poor braking action as “BRAKING ACTION POOR” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              175.22000122070312,
+              356.6850280761719,
+              186.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              194.66000366210938,
+              128.33119201660156,
+              205.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Less than poor braking action as “BRAKING ACTION LESS THAN POOR” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              194.66000366210938,
+              451.72503662109375,
+              205.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The following specifications apply: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              214.10000610351562,
+              312.9850158691406,
+              225.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Good – Braking deceleration is normal for the wheel braking effort applied, and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              233.54000854492188,
+              525.6492919921875,
+              244.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "directional control is normal. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              246.98001098632812,
+              288.6250305175781,
+              258.02001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Good to medium – Braking deceleration or directional control is between good and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              266.4200134277344,
+              525.7988891601562,
+              277.46002197265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "medium. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              279.8899841308594,
+              199.5850372314453,
+              290.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Medium – Braking deceleration is noticeably reduced for the wheel braking effort ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              299.3299865722656,
+              525.7022705078125,
+              310.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "applied, or directional control is noticeably reduced. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              312.7699890136719,
+              392.8050231933594,
+              323.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Medium to poor – Braking deceleration or directional control is between medium ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              332.0899963378906,
+              525.7326049804688,
+              343.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and poor. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              345.5299987792969,
+              202.94503784179688,
+              356.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Poor – Braking deceleration is significantly reduced for the wheel braking effort ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              364.969970703125,
+              525.6837158203125,
+              376.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "applied, or directional control is significantly reduced. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              378.40997314453125,
+              399.405029296875,
+              389.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Less than poor – Braking deceleration is minimal to non-existent for the wheel ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              397.8499755859375,
+              525.8297729492188,
+              408.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "braking effort applied, or directional control is uncertain. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              411.28997802734375,
+              413.6850280761719,
+              422.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              430.72998046875,
+              116.75504302978516,
+              441.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information recorded on the volcanic activity reporting form (Model VAR) is not for ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              430.72998046875,
+              525.5921020507812,
+              441.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transmission by RTF but, on arrival at an aerodrome, is to be delivered without delay by ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              444.16998291015625,
+              525.6363525390625,
+              455.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the operator or a flight crew member to the aerodrome meteorological office. If such an ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              457.6299743652344,
+              525.9371337890625,
+              468.66998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "office is not easily accessible, the completed form shall be delivered in accordance with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              471.0699768066406,
+              525.6473999023438,
+              482.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "local arrangements agreed upon between MET and ATS providers and the aircraft ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              484.3899841308594,
+              525.6251831054688,
+              495.42999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "operator. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              497.8299865722656,
+              173.39503479003906,
+              508.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3. ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              517.2699584960938,
+              83.0390396118164,
+              528.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FORWARDING OF METEOROLOGICAL INFORMATION RECEIVED BY VOICE COMMUNICATIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              517.2699584960938,
+              525.9150390625,
+              528.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When receiving special air-reports, ATS units shall forward these air-reports without delay to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              536.7099609375,
+              525.8370971679688,
+              547.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the associated meteorological watch office (MWO). In order to ensure assimilation of airreports in ground-based automated systems, the elements of such reports shall be transmitted ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              550.1499633789062,
+              523.5582275390625,
+              561.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "using the data conventions specified below and in the order prescribed. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              577.0299682617188,
+              423.0450134277344,
+              588.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              596.469970703125,
+              128.33119201660156,
+              607.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADDRESSEE. Record the station called and, when necessary, relay required. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              596.469970703125,
+              474.4350280761719,
+              607.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              615.9099731445312,
+              128.33119201660156,
+              626.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "MESSAGE TYPE DESIGNATOR. Record “ARS” for a special air-report. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              615.9099731445312,
+              438.8850402832031,
+              626.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              635.3499755859375,
+              128.33119201660156,
+              646.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRCRAFT IDENTIFICATION. Record the aircraft identification using the data convention ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              635.3499755859375,
+              525.87158203125,
+              646.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specified for Item 7 of the flight plan, without a space between the operator’s ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              648.699951171875,
+              525.621337890625,
+              659.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "designator and the aircraft registration or flight identification, if used. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              662.1399536132812,
+              449.8050231933594,
+              673.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 1 ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              100.33999633789062,
+              681.5799560546875,
+              144.1150360107422,
+              692.6199951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 0",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              701.0199584960938,
+              129.91615295410156,
+              712.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – POSITION. Record position in latitude (degrees as 2 numerics or degrees and minutes ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.86000061035156,
+              701.0199584960938,
+              525.6453857421875,
+              712.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as 4 numerics, followed, without a space, by N or S) and longitude (degrees as 3 numerics or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              714.4599609375,
+              525.5784912109375,
+              725.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "degrees and minutes as 5 numerics, followed without a space by E or W), or as a significant ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              727.8999633789062,
+              525.8978271484375,
+              738.9400024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "point identified by a coded designator (2 to 5 characters), or as a significant point followed by ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              741.3359375,
+              525.6559448242188,
+              752.3759765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 253 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 254,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetic bearing (3 numerics) and distance in nautical miles (3 numerics) from the point. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              117.01998901367188,
+              525.5787353515625,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precede significant point with “ABEAM”, if applicable. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              130.45999145507812,
+              342.8850402832031,
+              141.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 1",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              149.89999389648438,
+              129.68431091308594,
+              160.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – TIME. Record time in hours and minutes UTC (4 numerics). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.74000549316406,
+              149.89999389648438,
+              404.08502197265625,
+              160.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 2",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              169.22000122070312,
+              130.15904235839844,
+              180.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – FLIGHT LEVEL OR ALTITUDE. Record “F” followed by 3 numerics (e.g. “F310”) when a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.10000610351562,
+              169.22000122070312,
+              525.5704956054688,
+              180.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight level is reported. Record altitude in metres followed by “M” or in feet followed by “FT” ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              182.66000366210938,
+              525.57861328125,
+              193.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when an altitude is reported. Record “ASC” (level) when climbing or “DES” (level) when ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              196.10000610351562,
+              525.8939208984375,
+              207.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "descending. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              209.54000854492188,
+              156.35504150390625,
+              220.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 3 ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              100.33999633789062,
+              228.98001098632812,
+              144.1150360107422,
+              240.02000427246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 9",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              248.42001342773438,
+              129.08815002441406,
+              259.46002197265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": " – PHENOMENON PROMPTING A SPECIAL AIR-REPORT. Record the phenomenon reported ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.13999938964844,
+              248.42001342773438,
+              525.8610229492188,
+              259.46002197265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as follows: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              261.8599548339844,
+              149.9950408935547,
+              272.89996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              281.3299865722656,
+              128.33119201660156,
+              292.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moderate turbulence as “TURB MOD”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              281.3299865722656,
+              311.0650329589844,
+              292.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              300.7699890136719,
+              128.33119201660156,
+              311.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "severe turbulence as “TURB SEV”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              300.7699890136719,
+              289.70501708984375,
+              311.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              320.2099914550781,
+              128.33119201660156,
+              331.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moderate icing as “ICE MOD”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              320.2099914550781,
+              272.6650390625,
+              331.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              339.5299987792969,
+              128.33119201660156,
+              350.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "severe icing as “ICE SEV”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              339.5299987792969,
+              251.18504333496094,
+              350.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              358.969970703125,
+              128.33119201660156,
+              370.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "severe mountain wave as “MTW SEV”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              358.969970703125,
+              310.46502685546875,
+              370.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              378.40997314453125,
+              128.33119201660156,
+              389.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm without hail as “TS”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              378.40997314453125,
+              294.5050354003906,
+              389.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              397.8499755859375,
+              128.33119201660156,
+              408.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm with hail as “TSGR”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              397.8499755859375,
+              292.22503662109375,
+              408.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              417.28997802734375,
+              128.33119201660156,
+              428.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heavy sandstorm as “HVY SS”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              417.28997802734375,
+              272.905029296875,
+              428.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              436.72998046875,
+              128.33119201660156,
+              447.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heavy duststorm as “HVY DS”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              436.72998046875,
+              273.0250244140625,
+              447.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              456.16998291015625,
+              128.33119201660156,
+              467.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "volcanic ash cloud as “VA CLD”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              456.16998291015625,
+              278.7850341796875,
+              467.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              475.6299743652344,
+              128.33119201660156,
+              486.66998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pre-eruption volcanic activity or a volcanic eruption as “VA”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              475.6299743652344,
+              408.1650390625,
+              486.66998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              495.0699768066406,
+              128.33119201660156,
+              506.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hail as “GR”, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              495.0699768066406,
+              194.39503479003906,
+              506.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "—",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.33999633789062,
+              514.5099487304688,
+              128.33119201660156,
+              525.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cumulonimbus clouds as “CB”. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.33999633789062,
+              514.5099487304688,
+              274.82501220703125,
+              525.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "TIME TRANSMITTED. Record only when Section 3 is transmitted. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              533.8299560546875,
+              389.9250183105469,
+              544.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4. ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              553.2699584960938,
+              83.0390396118164,
+              564.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SPECIFIC PROVISIONS RELATED TO REPORTING WIND SHEAR AND VOLCANIC ASH ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              553.2699584960938,
+              472.5150146484375,
+              564.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.1. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              572.7099609375,
+              119.5150375366211,
+              583.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Reporting of wind shear ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              572.7099609375,
+              238.4650421142578,
+              583.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.1.1. When reporting aircraft observations of wind shear encountered during the climbout and approach phases of flight, the aircraft type shall be included. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              592.1499633789062,
+              523.5582275390625,
+              603.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.1.2. Where wind shear conditions in the climb-out or approach phases of flight were ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              625.0299682617188,
+              525.7875366210938,
+              636.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reported or forecast but not encountered, the pilot-in-command shall advise the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              638.469970703125,
+              525.829345703125,
+              649.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate air traffic services unit as soon as practicable unless the pilot-incommand is aware that the appropriate air traffic services unit has already been ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              651.93994140625,
+              523.438232421875,
+              662.97998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "so advised by a preceding aircraft. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              678.8199462890625,
+              311.905029296875,
+              689.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.2. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              698.1399536132812,
+              119.5150375366211,
+              709.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Post-flight reporting of volcanic activity ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              698.1399536132812,
+              306.6250305175781,
+              709.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.2.1. On arrival of a flight at an aerodrome, the completed report of volcanic activity ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              717.5799560546875,
+              525.5930786132812,
+              728.6199951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall be delivered by the aircraft operator or a flight crew member, without delay, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              731.0199584960938,
+              525.91455078125,
+              742.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the aerodrome meteorological office, or if such office is not easily accessible to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              744.4559326171875,
+              525.5822143554688,
+              755.4959716796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "arriving flight crew members, the completed form shall be dealt with in accordance ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              757.8959350585938,
+              525.7916870117188,
+              768.9359741210938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 254 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 255,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with local arrangements agreed upon between MET and ATS providers and the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              117.01998901367188,
+              525.6923217773438,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft operator. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              130.45999145507812,
+              236.7850341796875,
+              141.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.2.2. The completed report of volcanic activity received by an aerodrome ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              149.77999877929688,
+              525.6925659179688,
+              160.8199920654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "meteorological office shall be transmitted without delay to the meteorological ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              163.22000122070312,
+              525.5819702148438,
+              174.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "watch office responsible for the provision of meteorological watch for the flight ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              176.66000366210938,
+              525.5932006835938,
+              187.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information region in which the volcanic activity was observed. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              190.10000610351562,
+              441.1650390625,
+              201.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 255 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 256,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "B. ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              117.01998901367188,
+              83.6390380859375,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SPECIAL AIR-REPORT OF VOLCANIC ACTIVITY FORM (MODEL VAR) ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              117.01998901367188,
+              401.9250183105469,
+              128.0599822998047
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/EASA_SERA_p256_b11.png",
+            "bbox": [
+              72.0,
+              134.24200439453125,
+              523.2999877929688,
+              742.7420043945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 256 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 257,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 to Appendix 5 (2 — Section 1)  DETAILED REPORTING ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              118.12997436523438,
+              461.8512268066406,
+              134.08998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "INSTRUCTIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              137.56997680664062,
+              174.98696899414062,
+              153.5299835205078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "POSITION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              170.62997436523438,
+              114.7109603881836,
+              180.58998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Example: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              188.77999877929688,
+              115.43504333496094,
+              199.8199920654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "‘4620North07805West’, ‘4620North07800West’, ‘4600North07800West’, LN (‘LIMA NOVEMBER’), ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              208.22000122070312,
+              525.5361328125,
+              219.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "‘MAY’, ‘HADDY’ or ‘DUB 180 DEGREES 40 MILES’ ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              221.66000366210938,
+              289.82501220703125,
+              232.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 to Appendix 5 (2 — Section 1)  DETAILED REPORTING ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              254.20999145507812,
+              461.8512268066406,
+              270.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "INSTRUCTIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              273.6799621582031,
+              174.98696899414062,
+              289.63995361328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FLIGHT LEVEL OR ALTITUDE ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              306.7399597167969,
+              187.3109588623047,
+              316.699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Example:  ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              324.8899841308594,
+              117.95503997802734,
+              335.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "‘FLIGHT LEVEL 310’ ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              344.3299865722656,
+              159.5950469970703,
+              355.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 to Appendix 5 (2 — Section 3)  DETAILED REPORTING ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              376.8799743652344,
+              461.8512268066406,
+              392.8399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "INSTRUCTIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              396.4399719238281,
+              174.98696899414062,
+              412.39996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PHENOMENON PROMPTING A SPECIAL AIR-REPORT - VOLCANIC ASH CLOUD, PRE-ERUPTION VOLCANIC ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              429.3799743652344,
+              501.9459533691406,
+              439.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ACTIVITY, OR VOLCANIC ERUPTION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              441.6199951171875,
+              219.8609619140625,
+              451.5799865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In case of volcanic ash cloud, pre-eruption volcanic activity, or volcanic eruption, in accordance with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              459.78997802734375,
+              525.71533203125,
+              470.8299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.12005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              473.22998046875,
+              125.49073791503906,
+              484.2699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", a post-flight report should also be made on the special air-report of volcanic activity form ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              125.54000091552734,
+              473.22998046875,
+              525.8509521484375,
+              484.2699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(Model VAR). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              486.66998291015625,
+              134.0350341796875,
+              497.7099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 to Appendix 5 (3)  FORWARDING OF METEOROLOGICAL ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              519.219970703125,
+              479.1689147949219,
+              535.179931640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "INFORMATION RECEIVED BY VOICE COMMUNICATIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              538.780029296875,
+              443.95697021484375,
+              554.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRCRAFT IDENTIFICATION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              571.719970703125,
+              185.0309600830078,
+              581.679931640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Example: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              589.989990234375,
+              115.43504333496094,
+              601.030029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "‘New Zealand 103’ as ‘ANZ103’ ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              609.3099365234375,
+              212.7850341796875,
+              620.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 to Appendix 5 (3 — Section 1)  FORWARDING OF ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              641.8599853515625,
+              432.963623046875,
+              657.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "METEOROLOGICAL INFORMATION RECEIVED BY VOICE ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              661.4500122070312,
+              437.23681640625,
+              677.4099731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "COMMUNICATIONS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              681.010009765625,
+              207.41696166992188,
+              696.969970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "POSITION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              713.9500122070312,
+              114.7109603881836,
+              723.9099731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Example: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              732.219970703125,
+              115.43504333496094,
+              743.260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "‘4620N07805W’, ‘4620N078W’, ‘46N078W’, ‘LN’, ‘MAY’, ‘HADDY’ or ‘DUB180040’. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              751.5359497070312,
+              442.4850158691406,
+              762.5759887695312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              155.35995483398438,
+              526.5529174804688,
+              162.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              291.4700012207031,
+              526.5529174804688,
+              298.42999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              414.22998046875,
+              526.5529174804688,
+              421.1899719238281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              556.5700073242188,
+              526.5529174804688,
+              563.5299682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              698.800048828125,
+              526.5529174804688,
+              705.760009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 257 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 258,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 to Appendix 5 (1.1.4 and 2.1)  SPECIAL AIR-REPORTS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              118.12997436523438,
+              456.19696044921875,
+              134.08998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Examples of special air reports by voice communication ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              151.10000610351562,
+              322.34503173828125,
+              162.13999938964844
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "AS SPOKEN IN RADIOTELEPHONY",
+                null,
+                null,
+                "",
+                "AS RECORDED BY THE AIR TRAFFIC SERVICES UNIT",
+                ""
+              ],
+              [
+                null,
+                null,
+                null,
+                null,
+                "AND FORWARDED TO THE METEOROLOGICAL",
+                null
+              ],
+              [
+                null,
+                null,
+                null,
+                null,
+                "OFFICE CONCERNED",
+                null
+              ],
+              [
+                "",
+                "I.-1 AIREP SPECIAL CLIPPER WUN ZERO WUN",
+                "",
+                "I.- ARS PAA101 5045N02015W 1536 F310 ASC F350\nTSGR",
+                "I.- ARS PAA101 5045N02015W 1536 F310 ASC F350",
+                null
+              ],
+              [
+                null,
+                "POSITION FIFE ZERO FOWer FIFE NORTH ZERO TOO",
+                null,
+                null,
+                "TSGR",
+                null
+              ],
+              [
+                null,
+                "ZERO WUN FIFE WEST WUN FIFE TREE SIX FLIGHT",
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "LEVEL TREE WUN ZERO CLIMBING TO FLIGHT LEVEL",
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "TREE FIFE ZERO THUNDERSTORMS WITH HAIL",
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                "",
+                "II.-2 SPECIAL NIUGINI TOO SEVen TREE OVER",
+                "",
+                "II.- ARS ANG273 MD 0846 19000FT TURB SEV",
+                null,
+                null
+              ],
+              [
+                null,
+                "MADANG ZERO AIT FOWer SIX WUN NINer",
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "TOUSAND FEET TURBULENCE SEVERE",
+                null,
+                null,
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              72.96399943033855,
+              169.9356951032366,
+              525.4859856499565,
+              310.4161588228666
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Calibri",
+            "font_size": 5.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              739.7159423828125,
+              74.57928466796875,
+              744.7559814453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A special air-report which is required because of the occurrence of widespread thunderstorms with hail. ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              86.18399810791016,
+              739.9859619140625,
+              425.967041015625,
+              748.0260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2",
+            "font_name": "Calibri",
+            "font_size": 5.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              755.4359741210938,
+              74.57928466796875,
+              760.4760131835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A special air-report which is required because of severe turbulence. The aircraft is on QNH altimeter setting ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              86.18399810791016,
+              755.7059326171875,
+              436.8870544433594,
+              763.7459716796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 5 Technical ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              448.2699890136719,
+              54.80999755859375,
+              527.1640625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifications related to aircraft ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              409.0299987792969,
+              65.8499755859375,
+              527.1371459960938,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observations and reports by voice ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              402.9100036621094,
+              76.76995849609375,
+              527.1282958984375,
+              85.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              465.1000061035156,
+              87.8299560546875,
+              527.2539672851562,
+              96.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              135.91995239257812,
+              526.5529174804688,
+              142.8799591064453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 258 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

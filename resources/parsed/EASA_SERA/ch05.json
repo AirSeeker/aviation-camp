@@ -1,0 +1,5308 @@
+{
+  "book_id": "EASA_SERA",
+  "book_title": "Easy Access Rules for Standardised European Rules of the Air (SERA)",
+  "pdf_path": "resources/library/EASA_SERA/EASA_SERA.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 5",
+    "start_page": 56,
+    "end_page": 61,
+    "pages": [
+      {
+        "page_number": 56,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              214.49000549316406,
+              94.15997314453125,
+              278.9120178222656,
+              112.15997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              282.1700134277344,
+              94.15997314453125,
+              291.2960205078125,
+              112.15997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              294.6499938964844,
+              94.15997314453125,
+              302.9119873046875,
+              112.15997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4001 Submission of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              133.60995483398438,
+              325.376953125,
+              149.56996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              166.69998168945312,
+              86.51904296875,
+              177.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information relative to an intended flight or portion of a flight, to be provided to air traffic ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              166.69998168945312,
+              525.6117553710938,
+              177.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "services units, shall be in the form of a flight plan. The term ‘flight plan’ is used to mean ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              180.01998901367188,
+              525.7938232421875,
+              191.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "variously, full information on all items comprised in the flight plan description, covering the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              193.45999145507812,
+              525.6007690429688,
+              204.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "whole route of a flight, or limited information required, inter alia, when the purpose is to obtain ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              206.89999389648438,
+              525.766357421875,
+              217.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a clearance for a minor portion of a flight such as to cross an airway, to take off from, or to land ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              220.33999633789062,
+              525.7645874023438,
+              231.37998962402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at a controlled aerodrome. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              233.77999877929688,
+              223.22503662109375,
+              244.8199920654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              253.22000122070312,
+              86.99903869628906,
+              264.260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A flight plan shall be submitted prior to operating: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              253.22000122070312,
+              326.4250183105469,
+              264.260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              272.6899719238281,
+              115.07504272460938,
+              283.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any flight or portion thereof to be provided with air traffic control service; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              272.6899719238281,
+              461.4450378417969,
+              283.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              292.1299743652344,
+              115.07504272460938,
+              303.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any IFR flight within advisory airspace; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              292.1299743652344,
+              302.1850280761719,
+              303.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              311.5699768066406,
+              115.07504272460938,
+              322.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any flight within or into areas, or along routes designated by the competent authority, to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              311.5699768066406,
+              525.7687377929688,
+              322.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "facilitate the provision of flight information, alerting and search and rescue services; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              325.0099792480469,
+              507.1950378417969,
+              336.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              344.3299865722656,
+              115.07504272460938,
+              355.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any flight within or into areas or along routes designated by the competent authority, to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              344.3299865722656,
+              525.7246704101562,
+              355.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "facilitate coordination with appropriate military units or with air traffic services units in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              357.7699890136719,
+              525.6695556640625,
+              368.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "adjacent States in order to avoid the possible need for interception for the purpose of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              371.2099914550781,
+              525.8177490234375,
+              382.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "identification; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              384.6499938964844,
+              193.43504333496094,
+              395.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(5) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              404.0899963378906,
+              115.07504272460938,
+              415.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any flight across international borders, unless otherwise prescribed by the States ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              404.0899963378906,
+              525.7136840820312,
+              415.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "concerned; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              417.5299987792969,
+              181.31504821777344,
+              428.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(6) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              436.969970703125,
+              115.07504272460938,
+              448.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any flight planned to operate at night, if leaving the vicinity of an aerodrome. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              436.969970703125,
+              475.7550354003906,
+              448.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              456.40997314453125,
+              85.79904174804688,
+              467.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A flight plan shall be: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              456.40997314453125,
+              196.19503784179688,
+              467.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              475.8699951171875,
+              115.07504272460938,
+              486.9100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "submitted, before departure: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.77999877929688,
+              475.8699951171875,
+              262.34503173828125,
+              486.9100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(i) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              495.30999755859375,
+              140.39503479003906,
+              506.3500061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the Network Manager directly or via an air traffic services reporting office, in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              495.30999755859375,
+              525.5930786132812,
+              506.3500061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accordance with the operations manuals containing the necessary instructions and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              508.6299743652344,
+              525.8029174804688,
+              519.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information developed and maintained by the Network Manager, if there is the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              522.0699462890625,
+              525.6481323242188,
+              533.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "intent for the flight to operate in accordance with IFR for a portion, or the entire ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              535.5099487304688,
+              525.6944580078125,
+              546.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "route, of the flight within the single European sky airspace; or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              548.949951171875,
+              434.9250183105469,
+              559.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(ii) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              568.3899536132812,
+              142.9150390625,
+              579.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to an air traffic services reporting office for other cases; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              568.3899536132812,
+              407.9250183105469,
+              579.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              587.8299560546875,
+              115.07504272460938,
+              598.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transmitted, during flight, to the appropriate air traffic services unit or air–ground control ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              587.8299560546875,
+              525.8724975585938,
+              598.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "radio station. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              601.2699584960938,
+              190.67503356933594,
+              612.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              620.7099609375,
+              86.99903869628906,
+              631.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Unless a shorter period of time has been prescribed by the competent authority for domestic ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              620.7099609375,
+              525.6005859375,
+              631.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "VFR flights, a flight plan for any flight planned to operate across international borders or to be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              634.1499633789062,
+              525.589599609375,
+              645.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "provided with air traffic control service or air traffic advisory service shall be submitted as ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              647.6199340820312,
+              525.8020629882812,
+              658.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "follows: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              661.0599365234375,
+              137.9950408935547,
+              672.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              680.3799438476562,
+              115.07504272460938,
+              691.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not more than 120 hours before the estimated off-block time; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              680.3799438476562,
+              408.1650390625,
+              691.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              699.8199462890625,
+              115.07504272460938,
+              710.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at least 3 hours before the estimated off-block time for flights that may be subject to air ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              699.8199462890625,
+              525.7212524414062,
+              710.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic flow management measures; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              713.2599487304688,
+              290.5450134277344,
+              724.2999877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              732.699951171875,
+              115.07504272460938,
+              743.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at least 60 minutes before departure for all other flights not covered in point (2); or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              732.699951171875,
+              504.07501220703125,
+              743.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 4 Flight plans ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              442.989990234375,
+              54.92999267578125,
+              527.2539672851562,
+              63.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LIGHT PLANS",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              302.92999267578125,
+              96.76997375488281,
+              380.80078125,
+              111.28997039794922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              151.39999389648438,
+              524.992919921875,
+              158.36000061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 56 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 57,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              92.66000366210938,
+              115.07504272460938,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if submitted during flight, at a time which ensures its receipt by the appropriate ATS unit, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              92.66000366210938,
+              525.790771484375,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at least 10 minutes before the aircraft is estimated to reach: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              106.10000610351562,
+              400.1250305175781,
+              117.14000701904297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(i) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              125.42001342773438,
+              140.39503479003906,
+              136.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the intended point of entry into a control area or advisory area; or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              125.42001342773438,
+              455.6850280761719,
+              136.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(ii) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              144.85995483398438,
+              142.9150390625,
+              155.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the point of crossing an airway or advisory route. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              157.10000610351562,
+              144.85995483398438,
+              378.8850402832031,
+              155.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              164.29995727539062,
+              86.6390380859375,
+              175.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For flights operated partially or entirely in accordance with IFR, entering the area of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              164.29995727539062,
+              525.6558837890625,
+              175.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "responsibility of an air traffic services unit, for which no flight plan has previously been received ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              177.73995971679688,
+              525.8106689453125,
+              188.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from the Network Manager, the unit concerned shall transmit to the Network Manager the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              191.17996215820312,
+              525.6337890625,
+              202.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft identification, aircraft type, point of entry to its area of responsibility, time and flight ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              204.61996459960938,
+              525.8015747070312,
+              215.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "level at that point, route and destination aerodrome of the flight. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              218.05996704101562,
+              394.4850158691406,
+              229.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(f) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              237.49996948242188,
+              84.59903717041016,
+              248.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Requirements laid down in points (c), (d), and (e) shall not apply in the Single European Sky ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              237.49996948242188,
+              525.622802734375,
+              248.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspace that is not part of the ICAO EUR region. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              250.93997192382812,
+              317.5450134277344,
+              261.97998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.4001 Submission of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              283.3999938964844,
+              361.2769775390625,
+              299.3599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GENERAL ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              316.3399963378906,
+              112.91096496582031,
+              326.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              334.6099853515625,
+              86.51904296875,
+              345.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A flight plan may cover only part of a flight, as necessary, to describe that portion of the flight ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              334.6099853515625,
+              525.57861328125,
+              345.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or those manoeuvres which are subject to air traffic control. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              348.04998779296875,
+              371.5650329589844,
+              359.0899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              367.489990234375,
+              86.99903869628906,
+              378.5299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The term ‘submit a flight plan’ refers to the action by the pilot or the operator to provide ATS ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              367.489990234375,
+              525.5897216796875,
+              378.5299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with flight plan information. The term ‘filed flight plan’ refers to the flight plan as received and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              380.92999267578125,
+              525.6226806640625,
+              391.9700012207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accepted by ATS whereas ‘transmit a flight plan’ refers to the action by a pilot to submit the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              394.3699951171875,
+              525.7514038085938,
+              405.4100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight plan, or submit abbreviated flight plan by radiotelephony to the ATS unit concerned. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              407.80999755859375,
+              505.2750244140625,
+              418.8500061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AMC1 SERA.4001(c)  Submission of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              440.239990234375,
+              389.4769592285156,
+              456.1999816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In cases where no air traffic services (ATS) reporting office has been established, the flight plan should ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              473.22998046875,
+              525.889404296875,
+              484.2699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be submitted to the ATS unit performing the functions of such an office, or via approved direct ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              486.66998291015625,
+              525.5801391601562,
+              497.7099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "methods as indicated in the aeronautical information publication (AIP). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              500.1099853515625,
+              391.6050109863281,
+              511.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005 Contents of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              532.6600341796875,
+              309.5369567871094,
+              548.6199951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              565.6299438476562,
+              86.51904296875,
+              576.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A flight plan shall include all information considered relevant by the competent authority as ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              565.6299438476562,
+              525.6338500976562,
+              576.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "regards the following: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              579.0699462890625,
+              200.7850341796875,
+              590.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              598.5099487304688,
+              115.07504272460938,
+              609.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft identification; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              598.5099487304688,
+              228.38504028320312,
+              609.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              617.949951171875,
+              115.07504272460938,
+              628.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight rules and type of flight; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              617.949951171875,
+              260.4250183105469,
+              628.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              637.3899536132812,
+              115.07504272460938,
+              648.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "number and type(s) of aircraft and wake turbulence category; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              637.3899536132812,
+              406.96502685546875,
+              648.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              656.8599853515625,
+              115.07504272460938,
+              667.9000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft equipment and capabilities; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              656.8599853515625,
+              290.1850280761719,
+              667.9000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(5) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              676.2999267578125,
+              115.07504272460938,
+              687.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "departure aerodrome or operating site; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              676.2999267578125,
+              307.9450378417969,
+              687.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(6) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              695.6199340820312,
+              115.07504272460938,
+              706.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "estimated off-block date and time; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              695.6199340820312,
+              286.22503662109375,
+              706.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(7) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              715.0599365234375,
+              115.07504272460938,
+              726.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cruising speed(s); ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              715.0599365234375,
+              208.94503784179688,
+              726.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(8) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              734.4959716796875,
+              115.07504272460938,
+              745.5360107421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cruising level(s); ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              734.4959716796875,
+              203.18504333496094,
+              745.5360107421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(9) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              753.9359741210938,
+              115.07504272460938,
+              764.9760131835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "route to be followed; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              753.9359741210938,
+              225.98504638671875,
+              764.9760131835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 4 Flight plans ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              442.989990234375,
+              54.92999267578125,
+              527.2539672851562,
+              63.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2013/013/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              301.1899719238281,
+              526.5529174804688,
+              308.14996337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              458.02996826171875,
+              526.5529174804688,
+              464.9899597167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2024/1111 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              550.4500122070312,
+              524.992919921875,
+              557.4099731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 57 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 58,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(10) destination aerodrome or operating site and total estimated elapsed time; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              92.66000366210938,
+              463.9950256347656,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(11) alternate aerodrome(s) or operating site(s); ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              112.10000610351562,
+              326.0650329589844,
+              123.14000701904297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(12) Fuel/energy endurance; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              131.42001342773438,
+              238.22503662109375,
+              142.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(13) total number of persons on board; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              150.85995483398438,
+              285.5050354003906,
+              161.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(14) emergency and survival equipment, including ballistic parachute recovery system; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              170.29995727539062,
+              496.9950256347656,
+              181.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(15) other information. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              189.73995971679688,
+              214.22503662109375,
+              200.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              209.17996215820312,
+              86.99903869628906,
+              220.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For flight plans submitted during flight, the departure aerodrome or operating site provided ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              209.17996215820312,
+              525.6337890625,
+              220.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall be the location from which supplementary information concerning the flight may be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              222.61996459960938,
+              525.6448364257812,
+              233.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "obtained, if required. Additionally, the information to be provided in lieu of the estimated offblock time shall be the time over the first point of the route to which the flight plan relates. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              236.05996704101562,
+              523.438232421875,
+              247.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.4005(a) Contents of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              281.9599914550781,
+              363.31695556640625,
+              297.91998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ABBREVIATED FLIGHT PLAN ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              315.0199890136719,
+              188.63096618652344,
+              324.97998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An abbreviated flight plan transmitted in the air by radiotelephony for the crossing of controlled ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              333.16998291015625,
+              525.6354370117188,
+              344.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspace, or any other areas or routes designated by the competent authority, normally contains, as a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              346.6099853515625,
+              525.7127075195312,
+              357.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minimum: call sign, type of aircraft, point of entry, point of exit and level. Additional elements may be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              360.04998779296875,
+              525.8342895507812,
+              371.0899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "required by the competent authority.  ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              373.489990234375,
+              244.3450469970703,
+              384.5299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM2 SERA.4005(a)  Contents of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              406.03997802734375,
+              366.9169616699219,
+              421.9999694824219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "INFORMATION ABOUT THE OPERATOR IN THE FLIGHT PLAN IN CASE OF PROVIDING ALERTING SERVICE ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              438.97998046875,
+              499.6309509277344,
+              448.9399719238281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "According to ICAO Annex 11, an ATS unit shall, when practicable, inform the aircraft operator when ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              457.1299743652344,
+              525.6575927734375,
+              468.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an alerting service is provided to an aircraft. In order to facilitate quick and effective coordination, it ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              470.5899963378906,
+              525.646484375,
+              481.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is advisable to provide in the flight plan (item 18 ‘Other information’) information sufficient to enable ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              484.0299987792969,
+              525.7694091796875,
+              495.07000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ATS unit to contact the on-duty staff of the aircraft operator if such information has not been ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              497.469970703125,
+              525.6820068359375,
+              508.5099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "provided to the ATS unit by other means. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              510.9099426269531,
+              258.6250305175781,
+              521.949951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.4005(a)(14) Contents of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              543.4600219726562,
+              389.3569641113281,
+              559.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "BALLISTIC PARACHUTE RECOVERY SYSTEM ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              576.429931640625,
+              267.7450256347656,
+              587.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The information on ballistic parachute recovery systems may be included in the field for remarks under ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              595.8699340820312,
+              525.76806640625,
+              606.9099731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item 19 of the ICAO model flight plan, as specified in Appendix 6 ‘COMPLETION OF A FLIGHT PLAN’ to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              609.3099365234375,
+              525.8057250976562,
+              620.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Annex to Commission Implementing Regulation (EU) No 923/2012. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              622.7499389648438,
+              390.0450134277344,
+              633.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4010 Completion of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              655.2100219726562,
+              327.0569763183594,
+              671.1699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              688.179931640625,
+              86.51904296875,
+              699.219970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A flight plan shall contain information, as applicable, on relevant items listed in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              688.179931640625,
+              525.6009521484375,
+              699.219970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              701.6199340820312,
+              148.2866973876953,
+              712.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(1) to (11) regarding the whole route or the portion thereof for which the flight ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              148.22000122070312,
+              701.6199340820312,
+              525.55615234375,
+              712.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "plan is submitted. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              715.0599365234375,
+              182.51504516601562,
+              726.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              734.4959716796875,
+              86.99903869628906,
+              745.5360107421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft operators, flight plan originators and air traffic services units following the necessary ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              734.4959716796875,
+              525.6118774414062,
+              745.5360107421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "instructions referred to in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              747.9359741210938,
+              243.90420532226562,
+              758.9760131835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4001",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              244.00999450683594,
+              747.9359741210938,
+              291.8242492675781,
+              758.9760131835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c)(1)(i) shall comply with the following: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              291.8900146484375,
+              747.9359741210938,
+              471.5550231933594,
+              758.9760131835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 4 Flight plans ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              442.989990234375,
+              54.92999267578125,
+              527.2539672851562,
+              63.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2013/013/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              299.7499694824219,
+              526.5529174804688,
+              306.7099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              423.8299865722656,
+              526.5529174804688,
+              430.78997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              561.25,
+              524.992919921875,
+              568.2099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              673.0,
+              524.992919921875,
+              679.9599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 58 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 59,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              92.66000366210938,
+              115.07504272460938,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the instructions for completion of the flight plan form contained in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              92.66000366210938,
+              428.8043518066406,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              112.10000610351562,
+              115.07504272460938,
+              123.14000701904297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any constraints identified in relevant Aeronautical Information Publications (AIPs). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              112.10000610351562,
+              498.3150329589844,
+              123.14000701904297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              131.42001342773438,
+              85.79904174804688,
+              142.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft operators, or the agents that act on their behalf, which intend to operate within the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              131.42001342773438,
+              525.5564575195312,
+              142.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "single European sky airspace for a portion of or the entire route in accordance with IFR shall ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              144.85995483398438,
+              525.54541015625,
+              155.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "insert the appropriate indicator for the aircraft equipment available on board and its capabilities ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              158.29995727539062,
+              525.8279418945312,
+              169.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in accordance with Commission Implementing Regulation (EU) 2023/1770",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              171.73995971679688,
+              429.4534912109375,
+              182.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the flight plan as required in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              185.17996215820312,
+              265.8406677246094,
+              196.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              265.9700012207031,
+              185.17996215820312,
+              313.78424072265625,
+              196.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              204.61996459960938,
+              86.99903869628906,
+              215.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Operators of aircraft not equipped in accordance with Implementing Regulation (EU) 2023/1770 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              204.61996459960938,
+              525.7333984375,
+              215.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which intend to operate within the single European sky airspace shall insert the appropriate ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              218.05996704101562,
+              525.5676879882812,
+              229.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "indicator for the aircraft equipment available on board and its capabilities, and any potential ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              231.49996948242188,
+              525.8322143554688,
+              242.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "exemptions in the relevant items in the flight plan as per points ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              244.81997680664062,
+              424.695068359375,
+              255.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              258.2599792480469,
+              148.2866973876953,
+              269.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(15) respectively. The flight plan shall, in addition, contain information, as ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              148.22000122070312,
+              258.2599792480469,
+              525.6002807617188,
+              269.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "applicable, on all other items when so prescribed by the competent authority or when ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              271.7300109863281,
+              525.61181640625,
+              282.77001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "otherwise deemed necessary by the person submitting the flight plan. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              285.1700134277344,
+              415.6050109863281,
+              296.21002197265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4013 Acceptance of a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              317.7200012207031,
+              326.2169494628906,
+              333.67999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              350.6899719238281,
+              86.51904296875,
+              361.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Network Manager, for the portion of the route operated in accordance with IFR, and the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              350.6899719238281,
+              525.6558837890625,
+              361.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air traffic services reporting office shall take the necessary measures to ensure that when a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              364.1299743652344,
+              525.6227416992188,
+              375.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight plan is received, or when changes are made to it, it is: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              377.5699768066406,
+              368.08502197265625,
+              388.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              397.0099792480469,
+              115.07504272460938,
+              408.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in compliance with the applicable format and data conventions; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              397.0099792480469,
+              416.08502197265625,
+              408.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              416.4499816894531,
+              115.07504272460938,
+              427.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "complete and, to the extent possible, accurate; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              416.4499816894531,
+              341.9250183105469,
+              427.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              435.8899841308594,
+              115.07504272460938,
+              446.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if necessary, made acceptable to the air traffic services; and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              435.8899841308594,
+              398.08502197265625,
+              446.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              455.2099914550781,
+              115.07504272460938,
+              466.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accepted, or the changes made to it are also accepted, and this is indicated to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              455.2099914550781,
+              525.6140747070312,
+              466.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "originator of the flight plan. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              468.66998291015625,
+              254.6650390625,
+              479.7099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              488.1099853515625,
+              86.99903869628906,
+              499.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC units shall provide the Network Manager with any necessary changes of a flight plan ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              488.1099853515625,
+              525.6337280273438,
+              499.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "affecting items related to the route or flight level as listed in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              501.54998779296875,
+              397.74652099609375,
+              512.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "could affect the safe conduct of a flight, for flight plans and associated update messages ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              514.989990234375,
+              525.6116333007812,
+              526.030029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "previously received by them from the Network Manager. No other changes to, or cancellation ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              528.429931640625,
+              525.5897216796875,
+              539.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of, a flight plan shall be made by an ATC unit in the pre-flight phase without coordination with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              541.8699951171875,
+              525.81396484375,
+              552.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft operator. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              555.3099365234375,
+              197.42503356933594,
+              566.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              574.7499389648438,
+              85.79904174804688,
+              585.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Network Manager shall communicate to all affected ATS units the accepted flight plan and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              574.7499389648438,
+              525.6779174804688,
+              585.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any accepted pre-flight-phase changes made to the items listed in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              588.18994140625,
+              420.0849609375,
+              599.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the flight plan and associated update messages. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              601.6299438476562,
+              328.34503173828125,
+              612.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              620.949951171875,
+              86.99903869628906,
+              631.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Network Manager shall communicate to the aircraft operator any necessary pre-flightphase changes made to the flight plan affecting items listed in point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              620.949951171875,
+              523.5582275390625,
+              631.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "related to the route or flight level that could affect the safe conduct of a flight, for flight plans ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              647.8599853515625,
+              525.57861328125,
+              658.9000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and associated update messages previously received. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              661.2999267578125,
+              340.96502685546875,
+              672.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              680.739990234375,
+              86.6390380859375,
+              691.780029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The originator of a flight plan, when not being the aircraft operator or the pilot, shall ensure ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              680.739990234375,
+              525.5565795898438,
+              691.780029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that the conditions of acceptance of a flight plan and any necessary changes to these conditions ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              694.179931640625,
+              525.8214111328125,
+              705.219970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Calibri",
+            "font_size": 5.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              726.1599731445312,
+              74.57928466796875,
+              731.2000122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Commission Implementing Regulation (EU) 2023/1770 of 12 September 2023 laying down provisions on aircraft equipment required for ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              74.54399871826172,
+              726.429931640625,
+              525.2281494140625,
+              734.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the use of the Single European Sky airspace and operating rules related to the use of the Single European Sky airspace and repealing ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              736.2659301757812,
+              525.2260131835938,
+              744.3059692382812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EC) No 29/2009 and Implementing Regulations (EU) No 1206/2011, (EU) No 1207/2011 and (EU) No 1079/2012 (OJ L 228, ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              745.9859619140625,
+              525.2369995117188,
+              754.0260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "XX.9.2023, p. 39) ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              755.7059326171875,
+              128.7970428466797,
+              763.7459716796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 4 Flight plans ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              442.989990234375,
+              54.92999267578125,
+              527.2539672851562,
+              63.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Appendix 6",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              428.95001220703125,
+              92.66000366210938,
+              479.159912109375,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              479.1400146484375,
+              92.66000366210938,
+              484.5150146484375,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Calibri",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              429.54998779296875,
+              170.83999633789062,
+              433.0787048339844,
+              177.8000030517578
+            ]
+          },
+          {
+            "type": "text",
+            "text": " in the relevant item ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              433.0299987792969,
+              171.73995971679688,
+              525.858642578125,
+              182.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(4). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              313.7300109863281,
+              185.17996215820312,
+              343.1250305175781,
+              196.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              428.5899963378906,
+              244.81997680664062,
+              476.415283203125,
+              255.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(4) and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              476.5,
+              244.81997680664062,
+              525.8818969726562,
+              255.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              335.5099792480469,
+              524.992919921875,
+              342.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              397.989990234375,
+              501.54998779296875,
+              445.8152770996094,
+              512.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(1) to (10) that ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              445.8699951171875,
+              501.54998779296875,
+              525.84375,
+              512.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              419.8299865722656,
+              588.18994140625,
+              467.6552734375,
+              599.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(1) to (10) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              467.739990234375,
+              588.18994140625,
+              525.898681640625,
+              599.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4005",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              417.30999755859375,
+              634.3899536132812,
+              465.02490234375,
+              645.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a)(1) to (10) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              464.9800109863281,
+              634.3899536132812,
+              525.8214721679688,
+              645.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 59 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 60,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as notified by the Network Manager for the portion of the flight operated in accordance with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              92.66000366210938,
+              525.6558227539062,
+              103.70000457763672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "IFR, or by the air traffic services reporting offices, are made available to the aircraft operator or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              105.98001098632812,
+              525.7332153320312,
+              117.02001190185547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilot that has submitted the flight plan. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              119.42001342773438,
+              295.22503662109375,
+              130.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(f) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              138.85995483398438,
+              84.59903717041016,
+              149.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft operator shall ensure that the conditions of acceptance of a flight plan and any ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              138.85995483398438,
+              525.6226196289062,
+              149.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "necessary changes to it as notified by the Network Manager or by the air traffic services ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              152.29995727539062,
+              525.6006469726562,
+              163.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reporting office to the originator of the flight plan are incorporated into the planned flight ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              165.73995971679688,
+              525.8322143554688,
+              176.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "operation and communicated to the pilot. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              179.17996215820312,
+              290.5450134277344,
+              190.21995544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(g) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              198.61996459960938,
+              86.39904022216797,
+              209.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft operator shall ensure prior to the operation of the flight that the content of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              198.61996459960938,
+              525.6006469726562,
+              209.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight plan correctly reflects the operational intentions. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              212.05996704101562,
+              347.8050231933594,
+              223.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(h) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              231.49996948242188,
+              86.99903869628906,
+              242.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Network Manager shall process and distribute the information on the 8,33 kHz channel ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              231.49996948242188,
+              525.5786743164062,
+              242.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "spacing capability received in the flight plans. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              244.93997192382812,
+              305.1850280761719,
+              255.97996520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(i) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              264.2599792480469,
+              83.75904083251953,
+              275.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Requirements laid down in points (a) to (h) shall not apply in the Single European Sky airspace ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              264.2599792480469,
+              525.65576171875,
+              275.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that is not part of the ICAO EUR region. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              277.7300109863281,
+              277.9450378417969,
+              288.77001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4015 Changes to a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              310.2799987792969,
+              305.81695556640625,
+              326.239990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              343.2499694824219,
+              86.51904296875,
+              354.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "All changes to a flight plan submitted for an IFR flight, or a VFR flight operated as a controlled ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              343.2499694824219,
+              525.6006469726562,
+              354.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight, shall be reported: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              356.6899719238281,
+              210.38504028320312,
+              367.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              376.1299743652344,
+              115.07504272460938,
+              387.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "during the pre-flight phase, to the Network Manager for flights intended to operate in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              376.1299743652344,
+              525.64404296875,
+              387.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accordance with IFR for a portion of or the entire route, and to air traffic services ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              389.5699768066406,
+              525.5589599609375,
+              400.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reporting offices as soon as practicable; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              403.0099792480469,
+              308.1850280761719,
+              414.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              422.4499816894531,
+              115.07504272460938,
+              433.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "during the flight, subject to the provisions of point ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              422.4499816894531,
+              359.0537414550781,
+              433.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic services unit. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              435.8899841308594,
+              218.90504455566406,
+              446.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For other VFR flights, significant changes to a flight plan shall be reported as soon as practicable ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              455.2099914550781,
+              525.7994384765625,
+              466.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the appropriate air traffic services unit. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              468.66998291015625,
+              289.70501708984375,
+              479.7099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              488.1099853515625,
+              86.99903869628906,
+              499.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the event of a delay of 30 minutes in excess of the estimated off-block time for a controlled ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              488.1099853515625,
+              525.8231201171875,
+              499.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight or a delay of 1 hour for an uncontrolled flight for which a flight plan has been submitted, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              501.54998779296875,
+              525.5565795898438,
+              512.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the flight plan shall be amended, or a new flight plan submitted, and the old flight plan ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              514.989990234375,
+              525.83837890625,
+              526.030029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cancelled, whichever is applicable. For any flight operated in accordance with IFR, delays of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              528.429931640625,
+              525.65576171875,
+              539.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "more than 15 minutes shall be communicated to the Network Manager. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              541.8699951171875,
+              424.4850158691406,
+              552.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              561.3099365234375,
+              85.79904174804688,
+              572.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the case of a change in the aircraft equipment and its capability status for a flight, aircraft ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              561.3099365234375,
+              525.5344848632812,
+              572.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "operators, or the agents that act on their behalf, shall send a modification message to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              574.7499389648438,
+              525.8197631835938,
+              585.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Network Manager or the air traffic services reporting offices with the appropriate indicator ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              588.18994140625,
+              525.6448974609375,
+              599.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inserted in the relevant item of the flight plan form. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              601.6299438476562,
+              333.8850402832031,
+              612.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              620.949951171875,
+              86.99903869628906,
+              631.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information submitted prior to departure regarding fuel or energy endurance or total number ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              620.949951171875,
+              525.6116333007812,
+              631.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of persons carried on board, if incorrect at time of departure, constitutes a significant change ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              634.3899536132812,
+              525.6116943359375,
+              645.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the flight plan and as such shall be reported. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              647.8599853515625,
+              313.1050109863281,
+              658.9000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              667.2999267578125,
+              86.6390380859375,
+              678.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Requirements laid down in points (a) to (d) shall not apply in Single European Sky airspace that ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              667.2999267578125,
+              525.7330932617188,
+              678.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is not part of the ICAO EUR region. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              680.739990234375,
+              257.0650329589844,
+              691.780029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 4 Flight plans ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              442.989990234375,
+              54.92999267578125,
+              527.2539672851562,
+              63.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2024/1111 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              328.0699768066406,
+              524.992919921875,
+              335.02996826171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.8020",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              359.7099914550781,
+              422.4499816894531,
+              407.5352783203125,
+              433.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b), to the appropriate air ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              422.4499816894531,
+              525.8518676757812,
+              433.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 60 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 61,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4020 Closing a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              93.64999389648438,
+              280.0169677734375,
+              109.60999298095703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              126.61996459960938,
+              86.51904296875,
+              137.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An arrival report shall be made in person, by radiotelephony, via data link or by other means as ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              126.61996459960938,
+              525.77734375,
+              137.6599578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prescribed by the competent authority at the earliest possible moment after landing, to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              140.05996704101562,
+              525.6448364257812,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate air traffic services unit at the arrival aerodrome, by any flight for which a flight plan ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              153.49996948242188,
+              525.8648071289062,
+              164.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has been submitted covering the entire flight or the remaining portion of a flight to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              166.93997192382812,
+              525.6116943359375,
+              177.97996520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "destination aerodrome. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              180.37997436523438,
+              208.82504272460938,
+              191.4199676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              199.81997680664062,
+              115.07504272460938,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Submission of an arrival report is not required after landing on an aerodrome where air ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              199.81997680664062,
+              525.6362915039062,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic services are provided on condition that radio communication or visual signals ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              213.25997924804688,
+              525.6362915039062,
+              224.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "indicate that the landing has been observed. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              226.69998168945312,
+              330.0450134277344,
+              237.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              246.13998413085938,
+              86.99903869628906,
+              257.17999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a flight plan has been submitted only in respect of a portion of a flight, other than the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              246.13998413085938,
+              525.6337890625,
+              257.17999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "remaining portion of a flight to destination, it shall, when required, be closed by an appropriate ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              259.5799865722656,
+              525.8106689453125,
+              270.6199951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "report to the relevant air traffic services unit. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              273.0499572753906,
+              304.46502685546875,
+              284.0899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              292.3699645996094,
+              85.79904174804688,
+              303.40997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When no air traffic services unit exists at the arrival aerodrome or operating site, the arrival ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              292.3699645996094,
+              525.5787963867188,
+              303.40997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "report, when required, shall be made as soon as practicable after landing and by the quickest ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              305.8099670410156,
+              525.6336669921875,
+              316.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "means available to the nearest air traffic services unit. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              319.2499694824219,
+              344.6850280761719,
+              330.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              338.6899719238281,
+              86.99903869628906,
+              349.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When communication facilities at the arrival aerodrome or operating site are known to be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              338.6899719238281,
+              525.6448364257812,
+              349.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inadequate and alternate arrangements for the handling of arrival reports on the ground are ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              352.1299743652344,
+              525.6007690429688,
+              363.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not available, the following action shall be taken. Immediately prior to landing the aircraft shall, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              365.5699768066406,
+              525.8887329101562,
+              376.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if practicable, transmit to the appropriate air traffic services unit, a message comparable to an ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              379.0099792480469,
+              525.5675659179688,
+              390.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "arrival report, where such a report is required. Normally, this transmission shall be made to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              392.4499816894531,
+              525.744384765625,
+              403.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aeronautical station serving the air traffic services unit in charge of the flight information region ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              405.8899841308594,
+              525.84765625,
+              416.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in which the aircraft is operated. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              419.3299865722656,
+              248.30503845214844,
+              430.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              438.6499938964844,
+              86.6390380859375,
+              449.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Arrival reports made by aircraft shall contain the following elements of information: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              438.6499938964844,
+              477.7950134277344,
+              449.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              458.1099853515625,
+              115.07504272460938,
+              469.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft identification; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              458.1099853515625,
+              228.38504028320312,
+              469.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              477.54998779296875,
+              115.07504272460938,
+              488.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "departure aerodrome or operating site; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              477.54998779296875,
+              307.9450378417969,
+              488.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              496.989990234375,
+              115.07504272460938,
+              508.0299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "destination aerodrome or operating site (only in the case of a diversionary landing); ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              496.989990234375,
+              504.5550231933594,
+              508.0299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              516.429931640625,
+              115.07504272460938,
+              527.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "arrival aerodrome or operating site; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              516.429931640625,
+              291.3850402832031,
+              527.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(5) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              535.8699951171875,
+              115.07504272460938,
+              546.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "time of arrival. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              535.8699951171875,
+              196.7950439453125,
+              546.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.4020 Closing a flight plan ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              568.4200439453125,
+              315.89697265625,
+              584.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ARRIVAL REPORTS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              601.3599853515625,
+              150.59095764160156,
+              611.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Whenever an arrival report is required, failure to comply with the provisions of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              619.5099487304688,
+              426.341796875,
+              630.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "serious disruption in the air traffic services and incur great expenses in carrying out unnecessary ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              632.949951171875,
+              525.6685791015625,
+              643.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "search and rescue operations. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              646.419921875,
+              208.70504760742188,
+              657.4599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 4 Flight plans ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              442.989990234375,
+              54.92999267578125,
+              527.2539672851562,
+              63.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) No 923/2012 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              440.1099853515625,
+              111.43997192382812,
+              524.992919921875,
+              118.39997100830078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2013/013/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              586.2100219726562,
+              526.5529174804688,
+              593.1699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.4020",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              426.30999755859375,
+              619.5099487304688,
+              474.1352844238281,
+              630.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": " may cause ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              474.2200012207031,
+              619.5099487304688,
+              525.8818969726562,
+              630.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 61 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              407.4700012207031,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

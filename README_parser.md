@@ -1,6 +1,6 @@
-# PDF Processing
+# Parser Library
 
-The active PDF pipeline is `scripts/process_pdf_sections.py`. Its input is
+The active PDF pipeline is `scripts/parser_library.py`. Its input is
 `resources/library/library_manifest.json`, a versioned manifest that combines
 the download metadata and page boundaries for every library book.
 
@@ -9,27 +9,46 @@ the download metadata and page boundaries for every library book.
 From the repository root:
 
 ```bash
-python scripts/process_pdf_sections.py resources/library/library_manifest.json
+python scripts/parser_library.py resources/library/library_manifest.json
 ```
 
-The processor downloads each configured PDF and writes:
+The processor reads all per-book configuration from the version 1 library
+manifest. If no manifest path is passed, it uses
+`resources/library/library_manifest.json`. For every book, it downloads the PDF
+to the manifest's `pdf_path` and writes each parsed section and its extracted
+content under `resources/parsed/<book_id>/` and extracted images directly
+under `public/images/`:
 
 ```text
-output/<book_id>/
-  <book_id>.pdf
-  parsed_content.json
-  images/
+resources/parsed/<book_id>/
+  parser_manifest.json
+  ch01.json
+  section_002_glossary.json
+
+public/images/
+  AFH_p22_b1.png
+  PHAK_p1_b1.png
 ```
 
-The manifest records book IDs, PDF URLs and local library paths, SHA-256 hashes,
+Each book folder contains one JSON file per section. Chapters use `chNN.json`
+names when the boundary title contains a chapter number; other sections use
+numbered, descriptive filenames. Each section file contains book metadata and
+that section's content. `parser_manifest.json` indexes the section files and
+their page ranges.
+Every image filename includes its book ID, PDF page, and image-block number so
+names are unique across books. Image paths in section content are web paths in
+the form `/images/<filename>`.
+The manifest records PDF URLs and local library paths, optional SHA-256 hashes,
 download metadata, and section boundaries. Chapter, glossary, acronym,
 emergency-procedure, and appendix ranges use 1-based PDF page numbers with
 inclusive endpoints. Update the boundaries directly in the library manifest.
 
-The processor retries failed downloads and accepts `--timeout`, `--retries`,
-and `--output-root` options. It filters content in the top and bottom 5% of
-pages, extracts styled text, tables, and images with bounding boxes, and
-produces key-value data for glossary and acronym sections.
+The processor retries failed downloads and accepts an optional manifest path,
+`--timeout`, `--retries`, `--output-root`, and `--image-root` options. The
+output roots default to `resources/parsed` and `public/images`. It filters
+content in the top and bottom 5% of pages, extracts styled text, tables, and
+images with bounding boxes, and produces key-value data for glossary and
+acronym sections.
 
 ## Page generator compatibility
 
@@ -41,5 +60,5 @@ using this PDF output to regenerate site pages.
 ## Tests
 
 ```bash
-python -m unittest tests.test_process_pdf_sections -v
+python -m unittest tests.test_parser_library -v
 ```

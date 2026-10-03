@@ -10,7 +10,7 @@ Aviation Camp збирає навчальну бібліотеку з авіац
 library_manifest.json + PDF URLs
         |
         v
-scripts/process_pdf_sections.py
+scripts/parser_library.py
         |  структурований текст, таблиці, зображення
         v
 output/<book>/parsed_content.json + images/
@@ -119,10 +119,10 @@ Frontmatter уроку має містити `title`, `description`, `subject`, 
 | `content/dictionary/` | JSON-файли термінів і абревіатур для словника. |
 | `resources/library/` | Маніфест PDF і джерельні локальні PDF. |
 | `resources/library/library_manifest.json` | Єдине джерело URL, download-метаданих і меж глав/секцій/додатків. |
-| `output/<book>/` | Результат `process_pdf_sections.py`: `parsed_content.json` та витягнуті зображення. |
+| `output/<book>/` | Результат `parser_library.py`: `parsed_content.json` та витягнуті зображення. |
 | `resources/parsed/` | Попереднє parsed-дерево, яке поки читає наявний генератор сторінок. |
 | `public/images/` | Файли зображень, які копіюються/публікуються як статичні assets. |
-| `scripts/process_pdf_sections.py` | Поточне завантаження й структуроване витягання секцій PDF за library manifest. |
+| `scripts/parser_library.py` | Поточне завантаження й структуроване витягання секцій PDF за library manifest. |
 | `scripts/generate_content.py` | Генерація MDX із parsed-тексту через Gemini або fallback. |
 | `scripts/parse_airmand.py` | Окремий scraper прикладів питань; не є частиною PDF-процесора. |
 | `scripts/migrate_quizzes_to_json.mjs` | Перенесення вбудованих `<Quiz questions={...} />` у зовнішні JSON-банки та заміна на `<Quiz />`. Це одноразовий міграційний скрипт, не крок звичайного build. |
@@ -135,7 +135,7 @@ Frontmatter уроку має містити `title`, `description`, `subject`, 
 
 ## 5. PDF processing
 
-The active processor is `scripts/process_pdf_sections.py`; run it with
+The active processor is `scripts/parser_library.py`; run it with
 `resources/library/library_manifest.json`. The manifest is the single source
 for each book's download metadata and 1-based inclusive page boundaries.
 Processing writes each downloaded PDF, structured `parsed_content.json`, and
@@ -206,7 +206,7 @@ pip install -r requirements.txt
 
 ```bash
 npm run verify:quizzes
-python -m unittest tests.test_process_pdf_sections -v
+python -m unittest tests.test_parser_library -v
 python -m unittest tests.test_generate_content -v
 npm run build
 ```
@@ -219,7 +219,7 @@ npm run build
 
 - `npm run verify:quizzes`: успіх, перевірено 311 питань у 101 JSON-банку.
 - `npm run build`: успіх; згенеровано 100 уроків/112 HTML-сторінок, postbuild перевірив 3 032 зображення та локальні посилання.
-- Нинішній PDF-процесор перевіряється через `python -m unittest tests.test_process_pdf_sections -v`. Генератор сторінок ще не адаптовано до його `parsed_content.json`; це наступна окрема робота.
+- Нинішній PDF-процесор перевіряється через `python -m unittest tests.test_parser_library -v`. Генератор сторінок ще не адаптовано до його `parsed_content.json`; це наступна окрема робота.
 
 Перевірки описують поведінку тестового набору та build, але не підтверджують точність згенерованого навчального тексту чи правильність авіаційних відповідей. Контент походить із матеріалів FAA і частково може бути створений мовною моделлю; його необхідно звіряти з першоджерелами. Звіт `out/content-review-report.json` знаходить низку структурних/текстових ознак (наприклад, метадані, кирилицю, пошкоджений OCR/placeholder), але це не є редакторською чи авіаційною сертифікацією.
 

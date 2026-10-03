@@ -1,0 +1,77 @@
+{
+  "book_id": "Instructor",
+  "title": "Aviation Instructor's Handbook",
+  "pdf_path": "resources/library/Instructor/Instructor.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 5,
+      "end_page": 33,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 34,
+      "end_page": 51,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 52,
+      "end_page": 93,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 94,
+      "end_page": 103,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 104,
+      "end_page": 131,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 132,
+      "end_page": 144,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 145,
+      "end_page": 158,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 159,
+      "end_page": 170,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 171,
+      "end_page": 184,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 185,
+      "end_page": 193,
+      "content_path": "ch10.json"
+    }
+  ]
+}

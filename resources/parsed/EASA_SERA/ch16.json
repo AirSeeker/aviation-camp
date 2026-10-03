@@ -1,0 +1,3093 @@
+{
+  "book_id": "EASA_SERA",
+  "book_title": "Easy Access Rules for Standardised European Rules of the Air (SERA)",
+  "pdf_path": "resources/library/EASA_SERA/EASA_SERA.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 16",
+    "start_page": 215,
+    "end_page": 218,
+    "pages": [
+      {
+        "page_number": 215,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              100.22000122070312,
+              107.47998046875,
+              164.6420135498047,
+              125.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              167.89999389648438,
+              107.47998046875,
+              186.14599609375,
+              125.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "C",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              189.5,
+              107.47998046875,
+              199.02200317382812,
+              125.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "-",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              271.1300048828125,
+              107.47998046875,
+              276.63800048828125,
+              125.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ONTROLLER",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              199.00999450683594,
+              110.08998107910156,
+              271.1598815917969,
+              124.60997772216797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PILOT DATA LINK COMMUNICATION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              276.6499938964844,
+              110.08998107910156,
+              498.2980041503906,
+              124.60997772216797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(CPDLC)",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              226.1300048828125,
+              129.44000244140625,
+              284.93603515625,
+              147.44000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": " PROCEDURES",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              284.92999267578125,
+              132.0500030517578,
+              369.3223571777344,
+              146.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15001 Data link initiation and data link initiation failure ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              169.00997924804688,
+              482.386962890625,
+              184.96998596191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              201.98001098632812,
+              86.51904296875,
+              213.02000427246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The logon address associated with an air traffic services unit shall be published in the national ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              201.98001098632812,
+              525.6558837890625,
+              213.02000427246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aeronautical information publications (AIPs). ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              215.42001342773438,
+              302.3050231933594,
+              226.4600067138672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              234.85995483398438,
+              86.99903869628906,
+              245.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Upon receipt of a valid data link initiation request from an aircraft approaching or within the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              234.85995483398438,
+              525.5233764648438,
+              245.8999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "data link service area, the air traffic services unit shall accept the request and, if able to correlate ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              248.29995727539062,
+              525.777587890625,
+              259.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "it with a flight plan, shall establish a connection with the aircraft. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              261.7399597167969,
+              391.96502685546875,
+              272.77996826171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              281.2099914550781,
+              85.79904174804688,
+              292.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The air traffic services provider shall establish procedures to resolve, as soon as practicable, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              281.2099914550781,
+              525.6339721679688,
+              292.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "data link initiation failures. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              294.6499938964844,
+              222.14503479003906,
+              305.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              314.0899963378906,
+              86.99903869628906,
+              325.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft operator shall establish procedures to resolve, as soon as practicable, data link ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              314.0899963378906,
+              525.61181640625,
+              325.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "initiation failures. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              327.5299987792969,
+              181.31504821777344,
+              338.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15005 Establishment of CPDLC ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              359.9599914550781,
+              315.6569519042969,
+              375.91998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              392.92999267578125,
+              86.51904296875,
+              403.9700012207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CPDLC shall be established in sufficient time in advance to ensure that the aircraft ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              392.92999267578125,
+              525.57861328125,
+              403.9700012207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communicates with the appropriate air traffic control unit. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              406.3699951171875,
+              364.4850158691406,
+              417.4100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              425.80999755859375,
+              86.99903869628906,
+              436.8500061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information concerning when and, if applicable, where the air or ground systems should ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              425.80999755859375,
+              525.6671752929688,
+              436.8500061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "establish CPDLC shall be published in aeronautical information circulars or publications. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              439.2499694824219,
+              493.0350341796875,
+              450.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              458.7099914550781,
+              85.79904174804688,
+              469.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The pilot shall be able to identify the air traffic control unit that provides the air traffic control ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              458.7099914550781,
+              525.5894775390625,
+              469.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "service at any time while the service is being provided. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              472.1499938964844,
+              346.6050109863281,
+              483.19000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15010 Transfer of CPDLC ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              504.6999816894531,
+              276.6569519042969,
+              520.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              537.669921875,
+              86.51904296875,
+              548.7099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When CPDLC is transferred, the transfer of voice communication and CPDLC shall commence ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              537.669921875,
+              525.61181640625,
+              548.7099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "concurrently. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              551.1099853515625,
+              162.35504150390625,
+              562.1500244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              570.5499267578125,
+              86.99903869628906,
+              581.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When an aircraft is transferred from an air traffic control unit where CPDLC is available to an air ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              570.5499267578125,
+              525.8326416015625,
+              581.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic control unit where CPDLC is not available, the termination of CPDLC shall commence ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              583.8699340820312,
+              525.5675659179688,
+              594.9099731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "concurrently with the transfer of voice communication. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              597.3099365234375,
+              350.08502197265625,
+              608.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              616.7499389648438,
+              85.79904174804688,
+              627.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The air traffic controller shall be informed when attempting a transfer of CPDLC resulting in a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              616.7499389648438,
+              525.6227416992188,
+              627.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "change in data authority if there are data link messages for which a closure response has not ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              630.18994140625,
+              525.6780395507812,
+              641.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "been received. When the air traffic controller decides to transfer the aircraft without receiving ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              643.6299438476562,
+              525.8178100585938,
+              654.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot responses to the uplink message(s) outstanding, the air traffic controller shall normally ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              657.0999755859375,
+              525.6448974609375,
+              668.1400146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "revert to voice communication to clarify any ambiguity associated with the uplink message(s) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              670.5399169921875,
+              525.6668701171875,
+              681.5799560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "outstanding. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              683.97998046875,
+              159.23504638671875,
+              695.02001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 15 Controller-pilot data ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              406.1499938964844,
+              54.80999755859375,
+              527.2178955078125,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "link communication (CPDLC) ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              422.7099914550781,
+              65.8499755859375,
+              527.1370239257812,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedures ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              484.6600036621094,
+              76.88995361328125,
+              527.2539672851562,
+              85.88995361328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              186.79995727539062,
+              523.2008056640625,
+              193.7599639892578
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              377.7499694824219,
+              523.2008056640625,
+              384.7099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              522.489990234375,
+              523.2008056640625,
+              529.449951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 215 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 216,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15015 Construction of CPDLC messages ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              107.08999633789062,
+              373.9969787597656,
+              123.04999542236328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              140.05996704101562,
+              86.51904296875,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The text of CPDLC messages shall be composed in standard message format, in plain language, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              140.05996704101562,
+              525.5895385742188,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or in abbreviations and codes. Plain language shall be avoided when the length of the text can ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              153.49996948242188,
+              525.6005859375,
+              164.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be reduced by using appropriate abbreviations and codes. Non-essential words and phrases, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              166.93997192382812,
+              525.8509521484375,
+              177.97996520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "such as expressions of politeness, shall not be used. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              180.37997436523438,
+              333.7650146484375,
+              191.4199676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              199.81997680664062,
+              86.99903869628906,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The air traffic controller and the pilot shall construct CPDLC messages using standard message ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              199.81997680664062,
+              525.6337280273438,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "elements, free text message elements, or a combination of both. The use of free text message ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              213.25997924804688,
+              525.5343017578125,
+              224.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "elements by air traffic controllers or pilots shall, be avoided. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              226.69998168945312,
+              371.08502197265625,
+              237.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              246.01998901367188,
+              85.79904174804688,
+              257.05999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When the implemented CPDLC message set does not provide for specific circumstances, the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              246.01998901367188,
+              525.567626953125,
+              257.05999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "competent authority may determine, in consultation with operators and other air traffic ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              259.4599914550781,
+              525.9144897460938,
+              270.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "services providers, that it is acceptable to use free text message elements. In such cases, the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              272.9299621582031,
+              525.57861328125,
+              283.969970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "competent authority concerned shall define the display format, intended use and attributes for ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              286.3699645996094,
+              525.7772827148438,
+              297.40997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "each free text message element. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              299.8099670410156,
+              248.5450439453125,
+              310.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              319.2499694824219,
+              86.99903869628906,
+              330.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The composition of a CPDLC message shall not exceed five message elements, only two of which ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              319.2499694824219,
+              525.7443237304688,
+              330.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may contain the route clearance variable. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              332.6899719238281,
+              288.6250305175781,
+              343.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              352.1299743652344,
+              86.6390380859375,
+              363.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Construction of multi-element CPDLC messages: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              352.1299743652344,
+              318.2650146484375,
+              363.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              371.5699768066406,
+              115.07504272460938,
+              382.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a multi-element CPDLC message requires a response, the response shall apply to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              371.5699768066406,
+              525.6990966796875,
+              382.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "all message elements. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              385.0099792480469,
+              229.5850372314453,
+              396.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              404.3299865722656,
+              115.07504272460938,
+              415.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a single message element clearance or any part of a multi-element clearance ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              404.3299865722656,
+              525.859619140625,
+              415.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "message cannot be complied with, the pilot shall send an “UNABLE” response for the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              417.7699890136719,
+              525.6581420898438,
+              428.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "whole message. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              431.2099914550781,
+              202.70504760742188,
+              442.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              450.6499938964844,
+              115.07504272460938,
+              461.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The controller shall respond with an “UNABLE” message that applies to all elements of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              450.6499938964844,
+              525.5919799804688,
+              461.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the request when no element(s) of a single or multi-element clearance request can be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              464.1099853515625,
+              525.796630859375,
+              475.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "approved. The current clearance(s) shall not be restated. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              477.54998779296875,
+              384.8850402832031,
+              488.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              496.989990234375,
+              115.07504272460938,
+              508.0299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a multi-element clearance request can only be partially accommodated, the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              496.989990234375,
+              525.6868896484375,
+              508.0299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "controller shall respond with an “UNABLE” message applying to all the message elements ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              510.4299621582031,
+              525.8018188476562,
+              521.469970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the request and, if appropriate, include a reason and/or information on when ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              523.8699951171875,
+              525.6583862304688,
+              534.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clearance may be expected. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              537.3099365234375,
+              255.7450408935547,
+              548.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(5) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              556.6299438476562,
+              115.07504272460938,
+              567.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When all elements of a single or multi-element clearance request can be accommodated, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              556.6299438476562,
+              525.8322143554688,
+              567.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the controller shall respond with clearances corresponding to each element of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              570.0699462890625,
+              525.7025756835938,
+              581.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "request. This response shall be a single uplink message. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              583.5099487304688,
+              378.64501953125,
+              594.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(6) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              602.949951171875,
+              115.07504272460938,
+              613.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a CPDLC message contains more than one message element and the response ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              602.949951171875,
+              525.916015625,
+              613.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "attribute for the message is “Y”, when utilised, the single response message shall contain ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              616.3899536132812,
+              525.746826171875,
+              627.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the corresponding number of replies in the same order. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              629.8299560546875,
+              379.72503662109375,
+              640.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15020 Responding to CPDLC messages ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              662.4100341796875,
+              367.1569519042969,
+              678.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              695.3799438476562,
+              86.51904296875,
+              706.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Unless otherwise specified by the competent authority, voice read-back of CPDLC messages ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              695.3799438476562,
+              525.8379516601562,
+              706.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall not be required. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              708.8199462890625,
+              198.50503540039062,
+              719.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              728.1399536132812,
+              86.99903869628906,
+              739.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Except when correction of the CPDLC message transmitted is needed, when a controller or a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              728.1399536132812,
+              525.5455932617188,
+              739.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot communicates via CPDLC, the response shall normally be via CPDLC. When a controller or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              741.575927734375,
+              525.6337890625,
+              752.615966796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a pilot communicates via voice, the response shall normally be via voice. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              755.0159301757812,
+              426.0450134277344,
+              766.0559692382812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 15 Controller-pilot data ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              406.1499938964844,
+              54.80999755859375,
+              527.2178955078125,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "link communication (CPDLC) ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              422.7099914550781,
+              65.8499755859375,
+              527.1370239257812,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedures ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              484.6600036621094,
+              76.88995361328125,
+              527.2539672851562,
+              85.88995361328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              124.87997436523438,
+              523.2008056640625,
+              131.83998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              680.2000122070312,
+              523.2008056640625,
+              687.1599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 216 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 217,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15025 Correction of CPDLC messages ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              107.08999633789062,
+              358.636962890625,
+              123.04999542236328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              140.05996704101562,
+              86.51904296875,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a correction to a CPDLC message is deemed necessary or when the contents of such a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              140.05996704101562,
+              525.5344848632812,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "message need to be clarified, the air traffic controller and the pilot shall use the most ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              153.49996948242188,
+              525.6117553710938,
+              164.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate means available for issuing the correct details or for providing the necessary ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              166.93997192382812,
+              525.9078369140625,
+              177.97996520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clarification. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              180.37997436523438,
+              158.0350341796875,
+              191.4199676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              199.81997680664062,
+              86.99903869628906,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When voice communication is used to correct a CPDLC message for which no operational ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              199.81997680664062,
+              525.589599609375,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "response has yet been received, the controller’s or the pilot’s voice transmission shall be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              213.25997924804688,
+              525.5899047851562,
+              224.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prefaced by the phrase: “DISREGARD CPDLC (message type) MESSAGE, BREAK” – followed by ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              226.57998657226562,
+              525.902587890625,
+              237.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the correct clearance, instruction, information or request. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              240.01998901367188,
+              361.2450256347656,
+              251.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              259.4599914550781,
+              85.79904174804688,
+              270.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When referring to and identifying the CPDLC message to be disregarded, caution shall be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              259.4599914550781,
+              525.6669921875,
+              270.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "exercised in its phrasing so as to avoid any ambiguity with the issue of the correction to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              272.9299621582031,
+              525.5344848632812,
+              283.969970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clearance, instruction, information or request. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              286.3699645996094,
+              309.3850402832031,
+              297.40997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              305.8099670410156,
+              86.99903869628906,
+              316.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If a CPDLC message that requires an operational response is subsequently negotiated via voice, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              305.8099670410156,
+              525.7994995117188,
+              316.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an appropriate CPDLC message closure response shall be sent to ensure proper synchronisation ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              319.2499694824219,
+              525.7886352539062,
+              330.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the CPDLC dialogue. This may be achieved either by explicitly instructing the recipient of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              332.6899719238281,
+              525.8143920898438,
+              343.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "message via voice to close the dialogue or by allowing the system to automatically close the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              346.1299743652344,
+              525.567626953125,
+              357.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dialogue. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              359.5699768066406,
+              143.9950408935547,
+              370.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15030 Controller data link communication procedures for ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              391.9999694824219,
+              494.93231201171875,
+              407.9599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "emergencies, hazards, and CPDLC equipment failure ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              411.5599670410156,
+              421.0369567871094,
+              427.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              444.5299987792969,
+              86.51904296875,
+              455.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When an air traffic controller or a pilot is alerted that a single controller-pilot data link ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              444.5299987792969,
+              525.8518676757812,
+              455.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communication message has failed, the air traffic controller or the pilot shall take one of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              457.989990234375,
+              525.57861328125,
+              469.0299987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "following actions, as appropriate: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              471.42999267578125,
+              252.02503967285156,
+              482.4700012207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              490.8699951171875,
+              115.07504272460938,
+              501.9100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "via voice, confirm the actions that will be taken with respect to the related dialogue, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              490.8699951171875,
+              525.6736450195312,
+              501.9100036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prefacing the information with the phrase: “CPDLC MESSAGE FAILURE”; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              504.3099670410156,
+              450.8850402832031,
+              515.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              523.7499389648438,
+              115.07504272460938,
+              534.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "via controller-pilot data link communication, reissue the controller-pilot data link ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              523.7499389648438,
+              525.8571166992188,
+              534.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communication message that failed. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              537.18994140625,
+              293.3050231933594,
+              548.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              556.5099487304688,
+              86.99903869628906,
+              567.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air traffic controllers that are required to transmit information concerning a complete ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              556.5099487304688,
+              525.6007080078125,
+              567.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "controller-pilot data link communication ground system failure to all stations likely to intercept ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              569.949951171875,
+              525.7164306640625,
+              580.989990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "should preface such a transmission by the general call: “ALL STATIONS CPDLC FAILURE” followed by the identification of the calling station. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              583.3899536132812,
+              525.9150390625,
+              594.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              616.2699584960938,
+              85.79904174804688,
+              627.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When controller-pilot data link communication fail and the communication reverts to voice, all ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              616.2699584960938,
+              525.7514038085938,
+              627.3099975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CPDLC messages outstanding shall be considered not delivered and the entire dialogue involving ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              629.7099609375,
+              525.7884521484375,
+              640.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the messages outstanding shall be recommenced by voice. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              643.1499633789062,
+              364.96502685546875,
+              654.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              662.6199340820312,
+              86.99903869628906,
+              673.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When controller-pilot data link communication fails but is restored prior to a need to revert to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              662.6199340820312,
+              525.6285400390625,
+              673.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "voice communication, all messages outstanding shall be considered not delivered and the entire ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              676.0599365234375,
+              525.7994384765625,
+              687.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dialogue involving the messages outstanding shall be recommenced via CPDLC. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              689.4999389648438,
+              455.6850280761719,
+              700.5399780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 15 Controller-pilot data ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              406.1499938964844,
+              54.80999755859375,
+              527.2178955078125,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "link communication (CPDLC) ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              422.7099914550781,
+              65.8499755859375,
+              527.1370239257812,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedures ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              484.6600036621094,
+              76.88995361328125,
+              527.2539672851562,
+              85.88995361328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              124.87997436523438,
+              523.2008056640625,
+              131.83998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              429.3499755859375,
+              523.2008056640625,
+              436.3099670410156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 217 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 218,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15035 Intentional shutdown of CPDLC system ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              107.08999633789062,
+              415.876953125,
+              123.04999542236328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              140.05996704101562,
+              86.51904296875,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a system shutdown of the communications network or the CPDLC ground system is ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              140.05996704101562,
+              525.534423828125,
+              151.09996032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "planned, a NOTAM shall be published to inform all affected parties of the shutdown period and, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              153.49996948242188,
+              525.8212890625,
+              164.5399627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if necessary, the details of the voice communication frequencies to be used. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              166.93997192382812,
+              442.1250305175781,
+              177.97996520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              186.37997436523438,
+              86.99903869628906,
+              197.4199676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft in communication with the ATC units shall be informed by voice or CPDLC of any ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              186.37997436523438,
+              525.5675659179688,
+              197.4199676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "imminent loss of the CPDLC service. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              199.81997680664062,
+              262.46502685546875,
+              210.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15040 Discontinuation of the use of CPDLC requests ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              232.24996948242188,
+              457.5169677734375,
+              248.20997619628906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              265.3399963378906,
+              86.51904296875,
+              276.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When a controller requires all stations or a specific flight to avoid sending CPDLC requests for a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              265.3399963378906,
+              525.8948364257812,
+              276.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "limited period of time, the following phrase shall be used: ((call sign) or ALL STATIONS) STOP ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              278.6899719238281,
+              525.6117553710938,
+              289.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SENDING CPDLC REQUESTS [UNTIL ADVISED] [(reason)]. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              292.1299743652344,
+              351.5250244140625,
+              303.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              311.5699768066406,
+              86.99903869628906,
+              322.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The resumption of the normal use of CPDLC shall be advised by using the following phrase: ((call ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              311.5699768066406,
+              525.788330078125,
+              322.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sign) or ALL STATIONS) RESUME NORMAL CPDLC OPERATIONS. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              325.0099792480469,
+              383.20501708984375,
+              336.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15045 Use of CPDLC in the event of air-ground voice ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              357.5599670410156,
+              459.10101318359375,
+              373.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communication failure ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              377.1199951171875,
+              226.136962890625,
+              393.0799865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The existence of a CPDLC connection between an air traffic services unit and an aircraft should not ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              410.0899963378906,
+              525.5469970703125,
+              421.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prevent the pilot and the air traffic controller concerned from initiating and performing all the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              423.5299987792969,
+              525.6575317382812,
+              434.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "required actions in the event of air-ground voice communication failure. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              436.969970703125,
+              397.2450256347656,
+              448.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.15050 Testing of CPDLC ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              469.41998291015625,
+              269.45697021484375,
+              485.3799743652344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Where the testing of CPDLC with an aircraft could affect the air traffic services being provided to the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              502.3899841308594,
+              525.5801391601562,
+              513.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft, coordination shall be effected prior to such testing. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              515.8299560546875,
+              340.96502685546875,
+              526.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 15 Controller-pilot data ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              406.1499938964844,
+              54.80999755859375,
+              527.2178955078125,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "link communication (CPDLC) ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              422.7099914550781,
+              65.8499755859375,
+              527.1370239257812,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedures ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              484.6600036621094,
+              76.88995361328125,
+              527.2539672851562,
+              85.88995361328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              124.87997436523438,
+              523.2008056640625,
+              131.83998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              250.04000854492188,
+              523.2008056640625,
+              257.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              394.90997314453125,
+              523.2008056640625,
+              401.8699645996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2023/1772",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              487.2099914550781,
+              523.2008056640625,
+              494.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 218 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

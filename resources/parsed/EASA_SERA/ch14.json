@@ -1,0 +1,4813 @@
+{
+  "book_id": "EASA_SERA",
+  "book_title": "Easy Access Rules for Standardised European Rules of the Air (SERA)",
+  "pdf_path": "resources/library/EASA_SERA/EASA_SERA.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 14",
+    "start_page": 130,
+    "end_page": 135,
+    "pages": [
+      {
+        "page_number": 130,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              102.26000213623047,
+              96.55999755859375,
+              166.6820068359375,
+              114.55999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              169.94000244140625,
+              96.55999755859375,
+              188.18600463867188,
+              114.55999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SSR",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              191.5399932861328,
+              96.55999755859375,
+              218.71400451660156,
+              114.55999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "T",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              222.0500030517578,
+              96.55999755859375,
+              230.9600067138672,
+              114.55999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "RANSPONDER AND ",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              230.92999267578125,
+              99.16999816894531,
+              349.8053283691406,
+              113.68999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.13001 Operation of an SSR transponder ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              136.12997436523438,
+              376.876953125,
+              152.08998107910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              169.10000610351562,
+              86.51904296875,
+              180.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When an aircraft carries a serviceable SSR transponder, the pilot shall operate the transponder ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              169.10000610351562,
+              525.7110595703125,
+              180.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at all times during flight, regardless of whether the aircraft is within or outside airspace where ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              182.54000854492188,
+              525.6117553710938,
+              193.5800018310547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SSR is used for ATS purposes. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              195.98001098632812,
+              233.18504333496094,
+              207.02000427246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              215.29995727539062,
+              86.99903869628906,
+              226.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots shall not operate the IDENT feature unless requested by ATS. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              215.29995727539062,
+              402.5250244140625,
+              226.33995056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              234.73995971679688,
+              85.79904174804688,
+              245.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Except for flight in airspace designated by the competent authority for mandatory operation of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              234.73995971679688,
+              525.6668090820312,
+              245.7799530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transponder, aircraft without sufficient electrical power supply are exempted from the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              248.17996215820312,
+              525.6339721679688,
+              259.219970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "requirement to operate the transponder at all times. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              261.6199645996094,
+              338.6850280761719,
+              272.65997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13001  Operation of an SSR transponder ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              294.1999816894531,
+              416.3569641113281,
+              310.15997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots of aircraft engaged in formation join-ups are expected to continue operating the transponder ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              327.16998291015625,
+              525.7717895507812,
+              338.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "until established in formation. Once established in formation, all except the lead aircraft should be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              340.6099853515625,
+              525.5802001953125,
+              351.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "instructed to ‘squawk standby’. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              354.04998779296875,
+              214.82504272460938,
+              365.0899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13001(c)  Operation of an SSR transponder ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              386.47998046875,
+              433.0369567871094,
+              402.4399719238281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots of non-powered aircraft are also encouraged to operate the transponder during flight outside ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              419.5699768066406,
+              525.66748046875,
+              430.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspace where carriage and operation of SSR transponder is mandatory. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              433.0099792480469,
+              398.6850280761719,
+              444.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM2 SERA.13001(c) Operation of an SSR transponder ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              465.4599914550781,
+              429.31695556640625,
+              481.41998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRCRAFT WITHOUT SUFFICIENT ELECTRICAL POWER ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              498.42999267578125,
+              314.7850341796875,
+              509.4700012207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This exemption addresses aircraft (e.g. sailplanes) that have electrical power supply only for the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              517.8699951171875,
+              525.5995483398438,
+              528.9100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "operation of on-board equipment, supporting notably communication, navigation and surveillance, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              531.3099365234375,
+              525.6920166015625,
+              542.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which is not sufficient for the permanent operation of the SSR transponder. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              544.7499389648438,
+              412.1250305175781,
+              555.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft whose engines are electrically powered are not subject to this exemption since their ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              564.18994140625,
+              525.6134033203125,
+              575.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "certification provides for sufficient electrical power supply to cover both aircraft propulsion and other ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              577.6299438476562,
+              525.779052734375,
+              588.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "on-board supporting systems. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              591.0699462890625,
+              207.98504638671875,
+              602.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.13005 SSR transponder Mode A code setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              623.5,
+              409.2769775390625,
+              639.4599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              656.6199340820312,
+              86.51904296875,
+              667.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To indicate that it is in a specific contingency situation, the pilot of an aircraft equipped with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              656.6199340820312,
+              525.5675659179688,
+              667.6599731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SSR shall: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              670.0599365234375,
+              144.7150421142578,
+              681.0999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              689.3799438476562,
+              115.07504272460938,
+              700.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "select Code 7700 to indicate a state of emergency unless ATC has previously directed the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              689.3799438476562,
+              525.735595703125,
+              700.4199829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot to operate the transponder on a specified code. In the latter case, a pilot may ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              702.8199462890625,
+              525.6141357421875,
+              713.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "nevertheless select Code 7700 whenever there is a specific reason to believe that this ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              716.2599487304688,
+              525.898193359375,
+              727.2999877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "would be the best course of action; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              729.699951171875,
+              288.9850158691406,
+              740.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              749.135986328125,
+              115.07504272460938,
+              760.176025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "select Code 7600 to indicate a state of radio-communication failure; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              749.135986328125,
+              435.0450134277344,
+              760.176025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 13 SSR Transponder and ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              403.3900146484375,
+              54.80999755859375,
+              527.1490478515625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B transmitters ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              455.7099914550781,
+              65.8499755859375,
+              527.2539672851562,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B",
+            "font_name": "Calibri-Bold",
+            "font_size": 18.0,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              349.75,
+              96.55999755859375,
+              396.2079772949219,
+              114.55999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": " TRANSMITTERS",
+            "font_name": "Calibri-Bold",
+            "font_size": 14.520000457763672,
+            "color": "#007FC2",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              396.19000244140625,
+              99.16999816894531,
+              493.0550231933594,
+              113.68999481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2016/1185 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              153.91995239257812,
+              524.992919921875,
+              160.8799591064453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              311.9899597167969,
+              526.5529174804688,
+              318.949951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              404.2699890136719,
+              526.5529174804688,
+              411.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2025/012/R",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#808080",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              483.2499694824219,
+              523.25732421875,
+              490.2099609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2016/1185 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              641.2900390625,
+              524.992919921875,
+              648.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 130 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 131,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              95.05996704101562,
+              115.07504272460938,
+              106.09996795654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "attempt to select Code 7500 to indicate a state of unlawful interference. If circumstances ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              95.05996704101562,
+              525.8017578125,
+              106.09996795654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "so warrant, Code 7700 should be used instead. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              108.49996948242188,
+              340.3650207519531,
+              119.53997039794922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              127.81997680664062,
+              86.99903869628906,
+              138.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Except in the cases described in (a) above, the pilot shall: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              127.81997680664062,
+              357.2850341796875,
+              138.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              147.25997924804688,
+              115.07504272460938,
+              158.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "select codes as instructed by the ATS unit; or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              147.25997924804688,
+              331.1250305175781,
+              158.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              166.69998168945312,
+              115.07504272460938,
+              177.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the absence of ATS instructions related to code setting, select code 2000 or another ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              166.69998168945312,
+              525.548095703125,
+              177.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "code as prescribed by the competent authority; or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              180.13998413085938,
+              355.96502685546875,
+              191.1799774169922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              199.57998657226562,
+              115.07504272460938,
+              210.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when not receiving air traffic services, select code 7000 in order to improve the detection ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              199.57998657226562,
+              525.87255859375,
+              210.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of suitably equipped aircraft unless otherwise prescribed by the competent authority. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              213.01998901367188,
+              514.0350341796875,
+              224.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              232.45999145507812,
+              85.79904174804688,
+              243.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When it is observed that the code shown on the situation display is different from what has ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              232.45999145507812,
+              525.5784912109375,
+              243.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "been assigned to the aircraft: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              245.89999389648438,
+              233.6650390625,
+              256.94000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              265.3399963378906,
+              115.07504272460938,
+              276.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilot shall be requested to confirm the code selected and, if the situation warrants, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              265.3399963378906,
+              525.63623046875,
+              276.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to reselect the correct code; and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              278.8099670410156,
+              276.8650207519531,
+              289.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              298.1299743652344,
+              115.07504272460938,
+              309.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if the discrepancy between assigned and displayed codes still persists, the pilot may be ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              298.1299743652344,
+              525.6806030273438,
+              309.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "requested to stop the operation of the aircraft's transponder. The next control position ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              311.5699768066406,
+              525.6362915039062,
+              322.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and any other affected unit using SSR and/or multilateration (MLAT) in the provision of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              325.0099792480469,
+              525.8934326171875,
+              336.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATS shall be informed accordingly. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              338.4499816894531,
+              284.6650390625,
+              349.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13005(a)  SSR transponder Mode A code setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              370.9999694824219,
+              466.4269714355469,
+              386.9599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If a pilot has selected Mode A Code 7500 and has been requested to confirm this code by ATC, the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              403.969970703125,
+              525.5359497070312,
+              415.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot should, according to circumstances, either confirm this or not reply at all. If the pilot does not ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              417.40997314453125,
+              525.5470581054688,
+              428.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reply, ATC should take this as confirmation that the use of Code 7500 is not an inadvertent false code ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              430.8499755859375,
+              525.7843627929688,
+              441.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "selection. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              444.28997802734375,
+              117.47504425048828,
+              455.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AMC1 SERA.13005(c)  SSR transponder Mode A code setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              476.739990234375,
+              473.2669677734375,
+              492.6999816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When requested by ATC to confirm the code selected, the pilot should: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              509.8299865722656,
+              391.72503662109375,
+              520.8699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              529.1499633789062,
+              86.51904296875,
+              540.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "verify the Mode A code setting on the transponder; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              529.1499633789062,
+              332.8050231933594,
+              540.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              548.5899658203125,
+              86.99903869628906,
+              559.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reselect the assigned code if necessary; and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              548.5899658203125,
+              298.1050109863281,
+              559.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              568.0299682617188,
+              85.79904174804688,
+              579.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "confirm to ATC the setting displayed on the controls of the transponder. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              568.0299682617188,
+              425.08502197265625,
+              579.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.13010 Pressure-altitude-derived information ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              600.5800170898438,
+              411.07696533203125,
+              616.5399780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              633.5499267578125,
+              86.51904296875,
+              644.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When the aircraft carries serviceable Mode C equipment, the pilot shall continuously operate ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              633.5499267578125,
+              525.6560668945312,
+              644.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "this mode unless otherwise dictated by ATC. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              647.0199584960938,
+              300.8650207519531,
+              658.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              666.4599609375,
+              86.99903869628906,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Unless ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              666.4599609375,
+              132.34495544433594,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "otherwise ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              141.85040283203125,
+              666.4599609375,
+              189.090576171875,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prescribed ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              198.6070556640625,
+              666.4599609375,
+              248.39749145507812,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              257.880859375,
+              666.4599609375,
+              271.1730041503906,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              280.66741943359375,
+              666.4599609375,
+              298.1547546386719,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressure-altitude-derived level information displayed shall be effected at least once by each ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              679.8999633789062,
+              525.6516723632812,
+              690.9400024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "suitably equipped ATS unit on initial contact with the aircraft concerned or, if this is not feasible, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              693.3399658203125,
+              525.8104858398438,
+              704.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as soon as possible thereafter. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              706.7799682617188,
+              238.70504760742188,
+              717.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 13 SSR Transponder and ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              403.3900146484375,
+              54.80999755859375,
+              527.1490478515625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B transmitters ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              455.7099914550781,
+              65.8499755859375,
+              527.2539672851562,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              388.78997802734375,
+              526.5529174804688,
+              395.7499694824219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              494.52996826171875,
+              526.5529174804688,
+              501.4899597167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2020/469 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              449.8299865722656,
+              618.3699951171875,
+              524.992919921875,
+              625.3299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "competent ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              307.6601867675781,
+              666.4599609375,
+              359.2169494628906,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "authority, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              368.7223815917969,
+              666.4599609375,
+              415.3442687988281,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "verification ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              424.71722412109375,
+              666.4599609375,
+              477.598876953125,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              487.0932922363281,
+              666.4599609375,
+              498.82879638671875,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the  ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              508.1907043457031,
+              666.4599609375,
+              528.3150634765625,
+              677.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 131 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 132,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13010(b) Pressure-altitude-derived information ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              96.04995727539062,
+              465.3469543457031,
+              112.00995635986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ERRONEOUS LEVEL INFORMATION IN AIR TRAFFIC CONTROL SERVICE PROVISION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              129.10995483398438,
+              409.6009521484375,
+              139.06996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              147.25997924804688,
+              86.51904296875,
+              158.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If the displayed level information is not within the approved tolerance value or when a ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              147.25997924804688,
+              525.6007080078125,
+              158.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "discrepancy in excess of the approved tolerance value is detected subsequent to verification, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              160.69998168945312,
+              525.6227416992188,
+              171.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilot should be advised accordingly and requested to check the pressure setting and confirm ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              174.13998413085938,
+              525.8803100585938,
+              185.1799774169922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft’s level. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              187.57998657226562,
+              185.9950408935547,
+              198.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              207.01998901367188,
+              86.99903869628906,
+              218.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If, following confirmation of the correct pressure setting, the discrepancy continues to exist, the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              207.01998901367188,
+              525.7664184570312,
+              218.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "following action should be taken by ATC according to circumstances: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              220.45999145507812,
+              408.64501953125,
+              231.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              239.89999389648438,
+              115.07504272460938,
+              250.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "request the pilot to select and operate an alternative transponder, if available, and reverify that the displayed level information is within the approved tolerance; or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              239.89999389648438,
+              523.3182373046875,
+              250.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              272.6899719238281,
+              115.07504272460938,
+              283.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "request the pilot to stop Mode C or ADS-B altitude data transmission, provided this does ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              272.6899719238281,
+              525.7684936523438,
+              283.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not cause the loss of position and identity information, and notify the next control ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              286.1299743652344,
+              525.6029052734375,
+              297.16998291015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "positions or ATC unit concerned with the aircraft of the action taken; or ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              299.5699768066406,
+              450.64501953125,
+              310.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              319.0099792480469,
+              115.07504272460938,
+              330.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inform the pilot of the discrepancy and request that the relevant operation continue in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              319.0099792480469,
+              525.6471557617188,
+              330.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "order to prevent loss of position and identity information of the aircraft and, when so ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              332.4499816894531,
+              525.5479125976562,
+              343.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prescribed by the local instructions, override the label-displayed level information with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              345.8899841308594,
+              525.87451171875,
+              356.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the reported level. In addition, the ATC unit should notify the next control position or ATC ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              359.3299865722656,
+              525.7798461914062,
+              370.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unit concerned with the aircraft of the action taken. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              372.7699890136719,
+              363.0450134277344,
+              383.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              392.2099914550781,
+              85.79904174804688,
+              403.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It should be highlighted that ACAS will accept mode C replies that are erroneous, and it is ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              392.2099914550781,
+              525.7111206054688,
+              403.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "possible to issue an RA based on these inputs. When the measures described in (b)(1) cannot ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              405.6499938964844,
+              525.9097290039062,
+              416.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be implemented, the controller should take into account the likelihood of generating ACAS RA ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              418.969970703125,
+              525.7219848632812,
+              430.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the provision of ATS. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              432.40997314453125,
+              206.06504821777344,
+              443.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM2 SERA.13010(b) Pressure-altitude-derived information ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              464.97998046875,
+              465.3469543457031,
+              480.9399719238281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ERRONEOUS LEVEL INFORMATION IN FLIGHT INFORMATION SERVICE PROVISION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              497.91998291015625,
+              410.0809326171875,
+              507.8799743652344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The procedures for the verification of pressure-altitude-derived displayed information in the provision ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              516.18994140625,
+              525.8512573242188,
+              527.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of flight information service should be established by the competent authority taking into ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              529.6299438476562,
+              525.6685791015625,
+              540.6699829101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "consideration GM1 ATS.TR.155(f) in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              543.0699462890625,
+              233.9672088623047,
+              554.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "EASA ED Decision 2020/008/R",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              233.92999267578125,
+              543.0699462890625,
+              368.02197265625,
+              554.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.13015 On-board aircraft identification setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              575.5,
+              415.636962890625,
+              591.4599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              608.5899658203125,
+              86.51904296875,
+              619.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft equipped with a Mode S or ADS-B transmitter that has an aircraft identification feature ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              608.5899658203125,
+              525.7957763671875,
+              619.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall transmit the aircraft identification as specified in the flight plan or, when no flight plan has ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              621.9099731445312,
+              525.8214111328125,
+              632.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "been filed, the aircraft registration, unless the aircraft operator holds an approval from the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              635.3499755859375,
+              525.7584228515625,
+              646.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "competent authority to use other than the aircraft registration as aircraft identification for ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              648.8199462890625,
+              525.699951171875,
+              659.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flights without a flight plan. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              662.2599487304688,
+              225.7450408935547,
+              673.2999877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              681.699951171875,
+              86.99903869628906,
+              692.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Whenever it is observed on the situation display that the aircraft identification transmitted by ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              681.699951171875,
+              525.6889038085938,
+              692.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an aircraft equipped with a Mode S or ADS-B transmitter is different from that expected from ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              695.1399536132812,
+              525.7186279296875,
+              706.1799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft, the pilot shall be requested to confirm and, if necessary, re-enter the correct ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              708.5799560546875,
+              525.8255004882812,
+              719.6199951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft identification. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              722.0199584960938,
+              199.94503784179688,
+              733.0599975585938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 13 SSR Transponder and ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              403.3900146484375,
+              54.80999755859375,
+              527.1490478515625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B transmitters ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              455.7099914550781,
+              65.8499755859375,
+              527.2539672851562,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2020/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              113.83999633789062,
+              524.992919921875,
+              120.79999542236328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2020/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              482.7699890136719,
+              524.992919921875,
+              489.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              368.1099853515625,
+              543.0699462890625,
+              373.2450256347656,
+              554.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2024/404 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              449.8299865722656,
+              593.2900390625,
+              524.992919921875,
+              600.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 132 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 133,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              95.05996704101562,
+              85.79904174804688,
+              106.09996795654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If, following confirmation by the pilot that the correct aircraft identification has been set on the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              95.05996704101562,
+              525.77734375,
+              106.09996795654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mode S or ADS-B transmitter identification feature, the discrepancy continues to exist, the air ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              108.37997436523438,
+              525.7044677734375,
+              119.41997528076172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic services unit shall take the following actions: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              121.81997680664062,
+              331.3650207519531,
+              132.85997009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              141.25997924804688,
+              115.07504272460938,
+              152.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inform the pilot of the persistent discrepancy; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              141.25997924804688,
+              336.405029296875,
+              152.2999725341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              160.69998168945312,
+              115.07504272460938,
+              171.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "where possible, correct the label showing the aircraft identification on the situation ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              160.69998168945312,
+              525.6804809570312,
+              171.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "display; and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              174.13998413085938,
+              184.55503845214844,
+              185.1799774169922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              193.57998657226562,
+              115.07504272460938,
+              204.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "notify the next control position and any other unit concerned using Mode S or ADS-B for ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              193.57998657226562,
+              525.9202880859375,
+              204.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "identification purposes that the aircraft identification transmitted by the aircraft is ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              207.01998901367188,
+              525.7025146484375,
+              218.0599822998047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "erroneous. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              220.45999145507812,
+              179.9950408935547,
+              231.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AMC1 SERA.13015 On-board aircraft identification setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              253.00997924804688,
+              459.5569763183594,
+              268.969970703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRCRAFT IDENTIFICATION SETTING ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              286.0099792480469,
+              237.50503540039062,
+              297.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              305.4499816894531,
+              86.51904296875,
+              316.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft identification transmitted should conform to the format specified for Item 7 of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              305.4499816894531,
+              525.6226806640625,
+              316.489990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ICAO flight plan form. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              318.8899841308594,
+              199.5850372314453,
+              329.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              338.2099914550781,
+              86.99903869628906,
+              349.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The competent authority should only authorise aircraft operators to use other than aircraft ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              338.2099914550781,
+              525.6339111328125,
+              349.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "registration as aircraft identification when operating without a flight plan provided that: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              351.6499938964844,
+              495.9150390625,
+              362.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              371.0899963378906,
+              115.07504272460938,
+              382.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft operator demonstrates that procedures have been implemented to ensure ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              371.0899963378906,
+              525.743408203125,
+              382.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the uniqueness of the aircraft identification for flights that might operate simultaneously; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              384.5299987792969,
+              525.9150390625,
+              395.57000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              403.969970703125,
+              115.07504272460938,
+              415.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the air traffic services providers have indicated that the air traffic services surveillance ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              403.969970703125,
+              525.6031494140625,
+              415.0099792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "systems are capable of managing duplication of Mode S aircraft identification; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              417.40997314453125,
+              479.59503173828125,
+              428.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              436.8499755859375,
+              115.07504272460938,
+              447.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the need for individual identification for other authorities is addressed accordingly. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              436.8499755859375,
+              502.155029296875,
+              447.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13015 On-board aircraft identification setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              469.29998779296875,
+              451.5169677734375,
+              485.2599792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "OPERATION OF ADS-B TRANSMITTERS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              502.3899841308594,
+              248.42503356933594,
+              513.4299926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To indicate that it is in a state of emergency or to transmit other urgent information, an aircraft ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              521.7099609375,
+              525.5691528320312,
+              532.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "equipped with ADS-B may operate either of the emergency and/or urgency mode as follows: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              535.1499633789062,
+              488.47503662109375,
+              546.1900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              554.5899658203125,
+              86.51904296875,
+              565.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "emergency, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              554.5899658203125,
+              155.15504455566406,
+              565.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              574.0299682617188,
+              86.99903869628906,
+              585.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communication failure, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              574.0299682617188,
+              206.6650390625,
+              585.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(c) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              593.469970703125,
+              85.79904174804688,
+              604.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unlawful interference, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              593.469970703125,
+              202.3450469970703,
+              604.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(d) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              612.9099731445312,
+              86.99903869628906,
+              623.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minimum fuel/energy, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              612.9099731445312,
+              203.18504333496094,
+              623.9500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              632.3499755859375,
+              86.6390380859375,
+              643.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "medical. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              632.3499755859375,
+              140.63504028320312,
+              643.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM2 SERA.13015 On-board aircraft identification setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              664.9299926757812,
+              451.5169677734375,
+              680.8899536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "OPERATION OF ADS-B TRANSMITTERS ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              697.8999633789062,
+              248.42503356933594,
+              708.9400024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Some aircraft equipped with first-generation ADS-B avionics do not have the capability described in ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              717.3399658203125,
+              525.7454833984375,
+              728.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13015",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              730.7799682617188,
+              149.7124786376953,
+              741.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": " and only have the capability to transmit a general emergency alert regardless of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              149.77999877929688,
+              730.7799682617188,
+              525.8192138671875,
+              741.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "code selected by the pilot. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              744.2159423828125,
+              192.35504150390625,
+              755.2559814453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 13 SSR Transponder and ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              403.3900146484375,
+              54.80999755859375,
+              527.1490478515625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B transmitters ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              455.7099914550781,
+              65.8499755859375,
+              527.2539672851562,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              457.510009765625,
+              270.7999572753906,
+              524.992919921875,
+              277.75994873046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              487.0899963378906,
+              524.992919921875,
+              494.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              682.7200317382812,
+              524.992919921875,
+              689.6799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 133 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 134,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM3 SERA.13015 On-board aircraft identification setting",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              96.04995727539062,
+              447.6822204589844,
+              112.00995635986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRCRAFT IDENTIFICATION SETTING ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              129.13998413085938,
+              237.50503540039062,
+              140.1799774169922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Point (b)(1) of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              148.45999145507812,
+              136.17747497558594,
+              159.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AMC1 SERA.13015",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              135.86000061035156,
+              148.45999145507812,
+              218.47230529785156,
+              159.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": " requires aircraft operators to incorporate into an operations manual ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              218.57000732421875,
+              148.45999145507812,
+              525.8424072265625,
+              159.49998474121094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a mechanism that ensures the uniqueness of aircraft call signs. For example, they may elect to assign ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              161.89999389648438,
+              525.6134033203125,
+              172.9399871826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "each pilot-in-command or each airframe with a unique number, which may also be augmented with ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              175.33999633789062,
+              525.9146118164062,
+              186.37998962402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the addition of letters. The call sign, consisting of the operator designator issued by ICAO and the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              188.77999877929688,
+              525.6133422851562,
+              199.8199920654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unique number together with any augmenting letter, is to be inserted into the Mode S identification ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              202.22000122070312,
+              525.6243896484375,
+              213.25999450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "feature prior to departure and used in all radio communications unless instructed otherwise by air ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              215.66000366210938,
+              525.7440795898438,
+              226.6999969482422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "traffic services. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              229.10000610351562,
+              141.95504760742188,
+              240.13999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM4 SERA.13015 On-board aircraft identification setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              261.6499938964844,
+              451.5169677734375,
+              277.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "DUPLICATED AIRCRAFT IDENTIFICATION ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              294.6499938964844,
+              256.7050476074219,
+              305.69000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To demonstrate the resilience of the ATS surveillance system to duplicated aircraft identification, as ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              314.0899963378906,
+              525.6356201171875,
+              325.1300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prescribed in point (b)(2) of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              327.40997314453125,
+              201.66676330566406,
+              338.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AMC1 SERA.13015",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              202.72999572753906,
+              327.40997314453125,
+              286.777587890625,
+              338.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", it is normally enough to indicate that a duplicated ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              286.8500061035156,
+              327.40997314453125,
+              525.7225341796875,
+              338.4499816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "downlinked aircraft identification would not affect, or reduce in any way, the performance of the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              340.8499755859375,
+              525.6243286132812,
+              351.8899841308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surveillance tracker for generating and validating system tracks. In the case of a multisensor tracking ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              354.28997802734375,
+              525.6132202148438,
+              365.3299865722656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "system, using surveillance information from sensors belonging to neighbouring air traffic services ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              367.72998046875,
+              525.6355590820312,
+              378.7699890136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "providers, indication that the neighbouring surveillance tracker is not affected by potential duplication ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              381.16998291015625,
+              525.801025390625,
+              392.2099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the aircraft identification is needed. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              394.6099853515625,
+              246.26504516601562,
+              405.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM5 SERA.13015 On-board aircraft identification setting ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              427.15997314453125,
+              451.5169677734375,
+              443.1199645996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRCRAFT IDENTIFICATION SETTING ",
+            "font_name": "Calibri-Bold",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              460.1499938964844,
+              237.50503540039062,
+              471.19000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The ATS surveillance information used by an air navigation service provider is in many Member States ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              479.5899963378906,
+              525.6906127929688,
+              490.6300048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "also used by other authorities (e.g. air defence, search and rescue). The impact, if any, of allowing ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              493.0299987792969,
+              525.6023559570312,
+              504.07000732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft operating without a flight plan to transmit aircraft identification other than aircraft ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              506.4700012207031,
+              525.8345947265625,
+              517.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "registration should be assessed and documented accordingly, as prescribed in point (b)(3) of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              519.7899169921875,
+              525.6795654296875,
+              530.8299560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AMC1 SERA.13015",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              533.22998046875,
+              155.23565673828125,
+              544.27001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              155.3000030517578,
+              533.22998046875,
+              160.43504333496094,
+              544.27001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SERA.13020 SSR transponder failure when the carriage of a ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              565.780029296875,
+              467.03424072265625,
+              581.739990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "functioning transponder is mandatory ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              585.3400268554688,
+              328.2569580078125,
+              601.2999877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(a) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              618.3099365234375,
+              86.51904296875,
+              629.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In case of a transponder failure after departure, ATC units shall attempt to provide for ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              618.3099365234375,
+              525.65576171875,
+              629.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "continuation of the flight to the destination aerodrome in accordance with the flight plan. Pilots ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              631.7499389648438,
+              525.8324584960938,
+              642.7899780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may, however, be expected to comply with specific restrictions. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              645.18994140625,
+              387.1650390625,
+              656.22998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(b) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              664.6599731445312,
+              86.99903869628906,
+              675.7000122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the case of a transponder which has failed and cannot be restored before departure, pilots ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              664.6599731445312,
+              525.7001342773438,
+              675.7000122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shall: ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              678.0999755859375,
+              126.23503875732422,
+              689.1400146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              697.5399169921875,
+              115.07504272460938,
+              708.5799560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inform ATS as soon as possible, preferably before submission of a flight plan; ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              697.5399169921875,
+              473.83502197265625,
+              708.5799560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              716.8599853515625,
+              115.07504272460938,
+              727.9000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "insert in Item 10 of the ICAO flight plan form under SSR the character ‘N’ for complete ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              716.8599853515625,
+              525.5256958007812,
+              727.9000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unserviceability of the transponder or, in case of partial transponder failure, insert the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              730.2999267578125,
+              525.6362915039062,
+              741.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "character corresponding to the remaining transponder capability; and ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              743.7359619140625,
+              443.20501708984375,
+              754.7760009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 13 SSR Transponder and ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              403.3900146484375,
+              54.80999755859375,
+              527.1490478515625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B transmitters ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              455.7099914550781,
+              65.8499755859375,
+              527.2539672851562,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              113.83999633789062,
+              524.992919921875,
+              120.79999542236328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              279.4700012207031,
+              524.992919921875,
+              286.42999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2024/007/R ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              444.9499816894531,
+              524.992919921875,
+              451.90997314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulation (EU) 2016/1185 ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              446.2300109863281,
+              603.1300048828125,
+              524.992919921875,
+              610.0899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 134 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 135,
+        "elements": [
+          {
+            "type": "text",
+            "text": "of the Air (SERA) ",
+            "font_name": "Calibri-BoldItalic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              268.1300048828125,
+              48.92999267578125,
+              331.7439880371094,
+              57.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.33999633789062,
+              95.05996704101562,
+              115.07504272460938,
+              106.09996795654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "comply with any published procedures for requesting an exemption from the ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              95.05996704101562,
+              525.6582641601562,
+              106.09996795654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "requirements to carry a functioning SSR transponder. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.66000366210938,
+              108.49996948242188,
+              369.1650390625,
+              119.53997039794922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13020(a)  SSR transponder failure when the carriage of a ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              140.92996215820312,
+              524.3150024414062,
+              156.8899688720703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "functioning transponder is mandatory ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              160.48995971679688,
+              328.2569580078125,
+              176.44996643066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "TRANSPONDER FAILURE AFTER DEPARTURE ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              193.42996215820312,
+              255.50096130371094,
+              203.3899688720703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When an aircraft experiencing transponder failure after departure is operating or expected to operate ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              211.69998168945312,
+              525.8121337890625,
+              222.73997497558594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in an area where the carriage of a functioning transponder with specified capabilities is mandatory, ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              225.13998413085938,
+              525.6575927734375,
+              236.1799774169922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ATC units concerned should endeavour to provide for continuation of the flight to the aerodrome ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              238.57998657226562,
+              525.8198852539062,
+              249.61997985839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of first intended landing in accordance with the flight plan. However, in certain traffic situations, either ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              252.01998901367188,
+              525.8232421875,
+              263.05999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in terminal areas or en-route, continuation of the flight may not be possible, particularly when failure ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              265.3399963378906,
+              525.9155883789062,
+              276.3800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is detected shortly after take-off. The aircraft may then be required to return to the departure ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              278.8099670410156,
+              525.7098999023438,
+              289.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aerodrome or to land at the nearest suitable aerodrome acceptable to the operator concerned and to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              292.2499694824219,
+              525.7789916992188,
+              303.28997802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              305.6899719238281,
+              94.9190444946289,
+              316.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GM1 SERA.13020(b)  SSR transponder failure when the carriage of a ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              338.239990234375,
+              525.0426635742188,
+              354.1999816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "functioning transponder is mandatory ",
+            "font_name": "Calibri-Bold",
+            "font_size": 15.960000038146973,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              357.79998779296875,
+              328.2569580078125,
+              373.7599792480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "TRANSPONDER FAILURE BEFORE DEPARTURE ",
+            "font_name": "Calibri-Bold",
+            "font_size": 9.960000038146973,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              390.739990234375,
+              261.6209411621094,
+              400.6999816894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In case of a transponder failure which is detected before departure from an aerodrome where it is not ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              408.8899841308594,
+              525.7789916992188,
+              419.92999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "practicable to effect a repair, the aircraft concerned should be permitted to proceed, as directly as ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              422.3299865722656,
+              525.5913696289062,
+              433.3699951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "possible, to the nearest suitable aerodrome where repair can be made. When granting clearance to ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              435.7699890136719,
+              525.7986450195312,
+              446.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "such aircraft, ATC should take into consideration the existing or anticipated traffic situation and may ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              449.2099914550781,
+              525.6243896484375,
+              460.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have to modify the time of departure, flight level or route of the intended flight. Subsequent ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              462.66998291015625,
+              525.5912475585938,
+              473.7099914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "adjustments may become necessary during the course of the flight. Note that Article 4(4) of ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              476.1099853515625,
+              525.6173095703125,
+              487.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Commission Implementing Regulation (EU) No 1207/2011",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              489.54998779296875,
+              330.3049011230469,
+              500.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Calibri",
+            "font_size": 5.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.02400207519531,
+              745.7159423828125,
+              74.57928466796875,
+              750.7559814453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Commission Implementing Regulation (EU) No 1207/2011 of 22 November 2011 laying down requirements for the performance and ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              86.18399810791016,
+              745.9859619140625,
+              524.959228515625,
+              754.0260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the interoperability of surveillance for the single European sky (OJ L 305, 23.11.2011, p. 35). ",
+            "font_name": "Calibri",
+            "font_size": 8.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              86.18399810791016,
+              755.7059326171875,
+              385.8870544433594,
+              763.7459716796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered by EASA eRules ",
+            "font_name": "Calibri-Italic",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.50399780273438,
+              781.2959594726562,
+              184.19503784179688,
+              792.3359985351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SECTION 13 SSR Transponder and ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              403.3900146484375,
+              54.80999755859375,
+              527.1490478515625,
+              63.80999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ADS-B transmitters ",
+            "font_name": "Calibri-Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              455.7099914550781,
+              65.8499755859375,
+              527.2539672851562,
+              74.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              178.27999877929688,
+              526.5529174804688,
+              185.24000549316406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ED Decision 2016/023/R  ",
+            "font_name": "Calibri-Italic",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              454.75,
+              375.5899963378906,
+              526.5529174804688,
+              382.54998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Calibri",
+            "font_size": 6.960000038146973,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              330.42999267578125,
+              488.6499938964844,
+              333.9587097167969,
+              495.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": " also addresses this issue. ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              333.9100036621094,
+              489.54998779296875,
+              450.2850341796875,
+              500.5899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Page 135 of 275| Aug 2025 ",
+            "font_name": "Calibri",
+            "font_size": 11.039999961853027,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.95001220703125,
+              781.2959594726562,
+              525.7950439453125,
+              792.3359985351562
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

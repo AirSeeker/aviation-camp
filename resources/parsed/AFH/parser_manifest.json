@@ -1,0 +1,140 @@
+{
+  "book_id": "AFH",
+  "title": "Airplane Flying Handbook",
+  "pdf_path": "resources/library/AFH/AFH.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 22,
+      "end_page": 37,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 38,
+      "end_page": 61,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 62,
+      "end_page": 86,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 87,
+      "end_page": 105,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 106,
+      "end_page": 132,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 133,
+      "end_page": 146,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 147,
+      "end_page": 164,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 165,
+      "end_page": 171,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 172,
+      "end_page": 209,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 210,
+      "end_page": 217,
+      "content_path": "ch10.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 11",
+      "start_page": 218,
+      "end_page": 231,
+      "content_path": "ch11.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 12",
+      "start_page": 232,
+      "end_page": 249,
+      "content_path": "ch12.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 13",
+      "start_page": 250,
+      "end_page": 286,
+      "content_path": "ch13.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 14",
+      "start_page": 287,
+      "end_page": 294,
+      "content_path": "ch14.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 15",
+      "start_page": 295,
+      "end_page": 309,
+      "content_path": "ch15.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 16",
+      "start_page": 310,
+      "end_page": 334,
+      "content_path": "ch16.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 17",
+      "start_page": 335,
+      "end_page": 349,
+      "content_path": "ch17.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 18",
+      "start_page": 350,
+      "end_page": 372,
+      "content_path": "ch18.json"
+    },
+    {
+      "type": "glossary",
+      "title": "Glossary",
+      "start_page": 373,
+      "end_page": 391,
+      "content_path": "section_019_glossary.json"
+    }
+  ]
+}

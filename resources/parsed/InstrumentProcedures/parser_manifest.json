@@ -1,0 +1,77 @@
+{
+  "book_id": "InstrumentProcedures",
+  "title": "Instrument Procedures Handbook",
+  "pdf_path": "resources/library/InstrumentProcedures/InstrumentProcedures.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 17,
+      "end_page": 60,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 61,
+      "end_page": 112,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 113,
+      "end_page": 140,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 141,
+      "end_page": 232,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 233,
+      "end_page": 250,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 251,
+      "end_page": 268,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 269,
+      "end_page": 286,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "emergencyProcedures",
+      "title": "Emergency Procedures",
+      "start_page": 287,
+      "end_page": 292,
+      "content_path": "section_008_emergencyprocedures_emergency_procedures.json"
+    },
+    {
+      "type": "acronyms",
+      "title": "Acronyms",
+      "start_page": 293,
+      "end_page": 300,
+      "content_path": "section_009_acronyms.json"
+    },
+    {
+      "type": "glossary",
+      "title": "Glossary",
+      "start_page": 301,
+      "end_page": 312,
+      "content_path": "section_010_glossary.json"
+    }
+  ]
+}

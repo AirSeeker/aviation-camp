@@ -1,0 +1,4283 @@
+{
+  "book_id": "InstrumentProcedures",
+  "book_title": "Instrument Procedures Handbook",
+  "pdf_path": "resources/library/InstrumentProcedures/InstrumentProcedures.pdf",
+  "section": {
+    "type": "emergencyProcedures",
+    "title": "Emergency Procedures",
+    "start_page": 287,
+    "end_page": 292,
+    "pages": [
+      {
+        "page_number": 287,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Appendix A",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              41.48262405395508,
+              127.3440170288086,
+              60.4266242980957
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/InstrumentProcedures_p287_b9.jpeg",
+            "bbox": [
+              63.69999694824219,
+              58.581642150878906,
+              580.6600341796875,
+              153.62164306640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Emergency Procedures ",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 48.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              58.87627410888672,
+              429.1199645996094,
+              115.7082748413086
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.1474151611328,
+              137.1540069580078,
+              158.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Changing weather conditions, air traffic control (ATC), aircraft, and pilots are variables that make instrument flying an ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.05140686035156,
+              560.1190795898438,
+              175.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unpredictable and challenging operation. Safety of the flight depends on the pilot’s ability to manage these variables ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              175.55140686035156,
+              560.1678466796875,
+              187.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "while maintaining positive aircraft control and adequate situational awareness (SA). This appendix discusses recognition ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              188.05140686035156,
+              560.4530029296875,
+              200.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and suggested remedies for emergency events related to un-forecasted, adverse weather, aircraft system malfunctions, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              200.55140686035156,
+              560.0968017578125,
+              212.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communication/navigation system malfunctions, loss of SA, and inadvertent instrument meteorological conditions ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              213.05140686035156,
+              560.0848999023438,
+              225.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(IIMCs). ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.55140686035156,
+              104.44999694824219,
+              237.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Emergencies ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              248.1474151611328,
+              138.35879516601562,
+              262.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An emergency can be either a distress or urgency condition as defined in the pilot/controller glossary. Distress is defined ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              267.0514221191406,
+              559.6646728515625,
+              279.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as a condition of being threatened by serious and/or imminent danger and requiring immediate assistance. Urgency is ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              279.5514221191406,
+              560.1399536132812,
+              291.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "defined as a condition of being concerned about safety and requiring timely but not immediate assistance; a potential ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              292.0514221191406,
+              560.158935546875,
+              304.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "distress condition. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              304.5514221191406,
+              149.79000854492188,
+              316.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots do not hesitate to declare an emergency when faced with distress conditions, such as fire, mechanical failure, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.5514221191406,
+              560.0470581054688,
+              341.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or structural damage. However, some are reluctant to report an urgency condition when encountering situations that ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              342.0514221191406,
+              560.1788940429688,
+              354.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may not be immediately perilous but are potentially catastrophic. An aircraft is in an urgency condition the moment ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              354.5514221191406,
+              560.056884765625,
+              366.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that the pilot becomes doubtful about position, fuel endurance, weather, or any other condition that could adversely ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              367.0514221191406,
+              560.0790405273438,
+              379.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "affect flight safety. The time for a pilot to request assistance is when an urgent situation may, or has just occurred, not ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              379.5514221191406,
+              560.1847534179688,
+              391.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "after it has developed into a distress situation. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              392.0514221191406,
+              264.2969970703125,
+              404.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The pilot in command (PIC) is responsible for crew, passengers, and operation of the aircraft at all times. Title 14 of the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              417.0514221191406,
+              560.1869506835938,
+              429.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Code of Federal Regulations (14 CFR) part 91, § 91.3 allows deviations from regulations during emergencies that allow ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              429.5514221191406,
+              560.076904296875,
+              441.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the PIC to make the best decision to ensure safety of all personnel during these contingencies. Also, by declaring an ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              442.0514221191406,
+              560.12890625,
+              454.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "emergency during flight, that aircraft becomes a priority to land safely. Pilots who become apprehensive for their safety ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              454.5514221191406,
+              560.1478271484375,
+              466.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for any reason should request assistance immediately. Assistance is available in the form of radio, radar, direction finding ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.0514221191406,
+              559.9819946289062,
+              479.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(DF) stations, and other aircraft. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              479.5514221191406,
+              204.3380126953125,
+              491.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Inadvertent Thunderstorm Encounter ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              502.14739990234375,
+              260.96160888671875,
+              516.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A pilot should always avoid intentionally flying through a thunderstorm of any intensity; however, certain conditions may ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              521.0513916015625,
+              560.3780517578125,
+              533.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be present that could lead to an inadvertent thunderstorm encounter. For example, flying in areas where thunderstorms ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.5513916015625,
+              559.6948852539062,
+              545.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are embedded in large cloud masses may make thunderstorm avoidance difficult, even when the aircraft is equipped ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.0513916015625,
+              560.1678466796875,
+              558.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with thunderstorm detection equipment. Pilots must be prepared to deal with inadvertent thunderstorm penetration. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.5513916015625,
+              560.117919921875,
+              570.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "At the very least, a thunderstorm encounter subjects the aircraft to turbulence that could be severe. The pilot, as well ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              571.0513916015625,
+              560.1620483398438,
+              583.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as the crew and any passengers, should tighten seat belts and shoulder harnesses and secure any loose items in the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.5513916015625,
+              560.0589599609375,
+              595.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cabin or flight deck. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              596.0513916015625,
+              156.12899780273438,
+              608.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As with any emergency, the first order of business is to fly the aircraft. The pilot workload is high; therefore, increased ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              621.0513916015625,
+              560.1900024414062,
+              633.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "concentration is necessary to maintain an instrument scan. Once in a thunderstorm, it is better to maintain a course ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              633.5513916015625,
+              560.10791015625,
+              645.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "straight through the thunderstorm rather than turning around. A straight course most likely gets the pilot out of the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              646.0513916015625,
+              560.11865234375,
+              658.0714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hazard in the least amount of time, and turning maneuvers only increase structural stress on the aircraft. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              658.5513916015625,
+              505.0638122558594,
+              670.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Reduce power to a setting that maintains a recommended turbulence penetration speed as described in the appropriate ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              683.5513916015625,
+              559.6681518554688,
+              695.5714111328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft operator’s manual, and try to minimize additional power adjustments. Concentrate on keeping the aircraft in ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              696.0513916015625,
+              560.1289672851562,
+              708.0714111328125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 288,
+        "elements": [
+          {
+            "type": "text",
+            "text": "a level attitude while allowing airspeed and altitude to fluctuate. Similarly, if using autopilot, disengage altitude and ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.98992919921875,
+              42.97999954223633,
+              524.1170043945312,
+              55.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "speed hold modes because they only increase the aircraft’s maneuvering, which increases structural stress. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.98992919921875,
+              55.47999954223633,
+              478.9928894042969,
+              67.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "During a thunderstorm encounter, the potential for icing also exists. As soon as possible, if the aircraft is so equipped, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.98992919921875,
+              80.47999572753906,
+              524.03759765625,
+              92.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turn on anti-icing/deicing equipment. Icing can be rapid at any altitude, and may lead to power failure and/or loss of ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.98992919921875,
+              92.97999572753906,
+              524.110595703125,
+              105.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspeed indication. Lightning is also present in a thunderstorm and can temporarily blind the pilot. To reduce risk, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.98992919921875,
+              105.47999572753906,
+              524.061767578125,
+              117.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turn up flight deck lights to the highest intensity, concentrate on flight instruments, and resist the urge to look outside. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.98992919921875,
+              117.97999572753906,
+              524.036865234375,
+              130.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Inadvertent Icing Encounter ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              141.0760040283203,
+              178.13760375976562,
+              155.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Because icing is unpredictable, pilots may find themselves in icing conditions although they have done everything to ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              159.97999572753906,
+              524.1727294921875,
+              172.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "avoid the condition. To stay alert to this possibility while operating in visible moisture, pilots should monitor the outside ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              172.47999572753906,
+              524.5258178710938,
+              184.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air temperature (OAT). ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              184.97999572753906,
+              130.3889923095703,
+              197.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Anti-icing/de-icing equipment is critical to safety of the flight. If anti-icing/de-icing equipment is not used before ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              209.97999572753906,
+              524.2518310546875,
+              222.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sufficient ice has accumulated, it may not be able to remove all ice accumulation. Use of anti-icing/de-icing reduces ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              222.47999572753906,
+              524.1079711914062,
+              234.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "power availability; therefore, pilots should be familiar with the aircraft operator’s manual for use of anti-icing/de-icing ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              234.97999572753906,
+              524.0960083007812,
+              247.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "equipment. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              247.47999572753906,
+              86.5090103149414,
+              259.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Before entering visible moisture with temperatures at five degrees above freezing or cooler, activate appropriate ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              272.4800109863281,
+              524.3546752929688,
+              284.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "anti-icing/de-icing equipment in anticipation of ice accumulation; early ice detection is critical. Detecting ice may be ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              284.9800109863281,
+              524.0850219726562,
+              297.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "particularly difficult during night flight. The pilot may need to use a flashlight to check for ice accumulation on the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              297.4800109863281,
+              524.1480102539062,
+              309.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wings, fuselage, landing gear, and horizontal stabilizer. At the first indication of ice accumulation, the pilot must act ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              309.9800109863281,
+              524.1087646484375,
+              322.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to circumvent icing conditions. Options for action once ice has begun to accumulate on the aircraft are the following: ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              322.4800109863281,
+              522.4340209960938,
+              334.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              351.9800109863281,
+              49.939998626708984,
+              364.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Move to an altitude with significantly colder temperatures. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              351.9800109863281,
+              307.7170104980469,
+              364.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              368.9800109863281,
+              49.939998626708984,
+              381.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Move to an altitude with temperatures above freezing. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              368.9800109863281,
+              290.866943359375,
+              381.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              385.9800109863281,
+              49.939998626708984,
+              398.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Fly to an area clear of visible moisture. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              385.9800109863281,
+              222.5980224609375,
+              398.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              402.9800109863281,
+              49.939998626708984,
+              415.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Change the heading, and fly to an area of known non-icing conditions. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              402.9800109863281,
+              357.0859680175781,
+              415.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If these options are not available, consider an immediate landing at the nearest suitable airport. Anti-icing/de-icing ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              427.9800109863281,
+              524.1570434570312,
+              440.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "equipment does not allow aircraft to operate in icing conditions indefinitely; it only provides more time to evade icing ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              440.4800109863281,
+              524.1168212890625,
+              452.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conditions. If icing is encountered, an aircraft controllability check should be considered in the landing configuration. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              452.9800109863281,
+              524.157958984375,
+              465.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Give careful consideration to configuration changes that might produce unanticipated aircraft flight dynamics. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              465.4800109863281,
+              495.7939758300781,
+              477.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation Static ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              488.57598876953125,
+              132.39480590820312,
+              503.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation static occurs when accumulated static electricity discharges from extremities of the aircraft. This discharge ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              507.4800109863281,
+              524.1265869140625,
+              519.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has the potential to create problems with the aircraft’s instruments. These problems range from serious, such as ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              519.97998046875,
+              523.8800048828125,
+              532.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "complete loss of VHF communications and erroneous magnetic compass readings, to the annoyance of high-pitched ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              532.47998046875,
+              524.080810546875,
+              544.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "audio squealing. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              544.97998046875,
+              106.72900390625,
+              557.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation static is caused when an aircraft encounters airborne particles during flight (rain or snow) and develops a ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              569.97998046875,
+              524.0878295898438,
+              582.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "negative charge. It can also result from atmospheric electric fields in thunderstorm clouds. When a significant negative ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              582.47998046875,
+              524.0689086914062,
+              594.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "voltage level is reached, the aircraft discharges it, creating electrical disturbances. To reduce problems associated with ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              594.97998046875,
+              524.1181030273438,
+              607.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation static, the pilot ensures that the aircraft’s static wicks are maintained and accounted for. All broken or ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              607.47998046875,
+              524.1517944335938,
+              619.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "missing static wicks should be replaced before an instrument flight. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              619.97998046875,
+              317.2760009765625,
+              632.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft System Malfunction ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              642.5759887695312,
+              176.26559448242188,
+              657.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Preventing aircraft system malfunctions that might lead to an in-flight emergency begins with a thorough preflight ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              661.47998046875,
+              524.1057739257812,
+              673.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inspection. In addition to items normally checked before visual flight rules (VFR) flight, pilots intending to fly instrument ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              673.97998046875,
+              524.2417602539062,
+              686.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight rules (IFR) should pay particular attention to antennas, static wicks, anti-icing/de-icing equipment, pitot tube, and ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              686.47998046875,
+              524.1570434570312,
+              698.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "static ports. During taxi, verify operation and accuracy of all flight instruments. The pilots must ensure that all systems ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              698.97998046875,
+              524.17578125,
+              711.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are operational before departing into IFR conditions. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              711.47998046875,
+              255.7969970703125,
+              723.5
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 289,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Generator Failure ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              42.57600021362305,
+              160.75079345703125,
+              57.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Depending on aircraft being flown, a generator failure is indicated in different ways. Some aircraft use an ammeter ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              61.47999954223633,
+              560.1069946289062,
+              73.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that indicates the state of charge or discharge of the battery. A positive indication on the ammeter indicates a charge ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.97999572753906,
+              560.1377563476562,
+              86.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "condition; a negative indication reveals a discharge condition. Other aircraft use a load meter to indicate the load being ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.47999572753906,
+              560.1489868164062,
+              98.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "carried by the generator. If the generator fails, a zero load indication is shown on the load meter. Review the appropriate ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.97999572753906,
+              560.2030029296875,
+              111.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft operator’s manual for information on the type of systems installed in the aircraft. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.47999572753906,
+              438.514892578125,
+              123.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Once a generator failure is detected, the pilot must reduce electrical load on the battery and land as soon as practical. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              136.47999572753906,
+              560.0888671875,
+              148.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Depending on electrical load and condition of the battery, sufficient power may be available for an hour or more of ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              148.97999572753906,
+              560.1190185546875,
+              161.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight or for only a matter of minutes. The pilot must be familiar with systems requiring electricity to run and which ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              161.47999572753906,
+              560.0798950195312,
+              173.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "continue to operate without power. In aircraft with multiple generators, care should be taken to reduce electrical load ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              173.97999572753906,
+              560.1558837890625,
+              186.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to avoid overloading the operating generator(s).  The pilot can attempt to troubleshoot generator failure by following ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              186.47999572753906,
+              560.100830078125,
+              198.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "established procedures published in the appropriate aircraft operator’s manual. If the generator cannot be reset, inform ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              198.97999572753906,
+              560.4078979492188,
+              211.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC of an impending electrical failure. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              211.47999572753906,
+              231.08798217773438,
+              223.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Instrument Failure ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              234.5760040283203,
+              165.75479125976562,
+              249.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "System or instrument failure is usually identified by a warning indicator or an inconsistency between indications on ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              253.47999572753906,
+              560.0557861328125,
+              265.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the attitude indicator, supporting performance instruments, and instruments at the other pilot station, if so equipped. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              265.9800109863281,
+              560.1187744140625,
+              278.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft control must be maintained while the pilot identifies the failed components and expedite cross-check including ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.4800109863281,
+              560.12841796875,
+              290.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "all flight instruments. The problem may be individual instrument failure or a system failure affecting several instruments. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              290.9800109863281,
+              560.4400634765625,
+              303.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "One method of identification involves an immediate comparison of the attitude indicator with rate-of-turn indicator ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              315.9800109863281,
+              560.1720581054688,
+              328.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and vertical speed indicator (VSI). Along with providing pitch-and-bank information, this technique compares the static ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              328.4800109863281,
+              560.118408203125,
+              340.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "system with the pressure system and electrical system. Identify the failed components and use remaining functional ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              340.9800109863281,
+              560.0970458984375,
+              353.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "instruments to maintain aircraft control. Attempt to restore inoperative components by checking the appropriate power ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              353.4800109863281,
+              560.415771484375,
+              365.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "source, changing to a backup or alternate system, and resetting the instrument if possible. Covering failed instruments ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.9800109863281,
+              560.1630859375,
+              378.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may enhance the ability to maintain aircraft control and navigate the aircraft. ATC should be notified of the problem ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              378.4800109863281,
+              560.0791625976562,
+              390.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and, if necessary, declare an emergency before the situation deteriorates beyond the ability to recover. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.9800109863281,
+              498.3038330078125,
+              403.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pitot/Static System Failure ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              414.07598876953125,
+              204.1787872314453,
+              428.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A pitot or static system failure can also cause erratic and unreliable instrument indications. When a static system ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              432.9800109863281,
+              560.1021728515625,
+              445.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "problem occurs, it affects the airspeed indicator, altimeter, and VSI. In the absence of an alternate static source in an ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              445.4800109863281,
+              560.070068359375,
+              457.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unpressurized aircraft, the pilot could break the glass on the VSI because it is not required for instrument flight. Breaking ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.9800109863281,
+              559.8128662109375,
+              470.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the glass provides both the altimeter and airspeed indicator a source of static pressure, but pilots should be cautious ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              470.4800109863281,
+              560.1209106445312,
+              482.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "because breaking the glass can cause additional instrument errors. Before considering, pilots should be familiar with ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              482.9800109863281,
+              560.1570434570312,
+              495.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "their aircraft’s specific procedures for static problems. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.4800109863281,
+              294.68695068359375,
+              507.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loss of Situational Awareness (SA) ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              518.0759887695312,
+              242.88241577148438,
+              532.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SA is an overall assessment of environmental elements and how they affect flight. SA permits the pilot to make decisions ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.97998046875,
+              560.2930908203125,
+              549.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ahead of time and allows evaluation of several different options. Conversely, a pilot who is missing important information ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              549.47998046875,
+              560.0108032226562,
+              561.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "about the flight is apt to make reactive decisions. Poor SA means that the pilot lacks vision regarding future events ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              561.97998046875,
+              560.0977172851562,
+              574.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that can force him or her to make decisions quickly often with limited options. During an IFR flight, pilots operate at ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              574.47998046875,
+              560.14794921875,
+              586.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "varying levels of SA. For example, a pilot may be en route to a destination with a high level of SA when ATC issues an ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              586.97998046875,
+              560.1807250976562,
+              599.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unexpected standard terminal arrival route (STAR). Because the STAR is unexpected and the pilot is unfamiliar with the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              599.47998046875,
+              560.10888671875,
+              611.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedure, SA is reduced. However, after becoming familiar with the STAR and resuming normal navigation, the pilot ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.97998046875,
+              560.15869140625,
+              624.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "returns to a higher level of SA. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              624.47998046875,
+              198.50897216796875,
+              636.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Factors reducing SA include distractions, unusual or unexpected events, complacency, high workload, unfamiliar ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              649.47998046875,
+              560.4589233398438,
+              661.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "situations, and inoperative equipment. In some situations, a loss of SA may be beyond a pilot’s control. With an electrical ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              661.97998046875,
+              559.7868041992188,
+              674.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "system failure and associated loss of an attitude indication, a pilot may find the aircraft in an unusual attitude. In this ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              674.47998046875,
+              560.1290283203125,
+              686.5
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 290,
+        "elements": [
+          {
+            "type": "text",
+            "text": "situation, established procedures are used to regain SA and aircraft control. Pilots must be alert to loss of SA especially ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.004608154296875,
+              42.97999954223633,
+              524.1625366210938,
+              55.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when hampered by a reactive mindset. To regain SA, reassess the situation and work toward understanding what the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.004608154296875,
+              55.47999954223633,
+              524.1434936523438,
+              67.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "problem is. The pilot may need to seek additional information from other sources, such as navigation instruments, other ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.004608154296875,
+              67.97999572753906,
+              523.756591796875,
+              80.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "crewmembers, or ATC. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.004608154296875,
+              80.47999572753906,
+              130.64361572265625,
+              92.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Inadvertent Instrument Meteorological Condition (IIMC) ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              103.07600402832031,
+              316.0103759765625,
+              117.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Some pilots have the misconception that inadvertent instrument meteorological condition (IIMC) does not apply to an IFR ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              121.97999572753906,
+              524.2958374023438,
+              134.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight. The following examples could cause a pilot to inadvertently encounter IMC. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              134.47999572753906,
+              376.55596923828125,
+              146.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.  The aircraft has entered visual meteorological conditions (VMC) during an instrument approach procedure",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              159.47999572753906,
+              522.0089111328125,
+              171.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "      (IAP) and while circling to land encounters IMC. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              171.97999572753906,
+              282.5169982910156,
+              184.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.  During a non-precision IAP, the aircraft, in VMC, levels at the MDA just below the overcast. Suddenly, the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              196.97999572753906,
+              514.5028686523438,
+              209.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "     aircraft re-enters the overcast because either the pilot was unable to correctly hold his or her altitude and ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              209.47999572753906,
+              520.40380859375,
+              221.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "       climbed back into the overcast, or the overcast sloped downward ahead of the aircraft and, while maintaining",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              221.97999572753906,
+              521.5949096679688,
+              234.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "     the correct MDA, the aircraft re-entered the clouds. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              234.47999572753906,
+              296.135986328125,
+              246.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3. After inadvertently re-entering the clouds, the pilot maintains aircraft control, and then maneuvers to the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.4800109863281,
+              519.1828002929688,
+              271.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "    published holding fix, while contacting ATC.  If navigational guidance or pilot SA were lost, the pilot would ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              271.9800109863281,
+              511.0748291015625,
+              284.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "   then climb to the published MSA (see AIM paragraph 5-4-7c). ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              284.4800109863281,
+              333.2859802246094,
+              296.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In order to survive an encounter with IIMC, a pilot must recognize and accept the seriousness of the situation. The pilot ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              309.4800109863281,
+              524.1209106445312,
+              321.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "will need to immediately commit to the instruments and perform the proper recovery procedures. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              321.9800109863281,
+              444.4848937988281,
+              334.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maintaining  Aircraft Control ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              345.07598876953125,
+              180.2748260498047,
+              359.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Once the crewmembers recognize the situation, they commit to controlling the aircraft by using and trusting flight ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              363.9800109863281,
+              524.1228637695312,
+              376.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "instruments. Attempting to search outside the flight deck for visual confirmation can result in spatial disorientation ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              376.4800109863281,
+              524.0777587890625,
+              388.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and complete loss of control. The crew must rely on instruments and depend on crew coordination to facilitate that ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              388.9800109863281,
+              524.1478271484375,
+              401.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transition. The pilot or flight crew must abandon their efforts to establish visual references and fly the aircraft by their ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              401.4800109863281,
+              524.0516967773438,
+              413.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight instruments. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              413.9800109863281,
+              114.24899291992188,
+              426.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most important concern, along with maintaining aircraft control, is to initiate a climb immediately. An immediate ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              438.9800109863281,
+              524.1278686523438,
+              451.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "climb provides a greater separation from natural and manmade obstacles, as well as improve radar reception of the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              451.4800109863281,
+              524.078857421875,
+              463.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft by ATC. An immediate climb should be appropriate for the current conditions, environment, and known or ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              463.9800109863281,
+              524.14990234375,
+              476.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "perceived obstacles. Listed below are procedures that can assist in maintaining aircraft control after encountering IIMC ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              476.4800109863281,
+              524.1678466796875,
+              488.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with the most critical action being to immediately announce IIMC and begin a substantial climb while procedures are ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              488.9800109863281,
+              524.099853515625,
+              501.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "being performed. These procedures are performed nearly simultaneously: ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              501.4800109863281,
+              344.1959228515625,
+              513.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              530.97998046875,
+              52.05999755859375,
+              543.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Attitude—level wings on the attitude indicator. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              530.97998046875,
+              261.4969787597656,
+              543.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              547.97998046875,
+              52.05999755859375,
+              560.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heading—maintain heading; turn only to avoid known obstacles. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              547.97998046875,
+              336.2559814453125,
+              560.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              564.97998046875,
+              52.05999755859375,
+              577.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Power—adjust power as necessary for desired climb rate. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              564.97998046875,
+              301.7380065917969,
+              577.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              581.97998046875,
+              52.05999755859375,
+              594.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airspeed—adjust airspeed as necessary.  Complete the IIMC recovery according to local and published  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              581.97998046875,
+              491.38494873046875,
+              594.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "regulations and policies.  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              594.47998046875,
+              168.1890106201172,
+              606.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In situations where the pilot encounters IIMC while conducting an instrument maneuver, the best remedy is immediate ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              619.47998046875,
+              524.1278686523438,
+              631.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "execution of the published missed approach. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              631.97998046875,
+              224.9270477294922,
+              644.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The pilot must trust the flight instruments concerning the aircraft’s attitude regardless of intuition or visual interpretation. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              656.97998046875,
+              524.2130737304688,
+              669.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The vestibular sense (motion sensing by the inner ear) can confuse the pilot. Because of inertia, sensory areas of the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              669.47998046875,
+              524.1680908203125,
+              681.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inner ear cannot detect slight changes in aircraft attitude nor can they accurately sense attitude changes that occur at ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              681.97998046875,
+              524.1790771484375,
+              694.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a uniform rate over time. Conversely, false sensations often push the pilot to believe that the attitude of the aircraft has ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              694.47998046875,
+              524.1768188476562,
+              706.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "changed when in fact it has not, resulting in spatial disorientation. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              706.97998046875,
+              311.7459411621094,
+              719.0
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 291,
+        "elements": [
+          {
+            "type": "text",
+            "text": "ATC Requirements During an In-Flight Emergency ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              42.57600021362305,
+              320.53558349609375,
+              57.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC personnel can help pilots during in-flight emergency situations. Pilots should understand the services provided ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              61.47999954223633,
+              560.1719970703125,
+              73.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by ATC and the resources and options available. These services enable pilots to focus on aircraft control and help them ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.97999572753906,
+              560.0537719726562,
+              86.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "make better decisions in a time of stress. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.47999572753906,
+              241.5780029296875,
+              98.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Provide Information ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              109.57600402832031,
+              174.27481079101562,
+              124.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "During emergency situations, pilots should provide as much information as possible to ATC. ATC uses the information to ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              128.47999572753906,
+              560.31982421875,
+              140.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "determine what kind of assistance it can provide with available assets and capabilities. Information requirements vary ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              140.97999572753906,
+              560.1570434570312,
+              153.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "depending on the existing situation. ATC requires at a minimum, the following information for in-flight emergencies: ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              153.47999572753906,
+              556.0638427734375,
+              165.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              170.47999572753906,
+              85.94000244140625,
+              182.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft identification and type ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              170.47999572753906,
+              228.08799743652344,
+              182.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              187.47999572753906,
+              85.94000244140625,
+              199.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Nature of the emergency ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              187.47999572753906,
+              205.18896484375,
+              199.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              204.47999572753906,
+              85.94000244140625,
+              216.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilot’s desires ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              204.47999572753906,
+              156.50900268554688,
+              216.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If time and the situation permits, the pilot should provide ATC with more information. Listed below is additional ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              229.47999572753906,
+              560.5127563476562,
+              241.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information that would help ATC in further assisting the pilot during an emergency situation. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              241.97999572753906,
+              458.5338439941406,
+              254.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              258.9800109863281,
+              85.94000244140625,
+              271.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft altitude ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              258.9800109863281,
+              165.99998474121094,
+              271.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              275.9800109863281,
+              85.94000244140625,
+              288.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Point of departure and destination ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              275.9800109863281,
+              244.68798828125,
+              288.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              292.9800109863281,
+              85.94000244140625,
+              305.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airspeed ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              292.9800109863281,
+              138.1300048828125,
+              305.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              309.9800109863281,
+              85.94000244140625,
+              322.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Fuel remaining in time ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              309.9800109863281,
+              194.47998046875,
+              322.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              326.9800109863281,
+              85.94000244140625,
+              339.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heading since last known position ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              326.9800109863281,
+              243.70899963378906,
+              339.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              343.9800109863281,
+              85.94000244140625,
+              356.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Visible landmarks ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              343.9800109863281,
+              173.84902954101562,
+              356.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              360.9800109863281,
+              85.94000244140625,
+              373.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Navigational aids (NAVAID) signals received ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              360.9800109863281,
+              280.8580017089844,
+              373.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              377.9800109863281,
+              85.94000244140625,
+              390.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Time and place of last known position ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              377.9800109863281,
+              258.4580078125,
+              390.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              394.9800109863281,
+              85.94000244140625,
+              407.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft color ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              394.9800109863281,
+              154.73001098632812,
+              407.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              411.9800109863281,
+              85.94000244140625,
+              424.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilot reported weather ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              411.9800109863281,
+              194.97898864746094,
+              424.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              428.9800109863281,
+              85.94000244140625,
+              441.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Emergency equipment on board ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              428.9800109863281,
+              236.65798950195312,
+              441.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              445.9800109863281,
+              85.94000244140625,
+              458.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Number of people on board ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              445.9800109863281,
+              217.5080108642578,
+              458.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              462.9800109863281,
+              85.94000244140625,
+              475.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilot capability for IFR flight ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              462.9800109863281,
+              215.07798767089844,
+              475.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "• ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              479.9800109863281,
+              85.94000244140625,
+              492.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Navigation equipment capability ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              479.9800109863281,
+              237.8879852294922,
+              492.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When the pilot requests, or when deemed necessary, ATC can enlist services of available radar facilities and DF facilities ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              504.9800109863281,
+              560.1491088867188,
+              517.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "operated by the FAA. ATC can also coordinate with other agencies, such as the U.S. Coast Guard (USCG) and other local ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              517.47998046875,
+              560.158935546875,
+              529.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "authorities and request their emergency services. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              529.97998046875,
+              278.8170166015625,
+              542.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radar Assistance ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              552.5759887695312,
+              158.0148162841797,
+              567.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radar is an invaluable asset that can be used by pilots during emergencies. With radar, ATC can provide navigation ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              571.47998046875,
+              560.0620727539062,
+              583.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "assistance to aircraft and provide last-known location during catastrophic emergencies. If a VFR aircraft encounters or ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.97998046875,
+              560.0990600585938,
+              596.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is about to encounter IMC weather conditions, the pilot can request radar vectors to VFR airports or VFR conditions. If ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              596.47998046875,
+              560.1259765625,
+              608.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilot determines that he or she is qualified and the aircraft is capable of conducting IFR flight, the pilot should file ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              608.97998046875,
+              560.12890625,
+              621.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an IFR flight plan and request a clearance from ATC to the destination airport as appropriate. If the aircraft has already ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              621.47998046875,
+              560.0770874023438,
+              633.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "encountered IFR conditions, ATC can inform the pilot of appropriate terrain/obstacle clearance minimum altitude. If the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              633.97998046875,
+              560.0870361328125,
+              646.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft is below appropriate terrain/obstacle clearance minimum altitude and sufficiently accurate position information ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              646.47998046875,
+              560.43896484375,
+              658.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has been received or radar identification is established, ATC can furnish a heading or radial on which to climb to reach ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              658.97998046875,
+              560.1588134765625,
+              671.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate terrain/ obstacle clearance minimum altitude. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              671.47998046875,
+              314.70703125,
+              683.5
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 292,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Emergency Airports ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              42.57600021362305,
+              137.90281677246094,
+              57.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC personnel consider how much remaining fuel in relation to the distance to the airport and weather conditions ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              61.47999954223633,
+              524.1488647460938,
+              73.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when recommending an emergency airport to aircraft requiring assistance.  Depending on the nature of the emergency, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              73.97999572753906,
+              523.699951171875,
+              86.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "certain weather phenomena may deserve weighted consideration.  A pilot may elect to fly further to land at an airport ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              86.47999572753906,
+              524.1468505859375,
+              98.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with VFR conditions instead of closer airfield with IFR conditions. Other considerations are airport conditions, NAVAID ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              98.97999572753906,
+              524.1378173828125,
+              111.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "status, aircraft type, pilot’s qualifications, and vectoring or homing capability to the emergency airport. In addition, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              111.47999572753906,
+              524.095947265625,
+              123.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC and pilots should determine which guidance can be used to fly to the emergency airport. The following options ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              123.97999572753906,
+              524.1206665039062,
+              136.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may be available: ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              136.47999572753906,
+              109.82899475097656,
+              148.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              153.47999572753906,
+              52.05999755859375,
+              165.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radar ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              65.1199951171875,
+              153.47999572753906,
+              91.28999328613281,
+              165.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              170.47999572753906,
+              52.05999755859375,
+              182.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "DF ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              65.1199951171875,
+              170.47999572753906,
+              78.77000427246094,
+              182.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              187.47999572753906,
+              52.05999755859375,
+              199.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Following another aircraft ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              187.47999572753906,
+              172.57899475097656,
+              199.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              204.47999572753906,
+              52.05999755859375,
+              216.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NAVAIDs ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              65.1199951171875,
+              204.47999572753906,
+              103.55000305175781,
+              216.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              221.47999572753906,
+              52.05999755859375,
+              233.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilotage by landmarks ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              221.47999572753906,
+              157.25901794433594,
+              233.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•  ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              238.47999572753906,
+              52.05999755859375,
+              250.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Compass headings ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              238.47999572753906,
+              143.65000915527344,
+              250.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Emergency Obstruction Video Map (EOVM) ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              261.07598876953125,
+              252.92166137695312,
+              275.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The emergency obstruction video map (EOVM) is intended to facilitate advisory service in an emergency situation when ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              279.9800109863281,
+              523.9251708984375,
+              292.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate terrain/obstacle clearance minimum altitude cannot be maintained. The EOVM, and the service provided, ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              292.4800109863281,
+              524.072021484375,
+              304.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are used only under the following conditions: ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              304.9800109863281,
+              226.3380126953125,
+              317.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.  The pilot has declared an emergency. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              321.9800109863281,
+              219.94801330566406,
+              334.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.  The controller has determined an emergency condition exists or is imminent because of the pilots inability to ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              338.9800109863281,
+              524.1088256835938,
+              351.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maintain an appropriate terrain/obstacle clearance minimum altitude. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              351.4800109863281,
+              355.22601318359375,
+              363.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note:  Appropriate terrain/obstacle clearance minimum altitudes may be defined as minimum IFR altitude (MIA), minimum ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.33012390136719,
+              376.4800109863281,
+              526.81201171875,
+              388.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "en route altitude (MEA), minimum obstacle clearance altitude (MOCA), or minimum vectoring altitude (MVA). ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.33074951171875,
+              388.9800109863281,
+              491.19146728515625,
+              401.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When providing emergency vectoring service, the controller advises the pilot that any headings issued are emergency ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              413.9800109863281,
+              524.11865234375,
+              426.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "advisories intended only to direct the aircraft toward and over an area of lower terrain/obstacle elevation. Altitudes and ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              426.4800109863281,
+              524.140869140625,
+              438.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "obstructions depicted on the EOVM are actual altitudes and locations of the obstacle/terrain and contain no lateral or ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              438.9800109863281,
+              524.1829223632812,
+              451.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vertical buffers for obstruction clearance. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              451.4800109863281,
+              207.99801635742188,
+              463.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Responsibility ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              474.07598876953125,
+              108.45478820800781,
+              488.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATC, in communication with an aircraft in distress, should handle the emergency and coordinate and direct the activities ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              492.9800109863281,
+              524.1510009765625,
+              505.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of assisting facilities. ATC will not transfer this responsibility to another facility unless that facility can better handle the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              505.4800109863281,
+              524.167724609375,
+              517.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "situation. When an ATC facility receives information about an aircraft in distress, they forward detailed data to the center ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              517.97998046875,
+              524.1187744140625,
+              530.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the area of the emergency. Centers serve as central points for collecting information, coordinating with search and ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              530.47998046875,
+              524.1387329101562,
+              542.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rescue (SAR) and distributing information to appropriate agencies. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              542.97998046875,
+              313.0960693359375,
+              555.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Although 121.5 megahertz and 243.0 megahertz are emergency frequencies, the pilot should keep the aircraft on the ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              567.97998046875,
+              524.0769653320312,
+              580.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "initial contact frequency. The pilot should change frequencies only when a valid reason exists. When necessary, and ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              580.47998046875,
+              524.1539916992188,
+              592.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if weather and circumstances permit, ATC should recommend that aircraft maintain or increase altitude to improve ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              592.97998046875,
+              524.08984375,
+              605.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications, radar, or DF reception. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              605.47998046875,
+              204.1179962158203,
+              617.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Escort ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 12.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              628.0759887695312,
+              69.2760009765625,
+              642.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An escort aircraft, if available, should consider and evaluate an appropriate formation. Special consideration must be ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              646.97998046875,
+              524.1469116210938,
+              659.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "given if maneuvers take the aircraft through clouds. Aircraft should not execute an in-flight join up during emergency ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              659.47998046875,
+              524.0589599609375,
+              671.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conditions unless both crews involved are familiar with and capable of formation flight and can communicate and have ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              671.97998046875,
+              524.0789184570312,
+              684.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "visual contact with each other. ",
+            "font_name": "MyriadPro-Regular",
+            "font_size": 10.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              684.47998046875,
+              164.4580078125,
+              696.5
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

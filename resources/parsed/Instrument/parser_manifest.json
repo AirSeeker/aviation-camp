@@ -1,0 +1,105 @@
+{
+  "book_id": "Instrument",
+  "title": "Instrument Flying Handbook",
+  "pdf_path": "resources/library/Instrument/Instrument.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 20,
+      "end_page": 51,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 52,
+      "end_page": 67,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 68,
+      "end_page": 77,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 78,
+      "end_page": 95,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 96,
+      "end_page": 133,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 134,
+      "end_page": 161,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 162,
+      "end_page": 223,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 224,
+      "end_page": 243,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 244,
+      "end_page": 291,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 292,
+      "end_page": 325,
+      "content_path": "ch10.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 11",
+      "start_page": 326,
+      "end_page": 339,
+      "content_path": "ch11.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix A - Clearance Shorthand",
+      "start_page": 340,
+      "end_page": 341,
+      "content_path": "section_012_appendix_appendix_a_clearance_shorthand.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix B - Instrument Training Lesson Guide",
+      "start_page": 342,
+      "end_page": 345,
+      "content_path": "section_013_appendix_appendix_b_instrument_training_lesson_guide.json"
+    },
+    {
+      "type": "glossary",
+      "title": "Glossary",
+      "start_page": 346,
+      "end_page": 365,
+      "content_path": "section_014_glossary.json"
+    }
+  ]
+}

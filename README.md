@@ -26,16 +26,19 @@ The library includes FAA training material under `resources/library`, including:
 - Weather
 - WeightBalance
 
-## Parser
+## Parser Library
 
 The PDF processing pipeline lives in:
 
-- `scripts/process_pdf_sections.py`
+- `scripts/parser_library.py`
 
-It reads the merged library metadata and writes structured output under:
+It reads book titles, source URLs, local PDF paths, and section boundaries from
+the versioned library manifest, then writes structured output under:
 
-- `resources/library/library_manifest.json`
 - `output/<book_id>`
+
+The manifest defaults to `resources/library/library_manifest.json`; it can be
+provided explicitly when running the processor.
 
 For full parser documentation, see:
 
@@ -87,13 +90,13 @@ source .venv/bin/activate
 Run the PDF processor:
 
 ```bash
-python scripts/process_pdf_sections.py resources/library/library_manifest.json
+python scripts/parser_library.py resources/library/library_manifest.json
 ```
 
 Run the PDF processor tests:
 
 ```bash
-python -m unittest tests.test_process_pdf_sections -v
+python -m unittest tests.test_parser_library -v
 ```
 
 ## Notes

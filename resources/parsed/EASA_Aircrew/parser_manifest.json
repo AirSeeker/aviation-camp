@@ -1,0 +1,77 @@
+{
+  "book_id": "EASA_Aircrew",
+  "title": "Easy Access Rules for Aircrew (Regulation (EU) No 1178/2011)",
+  "pdf_path": "resources/library/EASA_Aircrew/EASA_Aircrew.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 40,
+      "end_page": 64,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 65,
+      "end_page": 1433,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 1434,
+      "end_page": 1441,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 1442,
+      "end_page": 1442,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 1443,
+      "end_page": 1577,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 1578,
+      "end_page": 1584,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 1585,
+      "end_page": 1728,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 1729,
+      "end_page": 1838,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 1839,
+      "end_page": 1858,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 1859,
+      "end_page": 1869,
+      "content_path": "ch10.json"
+    }
+  ]
+}
