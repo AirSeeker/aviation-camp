@@ -17,7 +17,13 @@ manifest. If no manifest path is passed, it uses
 `resources/library/library_manifest.json`. For every book, it downloads the PDF
 to the manifest's `pdf_path` and writes each parsed section and its extracted
 content under `resources/parsed/<book_id>/` and extracted images directly
-under `public/images/`:
+under `public/images/`.
+
+You can limit the run to a subset of books and process several books at once:
+
+```bash
+python scripts/parser_library.py resources/library/library_manifest.json --book AFH --book PHAK --book Weather --jobs 3
+```
 
 ```text
 resources/parsed/<book_id>/

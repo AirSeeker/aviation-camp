@@ -1,0 +1,2403 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 8",
+    "start_page": 95,
+    "end_page": 109,
+    "pages": [
+      {
+        "page_number": 95,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p95_b2.png",
+            "bbox": [
+              58.13999938964844,
+              64.74000549316406,
+              550.6799926757812,
+              282.4800109863281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric Pressure and Altimetry ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              517.64501953125,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric pressure is one of the most basic variables used to describe the state of the atmosphere and is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.4927368164062,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "commonly reported in weather observations. Unlike temperature and relative humidity, changes in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.415771484375,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmospheric pressure are not as readily sensed by people. However, variations of pressure across the Earth ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.652587890625,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are associated with pressure centers (either high-pressure centers or low-pressure centers) that cause the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.6917724609375,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind to blow and can bring important weather changes. Density, which is directly related to pressure, is a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              542.8049926757812,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "property of the atmosphere, which can be used by pilots to help determine how their aircraft will perform ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              201.84243774414062,
+              542.3828735351562,
+              212.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at various altitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              214.50247192382812,
+              160.625,
+              225.4824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter discusses atmospheric pressure, how it is measured, and how it varies across the Earth. This ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              233.10244750976562,
+              542.43798828125,
+              244.0824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "chapter also covers the altimeter, which is a pressure sensor used by pilots to determine altitude. Finally, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.76242065429688,
+              542.4158325195312,
+              256.7424011230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "density will be discussed, along with its relationship to density altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              258.4224548339844,
+              388.885009765625,
+              269.4024353027344
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 96,
+        "elements": []
+      },
+      {
+        "page_number": 97,
+        "elements": []
+      },
+      {
+        "page_number": 98,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p98_b10.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.969970703125,
+              285.8999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-3. Station Pressure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              298.31512451171875,
+              186.18499755859375,
+              308.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The next few sections will examine some factors that influence pressure. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              322.8624572753906,
+              394.5849914550781,
+              333.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.2.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              347.740478515625,
+              97.98790740966797,
+              360.760498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pressure Variation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              347.740478515625,
+              207.69500732421875,
+              360.760498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric pressure varies with altitude and the temperature of the air, as well as with other minor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.4624328613281,
+              542.3719482421875,
+              379.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "influences, such as water vapor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.1224365234375,
+              215.2849884033203,
+              392.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.2.4.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              405.8814697265625,
+              105.0,
+              417.8814697265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pressure Changes with Altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              405.8814697265625,
+              269.8399963378906,
+              417.8814697265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As a person moves upward through the atmosphere, the weight of the air above the person decreases. If a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.5424499511719,
+              542.8050537109375,
+              436.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "person carries a barometer, then they can measure a decrease in pressure as the weight of the air above them ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              438.20245361328125,
+              542.8049926757812,
+              449.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decreases. Figure 8-4 shows the pressure decrease with height in the standard atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.8624572753906,
+              471.2649841308594,
+              461.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The standard altitudes in Figure 8-4 are based on standard temperatures. In the real atmosphere, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              469.5224304199219,
+              542.5980834960938,
+              480.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperatures are seldom standard, so temperature’s effects on pressure will be explored in the following ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              482.1224365234375,
+              542.7176513671875,
+              493.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "section. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.7824401855469,
+              108.66500091552734,
+              505.7624206542969
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 99,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p99_b4.png",
+            "bbox": [
+              97.5,
+              72.0,
+              513.9000244140625,
+              672.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-4. Air Pressure in the Standard Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              679.3351440429688,
+              285.5450134277344,
+              689.3551635742188
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 100,
+        "elements": []
+      },
+      {
+        "page_number": 101,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Sea level pressure is typically displayed on surface weather charts. Pressure continually changes across the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.536865234375,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth, so a sequence of surface charts must be viewed to follow these changing pressures. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              469.4049987792969,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              110.96048736572266,
+              88.2750015258789,
+              123.9804916381836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              110.96048736572266,
+              144.51499938964844,
+              123.9804916381836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density is the ratio of any quantity to the volume or area it occupies. Atmospheric density is defined as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.70242309570312,
+              542.2510986328125,
+              142.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ratio of the mass (or weight) of the air to the volume occupied by it, usually expressed in kilograms per ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.30245971679688,
+              542.2841796875,
+              155.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cubic meter (see Figure 8-7). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              202.14498901367188,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p101_b10.png",
+            "bbox": [
+              198.0,
+              178.69000244140625,
+              413.97998046875,
+              389.2900085449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-7. Density is Mass (Weight) per Volume ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              400.4951171875,
+              274.0249938964844,
+              410.5151062011719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.2804870605469,
+              97.98790740966797,
+              438.3005065917969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Volume’s Effects on Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              425.2804870605469,
+              262.5350036621094,
+              438.3005065917969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The density of an air parcel varies inversely with its volume. Assuming equal mass, an air parcel with a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.00244140625,
+              542.7410278320312,
+              456.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "higher density has a smaller volume than an air parcel with a lower density (see Figure 8-8). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              458.6624450683594,
+              480.0849914550781,
+              469.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The shorter parcel (i.e., the parcel with the smaller volume) has a higher density than the taller parcel, which ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              477.32244873046875,
+              542.6695556640625,
+              488.30242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contains the larger volume. This is due to the fact that the air molecules within the shorter parcel must be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              489.9224548339844,
+              542.2401733398438,
+              500.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "compressed within the smaller volume. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              502.58245849609375,
+              247.3249969482422,
+              513.5624389648438
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 102,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p102_b12.png",
+            "bbox": [
+              162.0,
+              71.99998474121094,
+              449.989990234375,
+              322.54998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-8. Volume’s Effects on Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.8751220703125,
+              237.84500122070312,
+              339.8951110839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              354.6404724121094,
+              97.98790740966797,
+              367.6604919433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Changes in Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              354.6404724121094,
+              213.09500122070312,
+              367.6604919433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In general, the density of an air parcel can be changed by changing its mass, pressure, or temperature. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              375.3624572753906,
+              542.3938598632812,
+              386.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Boyle’s law says that the density of an ideal gas (ρ, the Greek letter rho) is given by: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              388.0224304199219,
+              446.8450012207031,
+              399.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "𝜌= ",
+            "font_name": "CambriaMath",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              282.3800048828125,
+              416.3004455566406,
+              308.7200012207031,
+              430.28045654296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Where ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              444.0224304199219,
+              104.03960418701172,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "M",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              105.80000305175781,
+              444.0224304199219,
+              114.94634246826172,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is the molar mass, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              114.91999816894531,
+              444.0224304199219,
+              206.7878875732422,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "P",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              208.63999938964844,
+              444.0224304199219,
+              215.34878540039062,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is the pressure, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              215.36000061035156,
+              444.0224304199219,
+              291.7240905761719,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "R",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              293.5400085449219,
+              444.0224304199219,
+              300.248779296875,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is the universal gas constant, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              300.260009765625,
+              444.0224304199219,
+              461.043212890625,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              456.68243408203125,
+              130.02499389648438,
+              467.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.3.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              481.50048828125,
+              97.98790740966797,
+              494.5205078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density’s Effects on Pressure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              481.50048828125,
+              264.69500732421875,
+              494.5205078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density is directly related to pressure. Assuming constant mass and temperature, an air parcel with a higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              502.2224426269531,
+              542.635498046875,
+              513.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressure is denser than an air parcel with a lower pressure. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              514.8823852539062,
+              331.6449890136719,
+              525.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As previously discussed, air pressure decreases with height in the atmosphere. Therefore, the density also ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.5424194335938,
+              542.49853515625,
+              544.5224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decreases with height (see Figure 8-9). In the atmosphere, pressure has the greatest effect on density in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.202392578125,
+              542.643310546875,
+              557.1824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vertical direction. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.8624267578125,
+              152.34500122070312,
+              569.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "𝑀𝑃",
+            "font_name": "CambriaMath",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              308.7200012207031,
+              405.6804504394531,
+              329.267578125,
+              419.66046142578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "𝑅𝑇",
+            "font_name": "CambriaMath",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              310.3999938964844,
+              425.720458984375,
+              327.59808349609375,
+              439.7004699707031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "T",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              462.94000244140625,
+              444.0224304199219,
+              469.0448913574219,
+              455.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": " is the absolute ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.05999755859375,
+              444.0224304199219,
+              542.7120361328125,
+              455.0024108886719
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 103,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p103_b6.png",
+            "bbox": [
+              162.0,
+              76.5,
+              450.0,
+              424.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-9. Pressure’s Effects on Density in the Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              436.3351135253906,
+              315.8450012207031,
+              446.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              461.1004638671875,
+              97.98790740966797,
+              474.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature’s Effects on Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              461.1004638671875,
+              287.07501220703125,
+              474.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density is inversely related to temperature. Assuming constant mass and pressure, an air parcel with a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              481.82244873046875,
+              542.75390625,
+              492.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "higher temperature is less dense than an air parcel with a lower temperature (see Figure 8-10). This is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.4824523925781,
+              542.7517700195312,
+              505.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "because the warmer air occupies a large volume. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              507.1424255371094,
+              288.60498046875,
+              518.1224365234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 104,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p104_b11.png",
+            "bbox": [
+              194.25,
+              76.50003051757812,
+              417.44000244140625,
+              258.1500244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-10. Temperature’s Effects on Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              269.81512451171875,
+              261.6650085449219,
+              279.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the atmosphere, temperature has the most effect on density in the horizontal direction; that is, with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              294.3624572753906,
+              542.3389892578125,
+              305.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "horizontal changes of location (e.g., New York City versus Miami), temperature has the greatest effect on ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              306.9624328613281,
+              542.3501586914062,
+              317.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "density. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              319.6224365234375,
+              109.26499938964844,
+              330.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.3.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              344.50048828125,
+              97.98790740966797,
+              357.5205078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Water Vapor’s Effects on Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              344.50048828125,
+              288.1549987792969,
+              357.5205078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density of an air parcel is inversely related to its quantity of water vapor. Assuming constant pressure, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.2224426269531,
+              542.3720092773438,
+              376.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature, and volume, air with a greater amount of water vapor is less dense than air with a lesser amount ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              377.8824462890625,
+              542.6083984375,
+              388.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of water vapor. This is because dry air molecules have a larger mass (weight) than water vapor molecules, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.5424499511719,
+              542.3829345703125,
+              401.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and density is directly related to mass (see Figure 8-11). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              403.2224426269531,
+              321.56500244140625,
+              414.2024230957031
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p104_b12.png",
+            "bbox": [
+              212.25,
+              430.89996337890625,
+              399.6499938964844,
+              613.5899658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-11. Water Vapor’s Effects on Density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              625.755126953125,
+              262.56500244140625,
+              635.775146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              650.5205078125,
+              88.2750015258789,
+              663.5404663085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altimetry ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              650.5205078125,
+              154.59500122070312,
+              663.5404663085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The altimeter is essentially an aneroid barometer. The difference is the scale. The altimeter is graduated to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              671.1824340820312,
+              542.405029296875,
+              682.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "read increments of altitude rather than units of pressure. The standard for graduating the altimeter is the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              683.8624267578125,
+              542.64697265625,
+              694.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "standard atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              696.5223999023438,
+              168.2449951171875,
+              707.50244140625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 105,
+        "elements": []
+      },
+      {
+        "page_number": 106,
+        "elements": [
+          {
+            "type": "text",
+            "text": "desirable altitude for a true reading of the altimeter. The altimeter setting is the value to which the scale of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3827514648438,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pressure altimeter is set so the altimeter indicates true altitude at field elevation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              441.9849853515625,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To ensure the altimeter reading is compatible with altimeter readings of other aircraft in the vicinity, a pilot ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              104.68245697021484,
+              542.4927978515625,
+              115.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "should ensure the altimeter setting is current. The pilot should adjust it frequently while in flight, according ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.72607421875,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the nearest surface weather reporting station. Figure 8-13 shows the trouble a pilot can encounter if not ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.59326171875,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vigilant in adjusting the altimeter during flight. As the pilot flies from high pressure to low pressure, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.568359375,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "plane is lower than the altimeter indicates. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              260.7649841308594,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p106_b6.png",
+            "bbox": [
+              162.0,
+              183.04000854492188,
+              449.989990234375,
+              454.19000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-13. Pressure Change’s Effects on Altimeter Readings ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.3951110839844,
+              324.5050048828125,
+              476.41510009765625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 107,
+        "elements": []
+      },
+      {
+        "page_number": 108,
+        "elements": [
+          {
+            "type": "text",
+            "text": "altitude, a constant-pressure surface defines a constant-pressure altitude. When a pilot flies a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.6778564453125,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "constant-pressure altitude, the pilot is flying a constant-pressure surface. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              393.0249938964844,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As discussed earlier, constant-pressure surfaces have different heights across them. Therefore, when flying ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              104.68245697021484,
+              542.6073608398438,
+              115.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at a specific pressure altitude (i.e., constant-pressure surface) a pilot’s true altitude will change with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.6669311523438,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "distance. However, since pressure altitudes are flown at or above FL180 (in the United States), a pilot will ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.721923828125,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "almost always be above the highest terrain features. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              301.9849853515625,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.4.1.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              167.48147583007812,
+              105.0,
+              179.48147583007812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density Altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              167.48147583007812,
+              197.83999633789062,
+              179.48147583007812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density altitude is the pressure altitude corrected for temperature deviations from the standard atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              187.14242553710938,
+              542.6026000976562,
+              198.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density altitude bears the same relation to pressure altitude as true altitude does to indicated altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.80245971679688,
+              518.3049926757812,
+              210.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density altitude is indirectly related to atmospheric density; as air density increases, the density altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              218.40243530273438,
+              542.3828735351562,
+              229.38243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decreases, and conversely, as air density decreases, the density altitude increases. Airports with higher field ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              231.06246948242188,
+              542.6754760742188,
+              242.04246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "elevations (e.g., Denver) have lower pressure, lower density, and, therefore, higher density altitudes than ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              243.72244262695312,
+              542.3609008789062,
+              254.7024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airports with lower field elevations (e.g., New Orleans). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              256.3824157714844,
+              320.6650085449219,
+              267.3623962402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density altitude equals field elevation during standard atmospheric conditions, but conditions are rarely ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              275.0424499511719,
+              542.5035400390625,
+              286.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "standard. Density altitude is higher (lower) than standard at airports that report lower (higher) than standard ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              287.6424560546875,
+              542.58056640625,
+              298.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressures (e.g., 29.92 inHg) and/or higher (lower)-than-standard temperatures. Temperature is the most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              300.3024597167969,
+              542.6578369140625,
+              311.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "important factor, since temperature has the greatest effect on density horizontally in the atmosphere. On hot ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              312.9624328613281,
+              542.6886596679688,
+              323.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "days, the air becomes less dense, causing high density altitudes. On cold days, the air is denser, causing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              325.6224365234375,
+              542.7581176757812,
+              336.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lower density altitudes. Dewpoint (water vapor) is also a contributing factor, but its effects are generally ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              338.2824401855469,
+              542.3939819335938,
+              349.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "negligible. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              350.94244384765625,
+              121.5050048828125,
+              361.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density altitude is an index to aircraft performance. Higher density altitude decreases aircraft performance. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              369.5424499511719,
+              542.768798828125,
+              380.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lower density altitude increases aircraft performance. High density altitude is a hazard, since it reduces ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              382.20245361328125,
+              542.7322387695312,
+              393.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              394.8624572753906,
+              103.69926452636719,
+              405.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "performance in the following three ways: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              106.45999908447266,
+              394.8624572753906,
+              290.94500732421875,
+              405.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              413.5424499511719,
+              98.26499938964844,
+              424.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It reduces power because the engine takes in less air to support combustion. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              413.5424499511719,
+              444.0249938964844,
+              424.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              432.20245361328125,
+              98.26499938964844,
+              443.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It reduces thrust because there is less air for the propeller to work with, or a jet has less mass of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              432.20245361328125,
+              542.3117065429688,
+              443.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "gases to force out of the exhaust. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              444.8624572753906,
+              255.2449951171875,
+              455.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              463.4624328613281,
+              98.26499938964844,
+              474.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It reduces lift because the light air exerts less force on the airfoils. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              463.4624328613281,
+              400.6449890136719,
+              474.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A pilot cannot detect the effect of high-density altitude on the airspeed indicator. The aircraft lifts off, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              482.1224365234375,
+              542.72900390625,
+              493.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "climbs, cruises, glides, and lands at the prescribed indicated airspeeds; but at a specified indicated airspeed, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.7824401855469,
+              542.5805053710938,
+              505.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilot’s true airspeed and groundspeed increase proportionally as density altitude becomes higher. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              507.4424743652344,
+              517.4649658203125,
+              518.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The net results are that high density altitude lengthens a pilot’s takeoff and landing rolls and reduces the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              526.0424194335938,
+              542.8049926757812,
+              537.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rate of climb. Before lift-off, the plane must attain a faster groundspeed, and, therefore, needs more runway; ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.702392578125,
+              542.5951538085938,
+              549.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and the reduced power and thrust add a need for still more runway. The plane lands at a faster groundspeed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.3624267578125,
+              542.6240844726562,
+              562.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and, therefore, needs more room to stop. At a prescribed indicated airspeed, it is flying at a faster true ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              564.0223999023438,
+              542.3828125,
+              575.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspeed, and, therefore, covers more distance in a given time, which means climbing at a shallower angle. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.6824340820312,
+              542.7589111328125,
+              587.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Adding to this are the problems of reduced power and rate of climb. Figure 8-15 shows the effect of density ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              589.3424072265625,
+              542.7686157226562,
+              600.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "altitude on takeoff distance and rate of climb. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              602.0023803710938,
+              274.5050048828125,
+              612.982421875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 109,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p109_b6.png",
+            "bbox": [
+              126.0,
+              76.5,
+              485.92999267578125,
+              347.6000061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 8-15. High Density Altitude’s Effects on Flight ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              359.81512451171875,
+              292.20501708984375,
+              369.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "High density altitude also can be a problem at cruising altitude. When air temperature is higher (warmer) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              384.3624572753906,
+              542.73828125,
+              395.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than standard atmosphere, the higher density altitude lowers the service ceiling. For example, if temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.9624328613281,
+              542.6024169921875,
+              407.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at a pressure altitude of 10,000 ft is 20 °C, density altitude is 12,700 ft. A pilot’s aircraft will perform as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.6424560546875,
+              542.7252807617188,
+              420.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "though it were at 12,700 ft indicated with a normal temperature of -8 °C. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              422.3024597167969,
+              394.7049865722656,
+              433.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To compute density altitude, a pilot can set the altimeter to 29.92 in (1,013.2 mb), read the pressure altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              440.9624328613281,
+              542.7246704101562,
+              451.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from the altimeter, obtain the OAT, and then use a flight computer to compute density altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              453.6224365234375,
+              492.625,
+              464.6024169921875
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

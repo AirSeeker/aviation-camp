@@ -1,0 +1,2021 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 5",
+    "start_page": 67,
+    "end_page": 79,
+    "pages": [
+      {
+        "page_number": 67,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p67_b2.png",
+            "bbox": [
+              59.939998626708984,
+              65.33999633789062,
+              552.47998046875,
+              232.67999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heat and Temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              358.1650085449219,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature is one of the most basic variables used to describe the state of the atmosphere. Air temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.735595703125,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "varies with time from one season to the next, between day and night, and even from one hour to the next. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.30615234375,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air temperature also varies from one location to another, from high altitudes and latitudes to low altitudes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.27294921875,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and latitudes. Temperature can be critical to some flight operations. As a foundation for the study of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.4873046875,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature effects on aviation and weather, this chapter describes temperature, temperature measurement, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              542.5256958007812,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and heat transfer and imbalances. For additional information on how temperature may affect flight ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              201.84243774414062,
+              542.57861328125,
+              212.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "performance, please see Chapter 8. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              214.50247192382812,
+              228.72499084472656,
+              225.4824676513672
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 68,
+        "elements": [
+          {
+            "type": "text",
+            "text": "5.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              88.2750015258789,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Matter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              79.6404800415039,
+              138.7550048828125,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Matter is the substance of which all physical objects are composed. Matter is composed of atoms and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.7273559570312,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "molecules, both of which occupy space and have mass. The Earth’s gravity acting on the mass of matter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.62939453125,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "produces weight. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              149.88499450683594,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.5804901123047,
+              88.2750015258789,
+              163.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Energy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              150.5804901123047,
+              141.635009765625,
+              163.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Energy is the ability to do work. It can exist in many forms and can be converted from one form to another. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              171.30245971679688,
+              542.4873657226562,
+              182.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For example, if a ball is located at the edge of a slide, it contains some amount of potential energy (energy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              183.90243530273438,
+              542.637939453125,
+              194.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of position). This potential energy is converted to kinetic energy (energy of motion) when the ball rolls ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              196.56246948242188,
+              542.5594482421875,
+              207.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "down the slide. Atoms and molecules produce kinetic energy because they are in constant motion. Higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              209.22244262695312,
+              542.4729614257812,
+              220.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "speeds of motion indicate higher levels of kinetic energy. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              221.88241577148438,
+              326.7850036621094,
+              232.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              246.76048278808594,
+              88.2750015258789,
+              259.7804870605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heat ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              246.76048278808594,
+              128.61500549316406,
+              259.7804870605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heat is the total kinetic energy of the atoms and molecules composing a substance. The atoms and molecules ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              267.4824523925781,
+              542.58056640625,
+              278.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in a substance do not all move at the same velocity. Thus, there is actually a range of kinetic energy among ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              280.1424560546875,
+              542.4266357421875,
+              291.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the atoms and molecules. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              292.8024597167969,
+              185.9449920654297,
+              303.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              317.6204833984375,
+              88.2750015258789,
+              330.6405029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              317.6204833984375,
+              170.49501037597656,
+              330.6405029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature is a numerical value representing the average kinetic energy of the atoms and molecules within ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              338.3424377441406,
+              542.5238037109375,
+              349.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "matter. Temperature depends directly on the energy of molecular motion. Higher (warmer) temperatures ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              351.00244140625,
+              542.6942749023438,
+              361.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "indicate a higher average kinetic energy of molecular motion due to faster molecular speeds. Lower (colder) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              363.6624450683594,
+              542.55859375,
+              374.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperatures indicate a lower average kinetic energy of molecular motion due to slower molecular speeds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              376.32244873046875,
+              542.7571411132812,
+              387.30242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature is an indicator of the internal energy of air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              388.9824523925781,
+              322.2250061035156,
+              399.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              413.8804626464844,
+              97.98790740966797,
+              426.9004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature Measurement ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              413.8804626464844,
+              251.6750030517578,
+              426.9004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A thermometer is an instrument used to measure temperature. Higher temperatures correspond to higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.6024475097656,
+              542.4707641601562,
+              445.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "molecular energies, while lower temperatures correspond to lower molecular energies. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.262451171875,
+              455.06500244140625,
+              458.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.5.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              472.0804748535156,
+              97.98790740966797,
+              485.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature Scales ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              472.0804748535156,
+              214.1750030517578,
+              485.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Many scientists use the Kelvin (K) scale, a thermodynamic (absolute) temperature scale, where absolute ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.8024597167969,
+              542.3942260742188,
+              503.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "zero, the theoretical absence of all thermal energy, is 0 K. Thus, the Kelvin scale is a direct measure of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              505.4624328613281,
+              542.66650390625,
+              516.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "average kinetic molecular activity. Because nothing can be colder than absolute zero, the Kelvin scale ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              518.1223754882812,
+              542.3829956054688,
+              529.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contains no negative numbers. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.7824096679688,
+              208.625,
+              541.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Celsius (°C) scale is the most commonly used temperature scale worldwide and in meteorology. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              549.4424438476562,
+              542.7510986328125,
+              560.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "scale is approximately based on the freezing point (0 °C) and boiling point (100 °C) of water under a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              562.0424194335938,
+              542.7488403320312,
+              573.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressure of one standard atmosphere (approximately sea level). Each degree on the Celsius scale is exactly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              574.702392578125,
+              542.6135864257812,
+              585.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the same size as a degree on the Kelvin scale. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              587.3624267578125,
+              275.10498046875,
+              598.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the early 1990s, the United States aligned with ICAO standards by moving to the metric system for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              606.0223999023438,
+              542.4801635742188,
+              617.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aviation weather reports. While some websites and applications provide temperature from the METAR in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              618.6824340820312,
+              542.6342163085938,
+              629.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "degrees Fahrenheit, these are done by the conversion software, as the temperature in the METAR is strictly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              631.3424072265625,
+              542.6775512695312,
+              642.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reported in degrees Celsius. The United States uses the Fahrenheit (°F) scale for everyday temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              643.9424438476562,
+              542.677978515625,
+              654.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "measurements for non-aviation purposes. In this scale, the freezing point of water is 32 °F and the boiling ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              656.6024169921875,
+              542.7622680664062,
+              667.5824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "point is 212 °F. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              669.2623901367188,
+              142.7449951171875,
+              680.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Table 5-1 and Table 5-2 for conversion information between temperature scales. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              687.9424438476562,
+              447.3249816894531,
+              698.9224853515625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 69,
+        "elements": []
+      },
+      {
+        "page_number": 70,
+        "elements": []
+      },
+      {
+        "page_number": 71,
+        "elements": []
+      },
+      {
+        "page_number": 72,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p72_b7.png",
+            "bbox": [
+              76.5,
+              76.5,
+              544.5,
+              244.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-4. Solar Zenith Angle ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              256.31512451171875,
+              198.125,
+              266.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.6.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              281.0804748535156,
+              97.98790740966797,
+              294.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Conduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              281.0804748535156,
+              171.93499755859375,
+              294.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Conduction is the transfer of energy (including heat) by molecular activity from one substance to another ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              301.8024597167969,
+              542.3389892578125,
+              312.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in contact with or through a substance. Heat always flows from the warmer substance to the colder ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.4624328613281,
+              542.4127197265625,
+              325.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "substance. The rate of heat transfer is greater with larger temperature differences and depends directly on ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              327.06243896484375,
+              542.3828735351562,
+              338.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ability of the substance(s) to conduct heat. During conduction, the warmer substance cools and loses ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              339.7224426269531,
+              542.6348876953125,
+              350.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heat energy, while the cooler substance warms and gains heat energy. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.3824462890625,
+              380.8450012207031,
+              363.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heat (thermal) conductivity is the property of a substance that indicates its ability to conduct heat as a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              371.0424499511719,
+              542.727294921875,
+              382.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "consequence of molecular motion. Units are watts per meter-kelvin (W m",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.70245361328125,
+              404.8824462890625,
+              394.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heat (thermal) conductivity of various substances. Note that air is a poor thermal conductor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.3624572753906,
+              478.2850036621094,
+              407.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "-1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              404.8599853515625,
+              382.3897705078125,
+              410.6500244140625,
+              389.4097595214844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "-1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              422.260009765625,
+              382.3897705078125,
+              428.0500183105469,
+              389.4097595214844
+            ]
+          },
+          {
+            "type": "text",
+            "text": " K",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              410.67999267578125,
+              383.70245361328125,
+              422.2675476074219,
+              394.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "). Table 5-3 provides the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              428.0199890136719,
+              383.70245361328125,
+              542.7199096679688,
+              394.68243408203125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 73,
+        "elements": []
+      },
+      {
+        "page_number": 74,
+        "elements": []
+      },
+      {
+        "page_number": 75,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Table 5-4. Specific Heat of Various Substances ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.29510498046875,
+              264.2449951171875,
+              83.31510925292969
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "FVS sensor performanc\nterpretation, visual ano\nFVS display, control, mod",
+                null,
+                "e in different weat\nmalies and other vis\nes, features, symbol",
+                "h\nua\no",
+                "er conditions, sensor limitat\nl effects;",
+                "io\nte"
+              ],
+              [
+                null,
+                null,
+                null,
+                null,
+                "gy, annunciations and associa",
+                null
+              ],
+              [
+                "nd components;",
+                null,
+                "",
+                "",
+                null,
+                null
+              ],
+              [
+                "he interpretation of EFVS",
+                null,
+                "imagery;",
+                "",
+                null,
+                null
+              ],
+              [
+                "he interpretation of app",
+                null,
+                "roach and runway li",
+                "ghting systems and display char",
+                null,
+                null
+              ],
+              [
+                "hen using EFVS;",
+                null,
+                "",
+                "",
+                null,
+                null
+              ],
+              [
+                "re-flight planning and sel",
+                null,
+                "ection of suitable ae",
+                "rodromes and approach proced",
+                null,
+                null
+              ],
+              [
+                "rinciples of obstacle clea",
+                null,
+                "rance requirements;",
+                "",
+                null,
+                null
+              ],
+              [
+                "he use and limitations of",
+                null,
+                "RVR assessment sys",
+                "tems;",
+                null,
+                null
+              ],
+              [
+                "ormal, abnormal and em",
+                null,
+                "ergency procedures",
+                "for EFVS 200 operations;",
+                null,
+                null
+              ],
+              [
+                "he effect of specific aircr",
+                null,
+                "aft/system malfuncti",
+                "ons;",
+                null,
+                null
+              ],
+              [
+                "uman factors aspects of",
+                null,
+                "EFVS 200 operations",
+                "; and",
+                null,
+                null
+              ],
+              [
+                "ualification requiremen",
+                null,
+                "ts for pilots to ob",
+                "tain and retain approval for",
+                null,
+                null
+              ],
+              [
+                "perations.",
+                null,
+                "",
+                "",
+                null,
+                null
+              ],
+              [
+                "e of FSTD training and/or",
+                null,
+                "flight training in tw",
+                "o phases as follows:",
+                null,
+                null
+              ],
+              [
+                "hase one (EFVS 200 o\nbjectives:",
+                null,
+                "perations with airc",
+                "raft and all equipment servic",
+                null,
+                null
+              ],
+              [
+                ") understand the ope",
+                null,
+                "ration of equipment",
+                "required for EFVS 200 operatio",
+                null,
+                null
+              ],
+              [
+                "i) understand operati",
+                null,
+                "ng limitations of the",
+                "installed EFVS;",
+                null,
+                null
+              ],
+              [
+                "ii) practise the use of",
+                null,
+                "HUD or equivalent d",
+                "isplay systems;",
+                null,
+                null
+              ],
+              [
+                "v) practise the set-up",
+                null,
+                "and adjustment of E",
+                "FVS equipment in different cond",
+                null,
+                null
+              ],
+              [
+                "day and night);",
+                null,
+                "",
+                "",
+                null,
+                null
+              ],
+              [
+                "v) practise the monito",
+                null,
+                "ring of automatic fli",
+                "ght control systems, EFVS inform",
+                null,
+                null
+              ],
+              [
+                "status annunciators",
+                null,
+                ";",
+                "",
+                null,
+                null
+              ],
+              [
+                "vi) practise the interpr",
+                null,
+                "etation of EFVS imag",
+                "ery;",
+                null,
+                null
+              ],
+              [
+                "vi\nvi",
+                "i) become familiar with the features needed on the EFVS image to continu\nbelow the DH;",
+                null,
+                null,
+                null,
+                "e"
+              ],
+              [
+                null,
+                "ii) practise the identification of visual references using natural vision while",
+                null,
+                null,
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              134.195214929715,
+              93.2999853515625,
+              477.8647830587038,
+              594.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Water has the highest specific heat of any naturally occurring substance. That means it has a much higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.242431640625,
+              542.5787353515625,
+              622.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "capacity for storing heat energy than other substances, such as soil, sand, rock, or air. Water can store large ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              623.9024047851562,
+              542.5805053710938,
+              634.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "amounts of heat energy while only experiencing a small temperature change. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              636.5624389648438,
+              412.885009765625,
+              647.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-6 compares the specific heat of water and sand. The specific heat of water is more than five times ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              655.1624145507812,
+              542.7637939453125,
+              666.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that of quartz sand. Thus, 4.18 J of heat are required to raise the temperature of 1 gram (g) of water by 1 °C, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              667.8224487304688,
+              542.77978515625,
+              678.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "while only 0.83 J are required to raise the temperature of 1 g of quartz sand by 1 °C. This is one reason why ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              680.5023803710938,
+              542.745361328125,
+              691.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "beach sand is hotter than water on a sunny, summer afternoon. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              693.1624145507812,
+              349.6449890136719,
+              704.1424560546875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 76,
+        "elements": []
+      },
+      {
+        "page_number": 77,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p77_b10.png",
+            "bbox": [
+              78.0,
+              76.5,
+              534.5999755859375,
+              367.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-7. Variation of Mean Daily Temperatures for San Francisco (Maritime) and St. Louis (Continental) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              379.31512451171875,
+              508.3450012207031,
+              389.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              404.1004638671875,
+              88.2750015258789,
+              417.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature Variations with Altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              404.1004638671875,
+              300.1549987792969,
+              417.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A lapse rate of temperature is defined as a decrease in temperature with height. In Figure 4-2, it was stated ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              424.82244873046875,
+              542.7620849609375,
+              435.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that the temperature decreases 6.5 °C/km (3.57 °F/1,000 ft) in the standard atmosphere. But since this is an ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.4824523925781,
+              542.6968994140625,
+              448.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "average, the exact value seldom exists. In fact, temperature in the troposphere sometimes remains constant ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.08245849609375,
+              542.5916748046875,
+              461.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or even increases with height. Caution should be taken when using the standard lapse rate to estimate the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              462.742431640625,
+              542.5411376953125,
+              473.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "freezing level. Quite often the boundary layer is dry adiabatic, and the estimate of freezing level could be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              475.4024353027344,
+              542.6121826171875,
+              486.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in error. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              488.06243896484375,
+              110.16500091552734,
+              499.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.8.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              512.9405517578125,
+              97.98790740966797,
+              525.9605102539062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric Sounding ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              512.9405517578125,
+              231.51499938964844,
+              525.9605102539062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An atmospheric sounding, or simply sounding, is a plot of the vertical profile of one or more atmospheric ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.6624145507812,
+              542.3390502929688,
+              544.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "parameters, such as temperature, dewpoint, or wind above a fixed location. Soundings are used extensively ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.3224487304688,
+              542.6434326171875,
+              557.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by meteorologists to determine the state of the atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.982421875,
+              334.7049865722656,
+              569.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.8.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.800537109375,
+              97.98790740966797,
+              596.8204956054688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Isothermal Layer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              583.800537109375,
+              200.43499755859375,
+              596.8204956054688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An isothermal layer is a layer within the atmosphere where the temperature remains constant with height ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              604.5223999023438,
+              542.4158325195312,
+              615.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(see Figure 5-8). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              617.1824340820312,
+              147.7849884033203,
+              628.1624755859375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 78,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p78_b9.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.9500122070312,
+              409.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-8. Sounding with an Isothermal Layer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              421.3351135253906,
+              263.1050109863281,
+              431.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.8.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.1004638671875,
+              97.98790740966797,
+              459.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature Inversion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              446.1004638671875,
+              230.07501220703125,
+              459.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A temperature inversion, or simply inversion, is a layer in which the temperature increases with altitude. If ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.82244873046875,
+              542.44873046875,
+              477.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the base of the inversion is at the surface, it is termed a surface-based inversion. If the base of the inversion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              479.4824523925781,
+              542.6516723632812,
+              490.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is not at the surface, it is termed an inversion aloft (see Figure 5-9). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.1424560546875,
+              370.7649841308594,
+              503.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A surface-based inversion typically develops over land on clear nights when wind is light. The ground ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              510.7424011230469,
+              542.7440185546875,
+              521.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "radiates and cools much faster than the overlying air. Air in contact with the ground becomes cool, while ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              523.4024047851562,
+              542.2951049804688,
+              534.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the temperature a few hundred feet above changes very little. Thus, temperature increases with height. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.0624389648438,
+              524.7849731445312,
+              547.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An inversion may also occur at any altitude when conditions are favorable. For example, a current of warm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              554.722412109375,
+              542.58056640625,
+              565.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air aloft overrunning cold air near the surface produces an inversion aloft. Inversions are common in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.3224487304688,
+              542.3721313476562,
+              578.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stratosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              579.982421875,
+              130.68499755859375,
+              590.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The principal characteristic of an inversion layer is its marked stability, so that very little turbulence can ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              598.6423950195312,
+              542.4359741210938,
+              609.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occur within it. Turbulence will be discussed at length in Chapter 19, Turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.3024291992188,
+              434.2449951171875,
+              622.282470703125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 79,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p79_b4.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.9500122070312,
+              409.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-9. Sounding with a Temperature Inversion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              421.3351135253906,
+              280.80499267578125,
+              431.3551025390625
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

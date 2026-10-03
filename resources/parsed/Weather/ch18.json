@@ -1,0 +1,3240 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 18",
+    "start_page": 221,
+    "end_page": 232,
+    "pages": [
+      {
+        "page_number": 221,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p221_b2.png",
+            "bbox": [
+              61.13999938964844,
+              62.940032958984375,
+              553.6799926757812,
+              209.28009033203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather and Obstructions to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              440.6236572265625,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Visibility ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              107.82732391357422,
+              225.3050079345703,
+              135.84732055664062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.04051208496094,
+              94.75901794433594,
+              163.0605010986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              150.04051208496094,
+              171.03500366210938,
+              163.0605010986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather and obstructions to visibility include fog, mist, haze, smoke, precipitation, blowing snow, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              170.76242065429688,
+              542.35009765625,
+              181.74241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dust storm, sandstorm, and volcanic ash. This chapter will discuss each in detail. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              183.42245483398438,
+              429.1449890136719,
+              194.40245056152344
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 222,
+        "elements": []
+      },
+      {
+        "page_number": 223,
+        "elements": []
+      },
+      {
+        "page_number": 224,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p224_b8.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.989990234375,
+              343.3999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-3. Mountain/Valley Fog Formation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.31512451171875,
+              256.9849853515625,
+              365.3351135253906
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p224_b9.png",
+            "bbox": [
+              126.0,
+              382.9100341796875,
+              486.0,
+              592.4100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-4. Mountain/Valley Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              604.755126953125,
+              212.82501220703125,
+              614.775146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.1.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              629.4414672851562,
+              120.0,
+              641.4414672851562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advection Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              629.4414672851562,
+              204.97999572753906,
+              641.4414672851562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advection fog (see Figure 18-5 and Figure 18-6) forms when moist air moves over a colder surface and the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              649.0424194335938,
+              542.6609497070312,
+              660.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "subsequent cooling of that air to below its dewpoint. It is most common along coastal areas but often moves ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              661.702392578125,
+              542.4817504882812,
+              672.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "deep into continental areas. At sea, it is called sea fog. Advection fog deepens as wind speed increases up ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              674.3624267578125,
+              542.7026977539062,
+              685.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to about 15 kt. Wind that is generally stronger than 15 kt lifts the fog into a layer of low stratus or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              687.0424194335938,
+              542.6237182617188,
+              698.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stratocumulus clouds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              699.702392578125,
+              170.7050018310547,
+              710.6824340820312
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 225,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p225_b8.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.97998046875,
+              295.6000061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-5. Advection Fog Formation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              307.31512451171875,
+              230.34500122070312,
+              317.3351135253906
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p225_b9.png",
+            "bbox": [
+              126.0,
+              334.90997314453125,
+              485.9800109863281,
+              605.1099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-6. Advection Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              616.755126953125,
+              186.18499755859375,
+              626.775146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The West Coast of the United States is quite vulnerable to advection fog. This fog frequently forms offshore ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              641.242431640625,
+              542.61865234375,
+              652.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as a result of cold water and then is carried inland by the wind. It can remain over the water for weeks, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              653.9024047851562,
+              542.251220703125,
+              664.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "advancing over the land during night and retreating back over the water the next morning. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              666.5624389648438,
+              470.364990234375,
+              677.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "During the winter, advection fog over the central and eastern United States results when moist air from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              685.242431640625,
+              542.6027221679688,
+              696.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Gulf of America spreads northward over cold ground. The fog may extend as far north as the Great Lakes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              697.9024047851562,
+              542.5440673828125,
+              708.8824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 226,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Water areas in northern latitudes have frequent dense sea fog in summer as a result of warm, moist, tropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7439575195312,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air flowing northward over colder Arctic waters. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              288.18499755859375,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A pilot will notice little difference between flying over advection fog and over radiation fog. Also, advection ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              104.68245697021484,
+              542.5914916992188,
+              115.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fog is usually more extensive and much more persistent than radiation fog. Advection fog can move in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.7332153320312,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rapidly regardless of the time of day or night. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              274.2649841308594,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.1.1.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              154.82144165039062,
+              120.0,
+              166.82144165039062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Upslope Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              154.82144165039062,
+              195.02000427246094,
+              166.82144165039062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Upslope fog forms as a result of moist, stable air being adiabatically cooled to or below its dewpoint as it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              174.48245239257812,
+              542.3609619140625,
+              185.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moves up sloping terrain (see Figure 18-7). Winds speeds of 5–15 kt are most favorable since stronger ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              187.14242553710938,
+              542.658203125,
+              198.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "winds tend to lift the fog into a layer of low stratus clouds. Unlike radiation fog, it can form under cloudy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.80245971679688,
+              542.538818359375,
+              210.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "skies. Upslope fog is common along the eastern slopes of the Rocky Mountains and somewhat less frequent ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              212.40243530273438,
+              542.7240600585938,
+              223.38243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "east of the Appalachian Mountains. Upslope fog is often quite dense and extends to high altitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.06246948242188,
+              507.0249938964844,
+              236.04246520996094
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p226_b10.png",
+            "bbox": [
+              126.0,
+              252.78997802734375,
+              486.0,
+              519.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-7. Upslope Fog Formation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              531.6151123046875,
+              222.0050048828125,
+              541.6351318359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.1.1.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              556.301513671875,
+              120.0,
+              568.301513671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Frontal Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              556.301513671875,
+              189.67999267578125,
+              568.301513671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When warm, moist air is lifted over a front, clouds and precipitation may form. If the cold air below is near ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              575.96240234375,
+              542.6685180664062,
+              586.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "its dewpoint, evaporation (or sublimation) from the precipitation may saturate the cold air and form fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              588.6224365234375,
+              542.349853515625,
+              599.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(see Figure 18-8). A fog formed in this manner is called frontal (or precipitation-induced) fog. The result is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              601.222412109375,
+              542.7415161132812,
+              612.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a more or less continuous zone of condensed water droplets reaching from the ground up through the clouds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              613.8823852539062,
+              542.5820922851562,
+              624.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Frontal fog can become quite dense and continue for an extended period of time. This fog may extend over ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              626.5424194335938,
+              542.7608032226562,
+              637.5224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "large areas, completely suspending air operations. It is most commonly associated with warm fronts but ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              639.202392578125,
+              542.448974609375,
+              650.1824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "can occur with other fronts as well. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              651.8624267578125,
+              229.625,
+              662.8424682617188
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 227,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p227_b7.png",
+            "bbox": [
+              126.0,
+              76.50001525878906,
+              485.95001220703125,
+              321.45001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-8. Frontal Fog Formation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.81512451171875,
+              217.56500244140625,
+              342.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.1.1.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              357.50146484375,
+              120.0,
+              369.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Steam Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              357.50146484375,
+              185.0,
+              369.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When very cold air moves across relatively warm water, enough moisture may evaporate from the water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              377.1624450683594,
+              542.4708251953125,
+              388.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surface to produce saturation. As the rising water vapor meets the cold air, it immediately recondenses and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              389.762451171875,
+              542.56982421875,
+              400.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rises with the air that is being warmed from below. Because the air is destabilized, fog appears as rising ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.44244384765625,
+              542.548583984375,
+              413.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "filaments or streamers that resemble steam. This phenomenon is called steam fog (see Figure 18-9). It is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              415.1024475097656,
+              542.75634765625,
+              426.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "commonly observed over lakes and streams on cold autumn mornings and over the ocean during the winter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              427.762451171875,
+              542.5805053710938,
+              438.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when cold air masses move off the continents and ice shelves. Steam fog is often very shallow, for as the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              440.4224548339844,
+              542.383056640625,
+              451.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "steam rises, it reevaporates in the unsaturated air above. However, it can be dense and extend over ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              453.08245849609375,
+              542.5686645507812,
+              464.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "large areas. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              465.742431640625,
+              124.86500549316406,
+              476.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Steam fog is associated with a shallow layer of unstable air; thus, pilots can expect convective turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              484.3424377441406,
+              542.6295166015625,
+              495.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flying through it. On occasion, columns of condensed vapor rise from the fog layer, forming whirling steam ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              497.00244140625,
+              542.6259765625,
+              507.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "devils, which appear similar to the dust devils on land. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              509.6624450683594,
+              314.5249938964844,
+              520.6424560546875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 228,
+        "elements": []
+      },
+      {
+        "page_number": 229,
+        "elements": [
+          {
+            "type": "text",
+            "text": "18.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mist ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              139.59500122070312,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mist is a visible aggregate of minute water droplets or ice crystals suspended in the atmosphere that reduces ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.4926147460938,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "visibility to less than 7 SM (11 km), but greater than, or equal to, 5/8 SM (1 km). Mist forms a thin grayish ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.7703857421875,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "veil that covers the landscape. It is similar to fog but does not obstruct visibility to the same extent. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              510.44500732421875,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mist may be considered an intermediate between fog and haze. It has lower relative humidity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.4708251953125,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(95 to 99 percent) than fog and does not obstruct visibility to the same extent. However, there is no distinct ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              542.5220947265625,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "line between any of these categories. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              236.64498901367188,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              188.50047302246094,
+              104.52401733398438,
+              201.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Haze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              188.50047302246094,
+              142.47500610351562,
+              201.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Haze is a suspension in the air of extremely small particles invisible to the naked eye and sufficiently ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              209.22244262695312,
+              542.3390502929688,
+              220.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "numerous to give the air an opalescent appearance. It reduces visibility by scattering the shorter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              221.88241577148438,
+              542.3280639648438,
+              232.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wavelengths of light. Haze produces a bluish color when viewed against a dark background and a yellowish ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              234.54244995117188,
+              542.6503295898438,
+              245.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "veil when viewed against a light background. Haze may be distinguished by this same effect from mist, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              247.14242553710938,
+              542.2950439453125,
+              258.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which yields only a gray obscuration. Certain haze particles increase in size with increasing relative ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.8024597167969,
+              542.8050537109375,
+              270.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "humidity, drastically decreasing visibility. While visibility is a measure of how far one can see, including ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              272.4624328613281,
+              542.3390502929688,
+              283.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ability to see the textures and colors therein, haze is the inability to view a similar scene with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              285.1224365234375,
+              542.700927734375,
+              296.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "equal clarity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              297.7824401855469,
+              132.18499755859375,
+              308.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Haze occurs in stable air and is usually only a few thousand feet thick but may extend upwards to 15,000 ft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              316.44244384765625,
+              542.8049926757812,
+              327.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4,600 m). A haze layer has a definite ceiling above which in-flight (air-to-air) visibility is unrestricted. At ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.0424499511719,
+              542.7178955078125,
+              340.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or below this level, the slant range (air-to-ground) visibility is poor. Visibility in haze varies greatly, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              341.70245361328125,
+              542.5565185546875,
+              352.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "depending on whether the pilot is facing into or away from the Sun. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              354.3624572753906,
+              372.625,
+              365.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              379.240478515625,
+              104.52401733398438,
+              392.260498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Smoke ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              379.240478515625,
+              151.89500427246094,
+              392.260498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Smoke is a suspension in the air of small particles produced by combustion due to fires, industrial burning, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              399.9624328613281,
+              542.4707641601562,
+              410.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or other sources. It may transition to haze when the particles travel 25–100 mi (40–160 km) or more, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.6424560546875,
+              542.7164916992188,
+              423.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "larger particles have settled, and others become widely scattered through the atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.3024597167969,
+              467.30499267578125,
+              436.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Not only can smoke reduce visibility to zero, but many of its compounds are highly toxic and/or irritating. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              443.9024353027344,
+              542.5556640625,
+              454.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most dangerous is carbon monoxide, which can lead to carbon monoxide poisoning, sometimes with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              456.56243896484375,
+              542.5636596679688,
+              467.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "supporting effects of hydrogen cyanide and phosgene. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              469.2224426269531,
+              312.6650085449219,
+              480.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When skies are clear above a surface-based layer of haze or smoke, visibility generally improves during ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              487.8824462890625,
+              542.5477905273438,
+              498.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the day. Heating during the day may cause convective mixing, spreading the smoke or haze to a higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              500.5424499511719,
+              542.2840576171875,
+              511.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "altitude, and decreasing the concentration near the surface. However, the improvement is slower than the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              513.1423950195312,
+              542.6196899414062,
+              524.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clearing of fog. Fog evaporates, but haze and smoke must be dispersed by the movement of air. A thick ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              525.8024291992188,
+              542.383056640625,
+              536.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "layer of clouds above haze or smoke may block sunlight, preventing dissipation. Visibility will improve ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.46240234375,
+              542.7672119140625,
+              549.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "little, if any, during the day. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.1224365234375,
+              197.52499389648438,
+              562.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.00048828125,
+              104.52401733398438,
+              589.0204467773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              576.00048828125,
+              182.19500732421875,
+              589.0204467773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation is any of the forms of water particles, whether liquid or solid, that fall from the atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              596.722412109375,
+              542.3939819335938,
+              607.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and reach the ground. Snow, rain, and drizzle are types of precipitation. Heavy snow may reduce visibility ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              609.3823852539062,
+              542.6548461914062,
+              620.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to zero. Rain seldom reduces surface visibility below 1 mi except in brief, heavy showers. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              622.0424194335938,
+              470.42498779296875,
+              633.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Drizzle usually restricts visibility to a greater degree than rain. It forms in stable air, falls from stratiform ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              640.6423950195312,
+              542.3060913085938,
+              651.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clouds, and is typically accompanied by fog. When drizzle changes to light rain, visibility usually improves ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              653.3024291992188,
+              542.720458984375,
+              664.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "because the droplet size increases, meaning there are fewer droplets per unit area. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              665.96240234375,
+              433.3450012207031,
+              676.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For more information on precipitation, see Chapter 14, Precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              684.6423950195312,
+              377.54498291015625,
+              695.6224365234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 230,
+        "elements": [
+          {
+            "type": "text",
+            "text": "18.1.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Blowing Snow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              193.41500854492188,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Blowing snow is snow lifted from the surface of the Earth by the wind to a height of 6 ft (2 m) or more ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.7360229492188,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "above the ground and blown about in such quantities that the reported horizontal visibility is reduced to less ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.547607421875,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than 7 SM (11 km). Light, dry powder snow is most prone to being blown by the wind. When strong winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.7501220703125,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "keep the snow suspended up to 50 ft (15 m) or so, obscuring the sky, and reducing surface visibility to near ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.648681640625,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "zero, it is called a whiteout. Visibility improves rapidly when the wind subsides. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              428.2449951171875,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.8404998779297,
+              104.52401733398438,
+              182.86048889160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Dust Storm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              169.8404998779297,
+              175.35501098632812,
+              182.86048889160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A dust storm is a severe weather condition characterized by strong winds and dust-filled air over an ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              190.56246948242188,
+              542.7189331054688,
+              201.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extensive area. Dust storms originate over regions when fine-grained soils, rich in clay and silt, are exposed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              203.22244262695312,
+              542.7266845703125,
+              214.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to strong winds and lofted airborne. Fine-grained soils are commonly found in dry lake beds (called playas), ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.88241577148438,
+              542.616455078125,
+              226.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "river flood plains, ocean sediments, and glacial deposits. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              228.54244995117188,
+              323.42498779296875,
+              239.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Most of the dust originates from a number of discrete point sources. Intense dust storms reduce visibility to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              247.14242553710938,
+              542.4158935546875,
+              258.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "near zero in and near source regions, with visibility improving away from the source. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.8024597167969,
+              449.54498291015625,
+              270.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A dust storm is favored with extreme daytime heating of barren ground and a turbulent, unstable air mass ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.4624328613281,
+              542.3280639648438,
+              289.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that allows the dust to be lofted. Surface winds need to be 15 kt or greater to mobilize dust. A speed of 35 kt ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              291.1224365234375,
+              542.8074340820312,
+              302.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may be needed over a desert surface that is covered with closely packed rock fragments called desert ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              303.7824401855469,
+              542.4863891601562,
+              314.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pavement. The average height of a dust storm is 3,000–6,000 ft (about 1 km); however, they can frequently ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              316.44244384765625,
+              542.738525390625,
+              327.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extend up to 15,000 ft (4,600 m). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.1024475097656,
+              220.50498962402344,
+              340.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Strong cooling after sunset quickly stabilizes the lowest atmosphere, forming a temperature inversion and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              347.70245361328125,
+              542.72705078125,
+              358.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "settling the dust. Without turbulence, dust generally settles at a rate of 1,000 ft (300 m) per hour. It can take ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              360.3624572753906,
+              542.7333374023438,
+              371.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "many hours (or days) for the dust to completely settle. However, precipitation will very effectively remove ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              373.0224304199219,
+              542.6997680664062,
+              384.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dust from the atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              385.68243408203125,
+              189.60499572753906,
+              396.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft operation in a dust storm can be very hazardous. Visibility can drop to zero in a matter of seconds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              404.3024597167969,
+              542.7554931640625,
+              415.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Dust can also clog the air intake of engines, damage electro-optical systems, and cause problems with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              416.9624328613281,
+              542.6459350585938,
+              427.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "human health. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              429.6224365234375,
+              137.10499572753906,
+              440.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "From a pilot’s point of view, it is important to recognize that slant range (air-to-ground) visibility ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              448.2824401855469,
+              542.8049926757812,
+              459.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(see Figure 24-3) in dust is generally reduced compared to reported surface (horizontal) visibility. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.94244384765625,
+              542.5593872070312,
+              471.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Therefore, it may not be possible to pick out an airfield from above, even when reported surface visibility ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.5424499511719,
+              542.3829345703125,
+              484.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is 3 mi or more. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              486.20245361328125,
+              144.72499084472656,
+              497.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.0804748535156,
+              104.52401733398438,
+              524.1004638671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sandstorm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              511.0804748535156,
+              171.39500427246094,
+              524.1004638671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A sandstorm is particles of sand carried aloft by a strong wind. The sand particles are mostly confined to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              531.8024291992188,
+              542.4706420898438,
+              542.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the lowest 10 ft (3.5 m), and rarely rise more than 50 ft (15 m) above the ground. Sandstorms are similar to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              544.46240234375,
+              542.724609375,
+              555.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dust storms but occur on a localized scale. This is because sand particles are larger and heavier than dust ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              557.1224365234375,
+              542.5340576171875,
+              568.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "particles. Sandstorms are best developed in desert regions where there is loose sand, often in dunes, without ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              569.7824096679688,
+              542.4706420898438,
+              580.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "much admixture of dust. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              582.4424438476562,
+              182.2849884033203,
+              593.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.8.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              607.2415161132812,
+              111.0,
+              619.2415161132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Haboob ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              607.2415161132812,
+              162.5,
+              619.2415161132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A haboob (see Figure 18-11) is a dust storm or sandstorm that forms as cold downdrafts from a thunderstorm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              626.8424072265625,
+              542.6503295898438,
+              637.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turbulently lift dust and sand into the air. While haboobs are often short-lived, they can be quite intense. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              639.5023803710938,
+              542.654296875,
+              650.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The dust wall may extend horizontally for more than 60 mi (100 km) and rise vertically to the base of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              652.1624145507812,
+              542.6064453125,
+              663.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm. Spinning whirlwinds of dust frequently form along the turbulent cold air outflow, giving rise ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              664.8224487304688,
+              542.4817504882812,
+              675.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to huge dust/sand whirls. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              677.482421875,
+              184.7449951171875,
+              688.4624633789062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 231,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p231_b10.png",
+            "bbox": [
+              126.0,
+              76.5,
+              485.92999267578125,
+              345.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 18-11. Haboob ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              356.81512451171875,
+              163.14500427246094,
+              366.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.1.9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.5804748535156,
+              104.52401733398438,
+              394.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Volcanic Ash ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              381.5804748535156,
+              186.93499755859375,
+              394.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Volcanic ash is made up of fine particles of rock powder that originate from a volcano and that may remain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.32244873046875,
+              542.503662109375,
+              413.30242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "suspended in the atmosphere for long periods. Severe volcanic eruptions that send ash into the upper ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              414.9824523925781,
+              542.3610229492188,
+              425.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmosphere occur somewhere around the world several times per year. The explosive eruption from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              427.58245849609375,
+              542.6381225585938,
+              438.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "volcano in Tonga, South Pacific Ocean in January 2022 sent an ash cloud into the mesosphere. Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              440.242431640625,
+              542.2730712890625,
+              451.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "satellites estimated the ash cloud reached an altitude of 190,000 ft, which was the highest ash cloud ever ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              452.9024353027344,
+              542.7825317382812,
+              463.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observed. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              465.56243896484375,
+              117.24500274658203,
+              476.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Visible ash is what an observer or aircrew member sees with their eyes. The lower limit of visible ash ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              484.2224426269531,
+              542.4158935546875,
+              495.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ranges from an ash concentration of approximately 0.01 milligrams per cubic meter (mg/m",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              496.82244873046875,
+              472.4844055175781,
+              507.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "depending on many factors such as time of day, sky background, and position of the Sun to the observer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              509.4824523925781,
+              542.6948852539062,
+              520.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(pilot), as well as the angle from which the ash cloud is viewed (e.g., viewed from the side). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              522.1423950195312,
+              479.18499755859375,
+              533.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Discernible ash is what a satellite or other remote sensing instrument detects. Forecasters at the world’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              540.8024291992188,
+              542.8049926757812,
+              551.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "nine VAACs (see Section 26.5.1) use discernible ash from satellites to define the observed area of the ash ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              553.46240234375,
+              542.5626220703125,
+              564.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cloud in the VAA product (see Section 26.5). The lower limit of discernible ash from satellites is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              566.1224365234375,
+              542.5286254882812,
+              577.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "approximately 0.1 to 0.2 mg/m3, depending on the satellite and other factors. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              578.7824096679688,
+              414.1449890136719,
+              589.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The ash cloud may not be visible, especially at night or in instrument meteorological conditions (IMC). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              597.3823852539062,
+              542.7767333984375,
+              608.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Even if visible, it is difficult to distinguish visually between an ash cloud and an ordinary cloud. Radar may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              610.0424194335938,
+              542.75927734375,
+              621.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be able to detect heavy concentrations of airborne ash near the volcano, but it is not able to detect fine ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              622.702392578125,
+              542.674560546875,
+              633.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airborne ash and is not likely to detect the ash cloud as it spreads downwind of the volcano. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              635.3624267578125,
+              477.385009765625,
+              646.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flying into a volcanic ash cloud can be hazardous. Volcanic ash is composed of silica (glass). When ash is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              653.96240234375,
+              542.6973876953125,
+              664.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ingested into a jet engine, it melts to produce a soft, sticky molten product that adheres to the compressor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              666.6224365234375,
+              542.5767211914062,
+              677.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turbine blades and fuel injectors/igniters. With no air going into the engine, the fuel cannot ignite, the engine ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              679.2824096679688,
+              542.44873046875,
+              690.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "comes to a slow spinning stop by spooling down, and a flameout occurs. As the aircraft exits the ash cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              691.96240234375,
+              542.7225341796875,
+              702.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and enters colder temperatures, the cooled, hardened silicas on the turbine blades become dislodged, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              704.6224365234375,
+              542.7131958007812,
+              715.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              472.8399963378906,
+              495.509765625,
+              476.3500061035156,
+              502.5297546386719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              533.8200073242188,
+              495.509765625,
+              537.3300170898438,
+              502.5297546386719
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") to 10 mg/m",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              476.3800048828125,
+              496.82244873046875,
+              533.7503662109375,
+              507.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              537.3599853515625,
+              496.82244873046875,
+              542.8049926757812,
+              507.80242919921875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 232,
+        "elements": [
+          {
+            "type": "text",
+            "text": "allowing the fan blades to rotate, allowing for an engine relight as the air moves through the engine again. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.6949462890625,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Piston-powered aircraft are less likely to lose power, but severe engine damage is likely after an encounter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.762451171875,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with a volcanic ash cloud that is only a few hours old. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              311.8249816894531,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Volcanic ash also causes abrasive damage to aircraft flying through it at hundreds of miles per hour. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.8049926757812,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Particles impacting the windshield can sandblast the surface into a frosted finish that obscures the pilot’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.8049926757812,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "view. The sandblasting can also remove paint and pit metal on the nose and leading edges of wings and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.3500366210938,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "navigation equipment. Ash contaminates aircraft ventilation, hydraulic, instrument, electronic, and air data ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.5863647460938,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "systems. Ash covering a runway can cover its markings and cause aircraft to lose traction during takeoffs ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.7224731445312,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and landings. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.66244506835938,
+              133.4449920654297,
+              191.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              205.4805145263672,
+              94.75901794433594,
+              218.50050354003906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low Ceiling and Mountain Obscuration ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              205.4805145263672,
+              314.7950134277344,
+              218.50050354003906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.42051696777344,
+              104.52401733398438,
+              245.4405059814453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low Ceiling ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              232.42051696777344,
+              181.11500549316406,
+              245.4405059814453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratus is the most frequent cloud associated with low ceilings. Stratus clouds, like fog, are composed of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              253.14242553710938,
+              542.4158935546875,
+              264.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extremely small water droplets or ice crystals suspended in air. An observer on a mountain in a stratus layer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              265.8024597167969,
+              542.5914306640625,
+              276.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "would call it fog. Stratus and fog frequently exist together. In many cases, there is no real line of distinction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.4624328613281,
+              542.5953369140625,
+              289.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "between the fog and stratus; rather, one gradually merges into the other. Flight visibility may approach zero ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              291.1224365234375,
+              542.4817504882812,
+              302.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in stratus clouds. Stratus over land tends to be lowest during night and early morning, lifting or dissipating ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              303.7824401855469,
+              542.6874389648438,
+              314.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "due to solar heating by late morning or early afternoon. Low stratus clouds often occur when moist air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              316.44244384765625,
+              542.4049682617188,
+              327.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mixes with a colder air mass or in any situation where the temperature-dewpoint spread is small. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.1024475097656,
+              499.4049987792969,
+              340.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              353.92047119140625,
+              104.52401733398438,
+              366.94049072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Obscuration ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              353.92047119140625,
+              233.135009765625,
+              366.94049072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A mountain obscuration is a condition in which mountains or mountain ridges are obscured due to clouds, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              374.6424560546875,
+              542.6546020507812,
+              385.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation, smoke, or other obscurations. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.3024597167969,
+              265.68499755859375,
+              398.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flight can be especially hazardous over mountain routes when the mountains are obscured. The large ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              405.9824523925781,
+              542.3609008789062,
+              416.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "elevation variations around mountains can cause surface weather observations to mislead. For example, a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              418.6424560546875,
+              542.4598999023438,
+              429.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weather station located in a valley could report a VFR cloud ceiling, while a hiker in the mountains sees fog. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              431.3024597167969,
+              542.8049926757812,
+              442.2824401855469
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

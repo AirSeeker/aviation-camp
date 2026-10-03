@@ -1,0 +1,2013 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 11",
+    "start_page": 134,
+    "end_page": 144,
+    "pages": [
+      {
+        "page_number": 134,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p134_b2.png",
+            "bbox": [
+              58.13999938964844,
+              65.34002685546875,
+              550.6799926757812,
+              239.280029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air Masses, Fronts, and the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              427.52099609375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wave Cyclone Model ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              107.82732391357422,
+              365.2449951171875,
+              135.84732055664062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.04051208496094,
+              94.75901794433594,
+              163.0605010986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              150.04051208496094,
+              171.03500366210938,
+              163.0605010986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An air mass is a large body of air with generally uniform temperature and humidity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              170.76242065429688,
+              443.9649963378906,
+              181.74241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A wave cyclone is a low-pressure circulation that forms and moves along a front. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.42245483398438,
+              432.2049865722656,
+              200.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter will discuss air masses, fronts, and the wave cyclone model. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              208.08242797851562,
+              396.7449951171875,
+              219.0624237060547
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 135,
+        "elements": [
+          {
+            "type": "text",
+            "text": "11.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air Masses ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              165.635009765625,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The area from which an air mass originates is called a source region. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              376.885009765625,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air mass source regions range from extensive snow-covered polar areas to deserts to tropical oceans. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.02242279052734,
+              542.745361328125,
+              130.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "United States is not a favorable source region because of the relatively frequent passage of weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.70242309570312,
+              542.4049682617188,
+              142.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "disturbances that disrupt any opportunity for an air mass to stagnate and take on the properties of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.30245971679688,
+              542.585205078125,
+              155.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "underlying region. The longer the air mass stays over its source region, the more likely it will acquire the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.3828735351562,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "properties of the surface below. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              213.72499084472656,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.50047302246094,
+              104.52401733398438,
+              207.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air Mass Classification ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              194.50047302246094,
+              238.53500366210938,
+              207.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air masses are classified according to the temperature and moisture properties of their source regions ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.22244262695312,
+              520.7650146484375,
+              226.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(see Figure 11-1). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              227.88241577148438,
+              153.2449951171875,
+              238.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.2.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              252.68148803710938,
+              111.0,
+              264.6814880371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature Properties ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              252.68148803710938,
+              237.5,
+              264.6814880371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              272.9223937988281,
+              95.05079650878906,
+              283.90240478515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Arctic (A)—An extremely deep, cold air mass that develops mostly in winter over arctic surfaces ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              273.1224365234375,
+              542.7117309570312,
+              284.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of ice and snow. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              285.7824401855469,
+              182.8249969482422,
+              296.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              305.02239990234375,
+              95.05079650878906,
+              316.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Polar (P)—A relatively shallow, cool to cold air mass that develops over high latitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              305.2224426269531,
+              495.3249816894531,
+              316.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              324.46240234375,
+              95.05079650878906,
+              335.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropical (T)—A warm to hot air mass that develops over low latitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              324.6624450683594,
+              424.2250061035156,
+              335.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.2.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              349.4614562988281,
+              111.0,
+              361.4614562988281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moisture Properties ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              349.4614562988281,
+              219.5,
+              361.4614562988281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              369.702392578125,
+              95.05079650878906,
+              380.6824035644531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continental (c)—A dry air mass that develops over land. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              369.9024353027344,
+              360.385009765625,
+              380.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              389.0823974609375,
+              95.05079650878906,
+              400.0624084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maritime (m)—A moist air mass that develops over water. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              389.2824401855469,
+              368.9049987792969,
+              400.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.2.1.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              414.1014709472656,
+              111.0,
+              426.1014709472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Five Air Masses ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              414.1014709472656,
+              203.17999267578125,
+              426.1014709472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When this classification scheme is applied, the following five air masses (see Figure 11-1) may be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              433.762451171875,
+              542.7511596679688,
+              444.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "identified: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.4224548339844,
+              119.94499969482422,
+              457.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              465.66241455078125,
+              95.05079650878906,
+              476.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continental Arctic (cA)—Cold, dry. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              465.8624572753906,
+              270.4849853515625,
+              476.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              485.1024169921875,
+              95.05079650878906,
+              496.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continental Polar (cP)—Cold, dry. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              485.3024597167969,
+              264.42498779296875,
+              496.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              504.5423583984375,
+              95.05079650878906,
+              515.5223388671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continental Tropical (cT)—Hot, dry. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              504.7424011230469,
+              274.1449890136719,
+              515.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              523.982421875,
+              95.05079650878906,
+              534.96240234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maritime Polar (mP)—Cool, moist. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              524.1824340820312,
+              267.54498291015625,
+              535.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              543.4224243164062,
+              95.05079650878906,
+              554.4024047851562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maritime Tropical (mT)—Warm, moist. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              543.6224365234375,
+              288.2449951171875,
+              554.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note: ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              562.2824096679688,
+              100.3503646850586,
+              573.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maritime Arctic (mA) is not listed, since it seldom (if ever) forms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.37999725341797,
+              562.2824096679688,
+              395.42498779296875,
+              573.262451171875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 136,
+        "elements": []
+      },
+      {
+        "page_number": 137,
+        "elements": []
+      },
+      {
+        "page_number": 138,
+        "elements": []
+      },
+      {
+        "page_number": 139,
+        "elements": [
+          {
+            "type": "text",
+            "text": "11.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cold Front ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              172.47500610351562,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A cold front occurs when a mass of cold, dense, and stable air advances and replaces a body of warmer air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.525634765625,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It is so dense, it stays close to the ground and acts like a snowplow, sliding under the warmer air and forcing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.5475463867188,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the less dense air aloft. Cold fronts have a steep slope, and the warm air is forced upward abruptly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.56396484375,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(see Figure 11-6). This often leads to a narrow band of showers and thunderstorms along, or just ahead of, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.422119140625,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the front if the warm rising air is unstable. Cold fronts move more rapidly than warm fronts, progressing at ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              542.57470703125,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a rate of 25 to 30 mph. However, extreme cold fronts have been recorded moving at speeds of up to 60 mph. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              157.62246704101562,
+              542.8049926757812,
+              168.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The rapidly ascending air causes the temperature to decrease suddenly, forcing the creation of clouds. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              542.3390502929688,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "type of clouds that form depends on the stability of the warmer air mass. A cold front in the Northern ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              188.94247436523438,
+              542.3611450195312,
+              199.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hemisphere is normally oriented in a northeast to southwest manner and can be several hundred miles long, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              201.54244995117188,
+              542.5654907226562,
+              212.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "encompassing a large area of land. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              214.20242309570312,
+              226.864990234375,
+              225.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Prior to the passage of a typical cold front, cirriform or towering cumulus clouds are present, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.86245727539062,
+              542.3502197265625,
+              243.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cumulonimbus clouds may develop. Rain showers may also develop due to the rapid development of clouds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.52243041992188,
+              542.7467041015625,
+              256.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A high dewpoint and falling barometric pressure are indicative of an imminent cold front passage. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              258.1824645996094,
+              506.364990234375,
+              269.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As the cold front passes, towering cumulus or cumulonimbus clouds continue to dominate the sky. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.8424377441406,
+              542.3280029296875,
+              287.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Depending on the intensity of the cold front, heavy rain showers form and may be accompanied by ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.44244384765625,
+              542.3720092773438,
+              300.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lightning, thunder, and/or hail. More severe cold fronts can also produce tornadoes. During cold front ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              302.1024475097656,
+              542.6004028320312,
+              313.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "passage, the visibility is poor with winds variable and gusty, and the temperature and dewpoint drop rapidly. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.762451171875,
+              542.7293701171875,
+              325.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A quickly falling barometric pressure bottoms out during frontal passage, and then begins a gradual ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              327.4224548339844,
+              542.7049560546875,
+              338.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increase. After frontal passage, the towering cumulus and cumulonimbus clouds begin to dissipate to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              340.08245849609375,
+              542.3875732421875,
+              351.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cumulus clouds with a corresponding decrease in the precipitation. Good visibility eventually prevails with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.68243408203125,
+              542.5037231445312,
+              363.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the winds from the west-northwest. Temperatures remain cooler and the barometric pressure continues ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.3424377441406,
+              542.7572021484375,
+              376.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to rise. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              378.00244140625,
+              104.70500183105469,
+              388.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Fast-moving cold fronts are pushed by intense pressure systems far behind the actual front. The friction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.6624450683594,
+              542.2730712890625,
+              407.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "between the ground and the cold front retards the movement of the front and creates a steeper frontal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.3424377441406,
+              542.3611450195312,
+              420.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surface. This results in a very narrow band of weather, concentrated along the leading edge of the front. If ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              422.00244140625,
+              542.584228515625,
+              432.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the warm air being overtaken by the cold front is relatively stable, overcast skies and rain may occur for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.6024475097656,
+              542.4048461914062,
+              445.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "some distance behind the front. If the warm air is unstable, scattered thunderstorms and rain showers may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.262451171875,
+              542.7158203125,
+              458.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "form. A continuous line of thunderstorms, or squall line, may form along or ahead of the front. Squall lines ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.9224548339844,
+              542.5257568359375,
+              470.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "present a serious hazard to pilots as squall-type thunderstorms are intense and move quickly. Behind a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              472.58245849609375,
+              542.5224609375,
+              483.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fast-moving cold front, the skies usually clear rapidly, and the front leaves behind gusty, turbulent winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              485.242431640625,
+              542.3165893554688,
+              496.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and colder temperatures. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              497.9024353027344,
+              183.18499755859375,
+              508.8824157714844
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 140,
+        "elements": []
+      },
+      {
+        "page_number": 141,
+        "elements": [
+          {
+            "type": "text",
+            "text": "11.3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Occluded Front ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              197.01499938964844,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cold fronts typically move faster than warm fronts, so in time they catch up to warm fronts. As the two ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.3170776367188,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fronts merge, an occluded front forms (see Figure 11-8). At the occluded front, the cold air undercuts the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.62353515625,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "retreating cooler air mass associated with the warm front, further lifting the already rising warm air. Clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.5477294921875,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and precipitation can occur in the areas of frontal lift along, ahead of, and behind the surface position of an ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.7471313476562,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occluded front. As the occluded front approaches, warm front weather prevails but is immediately followed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              542.7537841796875,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by cold front weather. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              157.62246704101562,
+              171.90499877929688,
+              168.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "There are two types of occluded fronts that can occur, and the temperatures of the colliding frontal systems ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              542.5147094726562,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "play a large part in defining the type of front and the resulting weather. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              188.94247436523438,
+              387.0249938964844,
+              199.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A cold front occlusion occurs when a fast-moving cold front is colder than the air ahead of the slow-moving ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.7669677734375,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "warm front. When this occurs, the cold air replaces the cool air and forces the warm front aloft into the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              542.3171997070312,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmosphere. Typically, the cold front occlusion creates a mixture of weather found in both warm and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.86245727539062,
+              542.43798828125,
+              243.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cold fronts, providing the air is relatively stable. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.52243041992188,
+              286.385009765625,
+              256.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A warm front occlusion occurs when the air ahead of the warm front is colder than the air of the cold front. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              542.5476684570312,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When this is the case, the cold front rides up and over the warm front. If the air forced aloft by the warm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.8424377441406,
+              542.3389282226562,
+              287.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "front occlusion is unstable, the weather is more severe than the weather found in a cold front occlusion. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.44244384765625,
+              542.5060424804688,
+              300.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Embedded thunderstorms, rain, and fog are likely to occur. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              302.1024475097656,
+              334.04498291015625,
+              313.0824279785156
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p141_b9.png",
+            "bbox": [
+              93.0,
+              329.83001708984375,
+              519.2000122070312,
+              596.2100219726562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 11-8. Occluded Front ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              608.6550903320312,
+              188.94500732421875,
+              618.6751098632812
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 142,
+        "elements": []
+      },
+      {
+        "page_number": 143,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p143_b10.png",
+            "bbox": [
+              126.0,
+              76.50003051757812,
+              485.8800048828125,
+              227.4000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 11-11. Wave Cyclone Model—Stage 3 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              239.81512451171875,
+              258.9649963378906,
+              249.8351287841797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the fourth stage, the wave becomes a mature low (see Figure 11-12). The occluded front forms as the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              258.3624572753906,
+              542.6390380859375,
+              269.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cold front overtakes the warm front. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              271.0224304199219,
+              233.58499145507812,
+              282.0024108886719
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p143_b11.png",
+            "bbox": [
+              126.0,
+              298.7099914550781,
+              485.8800048828125,
+              449.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 11-12. Wave Cyclone Model—Stage 4 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              462.0151062011719,
+              258.9649963378906,
+              472.03509521484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As the cold front continues advancing on the warm front, the occlusion increases and eventually cuts off ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              480.56243896484375,
+              542.328125,
+              491.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the supply of warm moist air (see Figure 11-13). This causes the low to gradually dissipate. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              493.2224426269531,
+              477.0849914550781,
+              504.2024230957031
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p143_b12.png",
+            "bbox": [
+              126.0,
+              520.9099731445312,
+              485.989990234375,
+              672.6099853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 11-13. Wave Cyclone Model—Stage 5 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              684.2750854492188,
+              258.9649963378906,
+              694.2951049804688
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 144,
+        "elements": [
+          {
+            "type": "text",
+            "text": "11.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              94.75901794433594,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Dryline ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              73.6404800415039,
+              146.49501037597656,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A dryline is a low-level boundary, hundreds of miles long, and separating moist and dry air masses. In the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.6076049804688,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "United States, it typically lies north-south across the southern and central High Plains during the spring and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.6052856445312,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "early summer, where it separates moist (mT) air from the Gulf of America to the east and dry desert (cT) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.6478881835938,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air from the southwestern states to the west (see Figure 11-14). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.36245727539062,
+              351.864990234375,
+              143.3424530029297
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p144_b8.png",
+            "bbox": [
+              144.0,
+              160.03997802734375,
+              467.95001220703125,
+              455.0899963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 11-14. Dryline Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.3551330566406,
+              200.0449981689453,
+              477.3751220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The dryline typically advances eastward during the afternoon and retreats westward at night. However, a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              485.9024353027344,
+              542.7114868164062,
+              496.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "strong wave cyclone can sweep the dryline eastward into the Mississippi Valley, or even farther east, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              498.56243896484375,
+              542.7481079101562,
+              509.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "regardless of the time of day. Low-level clouds and early morning fog often prevail in the moist air, while ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.2224426269531,
+              542.52294921875,
+              522.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "generally clear skies mark the dry side. Severe and sometimes tornadic thunderstorms often develop along ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              523.8224487304688,
+              542.481689453125,
+              534.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a dryline or in the moist air just to the east of it, especially when it begins moving eastward. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.482421875,
+              478.5849914550781,
+              547.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A typical dryline passage results in a sharp drop in humidity (hence the name), clearing skies, and a wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.1423950195312,
+              542.4158935546875,
+              566.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shift from south or southeasterly to west or southwesterly. Blowing dust and rising temperatures also may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.8024291992188,
+              542.4158325195312,
+              578.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "follow, especially if the dryline passes during the daytime. These changes occur in reverse order when the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              580.46240234375,
+              542.51416015625,
+              591.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dryline retreats westward. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              593.1224365234375,
+              188.64498901367188,
+              604.1024780273438
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

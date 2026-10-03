@@ -1,0 +1,94 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 1",
+    "start_page": 15,
+    "end_page": 20,
+    "pages": [
+      {
+        "page_number": 15,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 1",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.47467803955078,
+              119.61600494384766,
+              91.47467803955078
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p15_b5.png",
+            "bbox": [
+              63.70000076293945,
+              85.69861602783203,
+              419.3800354003906,
+              199.4586181640625
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "F\nV\nT\nt",
+                "orecast data is based on computer forecasts generated the 1st day o\nALID 010600Z FOR USE 0500-0900Z. TEMPS NEG ABV 24\nhe valid time of the forecast is the 1st day of the month at 0600 U\nemperatures are to be used between 0500 and 0900 UTC. Tempera",
+                null
+              ],
+              [
+                "FT 3000 6000 9000 12000 18000 24000 30000\nFT indicates the altitude of the forecast.\nMKC 9900 1709+06 2018+00 2130-06 2242-18",
+                null,
+                "34000 39\n2361-30 2"
+              ]
+            ],
+            "bbox": [
+              64.05000305175781,
+              97.93902587890625,
+              369.70001220703125,
+              453.4549865722656
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p15_b1.png",
+            "bbox": [
+              55.05000305175781,
+              178.18182373046875,
+              325.77001953125,
+              454.6618347167969
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 16,
+        "elements": []
+      },
+      {
+        "page_number": 17,
+        "elements": []
+      },
+      {
+        "page_number": 18,
+        "elements": []
+      },
+      {
+        "page_number": 19,
+        "elements": []
+      },
+      {
+        "page_number": 20,
+        "elements": []
+      }
+    ]
+  }
+}

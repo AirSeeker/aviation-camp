@@ -1,0 +1,2162 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 16",
+    "start_page": 190,
+    "end_page": 206,
+    "pages": [
+      {
+        "page_number": 190,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p190_b2.png",
+            "bbox": [
+              61.13999938964844,
+              63.540016174316406,
+              553.6799926757812,
+              190.08001708984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              330.20501708984375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter focuses on mountain waves and adverse winds. Other mountain weather phenomena are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.39404296875,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "discussed in other chapters, which are noted. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.26242065429688,
+              271.44500732421875,
+              162.24241638183594
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 191,
+        "elements": [
+          {
+            "type": "text",
+            "text": "16.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Waves and Adverse Winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              301.7749938964844,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The atmosphere is a fluid in motion. Just as the swiftly flowing water in a stream develops waves and eddies ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.5255737304688,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as it passes over and around obstructions, so does the atmosphere contain disturbances that develop as it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.3610229492188,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "interacts with mountainous terrain. These atmospheric eddies can range in size from a few centimeters to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.5587768554688,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tens or hundreds of kilometers and can present the pilot with relatively smooth air, or with turbulence of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.5396118164062,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "potentially destructive intensity, and the likelihood of loss of control. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              378.7449951171875,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When the atmosphere encounters a mountainous barrier, a number of responses are possible. If the wind is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.4818115234375,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weak or the moving air mass exceptionally dense, the mountains may act as a dam, preventing the motion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              542.35009765625,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of air over the barrier. More frequently, strong winds flow over or around mountains or ridges. If the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.5774536132812,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surrounding atmosphere is unstable, the vertical displacement of the air will (if sufficient moisture is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.3500366210938,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "present) lead to thunderstorm formation or at least the development of deep convective clouds. However, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              542.76611328125,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if the wind is sufficiently strong and the surrounding atmosphere is stable, a wave will develop. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.86245727539062,
+              494.7850036621094,
+              243.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The wave that results from vertical displacement of a stable air mass over a mountain or ridge can generally ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              251.52243041992188,
+              542.6026000976562,
+              262.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "take one of two forms: vertically propagating mountain waves or trapped lee waves. Both types of waves ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              542.3719482421875,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "can be hazardous to aviation operations. The particular type of wave or combination of waves that forms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.8424377441406,
+              542.5137329101562,
+              287.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "depends on the nature of the mountain range and on atmospheric properties upwind of the mountain. It is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.44244384765625,
+              542.2951049804688,
+              300.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "possible for both types of waves to exist at the same time. It also is possible to have hybrid or intermediate ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              302.1024475097656,
+              542.6837158203125,
+              313.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forms (i.e., waves that are only partially trapped). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.762451171875,
+              292.56500244140625,
+              325.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most severe mountain wind events usually occur when the large-scale (or synoptic) winds are strongest, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              333.4224548339844,
+              542.7183837890625,
+              344.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from late autumn to early spring. During the remainder of the year, when the synoptic winds are normally ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              346.08245849609375,
+              542.421875,
+              357.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "much weaker, hazardous winds in the vicinity of mountains are more likely to be associated with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.68243408203125,
+              542.4267578125,
+              369.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms and their outflow fields. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              371.3424377441406,
+              246.18499755859375,
+              382.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The mountain-induced flow fields to be discussed in this section are frequently accompanied by visual ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.00244140625,
+              542.3839111328125,
+              400.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "indicators (such as lenticular and rotor clouds or blowing dust). However, this is not always the case, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.68243408203125,
+              542.3060913085938,
+              413.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extremely severe wind events can occur with little or no visual warning of their presence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              415.3424377441406,
+              467.9049987792969,
+              426.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              440.2204895019531,
+              104.52401733398438,
+              453.2405090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Gravity Waves ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              440.2204895019531,
+              194.135009765625,
+              453.2405090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In order for gravity waves to develop, the atmosphere must possess at least some degree of static stability. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.94244384765625,
+              542.4050903320312,
+              471.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As stable air is deflected vertically by an obstacle (e.g., when an air mass moves over a mountain ridge), it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.5424499511719,
+              542.5037841796875,
+              484.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "resists the displacement because as it rises, it is heavier than the air surrounding it, and gravity is acting to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              486.20245361328125,
+              542.7236328125,
+              497.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "return it to its equilibrium level. Because of its negative buoyancy, the deflected air begins to return to its ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              498.8624572753906,
+              542.437744140625,
+              509.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "original level once it has cleared the ridge. However, its momentum will cause it to overshoot the original ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.5224304199219,
+              542.339111328125,
+              522.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "altitude, warming by compression and now becoming less dense than the surrounding air. As a result, it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              524.1824340820312,
+              542.64990234375,
+              535.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "begins to rise back to the equilibrium altitude, overshoots once more, and continues through a period of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.8424072265625,
+              542.2839965820312,
+              547.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "oscillations before the resulting wave motion dampens out. This process is depicted in Figure 16-1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              549.5023803710938,
+              508.4049987792969,
+              560.482421875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 192,
+        "elements": []
+      },
+      {
+        "page_number": 193,
+        "elements": []
+      },
+      {
+        "page_number": 194,
+        "elements": [
+          {
+            "type": "text",
+            "text": "instabilities created by the wind shear along the flexible surface of the flag, analogous to the wind shear ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.185302734375,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "through a very stable (but shallow) layer of the atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              337.4049987792969,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.2.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              110.96048736572266,
+              104.52401733398438,
+              123.9804916381836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Vertically Propagating Mountain Waves ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              110.96048736572266,
+              326.2749938964844,
+              123.9804916381836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 16-5 shows a schematic of a vertically propagating mountain wave. This feature is essentially a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.70242309570312,
+              542.4461669921875,
+              142.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "standing gravity wave whose energy propagates vertically. For this class of wave, nothing is preventing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.30245971679688,
+              542.383056640625,
+              155.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vertical propagation, such as strong wind shear or neutrally stable atmospheric layers. The mere fact that a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.6932373046875,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wave has developed in air moving over a mountain (or other barrier) does not in itself indicate problems ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.328125,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for an aircraft operating in the vicinity. The potential for hazard is a function of the strength of the wave ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              542.7798461914062,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and whether or not an area of the wave “breaks” into turbulent motions that, in the extreme, can lead to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.56494140625,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "structural damage or failure of an aircraft component. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.60244750976562,
+              310.5050048828125,
+              218.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "With this type of wave feature, air that is moving nearly perpendicular to the barrier is deflected upward ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              226.20242309570312,
+              542.3720703125,
+              237.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and accelerated as it passes over the crests and down the lee slopes of the terrain. Notice in Figure 16-5 that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.86245727539062,
+              542.7710571289062,
+              249.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the standing wave has developed vertically above the mountain crest and that the resulting wave tilts upwind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              251.52243041992188,
+              542.5585327148438,
+              262.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with height. This vertical propagation of the wave means that the effects of the mountain range can be felt ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              542.2621459960938,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at heights significantly above the actual altitude of the peaks (at times reaching in excess of 60,000 ft). As ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.8424377441406,
+              542.4965209960938,
+              287.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a result, aircraft flying at virtually any altitude may have to deal with significant turbulence and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.44244384765625,
+              542.7012939453125,
+              300.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wave-induced altitude excursions. In fact, the amplitude of this type of wave actually increases with height ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              302.1024475097656,
+              542.5105590820312,
+              313.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "above the mountain (in the absence of atmospheric features, such as strong inversions or shear layers that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.762451171875,
+              542.4158325195312,
+              325.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "would tend to partially reflect or absorb the upward-moving wave energy). This amplification is a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              327.4224548339844,
+              542.6642456054688,
+              338.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "consequence of the normal decrease in air density with altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              340.08245849609375,
+              354.5050048828125,
+              351.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The amplitude of the wave will be larger, for the same upstream conditions, the higher the elevation of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.68243408203125,
+              542.7354125976562,
+              369.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mountain range above the surrounding terrain. Although even very modest terrain relief can cause ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              371.3424377441406,
+              542.6331787109375,
+              382.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appreciable wave activity under the proper conditions. Wave amplitude also will tend to be larger for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              384.00244140625,
+              542.4376220703125,
+              394.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stronger cross-mountain wind components at mountaintop level. However, the actual amplitude depends ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.6624450683594,
+              542.4805908203125,
+              407.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "on complex relationships between upstream atmospheric wind and temperature profiles and the height and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.3424377441406,
+              542.603759765625,
+              420.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shape of the particular mountain range. Stronger flow across the mountain leads to a deeper wave, given ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              422.00244140625,
+              542.4127807617188,
+              432.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the same atmospheric stability. However, the greater the background stability, the shallower the resulting ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.6024475097656,
+              542.3499755859375,
+              445.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wave, at fixed-wind speed. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.262451171875,
+              193.02499389648438,
+              458.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As previously noted, the primary concern for pilots with this type of feature is that the vertical motions of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              465.9224548339844,
+              542.2952880859375,
+              476.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the air moving through the wave may become strong enough to “break” into turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              478.58245849609375,
+              462.0849914550781,
+              489.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "What is meant by “wave breaking”? Looking again at the streamlines that show the airflow in Figure 16-5, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              497.242431640625,
+              542.8049926757812,
+              508.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "it shows that high above the ridge there is a region of updraft. With a wave of modest amplitude (in which ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              509.8424377441406,
+              542.3280029296875,
+              520.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the vertical displacement of air moving through the wave is relatively limited), an aircraft flying through ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              522.5023803710938,
+              542.3829345703125,
+              533.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "this region would likely experience appreciable “wave action,” with altitude and/or airspeed fluctuations, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              535.1624145507812,
+              542.6574096679688,
+              546.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "but little turbulence. However, with sufficient amplitude, the wave breaks, and localized updrafts and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              547.8224487304688,
+              542.7198486328125,
+              558.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "downdrafts occur. The consequences for a pilot flying through this region include airspeed and altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              560.482421875,
+              542.3610229492188,
+              571.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "deviations and the possible sudden onset of severe or extreme turbulence. This type of turbulence occurs ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              573.1423950195312,
+              542.3941040039062,
+              584.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "typically between 20,000 ft and 39,000 ft MSL and is, therefore, primarily of importance to turboprop and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              585.742431640625,
+              542.48486328125,
+              596.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "jet aircraft at cruise as they approach and overfly the mountain range. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              598.4024047851562,
+              380.2449951171875,
+              609.3824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 195,
+        "elements": []
+      },
+      {
+        "page_number": 196,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p196_b6.png",
+            "bbox": [
+              162.0,
+              76.5,
+              449.9700012207031,
+              407.79998779296875
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p196_b7.png",
+            "bbox": [
+              288.7799987792969,
+              179.9610137939453,
+              391.6050109863281,
+              266.9980163574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(Source: Durran and Klemp, 1983)",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              233.72000122070312,
+              419.8351135253906,
+              375.13665771484375,
+              429.8551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 16-6. Schematic Showing Locations of Jump and Wave Breaking Region of a Vertically Propagating Mountain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              443.3551330566406,
+              542.5074462890625,
+              453.3751220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wave ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              455.7151184082031,
+              97.8449935913086,
+              465.735107421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 6.480000019073486,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              697.6843872070312,
+              75.23999786376953,
+              704.1644287109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Durran, D. R., & Klemp, J. B. (1983). A compressible model for the simulation of moist mountain waves. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              75.23999786376953,
+              698.3151245117188,
+              503.95086669921875,
+              708.3351440429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather. Review, 111",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              72.0,
+              709.8351440429688,
+              159.755126953125,
+              719.8551635742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", 2341-2361. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              159.8000030517578,
+              709.8351440429688,
+              213.125,
+              719.8551635742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 6.480000019073486,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              375.1000061035156,
+              419.20440673828125,
+              378.3399963378906,
+              425.6844177246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Monthly ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              504.0400085449219,
+              698.3151245117188,
+              539.8916015625,
+              708.3351440429688
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 197,
+        "elements": []
+      },
+      {
+        "page_number": 198,
+        "elements": []
+      },
+      {
+        "page_number": 199,
+        "elements": []
+      },
+      {
+        "page_number": 200,
+        "elements": []
+      },
+      {
+        "page_number": 201,
+        "elements": []
+      },
+      {
+        "page_number": 202,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Flight operations may be conducted in the vicinity of strong horizontal vortices without any encounters ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.349853515625,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "because they are highly localized, short-lived, and generally cloud-free. Conversely, one or more aircraft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.639892578125,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may encounter a strong, but invisible, vortex (that might be described as being like a “horizontal tornado,” ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.8049926757812,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "even though it is not) and undergo rolling moments and localized turbulence that make it impossible for the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.591552734375,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot to maintain aircraft control. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              218.64498901367188,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.2.6.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              148.82144165039062,
+              111.0,
+              160.82144165039062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Intense Vertical-Axis Vortices ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              148.82144165039062,
+              271.1600036621094,
+              160.82144165039062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Analogous to the horizontal vortices described in the previous section are vertically oriented vortices of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.48245239257812,
+              542.4158325195312,
+              179.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "great intensity, similar to a short-lived, tornado-like event. They can form downwind of localized rugged ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              181.14242553710938,
+              542.5061645507812,
+              192.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "terrain as well as isolated peaks (see Figure 16-12).",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              193.80245971679688,
+              297.7250061035156,
+              204.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "These vortices are not associated with thunderstorms and are therefore not tornadoes, but their wind speeds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              212.40243530273438,
+              542.49267578125,
+              223.38243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "can reach 150 kt or more. As is the case with horizontal vortices, there may be no visual indications ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.06246948242188,
+              542.6754760742188,
+              236.04246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(i.e., visible cloud) of the presence of such a strong vertically oriented vortex. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              237.72244262695312,
+              416.30499267578125,
+              248.7024383544922
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p202_b10.png",
+            "bbox": [
+              198.0,
+              265.44000244140625,
+              413.9700012207031,
+              586.6900024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 16-12. Schematic of Vertically Oriented Vortices Generated in the Lee of an Isolated Mountain Peak ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              598.2750854492188,
+              506.6050109863281,
+              608.2951049804688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.2.6.3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              622.9614868164062,
+              120.0,
+              634.9614868164062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Dust Devils ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              622.9614868164062,
+              190.33999633789062,
+              634.9614868164062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A common wind phenomenon that occurs throughout much of the world, including the desert Southwest, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              642.6224365234375,
+              542.4158935546875,
+              653.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is dust devils, sometimes known as whirlwinds. These dust-filled vortices, created by strong surface ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              655.222412109375,
+              542.6576538085938,
+              666.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heating, are generally smaller and less intense than a tornado. Typical diameters of dust devils range ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              667.8823852539062,
+              542.3719482421875,
+              678.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from 10 to 300 ft, with an average height of approximately 500 to 1,000 ft. In most locations, dust devils ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              680.5624389648438,
+              542.65478515625,
+              691.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "typically last only a few minutes before dissipating, although in deserts typical of northern Arizona, dust ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              693.222412109375,
+              542.5655517578125,
+              704.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "devils can reach heights of several thousand feet and last an hour or more. Wind speeds in larger dust devils ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              705.8823852539062,
+              542.569580078125,
+              716.8624267578125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 203,
+        "elements": []
+      },
+      {
+        "page_number": 204,
+        "elements": []
+      },
+      {
+        "page_number": 205,
+        "elements": []
+      },
+      {
+        "page_number": 206,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p206_b18.png",
+            "bbox": [
+              126.0,
+              76.5,
+              485.9800109863281,
+              346.70001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 16-16. Examples of Mountain Wave Clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.31512451171875,
+              279.7250061035156,
+              368.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.0804748535156,
+              94.75901794433594,
+              396.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain/Valley Breezes and Circulation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              383.0804748535156,
+              323.7550048828125,
+              396.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Sections 10.6.4, 10.6.5, and 10.6.6 for information on mountain/valley breezes and circulation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              403.82244873046875,
+              510.625,
+              414.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              428.7004699707031,
+              94.75901794433594,
+              441.7204895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain/Valley Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              428.7004699707031,
+              219.09500122070312,
+              441.7204895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 18.1.1.1.1.1 for information on mountain/valley fog. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              449.4224548339844,
+              359.8450012207031,
+              460.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              474.30047607421875,
+              94.75901794433594,
+              487.32049560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Upslope Fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              474.30047607421875,
+              173.5550079345703,
+              487.32049560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 18.1.1.1.3 for information on upslope fog. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.0224304199219,
+              314.2850036621094,
+              506.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              519.9005126953125,
+              94.75901794433594,
+              532.9204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Obscuration ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              519.9005126953125,
+              224.135009765625,
+              532.9204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 18.2.2 for information on mountain obscuration. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              540.6224365234375,
+              341.7250061035156,
+              551.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              565.50048828125,
+              94.75901794433594,
+              578.5204467773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              565.50048828125,
+              219.7550048828125,
+              578.5204467773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Chapter 19, Turbulence, for information on mountain turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              586.222412109375,
+              380.54498291015625,
+              597.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.1005249023438,
+              94.75901794433594,
+              624.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Icing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              611.1005249023438,
+              187.2949981689453,
+              624.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 20.3.8 for information on mountain icing. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              631.8224487304688,
+              312.42498779296875,
+              642.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "16.9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              656.7005004882812,
+              94.75901794433594,
+              669.720458984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density Altitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              656.7005004882812,
+              193.0550079345703,
+              669.720458984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 8.4.1.5 for information on density altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              677.4224243164062,
+              316.385009765625,
+              688.4024658203125
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,3998 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 23",
+    "start_page": 278,
+    "end_page": 284,
+    "pages": [
+      {
+        "page_number": 278,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p278_b2.png",
+            "bbox": [
+              61.13999938964844,
+              65.33998107910156,
+              553.6799926757812,
+              255.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Space Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              288.18499755859375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The term “space weather” is used to designate processes occurring on the Sun or in the Earth’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.8049926757812,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetosphere, ionosphere, and thermosphere that could have multi-faceted impacts with the potential to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.6328735351562,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "affect a wide range of space-based and terrestrial assets and services. Space weather phenomena such as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.7835083007812,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "solar flares, radiation storms, and geomagnetic storms are some potential concerns for aviation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              494.06500244140625,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter provides an overall introduction to space weather general theory. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              195.18246459960938,
+              417.80499267578125,
+              206.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter also outlines the potential effects of space weather on the aircraft, including communications, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              213.84243774414062,
+              542.7017211914062,
+              224.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "navigation [e.g., Global Positioning System (GPS)], radiation exposure, and radiation effects on avionics. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              226.50247192382812,
+              539.14501953125,
+              237.4824676513672
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 279,
+        "elements": [
+          {
+            "type": "text",
+            "text": "23.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Sun—Prime Source of Space Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              329.5150146484375,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Sun is the dominant source of the conditions commonly described as space weather. Emissions from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.364990234375,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Sun are both continuous (e.g., solar luminescence and solar wind) and eruptive (e.g., coronal mass ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.71435546875,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ejections (CME) and flares). These solar eruptions may cause radio blackouts, magnetic storms, ionospheric ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.580322265625,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "storms, and radiation storms at Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.36245727539062,
+              239.40499877929688,
+              149.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Similar to the charged particles that come from the Sun, Galactic Cosmic Rays (GCR) are charged particles ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.6896362304688,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that originate in more distant supernovae and contribute to the space weather conditions near Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.295166015625,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Essentially, these charged particles comprise a steady drizzle of radiation at Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              436.7049865722656,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The sum of the solar and non-solar components equals the full extent of the potential radiation dose ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              200.94247436523438,
+              542.5855712890625,
+              211.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "received. The size of the GCR flux varies inversely with the sunspot cycle (sunspots are described in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              213.54244995117188,
+              542.3829956054688,
+              224.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 23.4); that is, during sunspot minimums when the interplanetary environment near Earth is laminar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              226.20242309570312,
+              542.6157836914062,
+              237.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and steady, the GCR component is large due to its easier access to the near-Earth environment. At sunspot ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.86245727539062,
+              542.6918334960938,
+              249.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximum, the turbulence and energetics associated with solar eruptions reduce GCR access to the vicinity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              251.52243041992188,
+              542.6780395507812,
+              262.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              129.4250030517578,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.06048583984375,
+              94.75901794433594,
+              302.08050537109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Sun’s Energy Output and Variability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              289.06048583984375,
+              321.6549987792969,
+              302.08050537109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Sun is a variable star. That means the balance between the continuous emissions and the eruptive ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              309.7824401855469,
+              542.4305419921875,
+              320.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "emissions changes with time. One metric that is commonly used to track this variability is the occurrence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              322.44244384765625,
+              542.3170776367188,
+              333.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of sunspots. Astronomers have made sunspot observations continuously for hundreds, maybe even ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              335.0424499511719,
+              542.6181030273438,
+              346.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thousands, of years. Though the underlying physics is complex it is currently the subject of ongoing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              347.70245361328125,
+              542.6343383789062,
+              358.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "research and exploration. On average, sunspots come and go in an 11-year period. The magnitude and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              360.3624572753906,
+              542.6761474609375,
+              371.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "duration of individual cycles varies, but typically more eruptive events occur near the solar maximum, while ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              373.0224304199219,
+              542.6136474609375,
+              384.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "few are observed near solar minimum. All solar electromagnetic emissions, from radio to gamma rays, are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              385.68243408203125,
+              542.7603759765625,
+              396.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "also stronger during solar maximum and less intense near solar minimum. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              398.3424377441406,
+              400.10498046875,
+              409.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              423.18048095703125,
+              94.75901794433594,
+              436.20050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sunspots and the Solar Cycle ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              423.18048095703125,
+              259.17498779296875,
+              436.20050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Because space weather activity varies with sunspot activity, they are often used as a proxy index for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              443.9024353027344,
+              542.3279418945312,
+              454.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "changing space weather conditions. This is because sunspots, by their very nature, exist due to strong local ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              456.56243896484375,
+              542.459716796875,
+              467.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetic fields. Severe space weather can occur with rapid changes in these magnetic fields. While ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              469.2224426269531,
+              542.7620849609375,
+              480.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sunspots are easily seen, other events such as GCR, CMEs, and increased solar wind are more difficult to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              481.8824462890625,
+              542.39404296875,
+              492.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observe from the ground and may not be related to long historical records of sunspots. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.5424499511719,
+              453.80499267578125,
+              505.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              519.4205322265625,
+              94.75901794433594,
+              532.4404907226562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar Wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              519.4205322265625,
+              166.35501098632812,
+              532.4404907226562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The solar wind is the continuous flow away from the Sun of charged particles and magnetic field, called ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              540.1423950195312,
+              542.6609497070312,
+              551.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "plasma. Solar wind is a consequence of the very high temperature of the solar corona (uppermost region of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              552.742431640625,
+              542.728271484375,
+              563.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Sun’s atmosphere) and the resultant expansion of the plasma into space. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              565.4024047851562,
+              407.7850036621094,
+              576.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The solar wind carries the energy from most solar eruptions that affect the near-Earth environment. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              584.0624389648438,
+              542.7133178710938,
+              595.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sole exception, solar flare photons consisting of light and x rays carry the energy released in solar flares. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              596.722412109375,
+              542.654296875,
+              607.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Even in the absence of an eruption, the constant flow of plasma fuels Earth’s geomagnetic field. The solar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              609.3823852539062,
+              542.7012329101562,
+              620.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind may be fast and energetic if an eruption occurs, or it can gradually increase due to a coronal-hole ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              621.982421875,
+              542.7764282226562,
+              632.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "structure that allows unimpeded high-speed solar wind to escape from the corona. As seen from the Earth, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              634.6423950195312,
+              542.69775390625,
+              645.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Sun rotates on approximately a 27-day period, so well-established coronal-hole structures that persist ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              647.3024291992188,
+              542.6983032226562,
+              658.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for several months will swing by Earth on schedule, roughly every 27 days. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              659.96240234375,
+              407.125,
+              670.9424438476562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 280,
+        "elements": [
+          {
+            "type": "text",
+            "text": "23.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              94.75901794433594,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar Eruptive Activity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              73.6404800415039,
+              228.09500122070312,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Most solar eruptions originate in areas that have strong magnetic fields. Usually marked with sunspots, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.3500366210938,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "these areas are commonly called active regions. Active regions are numerous and common during solar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.44873046875,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximum and scarce during solar minimum. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              272.10498046875,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flares and CMEs are the two major types of solar eruptions. They may occur independently or at the same ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.5476684570312,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "time. Solar flares have been recognized for more than 100 years, as they can be seen from the ground. In ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              542.5903930664062,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the past 50 years, Hydrogen-Alpha (656.3 nanometer wavelength) filter-equipped ground-based telescopes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              542.7525634765625,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have been used to observe flares. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              220.14498901367188,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flares are characterized by a very bright flash phase that may last for a few minutes to a few hours during ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.7603759765625,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the largest flares. Flares can emit at all frequencies across the electromagnetic emission spectrum, from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.4158325195312,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "gamma rays to radio. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              167.64498901367188,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CMEs, in contrast to solar flares, are difficult to detect; they are not particularly bright and may take hours ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.86245727539062,
+              542.6860961914062,
+              249.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to fully erupt from the Sun. CMEs literally are an eruption of a large volume of the solar outer atmosphere, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              251.52243041992188,
+              542.7437133789062,
+              262.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the corona. Prior to the satellite era, they were very difficult to observe. The energy released in a large solar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              542.5256958007812,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flare is on par with that released in a CME; however, CMEs are far more effective in perturbing Earth’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.8424377441406,
+              542.8049926757812,
+              287.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetic field and are known to cause the strongest magnetic storms. A typical travel time for a CME from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.44244384765625,
+              542.7310180664062,
+              300.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Sun to Earth may range from less than one day to more than four days. The travel time of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              302.1024475097656,
+              542.7574462890625,
+              313.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "electromagnetic emission produced during flares, by comparison, is at the speed of light. They ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.762451171875,
+              542.7246704101562,
+              325.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "instantaneously affect the day side of Earth upon observation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              327.4224548339844,
+              346.3450012207031,
+              338.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The frequency of solar flares and CMEs tracks with the solar cycle. As many as 25 solar flares may occur ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              346.08245849609375,
+              542.7471313476562,
+              357.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "per day during the maximum phase of the solar cycle. At solar minimum, it may take six months or more ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.68243408203125,
+              542.7310180664062,
+              369.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for 25 flares to occur. CME frequency varies from about five per day near solar maximum to one per week ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              371.3424377441406,
+              542.770263671875,
+              382.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or longer at solar minimum. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              384.00244140625,
+              197.8249969482422,
+              394.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Many CMEs observed lifting off the Sun miss Earth due to the CME’s direction of travel. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.68243408203125,
+              469.4049987792969,
+              413.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              427.56048583984375,
+              94.75901794433594,
+              440.58050537109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Geospace ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              427.56048583984375,
+              157.2949981689453,
+              440.58050537109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Geospace is the volume of space that surrounds Earth, influenced by the Earth’s magnetic field in the solar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              448.2824401855469,
+              542.7119140625,
+              459.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind. If Earth did not have a magnetic field, the solar wind would blow past unimpeded, affected only by ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.94244384765625,
+              542.415771484375,
+              471.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the mass of Earth and its atmosphere. Earth’s magnetic field extends outward in all directions. This forms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.5424499511719,
+              542.4891357421875,
+              484.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a cocoon for the planet, protecting it from the flow of the solar wind. The cocoon is called the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              486.20245361328125,
+              542.361083984375,
+              497.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetosphere. The magnetosphere typically extends towards the Sun about 10 Earth radii on the day side ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              498.8624572753906,
+              542.7738037109375,
+              509.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and stretches away from the Sun many times more on the night side. The shape is similar to a comet tail, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.5224304199219,
+              542.8049926757812,
+              522.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with it being extended during strong solar wind conditions and less during quieter times. On its flanks, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              524.1824340820312,
+              542.7073974609375,
+              535.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetosphere extends outward roughly 20 Earth radii in the dawn and dusk sectors. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.8424072265625,
+              448.94500732421875,
+              547.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The magnetosphere deflects most of the energy carried by the solar wind, while making a fraction of it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.4424438476562,
+              542.72216796875,
+              566.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "available to be absorbed by the near-Earth system. When the Sun is active and CMEs interact with Earth, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.1024169921875,
+              542.6466064453125,
+              579.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the additional energy disrupts the magnetosphere, resulting in a magnetic storm. Then, over time, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              580.7623901367188,
+              542.339111328125,
+              591.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetosphere adjusts through various processes and once more returns to normal. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              593.4224243164062,
+              440.42498779296875,
+              604.4024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most visible manifestation of the energy being absorbed from the solar wind into the magnetosphere is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              612.0823974609375,
+              542.5366821289062,
+              623.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aurora, both in the Northern and Southern Hemispheres. The aurora occurs when accelerated electrons, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              624.6824340820312,
+              542.8049926757812,
+              635.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and sometimes protons, from the Sun follow the magnetic field of Earth down to the polar regions, where ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              637.3424072265625,
+              542.4743041992188,
+              648.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "they collide with oxygen and nitrogen atoms and molecules in Earth’s upper atmosphere. In these collisions, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              650.0023803710938,
+              542.68896484375,
+              660.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the electrons transfer their energy to the atmosphere, thus exciting the atoms and molecules to higher energy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              662.6624145507812,
+              542.591552734375,
+              673.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "states. When they relax to lower energy states, they release their energy in the form of light. Simply put, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              675.3224487304688,
+              542.7976684570312,
+              686.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the more energy in the solar wind, the brighter and more widespread the aurora glow becomes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              688.0023803710938,
+              491.7250061035156,
+              698.982421875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 281,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Nearer to Earth is another region called the ionosphere. It is a shell of weak plasma, where electrons and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3939208984375,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ions exist embedded in the neutral atmosphere. The ionosphere begins at roughly 80 km in altitude and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.7339477539062,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extends out many Earth radii, at the topside. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              268.7449951171875,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Extreme Ultraviolet (EUV) solar emissions create the ionosphere by ionizing the neutral atmosphere. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.39404296875,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "electrons and ions created by this process then engage in chemical reactions that progress faster in the lower ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.5586547851562,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ionosphere. The ionosphere changes significantly from day to night. When the Sun sets, chemical processes, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.7323608398438,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "together with other dynamic processes, allow some of the ionization to remain until the new day brings the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.4379272460938,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "solar EUV once again. An important point is that the energy that comes from the Sun in the solar wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.731201171875,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "makes its way to the ionosphere, where it alters the ambient conditions during space weather storms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.66244506835938,
+              517.4049682617188,
+              191.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              205.4805145263672,
+              94.75901794433594,
+              218.50050354003906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Galactic Cosmic Rays (GCR) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              205.4805145263672,
+              260.9150085449219,
+              218.50050354003906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Galactic Cosmic Rays, more commonly known as GCR, is a consequence of distant supernovae raining ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              226.20242309570312,
+              542.6337890625,
+              237.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "charged particles, heavy ions, protons, and electrons onto the inner heliosphere. The abundance of GCR is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.86245727539062,
+              542.6968994140625,
+              249.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inversely rated to the solar cycle. At solar maximum, when the solar wind flow is turbulent and strong, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              251.52243041992188,
+              542.5585327148438,
+              262.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GCR flux is inhibited and therefore low. At solar minimum, the GCR flux increases by about 25 percent in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              542.7716674804688,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the near-Earth environment. When high-energy GCR enter Earth’s atmosphere, it creates a cascade of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.8424377441406,
+              542.8049926757812,
+              287.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "interactions resulting in a range of secondary particles, including neutrons that make their way to Earth’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              289.44244384765625,
+              542.8049926757812,
+              300.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surface. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              302.1024475097656,
+              109.26499938964844,
+              313.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              326.98046875,
+              94.75901794433594,
+              340.00048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Geomagnetic Storms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              326.98046875,
+              216.2150115966797,
+              340.00048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Geomagnetic storms are strong disturbances to Earth’s magnetic field in the solar wind. These storms pose ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              347.70245361328125,
+              542.6827392578125,
+              358.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "problems for many activities, technological systems, and critical infrastructure. The topology of Earth’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              360.3624572753906,
+              542.8049926757812,
+              371.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "magnetic field changes in the course of a storm, as the near-Earth system attempts to adjust to the jolt of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              373.0224304199219,
+              542.6475219726562,
+              384.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "energy from the Sun. CMEs and the shocks they drive are often the causative agent and can send the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              385.68243408203125,
+              542.7508544921875,
+              396.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "geomagnetic field into a disturbed state. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              398.3424377441406,
+              250.68499755859375,
+              409.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most obvious and probably the only pleasing attribute of an energized geomagnetic field is the auroras. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              416.9624328613281,
+              542.7650146484375,
+              427.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Geomagnetic storms tend to brighten auroras and allow them to move equatorward. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              429.6224365234375,
+              442.5249938964844,
+              440.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The duration of geomagnetic storms is usually on the order of days. The strongest storms may persist for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              448.2824401855469,
+              542.36083984375,
+              459.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "almost one week. A string of CMEs may cause prolonged disturbed periods related to the additional energy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.94244384765625,
+              542.5328369140625,
+              471.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "being pumped toward the Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.6024475097656,
+              216.18499755859375,
+              484.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Although the frequency of geomagnetic storms reflects the solar cycle, a closer look shows a bimodal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.20245361328125,
+              542.3499755859375,
+              503.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "distribution. Large numbers of storms cluster at solar maximum resulting from frequent CMEs, and again ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              504.8624572753906,
+              542.3500366210938,
+              515.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the declining phase due to high-speed solar wind streams. Typically, the most intense storms occur near ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              517.5223999023438,
+              542.6502685546875,
+              528.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "solar maximum, with weaker storms occurring during the declining phase. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.1824340820312,
+              401.9049987792969,
+              541.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.10",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.0604858398438,
+              101.2690200805664,
+              568.0804443359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar Radiation Storms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              555.0604858398438,
+              237.09500122070312,
+              568.0804443359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar radiation storms occur when large quantities of charged particles, primarily protons, are accelerated ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              575.7824096679688,
+              542.383056640625,
+              586.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by processes at or near the Sun and then bathe the near-Earth environment with these charged particles. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              588.4424438476562,
+              542.629638671875,
+              599.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "These particles cause an increase in the radiation dose to humans and increase the possibility of single-event ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              601.0424194335938,
+              542.7696533203125,
+              612.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "upsets in electronics. Earth’s magnetic field and atmosphere offer some protection from this radiation, but ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              613.702392578125,
+              542.43505859375,
+              624.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "protection decreases with altitude, latitude, magnetic field strength, and direction. The polar regions on ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              626.3624267578125,
+              542.6686401367188,
+              637.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth are the most open to these charged particles. The magnetic field lines at the poles extend vertically ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              639.0223999023438,
+              542.6557006835938,
+              650.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "downwards, intersecting Earth’s surface. This allows the particles to spiral down the field lines and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              651.6824340820312,
+              542.6348876953125,
+              662.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "penetrate into the atmosphere and increase the ionization. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              664.3424072265625,
+              327.68499755859375,
+              675.3224487304688
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 282,
+        "elements": [
+          {
+            "type": "text",
+            "text": "A significant factor related to the criticality of the radiation increase at Earth is the energy distribution of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3939208984375,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the solar protons. Protons of varying energies will bathe Earth as a function of the site of the eruption at the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.66162109375,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sun and the magnetic connection between the Sun and Earth. High-energy protons cause radiation dose ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.7183227539062,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increases that are of concern to human beings. Lower energy protons have little effect on humans but have ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.4708251953125,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a severe impact on the polar ionosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              252.2449951171875,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The duration of solar radiation storms is a function of the magnitude of the solar eruption as well as the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.3610229492188,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "energy level of protons. For events that are of a large magnitude but low energy, the duration may last for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.3171997070312,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "one week. Events that are of high energy may last for only a few hours. Diversity in the duration of solar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.6371459960938,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "radiation storms exists, just as there are many factors that contribute to the acceleration and propagation of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.60244750976562,
+              542.6033935546875,
+              191.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the charged particles near Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              193.26242065429688,
+              216.72499084472656,
+              204.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar radiation storms can occur at any point in the solar cycle but tend to be most common during the years ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              211.92245483398438,
+              542.6024780273438,
+              222.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "around solar maximum. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              224.58242797851562,
+              179.52499389648438,
+              235.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.11",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              249.4604949951172,
+              101.2690200805664,
+              262.4804992675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ionospheric Storms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              249.4604949951172,
+              217.23500061035156,
+              262.4804992675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ionospheric storms arise from large influxes of solar particle and electromagnetic radiation. There is a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              270.1824645996094,
+              542.405029296875,
+              281.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "strong coupling between the ionosphere and the magnetosphere, which means both regimes can be disturbed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              282.8424377441406,
+              542.58056640625,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "concurrently. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              295.50244140625,
+              133.08499145507812,
+              306.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The symptoms of an ionospheric storm include enhanced currents, turbulence and wave activity, and a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.1024475097656,
+              542.3390502929688,
+              325.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "nonhomogeneous distribution of free electrons. This clustering of electrons that leads to scintillation of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              326.762451171875,
+              542.729736328125,
+              337.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "signals passing through the cluster is particularly problematic for the Global Navigation Satellite System ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              339.4224548339844,
+              542.5524291992188,
+              350.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(GNSS), including the United States’ GPS. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.08245849609375,
+              264.4849853515625,
+              363.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The duration of the ionospheric storm impact may range from a few minutes to days-long prolonged events. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              370.68243408203125,
+              542.7135009765625,
+              381.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As a general rule, these ionospheric storms mimic the duration of geomagnetic storms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.3424377441406,
+              455.9649963378906,
+              394.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The intensity of ionospheric storms varies significantly as a function of local time, season, and time within ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.0224304199219,
+              542.6026611328125,
+              413.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the solar cycle. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              414.68243408203125,
+              141.00498962402344,
+              425.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The frequency of occurrence of ionospheric storms is also similar to geomagnetic storms with one important ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              433.3424377441406,
+              542.49267578125,
+              444.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "caveat. The near-equatorial ionosphere, a band extending approximately ±10° in latitude on either side of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.00244140625,
+              542.5083618164062,
+              456.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the magnetic equator, can be very disturbed in the post-sunset to near-midnight hours, even in the absence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              458.6024475097656,
+              542.635986328125,
+              469.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of a geomagnetic storm. This behavior is related to the internal electrodynamics of the ionosphere rather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              471.262451171875,
+              542.3170166015625,
+              482.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than external stimulation from the Sun. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              483.9224548339844,
+              247.08499145507812,
+              494.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.12",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              508.8005065917969,
+              101.2690200805664,
+              521.8204956054688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar Flare Radio Blackouts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              508.8005065917969,
+              262.7149963378906,
+              521.8204956054688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radio blackouts primarily affect high frequency (HF) (3–30 megahertz (MHz)), although detrimental ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              529.5223999023438,
+              542.6455078125,
+              540.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "effects may spill over to VHF (30–300 MHz) and beyond, resulting in fading and diminished ability for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              542.1824340820312,
+              542.4873046875,
+              553.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reception. The blackouts are a consequence of enhanced electron densities caused by the emissions from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              554.8424072265625,
+              542.7273559570312,
+              565.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "solar flares that ionize the sunlit side of Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.5023803710938,
+              277.3249816894531,
+              578.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The process consists of x ray and EUV bursts from a solar flare, increasing the number of free electrons in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              586.1024169921875,
+              542.7407836914062,
+              597.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the atmosphere below 90 km; this in turn increases their interaction with the neutral atmosphere that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              598.7623901367188,
+              542.45068359375,
+              609.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increases the amount of radio energy lost as radio waves pass through this region. During a large flare event, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.4224243164062,
+              542.637451171875,
+              622.4024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the amount of radio energy lost is sufficient to make the return signal from the ionosphere too small to be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              624.0823974609375,
+              542.8049926757812,
+              635.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "useful with normal radio receivers. The net effect of this process is a blackout for HF transmissions. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              636.742431640625,
+              514.64501953125,
+              647.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The duration of dayside solar flare radio blackouts closely follows the duration of the solar flares that cause ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              655.3424072265625,
+              542.5255737304688,
+              666.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the blackouts, beginning with the arrival of the x ray and EUV photons and abating with their diminution. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              668.0023803710938,
+              542.709228515625,
+              678.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Usually, the radio blackouts last for several minutes, but they can last for hours. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              680.6824340820312,
+              426.0849914550781,
+              691.6624755859375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 283,
+        "elements": [
+          {
+            "type": "text",
+            "text": "23.13",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              101.2690200805664,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Effects of Space Weather on Aircraft Operations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              369.114990234375,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.13.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.58048248291016,
+              111.03401947021484,
+              113.6004867553711
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Communications ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              100.58048248291016,
+              213.635009765625,
+              113.6004867553711
+            ]
+          },
+          {
+            "type": "text",
+            "text": "High frequency communications (HF COM) at low- to mid-latitudes are used by aircraft during ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              121.30245208740234,
+              542.6605834960938,
+              132.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transoceanic flights and routes where line-of-sight VHF communication is not an option. HF enables a skip ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              133.98245239257812,
+              542.6514892578125,
+              144.9624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mode to send a signal around the curvature of Earth. HF COM on the Earth’s day side can be adversely ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              146.64242553710938,
+              542.7383422851562,
+              157.62242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "affected when a solar flare occurs and its photons rapidly alter the electron density of the lower altitudes of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              159.30245971679688,
+              542.5366821289062,
+              170.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ionosphere, causing fading, noise, or a total blackout. Usually these disruptions are short-lived (tens of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              171.90243530273438,
+              542.7401123046875,
+              182.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minutes to a few hours), so the outage ends fairly quickly. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              184.56246948242188,
+              330.1449890136719,
+              195.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "HF COM at high latitudes and polar regions are adversely affected for longer periods, sometimes days, due ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              203.22244262695312,
+              542.56103515625,
+              214.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to some space weather events. The high latitude and polar ionosphere are a sink for charged particles that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.88241577148438,
+              542.8049926757812,
+              226.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "alter the local ionization and provide steep local ionization gradients to deflect HF radio waves, as well as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              228.54244995117188,
+              542.2293090820312,
+              239.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increase local absorption. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              241.20242309570312,
+              186.90499877929688,
+              252.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Satellite communication (SATCOM) signals pass through the bulk of the ionosphere and are a popular ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.8024597167969,
+              542.4821166992188,
+              270.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "means of communicating over a wide area. The frequencies normally used for SATCOM are high enough ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              272.4624328613281,
+              542.7102661132812,
+              283.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for the ionosphere to appear transparent. However, when the ionosphere is turbulent and nonhomogeneous, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              285.1224365234375,
+              542.4489135742188,
+              296.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an effect called scintillation (a twinkling in both amplitude and phase) is imposed upon the transmitted ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              297.7824401855469,
+              542.6669921875,
+              308.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "signal. Scintillations can result in loss-of-lock and the inability for the receiver to track a Doppler-shifted ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              310.44244384765625,
+              542.779052734375,
+              321.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "radio wave. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              323.1024475097656,
+              126.06500244140625,
+              334.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.13.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              347.92047119140625,
+              111.03401947021484,
+              360.94049072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Navigation and GPS ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              347.92047119140625,
+              231.635009765625,
+              360.94049072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Space weather adversely affects GPS in three ways: it increases the error of the computed position, it causes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.6424560546875,
+              542.4927978515625,
+              379.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a loss-of-lock for receivers, and it overwhelms the transmitted signal with solar radio noise. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.3024597167969,
+              477.68499755859375,
+              392.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.13.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              406.2004699707031,
+              111.03401947021484,
+              419.2204895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radiation Exposure to Flightcrews and Passengers ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              406.2004699707031,
+              388.07501220703125,
+              419.2204895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Solar radiation storms occurring under particular circumstances cause an increase in radiation dose to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              426.9224548339844,
+              542.427001953125,
+              437.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flightcrews and passengers. As high polar latitudes and high altitudes have the least shielding from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              439.58245849609375,
+              542.36083984375,
+              450.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "particles, the threat is the greatest for higher altitude polar flights. The increased dose is much less of an ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              452.242431640625,
+              542.516357421875,
+              463.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "issue for low and midlatitude flights. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              464.9024353027344,
+              236.64498901367188,
+              475.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "23.13.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              489.7804870605469,
+              111.03401947021484,
+              502.8005065917969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radiation Effects on Avionics ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              489.7804870605469,
+              281.7950134277344,
+              502.8005065917969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The electronic components of aircraft avionic systems are susceptible to damage from the highly ionizing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              510.4424743652344,
+              542.3391723632812,
+              521.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "interactions of cosmic rays, solar particles, and the secondary particles generated in the atmosphere. As ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              523.1024169921875,
+              542.3060913085938,
+              534.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "these components become increasingly smaller, and therefore more susceptible, the risk of damage also ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              535.7623901367188,
+              542.5817260742188,
+              546.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increases. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              548.4224243164062,
+              117.84500122070312,
+              559.4024658203125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 284,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p284_b2.png",
+            "bbox": [
+              62.34000015258789,
+              63.53997802734375,
+              554.8800048828125,
+              716.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Part 3: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              258.5,
+              76.6243667602539,
+              362.5,
+              112.6243667602539
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Technical Details Relating to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              95.58000183105469,
+              118.0444107055664,
+              525.4639892578125,
+              154.04440307617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Products and Aviation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              79.55999755859375,
+              159.44436645507812,
+              541.4200439453125,
+              195.44436645507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Tools ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              199.5800018310547,
+              200.84439086914062,
+              421.4800109863281,
+              236.84439086914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Types of Aviation Weather Information ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              247.02243041992188,
+              261.7250061035156,
+              258.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This handbook groups aviation weather information into five types: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              265.6824645996094,
+              372.3249816894531,
+              276.6624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              284.9223937988281,
+              95.05079650878906,
+              295.90240478515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Observations, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              285.1224365234375,
+              171.5449981689453,
+              296.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              304.3623962402344,
+              95.05079650878906,
+              315.3424072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Analysis, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              304.56243896484375,
+              151.98500061035156,
+              315.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              323.8023986816406,
+              95.05079650878906,
+              334.78240966796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advisories, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              324.00244140625,
+              161.1649932861328,
+              334.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              343.2424011230469,
+              95.05079650878906,
+              354.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Forecasts, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              343.44244384765625,
+              173.7050018310547,
+              354.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              362.6824035644531,
+              95.05079650878906,
+              373.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation Weather Tools. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              362.8824462890625,
+              219.7849884033203,
+              373.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Observations ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.5424499511719,
+              137.10499572753906,
+              392.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Observations are raw weather data collected automatically by sensor(s), manually by trained weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              400.1424560546875,
+              542.6559448242188,
+              411.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observers, or by a combination of both. The observations can either be in situ (i.e., surface or airborne) or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.82244873046875,
+              542.5780639648438,
+              423.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "remote (e.g., weather radar, satellite, and lightning).",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.4824523925781,
+              300.43792724609375,
+              436.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Analysis ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              444.1424560546875,
+              114.48500061035156,
+              455.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Analysis is the representation of an atmospheric variable (e.g., temperature, pressure) derived from a finite ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              462.742431640625,
+              542.6135864257812,
+              473.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "set of irregularly distributed observations onto a regular grid. Analyses of weather information are an ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              475.4024353027344,
+              542.6445922851562,
+              486.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "enhanced depiction and/or interpretation of observed weather data. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              488.06243896484375,
+              368.6650085449219,
+              499.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advisories ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              506.7224426269531,
+              124.26499938964844,
+              517.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation weather advisories, including warnings and alerts, described in this handbook are primarily ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              525.3823852539062,
+              542.6392211914062,
+              536.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "produced by the NWS. They inform the pilot and/or operator about aviation weather that may be a safety ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.0424194335938,
+              542.3390502929688,
+              549.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of flight risk, or that may need mitigation or avoidance depending on the aircraft’s and/or pilot’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              550.6423950195312,
+              542.8049926757812,
+              561.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "certification, current operating limits, or capabilities. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              563.3024291992188,
+              306.9049987792969,
+              574.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Forecasts ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              581.96240234375,
+              119.34500122070312,
+              592.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Forecasts are the predictions of the development and/or movement of weather phenomena based on ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              600.6224365234375,
+              542.3939819335938,
+              611.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "meteorological observations and various mathematical models. This handbook describes the many forecasts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              613.2824096679688,
+              542.5037841796875,
+              624.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "primarily produced by the NWS that are either specific to aviation or are public products of interest to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              625.8823852539062,
+              542.6343994140625,
+              636.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aviation users. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              638.5424194335938,
+              138.30499267578125,
+              649.5224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation Weather Tools ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              657.202392578125,
+              187.2050018310547,
+              668.1824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation weather tools are web-based applications that incorporate multiple weather products into a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              675.8624267578125,
+              542.5050659179688,
+              686.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "web-based interactive display. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              688.5424194335938,
+              208.2050018310547,
+              699.5224609375
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

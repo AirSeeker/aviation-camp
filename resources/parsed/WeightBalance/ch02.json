@@ -1,0 +1,1528 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 2",
+    "start_page": 21,
+    "end_page": 32,
+    "pages": [
+      {
+        "page_number": 21,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 2",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.92932891845703,
+              122.60800170898438,
+              140.9293212890625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p21_b3.png",
+            "bbox": [
+              63.70000076293945,
+              135.15313720703125,
+              580.6600341796875,
+              212.91314697265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight and Balance Theory",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 48.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.7877960205078,
+              470.6880187988281,
+              190.7877960205078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.70034790039062,
+              141.60000610351562,
+              211.70034790039062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight and balance in aircraft is based on the law of the lever. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              217.34999084472656,
+              311.5040283203125,
+              227.34999084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter discusses the application of the law of the lever ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              229.84999084472656,
+              311.5049743652344,
+              239.84999084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and its applications relative to locating the balance point of a ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              242.34999084472656,
+              311.5489807128906,
+              252.34999084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "beam or lever on which various weights are located or shifted. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              254.84999084472656,
+              311.33282470703125,
+              264.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The chapter also discusses the documentation pertaining to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              267.3499755859375,
+              311.5119934082031,
+              277.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weight and balance that is furnished by the Federal Aviation ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              279.8499755859375,
+              311.50701904296875,
+              289.8499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Administration (FAA) and aircraft manufacturers.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              292.3499755859375,
+              272.2300109863281,
+              302.3499755859375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 22,
+        "elements": []
+      },
+      {
+        "page_number": 23,
+        "elements": []
+      },
+      {
+        "page_number": 24,
+        "elements": []
+      },
+      {
+        "page_number": 25,
+        "elements": []
+      },
+      {
+        "page_number": 26,
+        "elements": [
+          {
+            "type": "text",
+            "text": "S/N 1148 through 1877, 1879 through 1885, and S/N 1005 ",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              285.0,
+              44.24186325073242,
+              524.4900512695312,
+              54.24186325073242
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The position of the fore and aft CG limits is measured as a ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              44.2666130065918,
+              275.5250549316406,
+              54.2666130065918
+            ]
+          },
+          {
+            "type": "text",
+            "text": "through 1147 if Cirrus Service Bulletin SB 20-01-00 is ",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              285.0,
+              56.74186325073242,
+              524.3408203125,
+              66.74186706542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "percentage of MAC from the MAC leading edge. Usually for ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              56.7666130065918,
+              275.6061096191406,
+              66.76661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "complied with:",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              285.0,
+              69.24186706542969,
+              344.7200012207031,
+              79.24186706542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a single or two-seat aircraft, the most forward position would ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              69.26661682128906,
+              275.5240783691406,
+              79.26661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be forward of 30–35 percent MAC. Thus, the allowable CG ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              81.76661682128906,
+              275.51702880859375,
+              91.76661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Forward Limits: 138.7 in at 2,110 lb with a straight line taper ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              81.76997375488281,
+              524.6343994140625,
+              91.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "range in a light aircraft should not exceed 20 percent MAC.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              94.26661682128906,
+              272.2401123046875,
+              104.26661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to 141.0 in at 2,694 lb and 144.1 in at 3,000 lb",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              94.26997375488281,
+              470.2799987792969,
+              104.26997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note: For a rectangular width of constant airfoil section ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              119.26661682128906,
+              275.5779724121094,
+              129.26661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aft Limits: 144.6 in at 2,110 lb, with straight line taper to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              119.26997375488281,
+              524.5030517578125,
+              129.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dimensions, MAC is just the chord. For a symmetrically-",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              131.76661682128906,
+              273.074951171875,
+              141.76661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "147.4 in at 2,570 lb, and to 148.1 in at 2,900 lb, and 148.0 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              131.7699737548828,
+              524.501953125,
+              141.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tapered wing, it is the average of the root chord and the tip ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              144.26661682128906,
+              275.531005859375,
+              154.26661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in at 3,000 lb",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              144.2699737548828,
+              337.7799987792969,
+              154.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "chord.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              156.76661682128906,
+              61.06999969482422,
+              166.76661682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "S/N 1878, 1886 and Subsequent:",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              285.0,
+              169.2418670654297,
+              415.83001708984375,
+              179.2418670654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FAA-Furnished Weight and Balance ",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              180.17031860351562,
+              242.24525451660156,
+              192.17031860351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Forward Limits: 137.8 in at 2,100 lb with a straight line taper ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              183.7699737548828,
+              524.6343994140625,
+              193.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information ",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              192.17031860351562,
+              104.97359466552734,
+              204.17031860351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to 139.1 in at 2,700 lb, and to 140.7 in at 3,050 lb",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              196.2699737548828,
+              483.05999755859375,
+              206.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The information discussed to this point can be readily applied ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              209.81996154785156,
+              275.5248718261719,
+              219.81996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aft Limits: 148.1 in at 2,100 lb, with straight line to 148.1 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              221.2699737548828,
+              524.501953125,
+              231.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to any aircraft weight and balance problem. To apply the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              222.31996154785156,
+              275.5050048828125,
+              232.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in at 3,050 lb",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              233.7699737548828,
+              337.7799987792969,
+              243.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "techniques, certain elements of information are required. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              234.81996154785156,
+              275.423095703125,
+              244.81996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This information is obtained from both FAA documents and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              247.31996154785156,
+              275.5019836425781,
+              257.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "manufacturer provided data. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              259.8199462890625,
+              151.52001953125,
+              269.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Empty Weight CG Range (EWCG)",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              261.130859375,
+              443.33990478515625,
+              271.130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When all of the seats and baggage compartments are located ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              274.26995849609375,
+              524.5130004882812,
+              284.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Before an aircraft CG can be computed, certain information ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              284.8199462890625,
+              275.50799560546875,
+              294.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "close together, it is not possible (as long as the EWCG is ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              286.76995849609375,
+              524.506103515625,
+              296.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "must be known. This information, furnished by the FAA ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              297.3199462890625,
+              275.5970458984375,
+              307.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "located within the EWCG range) to legally load the aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              299.26995849609375,
+              524.510986328125,
+              309.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for every certificated aircraft in the Type Certificate Data ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              309.8199462890625,
+              275.50299072265625,
+              319.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "so that its operational CG falls outside this allowable range. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              311.76995849609375,
+              524.5070190429688,
+              321.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sheets (TCDS) or Aircraft Specifications, can be accessed ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              322.3199462890625,
+              275.5040588378906,
+              332.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If the seats and baggage areas extend over a wide range, the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              324.26995849609375,
+              524.5029907226562,
+              334.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at www.faa.gov. When the design of an aircraft is approved ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              334.8199462890625,
+              275.5020446777344,
+              344.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "EWCG range is listed as “None.”",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              336.76995849609375,
+              418.86004638671875,
+              346.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by the FAA, an Approved Type Certificate and TCDS are ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              347.3199462890625,
+              275.5039978027344,
+              357.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "issued. The TCDS includes all of the pertinent specification  ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              359.8199462890625,
+              275.4111328125,
+              369.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum Weights",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              361.630859375,
+              372.7899475097656,
+              371.630859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for the aircraft; at each annual or 100-hour inspection, it is ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              372.3199462890625,
+              275.5040588378906,
+              382.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The maximum allowable takeoff and landing weights and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              374.76995849609375,
+              524.510986328125,
+              384.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the responsibility of the inspecting mechanic or repairman ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              384.8199462890625,
+              275.4980163574219,
+              394.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the maximum allowable ramp weight are given. This basic ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              387.26995849609375,
+              524.5030517578125,
+              397.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to ensure that the aircraft adheres to them. A note about the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              397.3199462890625,
+              275.5100402832031,
+              407.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information may be altered by a note. Notes are found in data ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              399.76995849609375,
+              524.3396606445312,
+              409.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "TCDS: aircraft certifi ated before January 1, 1958, were ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              409.8199462890625,
+              275.5919494628906,
+              419.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pertinent to all models. An example would be Note 6 at the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              412.26995849609375,
+              524.5050659179688,
+              422.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "issued Aircraft Specifica ions under the Civil Air Regulations ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              422.3199462890625,
+              275.5369873046875,
+              432.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "end of ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              424.76995849609375,
+              312.7699890136719,
+              434.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(CARs), but when the Civil Aeronautical Administration ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              434.8199462890625,
+              275.5660400390625,
+              444.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(CAA) was replaced by the FAA, Aircraft Specification  ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              447.3199462890625,
+              275.46710205078125,
+              457.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Number of Seats",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              452.130859375,
+              364.4599609375,
+              462.130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "were replaced by the TCDS.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              459.8199462890625,
+              149.58001708984375,
+              469.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The number of seats and their arms are given in such terms ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              465.26995849609375,
+              524.5040283203125,
+              475.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as: 4 (2 at 143.5 aft of datum, 2 at 180 aft of datum).",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              477.76995849609375,
+              494.9699401855469,
+              487.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The weight and balance information on a TCDS includes CG ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              484.8199462890625,
+              275.39306640625,
+              494.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "range, empty weight CG range (EWCG), maximum weights, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              497.3199462890625,
+              275.3910217285156,
+              507.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum Baggage ",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              502.630859375,
+              378.9099426269531,
+              512.630859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "number of seats, maximum baggage, fuel capacity, oil ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              509.8199462890625,
+              275.5999450683594,
+              519.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum baggage for this model is 130 pounds at 208 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              515.7699584960938,
+              524.599853515625,
+              525.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "capacity, and datum location. Data pertinent to an individual ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              522.3199462890625,
+              275.6639709472656,
+              532.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inches.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              528.2699584960938,
+              313.0500183105469,
+              538.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "model is located in its respective section of the TCDS. Use ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              534.8199462890625,
+              275.4980163574219,
+              544.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 2-15",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              122.16000366210938,
+              547.2918701171875,
+              169.48606872558594,
+              557.2918701171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the TCDS excerpts in ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              547.3199462890625,
+              122.80500030517578,
+              557.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": " to verify the following for ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              169.47607421875,
+              547.3199462890625,
+              275.5111999511719,
+              557.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Fuel Capacity",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              553.130859375,
+              350.0199279785156,
+              563.130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a Cirrus Design Corporation SR 20 normal category:",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              559.8199462890625,
+              247.37001037597656,
+              569.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This important information is given in such terms as: 60.5 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              566.2699584960938,
+              524.5,
+              576.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "gal at 153.75 in. Usable: 56 gal (See Note 1). Notes can be ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              578.7699584960938,
+              524.5040283203125,
+              588.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CG Range",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              585.1808471679688,
+              84.33999633789062,
+              595.1808471679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "found in data pertinent to all models.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              591.2699584960938,
+              432.489990234375,
+              601.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "S/N 1005 through 1147:",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              36.0,
+              598.2918701171875,
+              132.9499969482422,
+              608.2918701171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Forward Limits: 138.7 inches at 2,110 lb with a straight line ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              612.8199462890625,
+              275.5050048828125,
+              622.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Oil Capacity (Wet Sump)",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              616.130859375,
+              401.1299133300781,
+              626.130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "taper to 141.0 in at 2,694 lb and 143.0 in at 2,900 lb",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              625.3199462890625,
+              243.77000427246094,
+              635.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The quantity of the full oil supply and its arm are given: 8 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              629.2699584960938,
+              524.5020141601562,
+              639.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "quarts at 76.2 in.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              641.7699584960938,
+              351.94000244140625,
+              651.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aft Limits: 144.6 in at 2,110 lb, with straight line taper to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              650.3199462890625,
+              275.50299072265625,
+              660.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "147.4 in at 2,570 lb, and to 147.9 in at 2,745 lb, and 148.2 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              662.8199462890625,
+              275.50201416015625,
+              672.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in at 2,900 lb",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              675.3199462890625,
+              88.77999877929688,
+              685.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 2-15.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              312.7699890136719,
+              424.7418518066406,
+              363.3199768066406,
+              434.7418518066406
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 27,
+        "elements": []
+      },
+      {
+        "page_number": 28,
+        "elements": []
+      },
+      {
+        "page_number": 29,
+        "elements": []
+      },
+      {
+        "page_number": 30,
+        "elements": []
+      },
+      {
+        "page_number": 31,
+        "elements": []
+      },
+      {
+        "page_number": 32,
+        "elements": []
+      }
+    ]
+  }
+}

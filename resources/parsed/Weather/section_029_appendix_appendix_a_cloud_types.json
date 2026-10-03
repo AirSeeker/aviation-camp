@@ -1,0 +1,2203 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "appendix",
+    "title": "Appendix A - Cloud Types",
+    "start_page": 473,
+    "end_page": 484,
+    "pages": [
+      {
+        "page_number": 473,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Appendix A",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              209.6622314453125,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cloud Types ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              225.3800048828125,
+              75.60729217529297,
+              376.2850036621094,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In each level, the clouds may be divided by type (genera). The definitions of the cloud types (given below) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              116.14241790771484,
+              542.5037231445312,
+              127.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "do not cover all possible aspects, but they are limited to a description of the main types and of the essential ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              128.82241821289062,
+              542.6783447265625,
+              139.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "characteristics necessary to distinguish a given type from another type having a somewhat similar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              141.48245239257812,
+              542.488037109375,
+              152.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appearance. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              154.14242553710938,
+              126.96500396728516,
+              165.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Clouds are identified based upon one’s observation point ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              172.80245971679688,
+              332.8496398925781,
+              183.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "might observe stratus clouds enveloping the top of a mountain. However, on the mountaintop, one would ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              185.40243530273438,
+              542.3060913085938,
+              196.38243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "observe and report that same cloud as fog. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              198.06246948242188,
+              260.5249938964844,
+              209.04246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The exception to this is cumulus or cumulonimbus clouds over a mountain. Even though these low-level ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              216.72244262695312,
+              542.7598266601562,
+              227.7024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clouds typically have bases under 6,500 ft (2,000 m), if one were to observe them over a mountaintop, their ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              229.38241577148438,
+              542.6026611328125,
+              240.36241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "base might be 12,000 ft (3,600 m) or higher relative to a particular location closer to sea level. However, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              242.04244995117188,
+              542.5355224609375,
+              253.02244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "due to their location over the mountain, one would still call them cumulus or cumulonimbus clouds, as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              254.64242553710938,
+              542.2732543945312,
+              265.6224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              267.3024597167969,
+              127.625,
+              278.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              292.42779541015625,
+              92.55135345458984,
+              306.4078063964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "High Clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              292.42779541015625,
+              175.47499084472656,
+              306.4078063964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cirrus (Ci), cirrocumulus (Cc), and cirrostratus (Cs) are high-level clouds. They are typically thin and white ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              315.3624572753906,
+              542.6885375976562,
+              326.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in appearance but can appear in a magnificent array of colors when the Sun is low on the horizon. They are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              327.9624328613281,
+              542.7150268554688,
+              338.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "composed almost entirely of ice crystals. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              340.6224365234375,
+              254.34500122070312,
+              351.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.50048828125,
+              100.89134216308594,
+              378.5205078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cirrus (Ci) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              365.50048828125,
+              167.97500610351562,
+              378.5205078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cirrus (Ci) (see Figure A-1) is a cloud type composed of detached cirriform elements in the form of white, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.4224548339844,
+              542.6497802734375,
+              398.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "delicate filaments of white, or mostly white, patches or narrow bands. These clouds have a fibrous (hairlike) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              400.08245849609375,
+              542.725341796875,
+              411.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appearance and/or a silky sheen. Many of the ice crystal particles of cirrus are sufficiently large to acquire ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.762451171875,
+              542.3389892578125,
+              423.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an appreciable speed of fall; therefore, the cloud elements often trail downward in well-defined wisps called ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.3624572753906,
+              542.7581787109375,
+              436.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“mares’ tails.” Cirrus clouds in themselves have little effect on aircraft and contain no significant icing or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              438.0224304199219,
+              542.4133911132812,
+              449.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.68243408203125,
+              123.96500396728516,
+              461.66241455078125
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p473_b12.jpeg",
+            "bbox": [
+              189.75,
+              478.3699951171875,
+              421.79998779296875,
+              676.3900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-1. Cirrus (Ci) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              688.235107421875,
+              167.28500366210938,
+              698.255126953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at a particular elevation",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              334.0,
+              172.80245971679688,
+              444.2279968261719,
+              183.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". From sea level, one ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              444.3399963378906,
+              172.80245971679688,
+              542.7206420898438,
+              183.78245544433594
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 474,
+        "elements": []
+      },
+      {
+        "page_number": 475,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p475_b10.png",
+            "bbox": [
+              183.75,
+              76.5,
+              428.510009765625,
+              285.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-3. Cirrostratus (Cs) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              296.81512451171875,
+              190.625,
+              306.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              321.8277893066406,
+              92.55135345458984,
+              335.80780029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Middle Clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              321.8277893066406,
+              187.9550018310547,
+              335.80780029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altocumulus (Ac), altostratus (As), and nimbostratus (Ns) are mid-level clouds. They are composed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              344.70245361328125,
+              542.6808471679688,
+              355.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "primarily of water droplets; however, they can also be composed of supercooled liquid water droplets and/or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              357.3624572753906,
+              542.6332397460938,
+              368.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ice crystals when temperatures are below freezing. Altostratus is usually found in the middle level, but it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              370.0224304199219,
+              542.3499145507812,
+              381.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "often extends higher. Nimbostratus is almost invariably found in the middle level, but it usually extends ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              382.68243408203125,
+              542.7359619140625,
+              393.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "into the other levels. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              395.3424377441406,
+              164.52499389648438,
+              406.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              420.18048095703125,
+              100.89134216308594,
+              433.20050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altocumulus (Ac) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              420.18048095703125,
+              205.53500366210938,
+              433.20050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altocumulus (Ac) (see Figure A-4) is a cloud type, white and/or gray in color, that occurs as a layer or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              442.1024475097656,
+              542.4762573242188,
+              453.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "patch with a waved aspect, the elements of which appear as laminae, rounded masses, rolls, etc. These ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              454.762451171875,
+              542.3721923828125,
+              465.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "elements usually are sharply outlined, but they may become partly fibrous or diffuse; they may or may not ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.4224548339844,
+              542.7288818359375,
+              478.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be merged. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              480.08245849609375,
+              123.6050033569336,
+              491.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Small liquid water droplets invariably compose a major part of the composition of altocumulus. This results ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              498.68243408203125,
+              542.6846923828125,
+              509.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in a sharp outline and small internal visibility. At very low temperatures, however, ice crystals may form. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.3424377441406,
+              542.3170776367188,
+              522.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots flying through altocumulus can expect some turbulence and small amounts of icing. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              524.0023803710938,
+              471.625,
+              534.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The altocumulus in Figure A-4 is a single level, the greater part of which is sufficiently transparent to reveal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              542.6624145507812,
+              542.6488647460938,
+              553.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the position of the Sun and Moon. The clouds do not progressively invade the sky, and the individual ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.3224487304688,
+              542.4227294921875,
+              566.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "elements change very little. These thin altocumulus clouds usually produce a corona. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.982421875,
+              448.4649963378906,
+              578.9624633789062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 476,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p476_b7.png",
+            "bbox": [
+              183.75,
+              76.5,
+              428.510009765625,
+              284.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-4. Altocumulus (Ac) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              296.81512451171875,
+              196.14500427246094,
+              306.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.2.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              321.5804748535156,
+              110.65634155273438,
+              334.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altocumulus Lenticularis ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.37999725341797,
+              321.5804748535156,
+              253.1750030517578,
+              334.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altocumulus Lenticularis, commonly known as “Altocumulus Standing Lenticular (ACSL)” (see Figure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              343.50244140625,
+              542.7796020507812,
+              354.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A-5), are an orographic type of cloud. They often appear to be dissolving in some places and forming in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              356.1024475097656,
+              542.3873901367188,
+              367.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "others. They also often form in patches in the shape of almonds or wave clouds. These formations are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.762451171875,
+              542.693359375,
+              379.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "caused by wave motions in the atmosphere and are frequently seen in mountainous or hilly areas. They may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.4224548339844,
+              542.52392578125,
+              392.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be triggered off by hills only a few thousand feet high and may extend downwind for more than 60 mi ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              394.08245849609375,
+              542.8049926757812,
+              405.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(100 km). The cloud elements form at the windward edge of the cloud and are carried to the downwind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              406.762451171875,
+              542.4092407226562,
+              417.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "edge where they evaporate. The cloud as a whole is usually stationary or slow moving. These clouds often ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              419.3624572753906,
+              542.5198974609375,
+              430.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have very smooth outlines and show definite shading. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              432.0224304199219,
+              311.2250061035156,
+              443.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ACSL clouds indicate the position of the wave crests, but they do not necessarily give an indication on the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.68243408203125,
+              542.547607421875,
+              461.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "intensity of turbulence or strength of updrafts and downdrafts. This is because the clouds depend on both ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              463.3424377441406,
+              542.5802001953125,
+              474.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lifting and moisture. A well-defined wave may be visible (i.e., ACSL cloud) in weak updrafts where there ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              476.00244140625,
+              542.5391235351562,
+              486.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is an adequate supply of moisture but may not be visible when the environment is very dry, even if the wave ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              488.6024475097656,
+              542.7722778320312,
+              499.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is intense. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              501.262451171875,
+              118.74500274658203,
+              512.242431640625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 477,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p477_b14.png",
+            "bbox": [
+              183.72999572753906,
+              76.49998474121094,
+              428.489990234375,
+              285.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-5. Altocumulus Standing Lenticular (ACSL) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              296.5151062011719,
+              291.7250061035156,
+              306.53509521484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              321.2804870605469,
+              100.89134216308594,
+              334.3005065917969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altostratus (As) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              321.2804870605469,
+              194.6750030517578,
+              334.3005065917969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Altostratus (As) (see Figure A-6) is a cloud type in the form of a gray or bluish (never white) sheet or layer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              343.20245361328125,
+              542.5797119140625,
+              354.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of striated, fibrous, or uniform appearance. Altostratus very often totally covers the sky and may, in fact, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.8024597167969,
+              542.4425048828125,
+              366.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cover an area of several thousand square miles. The layer has parts thin enough to reveal the position of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.4624328613281,
+              542.5255737304688,
+              379.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sun, and if gaps and rifts appear, they are irregularly shaped and spaced. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.1224365234375,
+              393.9849853515625,
+              392.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Within the rather large vertical extent of altostratus (from several hundred to thousands of feet), a very ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              399.7824401855469,
+              542.697265625,
+              410.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heterogeneous particulate composition may exist. In this most complete case, there may be distinguished: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.4624328613281,
+              538.7849731445312,
+              423.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              431.1224365234375,
+              98.26499938964844,
+              442.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An upper part, mostly or entirely ice crystals; ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              431.1224365234375,
+              310.56500244140625,
+              442.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              449.7224426269531,
+              98.26499938964844,
+              460.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A middle part, a mixture of ice crystals and/or snowflakes and supercooled water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              449.7224426269531,
+              467.6441955566406,
+              460.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "droplets; and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              462.3824462890625,
+              167.88499450683594,
+              473.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              481.0424499511719,
+              98.26499938964844,
+              492.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A lower part, mostly or entirely supercooled or ordinary water droplets. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              481.0424499511719,
+              425.9649963378906,
+              492.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note: ",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              499.70245361328125,
+              100.3503646850586,
+              510.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A number of partial combinations of these composition types may occur but never an entire cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.37999725341797,
+              499.70245361328125,
+              542.41259765625,
+              510.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "like item 3 above. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              512.3624267578125,
+              153.60499572753906,
+              523.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The particles are widely dispersed enough so as not to obscure the Sun, except by its thickest parts. They ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.96240234375,
+              542.7620239257812,
+              541.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "impose a ground-glass effect upon the Sun’s image, and prevent sharply outlined shadows from being cast ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              543.6224365234375,
+              542.6089477539062,
+              554.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by terrestrial objects. Halo phenomena do not occur. Pilots can expect little or no turbulence, but light to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              556.2824096679688,
+              542.3388671875,
+              567.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moderate icing in the supercooled water regions. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.9424438476562,
+              288.9049987792969,
+              579.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thin altostratus usually evolves from the gradual thickening of a veil of cirrostratus. This means that unlike ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              587.6024169921875,
+              542.5366821289062,
+              598.5824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "most clouds, which increase in height as they grow, altostratus (and nimbostratus) grow as the base of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              600.202392578125,
+              542.3060913085938,
+              611.1824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              612.8624267578125,
+              99.18645477294922,
+              623.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lowers",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              99.23999786376953,
+              612.8624267578125,
+              128.545654296875,
+              623.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              128.5399932861328,
+              612.8624267578125,
+              134.0449981689453,
+              623.8424682617188
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 478,
+        "elements": []
+      },
+      {
+        "page_number": 479,
+        "elements": []
+      },
+      {
+        "page_number": 480,
+        "elements": []
+      },
+      {
+        "page_number": 481,
+        "elements": [
+          {
+            "type": "text",
+            "text": "system. These elements are generally flat-topped, smooth, and large; observed at an angle of more than 30 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.8049926757812,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "degrees above the horizon, the individual stratocumulus element subtends an angle of greater than five ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.7647705078125,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "degrees. When a layer is continuous, the elemental structure is revealed in true relief on its undersurface. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              535.6649780273438,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratocumulus is composed of small water droplets, sometimes accompanied by larger droplets, soft hail, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.4266967773438,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and (rarely) snowflakes. Under ordinary conditions, ice crystals are too sparse even to give the cloud a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.4268798828125,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fibrous aspect; however, in extremely cold weather, ice crystals may be numerous enough to produce ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.7574462890625,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "abundant virga and sometimes even halo phenomena. The highest liquid water contents are in the tops of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.7105102539062,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "these clouds where the icing threat is the greatest, if cold enough. Virga may form under the cloud, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.514404296875,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "particularly at very low temperatures. Precipitation rarely occurs with stratocumulus. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.66244506835938,
+              448.3450012207031,
+              191.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots can expect some turbulence and possible icing at subfreezing temperatures. Ceiling and visibility are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.26242065429688,
+              542.6024780273438,
+              210.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "usually better than with low stratus. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              211.92245483398438,
+              231.84500122070312,
+              222.90245056152344
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p481_b11.png",
+            "bbox": [
+              183.75,
+              239.63999938964844,
+              428.53997802734375,
+              448.19000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-10. Stratocumulus (Sc) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.9751281738281,
+              205.56500244140625,
+              469.9951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The stratocumulus in Figure A-10 occurs in patches or layers, composed of rounded masses or rolls, at one ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              484.5224304199219,
+              542.613037109375,
+              495.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or more levels. The clouds are gray or whitish and always have dark parts. Sometimes the elements lie in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              497.1224365234375,
+              542.7694702148438,
+              508.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "parallel bands. Due to perspective, these may appear to converge towards the horizon. It may also occur in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              509.7824401855469,
+              542.6273193359375,
+              520.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the shape of lenses or almonds, although this is fairly rare. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              522.4424438476562,
+              331.4049987792969,
+              533.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A.3.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              547.3204956054688,
+              100.89134216308594,
+              560.3404541015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratus (St) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              547.3204956054688,
+              170.135009765625,
+              560.3404541015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratus (St) (see Figure A-11 and Figure A-12) is a cloud type in the form of a gray layer with a fairly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              569.242431640625,
+              542.4697875976562,
+              580.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "uniform base. Stratus does not usually produce precipitation, but when it does occur, it is in the form of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              581.9024047851562,
+              542.3169555664062,
+              592.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "minute particles, such as drizzle, ice crystals, or snow grains. Stratus often occurs in the form of ragged ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              594.5023803710938,
+              542.6862182617188,
+              605.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "patches or cloud fragments, in which case rapid transformation is a common characteristic. When the Sun ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              607.1624145507812,
+              542.7850341796875,
+              618.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is seen through the cloud, its outline is clearly discernible. In the immediate area of the solar disk, stratus ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              619.8224487304688,
+              542.2952880859375,
+              630.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may appear very white. Away from the Sun, and at times when the cloud is sufficiently thick to obscure it, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              632.482421875,
+              542.6414184570312,
+              643.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stratus gives off a weak, uniform luminance. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              645.1423950195312,
+              270.9049987792969,
+              656.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The particulate composition of stratus is quite uniform, usually of fairly widely dispersed water droplets ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              663.742431640625,
+              542.459716796875,
+              674.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and, at lower temperatures, of ice crystals (although this is much less common). Halo phenomena may occur ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              676.4024047851562,
+              542.5586547851562,
+              687.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with this latter composition. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              689.0823974609375,
+              198.18499755859375,
+              700.0624389648438
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 482,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Stratus produces little or no turbulence, but temperatures near or below freezing can create hazardous icing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.6026000976562,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conditions. When stratus is associated with fog or precipitation, the combination can become troublesome ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.437744140625,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for visual flying. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              148.38499450683594,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratus most commonly occurs as a gray, fairly uniform, and featureless single layer of low cloud. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.437744140625,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Occasionally, it can be dark or threatening, although at most it can only produce weak precipitation. This ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.4310302734375,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "feature makes it fairly easy to distinguish it from nimbostratus (Ns), which nearly always produces rain, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.6694946289062,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "snow, or ice pellets. Fog will often lift into a layer of stratus by an increase in wind or a rise in temperature. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.62451171875,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratus is sometimes comparatively thin, and the disk of the Sun or Moon may be seen with a clear outline. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.8049926757812,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p482_b9.png",
+            "bbox": [
+              188.25,
+              195.6899871826172,
+              423.1499938964844,
+              395.9599914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-11. Stratus (St) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              408.55511474609375,
+              173.94500732421875,
+              418.5751037597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratus fractus (StFra) and/or cumulus fractus (CuFra) (see Figure A-12) are ragged shreds of low clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              433.0424499511719,
+              542.8049926757812,
+              444.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that always appear in association with other clouds for a short time before, during, and a short time after ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              445.70245361328125,
+              542.39697265625,
+              456.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation. They often form beneath lowering altostratus (As) or nimbostratus (Ns). They also occur ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              458.3624572753906,
+              542.7206420898438,
+              469.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "beneath cumulonimbus (Cb) and precipitating cumulus (Cu) and are collectively known as “scud clouds.” ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              471.0224304199219,
+              540.2249755859375,
+              482.0024108886719
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p482_b10.png",
+            "bbox": [
+              190.5,
+              498.6960144042969,
+              422.03997802734375,
+              695.8460083007812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-12. Stratus Fractus (StFra) and/or Cumulus Fractus (CuFra) of Bad Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              707.0751342773438,
+              417.80499267578125,
+              717.0951538085938
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 483,
+        "elements": []
+      },
+      {
+        "page_number": 484,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p484_b4.png",
+            "bbox": [
+              183.75,
+              76.50001525878906,
+              428.52001953125,
+              285.20001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure A-14. Cumulonimbus (Cb) with Anvil ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              296.81512451171875,
+              256.7449951171875,
+              306.8351135253906
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

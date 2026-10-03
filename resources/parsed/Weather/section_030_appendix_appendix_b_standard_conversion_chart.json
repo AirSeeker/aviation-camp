@@ -1,0 +1,73 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "appendix",
+    "title": "Appendix B - Standard Conversion Chart",
+    "start_page": 485,
+    "end_page": 485,
+    "pages": [
+      {
+        "page_number": 485,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Appendix B",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              208.1211395263672,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Standard Conversion Chart ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              225.3800048828125,
+              75.60729217529297,
+              537.2650146484375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p485_b5.jpeg",
+            "bbox": [
+              90.0,
+              123.25,
+              522.0,
+              551.2000122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure B-1. Standard Conversion Chart ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              562.5751342773438,
+              232.02500915527344,
+              572.5951538085938
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

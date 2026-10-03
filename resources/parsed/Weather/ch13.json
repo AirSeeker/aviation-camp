@@ -1,0 +1,1965 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 13",
+    "start_page": 154,
+    "end_page": 164,
+    "pages": [
+      {
+        "page_number": 154,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p154_b2.png",
+            "bbox": [
+              61.13999938964844,
+              65.33998107910156,
+              553.6799926757812,
+              219.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric Stability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              366.0849914550781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convective clouds and precipitation pose a distinctly different flying environment than stratiform clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.4049072265625,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and precipitation. These sharply contrasting conditions result from the atmosphere either resisting or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.3939208984375,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accelerating the vertical motion of air parcels. Atmospheric stability is the property of the ambient air that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.49853515625,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "either enhances or suppresses vertical motion of air parcels and determines which type of clouds and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.4049682617188,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation a pilot will encounter. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              229.625,
+              200.16246032714844
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 155,
+        "elements": [
+          {
+            "type": "text",
+            "text": "13.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Using a Parcel as a Tool to Evaluate Stability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              342.89501953125,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An air parcel can be used as a tool to evaluate atmospheric stability within a specified vertical column of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.6104125976562,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air in the atmosphere. A parcel is selected from a specified altitude (usually the surface) and hypothetically ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.5036010742188,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lifted upward to a specified test altitude. As the parcel is lifted, its temperature decreases due to the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.6608276367188,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "expansion and latent heat effects discussed in Chapter 12, Vertical Motion and Clouds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.36245727539062,
+              457.2250061035156,
+              149.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The parcel and the surrounding environmental air temperatures are then compared. If the lifted parcel is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.3720092773438,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "colder than the surrounding air, it will be denser (heavier) and sink back to its original level. In this case, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.6492309570312,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the parcel is stable because it resists upward displacement. If the lifted parcel is the same temperature as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              542.448974609375,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the surrounding air, it will be the same density and remain at the same level. In this case, the parcel is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.4694213867188,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "neutrally stable. If the lifted parcel is warmer and, therefore, less dense (lighter) than the surrounding air, it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.680419921875,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "will continue to rise on its own until it reaches the same temperature as its environment. This final case is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              542.6865234375,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "an example of an unstable parcel. Greater temperature differences result in greater rates of vertical motion. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.86245727539062,
+              542.8049926757812,
+              243.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              257.7404479980469,
+              94.75901794433594,
+              270.7604675292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stability Types ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              257.7404479980469,
+              185.85501098632812,
+              270.7604675292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The stability of a column of air in the atmosphere is classified by the distribution of parcel stabilities within ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.4624328613281,
+              542.7188720703125,
+              289.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the column. The Earth’s surface is typically selected as the base while the top determines the column’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              291.1224365234375,
+              542.8049926757812,
+              302.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "depth. Four unique types of atmospheric stability can be identified and are discussed in the following ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              303.7824401855469,
+              542.6620483398438,
+              314.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sections. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              316.44244384765625,
+              112.92500305175781,
+              327.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              341.3204650878906,
+              104.52401733398438,
+              354.3404846191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Absolute Stability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              341.3204650878906,
+              210.03500366210938,
+              354.3404846191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Absolute stability (see Figure 13-1) is the state of a column of air in the atmosphere when its lapse rate of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              361.9824523925781,
+              542.6498413085938,
+              372.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature is less than the moist adiabatic lapse rate. This includes both isothermal and inversion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              374.6424560546875,
+              542.49267578125,
+              385.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature profiles. An air parcel lifted upward would be colder (denser) than the surrounding ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.3024597167969,
+              542.6644897460938,
+              398.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "environmental air and would tend to sink back to its level of origin. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              399.9624328613281,
+              371.42498779296875,
+              410.9424133300781
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 156,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p156_b6.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.989990234375,
+              399.79998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 13-1. Absolute Stability Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.3351135253906,
+              237.0050048828125,
+              422.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.1004638671875,
+              104.52401733398438,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Neutral Stability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              437.1004638671875,
+              202.0550079345703,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Neutral stability (see Figure 13-2) is the state of a column of air in the atmosphere in which an ascending ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.82244873046875,
+              542.7539672851562,
+              468.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(or descending) air parcel always has the same temperature (density) as the surrounding environmental air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              470.4824523925781,
+              542.5147094726562,
+              481.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If the column of air is unsaturated, then neutral stability exists when its lapse rate of temperature equals the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              483.08245849609375,
+              542.5886840820312,
+              494.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dry adiabatic lapse rate. If the column of air is saturated, then neutral stability exists when its lapse rate of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.742431640625,
+              542.8049926757812,
+              506.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature equals the moist adiabatic lapse rate. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              508.4024353027344,
+              291.364990234375,
+              519.3824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 157,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p157_b6.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.989990234375,
+              399.79998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 13-2. Neutral Stability Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.3351135253906,
+              230.885009765625,
+              422.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.3.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.1004638671875,
+              104.52401733398438,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Absolute Instability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              437.1004638671875,
+              218.6750030517578,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Absolute instability (see Figure 13-3) is the state of a column of air in the atmosphere when it has a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.82244873046875,
+              542.54150390625,
+              468.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "superadiabatic lapse rate of temperature (i.e., greater than the dry adiabatic lapse rate). An air parcel ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              470.4824523925781,
+              542.4158935546875,
+              481.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "displaced vertically would be accelerated in the direction of the displacement. The kinetic energy of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              483.08245849609375,
+              542.5437622070312,
+              494.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "parcel would consequently increase with increasing distance from its level of origin. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.742431640625,
+              445.5849914550781,
+              506.722412109375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 158,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p158_b6.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.989990234375,
+              399.79998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 13-3. Absolute Instability Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.3351135253906,
+              243.66500854492188,
+              422.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.1004638671875,
+              104.52401733398438,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Conditional Instability ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              437.1004638671875,
+              233.135009765625,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Conditional instability (see Figure 13-4) is the state of a column of unsaturated air in the atmosphere when ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.82244873046875,
+              542.6703491210938,
+              468.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "its lapse rate of temperature is less than the dry adiabatic lapse rate but greater than the moist adiabatic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              470.4824523925781,
+              542.6078491210938,
+              481.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lapse rate. An air parcel lifted upward would be initially stable, but at some point, above its LCL, it would ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              483.08245849609375,
+              542.7855834960938,
+              494.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "become unstable. The term “conditional” means the parcel must be lifted to a particular level (altitude) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.742431640625,
+              542.703369140625,
+              506.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "before it becomes unstable and rises because of its own buoyancy. The Level of Free Convection (LFC) is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              508.4024353027344,
+              542.7211303710938,
+              519.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the level at which a parcel of air lifted dry adiabatically until saturated and moist adiabatically thereafter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              521.0624389648438,
+              542.4378662109375,
+              532.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "would first become warmer than the surrounding environmental air (i.e., unstable) in a conditionally ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.722412109375,
+              542.542236328125,
+              544.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unstable column of air in the atmosphere. The LFC is a defining feature of a conditionally unstable column ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.3224487304688,
+              542.6090698242188,
+              557.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.982421875,
+              101.0250015258789,
+              569.9624633789062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 159,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p159_b7.png",
+            "bbox": [
+              118.5,
+              76.5,
+              492.8299865722656,
+              356.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 13-4. Conditional Instability Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.81512451171875,
+              254.76499938964844,
+              378.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.3.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              393.5804748535156,
+              104.52401733398438,
+              406.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Summary of Stability Types ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              393.5804748535156,
+              262.7149963378906,
+              406.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 13-5 summarizes the possible atmospheric stability types. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              420.32244873046875,
+              360.1449890136719,
+              431.30242919921875
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p159_b8.png",
+            "bbox": [
+              167.97999572753906,
+              437.50299072265625,
+              444.02996826171875,
+              692.4329833984375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 160,
+        "elements": []
+      },
+      {
+        "page_number": 161,
+        "elements": []
+      },
+      {
+        "page_number": 162,
+        "elements": []
+      },
+      {
+        "page_number": 163,
+        "elements": [
+          {
+            "type": "text",
+            "text": "13.5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lifted Index (LI) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              204.57501220703125,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The LI (see Figure 13-9) is the temperature difference between an air parcel (usually at the surface) lifted ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.7216796875,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "adiabatically (see Chapter 12) and the temperature of the environment at a given pressure (usually 500 mb) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.8050537109375,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the atmosphere. A positive value indicates a stable column of air (at the respective pressure), a negative ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.579345703125,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "value indicates an unstable column of air, and a value of zero indicates a neutrally stable column of air. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.6025390625,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "larger the positive (negative) LI value, the more stable (unstable) the column of air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              441.625,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LI is generally used in thunderstorm forecasting; however, CAPE is generally considered a superior ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              542.44873046875,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "measurement of instability. However, LI is easier to determine without using a computer. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              467.8450012207031,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p163_b10.png",
+            "bbox": [
+              90.0,
+              197.99002075195312,
+              521.9400024414062,
+              522.6400146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 13-9. Lifted Index Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.8351440429688,
+              214.2050018310547,
+              543.8551635742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.5.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.6005249023438,
+              104.52401733398438,
+              571.6204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convective Available Potential Energy (CAPE) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.33999633789062,
+              558.6005249023438,
+              364.07501220703125,
+              571.6204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CAPE is the maximum amount of energy available to an ascending air parcel for convection. CAPE is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              579.3224487304688,
+              542.4268798828125,
+              590.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "represented on a sounding by the area enclosed between the environmental temperature profile and the path ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              591.9224243164062,
+              542.5257568359375,
+              602.9024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of a rising air parcel over the layer, wherein the latter is warmer than the former. Units are joules per ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              604.5823974609375,
+              542.4707641601562,
+              615.5624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "kilogram (J/kg) of air. Any value greater than 0 J/kg indicates instability and the possibility of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              617.242431640625,
+              542.8049926757812,
+              628.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              629.9024047851562,
+              140.46499633789062,
+              640.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CAPE is directly related to the maximum potential vertical speed within an updraft; thus, higher values ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              648.5624389648438,
+              542.4268188476562,
+              659.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "indicate the potential for stronger updrafts. Observed values in thunderstorm environments often ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              661.222412109375,
+              542.7088623046875,
+              672.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "exceed 1,000 J/kg and in extreme cases may exceed 5,000 J/kg. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              673.8823852539062,
+              354.2649841308594,
+              684.8624267578125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 164,
+        "elements": [
+          {
+            "type": "text",
+            "text": "13.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              94.75901794433594,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convection ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.69999694824219,
+              73.6404800415039,
+              166.89500427246094,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convection is generally described as the transport of heat and moisture by the movement of a fluid. In ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.81640625,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "meteorology, the term is used specifically to describe vertical transport of heat and moisture in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.26220703125,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmosphere, especially by updrafts and downdrafts in an unstable atmosphere. The terms “convection” and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.7730102539062,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“thunderstorms” often are used interchangeably, although thunderstorms are only one form of convection. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.461181640625,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cumulonimbus clouds, towering cumulus clouds, and altocumulus clouds all are visible forms of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              542.4487915039062,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convection. However, convection is not always made visible by clouds. Convection occurring without cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              157.62246704101562,
+              542.5633544921875,
+              168.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "formation is called dry convection, while the visible convection processes referred to above are forms of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              170.28244018554688,
+              542.4048461914062,
+              181.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moist convection. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.94247436523438,
+              152.9449920654297,
+              193.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.6.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.8204803466797,
+              104.52401733398438,
+              220.84046936035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Surface-Based Convection ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.33999633789062,
+              207.8204803466797,
+              254.5550079345703,
+              220.84046936035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Surface-based convection occurs within a surface-based layer (i.e., a layer in which the lowest portion is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              228.54244995117188,
+              542.6236572265625,
+              239.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "based at or very near the Earth’s surface) and is primarily generated by the daily heating of the surface of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              241.14242553710938,
+              542.5372924804688,
+              252.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Earth by the energy from the Sun. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              253.80245971679688,
+              240.30499267578125,
+              264.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.6.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.68048095703125,
+              104.52401733398438,
+              291.70050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Elevated Convection ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.33999633789062,
+              278.68048095703125,
+              224.2550048828125,
+              291.70050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Elevated convection occurs within an elevated layer (i.e., a layer in which the lowest portion is based above ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              299.4024353027344,
+              542.6558227539062,
+              310.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Earth’s surface). Elevated convection often occurs when air near the ground is relatively cool and stable ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              312.06243896484375,
+              542.616943359375,
+              323.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e.g., during periods of isentropic lift, when an unstable layer of air is present aloft, etc.). In cases of elevated ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              324.7224426269531,
+              542.7518920898438,
+              335.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convection, stability indices based on near-surface measurements (such as the LI) will typically ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              337.3824462890625,
+              542.7718505859375,
+              348.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "underestimate the amount of instability present. Severe weather is possible from elevated convection but is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              349.9824523925781,
+              542.7251586914062,
+              360.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "less likely than with surface-based convection. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              362.6424560546875,
+              280.0249938964844,
+              373.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.6.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.5204772949219,
+              104.52401733398438,
+              400.5404968261719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Level of Free Convection (LFC) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.33999633789062,
+              387.5204772949219,
+              284.614990234375,
+              400.5404968261719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The LFC is the level at which a parcel of saturated air becomes warmer than the surrounding air and begins ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              408.262451171875,
+              542.6370849609375,
+              419.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to rise freely. This occurs most readily in a conditionally unstable atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              420.9224548339844,
+              419.6650085449219,
+              431.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.6.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              445.80047607421875,
+              104.52401733398438,
+              458.82049560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Popcorn Convection ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.33999633789062,
+              445.80047607421875,
+              222.09500122070312,
+              458.82049560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Popcorn convection is a term often used for showers and thunderstorms that form on a scattered basis with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.5224304199219,
+              542.612060546875,
+              477.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "little or no apparent organization, usually during the afternoon in response to diurnal heating. Individual ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              479.18243408203125,
+              542.3280639648438,
+              490.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms are sometimes referred to as air mass thunderstorms. They are small, short-lived, very rarely ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              491.8424377441406,
+              542.7386474609375,
+              502.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "severe, and they almost always dissipate near or just after sunset. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              504.5024108886719,
+              360.68499755859375,
+              515.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              529.3204956054688,
+              94.75901794433594,
+              542.3404541015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Summary ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              529.3204956054688,
+              157.35501098632812,
+              542.3404541015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric stability influences weather by affecting the vertical motion of air. Stable air suppresses ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              550.0424194335938,
+              542.6907348632812,
+              561.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vertical motion while unstable air enhances it. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              562.702392578125,
+              277.3249816894531,
+              573.6824340820312
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

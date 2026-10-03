@@ -1,0 +1,1733 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 19",
+    "start_page": 233,
+    "end_page": 242,
+    "pages": [
+      {
+        "page_number": 233,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p233_b2.png",
+            "bbox": [
+              61.13999938964844,
+              63.540008544921875,
+              553.6799926757812,
+              398.2799987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              247.02500915527344,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft turbulence is irregular motion of an aircraft in flight, especially when characterized by rapid ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.6954956054688,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "up-and-down motion caused by a rapid variation of atmospheric wind velocities. Turbulence varies from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.590087890625,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "annoying bumpiness to severe jolts that may cause structural damage to an aircraft and/or injury to its ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.667236328125,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "passengers. It is important to note that the effect of turbulence varies based on the size of the aircraft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.4390869140625,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Turbulence intensities and their associated aircraft reactions are described below: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              432.44500732421875,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              208.42242431640625,
+              95.05079650878906,
+              219.40243530273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Light − Causes slight, erratic changes in altitude and/or attitude (pitch, roll, or yaw). Report as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              208.62246704101562,
+              542.767822265625,
+              219.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Light Turbulence. Or it causes slight, rapid, and somewhat rhythmic bumpiness without appreciable ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              221.28244018554688,
+              542.662353515625,
+              232.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "changes in altitude or attitude. Report as Light Chop. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              233.94247436523438,
+              344.18499755859375,
+              244.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              253.12237548828125,
+              95.05079650878906,
+              264.1023864746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moderate − Similar to Light but of greater intensity. Changes in altitude and/or attitude occur, but ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              253.32241821289062,
+              542.771484375,
+              264.3023986816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft remains in positive control at all times. It usually causes variations in indicated airspeed. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              265.9824523925781,
+              542.8049926757812,
+              276.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Report as Moderate Turbulence. Or turbulence that is similar to Light Chop but of greater intensity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              278.6424560546875,
+              542.5311279296875,
+              289.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It causes rapid bumps or jolts without appreciable changes in aircraft altitude or attitude. Report as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              291.3024597167969,
+              542.5642700195312,
+              302.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moderate Chop. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              303.9624328613281,
+              182.22499084472656,
+              314.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              323.202392578125,
+              95.05079650878906,
+              334.1824035644531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severe − Causes large, abrupt changes in altitude and/or attitude. It usually causes large variations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              323.4024353027344,
+              542.6676635742188,
+              334.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in indicated airspeed. Aircraft may be momentarily out of control. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              336.06243896484375,
+              401.2449951171875,
+              347.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              355.2424011230469,
+              95.05079650878906,
+              366.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Extreme − The aircraft is violently tossed about and is practically impossible to control. It may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              355.44244384765625,
+              542.4089965820312,
+              366.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cause structural damage.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              368.1024475097656,
+              216.3377685546875,
+              379.0824279785156
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 234,
+        "elements": []
+      },
+      {
+        "page_number": 235,
+        "elements": []
+      },
+      {
+        "page_number": 236,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p236_b9.png",
+            "bbox": [
+              126.0,
+              76.50001525878906,
+              485.94000244140625,
+              320.70001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 19-3. Thunderstorm with Shelf Cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.81512451171875,
+              253.9250030517578,
+              342.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              357.5804748535156,
+              104.52401733398438,
+              370.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mechanical Turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              357.5804748535156,
+              238.8350067138672,
+              370.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mechanical turbulence is turbulence caused by obstructions to the wind flow, such as trees, buildings, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              378.3024597167969,
+              542.6803588867188,
+              389.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mountains, and so on. Obstructions to the wind flow disrupt smooth wind flow into a complex snarl of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.9624328613281,
+              542.3499145507812,
+              401.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "eddies (see Figure 19-4). An aircraft flying through these eddies experiences mechanical turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              403.6424560546875,
+              516.4450073242188,
+              414.6224365234375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p236_b10.png",
+            "bbox": [
+              126.0,
+              431.29998779296875,
+              485.9800109863281,
+              659.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 19-4. Mechanical Turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              671.1151123046875,
+              221.16500854492188,
+              681.1351318359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The intensity of mechanical turbulence depends on wind speed, surface roughness, size of the obstructions, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              695.6824340820312,
+              542.8049926757812,
+              706.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and stability of the air. The higher the speed and/or the rougher the surface, the greater the turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              708.3424072265625,
+              523.7650146484375,
+              719.3224487304688
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 237,
+        "elements": []
+      },
+      {
+        "page_number": 238,
+        "elements": []
+      },
+      {
+        "page_number": 239,
+        "elements": [
+          {
+            "type": "text",
+            "text": "is along the centerline of a trough area, where there is a strong horizontal wind shear between the jet core ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3060302734375,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and winds to the poleward side of the jet core. CAT is also found in the west side of a trough in the vicinity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.53662109375,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of a wind maxima as the maxima passes along the trough. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              329.18499755859375,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "One noteworthy generator of CAT is the confluence of two jet streams. On occasion, the polar front jet ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.3939208984375,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stream will dip south and pass under the subtropical jet stream. The wind shear effect between the two jet ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.4269409179688,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "streams in the region of confluence and immediately downstream is often highly turbulent. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              474.0249938964844,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CAT intensity can vary significantly along any flightpath. Common dimensions of a turbulent area ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              161.34243774414062,
+              542.3390502929688,
+              172.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "associated with a jet stream are on the order of 100–300 mi long, elongated in the direction of the wind, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              174.00247192382812,
+              542.5400390625,
+              184.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "50–100 mi wide, and 5,000 ft deep. These areas may persist from 30 minutes to one day. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              186.66244506835938,
+              465.1449890136719,
+              197.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The threshold wind speed in the jet stream for CAT is generally considered to be 110 kt. The probability of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              205.26242065429688,
+              542.7822875976562,
+              216.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "encountering CAT increases proportionally with the rapidity of the decrease in wind speed away from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              217.92245483398438,
+              542.3280639648438,
+              228.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "jet core. This is known as wind shear. It is not the wind speed itself that causes CAT; it is the wind shear ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              230.58242797851562,
+              542.8049926757812,
+              241.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that is turbulent to an aircraft, as the atmosphere bounces in waves or actually overturns. Moderate CAT is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              243.24246215820312,
+              542.5752563476562,
+              254.2224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "considered likely when the vertical wind shear is 5 kt per 1,000 ft or greater, and/or the horizontal wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              255.84243774414062,
+              542.7051391601562,
+              266.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shear is 40 kt per 150 mi or greater. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              268.5024719238281,
+              231.42498779296875,
+              279.4824523925781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Jet streams stronger than 110 kt (at the core) have potential for generating significant turbulence near the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              287.1624450683594,
+              542.4977416992188,
+              298.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sloping tropopause above the core, in the jet stream front below the core, and on the low-pressure side of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              299.82244873046875,
+              542.7388916015625,
+              310.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the core. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              312.4824523925781,
+              112.625,
+              323.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind shear and its accompanying CAT in jet streams are more intense above, and to the lee of, mountain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              331.08245849609375,
+              542.4269409179688,
+              342.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wave ranges. CAT should be anticipated whenever the flightpath traverses a strong jet stream in the vicinity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              343.742431640625,
+              542.7859497070312,
+              354.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of mountainous terrain. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              356.4024353027344,
+              177.72499084472656,
+              367.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Both vertical and horizontal wind shear are, of course, greatly intensified in mountain wave conditions. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              375.06243896484375,
+              542.339111328125,
+              386.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Therefore, when the flightpath traverses a mountain-wave-type of flow, it is desirable to fly at turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.7224426269531,
+              542.6005249023438,
+              398.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "penetration speed and avoid flight over areas where the terrain drops abruptly, even though there may be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              400.3824462890625,
+              542.3718872070312,
+              411.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "no lenticular clouds to identify the condition. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              413.06243896484375,
+              273.0050048828125,
+              424.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CAT is also related to vertical shear. If vertical shear is greater than 5 kt per 1,000 ft, turbulence is likely. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              431.6624450683594,
+              538.4249877929688,
+              442.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Curving jet streams are more apt to have turbulent edges than straight ones, especially jet streams that curve ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.32244873046875,
+              542.5147094726562,
+              461.30242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "around a deep pressure trough. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              462.9824523925781,
+              210.125,
+              473.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind shift areas associated with pressure troughs and ridges are frequently turbulent. The magnitude of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              481.6424560546875,
+              542.49267578125,
+              492.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind shear is the important factor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.3024597167969,
+              225.6649932861328,
+              505.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.2.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              519.1204833984375,
+              104.52401733398438,
+              532.1404418945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind Shear ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              519.1204833984375,
+              177.51499938964844,
+              532.1404418945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind shear is the sudden, drastic change in wind speed and/or direction over a small area, from one level ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              539.8424072265625,
+              542.7171020507812,
+              550.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or point to another, usually in the vertical (see Figure 19-7). Wind shear occurs in all directions, but for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              552.5023803710938,
+              542.628173828125,
+              563.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convenience, it is measured along vertical and horizontal axes, thus becoming horizontal and vertical wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              565.1624145507812,
+              542.657470703125,
+              576.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shear. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              577.8224487304688,
+              100.72500610351562,
+              588.802490234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 240,
+        "elements": []
+      },
+      {
+        "page_number": 241,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p241_b13.png",
+            "bbox": [
+              162.0,
+              76.5,
+              450.0,
+              351.1000061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 19-8. LLWS Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              362.81512451171875,
+              191.7050018310547,
+              372.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.2.4.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.50146484375,
+              111.0,
+              399.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convective Wind Shear ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              387.50146484375,
+              239.17999267578125,
+              399.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 22.7.3 for information on convective wind shear. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              407.18243408203125,
+              344.4849853515625,
+              418.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.2.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              432.06048583984375,
+              104.52401733398438,
+              445.08050537109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Effects of Orographic Winds and Turbulence on Aviation Operations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              432.06048583984375,
+              499.614990234375,
+              445.08050537109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.2.5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              458.92144775390625,
+              111.0,
+              470.92144775390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "High-Altitude Operations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              458.92144775390625,
+              247.4600067138672,
+              470.92144775390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Turbine-powered aircraft operating at cruise altitudes above FL180 in the vicinity of mountainous terrain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              478.58245849609375,
+              542.4488525390625,
+              489.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may encounter moderate or greater turbulence associated with orographic winds. This type of turbulence ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              491.18243408203125,
+              542.3829956054688,
+              502.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may be characterized by relatively rapid onset and can lead to structural damage or airframe failure. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              503.8424377441406,
+              513.9849853515625,
+              514.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Structural damage is not the only danger associated with high-altitude turbulence encounters. It is possible ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              522.5023803710938,
+              542.6924438476562,
+              533.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to operate some turbine-powered aircraft at such weights and altitudes so that their cruise airspeed is only ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              535.1624145507812,
+              542.5142211914062,
+              546.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a few knots below the onset of Mach buffet and a like speed above stall buffet. In this situation (the so-called ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              547.8224487304688,
+              542.7750244140625,
+              558.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“coffin corner”), turbulent airspeed excursions of moderate or greater intensity (15 kt or more) can quickly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              560.4224243164062,
+              542.529296875,
+              571.4024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lead to high-speed upset, Mach tuck, and loss of control. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              573.0823974609375,
+              323.4849853515625,
+              584.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.2.5.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              597.8814697265625,
+              111.0,
+              609.8814697265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Takeoff and Landing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              597.8814697265625,
+              225.8000030517578,
+              609.8814697265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Takeoff and landing concerns include experiencing turbulent air with inadequate stall margins, loss of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              617.5424194335938,
+              542.35009765625,
+              628.5224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "directional control on or near the runway, rolling moments that surpass aircraft roll authority, and downdraft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              630.202392578125,
+              542.4815673828125,
+              641.1824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "velocities that exceed the climb capability of the aircraft, particularly for airplanes with high wing and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              642.8624267578125,
+              542.5263671875,
+              653.8424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "power-loading. Localized gusts in excess of 50 kt, with downdrafts greater than 1,500 fpm, are also ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              655.5223999023438,
+              542.7635498046875,
+              666.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "possible. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              668.1824340820312,
+              113.58499908447266,
+              679.1624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Vortices spawned by the interaction of strong winds and high terrain can lead to severe turbulence and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              686.8024291992188,
+              525.2322387695312,
+              697.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft rolling moments that may exceed the pilot’s ability to maintain aircraft control.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              699.46240234375,
+              454.7106018066406,
+              710.4424438476562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 242,
+        "elements": [
+          {
+            "type": "text",
+            "text": "19.2.5.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.56143188476562,
+              111.0,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low-Level Mountain Flying ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              73.56143188476562,
+              261.79998779296875,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aircraft that engage in low-level flight operations over mountainous terrain in the presence of strong winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              93.2224349975586,
+              542.6150512695312,
+              104.20243835449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(20 kt or greater at ridge level) can expect to encounter moderate or greater turbulence, strong updrafts and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              105.88240814208984,
+              542.6025390625,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "downdrafts, and very strong rotor and shear zones. This is particularly true for General Aviation (GA) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              118.4824447631836,
+              542.8049926757812,
+              129.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.16244506835938,
+              109.26499938964844,
+              142.14244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain flying literature often cite 20 kt as the criterion for classifying a wind as “strong.” This criterion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              149.82241821289062,
+              542.744384765625,
+              160.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "refers to the large-scale (or prevailing wind in the area as opposed to a local wind gust) wind speed at the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              162.48245239257812,
+              542.4426879882812,
+              173.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "crest of the ridge or level of the mountain peaks, upwind of the aircraft’s position. Such an ambient wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              175.14242553710938,
+              542.6594848632812,
+              186.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flow perpendicular to a ridge will lead to substantially stronger surface winds, with the likelihood of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              187.80245971679688,
+              542.4158325195312,
+              198.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turbulence. Similar wind enhancements can be anticipated near the slopes of an isolated peak. In contrast, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              200.40243530273438,
+              542.6951293945312,
+              211.38243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "downdrafts over forested areas may be strong enough to force aircraft down into the trees, even when the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              213.06246948242188,
+              542.2950439453125,
+              224.04246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft is flown at the best rate-of-climb speed. This effect on the aircraft can be exacerbated by loss of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.72244262695312,
+              542.5376586914062,
+              236.7024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft performance because of the high-density altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.38241577148438,
+              326.7850036621094,
+              249.36241149902344
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

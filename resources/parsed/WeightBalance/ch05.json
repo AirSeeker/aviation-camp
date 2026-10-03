@@ -1,0 +1,1229 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 5",
+    "start_page": 49,
+    "end_page": 54,
+    "pages": [
+      {
+        "page_number": 49,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 5",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.47467803955078,
+              122.94400024414062,
+              91.47467803955078
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p49_b4.png",
+            "bbox": [
+              63.70000076293945,
+              85.69861602783203,
+              564.8200073242188,
+              199.4586181640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Single-Engine Aircraft Weight ",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 48.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              93.33332824707031,
+              515.6111450195312,
+              141.3333282470703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and Balance Computations",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 48.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              135.3333282470703,
+              464.447998046875,
+              183.3333282470703
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p49_b1.png",
+            "bbox": [
+              55.05000305175781,
+              196.1818084716797,
+              325.77001953125,
+              298.42181396484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              212.24569702148438,
+              141.60000610351562,
+              224.24569702148438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight and balance data allows the pilot to determine the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              229.89540100097656,
+              311.5030212402344,
+              239.89540100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "loaded weight of the aircraft and determine whether or not ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              242.39540100097656,
+              311.510009765625,
+              252.39540100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the loaded center of gravity (CG) is within the allowable ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              254.89540100097656,
+              311.5150146484375,
+              264.8953857421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-1",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              176.19000244140625,
+              267.3672790527344,
+              219.52999877929688,
+              277.3672790527344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "range for the weight. See ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              267.3953857421875,
+              175.90301513671875,
+              277.3953857421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": " for an example of the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              219.52999877929688,
+              267.3953857421875,
+              311.50396728515625,
+              277.3953857421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "data necessary for these calculations.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.00000762939453,
+              279.8953857421875,
+              220.01004028320312,
+              289.8953857421875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 50,
+        "elements": []
+      },
+      {
+        "page_number": 51,
+        "elements": []
+      },
+      {
+        "page_number": 52,
+        "elements": []
+      },
+      {
+        "page_number": 53,
+        "elements": []
+      },
+      {
+        "page_number": 54,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Loaded aircraft moment/1,000 (kg-mm)",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.80729675292969,
+              54.4864616394043,
+              212.1802215576172,
+              61.4864616394043
+            ]
+          },
+          {
+            "type": "text",
+            "text": "750 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              84.74319458007812,
+              65.63386535644531,
+              98.36518859863281,
+              72.63386535644531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "950 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.83018493652344,
+              65.63386535644531,
+              129.45217895507812,
+              72.63386535644531
+            ]
+          },
+          {
+            "type": "text",
+            "text": " 1,150  1,350  1,550  ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              137.21517944335938,
+              65.63386535644531,
+              232.73013305664062,
+              72.63386535644531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "650 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              69.97319793701172,
+              71.56288146972656,
+              83.5951919555664,
+              78.56288146972656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "850 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.29719543457031,
+              71.56288146972656,
+              113.919189453125,
+              78.56288146972656
+            ]
+          },
+          {
+            "type": "text",
+            "text": " 1,050  1,250  1,450  1,650",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.68218994140625,
+              71.56288146972656,
+              239.5481719970703,
+              78.56288146972656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,450",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              77.51972961425781,
+              257.16021728515625,
+              84.51972961425781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,200",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              78.51387023925781,
+              70.63819885253906,
+              85.51387023925781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,100",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              98.25386047363281,
+              70.63819885253906,
+              105.25386047363281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,400",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              99.45069885253906,
+              257.16021728515625,
+              106.45069885253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,000",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              117.99385070800781,
+              70.63819885253906,
+              124.99385070800781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,350",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              121.38172912597656,
+              257.16021728515625,
+              128.38172912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,950",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              127.86384582519531,
+              70.63819885253906,
+              134.8638458251953
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Center of gravity",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              99.45089721679688,
+              129.88787841796875,
+              154.72293090820312,
+              136.88787841796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moment envelope",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              97.48389434814453,
+              136.90887451171875,
+              156.6968994140625,
+              143.90887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,900",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              137.7338409423828,
+              70.63819885253906,
+              144.7338409423828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,300",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              143.31275939941406,
+              257.16021728515625,
+              150.31275939941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,800",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              157.4738311767578,
+              70.63819885253906,
+              164.4738311767578
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,250",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              165.24378967285156,
+              257.16021728515625,
+              172.24378967285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,700",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              177.2138214111328,
+              70.63819885253906,
+              184.2138214111328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,200",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              187.17481994628906,
+              257.16021728515625,
+              194.17481994628906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loaded aircraft weight (kg)",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              261.8689270019531,
+              190.10125732421875,
+              268.8689270019531,
+              272.9744873046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loaded aircraft weight (lb)",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              41.39693832397461,
+              192.05426025390625,
+              48.39693832397461,
+              272.9744873046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,600",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              196.9538116455078,
+              70.63819885253906,
+              203.9538116455078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,150",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              209.10585021972656,
+              257.16021728515625,
+              216.10585021972656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,500",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              216.6938018798828,
+              70.63819885253906,
+              223.6938018798828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,100",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              231.03688049316406,
+              257.16021728515625,
+              238.03688049316406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,400",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              236.4337921142578,
+              70.63819885253906,
+              243.4337921142578
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,050",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              252.96791076660156,
+              257.16021728515625,
+              259.9678955078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,300",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              256.17376708984375,
+              70.63819885253906,
+              263.17376708984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,000",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              239.64620971679688,
+              274.8988952636719,
+              257.16021728515625,
+              281.8988952636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,200",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              275.91375732421875,
+              70.63819885253906,
+              282.91375732421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,100",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              295.65374755859375,
+              70.63819885253906,
+              302.65374755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "950",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              245.4842071533203,
+              296.82989501953125,
+              257.16021728515625,
+              303.82989501953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Takeoff and landing",
+            "font_name": "Arial",
+            "font_size": 6.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              170.73619079589844,
+              313.633544921875,
+              223.43417358398438,
+              319.633544921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,000",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              315.39373779296875,
+              70.63819885253906,
+              322.39373779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "900",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              245.4842071533203,
+              318.7608947753906,
+              257.16021728515625,
+              325.7608947753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Takeoff only",
+            "font_name": "Arial",
+            "font_size": 6.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              170.73019409179688,
+              320.83355712890625,
+              203.4121856689453,
+              326.83355712890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "  If takeoff weight is more than ",
+            "font_name": "Arial",
+            "font_size": 5.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.22610473632812,
+              327.59039306640625,
+              218.4010772705078,
+              332.59039306640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "  landing weight of 2,950 pounds, ",
+            "font_name": "Arial",
+            "font_size": 5.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.22610473632812,
+              333.59039306640625,
+              225.08108520507812,
+              338.59039306640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,900",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              335.13372802734375,
+              70.63819885253906,
+              342.13372802734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "  allow flight time for fuel burn-off ",
+            "font_name": "Arial",
+            "font_size": 5.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.22610473632812,
+              339.59039306640625,
+              223.95106506347656,
+              344.59039306640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "850",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              245.4842071533203,
+              340.69189453125,
+              257.16021728515625,
+              347.69189453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "  to 2,950 pounds before landing.",
+            "font_name": "Arial",
+            "font_size": 5.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.22610473632812,
+              345.59039306640625,
+              223.4310760498047,
+              350.59039306640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1,800",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              53.12419891357422,
+              354.87371826171875,
+              70.63819885253906,
+              361.87371826171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "55 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              68.30020141601562,
+              360.6979064941406,
+              78.03019714355469,
+              367.6979064941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "65 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              86.94120025634766,
+              360.6979064941406,
+              96.67119598388672,
+              367.6979064941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "75 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              104.96619415283203,
+              360.6979064941406,
+              114.6961898803711,
+              367.6979064941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "85 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              122.5431900024414,
+              360.6979064941406,
+              132.273193359375,
+              367.6979064941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "95 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              139.66519165039062,
+              360.6979064941406,
+              149.3951873779297,
+              367.6979064941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "105 115 125 135 145 ",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              156.1921844482422,
+              360.6979064941406,
+              239.212158203125,
+              367.6979064941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loaded aircraft moment/1,000 (lb-in)",
+            "font_name": "Arial",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              96.44019317626953,
+              371.6948547363281,
+              209.66513061523438,
+              378.6948547363281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CG moment envelope.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              79.59300231933594,
+              396.6033630371094,
+              159.32400512695312,
+              405.6033630371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-8. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.917198181152344,
+              397.6837158203125,
+              79.59719848632812,
+              405.6837158203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 5-8",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              86.81999969482422,
+              417.5275573730469,
+              129.73001098632812,
+              427.5275573730469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Referring to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              417.5556640625,
+              86.95600891113281,
+              427.5556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": ", draw a line vertically upward from ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.73001098632812,
+              417.5556640625,
+              275.50897216796875,
+              427.5556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "131.8 on the horizontal index at the bottom of the chart and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              430.0556640625,
+              275.5020446777344,
+              440.0556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a horizontal line from 3,027 pounds in the left-vertical index. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              442.5556640625,
+              275.64501953125,
+              452.5556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "These lines intersect within the dashed area, which shows ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              455.0556640625,
+              275.5150451660156,
+              465.0556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that the aircraft is loaded properly for takeoff, but it is too ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              467.5556640625,
+              275.5050048828125,
+              477.5556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heavy for landing (similar to the previous example). Because ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              480.0556640625,
+              275.5150146484375,
+              490.0556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of this, if the aircraft had to return for landing immediately ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              492.5556640625,
+              275.531005859375,
+              502.5556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "after takeoff, it would need to fly long enough to burn 77 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              505.0556640625,
+              275.5000305175781,
+              515.0556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pounds (slightly less than 13 gallons) of fuel to reduce its ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              517.5556640625,
+              275.50201416015625,
+              527.5556640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weight for landing.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              530.0556640625,
+              112.3800048828125,
+              540.0556640625
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

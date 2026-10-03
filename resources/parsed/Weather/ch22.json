@@ -1,0 +1,5631 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 22",
+    "start_page": 256,
+    "end_page": 277,
+    "pages": [
+      {
+        "page_number": 256,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p256_b2.png",
+            "bbox": [
+              59.939998626708984,
+              65.94000244140625,
+              552.47998046875,
+              257.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              289.0249938964844,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A thunderstorm is a local storm, invariably produced by a cumulonimbus (CB) cloud, and always ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.7477416992188,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accompanied by lightning and thunder, usually with strong gusts of wind, heavy rain, and sometimes hail. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.6387329101562,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "There are as many as 40,000 thunderstorm occurrences each day worldwide, and the United States certainly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.7786254882812,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "experiences its share. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              168.5449981689453,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorms are barriers to air traffic because they are usually too tall to fly over, too dangerous to fly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              195.18246459960938,
+              542.3388671875,
+              206.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "through or under, and can be difficult to circumnavigate. Weather recognizable as a thunderstorm should ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.84243774414062,
+              542.6015625,
+              218.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be considered hazardous, as penetration of any thunderstorm can lead to an aircraft accident and fatalities ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.44247436523438,
+              542.8001098632812,
+              231.42247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to those on board. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              233.10244750976562,
+              153.60499572753906,
+              244.0824432373047
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 257,
+        "elements": [
+          {
+            "type": "text",
+            "text": "22.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Necessary Ingredients for Thunderstorm Cell Formation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              399.6549987792969,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorm cell formation needs three ingredients: sufficient water vapor, unstable air, and a lifting ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.5585327148438,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mechanism (see Figure 22-1). Sufficient water vapor (commonly measured using dewpoint) must be present ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.6026611328125,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to produce unstable air. Virtually all showers and thunderstorms form in an air mass that is classified as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.39404296875,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conditionally unstable. A conditionally unstable air mass needs a lifting mechanism strong enough to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.6469116210938,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "release the instability. Lifting mechanisms include converging winds around surface lows and troughs, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              542.3720703125,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fronts, upslope flow, drylines, outflow boundaries generated by prior storms, and local winds, such as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              542.3280639648438,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sea breeze, lake breeze, land breeze, and valley breeze circulations. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              370.7049865722656,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p257_b9.png",
+            "bbox": [
+              89.99999237060547,
+              203.98974609375,
+              521.6701049804688,
+              366.6075439453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-1. Necessary Ingredients for Thunderstorm Cell Formation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              379.31512451171875,
+              351.68499755859375,
+              389.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              404.1004638671875,
+              94.75901794433594,
+              417.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorm Cell Life Cycle ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              404.1004638671875,
+              263.8550109863281,
+              417.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A thunderstorm cell is the convective cell of a cumulonimbus cloud having lightning and thunder. It ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              424.82244873046875,
+              542.5841674804688,
+              435.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "undergoes three distinct stages during its life cycle (see Figure 22-2): towering cumulus, mature, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.4224548339844,
+              542.731201171875,
+              448.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dissipating. The total life cycle is typically about 30 minutes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.08245849609375,
+              343.2850036621094,
+              461.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The distinguishing feature of the towering cumulus stage is a strong convective updraft. The updraft is a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              468.742431640625,
+              542.3937377929688,
+              479.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "bubble of warm, rising air concentrated near the top of the cloud, which leaves a cloudy trail in its wake. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              481.4024353027344,
+              542.6588745117188,
+              492.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Updraft speeds can exceed 3,000 fpm. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.06243896484375,
+              243.06500244140625,
+              505.04241943359375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 258,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p258_b10.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.9200439453125,
+              293.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-2. Thunderstorm Cell Life Cycle ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              305.81512451171875,
+              247.2050018310547,
+              315.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The cell transitions to the mature stage when precipitation reaches the surface. Precipitation descends ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              330.3624572753906,
+              542.3502197265625,
+              341.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "through the cloud and drags the adjacent air downward, creating a strong downdraft alongside the updraft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              342.9624328613281,
+              542.6317749023438,
+              353.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The downdraft spreads out along the surface, well in advance of the parent thunderstorm cell, as a mass of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.6224365234375,
+              542.4048461914062,
+              366.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cool, gusty air. The arc-shaped leading edge of downdraft air resembles a miniature cold front and is called ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.2824401855469,
+              542.7852172851562,
+              379.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a gust front. Uplift along the gust front may trigger the formation of new cells, sometimes well ahead of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              380.94244384765625,
+              542.5037231445312,
+              391.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "parent cell. Cumulonimbus tops frequently penetrate into the lower stratosphere as an overshooting top, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              393.6024475097656,
+              542.3060913085938,
+              404.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "where strong winds aloft distort the cloud top into an anvil shape. Weather hazards reach peak intensity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              406.2824401855469,
+              542.5414428710938,
+              417.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "toward the end of the mature stage. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              418.94244384765625,
+              229.625,
+              429.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The dissipating stage is marked by a strong downdraft embedded within the area of precipitation. Subsiding ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.5424499511719,
+              542.7242431640625,
+              448.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air replaces the updraft throughout the cloud, effectively cutting off the supply of moisture provided by the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.20245361328125,
+              542.4927978515625,
+              461.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "updraft. Precipitation tapers off and ends. Compression warms the subsiding air and the relative humidity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              462.8624572753906,
+              542.3720092773438,
+              473.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "drops. The convective cloud gradually vaporizes from below, leaving only a remnant anvil cloud. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              475.5224304199219,
+              503.60498046875,
+              486.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              500.4004821777344,
+              94.75901794433594,
+              513.4204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorm Types ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              500.4004821777344,
+              215.43499755859375,
+              513.4204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "There are three principal thunderstorm types: single-cell, multicell (cluster and line), and supercell. All ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              521.1223754882812,
+              542.6419677734375,
+              532.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms are hazardous to aircraft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.7824096679688,
+              249.7849884033203,
+              544.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A single-cell or common (also called ordinary-cell) thunderstorm consists of only one cell. This type of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              552.3823852539062,
+              542.76806640625,
+              563.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm often develops on warm and humid summer days. These cells may be severe and produce hail ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              565.0424194335938,
+              542.6793212890625,
+              576.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and microburst winds. Its life cycle was covered in the previous section. It is easily circumnavigated by ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              577.702392578125,
+              542.4127197265625,
+              588.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilots, except at night or when embedded in other clouds. Single-cell thunderstorms are rare; almost all ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              590.3624267578125,
+              542.6646118164062,
+              601.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms are multicell. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              603.0223999023438,
+              198.5449981689453,
+              614.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A multicell cluster thunderstorm (see Figure 22-3 and Figure 22-4) consists of a cluster of cells at various ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              621.6224365234375,
+              542.717041015625,
+              632.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "stages of their life cycle. With an organized multicell cluster, as the first cell matures, it is carried downwind, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              634.2824096679688,
+              542.62451171875,
+              645.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and a new cell forms upwind to take its place. A multicell cluster may have a lifetime of several hours (or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              646.9424438476562,
+              542.5907592773438,
+              657.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "more). New cells will continue to form as long as the three necessary ingredients exist (see Section 22.2). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              659.6024169921875,
+              542.8049926757812,
+              670.5824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Individual cells within the cluster may move in one direction while the whole system moves in another. It ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              672.2623901367188,
+              542.8049926757812,
+              683.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "can cover large areas and its persistence makes it a bit tougher to circumnavigate than a single-cell ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              684.8823852539062,
+              542.8001098632812,
+              695.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm. An area of multicell cluster thunderstorms can be like a minefield for air traffic. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              697.5424194335938,
+              490.1650085449219,
+              708.5224609375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 259,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p259_b7.png",
+            "bbox": [
+              108.0,
+              76.49998474121094,
+              503.92999267578125,
+              298.29998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-3. Multicell Cluster Thunderstorm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              310.31512451171875,
+              253.68499755859375,
+              320.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sometimes thunderstorms will form in a narrow band or squall line that can extend laterally for hundreds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              328.8624572753906,
+              542.6832275390625,
+              339.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of miles. Often it develops on or ahead of a cold front in moist, unstable air, but it may develop in unstable ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              341.4624328613281,
+              542.6463012695312,
+              352.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air far removed from any front. New cells continually re-form at the leading edge of the system with rain, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              354.1224365234375,
+              542.5632934570312,
+              365.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and sometimes hail, following behind. Sometimes storms, which comprise the line, can be supercells. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              366.7824401855469,
+              542.7677612304688,
+              377.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "line can persist for many hours (or more) as long as the three necessary ingredients continue to exist ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              379.44244384765625,
+              542.8049926757812,
+              390.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(see Section 22.2). These squall lines are the thunderstorm type which presents the most effective barrier ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              392.1024475097656,
+              542.4009399414062,
+              403.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to air traffic, because the line is usually too tall to fly over, too dangerous to fly through or under, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              404.7824401855469,
+              542.6537475585938,
+              415.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "difficult to circumnavigate. About 25 percent of all tornadoes in the United States are spawned by ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              417.3824462890625,
+              542.708251953125,
+              428.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "squall lines. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              430.0424499511719,
+              127.32500457763672,
+              441.0224304199219
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p259_b8.png",
+            "bbox": [
+              108.0,
+              457.7499694824219,
+              503.9200134277344,
+              678.3499755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-4. Multicell Line Thunderstorm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              690.0951538085938,
+              243.06500244140625,
+              700.1151733398438
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 260,
+        "elements": [
+          {
+            "type": "text",
+            "text": "A supercell thunderstorm (see Figure 22-5) is an often dangerous, long-lived convective storm that consists ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7598876953125,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "primarily of a single, quasi-steady rotating updraft that persists for an extended period of time. It has a very ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.6707153320312,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "organized internal structure that enables it to produce especially dangerous weather for pilots who encounter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.4817504882812,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "them. Updraft speeds may reach 9,000 fpm (100 kt). This allows hazards to be magnified to an even greater ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.6743774414062,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "degree. Nearly all supercells produce severe weather (e.g., large hail or damaging wind) and about ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              542.6810302734375,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "25 percent produce a tornado. A supercell may persist for many hours (or longer). New cells will continue ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              136.68246459960938,
+              542.6680297851562,
+              147.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to form as long as the three necessary ingredients exist (see Section 22.2). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              149.34243774414062,
+              399.80499267578125,
+              160.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A supercell’s size and persistence make it a bit tougher to circumnavigate than a single-cell thunderstorm. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.72900390625,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Also, multicell clusters and lines may have supercells incorporated as part of the system as well. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.66244506835938,
+              498.44500732421875,
+              191.64244079589844
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p260_b8.png",
+            "bbox": [
+              108.0,
+              208.3400115966797,
+              503.94000244140625,
+              456.2900085449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-5. Supercell Thunderstorm ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.6551208496094,
+              223.32501220703125,
+              477.67510986328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.42047119140625,
+              94.75901794433594,
+              505.44049072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Factors that Influence Thunderstorm Motion ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              492.42047119140625,
+              338.57501220703125,
+              505.44049072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A thunderstorm is a process, not a solid object or block of wood. Storm motion equals the combined effects ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              513.1423950195312,
+              542.7392578125,
+              524.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of both advection and propagation (see Figure 22-6). Advection is the component of storm motion due to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              525.8024291992188,
+              542.8049926757812,
+              536.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "individual cells moving with the average wind throughout the vertical depth of the cumulonimbus cloud. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.46240234375,
+              542.328125,
+              549.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The wind at FL180 (500 mb) usually provides a good approximation. Propagation is the component of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.1224365234375,
+              542.8049926757812,
+              562.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "storm motion due to old cell dissipation and the new cell development. Storm motion may deviate ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              563.722412109375,
+              542.4378662109375,
+              574.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "substantially from the motion of the individual cells, which comprise the storm. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.3823852539062,
+              425.2449951171875,
+              587.3624267578125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 261,
+        "elements": []
+      },
+      {
+        "page_number": 262,
+        "elements": [
+          {
+            "type": "text",
+            "text": "22.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              94.75901794433594,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hazards ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              73.6404800415039,
+              149.375,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "All thunderstorms have conditions that are hazards to aviation. These hazards occur in numerous ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.572265625,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "combinations. While not every thunderstorm contains all hazards, it is not possible to visually determine ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.3718872070312,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which hazards a thunderstorm contains. Hazards include low ceiling and visibility, lightning, adverse winds, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.7640380859375,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "downbursts, turbulence, icing, hail, rapid altimeter changes, static electricity, tornadoes, and engine water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.694580078125,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ingestion. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              117.84500122070312,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.8404998779297,
+              104.52401733398438,
+              182.86048889160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low Ceiling and Visibility ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              169.8404998779297,
+              255.51499938964844,
+              182.86048889160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Generally, visibility is near zero within a thunderstorm cloud. Ceiling and visibility also may be restricted ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              190.56246948242188,
+              542.36083984375,
+              201.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in precipitation and dust between the cloud base and the ground. The restrictions create the same problem ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              203.22244262695312,
+              542.3500366210938,
+              214.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as all ceiling and visibility restrictions, but the hazards are increased when associated with the other ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.88241577148438,
+              542.53125,
+              226.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm hazards of turbulence, hail, and lightning that make precision instrument flying virtually ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              228.54244995117188,
+              542.3609619140625,
+              239.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "impossible. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              241.20242309570312,
+              125.16500091552734,
+              252.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              266.0204772949219,
+              104.52401733398438,
+              279.0404968261719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lightning ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              266.0204772949219,
+              167.07501220703125,
+              279.0404968261719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Every thunderstorm produces lightning and thunder by definition. Lightning is a visible electrical discharge ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              286.742431640625,
+              542.7427368164062,
+              297.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "produced by a thunderstorm. The discharge may occur within or between clouds, between a cloud and air, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              299.4024353027344,
+              542.7438354492188,
+              310.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "between a cloud and the ground, or between the ground and a cloud. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              312.06243896484375,
+              375.385009765625,
+              323.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lightning can damage or disable an aircraft. It can puncture the skin of an aircraft, and it can damage ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              330.7224426269531,
+              542.7556762695312,
+              341.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "communications and electronic navigational equipment. Lightning has been suspected of igniting fuel ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              343.3824462890625,
+              542.6423950195312,
+              354.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vapors causing an explosion; however, serious accidents due to lightning strikes are extremely rare. Nearby ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.9824523925781,
+              542.5037231445312,
+              366.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lightning can blind the pilot, rendering the pilot momentarily unable to navigate either by instrument or by ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.6424560546875,
+              542.75830078125,
+              379.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "visual reference. Nearby lightning can also induce permanent errors in the magnetic compass. Lightning ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.3024597167969,
+              542.7565307617188,
+              392.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "discharges, even distant ones, can disrupt radio communications on low and medium frequencies. Though ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              393.9624328613281,
+              542.328125,
+              404.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lightning intensity and frequency have no simple relationship to other storm parameters, severe storms, as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              406.6424560546875,
+              542.3720703125,
+              417.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a rule, have a high frequency of lightning. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              419.3024597167969,
+              259.56500244140625,
+              430.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              444.18048095703125,
+              104.52401733398438,
+              457.20050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Downburst and Microburst ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              444.18048095703125,
+              256.5950012207031,
+              457.20050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The downward moving column of air in a typical thunderstorm is large. Convective clouds, shower cells, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              464.9024353027344,
+              542.8049926757812,
+              475.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and thunderstorm cells sometimes produce intense downdrafts called downbursts that create strong, often ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              477.50244140625,
+              542.3279418945312,
+              488.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "damaging winds and wind shear. Downbursts (see Figure 22-7) can create hazardous conditions for pilots ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              490.1624450683594,
+              542.6279296875,
+              501.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and have been responsible for many LLWS accidents. Smaller, shorter-lived downbursts are called ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              502.82244873046875,
+              542.6951293945312,
+              513.8024291992188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "microbursts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              515.482421875,
+              129.4250030517578,
+              526.4624633789062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 263,
+        "elements": []
+      },
+      {
+        "page_number": 264,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p264_b6.png",
+            "bbox": [
+              126.0,
+              76.50003051757812,
+              485.9800109863281,
+              267.6500244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-9. Illustration of a Symmetric Microburst ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.81512451171875,
+              281.4649963378906,
+              288.8351135253906
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p264_b7.jpeg",
+            "bbox": [
+              126.0,
+              306.4100036621094,
+              485.9599914550781,
+              509.30999755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-10. Illustration of an Asymmetric Microburst ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              520.755126953125,
+              297.0050048828125,
+              530.775146484375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 265,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p265_b8.png",
+            "bbox": [
+              126.0,
+              76.49998474121094,
+              485.989990234375,
+              268.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-11. Illustration of a Dry Microburst ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              280.31512451171875,
+              258.06500244140625,
+              290.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "More than one microburst can occur in the same weather system. Pilots are therefore cautioned to be alert ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              304.8624572753906,
+              542.317138671875,
+              315.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for additional microbursts if one has already been encountered or observed. If several microbursts are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              317.4624328613281,
+              542.4379272460938,
+              328.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "present, a series of horizontal vortices can form near the ground due to several microbursts being embedded ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              330.1224365234375,
+              542.60791015625,
+              341.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in one another (see Figure 22-12). Conditions associated with these vortices may produce very powerful ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              342.7824401855469,
+              542.5089721679688,
+              353.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "updrafts and roll forces in addition to downdrafts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.44244384765625,
+              293.4649963378906,
+              366.42242431640625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p265_b9.png",
+            "bbox": [
+              126.0,
+              383.1500244140625,
+              485.8999938964844,
+              549.6500244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-12. Illustration of a Series of Vortices Due to Microbursts Being Embedded in One Another ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              561.4951171875,
+              483.864990234375,
+              571.51513671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A downburst or microburst is dangerous to aircraft when climbing from takeoff or approaching to land. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              586.0424194335938,
+              542.5504150390625,
+              597.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "During these phases, the aircraft is operating at slow speeds. A major change of wind velocity can lead to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              598.6423950195312,
+              542.493896484375,
+              609.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "loss of lift and a crash. During landing, if the pilot has reduced power and lowered the nose in response to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.3024291992188,
+              542.48486328125,
+              622.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the headwind shear (see Figure 22-13) this leaves the aircraft in a nose-low, power-low configuration when ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              623.96240234375,
+              542.7556762695312,
+              634.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the tailwind shear occurs, which makes recovery more difficult. It can cause the airplane to stall or land ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              636.6224365234375,
+              542.3829345703125,
+              647.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "short of the runway. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              649.2824096679688,
+              163.38499450683594,
+              660.262451171875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 266,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p266_b9.png",
+            "bbox": [
+              126.0,
+              76.5,
+              485.9700012207031,
+              291.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-13. Landing in a Microburst ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              304.31512451171875,
+              228.9650115966797,
+              314.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots should be alert for indications of a microburst early in the approach phase, and ready to initiate a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              328.8624572753906,
+              542.3170776367188,
+              339.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "missed approach at the first indication. However, it may be impossible to recover from a microburst ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              341.4624328613281,
+              542.4160766601562,
+              352.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "encounter at low altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              354.1224365234375,
+              186.60499572753906,
+              365.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots should be aware of asymmetrical microbursts (see Figure 22-10), since a significant airspeed increase ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              372.7824401855469,
+              542.7197265625,
+              383.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may not occur upon entering the outflow or may be much less than the subsequent airspeed loss experienced ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              385.44244384765625,
+              542.591552734375,
+              396.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when exiting the microburst. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              398.1024475097656,
+              201.2449951171875,
+              409.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It is vital for pilots to recognize that some microbursts cannot be successfully escaped with any known ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              416.7824401855469,
+              542.339111328125,
+              427.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "techniques. Some wind shears that are within the performance capability of the aircraft have caused ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              429.3824462890625,
+              542.3721313476562,
+              440.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accidents. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              442.0424499511719,
+              118.44499969482422,
+              453.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.8414611816406,
+              111.0,
+              478.8414611816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Encounter During Takeoff—After Lift-Off ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              466.8414611816406,
+              330.760009765625,
+              478.8414611816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In previous accidents studied, the airplane encountered an increasing tailwind shear shortly after lifting off ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              486.50244140625,
+              542.6995239257812,
+              497.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the runway (see Figure 22-14). For the first 5 seconds after lift-off, the takeoff appeared normal, but the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              499.1624450683594,
+              542.635498046875,
+              510.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airplane crashed off the end of the runway about 20 seconds after lift-off.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.8224792480469,
+              394.2096862792969,
+              522.802490234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 267,
+        "elements": []
+      },
+      {
+        "page_number": 268,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p268_b9.png",
+            "bbox": [
+              162.0,
+              76.5,
+              449.9700012207031,
+              282.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Microburst reduces airspeed and lift at normal attitude, which results in ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              295.31512451171875,
+              452.5450134277344,
+              305.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pitch-down tendency to regain airspeed. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              306.8351135253906,
+              325.885009765625,
+              316.8551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-15. Wind Shear Effects on Flightpath ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.3351135253906,
+              265.864990234375,
+              339.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To counter the loss of airspeed and lift resulting from wind shear, pitch attitude must not be allowed to fall ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.8024597167969,
+              542.7251586914062,
+              363.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "below the normal range. Only by properly controlling pitch attitude and accepting reduced airspeed can ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.4624328613281,
+              542.4267578125,
+              376.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flightpath degradation be prevented (see Figure 22-16). Once the airplane begins to deviate from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              378.1224365234375,
+              542.6091918945312,
+              389.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "intended flightpath and high descent rates develop, it takes additional time and altitude to change ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.7824401855469,
+              542.40478515625,
+              401.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flightpath direction. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              403.4624328613281,
+              162.125,
+              414.4424133300781
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p268_b10.png",
+            "bbox": [
+              162.0,
+              430.1499938964844,
+              449.9800109863281,
+              662.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Control of pitch attitude and acceptance of reduced airspeed results in ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              674.47509765625,
+              452.5016784667969,
+              684.4951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "improved flightpath. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              686.01513671875,
+              246.18499755859375,
+              696.03515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-16. Pitch Control Effects on Flightpath ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              708.51513671875,
+              272.0450134277344,
+              718.53515625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 269,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Only 5 to 15 seconds may be available to recognize and respond to a wind shear encounter (see Figure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7583618164062,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22-17). Therefore, it is of great importance that a wind shear encounter be recognized as soon as possible. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              540.2849731445312,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p269_b11.png",
+            "bbox": [
+              126.0,
+              113.79998779296875,
+              485.94000244140625,
+              301.79998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Takeoff initially appeared normal. Additional time is needed to arrest descent. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              130.52000427246094,
+              313.07513427734375,
+              452.5396728515625,
+              323.0951232910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Result: Only 5 to 15 seconds may be available for recognition and recovery. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              130.52000427246094,
+              324.5951232910156,
+              438.80499267578125,
+              334.6151123046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-17. Time Available to Respond to Wind Shear Encounter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              348.1151123046875,
+              345.56500244140625,
+              358.1351013183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              372.80145263671875,
+              111.0,
+              384.80145263671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Encounter During Takeoff—On Runway ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              372.80145263671875,
+              321.4599914550781,
+              384.80145263671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Analysis of a typical accident where an increasing tailwind shear was encountered during takeoff ground ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              392.4624328613281,
+              542.3719482421875,
+              403.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "roll showed that initial indications appeared normal (see Figure 22-18). Due to the increasing tailwind shear, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              405.08245849609375,
+              542.8049926757812,
+              416.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "however, the airplane did not reach rotation speed (V",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              417.742431640625,
+              304.5275573730469,
+              428.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "R",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              304.5199890136719,
+              421.94976806640625,
+              309.20233154296875,
+              428.9697570800781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lifted off, the tailwind continued increasing, preventing any further airspeed increase. The airplane ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              430.4024353027344,
+              542.3829345703125,
+              441.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contacted an obstacle off the departure end of the runway. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              443.06243896484375,
+              330.0849914550781,
+              454.04241943359375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p269_b12.png",
+            "bbox": [
+              126.0,
+              470.75,
+              485.989990234375,
+              613.75
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(1) Takeoff initially appeared normal. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              130.52000427246094,
+              625.0350952148438,
+              284.94500732421875,
+              635.0551147460938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(2) Airspeed buildup slowed due to wind shear. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              130.52000427246094,
+              636.5551147460938,
+              322.4649963378906,
+              646.5751342773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(3) Airplane reached V",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              130.52000427246094,
+              648.0751342773438,
+              223.0436553955078,
+              658.0951538085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": " near end of runway, lifted off but failed to climb. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              227.0,
+              648.0751342773438,
+              426.625,
+              658.0951538085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "R",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 6.480000019073486,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              223.0399932861328,
+              651.9443969726562,
+              226.999267578125,
+              658.4244384765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(4) Airplane contacted obstacle off departure end of runway. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              130.52000427246094,
+              659.5951538085938,
+              376.64501953125,
+              669.6151733398438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-18. Wind Shear Encounter During Takeoff on Runway ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              683.0751342773438,
+              335.9049987792969,
+              693.0951538085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") until nearing the end of the runway. As the airplane ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              309.20001220703125,
+              417.742431640625,
+              542.65478515625,
+              428.722412109375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 270,
+        "elements": []
+      },
+      {
+        "page_number": 271,
+        "elements": []
+      },
+      {
+        "page_number": 272,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Reduced airspeed, as the airplane encountered the wind shear, resulted in decreased lift. This loss of lift ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3389282226562,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increased the descent rate (see Figure 22-22). The natural nose-down pitch response of the airplane to low ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.6177368164062,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspeed caused additional altitude loss. Pitch attitude increase and recovery initiation were not used soon ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.4379272460938,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "enough to prevent ground contact. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              225.364990234375,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lack of timely and appropriate response—affected by weather conditions, inadequate crew coordination, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.8049926757812,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and limited recognition time—was a significant factor in delaying recovery initiation. Gradual application ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.5108032226562,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of thrust during approach may have masked the initial decreasing airspeed trend. Poor weather conditions ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.3721313476562,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "caused increased workload and complicated the approach. Transition from instruments to exterior visual ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.6822509765625,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "references may have detracted from instrument scan. Inadequate crew coordination may have resulted in a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.60244750976562,
+              542.8050537109375,
+              191.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "failure to be aware of flightpath degradation. A stabilized approach with clearly defined callouts is essential ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              193.26242065429688,
+              542.4706420898438,
+              204.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to aid in the recognition of unacceptable flightpath trends and the need to initiate recovery. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              205.92245483398438,
+              474.0249938964844,
+              216.90245056152344
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p272_b13.png",
+            "bbox": [
+              126.0,
+              239.6400146484375,
+              485.92999267578125,
+              456.2900085449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Microburst reduces airspeed and lift at normal attitude that results in pitch-down ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              126.0199966430664,
+              467.4751281738281,
+              454.9384765625,
+              477.4951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tendency to regain airspeed. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              126.0199966430664,
+              478.9951171875,
+              242.40499877929688,
+              489.0151062011719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 22-22. Wind Shear Effects on Flightpath on Approach ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              502.4551086425781,
+              320.30499267578125,
+              512.47509765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              527.1414794921875,
+              111.0,
+              539.1414794921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind Shear Effects on Airplanes and Systems ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              527.1414794921875,
+              346.5400085449219,
+              539.1414794921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Several terms are used when discussing low-altitude wind variations with respect to aviation. These terms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.8024291992188,
+              542.5695190429688,
+              557.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are defined as follows: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              559.46240234375,
+              174.6649932861328,
+              570.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              578.702392578125,
+              95.05079650878906,
+              589.682373046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Increasing Headwind Shear: Wind shear in which headwind increases, causing an airspeed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              578.9024047851562,
+              542.7251586914062,
+              589.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increase. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              591.5624389648438,
+              149.52499389648438,
+              602.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              610.742431640625,
+              95.05079650878906,
+              621.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Decreasing Headwind Shear: Wind shear in which headwind decreases, causing an airspeed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              610.9424438476562,
+              542.7188720703125,
+              621.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decrease. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              623.6024169921875,
+              151.38499450683594,
+              634.5824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              642.8424072265625,
+              95.05079650878906,
+              653.8223876953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Decreasing Tailwind Shear: Wind shear in which tailwind decreases, causing an airspeed increase. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              643.0424194335938,
+              542.8049926757812,
+              654.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              662.2824096679688,
+              95.05079650878906,
+              673.2623901367188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Increasing Tailwind Shear: Wind shear in which tailwind increases, causing an airspeed decrease. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              662.482421875,
+              540.9450073242188,
+              673.4624633789062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 273,
+        "elements": []
+      },
+      {
+        "page_number": 274,
+        "elements": [
+          {
+            "type": "text",
+            "text": "22.7.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convective Turbulence",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              234.12986755371094,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 19.2.1 for information on convective turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              342.92498779296875,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.2404556274414,
+              104.52401733398438,
+              132.2604522705078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convective Icing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              119.2404556274414,
+              204.93499755859375,
+              132.2604522705078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 20.3.9 for information on convective icing. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              139.98245239257812,
+              318.4849853515625,
+              150.9624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              164.8605194091797,
+              104.52401733398438,
+              177.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hail ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              164.8605194091797,
+              138.15499877929688,
+              177.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Section 14.4.5 for information on hail. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              185.58242797851562,
+              262.625,
+              196.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              210.4604949951172,
+              104.52401733398438,
+              223.48048400878906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Rapid Altimeter Changes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              210.4604949951172,
+              247.9550018310547,
+              223.48048400878906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pressure usually falls rapidly with the approach of a thunderstorm. Pressure then usually rises sharply with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              231.18246459960938,
+              542.6356201171875,
+              242.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the onset of the first gust and arrival of the cold downdraft and heavy rain, falling back to normal as the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              243.84243774414062,
+              542.2842407226562,
+              254.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorm passes. This cycle of pressure change may occur in 15 minutes. If the pilot does not receive ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              256.4424743652344,
+              542.4793701171875,
+              267.4224548339844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a corrected altimeter setting, the altimeter may be more than 100 ft in error. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              269.1024475097656,
+              406.7649841308594,
+              280.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              293.98046875,
+              104.52401733398438,
+              307.00048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Static Electricity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              293.98046875,
+              202.77500915527344,
+              307.00048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Static electricity (a steady, high level of noise in radio receivers) is caused by intense corona discharges ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.70245361328125,
+              542.633056640625,
+              325.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from sharp metallic points and edges of flying aircraft. It is encountered often in the vicinity of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              327.3624572753906,
+              542.415771484375,
+              338.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms. When an aircraft flies through clouds, precipitation, or a concentration of solid particles ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              340.0224304199219,
+              542.3717651367188,
+              351.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e.g., ice, sand, or dust), it accumulates a charge of static electricity. The electricity discharges onto a nearby ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.68243408203125,
+              542.5144653320312,
+              363.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surface or into the air, causing a noisy disturbance at lower frequencies. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.3424377441406,
+              390.2649841308594,
+              376.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The corona discharge is weakly luminous and may be seen at night. Although it has a rather eerie ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.94244384765625,
+              542.7560424804688,
+              394.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appearance, it is harmless. It was named “St. Elmo’s Fire” by Mediterranean sailors, who saw the brushy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.6024475097656,
+              542.6356811523438,
+              407.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "discharge at the top of ship masts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.2824401855469,
+              224.10499572753906,
+              420.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.7.9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.1604919433594,
+              104.52401733398438,
+              447.1805114746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tornado ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              434.1604919433594,
+              159.81500244140625,
+              447.1805114746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A tornado is a violently rotating column of air in contact with the ground, either pendant from a cumuliform ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              454.8824462890625,
+              542.4816284179688,
+              465.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cloud or underneath a cumuliform cloud, and often (but not always) visible as a funnel cloud. The most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.5424499511719,
+              542.7454833984375,
+              478.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "violent thunderstorms draw air into their cloud bases with great force. If the incoming air has any initial ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              480.20245361328125,
+              542.2512817382812,
+              491.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rotating motion, it often forms an extremely concentrated vortex from the surface well into the cloud. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.8024597167969,
+              542.4049072265625,
+              503.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Meteorologists have estimated that wind in such a vortex can exceed 200 kt; pressure inside the vortex is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              505.4624328613281,
+              542.677490234375,
+              516.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "quite low. The strong winds gather dust and debris, and the low pressure generates a funnel-shaped cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              518.1223754882812,
+              542.7503662109375,
+              529.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extending downward from the cumulonimbus base. If the cloud does not reach the surface, it is a “funnel ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.7824096679688,
+              542.7325439453125,
+              541.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cloud”; if it touches a land surface, it is a “tornado”; and if it touches water, it is a “waterspout.” When ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              543.4424438476562,
+              542.7581176757812,
+              554.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tornadoes do occur without any visible funnel cloud, debris at the surface is usually the indication of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              556.0424194335938,
+              542.3279418945312,
+              567.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "existence of an intense circulation in contact with the ground. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.702392578125,
+              345.385009765625,
+              579.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tornadoes can occur almost anywhere in the world but are most common in the central and eastern United ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              587.3624267578125,
+              542.5587768554688,
+              598.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "States during spring and autumn months. They typically last only a few minutes and travel a few miles, but ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              600.0223999023438,
+              542.6213989257812,
+              611.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "can persist much longer (e.g., more than 90 minutes) and track much farther (e.g., more than 100 mi), in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              612.6824340820312,
+              542.7694702148438,
+              623.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extreme cases. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              625.3424072265625,
+              138.90499877929688,
+              636.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "On a local scale, the tornado is the most intense of all atmospheric circulations. Its vortex is typically a few ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              643.9424438476562,
+              542.5804443359375,
+              654.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hundred yards in diameter but can range in width from less than 10 yards (yd) to over 2 mi. Wind speeds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              656.6024169921875,
+              542.7426147460938,
+              667.5824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are typically estimated on the basis of wind damage using the Enhanced Fujita (EF) Scale (see Table 22-1). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              669.2623901367188,
+              542.8049926757812,
+              680.242431640625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 275,
+        "elements": []
+      },
+      {
+        "page_number": 276,
+        "elements": [
+          {
+            "type": "text",
+            "text": "phenomena is limited in both direction and range. Some airborne radars are fitted with a turbulence display ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.6978759765625,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mode, which is based on the Doppler effect. These Doppler radars can detect turbulence associated with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.7616577148438,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation (sometimes referred to as wet precipitation), but these radars are unable to detect clear-air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.7886352539062,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turbulence (CAT). The radar display also does not provide assurance of avoiding instrument weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.3912963867188,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conditions from clouds and fog. A phenomenon called attenuation (see Section 15.2.5) may exist when a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              542.7598266601562,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cell absorbs or reflects all of the radio signals sent by the radar system (see Figure 15-5). Attenuation may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              136.68246459960938,
+              542.7125854492188,
+              147.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prevent the radar from detecting additional cells that might lie behind the first cell. This is sometimes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              149.34243774414062,
+              542.3609619140625,
+              160.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "referred to as a radar “shadow.” For aircraft equipped with airborne weather radar, pilots are expected to be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              162.00247192382812,
+              542.6333618164062,
+              172.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "familiar with the operating techniques and limitations of the specific system. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              174.66244506835938,
+              411.7449951171875,
+              185.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "It is important to note that while hail always gives a radar echo, it may fall several miles from the nearest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              193.26242065429688,
+              542.383056640625,
+              204.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "visible cloud, and hazardous turbulence may extend to as much as 20 mi from the echo edge. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              205.92245483398438,
+              483.56500244140625,
+              216.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "22.8.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              230.80052185058594,
+              104.52401733398438,
+              243.8205108642578
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorm Avoidance Guidance ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              230.80052185058594,
+              302.07501220703125,
+              243.8205108642578
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Never regard any thunderstorm lightly, even when radar observers report the echoes are of light intensity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              251.52243041992188,
+              542.3829956054688,
+              262.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Avoiding thunderstorms is the best policy. The following is guidance for avoiding thunderstorms: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.1824645996094,
+              505.2250061035156,
+              275.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              282.8424377441406,
+              98.26499938964844,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not land or take off in the face of an approaching thunderstorm. A sudden gust front of low-level ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              282.8424377441406,
+              542.7760009765625,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "turbulence could cause loss of control. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              295.50244140625,
+              279.9649963378906,
+              306.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              314.1024475097656,
+              98.26499938964844,
+              325.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not attempt to fly under a thunderstorm, even if you can see through to the other side. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              314.1024475097656,
+              542.5369262695312,
+              325.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Turbulence and wind shear under the storm could be hazardous. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              326.762451171875,
+              392.364990234375,
+              337.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              345.4224548339844,
+              98.26499938964844,
+              356.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not attempt to fly under the anvil of a thunderstorm. There is a potential for severe and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              345.4224548339844,
+              542.3665771484375,
+              356.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extreme CAT. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              358.08245849609375,
+              173.7050018310547,
+              369.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              376.68243408203125,
+              98.26499938964844,
+              387.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not fly without airborne radar into a cloud mass containing scattered embedded thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              376.68243408203125,
+              542.6301879882812,
+              387.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Scattered thunderstorms that are not embedded usually can be visually circumnavigated. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              389.3424377441406,
+              499.5849914550781,
+              400.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              408.0224304199219,
+              98.26499938964844,
+              419.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not trust the visual appearance to be a reliable indicator of the turbulence inside a thunderstorm. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              408.0224304199219,
+              542.8049926757812,
+              419.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              426.68243408203125,
+              98.26499938964844,
+              437.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not assume that ATC will offer radar navigation guidance or deviations around thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              426.68243408203125,
+              542.6849975585938,
+              437.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              445.3424377441406,
+              98.26499938964844,
+              456.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not use data-linked weather radar (i.e., NEXRAD) mosaic imagery as the sole means for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              445.3424377441406,
+              542.6635131835938,
+              456.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "negotiating a path through a thunderstorm area (tactical maneuvering). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              458.00244140625,
+              421.4049987792969,
+              468.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              476.6024475097656,
+              98.26499938964844,
+              487.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Remember that the data-linked NEXRAD mosaic imagery shows where the weather was, not where ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              476.6024475097656,
+              542.6342163085938,
+              487.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the weather is. The weather conditions may be 15–20 minutes older than the age indicated on the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              489.262451171875,
+              542.5390014648438,
+              500.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "display. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              501.9224548339844,
+              145.26499938964844,
+              512.9024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              520.5824584960938,
+              98.26499938964844,
+              531.5625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Listen to chatter on the ATC frequency for PIREPs and other aircraft requesting to deviate or divert. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              520.5824584960938,
+              542.8049926757812,
+              531.5625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              539.242431640625,
+              103.78499603271484,
+              550.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ask ATC for radar navigation guidance or to approve deviations around thunderstorms, if needed. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              539.242431640625,
+              542.8049926757812,
+              550.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              557.8424072265625,
+              103.78499603271484,
+              568.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Use data-linked weather NEXRAD mosaic imagery (e.g., FIS-B) for route selection to avoid ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              557.8424072265625,
+              542.6634521484375,
+              568.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms entirely (strategic maneuvering). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              570.5023803710938,
+              320.30499267578125,
+              581.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              589.1624145507812,
+              103.78499603271484,
+              600.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advise ATC, when switched to another controller, that you are deviating for thunderstorms before ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              589.1624145507812,
+              542.6190795898438,
+              600.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accepting to rejoin the original route. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              601.8224487304688,
+              273.9049987792969,
+              612.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "13.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              620.482421875,
+              103.78499603271484,
+              631.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ensure that after an authorized weather deviation, before accepting to rejoin the original route, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              620.482421875,
+              542.520263671875,
+              631.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "route of flight is clear of thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              633.1423950195312,
+              286.385009765625,
+              644.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "14.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              651.742431640625,
+              103.78499603271484,
+              662.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Avoid by at least 20 mi any thunderstorm identified as severe or giving an intense, heavy, or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              651.742431640625,
+              542.4530639648438,
+              662.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extreme radar echo. This is especially true under the anvil of a large cumulonimbus. Such echoes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              664.4024047851562,
+              542.410400390625,
+              675.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "should be separated by at least 40 mi before flying between echoes. Separation distances may be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              677.0624389648438,
+              542.5537109375,
+              688.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reduced for avoiding weaker echoes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              689.742431640625,
+              272.3450012207031,
+              700.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              708.4024047851562,
+              103.78499603271484,
+              719.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Circumnavigate the entire area if more than half the area is covered by thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              708.4024047851562,
+              489.44500732421875,
+              719.3824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 277,
+        "elements": [
+          {
+            "type": "text",
+            "text": "16.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              73.42244720458984,
+              103.78499603271484,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Vivid and frequent lightning indicates the probability of a severe thunderstorm. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              73.42244720458984,
+              459.92498779296875,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              92.0824203491211,
+              103.78499603271484,
+              103.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regard as extremely hazardous any thunderstorm with tops 35,000 ft or higher, whether the top is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              92.0824203491211,
+              542.6883544921875,
+              103.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "visually sighted or determined by radar. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              104.7424545288086,
+              286.0849914550781,
+              115.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "18.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              123.3624496459961,
+              103.78499603271484,
+              134.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Give a PIREP for the flight conditions. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              123.3624496459961,
+              282.125,
+              134.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              142.02243041992188,
+              103.78499603271484,
+              153.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Divert and wait out the thunderstorms on the ground if unable to navigate around an area of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              142.02243041992188,
+              542.4324951171875,
+              153.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              154.68246459960938,
+              176.46499633789062,
+              165.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If unable to avoid penetrating a thunderstorm, the following is guidance for before entering the storm: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              173.34243774414062,
+              523.1649780273438,
+              184.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              192.00247192382812,
+              98.26499938964844,
+              202.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tighten the safety belt, put on the shoulder harness (if installed), and secure all loose objects. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              192.00247192382812,
+              520.7050170898438,
+              202.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              210.66244506835938,
+              98.26499938964844,
+              221.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Plan and hold the course to take the aircraft through the storm in a minimum time. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              210.66244506835938,
+              472.4649963378906,
+              221.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              229.26242065429688,
+              98.26499938964844,
+              240.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To avoid the most critical icing, establish a penetration altitude below the freezing level or above ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              229.26242065429688,
+              542.7659301757812,
+              240.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the level of -15 °C. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              241.92245483398438,
+              194.88499450683594,
+              252.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              260.5824279785156,
+              98.26499938964844,
+              271.5624084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Verify that pitot heat is on and turn on carburetor heat or jet engine anti-ice. Icing can be rapid at ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              260.5824279785156,
+              542.6852416992188,
+              271.5624084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any altitude and cause almost instantaneous power failure and/or loss of airspeed indication. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              273.242431640625,
+              516.2050170898438,
+              284.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "5.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              291.9024353027344,
+              98.26499938964844,
+              302.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Establish power settings for turbulence penetration airspeed recommended in the aircraft manual. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              291.9024353027344,
+              539.0250244140625,
+              302.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              310.50244140625,
+              98.26499938964844,
+              321.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Turn up cockpit lights to highest intensity to lessen temporary blindness from lightning. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              310.50244140625,
+              497.2449951171875,
+              321.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              329.1624450683594,
+              98.26499938964844,
+              340.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If using automatic pilot, disengage Altitude Hold Mode and Speed Hold Mode. The automatic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              329.1624450683594,
+              542.4216918945312,
+              340.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "altitude and speed controls will increase maneuvers of the aircraft; thus, increasing structural stress. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              341.82244873046875,
+              542.8049926757812,
+              352.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "8.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              360.4824523925781,
+              98.26499938964844,
+              371.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If using airborne radar, tilt the antenna up and down occasionally. This will permit the detection of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              360.4824523925781,
+              542.6300659179688,
+              371.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "other thunderstorm activity at altitudes other than the one being flown. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              373.1424560546875,
+              421.4649963378906,
+              384.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              391.742431640625,
+              98.26499938964844,
+              402.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Keep eyes on the flight instruments. Looking outside the cockpit can increase danger of temporary ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              391.742431640625,
+              542.5421752929688,
+              402.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "blindness from lightning. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              404.4224548339844,
+              221.64498901367188,
+              415.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              423.08245849609375,
+              103.78499603271484,
+              434.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not change power settings; maintain settings for the recommended turbulence penetration ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              423.08245849609375,
+              542.5093994140625,
+              434.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspeed. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              435.742431640625,
+              150.18499755859375,
+              446.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "11.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              454.4024353027344,
+              103.78499603271484,
+              465.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maintain constant attitude. Allow the altitude and airspeed to fluctuate. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              454.4024353027344,
+              423.92498779296875,
+              465.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              473.00244140625,
+              103.78499603271484,
+              483.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Do not turn back once in the thunderstorm. A straight course through the storm most likely will get ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              473.00244140625,
+              542.619140625,
+              483.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft out of the hazards most quickly. In addition, turning maneuvers increase stress on the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              485.6624450683594,
+              542.4215087890625,
+              496.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              498.32244873046875,
+              145.26499938964844,
+              509.30242919921875
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

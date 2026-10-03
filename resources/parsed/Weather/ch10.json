@@ -1,0 +1,2397 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 10",
+    "start_page": 116,
+    "end_page": 133,
+    "pages": [
+      {
+        "page_number": 116,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p116_b2.png",
+            "bbox": [
+              59.34000015258789,
+              65.94001770019531,
+              556.0800170898438,
+              303.4800109863281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              181.68499755859375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind is the air in motion relative to the surface of the Earth. Although people cannot actually see the air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.6995849609375,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moving, it can be measured by its motion of force that it applies on objects. For example, leaves rustling or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.692626953125,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "trees swaying on a windy day indicate that the wind is blowing. Winds are a major factor to both weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.2294311523438,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and aircraft. Winds cause the formation, dissipation, and redistribution of weather. Winds also affect aircraft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.7750244140625,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "during all phases of flight. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              190.50498962402344,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Adverse wind is a category of hazardous aviation weather that is responsible for many weather-related ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.84243774414062,
+              542.7442626953125,
+              218.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accidents. Adverse winds include crosswinds, gusts, tailwind, variable wind, sudden wind shift, wind shear, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.44247436523438,
+              542.7704467773438,
+              231.42247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and mountain wind hazards. Takeoff and landing are the most critical periods of any flight and are most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              233.10244750976562,
+              542.4970092773438,
+              244.0824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "susceptible to the effects of adverse wind. The most at-risk group is pilots flying aircraft with lower ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.76242065429688,
+              542.620849609375,
+              256.7424011230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "crosswind and tailwind threshold values. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              258.4224548339844,
+              254.10499572753906,
+              269.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter discusses the origin of wind as well as adverse winds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              277.08245849609375,
+              368.60498046875,
+              288.06243896484375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 117,
+        "elements": []
+      },
+      {
+        "page_number": 118,
+        "elements": []
+      },
+      {
+        "page_number": 119,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Coriolis force varies with latitude from zero at the Equator to a maximum at the poles. It influences wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7368774414062,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "direction everywhere except immediately at the Equator, but the effects are more pronounced in middle and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.5365600585938,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high latitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              137.10499572753906,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p119_b6.png",
+            "bbox": [
+              126.0,
+              126.45001220703125,
+              485.989990234375,
+              506.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-4. Coriolis Force Variations Across the Earth ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              517.755126953125,
+              297.30499267578125,
+              527.775146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Coriolis force deflects moving objects to the right of their path in the Northern Hemisphere and to the left ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              542.3024291992188,
+              542.3060913085938,
+              553.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of their path in the Southern Hemisphere. Coriolis deflection is maximized at the poles and zero at ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              554.96240234375,
+              542.4268188476562,
+              565.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Equator. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.6224365234375,
+              128.52499389648438,
+              578.6024780273438
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 120,
+        "elements": []
+      },
+      {
+        "page_number": 121,
+        "elements": [
+          {
+            "type": "text",
+            "text": "The frictional drag of the ground normally decreases with height and becomes insignificant above the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3829956054688,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lowest few thousand feet. However, this may vary somewhat, since both strong winds and rough terrain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.6085815429688,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "extend the friction layer to higher altitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              265.0849914550781,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              123.58048248291016,
+              94.75901794433594,
+              136.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Upper Air Wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              123.58048248291016,
+              191.97500610351562,
+              136.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the atmosphere above the friction layer (lowest few thousand feet), only PGF and Coriolis force affect ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.30245971679688,
+              542.4268188476562,
+              155.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the horizontal motion of air. Remember that the PGF drives the wind and is oriented perpendicular to height ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.4927368164062,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contours. When a PGF is first established, wind begins to blow from higher to lower heights directly across ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.5552978515625,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the height contours. However, the instant air begins moving, Coriolis force deflects it to the right. Soon the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              542.536865234375,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind is deflected a full 90° and is parallel to the height contours. At this time, Coriolis force exactly balances ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.7199096679688,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PGF, as shown in Figure 10-8 on a 500 mb constant-pressure chart (see Section 25.3 for information on ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.7235717773438,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "constant-pressure charts). With the forces in balance, wind will remain parallel to height contours as shown ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              542.7674560546875,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in Figure 10-9. This is called the geostrophic wind. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.86245727539062,
+              299.6449890136719,
+              243.8424530029297
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p121_b7.png",
+            "bbox": [
+              97.49999237060547,
+              260.5926208496094,
+              513.861328125,
+              540.826416015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-8. Geostrophic Wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              552.9151000976562,
+              200.0449981689453,
+              562.9351196289062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 122,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p122_b9.png",
+            "bbox": [
+              98.25,
+              78.62999725341797,
+              513.4500122070312,
+              204.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-9. Upper Air Wind Flow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              217.31512451171875,
+              215.10501098632812,
+              227.3351287841797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              242.0804901123047,
+              94.75901794433594,
+              255.10047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Surface Wind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              242.0804901123047,
+              178.59500122070312,
+              255.10047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "At the surface of the Earth, all three forces come into play. As frictional force slows the wind speed, Coriolis ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              262.8024597167969,
+              542.4489135742188,
+              273.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "force decreases. However, friction does not affect PGF. PGF and Coriolis force are no longer in balance. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              275.4624328613281,
+              542.4049682617188,
+              286.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The stronger PGF turns the wind at an angle across the isobars toward lower pressure until the three forces ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              288.06243896484375,
+              542.6173095703125,
+              299.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "balance, as shown in Figure 10-10. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              300.7224426269531,
+              228.42498779296875,
+              311.7024230957031
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p122_b10.png",
+            "bbox": [
+              89.99999237060547,
+              328.4455871582031,
+              521.7426147460938,
+              535.203857421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-10. Surface Wind Forces ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              547.2750854492188,
+              215.885009765625,
+              557.2951049804688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The angle of surface wind to isobars is about 10° over water, increasing to as high as 45° over rugged ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              571.8224487304688,
+              542.3500366210938,
+              582.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "terrain. The end result is, in the Northern Hemisphere, the surface wind spirals clockwise and outward from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              584.482421875,
+              542.5476684570312,
+              595.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high pressure and counterclockwise and inward into low pressure (see Figure 10-11). In mountainous ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              597.1423950195312,
+              542.6929321289062,
+              608.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "regions, one often has difficulty relating surface wind to pressure gradient because of immense friction and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              609.742431640625,
+              542.5806884765625,
+              620.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "because of local terrain effects on pressure. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              622.4024047851562,
+              265.0249938964844,
+              633.3824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 123,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p123_b9.png",
+            "bbox": [
+              90.46199798583984,
+              79.0099868774414,
+              522.0020141601562,
+              196.8599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-11. Surface Wind Flow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              209.81512451171875,
+              209.82501220703125,
+              219.8351287841797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              234.5804901123047,
+              94.75901794433594,
+              247.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Local Winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              234.5804901123047,
+              173.5550079345703,
+              247.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Local winds are small-scale wind field systems driven by diurnal heating or cooling of the ground. Air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              255.30245971679688,
+              542.7864379882812,
+              266.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature differences develop over adjacent surfaces. Air in contact with the ground heats during the day ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              267.9624328613281,
+              542.6676025390625,
+              278.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and cools at night. Low-level pressure gradients develop with higher pressure over the cooler, denser air, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              280.56243896484375,
+              542.4953002929688,
+              291.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and lower pressure over the warmer, less dense air (see Figure 10-12). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              293.2224426269531,
+              383.60498046875,
+              304.2024230957031
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p123_b10.png",
+            "bbox": [
+              90.0,
+              320.95001220703125,
+              521.989990234375,
+              646.4500122070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-12. Local Wind Circulation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              658.2750854492188,
+              226.385009765625,
+              668.2951049804688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low-level winds develop in the direction of the PGF. Coriolis force is insignificant, because the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              682.8424072265625,
+              542.7693481445312,
+              693.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "circulation’s dimension (less than 100 mi) and lifespan (less than 12 hours) are too short for significant ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              695.5023803710938,
+              542.6404418945312,
+              706.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Coriolis deflection. Thus, the wind generally blows from a high-pressure cool surface to a low-pressure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              708.1624145507812,
+              542.7601318359375,
+              719.1424560546875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 124,
+        "elements": []
+      },
+      {
+        "page_number": 125,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p125_b7.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.97998046875,
+              399.1000061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-14. Sea Breeze Front ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              410.8351135253906,
+              200.34500122070312,
+              420.8551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A sea breeze front’s position and movement are influenced by coastline shape, low-level wind direction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              435.3824462890625,
+              542.8049926757812,
+              446.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and speed, and temperature difference between land and sea surface. This temperature difference can be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.9824523925781,
+              542.4818115234375,
+              458.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "affected by the presence of cloud cover over land and the diurnal cycle. The depth of convection is usually ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.6424560546875,
+              542.5477294921875,
+              471.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "too shallow for precipitation to develop. However, sea breeze fronts can be a lifting mechanism for shower ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.3024597167969,
+              542.6600952148438,
+              484.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and thunderstorm development. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              485.9624328613281,
+              214.3249969482422,
+              496.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.6.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              510.7615051269531,
+              111.0,
+              522.7615356445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Effects of Coastline Shape ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              510.7615051269531,
+              252.13999938964844,
+              522.7615356445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Locally, the shape of the coastline plays an important role in the development of convection along sea ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.4224243164062,
+              542.6644287109375,
+              541.4024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "breezes (see Figure 10-15). A narrow peninsula or island is generally an area of strong convective ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              543.0823974609375,
+              542.44677734375,
+              554.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "development during the late morning or early afternoon. This is because the sea breezes that formed along ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.6824340820312,
+              542.7896118164062,
+              566.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "opposing shores merge near the center of the peninsula or island. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.3424072265625,
+              360.385009765625,
+              579.3224487304688
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 126,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p126_b7.png",
+            "bbox": [
+              126.0,
+              76.5,
+              485.9599914550781,
+              347.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-15. Effects of Coastline Shape on a Sea Breeze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.31512451171875,
+              304.44500732421875,
+              368.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In Figure 10-15, convergence occurs where sea breezes merge from opposite directions. Stronger lift may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              382.8624572753906,
+              542.496826171875,
+              393.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be sufficient to initiate showers and thunderstorms if the air mass is sufficiently moist and unstable. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              395.5224304199219,
+              512.7850341796875,
+              406.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.6.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              420.3604736328125,
+              104.52401733398438,
+              433.3804931640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Land Breeze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              420.3604736328125,
+              181.77500915527344,
+              433.3804931640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A land breeze (see Figure 10-16) is a coastal breeze blowing from land to sea caused by the temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              441.08245849609375,
+              542.5084228515625,
+              452.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "difference when the sea surface is warmer than the adjacent land. Land breezes usually occur at night and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              453.742431640625,
+              542.3721313476562,
+              464.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "during early morning. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.4024353027344,
+              171.00498962402344,
+              477.3824157714844
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 127,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p127_b8.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.9599609375,
+              375.54998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-16. Land Breeze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              386.81512451171875,
+              182.28500366210938,
+              396.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air above the land becomes cooler (denser) than air above the water due to conduction. This is because ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              411.3824462890625,
+              542.3279418945312,
+              422.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "land cools faster than water. Low-level pressure gradients develop with higher pressure over the cooler land ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              423.9824523925781,
+              542.6151123046875,
+              434.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and lower pressure over the warmer water. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              436.6424560546875,
+              262.625,
+              447.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low-level winds develop in the direction of the PGF. Thus, the wind blows from the land to the water. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              455.3024597167969,
+              542.5849609375,
+              466.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "land breeze is usually weaker than the sea breeze. The air rises over water and sinks over land. Clouds and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.9624328613281,
+              542.5476684570312,
+              478.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation may develop in the rising air over the water. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              480.6224365234375,
+              327.68499755859375,
+              491.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.6.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              505.5004577636719,
+              104.52401733398438,
+              518.5204467773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lake Breeze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              505.5004577636719,
+              181.0550079345703,
+              518.5204467773438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A lake breeze (see Figure 10-17) is a local wind that blows from the surface of a large lake onto the shores ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              526.222412109375,
+              542.5758666992188,
+              537.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "during the afternoon and is caused by the temperature difference when the lake surface is colder than the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.8224487304688,
+              542.383056640625,
+              549.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "adjacent land. The lake breeze is similar in origin to the sea breeze and is common in the Great Lakes. Both ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.482421875,
+              542.5449829101562,
+              562.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occur during the warm season, primarily spring and summer. Both are easiest to detect in light synoptic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              564.1423950195312,
+              542.3060302734375,
+              575.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind conditions. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.8024291992188,
+              148.08499145507812,
+              587.782470703125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 128,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p128_b8.png",
+            "bbox": [
+              103.5,
+              76.5,
+              508.0799865722656,
+              378.79998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-17. Lake Breeze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              391.31512451171875,
+              181.68499755859375,
+              401.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As with sea breezes, thunderstorms are favored in the upward motion branch of the lake breeze circulation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              415.8824462890625,
+              542.7734375,
+              426.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This is especially true where breezes from adjacent lakes collide. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              428.5424499511719,
+              360.625,
+              439.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The strength of the lake breeze circulation is affected by a lake’s depth. A shallow lake (e.g., Lake Erie and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.1424560546875,
+              542.72265625,
+              458.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Lake St. Clair) warms up rapidly and is less effective as the source of a lake breeze in summer than a deep ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.8024597167969,
+              542.697998046875,
+              470.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lake (e.g., the other Great Lakes). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              472.4624328613281,
+              222.30499267578125,
+              483.4424133300781
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p128_b9.png",
+            "bbox": [
+              131.25,
+              498.156982421875,
+              480.54998779296875,
+              696.177001953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-18. Sea Breeze/Lake Breeze Example [National Aeronautics and Space Administration (NASA)] ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              708.0350952148438,
+              504.385009765625,
+              718.0551147460938
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 129,
+        "elements": []
+      },
+      {
+        "page_number": 130,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p130_b7.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.989990234375,
+              397.8999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-20. Mountain-Plains Wind System ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.3351135253906,
+              254.82501220703125,
+              419.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pressure gradients develop (along a horizontal reference) with lower pressure over the warmer sloping ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              433.8824462890625,
+              542.3720703125,
+              444.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "terrain and higher pressure over the cooler plains. Winds develop in the direction of the PGF. Thus, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.4824523925781,
+              542.35009765625,
+              457.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind blows from the plains up the mountain slopes. There is a weak return flow aloft. Clouds and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.1424560546875,
+              542.5977783203125,
+              470.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation may develop in the rising air over the mountain. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              471.8024597167969,
+              344.8450012207031,
+              482.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.6.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              496.68048095703125,
+              104.52401733398438,
+              509.70050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountain Breeze ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              496.68048095703125,
+              205.65499877929688,
+              509.70050048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A mountain breeze (see Figure 10-21) is the nightly downslope winds commonly encountered in mountain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              517.4024047851562,
+              542.6185302734375,
+              528.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "valleys. Air in contact with the sloping terrain cools faster than air above the valley. Pressure over the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.0624389648438,
+              542.3390502929688,
+              541.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sloping terrain is higher than over the valleys (along a horizontal reference). Cooler air over the sloping ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              542.722412109375,
+              542.7058715820312,
+              553.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "terrain is denser than warmer air over the valley. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.3823852539062,
+              288.30499267578125,
+              566.3624267578125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 131,
+        "elements": []
+      },
+      {
+        "page_number": 132,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p132_b10.png",
+            "bbox": [
+              184.5,
+              72.0,
+              427.5,
+              404.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 10-22. Crosswind Climb Flightpath ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.3351135253906,
+              245.34500122070312,
+              422.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.7.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.1004638671875,
+              104.52401733398438,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Gust ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              437.1004638671875,
+              140.31500244140625,
+              450.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A gust is a fluctuation of wind speed with variations of 10 knots (kt) or more between peaks and lulls. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.82244873046875,
+              523.2249755859375,
+              468.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Even if the airplane is oriented into the wind, gusts during takeoff and landing cause airspeed fluctuations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              476.4824523925781,
+              542.3499755859375,
+              487.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that can cause problems for pilots. A gust increases airspeed, which increases lift and may cause an aircraft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              489.08245849609375,
+              542.5552978515625,
+              500.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to briefly balloon up. Once the gust ends, a sudden decrease of airspeed occurs, which decreases lift and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              501.742431640625,
+              542.6021728515625,
+              512.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "causes the aircraft to sink. Gusty winds at the point of touchdown provide significant challenges to a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              514.4024047851562,
+              542.3499145507812,
+              525.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "safe landing. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              527.0624389648438,
+              130.98500061035156,
+              538.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.7.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.9404907226562,
+              104.52401733398438,
+              564.96044921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tailwind ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              551.9404907226562,
+              162.69500732421875,
+              564.96044921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A tailwind is a wind with a component of motion from behind the aircraft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              572.6624145507812,
+              401.6650085449219,
+              583.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A tailwind can be hazardous during both takeoff and landing. A longer takeoff roll is necessary because a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              591.3224487304688,
+              542.7500610351562,
+              602.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "higher groundspeed is needed to generate sufficient lift, and the aircraft may roll off the end of the runway ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              603.9224243164062,
+              542.6422729492188,
+              614.9024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "before lift-off. Also, a smaller initial climb gradient occurs during takeoff, which may be insufficient to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              616.5823974609375,
+              542.4356689453125,
+              627.5624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clear obstacles at the end of the runway. During a landing, a longer landing roll is needed because the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              629.242431640625,
+              542.7568359375,
+              640.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft will touch down at a higher groundspeed. Wind should always be considered in takeoff performance ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              641.9024047851562,
+              542.7371215820312,
+              652.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "planning. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              654.5624389648438,
+              115.98500061035156,
+              665.54248046875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 133,
+        "elements": [
+          {
+            "type": "text",
+            "text": "10.7.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Variable Wind/Sudden Wind Shift ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              295.89501953125,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A variable wind is a wind that changes direction frequently, while a sudden wind shift is a line or narrow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.2730712890625,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "zone along which there is an abrupt change of wind direction. Both, even at low wind speeds, can make ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.4488525390625,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "takeoffs and landings difficult. A headwind can quickly become a crosswind or tailwind. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              465.2049865722656,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.7.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.5804901123047,
+              104.52401733398438,
+              157.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind Shear ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              144.5804901123047,
+              177.51499938964844,
+              157.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Chapter 19, Turbulence, for information on wind shear. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              165.30245971679688,
+              337.7649841308594,
+              176.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.7.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              190.1804656982422,
+              104.52401733398438,
+              203.20045471191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Adverse Mountain Winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              190.1804656982422,
+              250.11500549316406,
+              203.20045471191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Chapter 16, Mountain Weather, for information on adverse mountain winds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              210.90243530273438,
+              429.44500732421875,
+              221.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10.7.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              235.78050231933594,
+              104.52401733398438,
+              248.8004913330078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Atmospheric Disturbances in Mountainous Areas ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              235.78050231933594,
+              372.89501953125,
+              248.8004913330078
+            ]
+          },
+          {
+            "type": "text",
+            "text": "See Chapter 19, Turbulence, for information on mountain-related turbulence. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              256.5024719238281,
+              414.1449890136719,
+              267.4824523925781
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

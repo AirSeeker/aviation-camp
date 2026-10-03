@@ -1,0 +1,105 @@
+{
+  "book_id": "RiskManagement",
+  "title": "Risk Management Handbook",
+  "pdf_path": "resources/library/RiskManagement/RiskManagement.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 10,
+      "end_page": 12,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 13,
+      "end_page": 18,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 19,
+      "end_page": 33,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 34,
+      "end_page": 38,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 39,
+      "end_page": 43,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 44,
+      "end_page": 49,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 50,
+      "end_page": 53,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 54,
+      "end_page": 57,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix Introduction",
+      "start_page": 58,
+      "end_page": 58,
+      "content_path": "section_009_appendix_appendix_introduction.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix A - Risk Management Training",
+      "start_page": 59,
+      "end_page": 59,
+      "content_path": "section_010_appendix_appendix_a_risk_management_training.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix B - Risk Management Tools",
+      "start_page": 60,
+      "end_page": 63,
+      "content_path": "section_011_appendix_appendix_b_risk_management_tools.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix C - Accident Case Studies",
+      "start_page": 64,
+      "end_page": 68,
+      "content_path": "section_012_appendix_appendix_c_accident_case_studies.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix D - Risk Management Exercises",
+      "start_page": 69,
+      "end_page": 72,
+      "content_path": "section_013_appendix_appendix_d_risk_management_exercises.json"
+    },
+    {
+      "type": "glossary",
+      "title": "Glossary",
+      "start_page": 73,
+      "end_page": 76,
+      "content_path": "section_014_glossary.json"
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "book_id": "Weather",
+  "title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 16,
+      "end_page": 17,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 18,
+      "end_page": 23,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 24,
+      "end_page": 60,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 61,
+      "end_page": 66,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 67,
+      "end_page": 79,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 80,
+      "end_page": 86,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 87,
+      "end_page": 94,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 95,
+      "end_page": 109,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 110,
+      "end_page": 115,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 116,
+      "end_page": 133,
+      "content_path": "ch10.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 11",
+      "start_page": 134,
+      "end_page": 144,
+      "content_path": "ch11.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 12",
+      "start_page": 145,
+      "end_page": 153,
+      "content_path": "ch12.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 13",
+      "start_page": 154,
+      "end_page": 164,
+      "content_path": "ch13.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 14",
+      "start_page": 165,
+      "end_page": 170,
+      "content_path": "ch14.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 15",
+      "start_page": 171,
+      "end_page": 189,
+      "content_path": "ch15.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 16",
+      "start_page": 190,
+      "end_page": 206,
+      "content_path": "ch16.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 17",
+      "start_page": 207,
+      "end_page": 220,
+      "content_path": "ch17.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 18",
+      "start_page": 221,
+      "end_page": 232,
+      "content_path": "ch18.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 19",
+      "start_page": 233,
+      "end_page": 242,
+      "content_path": "ch19.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 20",
+      "start_page": 243,
+      "end_page": 250,
+      "content_path": "ch20.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 21",
+      "start_page": 251,
+      "end_page": 255,
+      "content_path": "ch21.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 22",
+      "start_page": 256,
+      "end_page": 277,
+      "content_path": "ch22.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 23",
+      "start_page": 278,
+      "end_page": 284,
+      "content_path": "ch23.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 24",
+      "start_page": 285,
+      "end_page": 342,
+      "content_path": "ch24.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 25",
+      "start_page": 343,
+      "end_page": 367,
+      "content_path": "ch25.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 26",
+      "start_page": 368,
+      "end_page": 401,
+      "content_path": "ch26.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 27",
+      "start_page": 402,
+      "end_page": 469,
+      "content_path": "ch27.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 28",
+      "start_page": 470,
+      "end_page": 472,
+      "content_path": "ch28.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix A - Cloud Types",
+      "start_page": 473,
+      "end_page": 484,
+      "content_path": "section_029_appendix_appendix_a_cloud_types.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix B - Standard Conversion Chart",
+      "start_page": 485,
+      "end_page": 485,
+      "content_path": "section_030_appendix_appendix_b_standard_conversion_chart.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix C - Density Altitude Calculation",
+      "start_page": 486,
+      "end_page": 486,
+      "content_path": "section_031_appendix_appendix_c_density_altitude_calculation.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix D - Special Terminal Operation Procedures (STOP) for Operations in a Noncontiguous State",
+      "start_page": 487,
+      "end_page": 499,
+      "content_path": "section_032_appendix_appendix_d_special_terminal_operation_procedures_stop_for_operations_in_a_noncontiguous_state.json"
+    },
+    {
+      "type": "acronyms",
+      "title": "Acronyms",
+      "start_page": 500,
+      "end_page": 509,
+      "content_path": "section_033_acronyms.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix F - Units of Measurement",
+      "start_page": 510,
+      "end_page": 511,
+      "content_path": "section_034_appendix_appendix_f_units_of_measurement.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix G - Websites",
+      "start_page": 512,
+      "end_page": 513,
+      "content_path": "section_035_appendix_appendix_g_websites.json"
+    }
+  ]
+}

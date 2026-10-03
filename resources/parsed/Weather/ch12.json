@@ -1,0 +1,544 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 12",
+    "start_page": 145,
+    "end_page": 153,
+    "pages": [
+      {
+        "page_number": 145,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p145_b2.png",
+            "bbox": [
+              58.7400016784668,
+              65.33999633789062,
+              551.280029296875,
+              247.67999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Vertical Motion and Clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              432.9850158691406,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A cloud is a visible aggregate of minute water droplets and/or ice particles in the atmosphere above the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.30615234375,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth’s surface. Fog differs from clouds only in that the base of fog is at the Earth’s surface while clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.711669921875,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are above the surface. Clouds are like signposts in the sky that provide information on air motion, stability, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.6304321289062,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and moisture. Clouds help pilots visualize weather conditions and potential weather hazards. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              482.0050048828125,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Clouds form in the atmosphere as a result of condensation of water vapor in rising currents of air, or by the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              195.18246459960938,
+              542.5256958007812,
+              206.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "evaporation of the lowest layer of fog. Rising currents of air are necessary for the formation of vertically ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.84243774414062,
+              542.3610229492188,
+              218.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "deep clouds capable of producing precipitation heavier than light intensity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.50247192382812,
+              404.125,
+              231.4824676513672
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 146,
+        "elements": []
+      },
+      {
+        "page_number": 147,
+        "elements": []
+      },
+      {
+        "page_number": 148,
+        "elements": [
+          {
+            "type": "text",
+            "text": "while relative humidity increases until the parcel achieves saturation at its LCL of 2,000 ft. As the parcel ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7280883789062,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "continues to ascend, condensation produces cloud formation. Because the heat added during condensation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.3719482421875,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "offsets some of the cooling due to expansion, the parcel now cools at the moist adiabatic lapse rate of 2°C ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.8049926757812,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "per 1,000 ft. The parcel’s dewpoint decreases at an identical rate as the lost water vapor condenses to form ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.5894165039062,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the cloud. The relative humidity of the ascending saturated (i.e., cloudy) parcel remains constant at about ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              542.7625122070312,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "100 percent. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              136.68246459960938,
+              129.125,
+              147.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A descending saturated air parcel quickly becomes unsaturated (see Figure 12-3). Its temperature increases ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.7244262695312,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at 3°C per 1,000 ft, while its dewpoint increases at 0.5°C per 1,000 ft (see Table 12-1). The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.7670288085938,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature-dewpoint spread increases while relative humidity decreases. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.66244506835938,
+              399.44500732421875,
+              191.64244079589844
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p148_b7.png",
+            "bbox": [
+              90.0,
+              208.34002685546875,
+              521.989990234375,
+              531.6400146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 12-3. Descending Air Parcel Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              544.1550903320312,
+              255.0050048828125,
+              554.1751098632812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "At 5,000 ft, both the temperature and dewpoint of the air parcel are 6°C, indicating that it is saturated. As ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.702392578125,
+              542.7050170898438,
+              579.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the parcel descends, it quickly becomes unsaturated. Its temperature increases 3°C per 1,000 ft, while its ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              581.3624267578125,
+              542.7485961914062,
+              592.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dewpoint increases at 0.5°C per 1,000 ft. The temperature-dewpoint spread increases while relative ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              594.0223999023438,
+              542.6510009765625,
+              605.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "humidity decreases until the parcel reaches the surface. Note that the parcel is now much warmer and drier ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              606.6224365234375,
+              542.752197265625,
+              617.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at the surface than when it began the vertical motion process in Figure 12-2. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              619.2824096679688,
+              409.5249938964844,
+              630.262451171875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 149,
+        "elements": []
+      },
+      {
+        "page_number": 150,
+        "elements": []
+      },
+      {
+        "page_number": 151,
+        "elements": []
+      },
+      {
+        "page_number": 152,
+        "elements": []
+      },
+      {
+        "page_number": 153,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Table 12-3. Approximate Height of Cloud Bases Above the Surface ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.29510498046875,
+              346.1650085449219,
+              83.31510925292969
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "r\no",
+                "Level\neflight planning sta\nbe familiar with are",
+                "ge\nt",
+                ".\nhe",
+                "Polar Regions\nThe printed forecasts that pilo\nterminal aerodrome forecast",
+                "ts\n(",
+                "n\nT",
+                "Temperate Regions\need\nAF),",
+                "",
+                "",
+                "Tropical Regions",
+                ""
+              ],
+              [
+                "v\nS",
+                "High Clouds\niation area foreca\nIGMET, AIRMET",
+                "s\n),",
+                "10,000–25,000 ft (3–8 km)\nt (FA), inflight weather advis\nand the winds and temperatures",
+                null,
+                null,
+                "16,500–40,000 ft (5–13 km)\nories\naloft",
+                null,
+                null,
+                "20,000–60,000 ft (6–18 km)",
+                null,
+                null
+              ],
+              [
+                "o",
+                "Middle Clouds\nrecast (FB).",
+                "",
+                "6,500–13,000 ft (2–4 km)",
+                null,
+                null,
+                "6,500–23,000 ft (2–7 km)",
+                null,
+                null,
+                "6,500–25,000 ft (2–8 km)",
+                null,
+                null
+              ],
+              [
+                "T\nA",
+                "Low Clouds\nerminal Aerodro\nTAF is a report",
+                "m\ne",
+                "Surface–6,500 ft (0–2 km)\ne Forecasts (TAF)\nstablished for the five statute",
+                null,
+                null,
+                "Surface–6,500 ft (0–2 km)\nmile",
+                null,
+                null,
+                "Surface–6,500 ft (0–2 km)",
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              74.97321428571429,
+              93.41999770655777,
+              537.2699975585938,
+              197.3933308919271
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

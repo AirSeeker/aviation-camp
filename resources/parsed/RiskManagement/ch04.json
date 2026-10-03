@@ -1,0 +1,775 @@
+{
+  "book_id": "RiskManagement",
+  "book_title": "Risk Management Handbook",
+  "pdf_path": "resources/library/RiskManagement/RiskManagement.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 4",
+    "start_page": 34,
+    "end_page": 38,
+    "pages": [
+      {
+        "page_number": 34,
+        "elements": []
+      },
+      {
+        "page_number": 35,
+        "elements": []
+      },
+      {
+        "page_number": 36,
+        "elements": []
+      },
+      {
+        "page_number": 37,
+        "elements": []
+      },
+      {
+        "page_number": 38,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Flight Risk Assessment Tool",
+            "font_name": "Arial-BoldMT",
+            "font_size": 6.423886299133301,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              267.974609375,
+              48.71382141113281,
+              354.1516418457031,
+              55.1377067565918
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PAVE Area",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              62.782100677490234,
+              69.31666564941406,
+              90.80432891845703,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hazard",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              126.57135772705078,
+              69.31666564941406,
+              145.11305236816406,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Risk",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              242.14280700683594,
+              69.31666564941406,
+              253.8884735107422,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                null,
+                null
+              ],
+              [
+                null,
+                "",
+                ""
+              ],
+              [
+                null,
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                null
+              ],
+              [
+                null,
+                "",
+                ""
+              ],
+              [
+                null,
+                "",
+                null
+              ],
+              [
+                null,
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              60.99803161621094,
+              76.175537109375,
+              555.1727600097656,
+              152.79449462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.78631591796875,
+              155.81703186035156,
+              83.70162963867188,
+              161.4379119873047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thunderstorms, icing, low ceilings",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.57557678222656,
+              155.81703186035156,
+              210.0187530517578,
+              161.4379119873047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LOC and CFIT",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              242.14703369140625,
+              155.81703186035156,
+              278.3072509765625,
+              161.4379119873047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Terrain",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.78631591796875,
+              166.01441955566406,
+              79.7819595336914,
+              171.6352996826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "High terrain",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.57557678222656,
+              166.01441955566406,
+              155.31686401367188,
+              171.6352996826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CFIT",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              242.14703369140625,
+              166.01441955566406,
+              254.50445556640625,
+              171.6352996826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airspace, ATC, Airports",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.78631591796875,
+              176.50721740722656,
+              119.85908508300781,
+              182.1280975341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "High density altitude",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.57557678222656,
+              176.50721740722656,
+              176.65037536621094,
+              182.1280975341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CFIT",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              242.14703369140625,
+              176.50721740722656,
+              254.50445556640625,
+              182.1280975341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "N/A",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.57557678222656,
+              186.6250762939453,
+              135.846435546875,
+              192.24595642089844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "N/A",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              242.14703369140625,
+              186.6250762939453,
+              251.4178924560547,
+              192.24595642089844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Night/Over Water",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.78631591796875,
+              186.88075256347656,
+              105.53623962402344,
+              192.5016326904297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "External Pressure “E”",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#FFFFFF",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              63.183799743652344,
+              197.2315216064453,
+              121.29488372802734,
+              202.85240173339844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Personal",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.772247314453125,
+              206.12110900878906,
+              84.71754455566406,
+              211.7419891357422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "N/A",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.56150817871094,
+              206.12110900878906,
+              135.83236694335938,
+              211.7419891357422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "N/A",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              242.13296508789062,
+              206.12110900878906,
+              251.40382385253906,
+              211.7419891357422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Business",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.772247314453125,
+              215.2902374267578,
+              85.3348617553711,
+              220.91111755371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Meeting deadlines for myself and Ms. Smith",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.56150817871094,
+              215.2902374267578,
+              234.43031311035156,
+              220.91111755371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Increased risk in all other categories",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              242.13296508789062,
+              215.29591369628906,
+              331.1487121582031,
+              220.9167938232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": " FRAT hazards and associated risks.",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              255.8813018798828,
+              226.14366149902344,
+              401.62835693359375,
+              236.14366149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-6.",
+            "font_name": "Helvetica-Bold",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              210.37159729003906,
+              227.27133178710938,
+              255.8845672607422,
+              236.27133178710938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Chapter Summary",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#AA1E22",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              266.7236633300781,
+              148.7429962158203,
+              277.7236633300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12128",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              278.8462829589844,
+              79.0199966430664,
+              287.8462829589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Risk assessment is a critical element in the risk analysis process. To determine overall risk levels, the pilot assesses both risk ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              288.91455078125,
+              560.5020751953125,
+              298.91455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "likelihood and risk severity for all identified hazards. The primary tools for this process are the FRAT and the risk assessment ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              299.91455078125,
+              560.5023803710938,
+              309.91455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "matrix. A pilot’s risk assessment accuracy should improve with practice.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              310.91455078125,
+              343.125,
+              320.91455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Likelihood",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              338.94451904296875,
+              69.31666564941406,
+              366.757080078125,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Severity",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              376.8065185546875,
+              69.31666564941406,
+              398.4459228515625,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Composite Risk",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              423.6891174316406,
+              69.31666564941406,
+              465.71661376953125,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mitigation Results",
+            "font_name": "Arial-BoldMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              484.4585266113281,
+              69.31666564941406,
+              532.3533935546875,
+              74.93754577636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              425.289306640625,
+              155.8035430908203,
+              435.8003234863281,
+              161.42442321777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occasional",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              338.9543151855469,
+              155.81703186035156,
+              365.226318359375,
+              161.4379119873047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "catastrophic",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              377.311279296875,
+              155.81703186035156,
+              407.29278564453125,
+              161.4379119873047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occasional",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              338.9543151855469,
+              166.01441955566406,
+              365.226318359375,
+              171.6352996826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "catastrophic",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              377.311279296875,
+              166.01441955566406,
+              407.29278564453125,
+              171.6352996826172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              425.289306640625,
+              166.0749053955078,
+              435.8003234863281,
+              171.69578552246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              425.289306640625,
+              176.2382354736328,
+              435.8003234863281,
+              181.85911560058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "catastrophic",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              377.311279296875,
+              176.43336486816406,
+              407.29278564453125,
+              182.0542449951172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occasional",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              338.9543151855469,
+              176.50721740722656,
+              365.226318359375,
+              182.1280975341797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              425.289306640625,
+              214.9610137939453,
+              435.8003234863281,
+              220.58189392089844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "probable",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              338.9346923828125,
+              215.29591369628906,
+              360.5740661621094,
+              220.9167938232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "catastrophic",
+            "font_name": "ArialMT",
+            "font_size": 5.620882034301758,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              377.2916564941406,
+              215.29591369628906,
+              407.2731628417969,
+              220.9167938232422
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

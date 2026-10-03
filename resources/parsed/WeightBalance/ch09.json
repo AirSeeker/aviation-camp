@@ -1,0 +1,2714 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 9",
+    "start_page": 73,
+    "end_page": 92,
+    "pages": [
+      {
+        "page_number": 73,
+        "elements": []
+      },
+      {
+        "page_number": 74,
+        "elements": []
+      },
+      {
+        "page_number": 75,
+        "elements": []
+      },
+      {
+        "page_number": 76,
+        "elements": []
+      },
+      {
+        "page_number": 77,
+        "elements": []
+      },
+      {
+        "page_number": 78,
+        "elements": []
+      },
+      {
+        "page_number": 79,
+        "elements": []
+      },
+      {
+        "page_number": 80,
+        "elements": []
+      },
+      {
+        "page_number": 81,
+        "elements": []
+      },
+      {
+        "page_number": 82,
+        "elements": []
+      },
+      {
+        "page_number": 83,
+        "elements": []
+      },
+      {
+        "page_number": 84,
+        "elements": []
+      },
+      {
+        "page_number": 85,
+        "elements": []
+      },
+      {
+        "page_number": 86,
+        "elements": []
+      },
+      {
+        "page_number": 87,
+        "elements": []
+      },
+      {
+        "page_number": 88,
+        "elements": []
+      },
+      {
+        "page_number": 89,
+        "elements": []
+      },
+      {
+        "page_number": 90,
+        "elements": [
+          {
+            "type": "text",
+            "text": "should be taken into account. Examples of items that can ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              44.26996994018555,
+              274.96002197265625,
+              54.26996994018555
+            ]
+          },
+          {
+            "type": "text",
+            "text": "move during flight are:",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              56.76996994018555,
+              128.74000549316406,
+              66.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.25,
+              73.76997375488281,
+              51.25,
+              83.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flight deck crew members moving to the lavatory. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              73.76997375488281,
+              267.95001220703125,
+              83.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.25,
+              90.76997375488281,
+              51.25,
+              100.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flight attendants moving throughout the cabin. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              90.76997375488281,
+              253.52999877929688,
+              100.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.25,
+              107.76997375488281,
+              51.25,
+              117.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Service carts moving throughout the cabin.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              107.76997375488281,
+              235.45001220703125,
+              117.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.25,
+              124.76997375488281,
+              51.25,
+              134.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Passengers moving throughout the cabin.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              124.76997375488281,
+              227.9600067138672,
+              134.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.25,
+              141.7699737548828,
+              51.25,
+              151.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Passengers moving to the lavatory.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              141.7699737548828,
+              202.9600067138672,
+              151.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Determining Changes in Weight and CG ",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              166.63087463378906,
+              228.49998474121094,
+              176.63087463378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When the Aircraft Is Operated in Its Cargo ",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              178.63087463378906,
+              237.9499969482422,
+              188.63087463378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Configuratio",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              191.13087463378906,
+              95.69000244140625,
+              201.13087463378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To determine changes in weight and CG when the aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              204.2699737548828,
+              274.96197509765625,
+              214.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is operated in its cargo configuration, the Beech 1900 is ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              216.7699737548828,
+              274.95697021484375,
+              226.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-51",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              125.5,
+              229.2418670654297,
+              175.69996643066406,
+              239.2418670654297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "used as an example. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              229.2699737548828,
+              124.18701171875,
+              239.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": " illustrates the airplane ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              175.77000427246094,
+              229.2699737548828,
+              274.9979248046875,
+              239.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "configuration. Notice that the arm of each cargo section is ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25001525878906,
+              241.7699737548828,
+              274.95703125,
+              251.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the centroid of that section.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25001525878906,
+              254.2699737548828,
+              145.4000244140625,
+              264.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The flight manifest of the Beech 1900 in the cargo ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25001525878906,
+              279.26995849609375,
+              274.9480895996094,
+              289.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-52",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              147.94000244140625,
+              291.7418518066406,
+              194.21197509765625,
+              301.7418518066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "confi uration is illustrated in ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25001525878906,
+              291.76995849609375,
+              148.68899536132812,
+              301.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". The BOW includes ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              194.08999633789062,
+              291.76995849609375,
+              274.9599609375,
+              301.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the pilots and their baggage and there is no separate item ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              304.26995849609375,
+              274.9800109863281,
+              314.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for them. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              316.76995849609375,
+              75.41000366210938,
+              326.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "At the standard temperature of 15 °C, the fuel weighs 6.8 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              341.76995849609375,
+              274.947021484375,
+              351.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-45",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              152.91000366210938,
+              354.2418518066406,
+              201.96400451660156,
+              364.2418518066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pounds per gallon. Refer to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              354.26995849609375,
+              151.9149932861328,
+              364.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": " to determine the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              201.96400451660156,
+              354.26995849609375,
+              274.9570007324219,
+              364.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weight and moment index of 370 gallons of Jet A fuel. The ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              366.76995849609375,
+              274.9620056152344,
+              376.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CG under these loading conditions is located at station 296.2.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              379.26995849609375,
+              272.4720153808594,
+              389.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Determining the CG Shift When Cargo Is Moved ",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              404.130859375,
+              265.15997314453125,
+              414.130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "From One Section to Another",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              416.630859375,
+              175.70999145507812,
+              426.630859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To calculate the CG when cargo is shifted from one section ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              429.76995849609375,
+              274.9630432128906,
+              439.76995849609375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b39.png",
+            "bbox": [
+              295.0,
+              437.0,
+              335.0,
+              447.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-53",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              176.66000366210938,
+              442.2418518066406,
+              223.74099731445312,
+              452.2418518066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to another, use the formula found in ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              442.26995849609375,
+              177.3380584716797,
+              452.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". If the cargo ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              223.70001220703125,
+              442.26995849609375,
+              274.9649963378906,
+              452.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is moved forward, the CG is subtracted from the original CG. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              454.76995849609375,
+              275.0300598144531,
+              464.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If the cargo is shifted aft, add the CG to the original.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              467.26995849609375,
+              245.9400177001953,
+              477.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Determining the CG Shift When Cargo Is Added ",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              492.130859375,
+              264.6099853515625,
+              502.130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or Removed",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              504.630859375,
+              94.04000091552734,
+              514.630859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-51. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              284.9090881347656,
+              510.5384216308594,
+              332.0370788574219,
+              518.5384521484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To calculate the CG when cargo is added or removed, add or ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              517.7699584960938,
+              275.0780029296875,
+              527.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              294.0,
+              529.2699584960938,
+              300.0,
+              539.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "subtract the weight and moment index of the affected cargo to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              530.2699584960938,
+              274.8238830566406,
+              540.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the original loading chart. Determine the new CG by dividing ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              542.7699584960938,
+              275.0359191894531,
+              552.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the new moment index by the new total weight, and multiply ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              555.2699584960938,
+              274.9659423828125,
+              565.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              294.0,
+              558.7699584960938,
+              300.0,
+              568.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "[Figure 9-54]",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              148.99000549316406,
+              567.7418823242188,
+              204.82000732421875,
+              577.7418823242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "this by the reduction factor. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              567.7699584960938,
+              149.010009765625,
+              577.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              294.0,
+              588.2699584960938,
+              300.0,
+              598.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Determining Which Limits Are Exceeded",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              592.630859375,
+              228.50997924804688,
+              602.630859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When preparing an aircraft for flight,consider all parameters ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              605.7699584960938,
+              274.905029296875,
+              615.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and check to determine that no limits have been exceeded. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              618.2699584960938,
+              274.9670104980469,
+              628.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Consider the parameters below, and determine which limit, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              630.7699584960938,
+              274.9630126953125,
+              640.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              294.0,
+              642.7699584960938,
+              300.0,
+              652.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "if any, has been exceeded.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.25,
+              643.2699584960938,
+              141.21002197265625,
+              653.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              294.0,
+              659.7699584960938,
+              300.0,
+              669.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.25,
+              660.2699584960938,
+              51.25,
+              670.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft in this example has a basic empty weight ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              660.2699584960938,
+              274.9580383300781,
+              670.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of 9,005 pounds and a moment index of 25,934 pound ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              672.7699584960938,
+              275.0600891113281,
+              682.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              294.0,
+              676.7699584960938,
+              300.0,
+              686.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inches/100.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.25,
+              685.2699584960938,
+              109.08000183105469,
+              695.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loading cargo configuration",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              337.1922912597656,
+              54.40674591064453,
+              472.7620849609375,
+              64.40674591064453
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b3.png",
+            "bbox": [
+              329.09710693359375,
+              67.734375,
+              413.2410888671875,
+              498.9184265136719
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b5.png",
+            "bbox": [
+              338.0,
+              77.0,
+              390.0,
+              481.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              430.43310546875,
+              85.34025573730469,
+              465.09710693359375,
+              93.34025573730469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Centroid",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              471.20111083984375,
+              89.34025573730469,
+              501.43310546875,
+              97.34025573730469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              399.8091125488281,
+              93.34013366699219,
+              426.4891052246094,
+              101.34013366699219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "structural",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              431.32110595703125,
+              93.34025573730469,
+              464.21710205078125,
+              101.34025573730469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "arm",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              479.43310546875,
+              97.34025573730469,
+              493.2091064453125,
+              105.34025573730469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "capacity",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              433.09710693359375,
+              101.34025573730469,
+              462.44110107421875,
+              109.34025573730469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              113.97239685058594,
+              418.9211120605469,
+              121.97239685058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              113.97239685058594,
+              455.569091796875,
+              121.97239685058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 225.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              113.97239685058594,
+              506.48907470703125,
+              121.97239685058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "B ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              123.57237243652344,
+              418.9211120605469,
+              131.57237243652344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              123.57237243652344,
+              455.569091796875,
+              131.57237243652344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 255.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              123.57237243652344,
+              506.48907470703125,
+              131.57237243652344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "C ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              133.17234802246094,
+              419.3611145019531,
+              141.17234802246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0011291503906,
+              133.17234802246094,
+              455.5691223144531,
+              141.17234802246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 285.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.5771179199219,
+              133.17234802246094,
+              506.4891052246094,
+              141.17234802246094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "D ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              142.77232360839844,
+              419.3611145019531,
+              150.77232360839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0011291503906,
+              142.77232360839844,
+              455.5691223144531,
+              150.77232360839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 315.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.5771179199219,
+              142.77232360839844,
+              506.4891052246094,
+              150.77232360839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "E ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              152.37229919433594,
+              418.9211120605469,
+              160.37229919433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              152.37229919433594,
+              455.569091796875,
+              160.37229919433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 345.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              152.37229919433594,
+              506.48907470703125,
+              160.37229919433594
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b6.png",
+            "bbox": [
+              342.297119140625,
+              154.8542938232422,
+              356.0011291503906,
+              163.8782958984375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b8.png",
+            "bbox": [
+              371.5771179199219,
+              154.8542938232422,
+              385.0411376953125,
+              163.8782958984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              161.97227478027344,
+              418.4731140136719,
+              169.97227478027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0011291503906,
+              161.97227478027344,
+              455.5691223144531,
+              169.97227478027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 375.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.5771179199219,
+              161.97227478027344,
+              506.4891052246094,
+              169.97227478027344
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b7.png",
+            "bbox": [
+              342.0,
+              164.0,
+              356.0,
+              167.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b9.png",
+            "bbox": [
+              371.0,
+              164.0,
+              385.0,
+              167.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "G ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              171.57225036621094,
+              419.8091125488281,
+              179.57225036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              171.57225036621094,
+              455.569091796875,
+              179.57225036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 405.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              171.57225036621094,
+              506.48907470703125,
+              179.57225036621094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "H ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              181.17222595214844,
+              419.3611145019531,
+              189.17222595214844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0011291503906,
+              181.17222595214844,
+              455.5691223144531,
+              189.17222595214844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 435.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.5771179199219,
+              181.17222595214844,
+              506.4891052246094,
+              189.17222595214844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "I ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              190.77220153808594,
+              415.8091125488281,
+              198.77220153808594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "600 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              190.77220153808594,
+              455.569091796875,
+              198.77220153808594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 465.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              190.77220153808594,
+              506.48907470703125,
+              198.77220153808594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "J ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              200.37217712402344,
+              417.5851135253906,
+              208.37217712402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "250 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              200.37217712402344,
+              455.569091796875,
+              208.37217712402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 499.5",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              200.37217712402344,
+              506.48907470703125,
+              208.37217712402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "K ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              411.3611145019531,
+              209.97215270996094,
+              418.9211120605469,
+              217.97215270996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "565 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              440.0010986328125,
+              209.97215270996094,
+              455.569091796875,
+              217.97215270996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 533.0",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              469.57708740234375,
+              209.97215270996094,
+              506.48907470703125,
+              217.97215270996094
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b21.png",
+            "bbox": [
+              301.0,
+              211.0,
+              335.0,
+              221.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 210",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              212.43736267089844,
+              330.4395751953125,
+              219.43736267089844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section A",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.22698974609375,
+              222.37680053710938,
+              380.0979919433594,
+              229.37680053710938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Notes:",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.5931091308594,
+              232.9401092529297,
+              424.7131042480469,
+              240.9401092529297
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b23.png",
+            "bbox": [
+              301.0,
+              233.0,
+              335.0,
+              243.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 240",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              234.62034606933594,
+              330.4395751953125,
+              241.62034606933594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section B",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.16400146484375,
+              244.91677856445312,
+              380.1610107421875,
+              251.91677856445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1. All cargo in sections A ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              404.1531066894531,
+              249.3160858154297,
+              494.9290771484375,
+              257.31610107421875
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b25.png",
+            "bbox": [
+              301.0,
+              255.0,
+              335.0,
+              265.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 270",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              257.1463928222656,
+              330.4395751953125,
+              264.1463928222656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "through J must be ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              258.9161071777344,
+              480.26507568359375,
+              266.9161071777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section C",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.02398681640625,
+              267.44976806640625,
+              380.3009948730469,
+              274.44976806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "supported on the seat",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              268.51611328125,
+              491.39306640625,
+              276.51611328125
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b27.png",
+            "bbox": [
+              301.0,
+              278.0,
+              335.0,
+              288.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tracks and secured to the",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              278.1161193847656,
+              503.83306884765625,
+              286.1161193847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 300",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              279.3293762207031,
+              330.4395751953125,
+              286.3293762207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "seat tracks and side seat",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              287.71612548828125,
+              502.4970703125,
+              295.71612548828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section D",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.08697509765625,
+              289.9827575683594,
+              380.2449645996094,
+              296.9827575683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rails by an FAA-approved ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              297.3161315917969,
+              506.48907470703125,
+              305.3161315917969
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b29.png",
+            "bbox": [
+              301.0,
+              300.0,
+              335.0,
+              310.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 330",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              302.19439697265625,
+              330.4395751953125,
+              309.19439697265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "system.",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              306.9161376953125,
+              441.569091796875,
+              314.9161376953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section E",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.3459777832031,
+              311.5777587890625,
+              379.9859924316406,
+              318.5777587890625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b31.png",
+            "bbox": [
+              301.0,
+              323.0,
+              335.0,
+              333.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 360",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              324.37738037109375,
+              330.4395751953125,
+              331.37738037109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2. Concentrated cargo loads",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              404.1531066894531,
+              326.11614990234375,
+              505.60906982421875,
+              334.11614990234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section F",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.53497314453125,
+              334.1107482910156,
+              379.78997802734375,
+              341.1107482910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in sections A through L",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              335.7161560058594,
+              495.39306640625,
+              343.7161560058594
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b33.png",
+            "bbox": [
+              301.0,
+              345.0,
+              335.0,
+              355.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "must not exceed 100 lb",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              345.316162109375,
+              496.7210693359375,
+              353.316162109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 390",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              346.90338134765625,
+              330.4395751953125,
+              353.90338134765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "per square foot.",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              354.9161682128906,
+              470.04107666015625,
+              362.9161682128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section G",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              347.9119873046875,
+              356.64373779296875,
+              380.41998291015625,
+              363.64373779296875
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b35.png",
+            "bbox": [
+              301.0,
+              367.0,
+              335.0,
+              377.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 420",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              369.0863952636719,
+              330.4395751953125,
+              376.0863952636719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3. Cargo in sections K and L",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              404.1531066894531,
+              374.1161804199219,
+              505.60906982421875,
+              382.1161804199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section H",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.0309753417969,
+              379.1767272949219,
+              380.30096435546875,
+              386.1767272949219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "must be retained by ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              383.7161865234375,
+              486.4970703125,
+              391.7161865234375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b41.png",
+            "bbox": [
+              301.0,
+              390.0,
+              335.0,
+              400.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 450",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              391.6123962402344,
+              330.4395751953125,
+              398.6123962402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "baggage webs and",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              393.3161926269531,
+              481.60906982421875,
+              401.3161926269531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section I",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              349.5569763183594,
+              401.24072265625,
+              378.77496337890625,
+              408.24072265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "partitions provided as part ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              402.91619873046875,
+              508.2730712890625,
+              410.91619873046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of standard airplane.",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              412.5162048339844,
+              486.93707275390625,
+              420.5162048339844
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b37.png",
+            "bbox": [
+              301.0,
+              413.0,
+              335.0,
+              423.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 480",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              305.61761474609375,
+              414.82037353515625,
+              330.4395751953125,
+              421.82037353515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sec",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              367.3719787597656,
+              422.2057189941406,
+              379.8879699707031,
+              429.2057189941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "J",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              371.69097900390625,
+              430.20672607421875,
+              375.5619812011719,
+              437.20672607421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4. Any exception to the",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              404.1531066894531,
+              431.7162170410156,
+              486.4970703125,
+              439.7162170410156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "F.S. 513.5",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              299.7381896972656,
+              439.0513916015625,
+              330.31414794921875,
+              446.0513916015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "above procedures ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.00909423828125,
+              441.31622314453125,
+              480.2730712890625,
+              449.31622314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section K",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 7.0,
+            "color": "#ED1D24",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              348.1709899902344,
+              445.36871337890625,
+              380.1609802246094,
+              452.36871337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "requires approval by a local ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.0010986328125,
+              450.9162292480469,
+              514.0410766601562,
+              458.9162292480469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FAA office. ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              414.0010986328125,
+              460.5162353515625,
+              455.35308837890625,
+              468.5162353515625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b4.png",
+            "bbox": [
+              329.09710693359375,
+              496.73431396484375,
+              413.2410888671875,
+              499.87835693359375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p90_b2.png",
+            "bbox": [
+              329.09710693359375,
+              497.81439208984375,
+              413.2410888671875,
+              504.9184265136719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Loading data for cargo configuration.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              332.0340881347656,
+              509.45806884765625,
+              469.7972106933594,
+              518.4580688476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The crew weight is 340 pounds and its moment/100 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              529.2699584960938,
+              524.508056640625,
+              539.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is 439.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              541.7699584960938,
+              338.6700134277344,
+              551.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The passengers and baggage have a weight of 3,950 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              558.7699584960938,
+              524.5000610351562,
+              568.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pounds and a moment/100 of 13,221.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              571.2699584960938,
+              461.1600036621094,
+              581.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The fuel is computed at 6.8 lb/gal. The ramp load is ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              588.2699584960938,
+              524.5,
+              598.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "340 gallons or 2,312 pounds. Fuel used for start and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              600.7699584960938,
+              524.5,
+              610.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "taxi is 20 gallons, or 136 pounds. Fuel remaining at ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              613.2699584960938,
+              524.5030517578125,
+              623.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "landing is 100 gallons, or 680 pounds.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              625.7699584960938,
+              464.780029296875,
+              635.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum takeoff weight is 16,600 pounds.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              642.7699584960938,
+              487.27001953125,
+              652.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum zero fuel weight is 14,000 pounds.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              659.7699584960938,
+              494.21002197265625,
+              669.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum landing weight is 16,000 pounds.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              312.0,
+              676.7699584960938,
+              488.9500427246094,
+              686.7699584960938
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 91,
+        "elements": []
+      },
+      {
+        "page_number": 92,
+        "elements": []
+      }
+    ]
+  }
+}

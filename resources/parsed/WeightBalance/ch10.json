@@ -1,0 +1,79 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 10",
+    "start_page": 93,
+    "end_page": 93,
+    "pages": [
+      {
+        "page_number": 93,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 10",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              43.474674224853516,
+              126.68800354003906,
+              59.474674224853516
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p93_b4.png",
+            "bbox": [
+              63.70000076293945,
+              53.69859313964844,
+              553.2999877929688,
+              193.37860107421875
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                "",
+                null
+              ],
+              [
+                "A\n14 CFR. See Title 14 of the Code of Federal Regulations.\n100-hour inspection. An inspection identical in scope to\nan annual inspection. Conducted every 100 hours of flight\non aircraft of under 12,500 pounds that are used to carry\npassengers for hire.\nAbsolute accuracy. The ability to determine present position\nin space independently, and is",
+                "",
+                null
+              ],
+              [
+                null,
+                null,
+                ""
+              ]
+            ],
+            "bbox": [
+              64.05000305175781,
+              65.93902587890625,
+              494.6199951171875,
+              306.75
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p93_b1.png",
+            "bbox": [
+              55.05000305175781,
+              155.8181915283203,
+              325.77001953125,
+              308.45819091796875
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

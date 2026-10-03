@@ -1,0 +1,1837 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 3",
+    "start_page": 33,
+    "end_page": 42,
+    "pages": [
+      {
+        "page_number": 33,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 3",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              43.474674224853516,
+              123.12000274658203,
+              59.474674224853516
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p33_b4.png",
+            "bbox": [
+              63.70000076293945,
+              53.69859313964844,
+              577.780029296875,
+              230.818603515625
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                ""
+              ]
+            ],
+            "bbox": [
+              64.05000305175781,
+              65.93902587890625,
+              528.8200073242188,
+              342.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p33_b1.png",
+            "bbox": [
+              55.05000305175781,
+              209.1818389892578,
+              325.77001953125,
+              343.1018371582031
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 34,
+        "elements": [
+          {
+            "type": "text",
+            "text": "balance record started. The A&P FAA-certificatedmechanic ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0099792480469,
+              44.2727165222168,
+              524.5379638671875,
+              54.2727165222168
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Requirements",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              44.97305679321289,
+              115.6199951171875,
+              56.97305679321289
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or repairman responsible for the work must provide the pilot ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0099792480469,
+              56.7727165222168,
+              524.5150146484375,
+              66.77272033691406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regulations do not require periodic weighing of privately ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              62.6226921081543,
+              275.5119934082031,
+              72.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with current and accurate aircraft weight information and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0099792480469,
+              69.27272033691406,
+              524.5089111328125,
+              79.27272033691406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "owned and operated aircraft. Such aircraft are usually ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              75.12269592285156,
+              275.4169006347656,
+              85.12269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "location of the EWCG.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0099792480469,
+              81.77272033691406,
+              377.219970703125,
+              91.77272033691406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weighed when originally certificatedor after major alterations ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              87.62269592285156,
+              275.4320373535156,
+              97.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "that can affect the weight and balance. The primary purpose ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              100.12269592285156,
+              275.5040283203125,
+              110.12269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Equipment for Weighing",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              105.17031860351562,
+              422.915771484375,
+              117.17031860351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of aircraft weight and balance control is safety. Manufacturers ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              112.62269592285156,
+              275.5379638671875,
+              122.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weighing aircraft with accurately calibrated scales is the only ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              122.81996154785156,
+              524.6402587890625,
+              132.81996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conduct extensive flight tests to establish loading limits ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              125.12269592285156,
+              275.39385986328125,
+              135.12269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sure method of obtaining an accurate empty weight and CG ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              135.31996154785156,
+              524.4979858398438,
+              145.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for their aircraft because limit information is critical for ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              137.62269592285156,
+              275.360107421875,
+              147.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "location. The two basic types of scales used to weigh aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              147.81996154785156,
+              524.557861328125,
+              157.81996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "safe flight. A secondary purpose is to aid efficiency during ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              150.12269592285156,
+              275.50201416015625,
+              160.12269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are platform and load cell.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              160.31996154785156,
+              390.2499694824219,
+              170.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight. Overloading of the aircraft is not the only concern; ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              162.62269592285156,
+              275.5060119628906,
+              172.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the distribution of the weight is important also. The aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              175.12269592285156,
+              275.5099792480469,
+              185.12269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Platform scales ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              185.31996154785156,
+              358.530029296875,
+              195.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has CG limits, and any loading that places the CG outside ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              187.62269592285156,
+              275.5030212402344,
+              197.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "[Figure 3-2]",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              285.0,
+              197.79185485839844,
+              338.0700378417969,
+              207.79185485839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the established limits seriously impairs controllability of ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              200.12269592285156,
+              275.6201171875,
+              210.12269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "platform scale) are low profi e, easy to handle, safe, and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              210.31996154785156,
+              524.5203247070312,
+              220.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              212.62269592285156,
+              82.09001159667969,
+              222.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reliable. Tow or push the aircraft wheels or skids onto the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              222.81996154785156,
+              524.5029907226562,
+              232.81996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "scale pad at ground level. With one scale per wheel, each ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              235.31996154785156,
+              524.5050048828125,
+              245.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight and balance is of such vital importance that each ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              237.62269592285156,
+              275.5050048828125,
+              247.62269592285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "device should be capable of measuring up to at least 60,000 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              247.81996154785156,
+              524.5000610351562,
+              257.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Federal Aviation Administration (FAA) certificated ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              250.12269592285156,
+              275.5828857421875,
+              260.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pounds since the weight on each wheel rarely exceeds this ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              260.3199462890625,
+              524.5030517578125,
+              270.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mechanic or repairman maintaining an aircraft must be fully ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              262.6226806640625,
+              275.51702880859375,
+              272.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "figure",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              272.8199462890625,
+              308.8799743652344,
+              282.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aware of his or her responsibility to provide the pilot with ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              275.1226806640625,
+              275.5020446777344,
+              285.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "current and accurate information for the actual weight of the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              287.6226806640625,
+              275.5050354003906,
+              297.6226806640625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p34_b2.png",
+            "bbox": [
+              284.0,
+              289.6590881347656,
+              523.5,
+              456.6590881347656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft and the location of the CG. The pilot in command ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              300.1226806640625,
+              275.5099792480469,
+              310.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(PIC) is responsible for knowing the weight of the load, CG, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              312.6226806640625,
+              275.4980163574219,
+              322.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximum allowable weight, and CG limits of the aircraft. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              325.1226806640625,
+              275.50799560546875,
+              335.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The weight and balance report must include an equipment ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              337.6226806640625,
+              275.5080261230469,
+              347.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "list showing weights and moment arms of all required and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              350.1226806640625,
+              275.5020446777344,
+              360.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "optional items of equipment included in the certificate  ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              362.6226806640625,
+              275.629150390625,
+              372.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "empty weight.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              375.1226806640625,
+              93.22000122070312,
+              385.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight and balance records used in accounting for and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              400.1226806640625,
+              275.6130065917969,
+              410.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "correcting the CG location are reliable for only limited ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              412.6226806640625,
+              275.591796875,
+              422.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "periods of time. For this reason, periodic aircraft weighing is ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              425.1226806640625,
+              275.3310546875,
+              435.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "desirable. An aircraft should be reweighed and a new weight ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              437.6226806640625,
+              275.57501220703125,
+              447.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and balance record should be started after the aircraft has ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              450.1226806640625,
+              275.5000915527344,
+              460.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "undergone extensive repair or major alteration, when the pilot ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              462.6226806640625,
+              275.4671630859375,
+              472.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 3-1. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              464.85260009765625,
+              327.67999267578125,
+              472.85260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reports unsatisfactory flight characteristics (e.g., nose or tail ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              475.1226806640625,
+              275.510009765625,
+              485.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heaviness), and when recorded weight and balance data are ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              487.6226806640625,
+              275.5030212402344,
+              497.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Load cell scales [Figure 3-3] are also a reliable means to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              497.8199462890625,
+              524.5020141601562,
+              507.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "suspected to be in error.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              500.1226806640625,
+              131.8100128173828,
+              510.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weigh aircraft and are typically cheaper than the platform ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              510.3199462890625,
+              524.5230712890625,
+              520.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "type.Using load cell scales allows for the aircraft to be set ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              522.8199462890625,
+              524.5020141601562,
+              532.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Repairs and alterations are major sources of weight change. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              525.1226806640625,
+              275.5050354003906,
+              535.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "up and weighed in its level flight attitude. With this method, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              535.3199462890625,
+              524.5050048828125,
+              545.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The airframe and powerplant (A&P) FAA-certificated ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              537.6226806640625,
+              275.3859558105469,
+              547.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the aircraft is placed on jacks with electronic load cells ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              547.8199462890625,
+              524.6377563476562,
+              557.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mechanic or repairman who is responsible for making any ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              550.1226806640625,
+              275.5110168457031,
+              560.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "placed between the jack and the jack pad on the aircraft. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              560.3199462890625,
+              524.508056640625,
+              570.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "repair or alteration must:",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              562.6226806640625,
+              135.15000915527344,
+              572.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft is raised on the jacks until the wheels or skids ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              572.8199462890625,
+              524.4999389648438,
+              582.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              579.6226806640625,
+              55.0,
+              589.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Establish by computation that the authorized weight ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              579.6226806640625,
+              275.5110168457031,
+              589.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are off the floor and the aircraft is in a level flight attitude. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              585.3199462890625,
+              524.5119018554688,
+              595.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and CG limits as shown in the type certificate data ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              592.1226806640625,
+              275.5050048828125,
+              602.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The weight measured by each load cell is indicated on the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              597.8199462890625,
+              524.5071411132812,
+              607.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sheet (TCDS) and aircraft specifications are not ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              604.6226806640625,
+              275.37200927734375,
+              614.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "control panel. Jacking an aircraft off the ground from all ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              610.3199462890625,
+              524.5032958984375,
+              620.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "exceeded, and",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              617.1226806640625,
+              119.6400146484375,
+              627.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "load points can be an inconvenience, as well as a safety ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              622.8199462890625,
+              524.6193237304688,
+              632.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.\t",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              45.0,
+              634.1226806640625,
+              55.0,
+              644.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Record the new empty weight center of gravity ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              634.1226806640625,
+              275.5749206542969,
+              644.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "risk, which some operators would rather avoid by opting for ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              635.3199462890625,
+              524.5,
+              645.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(EWCG) data in the current approved aircraft flight",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              646.6226806640625,
+              273.5540466308594,
+              656.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "more expensive—but simpler to use—platform equipment. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              647.8199462890625,
+              524.510009765625,
+              657.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "manual or issued operating limitations.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              63.0,
+              659.1226806640625,
+              218.8300018310547,
+              669.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In addition, weighing with platform scales typically takes ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              660.3199462890625,
+              524.5250854492188,
+              670.3199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "only one-third of the time needed to weigh with load cells.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              672.8199462890625,
+              519.1400146484375,
+              682.8199462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When an aircraft has undergone extensive repair or major ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              684.1226806640625,
+              275.5099792480469,
+              694.1226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "alteration, it should be reweighed and a new weight and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.009979248046875,
+              696.6226806640625,
+              275.6251220703125,
+              706.6226806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "[Figure 3-1]",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              360.3399963378906,
+              185.29185485839844,
+              418.5800476074219,
+              195.29185485839844
+            ]
+          },
+          {
+            "type": "text",
+            "text": " or ramp wheel scales ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              419.1499938964844,
+              185.31996154785156,
+              524.4910278320312,
+              195.31996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": " (usually a form or modified version of the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              338.20001220703125,
+              197.81996154785156,
+              524.402099609375,
+              207.81996154785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Platform scales.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              327.6758117675781,
+              463.7722473144531,
+              386.1758728027344,
+              472.7722473144531
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 35,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p35_b2.png",
+            "bbox": [
+              72.0,
+              44.6136474609375,
+              558.0,
+              357.5736389160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ramp scales.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              114.67579650878906,
+              365.5676574707031,
+              162.16880798339844,
+              374.5676574707031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 3-2. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              366.64801025390625,
+              114.67999267578125,
+              374.64801025390625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p35_b4.png",
+            "bbox": [
+              72.0,
+              385.79998779296875,
+              308.8800048828125,
+              690.3599853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Load cell scales.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              114.67579650878906,
+              698.317626953125,
+              174.92181396484375,
+              707.317626953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 3-3. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              699.3980102539062,
+              114.67999267578125,
+              707.3980102539062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "All scales for aviation use, manual or electronic, must be ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              386.51995849609375,
+              560.5031127929688,
+              396.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "protected when stored or shipped, and they must be checked ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              399.01995849609375,
+              560.5039672851562,
+              409.01995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "periodically for accuracy. The maximum recognized period ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              411.51995849609375,
+              560.5029907226562,
+              421.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "between calibration checks is 12 months; however, this period ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              424.01995849609375,
+              560.4412231445312,
+              434.01995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may be reduced by an airworthiness authority dependent on ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              436.51995849609375,
+              560.4999389648438,
+              446.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the conditions of use. Scales in daily use may require a shorter ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              449.01995849609375,
+              560.39599609375,
+              459.01995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "interval and/or testing to determine the continued accuracy ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              461.51995849609375,
+              560.508056640625,
+              471.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the unit. Scales should be returned to the manufacturer for ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              474.01995849609375,
+              560.5579223632812,
+              484.01995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "proper calibration and testing. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              486.51995849609375,
+              443.47998046875,
+              496.51995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Preparation for Weighing",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              509.9203186035156,
+              463.52374267578125,
+              521.9203491210938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In general, weight procedures may vary with the aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              527.5699462890625,
+              560.4067993164062,
+              537.5699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and types of weight equipment employed. The weighing ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              540.0699462890625,
+              560.3624877929688,
+              550.0699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "procedure contained in the manufacturer’s maintenance ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              552.5699462890625,
+              560.4988403320312,
+              562.5699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "manual should be followed for each particular aircraft. The ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              565.0699462890625,
+              560.5029907226562,
+              575.0699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "major considerations in preparing an aircraft for weighing ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              577.5699462890625,
+              560.5069580078125,
+              587.5699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are described in the following paragraphs.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              590.0699462890625,
+              489.28997802734375,
+              600.0699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Scale Preparation",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              614.9308471679688,
+              405.47998046875,
+              624.9308471679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mechanical and electronic scales shall be inspected prior to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              628.0699462890625,
+              560.502197265625,
+              638.0699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "use and set to zero. This is done by adding and removing ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              640.5699462890625,
+              560.5050659179688,
+              650.5699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a weight, then rechecking for zero. This process should be ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              653.0699462890625,
+              560.5040893554688,
+              663.0699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "repeated until a steady zero setting is obtained. The scales ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              665.5699462890625,
+              560.5030517578125,
+              675.5699462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "should be located in the same environment in which they ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              321.0,
+              678.0699462890625,
+              560.5050659179688,
+              688.0699462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 36,
+        "elements": []
+      },
+      {
+        "page_number": 37,
+        "elements": []
+      },
+      {
+        "page_number": 38,
+        "elements": []
+      },
+      {
+        "page_number": 39,
+        "elements": []
+      },
+      {
+        "page_number": 40,
+        "elements": []
+      },
+      {
+        "page_number": 41,
+        "elements": []
+      },
+      {
+        "page_number": 42,
+        "elements": []
+      }
+    ]
+  }
+}

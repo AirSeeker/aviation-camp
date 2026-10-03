@@ -1,0 +1,876 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 9",
+    "start_page": 110,
+    "end_page": 115,
+    "pages": [
+      {
+        "page_number": 110,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p110_b2.png",
+            "bbox": [
+              59.34000015258789,
+              64.1399917602539,
+              551.8800048828125,
+              190.67999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Global Circulations and Jet Streams ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              510.68499755859375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Global circulations explain how air and storm systems, which have potential impacts on aircraft operations, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.8049926757812,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "travel over the Earth’s surface. Jet streams are relatively narrow bands of strong wind in the upper levels of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.6055908203125,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the atmosphere. This chapter will discuss global circulations and jet streams. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              412.10498046875,
+              174.8424530029297
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 111,
+        "elements": []
+      },
+      {
+        "page_number": 112,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p112_b10.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.9400024414062,
+              411.8500061035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-2. Earth Circulation System ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              424.3351135253906,
+              222.60501098632812,
+              434.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Between each of these circulation cells are bands of high and low pressure at the surface. The high-pressure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              448.8824462890625,
+              542.7813720703125,
+              459.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "band is located about 30° N/S latitude and at each pole. Low-pressure bands are found at the Equator ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              461.4824523925781,
+              542.7213745117188,
+              472.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and 50° to 60° N/S latitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              474.1424560546875,
+              196.625,
+              485.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Usually, fair and dry/hot weather is associated with high pressure, and rainy and stormy weather is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.8024597167969,
+              542.7725219726562,
+              503.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "associated with low pressure. The results of these circulations become evident on a globe. Consider ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              505.4624328613281,
+              542.722412109375,
+              516.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the number of deserts located along the 30° N/S latitude around the world compared to the region ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              518.1223754882812,
+              542.6845092773438,
+              529.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "between 50°–60° N/S latitude. The higher latitudes, especially near the west coast of continents, tend to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.7824096679688,
+              542.4336547851562,
+              541.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have more precipitation due to more storms moving around the Earth at these latitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              543.4424438476562,
+              457.8249816894531,
+              554.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.260498046875,
+              88.2750015258789,
+              581.2804565429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Jet Streams ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              568.260498046875,
+              163.65499877929688,
+              581.2804565429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Jet streams are relatively narrow bands of strong wind in the upper levels of the atmosphere. The winds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              588.982421875,
+              542.72412109375,
+              599.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "blow from west to east in jet streams, but the flow often meanders southward and northward in waves. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              601.6423950195312,
+              542.4158325195312,
+              612.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Jet streams follow the boundaries between hot and cold air. Since these hot and cold air boundaries are most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              614.3024291992188,
+              542.5877075195312,
+              625.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pronounced in winter, jet streams are the strongest for both the Northern and Southern Hemisphere winters. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              626.96240234375,
+              542.8049926757812,
+              637.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9.4.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              651.8405151367188,
+              97.98790740966797,
+              664.8604736328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Direction of Wind Flow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              651.8405151367188,
+              236.5550079345703,
+              664.8604736328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Why do the jet stream winds blow from west to east? As stated in the previous section, if the Earth was not ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              672.5624389648438,
+              542.5256958007812,
+              683.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rotating, the warm air would rise at the Equator and move toward both the poles. The Earth’s rotation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              685.242431640625,
+              542.7755737304688,
+              696.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "divides this circulation into three cells. Likewise, the Earth’s rotation is responsible for the jet stream. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              697.9024047851562,
+              521.9049682617188,
+              708.8824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 113,
+        "elements": [
+          {
+            "type": "text",
+            "text": "The motion of the air is not directly north and south, but rather is affected by the momentum the air has as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3280639648438,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "it moves away from the Equator and how fast a location on or above the Earth moves relative to the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.6359252929688,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth’s axis. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              129.72500610351562,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An object’s speed relative to the Earth’s axis depends on its location. Someone standing on the Equator is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.51123046875,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "moving much faster than someone standing on a 45-degree latitude line. In Figure 9-3, the person at the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.7162475585938,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "position on the Equator arrives at the yellow line sooner than the other two. Someone standing on a pole is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.5366821289062,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not moving at all (except that person would be slowly spinning). The speed of the rotation is great enough ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.5243530273438,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to cause a person to weigh 1 pound (lb) less at the Equator than they would at the North or South Pole. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              526.2849731445312,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p113_b9.png",
+            "bbox": [
+              198.0,
+              195.69000244140625,
+              413.97998046875,
+              429.3399963378906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-3. Speed Relative to the Earth’s Axis Versus Latitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              441.55511474609375,
+              325.64501953125,
+              451.5751037597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The momentum of air as it travels around the Earth is conserved, which means as the air that is over the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.0424499511719,
+              542.35009765625,
+              477.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Equator starts moving toward one of the poles, it keeps its eastward motion constant. The Earth below the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              478.70245361328125,
+              542.3169555664062,
+              489.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air, however, moves slower, as that air travels toward the poles. The result is that the air moves faster and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              491.3624572753906,
+              542.547119140625,
+              502.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "faster in an easterly direction (relative to the Earth’s surface below) the farther it moves from the Equator. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              504.0224304199219,
+              540.885009765625,
+              515.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "9.4.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              528.9005126953125,
+              97.98790740966797,
+              541.9204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Location ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              528.9005126953125,
+              157.47500610351562,
+              541.9204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In addition, with the three cell circulations mentioned previously, the regions around 30° N/S and  ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              549.6224365234375,
+              545.5650024414062,
+              560.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "50°–60° N/S are areas where temperature changes are the greatest (see Figure 9-4). As the difference in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              562.222412109375,
+              542.73095703125,
+              573.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature between the two locations increases, the strength of the wind increases. Therefore, the regions ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              574.8823852539062,
+              542.5368041992188,
+              585.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "around 30° N/S and 50°–60° N/S are also regions where the wind in the upper atmosphere is the strongest. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              587.5424194335938,
+              542.8049926757812,
+              598.5224609375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 114,
+        "elements": []
+      },
+      {
+        "page_number": 115,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p115_b6.png",
+            "bbox": [
+              198.0,
+              76.50001525878906,
+              413.95001220703125,
+              206.95001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 9-6. Jet Stream Wind Speeds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              218.81512451171875,
+              218.885009765625,
+              228.8351287841797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The jet stream is often indicated by a line on maps and is displayed this way by television meteorologists. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              243.36245727539062,
+              542.6893310546875,
+              254.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The line generally points to the location of the strongest wind (see Figure 9-6). In reality, jet streams are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              255.96243286132812,
+              542.7176513671875,
+              266.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "typically much wider. A jet stream is a region where winds increase toward a core of highest speed, rather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              268.6224670410156,
+              542.7630004882812,
+              279.6024475097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than just a distinct location. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              281.2824401855469,
+              196.02499389648438,
+              292.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "One way of visualizing this is to consider a river. The river’s current is generally the strongest in the center, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              299.94244384765625,
+              542.709716796875,
+              310.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with decreasing strength as one approaches the river’s bank. It can be said that jet streams are rivers of air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              312.6024475097656,
+              542.8049926757812,
+              323.5824279785156
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

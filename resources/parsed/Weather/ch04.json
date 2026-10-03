@@ -1,0 +1,2020 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 4",
+    "start_page": 61,
+    "end_page": 66,
+    "pages": [
+      {
+        "page_number": 61,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p61_b2.png",
+            "bbox": [
+              60.540000915527344,
+              65.33998107910156,
+              553.0800170898438,
+              240.47998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Earth’s Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              383.06500244140625,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Earth’s atmosphere is a cloud of gas and suspended solids extending from the surface out many ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.7734985351562,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thousands of miles, becoming thinner with distance but always held by the Earth’s gravitational pull. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.7431640625,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmosphere is made up of layers surrounding the Earth that holds the air that people breathe, protects us ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.7202758789062,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from outer space, and holds moisture (e.g., vapor, clouds, and precipitation), gases, and tiny particles. In ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.3607788085938,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "short, the atmosphere is the protective bubble that people live in.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              356.7694091796875,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter covers the atmosphere’s composition and vertical structure and the standard atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.84243774414062,
+              522.2050170898438,
+              218.8224334716797
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 62,
+        "elements": [
+          {
+            "type": "text",
+            "text": "4.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              88.2750015258789,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Composition ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              79.6404800415039,
+              171.2150115966797,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Earth’s atmosphere consists of numerous gases (see Table 4-1) with nitrogen, oxygen, argon, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.74072265625,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "carbon dioxide making up 99.998 percent of all gases. Nitrogen, by far the most common, dilutes oxygen ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.4156494140625,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and prevents rapid burning at the Earth’s surface. Living things need it to make proteins. Oxygen is used ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.7489624023438,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by all living things and is essential for respiration. Plants use carbon dioxide to make oxygen. Carbon ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.668701171875,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "dioxide also acts as a blanket and prevents the escape of heat to outer space. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              409.1650085449219,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Table 4-1. Approximations of the Composition of a Dry Earth’s Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              175.4951171875,
+              381.44500732421875,
+              185.51512145996094
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                "ft above the aerodr",
+                "o",
+                "m",
+                "e elevati",
+                "o",
+                "n",
+                "or into the FAS, as applica",
+                "b"
+              ],
+              [
+                "to continue the appro\ne operating minima. T",
+                null,
+                null,
+                "ach applies\nhere is no p",
+                null,
+                null,
+                "only if the RVR is reported a\nrohibition based on VIS.",
+                null,
+                null
+              ],
+              [
+                "RVR is 550 m or great",
+                null,
+                null,
+                "er, but it is le",
+                null,
+                null,
+                "ss than the RVR calculated in",
+                null,
+                null
+              ],
+              [
+                "MPA.110, a go-around",
+                null,
+                null,
+                "is likely to b",
+                null,
+                null,
+                "e necessary since visual refe",
+                null,
+                null
+              ],
+              [
+                "he DH or MDH. Simila",
+                null,
+                null,
+                "rly, in the ab",
+                null,
+                null,
+                "sence of an RVR report, the",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                "",
+                null,
+                null,
+                "",
+                null,
+                null
+              ],
+              [
+                "",
+                "",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                ""
+              ],
+              [
+                null,
+                "",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ],
+              [
+                null,
+                "",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              166.88197026487256,
+              195.62000868055554,
+              445.238040111104,
+              603.3399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather (the state of the atmosphere at any given time and place) strongly influences daily routine as well ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              619.702392578125,
+              542.6195678710938,
+              630.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as general life patterns. Virtually all of our activities are affected by weather, but, of all of our endeavors, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              632.3624267578125,
+              542.7515869140625,
+              643.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "perhaps none more so than aviation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              645.0223999023438,
+              233.58499145507812,
+              656.00244140625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 63,
+        "elements": [
+          {
+            "type": "text",
+            "text": "4.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              97.98790740966797,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Air Parcel ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              73.6404800415039,
+              164.31500244140625,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An air parcel is an imaginary volume of air to which any or all of the basic properties of atmospheric air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.3168334960938,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may be assigned. A parcel is large enough to contain a very large number of molecules, but small enough ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.3829956054688,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "so that the properties assigned to it are approximately uniform. It is not given precise numerical definition, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.6076049804688,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "but a cubic centimeter of air might fit well into most contexts where air parcels are discussed. In ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.8049926757812,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "meteorology, an air parcel is used as a tool to describe certain atmospheric processes, and air parcels will ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              542.7595825195312,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be referred to in this handbook. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              157.62246704101562,
+              212.8249969482422,
+              168.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.50047302246094,
+              88.2750015258789,
+              195.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Vertical Structure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              182.50047302246094,
+              196.8350067138672,
+              195.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Earth’s atmosphere is subdivided into five concentric layers (see Figure 4-1) based on the vertical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              203.22244262695312,
+              542.6954345703125,
+              214.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "profile of average air temperature changes, chemical composition, movement, and density. Each of the five ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.88241577148438,
+              542.7515258789062,
+              226.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "layers is topped by a pause, where the maximum changes in thermal characteristics, chemical composition, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              228.54244995117188,
+              542.6654663085938,
+              239.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "movement, and density occur. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              241.20242309570312,
+              207.06500244140625,
+              252.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              266.0204772949219,
+              97.98790740966797,
+              279.0404968261719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Troposphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              266.0204772949219,
+              176.97500610351562,
+              279.0404968261719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The troposphere begins at the Earth’s surface and extends up to about 11 kilometers (km) (36,000 ft) high. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              286.742431640625,
+              542.7408447265625,
+              297.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This is where people live. As the gases in this layer decrease with height, the air becomes thinner. Therefore, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              299.4024353027344,
+              542.6275024414062,
+              310.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the temperature in the troposphere also decreases with height. Climbing higher, the temperature drops from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              312.06243896484375,
+              542.7039794921875,
+              323.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "about 15 degrees Celsius (°C) [59 degrees Fahrenheit (°F)] to -56.5 °C (-70 °F). Almost all weather occurs ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              324.7224426269531,
+              542.7479248046875,
+              335.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in this region. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              337.3824462890625,
+              135.5449981689453,
+              348.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The vertical depth of the troposphere varies due to temperature variations that are closely associated with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.9824523925781,
+              542.7159423828125,
+              366.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "latitude and season. It decreases from the Equator to the poles and is higher during summer than in winter. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.6424560546875,
+              542.4378051757812,
+              379.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "At the Equator, it is around 18–20 km [11–12 miles (mi)] high; at 50° N and 50° S latitude, 9 km (5.6 mi) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.3024597167969,
+              542.8049926757812,
+              392.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high; and at the poles, 6 km (3.7 mi) high. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              393.9624328613281,
+              259.864990234375,
+              404.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The lowest portion of the troposphere is known as the planetary boundary layer. The height of the boundary ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              412.6424560546875,
+              542.7244873046875,
+              423.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "layer varies depending on terrain and time of day and is directly affected by surface heating and cooling. It ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.3024597167969,
+              542.7092895507812,
+              436.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has an important role in transporting heat and moisture into the atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.9624328613281,
+              408.3249816894531,
+              448.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The transition boundary between the troposphere and the layer above is called the tropopause. Both the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              456.56243896484375,
+              542.4158325195312,
+              467.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tropopause and the troposphere are known as the lower atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              469.2224426269531,
+              373.4649963378906,
+              480.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.1004638671875,
+              97.98790740966797,
+              507.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Stratosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              494.1004638671875,
+              176.2550048828125,
+              507.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The stratosphere extends from the tropopause up to 50 km (31 mi) above the Earth’s surface. This layer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              514.8224487304688,
+              542.726806640625,
+              525.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "holds 19 percent of the atmosphere’s gases but very little water vapor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              527.482421875,
+              383.364990234375,
+              538.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature increases with height as radiation is increasingly absorbed by oxygen molecules, leading to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.1423950195312,
+              542.4049682617188,
+              557.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the formation of ozone. The temperature rises from an average -56.6 °C (-70 °F) at the tropopause to a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.742431640625,
+              542.7757568359375,
+              569.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximum of about -3 °C (27 °F) at the stratopause due to this absorption of ultraviolet radiation. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              571.4024047851562,
+              542.515625,
+              582.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increasing temperature also makes it a calm layer, with movements of the gases being slow. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              584.0624389648438,
+              478.5849914550781,
+              595.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Commercial aircraft often cruise in the lower stratosphere to avoid atmospheric turbulence and convection ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              602.722412109375,
+              542.5366821289062,
+              613.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the troposphere. Severe turbulence during the cruise phase of flight can be caused by the convective ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              615.3823852539062,
+              542.4158325195312,
+              626.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "overshoot of thunderstorms from the troposphere below. The disadvantages of flying in the stratosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              627.982421875,
+              542.5398559570312,
+              638.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "can include increased fuel consumption due to warmer temperatures, increased levels of radiation, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              640.6423950195312,
+              542.3391723632812,
+              651.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increased concentration of ozone. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              653.3024291992188,
+              222.60499572753906,
+              664.282470703125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 64,
+        "elements": [
+          {
+            "type": "text",
+            "text": "4.3.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              97.98790740966797,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mesosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              73.6404800415039,
+              174.09500122070312,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The mesosphere extends from the stratopause to about 85 km (53 mi) above the Earth. The gases, including ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.7084350585938,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the number of oxygen molecules, continue to become thinner and thinner with height. As such, the effect ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.3279418945312,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the warming by ultraviolet radiation also becomes less and less pronounced, leading to a decrease in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.8049926757812,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature with height. On average, temperature decreases from about -3 °C (27 °F) to as low as -100 °C ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.30245971679688,
+              542.776611328125,
+              143.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(-148 °F) at the mesopause. However, the gases in the mesosphere are thick enough to slow down meteorites ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.96243286132812,
+              542.7535400390625,
+              155.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hurtling into the atmosphere, where they burn up, leaving fiery trails in the night sky. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              157.62246704101562,
+              449.60498046875,
+              168.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.50047302246094,
+              97.98790740966797,
+              195.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thermosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              182.50047302246094,
+              186.3350067138672,
+              195.5204620361328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The thermosphere extends from the mesopause to 690 km (430 mi) above the Earth. This layer is known as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              203.22244262695312,
+              542.6913452148438,
+              214.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the upper atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.88241577148438,
+              172.2050018310547,
+              226.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The gases of the thermosphere become increasingly thin compared to the mesosphere. As such, only the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              234.54244995117188,
+              542.7157592773438,
+              245.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "higher energy ultraviolet and x ray radiation from the Sun is absorbed. But because of this absorption, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              247.14242553710938,
+              542.558349609375,
+              258.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature increases with height and can reach as high as 2,000 °C (3,600 °F) near the top of this layer. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.8024597167969,
+              535.0449829101562,
+              270.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Despite the high temperature, this layer of the atmosphere would still feel very cold to our skin because of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.4624328613281,
+              542.7354736328125,
+              289.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the extremely thin air. The total amount of energy from the very few molecules in this layer is not sufficient ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              291.1224365234375,
+              542.5147705078125,
+              302.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "enough to heat our skin. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              303.7824401855469,
+              180.7849884033203,
+              314.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.3.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              328.6604919433594,
+              97.98790740966797,
+              341.6805114746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Exosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              328.6604919433594,
+              166.11500549316406,
+              341.6805114746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The exosphere is the outermost layer of the atmosphere and extends from the thermopause to 10,000 km ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              349.3824462890625,
+              542.8049926757812,
+              360.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(6,200 mi) above the Earth. In this layer, atoms and molecules escape into space and satellites orbit the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              361.9824523925781,
+              542.426513671875,
+              372.9624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth. The transition boundary that separates the exosphere from the thermosphere is called the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              374.6424560546875,
+              542.3829345703125,
+              385.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thermopause. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.3024597167969,
+              133.7449951171875,
+              398.2824401855469
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 65,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p65_b8.png",
+            "bbox": [
+              90.0,
+              72.0,
+              521.969970703125,
+              506.95001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The regions of the stratosphere and the mesosphere, along with the stratopause and mesopause, are called ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              94.31999969482422,
+              514.3351440429688,
+              515.1099243164062,
+              524.3551635742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the middle atmosphere. The transition boundary that separates the stratosphere from the mesosphere is ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              94.31999969482422,
+              525.7951049804688,
+              514.9395141601562,
+              535.8151245117188
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              182.77999877929688,
+              537.4424438476562,
+              188.2849884033203,
+              548.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "called the stratopause",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              94.31999969482422,
+              538.2151489257812,
+              182.7264404296875,
+              548.2351684570312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Please note that in this figure the temperature is not necessarily to scale with the ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              188.3000030517578,
+              538.2151489257812,
+              514.951904296875,
+              548.2351684570312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "height but provides an approximation of how the temperature changes with height",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              94.31999969482422,
+              550.8751220703125,
+              423.4670715332031,
+              560.8951416015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-1. Vertical Structure of the Atmosphere",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.6351318359375,
+              267.2859191894531,
+              578.6551513671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              593.4005126953125,
+              88.2750015258789,
+              606.4204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Standard Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              593.4005126953125,
+              240.57501220703125,
+              606.4204711914062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continuous fluctuations of atmospheric properties create problems for engineers and meteorologists who ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              614.1224365234375,
+              542.427001953125,
+              625.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "need a fixed standard for reference. To solve this problem, they defined a standard atmosphere that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              626.7824096679688,
+              542.8049926757812,
+              637.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "represents an average of conditions throughout the atmosphere for all latitudes, seasons, and altitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              639.4424438476562,
+              523.1649780273438,
+              650.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Standard atmosphere is a hypothetical vertical distribution of atmospheric temperature, pressure, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              658.0424194335938,
+              542.43798828125,
+              669.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "density that, by international agreement, is taken to be representative of the atmosphere for purposes of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              670.702392578125,
+              542.3390502929688,
+              681.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressure altimeter calibrations, aircraft performance calculations, aircraft and missile design, ballistic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              683.3823852539062,
+              542.6004638671875,
+              694.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tables, etc. (see Table 4-2 and Figure 4-2). Weather-related processes are generally referenced to the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              696.0424194335938,
+              542.6405029296875,
+              707.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "standard atmosphere, as are the examples in this handbook. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              708.702392578125,
+              335.6650085449219,
+              719.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": ". ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              423.5199890136719,
+              550.1024169921875,
+              428.9649963378906,
+              561.0824584960938
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 66,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Table 4-2. Selected Properties of the Standard Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.29510498046875,
+              310.0249938964844,
+              83.31510925292969
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "(1) The aircraft. The category of\nhelicopter/aeroplane,",
+                "a",
+                "ir\ns",
+                "craft to be used for the act\ningle/multi-engined,",
+                "i",
+                "vi\no",
+                "ty should be indicated (e.g.\nther-than complex"
+              ],
+              [
+                "motor-powered/complex mo\n(NOTAR) equipped). In partic",
+                null,
+                "tor-powered, classic tail ro\nular, for helicopters, the n",
+                null,
+                null,
+                "tor/Fenestron/no tail rotor",
+                null
+              ],
+              [
+                "",
+                null,
+                "",
+                null,
+                null,
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                "",
+                null,
+                null,
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                "",
+                null,
+                null,
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                "",
+                null,
+                null,
+                "",
+                null
+              ],
+              [
+                "",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              86.4739525373592,
+              93.41999647352431,
+              525.6093082871548,
+              305.239990234375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p66_b13.png",
+            "bbox": [
+              90.0,
+              336.75,
+              521.9500122070312,
+              669.5499877929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-2. U.S. Standard Atmosphere Within the Troposphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              681.5751342773438,
+              326.7250061035156,
+              691.5951538085938
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

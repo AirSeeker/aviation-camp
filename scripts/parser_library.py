@@ -9,6 +9,7 @@ import json
 import logging
 import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from typing import Any
 from urllib.error import URLError
@@ -477,6 +478,18 @@ def process_book(
     return output_path
 
 
+def filter_books(books: list[dict[str, Any]], requested_ids: list[str] | None = None) -> list[dict[str, Any]]:
+    if not requested_ids:
+        return books
+
+    requested_set = {safe_book_id(value) for value in requested_ids}
+    available_ids = {safe_book_id(book["book_id"]) for book in books}
+    missing = sorted(requested_set - available_ids)
+    if missing:
+        raise ValueError(f"Requested book_id values not found in manifest: {', '.join(missing)}")
+    return [book for book in books if safe_book_id(book["book_id"]) in requested_set]
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -500,26 +513,68 @@ def main(argv: list[str] | None = None) -> int:
     )
     parser.add_argument("--timeout", type=float, default=30.0, help="Network timeout in seconds (default: 30)")
     parser.add_argument("--retries", type=int, default=3, help="Download retry count (default: 3)")
+    parser.add_argument(
+        "--jobs",
+        type=int,
+        default=3,
+        help="Maximum number of books to process in parallel (default: 3)",
+    )
+    parser.add_argument(
+        "--book",
+        dest="books",
+        action="append",
+        default=None,
+        help="Only process the specified book_id. May be specified multiple times.",
+    )
     args = parser.parse_args(argv)
     if args.timeout <= 0 or args.retries < 0:
         parser.error("--timeout must be positive and --retries must be non-negative")
+    if args.jobs < 1:
+        parser.error("--jobs must be at least 1")
 
     logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
     try:
         books = load_config(args.manifest)
+        books = filter_books(books, args.books)
     except ValueError as error:
         parser.error(str(error))
     failed = False
-    for book in books:
-        book_id = book["book_id"]
-        try:
-            output_path = process_book(
-                book, args.output_root, args.timeout, args.retries, args.image_root
-            )
-            LOGGER.info("%s: wrote %s", book_id, output_path)
-        except (OSError, RuntimeError, ValueError, URLError) as error:
-            failed = True
-            LOGGER.error("%s: processing failed: %s", book_id, error)
+
+    if len(books) <= 1 or args.jobs == 1:
+        work_items = [(book, book["book_id"]) for book in books]
+        for book, book_id in work_items:
+            try:
+                output_path = process_book(
+                    book, args.output_root, args.timeout, args.retries, args.image_root
+                )
+                LOGGER.info("%s: wrote %s", book_id, output_path)
+            except (OSError, RuntimeError, ValueError, URLError) as error:
+                failed = True
+                LOGGER.error("%s: processing failed: %s", book_id, error)
+        return 1 if failed else 0
+
+    max_workers = min(len(books), args.jobs)
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = {
+            executor.submit(
+                process_book,
+                book,
+                args.output_root,
+                args.timeout,
+                args.retries,
+                args.image_root,
+            ): book
+            for book in books
+        }
+        for future in as_completed(futures):
+            book = futures[future]
+            book_id = book["book_id"]
+            try:
+                output_path = future.result()
+                LOGGER.info("%s: wrote %s", book_id, output_path)
+            except (OSError, RuntimeError, ValueError, URLError) as error:
+                failed = True
+                LOGGER.error("%s: processing failed: %s", book_id, error)
     return 1 if failed else 0
 
 

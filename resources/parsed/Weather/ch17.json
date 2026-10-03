@@ -1,0 +1,4274 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 17",
+    "start_page": 207,
+    "end_page": 220,
+    "pages": [
+      {
+        "page_number": 207,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p207_b2.png",
+            "bbox": [
+              61.7400016784668,
+              64.13996887207031,
+              554.280029296875,
+              233.280029296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropical Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              316.14501953125,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Technically, the Tropics lie between latitudes 23½° N and 23½° S. However, weather typical of this region ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.6543579101562,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sometimes extends as much as 45° from the Equator. One may think of the Tropics as uniformly rainy, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.5872802734375,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "warm, and humid. The facts are, however, that the Tropics contain both the wettest and driest regions of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.7413940429688,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the world. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              119.34500122070312,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter describes the basic circulation over the Tropics, terrain influences that determine arid and wet ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              195.18246459960938,
+              542.5806274414062,
+              206.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "regions, and transitory systems that invade or disturb the basic tropical circulation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.84243774414062,
+              438.0249938964844,
+              218.8224334716797
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 208,
+        "elements": [
+          {
+            "type": "text",
+            "text": "17.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Circulation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              165.27500915527344,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Chapter 7, Earth-Atmosphere Heat Imbalances, stated that wind blowing out of the subtropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.590087890625,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high-pressure belts toward the Equator form the northeast and southeast trade winds of the two hemispheres. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.6760864257812,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "These trade winds converge in the vicinity of the Equator where air rises. This convergence zone is referred ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.764404296875,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to as the Intertropical Convergence Zone (ITCZ). In some areas of the world, seasonal temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.3497924804688,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "differences between land and water areas generate rather large circulation patterns that overpower the trade ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              542.6025390625,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind circulation; these areas are monsoon regions. Tropical weather discussed here includes the subtropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              542.7493286132812,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high-pressure belts, the trade wind belts, the ITCZ, and monsoon regions. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              398.60498046875,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              201.16050720214844,
+              104.52401733398438,
+              214.1804962158203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Subtropical High-Pressure Belts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              201.16050720214844,
+              283.2950134277344,
+              214.1804962158203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If the surfaces under the subtropical high-pressure belts were all water of uniform temperature, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              221.88241577148438,
+              542.6096801757812,
+              232.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high-pressure belts would be continuous highs around the globe. The belts would be areas of descending or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              234.54244995117188,
+              542.5170288085938,
+              245.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "subsiding air and would be characterized by strong temperature inversions and very little precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              247.14242553710938,
+              542.508544921875,
+              258.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "However, land surfaces at the latitudes of the high-pressure belts are generally warmer throughout the year ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.8024597167969,
+              542.6239624023438,
+              270.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than are water surfaces. Thus, the high-pressure belts are broken into semipermanent high-pressure areas ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              272.4624328613281,
+              542.725830078125,
+              283.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "over oceans with troughs or lows over continents, as shown in Figure 17-1 and Figure 17-2. The subtropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              285.1224365234375,
+              542.7673950195312,
+              296.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "highs shift southward during the Northern Hemisphere winter and northward during summer. The seasonal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              297.7824401855469,
+              542.5366821289062,
+              308.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "shift, the height and strength of the inversion, and terrain features determine the weather in the subtropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              310.44244384765625,
+              542.4268798828125,
+              321.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high-pressure belts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              323.1024475097656,
+              160.92498779296875,
+              334.0824279785156
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p208_b9.png",
+            "bbox": [
+              90.0,
+              350.7799987792969,
+              521.9500122070312,
+              555.6799926757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the warm Northern Hemisphere, warm land areas tend to have low pressure and cool oceanic areas tend ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              568.0951538085938,
+              524.3370971679688,
+              578.1151733398438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to have high pressure. In the cool Southern Hemisphere, the pattern is reversed: cool land areas tend to have ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              579.6151123046875,
+              524.4774169921875,
+              589.6351318359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high pressure and water surfaces have low pressure. However, the relationship is not so evident in the ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              591.0751342773438,
+              524.2769775390625,
+              601.0951538085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Southern Hemisphere because of relatively small amounts of land. The subtropical high-pressure belts are ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              602.5951538085938,
+              524.5096435546875,
+              612.6151733398438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clearly evident at about 30° latitude in both hemispheres. The red dashed line shows the ITCZ. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              614.1151123046875,
+              471.80499267578125,
+              624.1351318359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-1. Mean Worldwide Surface Pressure Distribution and Prevailing Winds Throughout the World in July",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              631.6351318359375,
+              525.5691528320312,
+              641.6551513671875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 209,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p209_b11.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.9500122070312,
+              281.3999938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In this season, the pattern from Figure 17-1 is reversed. In the cool Northern Hemisphere, cold continental ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              293.81512451171875,
+              524.37890625,
+              303.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "areas are predominantly areas of high pressure, while warm oceans tend to be low-pressure areas. In the ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              305.2751159667969,
+              524.4722900390625,
+              315.29510498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "warm Southern Hemisphere, land areas tend to have low pressure and oceans have high pressure. The ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              316.79510498046875,
+              524.5449829101562,
+              326.8150939941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "subtropical high-pressure belts are evident in both hemispheres. Note that the pressure belts shift southward ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              328.31512451171875,
+              524.4794921875,
+              338.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in January and northward in July, with the shift in the zone of maximum heating. The red dashed line shows ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              339.7751159667969,
+              524.478759765625,
+              349.79510498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ITCZ. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              90.0,
+              351.29510498046875,
+              130.86500549316406,
+              361.3150939941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-2. Mean Worldwide Surface Pressure Distribution and Prevailing Winds Throughout the World in January ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              368.81512451171875,
+              542.5650024414062,
+              378.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              393.50146484375,
+              111.0,
+              405.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continental Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              393.50146484375,
+              224.1199951171875,
+              405.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Along the west coasts of continents under a subtropical high, the air is stable. The inversion is strongest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              413.18243408203125,
+              542.53076171875,
+              424.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and lowest where the east side of the subtropical high-pressure area overlies the west side of a continent. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              425.7824401855469,
+              542.6050415039062,
+              436.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moisture is trapped under the inversion; fog and low stratus occur frequently. However, precipitation is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              438.44244384765625,
+              542.3060913085938,
+              449.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rare, since the moist layer is shallow and the air is stable. Heavily populated areas also add contaminants to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              451.1024475097656,
+              542.6669921875,
+              462.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the air which, when trapped under the inversion, add to the visibility problem. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              463.762451171875,
+              417.864990234375,
+              474.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The extreme southwestern United States, for example, is dominated in summer by a subtropical high. Most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              482.4224548339844,
+              542.7567749023438,
+              493.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "people are familiar with the semiarid summer climate of Southern California. Rainfall is infrequent, but fog ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.0224304199219,
+              542.6986083984375,
+              506.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is common along the coast. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              507.6824645996094,
+              194.8249969482422,
+              518.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In winter, the subtropical high-pressure belts shift southward. Consider Southern California as an example. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              526.3424072265625,
+              542.7254638671875,
+              537.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In winter, the area comes under the influence of mid-latitude circulation, which increases the frequency of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              539.0023803710938,
+              542.7809448242188,
+              549.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rain. Also, an occasional wintertime outbreak of polar air brings clear skies with excellent visibility. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.6624145507812,
+              515.0050048828125,
+              562.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The situation on eastern continental coasts is just the opposite. The inversion is weakest and highest where ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              570.2623901367188,
+              542.5365600585938,
+              581.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the west side of the subtropical high-pressure area overlies the eastern coast of a continent. Convection can ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              582.9224243164062,
+              542.6267700195312,
+              593.9024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "penetrate the inversion, and showers and thunderstorms often develop. Precipitation is generally sufficient ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              595.5823974609375,
+              542.7406005859375,
+              606.5624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to support considerable vegetation. For example, in the United States, Atlantic coastal areas at the same ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              608.242431640625,
+              542.3938598632812,
+              619.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "latitude as Southern California are far from arid in summer. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              620.9024047851562,
+              336.80499267578125,
+              631.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Low ceiling and fog often prevent landing at a West Coast destination, but a suitable alternate generally is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              639.5624389648438,
+              542.6943969726562,
+              650.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "available a few miles inland. Alternate selection may be more critical for an East Coast destination because ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              652.1624145507812,
+              542.7591552734375,
+              663.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of widespread instability and associated hazards. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              664.8224487304688,
+              289.2049865722656,
+              675.802490234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 210,
+        "elements": [
+          {
+            "type": "text",
+            "text": "17.2.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.56143188476562,
+              111.0,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Over Open Sea ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              73.56143188476562,
+              241.4600067138672,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Under a subtropical high over the open sea, cloudiness is scant. The few clouds that do develop have tops ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              93.2224349975586,
+              542.251220703125,
+              104.20243835449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from 3,000 to 6,000 ft, depending on height of the inversion. Ceiling and visibility are generally sufficient ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              105.88240814208984,
+              542.7304077148438,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for VFR flight. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              118.54244232177734,
+              141.06500244140625,
+              129.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.1.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              143.30148315429688,
+              111.0,
+              155.30148315429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Island Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              143.30148315429688,
+              197.47999572753906,
+              155.30148315429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An island under a subtropical high receives very little rainfall because of the persistent temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              162.96243286132812,
+              542.44873046875,
+              173.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inversion. Surface heating over some larger islands causes light convective showers. Cloud tops are only ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              175.62246704101562,
+              542.437744140625,
+              186.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "slightly higher than those over open water. Temperatures are mild, showing small seasonal and diurnal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              188.28244018554688,
+              542.5201416015625,
+              199.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "changes. A good example is the pleasant, balmy climate of Bermuda. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              200.94247436523438,
+              379.3450012207031,
+              211.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.8204803466797,
+              104.52401733398438,
+              238.84046936035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Trade Wind Belts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              225.8204803466797,
+              208.1750030517578,
+              238.84046936035156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-1 and Figure 17-2 show prevailing winds throughout the Tropics for July and January. Note that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              246.54244995117188,
+              542.5921630859375,
+              257.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "trade winds blowing out of the subtropical highs over ocean areas are predominantly northeasterly in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.1424255371094,
+              542.3171997070312,
+              270.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Northern Hemisphere and southeasterly in the Southern Hemisphere. The inversion from the subtropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              271.8024597167969,
+              542.6657104492188,
+              282.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "highs is carried into the trade winds and is known as the trade wind inversion. As in a subtropical high, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              284.4624328613281,
+              542.7440185546875,
+              295.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inversion is strongest where the trade winds blow away from the west coast of a continent and weakest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              297.1224365234375,
+              542.512451171875,
+              308.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "where they blow onto an eastern continental shore. Daily variations from these prevailing directions are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              309.7824401855469,
+              542.3720092773438,
+              320.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "small, except during tropical storms. As a result, weather at any specific location in a trade wind belt varies ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              322.44244384765625,
+              542.752197265625,
+              333.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "little from day to day. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              335.1024475097656,
+              170.34500122070312,
+              346.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              359.8414611816406,
+              111.0,
+              371.8414611816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Over Open Sea ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              359.8414611816406,
+              241.4600067138672,
+              371.8414611816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the trade wind belt, on average, about one-half of skies over open water are covered by clouds. Tops ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              379.50244140625,
+              542.5370483398438,
+              390.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "range from 3,000 to 8,000 ft, depending on the height of the inversion. Showers, although more common ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              392.1624450683594,
+              542.6006469726562,
+              403.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than under a subtropical high, are still light with comparatively little rainfall. Flying weather is generally ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              404.8424377441406,
+              542.75439453125,
+              415.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "quite good. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              417.50244140625,
+              124.26499938964844,
+              428.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              442.3804626464844,
+              104.52401733398438,
+              455.4004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continental Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              442.3804626464844,
+              223.7150115966797,
+              455.4004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Where trade winds blow offshore along the west coasts of continents, skies are generally clear and the area ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              463.1024475097656,
+              542.53662109375,
+              474.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is quite arid. The Baja Peninsula of Baja California is a well-known example. Where trade winds blow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              475.70245361328125,
+              542.6536865234375,
+              486.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "onshore on the east sides of continents, rainfall is generally abundant in showers and occasional ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              488.3624572753906,
+              542.4268188476562,
+              499.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms. The eastern coast of Mexico is a good example. Rainfall may be carried a considerable ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              501.0224304199219,
+              542.524658203125,
+              512.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "distance inland where the winds are not blocked by a mountain barrier. Inland areas blocked by a mountain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              513.6824340820312,
+              542.8049926757812,
+              524.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "barrier are deserts; examples include the Sahara Desert and the arid regions of the southwestern ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              526.3424072265625,
+              542.35009765625,
+              537.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "United States. Afternoon convective currents are common over arid regions due to strong surface heating. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.9424438476562,
+              542.4154663085938,
+              549.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cumulus and cumulonimbus clouds can develop, but cloud bases are high, and rainfall is scant because of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.6024169921875,
+              542.7391357421875,
+              562.5824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the low moisture content. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              564.2623901367188,
+              186.5449981689453,
+              575.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flying weather along eastern coasts and mountains is subject to the usual hazards of showers and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              582.9224243164062,
+              542.3609619140625,
+              593.9024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms. Flying over arid regions is good most of the time but can be turbulent in afternoon ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              595.5823974609375,
+              542.3168334960938,
+              606.5624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convective currents; be especially aware of dust devils. Blowing sand or dust sometimes restricts visibility. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              608.242431640625,
+              542.8049926757812,
+              619.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              633.04150390625,
+              111.0,
+              645.04150390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Island Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              633.04150390625,
+              197.47999572753906,
+              645.04150390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mountainous islands have the most dramatic effect on trade wind weather. Since trade winds are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              652.6423950195312,
+              542.3828735351562,
+              663.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "consistently from approximately the same direction, they always strike the same side of the island; this side ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              665.3024291992188,
+              542.4706420898438,
+              676.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is the windward side. The opposite side is the leeward side. Winds blowing up the windward side produce ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              677.96240234375,
+              542.5370483398438,
+              688.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "copious and frequent rainfall, although cloud tops rarely exceed 10,000 ft. Thunderstorms are rare. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              690.6423950195312,
+              542.7108154296875,
+              701.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Downslope winds on the leeward slopes dry the air, leaving relatively clear skies and far less rainfall. Many ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              703.3024291992188,
+              542.7439575195312,
+              714.282470703125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 211,
+        "elements": [
+          {
+            "type": "text",
+            "text": "islands in the trade wind belt have lush vegetation and even rain forests on the windward side, while the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7349243164062,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "leeward is semiarid. For example, the island of Oahu, HI, is about 24 mi wide in the direction of the trade ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.6325073242188,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "winds. Annual rainfall averages from about 60 in on the windward coast to 200 in at the mountaintops, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.686767578125,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decreasing to 10 in on the leeward shore. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              254.9449920654297,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The greatest flying hazard near these islands is obscured mountaintops. Ceiling and visibility occasionally ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.3828125,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "restrict VFR flight on the windward side in showers. IFR weather is virtually nonexistent on leeward slopes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.8049926757812,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Islands without mountains have little effect on cloudiness and rainfall. Afternoon surface heating increases ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              161.34243774414062,
+              542.5476684570312,
+              172.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convective cloudiness slightly, but shower activity is light. However, any island in either the subtropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              174.00247192382812,
+              542.2952270507812,
+              184.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high-pressure belt or trade wind belt enhances cumulus development, even though tops do not reach great ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              186.60244750976562,
+              542.6109619140625,
+              197.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "heights. Therefore, a cumulus top higher than the average top of surrounding cumulus usually marks the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.26242065429688,
+              542.3720703125,
+              210.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "approximate location of an island. If it becomes necessary for a pilot to ditch in the ocean, the pilot should ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              211.92245483398438,
+              542.7557983398438,
+              222.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "look for, and head toward, a tall cumulus. It probably marks a land surface, increasing chances of survival. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              224.58242797851562,
+              542.8049926757812,
+              235.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              249.4604949951172,
+              104.52401733398438,
+              262.4804992675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Intertropical Convergence Zone (ITCZ) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              249.4604949951172,
+              322.614990234375,
+              262.4804992675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Converging winds in the ITCZ force air upward. The ITCZ appears as a band of clouds consisting of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              270.1824645996094,
+              542.4158325195312,
+              281.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "showers (with occasional thunderstorms) that encircles the globe near the Equator. The solid band of clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              282.8424377441406,
+              542.6390991210938,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may extend for many hundreds of miles and is sometimes broken into smaller line segments. It exists ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              295.44244384765625,
+              542.7825927734375,
+              306.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "because of the convergence of the trade winds. In the Northern Hemisphere, the trade winds move in a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              308.1024475097656,
+              542.59228515625,
+              319.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "southwesterly direction, while in the Southern Hemisphere, they move northwesterly. The tendency for ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              320.762451171875,
+              542.7510986328125,
+              331.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convective storms in the tropics is to be short in duration, usually on a small scale, but they can produce ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              333.4224548339844,
+              542.5393676757812,
+              344.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "intense rainfall. It is estimated that 40 percent of all tropical rainfall rates exceed one in/hour. Greatest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              346.08245849609375,
+              542.75244140625,
+              357.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rainfall typically occurs during midday. On the Equator, this occurs twice a year in March and September, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.68243408203125,
+              542.4157104492188,
+              369.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and consequently there are two wet and two dry seasons. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              371.3424377441406,
+              324.68499755859375,
+              382.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-1 and Figure 17-2 show the ITCZ and its seasonal shift. The ITCZ is well-marked over tropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.00244140625,
+              542.7244262695312,
+              400.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "oceans but is weak and ill-defined over large continental areas. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.68243408203125,
+              351.5050048828125,
+              413.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Convection in the ITCZ carries huge quantities of moisture to great heights. Showers and thunderstorms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              421.3424377441406,
+              542.2951049804688,
+              432.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "frequent the ITCZ, and tops to 40,000 ft or higher are common, as shown in Figure 17-1. Precipitation is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.00244140625,
+              542.7356567382812,
+              444.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "copious. Since convection dominates the ITCZ, there is little difference in weather over islands and open ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.6024475097656,
+              542.317138671875,
+              457.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "sea under the ITCZ. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.262451171875,
+              162.72499084472656,
+              470.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flying through the ITCZ usually presents no great problem if one follows the usual practice of avoiding ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              477.9224548339844,
+              542.2513427734375,
+              488.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cumulonimbus clouds and any thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              490.58245849609375,
+              277.2649841308594,
+              501.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Since the ITCZ is ill-defined over continents, this handbook will not attempt to describe ITCZ continental ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              509.2424011230469,
+              542.6568603515625,
+              520.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weather as such. Continental weather ranges from arid to rain forests and is more closely related to the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              521.8424072265625,
+              542.713134765625,
+              532.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "monsoon than to the ITCZ. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              534.5023803710938,
+              194.22499084472656,
+              545.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              559.3804931640625,
+              104.52401733398438,
+              572.4004516601562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Monsoon ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              559.3804931640625,
+              164.91500854492188,
+              572.4004516601562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As shown in Figure 17-1 and Figure 17-2, over the large land mass of Asia, the subtropical high pressure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              580.1024169921875,
+              542.7601318359375,
+              591.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "breaks down completely. Asia is covered by an intense high during the winter and a well-developed low ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              592.7623901367188,
+              542.741455078125,
+              603.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "during the summer. The same occurs over Australia and central Africa, although the seasons are reversed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              605.4224243164062,
+              542.3720092773438,
+              616.4024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the Southern Hemisphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              618.0823974609375,
+              200.58499145507812,
+              629.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The cold, high pressures in winter cause wind to blow from the deep interior outward and offshore. In ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              636.6824340820312,
+              542.2841186523438,
+              647.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "summer, wind direction reverses, and warm moist air is carried far inland into the low-pressure area. This ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              649.3424072265625,
+              542.7435913085938,
+              660.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "large-scale seasonal wind shift is the monsoon. The most notable monsoon is that of southern and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              662.0023803710938,
+              542.386474609375,
+              672.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "southeastern Asia. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              674.6624145507812,
+              155.40499877929688,
+              685.6424560546875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 212,
+        "elements": [
+          {
+            "type": "text",
+            "text": "17.2.5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.56143188476562,
+              111.0,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Summer or Wet Monsoon Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              73.56143188476562,
+              293.1199951171875,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "During the summer, the low over central Asia draws warm, moist, and unstable maritime air from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              93.2224349975586,
+              542.4160766601562,
+              104.20243835449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "southwest over the continent. Strong surface heating, coupled with rising of air flowing up the higher ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              105.88240814208984,
+              542.2730712890625,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "terrain, produces extensive cloudiness, copious rain, and numerous thunderstorms. Rainfall at some stations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              118.4824447631836,
+              542.663330078125,
+              129.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in India exceeds 400 in per year with highest amounts between June and October. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.16244506835938,
+              434.0050048828125,
+              142.14244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The monsoon is so pronounced that it influences circulation many miles out over the ocean. Note in Figure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              149.82241821289062,
+              542.77880859375,
+              160.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17-1 that in summer, prevailing winds from the Equator to the South Asian coast are southerly and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              162.48245239257812,
+              542.6600952148438,
+              173.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "southeasterly; without the monsoon influence, these areas would be dominated by northeasterly trade winds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              175.14242553710938,
+              542.7741088867188,
+              186.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Islands within the monsoon influence receive frequent showers. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              187.80245971679688,
+              355.1650085449219,
+              198.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.5.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              212.60147094726562,
+              111.0,
+              224.60147094726562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Winter Monsoon Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              212.60147094726562,
+              249.8000030517578,
+              224.60147094726562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note in Figure 17-2 how the winter flow has reversed from that shown in Figure 17-1. Cold, dry air from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.20242309570312,
+              542.6841430664062,
+              243.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the high plateau deep in the interior warms adiabatically as it flows down the southern slopes of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              244.86245727539062,
+              542.3719482421875,
+              255.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Himalayan Mountains. Virtually no rain falls in the interior in the dry winter monsoon. As the dry air moves ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              257.5224304199219,
+              542.448974609375,
+              268.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "offshore over warmer water, it rapidly takes in more moisture, becomes warmer in low levels, and is, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              270.1824645996094,
+              542.8049926757812,
+              281.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "therefore, unstable. Rain is frequent over offshore islands and even along coastal areas after the air has had ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              282.8424377441406,
+              542.5696411132812,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a significant overwater trajectory. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              295.50244140625,
+              223.2050018310547,
+              306.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Philippine Islands are in an area of special interest. During the summer, they are definitely in southerly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              314.1024475097656,
+              542.569580078125,
+              325.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "monsoon flow and are subjected to abundant rainfall. In the winter, wind over the Philippines is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              326.762451171875,
+              542.3718872070312,
+              337.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "northeasterly—in the transition zone between the northeasterly trade winds and the monsoon flow. It is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              339.4224548339844,
+              542.8049926757812,
+              350.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "academic whether the phenomenon is called the trade winds or monsoon; in either case, it produces ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.08245849609375,
+              542.5782470703125,
+              363.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "abundant rainfall. The Philippines has a year-round humid, tropical climate. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              364.742431640625,
+              408.385009765625,
+              375.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.5.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              389.4814758300781,
+              111.0,
+              401.4814758300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Other Monsoon Areas ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              389.4814758300781,
+              231.13999938964844,
+              401.4814758300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Australia in July (Southern Hemisphere winter) is an area of high pressure with predominantly offshore ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.1624450683594,
+              542.5850830078125,
+              420.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "winds, as shown in Figure 17-1. Most of the continent is dry during the winter. In January, winds are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              421.82244873046875,
+              542.4656982421875,
+              432.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "onshore into the continental low pressure, as shown in Figure 17-2. However, most of Australia is rimmed ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.4824523925781,
+              542.6856079101562,
+              445.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by mountains and coastal regions that are wet and have onshore winds blowing up the mountain slopes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.1424560546875,
+              542.683349609375,
+              458.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The interior is arid and has downslope winds that are warm and dried. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.8024597167969,
+              382.3450012207031,
+              470.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Central Africa is known for its humid climate and jungles. Note in Figure 17-1 and Figure 17-2 that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              478.4024353027344,
+              542.7769775390625,
+              489.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prevailing wind is onshore much of the year over these regions. Some regions are wet year-round; others ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              491.06243896484375,
+              542.7109985351562,
+              502.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have the seasonal monsoon shift and have a summer wet season and a winter dry season. The climate of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              503.7224426269531,
+              542.8049926757812,
+              514.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Africa is so varied that only a detailed area-by-area study can explain the climate typical of each area. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              516.3823852539062,
+              522.5050048828125,
+              527.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the Amazon Valley of South America during the Southern Hemisphere winter (July), southeast trade ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              535.0424194335938,
+              542.8049926757812,
+              546.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "winds, as shown in Figure 17-1, penetrate deep into the valley, bringing abundant rainfall, which contributes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              547.6423950195312,
+              542.7589721679688,
+              558.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the jungle climate. In January, the ITCZ moves south of the valley, as shown in Figure 17-2. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              560.3024291992188,
+              542.8049926757812,
+              571.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "northeast trade winds are caught up in the monsoon, cross the Equator, and penetrate the Amazon Valley. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              572.96240234375,
+              542.4144897460938,
+              583.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The jungles of the Amazon result largely from monsoon winds.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              585.6224365234375,
+              351.11151123046875,
+              596.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.2.5.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              610.4215087890625,
+              111.0,
+              622.4215087890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flying Weather in Monsoons ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              610.4215087890625,
+              264.8599853515625,
+              622.4215087890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "During the winter monsoon, excellent flying weather prevails over dry interior regions. Over water, pilots ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              630.0823974609375,
+              542.317138671875,
+              641.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "should pick their way around showers and thunderstorms. In the summer monsoon, low ceilings and heavy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              642.6824340820312,
+              542.7526245117188,
+              653.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rain often restrict VFR flight. IFR flight copes with the hazards of thunderstorms. The freezing level in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              655.3424072265625,
+              542.663330078125,
+              666.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropics is quite high (14,000 ft or higher), so icing is restricted to high levels. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              668.0023803710938,
+              416.54498291015625,
+              678.982421875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 213,
+        "elements": []
+      },
+      {
+        "page_number": 214,
+        "elements": []
+      },
+      {
+        "page_number": 215,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p215_b9.png",
+            "bbox": [
+              144.0,
+              76.5,
+              467.9700012207031,
+              281.1499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note that winds shift generally from northeasterly to southeasterly. The wave moves ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              139.52000427246094,
+              292.31512451171875,
+              474.9595642089844,
+              302.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "toward the west and is often preceded by good weather and followed by extensive ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              139.52000427246094,
+              303.7751159667969,
+              474.8494567871094,
+              313.79510498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cloudiness and precipitation. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              139.52000427246094,
+              315.29510498046875,
+              258.364990234375,
+              325.3150939941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-5. A Northern Hemisphere Easterly Wave Progressing from A–B ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.81512451171875,
+              377.30499267578125,
+              342.8351135253906
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p215_b10.png",
+            "bbox": [
+              144.0,
+              366.4100036621094,
+              468.0,
+              571.510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-6. Vertical Cross-Section Along Line A–B in Figure 17-5 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.755126953125,
+              346.70501708984375,
+              593.775146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              608.5205078125,
+              104.52401733398438,
+              621.5404663085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "West African Disturbance Line (WADL) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              608.5205078125,
+              329.45501708984375,
+              621.5404663085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "On occasion, a line of convection similar to a squall line moves westward off the continent at tropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              629.242431640625,
+              542.5684814453125,
+              640.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "latitudes into the oceanic trade winds. In the North Atlantic, this is known as the West African Disturbance ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              641.8424072265625,
+              542.7443237304688,
+              652.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Line (WADL). A WADL can move faster than easterly waves at 20 to 40 mph. Some WADLs eventually ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              654.5023803710938,
+              542.6609497070312,
+              665.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "develop into tropical storms or hurricanes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              667.1624145507812,
+              261.06500244140625,
+              678.1424560546875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 216,
+        "elements": [
+          {
+            "type": "text",
+            "text": "17.3.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropical Cyclones ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              211.47500610351562,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“Tropical cyclone” is a general term for any low that originates over tropical oceans. Tropical cyclones are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.56005859375,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "classified according to their intensity based on the average wind speeds. Wind gusts in these storms may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.405029296875,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be as much as 50 percent higher than the average wind speeds. Over the north Atlantic and northeast Pacific ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.5686645507812,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Oceans, tropical cyclone classifications are: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.36245727539062,
+              267.4849853515625,
+              143.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              150.96243286132812,
+              98.26499938964844,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropical depression—sustained winds up to 34 kt (64 km/h). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              150.96243286132812,
+              378.1449890136719,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              169.62246704101562,
+              98.26499938964844,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropical storm—sustained winds of 35 to 64 kt (65 to 119 km/h). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              169.62246704101562,
+              398.54498291015625,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              188.28244018554688,
+              98.26499938964844,
+              199.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hurricane—sustained winds of at least 65 kt (120 km/h) or more. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              188.28244018554688,
+              398.2449951171875,
+              199.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The NWS NHC and the CPHC use a 1-minute average wind speed for the above classifications. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              206.94247436523438,
+              496.94500732421875,
+              217.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In other regions of the world, a 10-minute average wind speed is used along with different terms. Tropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.54244995117188,
+              542.7525634765625,
+              236.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cyclones meeting hurricane strength in the northwest Pacific Ocean are called “typhoons,” “severe tropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.20242309570312,
+              542.7525634765625,
+              249.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cyclones” in the southwest Pacific and southeast Indian Oceans (e.g., near Australia), “severe cyclonic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              250.86245727539062,
+              542.7760009765625,
+              261.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "storms” in the north Indian Ocean, and just “tropical cyclone” in the southwest Indian Ocean. The term ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              263.5224304199219,
+              542.6846923828125,
+              274.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“super typhoon” is used if the maximum sustained winds are at least 130 kt (241 km/h). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.18243408203125,
+              460.885009765625,
+              287.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.3.5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              300.9814758300781,
+              111.0,
+              312.9814758300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Development ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              300.9814758300781,
+              189.1999969482422,
+              312.9814758300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The prerequisites for tropical cyclone development are optimum sea surface temperature under low-level ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              320.6424560546875,
+              542.7700805664062,
+              331.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "convergence and cyclonic wind shear. Favored breeding grounds are shear lines, TUTTs, tropical waves, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              333.242431640625,
+              542.371826171875,
+              344.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and lines of convection in low latitudes moving from the continent to the tropical ocean (e.g., WADL). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              345.9024353027344,
+              527.5449829101562,
+              356.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The low-level convergence associated with these systems by itself will not support development of a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              364.56243896484375,
+              542.4439697265625,
+              375.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "tropical cyclone. The system must also have horizontal outflow (divergence) at high tropospheric levels. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              377.2224426269531,
+              542.3280639648438,
+              388.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This combination creates a chimney, in which air is forced upward causing clouds and precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              389.8824462890625,
+              542.66748046875,
+              400.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Condensation releases large quantities of latent heat, which raises the temperature of the system and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              402.50244140625,
+              542.6290893554688,
+              413.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accelerates the upward motion. The rise in temperature lowers the surface pressure, which increases ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              415.1624450683594,
+              542.694091796875,
+              426.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "low-level convergence. This draws more moisture-laden air into the system. When these chain-reaction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              427.82244873046875,
+              542.800537109375,
+              438.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "events continue, a huge vortex is generated, which may culminate in hurricane-force winds. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              440.4824523925781,
+              478.2250061035156,
+              451.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-7 shows regions of the world where tropical cyclones frequently develop. They usually originate ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.1424560546875,
+              542.7344970703125,
+              470.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "between latitudes 5° and 20°. Tropical cyclones are unlikely within five degrees of the Equator because the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              471.8024597167969,
+              542.7249755859375,
+              482.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Coriolis force is so small near the Equator that it will not turn the winds enough for them to flow around a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              484.4024353027344,
+              542.2730712890625,
+              495.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "low-pressure area. Winds flow directly into an equatorial low and rapidly fill it. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              497.06243896484375,
+              424.885009765625,
+              508.04241943359375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 217,
+        "elements": []
+      },
+      {
+        "page_number": 218,
+        "elements": [
+          {
+            "type": "text",
+            "text": "When a storm takes on middle latitude characteristics, it is said to be extratropical, meaning “outside the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7216186523438,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tropics.” Tropical cyclones produce weather conditions that differ somewhat from those produced by their ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.5303344726562,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "higher latitude cousins and invite investigation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              283.1449890136719,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.3.5.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              123.50143432617188,
+              111.0,
+              135.50143432617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather in a Tropical Depression ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              123.50143432617188,
+              286.5199890136719,
+              135.50143432617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "While in its initial developing stage, the cyclone is characterized by a circular area of broken-to-overcast ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              143.16244506835938,
+              542.7703247070312,
+              154.14244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clouds in multiple layers. Embedded in these clouds are numerous showers and thunderstorms. Rain shower ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.82241821289062,
+              542.5597534179688,
+              166.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and thunderstorm coverage varies from scattered to almost solid. The diameter of the cloud pattern varies ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.48245239257812,
+              542.6531372070312,
+              179.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from less than 100 mi in small systems to well over 200 mi in large ones. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              181.14242553710938,
+              396.7449951171875,
+              192.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "17.3.5.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              205.94143676757812,
+              111.0,
+              217.94143676757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather in Tropical Storms and Hurricanes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              205.94143676757812,
+              334.1199951171875,
+              217.94143676757812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "As cyclonic flow increases, the thunderstorms and rain showers form into broken or solid lines, paralleling ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.54244995117188,
+              542.3829345703125,
+              236.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the wind flow that is spiraling into the center of the storm. These lines are the spiral rain bands frequently ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.20242309570312,
+              542.2841186523438,
+              249.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "seen on radar. These rain bands continually change as they rotate around the storm. Rainfall in the rain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              250.86245727539062,
+              542.5327758789062,
+              261.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "bands is very heavy, reducing ceiling and visibility to near zero. Winds are usually very strong and gusty ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              263.5224304199219,
+              542.3060302734375,
+              274.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and, consequently, generate violent turbulence. Between the rain bands, ceilings and visibilities are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              276.18243408203125,
+              542.6904296875,
+              287.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "somewhat better, and turbulence generally is less intense. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              288.8424377441406,
+              327.44500732421875,
+              299.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Most tropical cyclones that form eyes do so within 48 hours of the cyclone reaching tropical storm strength. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              307.44244384765625,
+              542.40478515625,
+              318.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the eye, skies are free of turbulent cloudiness, and wind is comparatively light. The average diameter of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              320.1024475097656,
+              542.5036010742188,
+              331.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the eye is between 15 mi and 20 mi but sometimes is as small as 7 mi and rarely is more than 30 mi in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.762451171875,
+              542.8074340820312,
+              343.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "diameter. Surrounding the eye is a wall of clouds that may extend above 50,000 ft. This wall of clouds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              345.4224548339844,
+              542.8049926757812,
+              356.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contains deluging rain and the strongest winds of the storm. Maximum wind speeds of 175 kt have been ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              358.08245849609375,
+              542.736328125,
+              369.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "recorded in some storms. See Figure 17-8 and Figure 17-9, which contain a radar display and satellite ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              370.68243408203125,
+              542.6552734375,
+              381.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "photograph of a mature hurricane, respectively. Note the spiral rain bands and the circular eye. Notice the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.3424377441406,
+              542.470703125,
+              394.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "similarity between these two figures. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.00244140625,
+              236.9449920654297,
+              406.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Table 17-1 identifies the wind speed and characteristic house damage for each level on the Saffir-Simpson ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              414.68243408203125,
+              542.7388305664062,
+              425.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hurricane Wind Scale. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              427.3424377441406,
+              175.26499938964844,
+              438.3224182128906
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 219,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p219_b6.png",
+            "bbox": [
+              90.0,
+              76.49998474121094,
+              521.9500122070312,
+              330.54998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-8. Radar Image of Hurricane Katrina Observed at New Orleans, Louisiana, on August 29, 2005 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              341.81512451171875,
+              497.4850158691406,
+              351.8351135253906
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p219_b7.png",
+            "bbox": [
+              90.0,
+              369.4100341796875,
+              522.0,
+              639.4100341796875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 17-9. Hurricane Andrew Observed by Satellite in 1992 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              651.255126953125,
+              322.5249938964844,
+              661.275146484375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 220,
+        "elements": []
+      }
+    ]
+  }
+}

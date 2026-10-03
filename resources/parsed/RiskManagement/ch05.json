@@ -1,0 +1,829 @@
+{
+  "book_id": "RiskManagement",
+  "book_title": "Risk Management Handbook",
+  "pdf_path": "resources/library/RiskManagement/RiskManagement.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 5",
+    "start_page": 39,
+    "end_page": 43,
+    "pages": [
+      {
+        "page_number": 39,
+        "elements": []
+      },
+      {
+        "page_number": 40,
+        "elements": [
+          {
+            "type": "text",
+            "text": "12148",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              48.01917266845703,
+              79.0199966430664,
+              57.01917266845703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flight in the proximity of some environmental hazards may lead to serious or catastrophic accidents. Avoidance strategies ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              58.087425231933594,
+              560.5130615234375,
+              68.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reduce the risk by lowering the accident likelihood. This requires pilots to plan, exercise patience, remain flexible, and be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              69.0874252319336,
+              560.4981689453125,
+              79.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "creative.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              80.0874252319336,
+              88.15000915527344,
+              90.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Circumnavigate the Hazard",
+            "font_name": "Arial-BoldItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              104.00556182861328,
+              182.91998291015625,
+              114.00556182861328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12149",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              115.31916046142578,
+              79.0199966430664,
+              124.31916046142578
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For some hazards, such as convective activity and very high terrain, a possible mitigation may be a plan to circumnavigate the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              125.38741302490234,
+              560.5155639648438,
+              135.38742065429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hazard.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              136.38742065429688,
+              83.15000915527344,
+              146.38742065429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Go Above or Below the Hazard",
+            "font_name": "Arial-BoldItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              160.30555725097656,
+              199.7639923095703,
+              170.30555725097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12151",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              171.6192169189453,
+              79.0199966430664,
+              180.6192169189453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sometimes a plan to fly at a different altitude reduces accident likelihood. Pilots can plan for altitudes that keep the aircraft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              181.68746948242188,
+              560.5131225585938,
+              191.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "above or below icing conditions. Many instrument pilots who operate aircraft that are not approved for flight in known icing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              192.68746948242188,
+              560.48681640625,
+              202.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "conditions apply personal minimums to avoid conditions below certain temperatures or where the freezing level is at or below ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              203.68746948242188,
+              560.5040893554688,
+              213.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the minimum en-route altitude.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              214.68746948242188,
+              178.44000244140625,
+              224.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Change Departure Time or Date",
+            "font_name": "Arial-BoldItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              238.60560607910156,
+              203.85098266601562,
+              248.60560607910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12152",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              249.91920471191406,
+              79.0199966430664,
+              258.919189453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advancing or delaying a departure may reduce risk likelihood. For example, on a day when a line of afternoon thunderstorms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              259.9874572753906,
+              560.5401000976562,
+              269.9874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is forecast, a pilot could plan for an early morning departure or wait until the thunderstorms dissipate and depart late in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              270.9874572753906,
+              560.526123046875,
+              280.9874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "afternoon. For some meteorological hazards, such as an incoming low-pressure system, the pilot might choose to depart the day ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              281.9874572753906,
+              560.5252075195312,
+              291.9874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "before originally planned.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              292.9874572753906,
+              157.5900115966797,
+              302.9874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cancel the Flight",
+            "font_name": "Arial-BoldItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              316.90557861328125,
+              134.5699920654297,
+              326.90557861328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12153",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              328.21917724609375,
+              79.0199966430664,
+              337.21917724609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Canceling a flight is necessary if the pilot cannot mitigate risk sufficiently by other means.  The cancellation option is easier if ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              338.2874450683594,
+              560.53125,
+              348.2874450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "another means of transportation is available or if long-term rescheduling is an option.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              349.2874450683594,
+              395.34002685546875,
+              359.2874450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mitigating External Pressure Risks",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              373.3965759277344,
+              234.94998168945312,
+              384.3965759277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12154",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              385.5191650390625,
+              79.0199966430664,
+              394.5191650390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "External pressures can be either subtle or overt. Because it may involve passengers or others waiting for the arrival, it is best to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              395.5874328613281,
+              560.5241088867188,
+              405.5874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "inform them of the need for flexibility.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              406.5874328613281,
+              208.5850067138672,
+              416.5874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Local Versus Transportation Flights",
+            "font_name": "Arial-BoldItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              430.50555419921875,
+              224.59597778320312,
+              440.50555419921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12155",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              441.8191833496094,
+              79.0199966430664,
+              450.8191833496094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A local pleasure flight can still be subject to external pressures, but it is easier to cancel than a scheduled flight related to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              451.887451171875,
+              560.5010986328125,
+              461.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transportation to an event. When planning a local flight with friends, for example, the pilot can reduce external pressures ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              462.887451171875,
+              560.5018920898438,
+              472.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "by telling them in advance that the flight could be canceled at the last minute due to weather or other reasons. For an IFR ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              473.887451171875,
+              560.4984741210938,
+              483.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transportation flight, persons meeting the flight can use an application to know if the flight will arrive as planned. For a VFR ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              484.887451171875,
+              560.496826171875,
+              494.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight anyone meeting the flight may wait at home and get notified after the flight arrives.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              495.887451171875,
+              411.7299499511719,
+              505.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Personal Versus Business Flights",
+            "font_name": "Arial-BoldItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              519.8055419921875,
+              214.7979736328125,
+              529.8055419921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12156",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              531.1192016601562,
+              79.0199966430664,
+              540.1192016601562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots who fly business associates may feel significant external pressures. The pilot should manage passenger expectations and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              541.1874389648438,
+              560.51416015625,
+              551.1874389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "may plan for alternative travel options as a means to reduce risk.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              552.1874389648438,
+              312.280029296875,
+              562.1874389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Case Study",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#AA1E22",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              580.7965698242188,
+              113.90599060058594,
+              591.7965698242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12157",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              592.919189453125,
+              79.0199966430664,
+              601.919189453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note: Refer to the case study supporting data in Chapter 3, Identifying Hazards and Associated Risks, and the risk assessment ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              602.9874267578125,
+              560.506103515625,
+              612.9874267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "matrix in Chapter 4, Assessing Risk, to continue the risk mitigation phase of the case study.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              613.9874267578125,
+              419.4100646972656,
+              623.9874267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Risk Mitigation Analysis",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              638.0965576171875,
+              180.11607360839844,
+              649.0965576171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12158",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              650.2191772460938,
+              79.0199966430664,
+              659.2191772460938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tricia diligently identified the hazards and assessed the risks of her proposed flight from Durango, CO to Santa Rosa, CA. She ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              660.2874145507812,
+              560.5260009765625,
+              670.2874145507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "should now mitigate the high and serious risks that she identified during the assessment phase. She identified four high and five ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              671.2874145507812,
+              560.4671020507812,
+              681.2874145507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "serious risks that she should attempt to mitigate by reducing risk likelihood, severity, or both.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              682.2874145507812,
+              426.906982421875,
+              692.2874145507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12159",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              694.0191650390625,
+              79.0199966430664,
+              703.0191650390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tricia starts by reconsidering the overall plan for this flight. She rules out making a non-stop flight because carrying the Smiths ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              704.08740234375,
+              560.527099609375,
+              714.08740234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and their baggage would require a reduced fuel load, which in this case is a serious (yellow) risk. In addition, the direct route ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              715.08740234375,
+              560.5103149414062,
+              725.08740234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "could lead to encounters with thunderstorms, icing conditions, areas of low ceilings, and high terrain. Furthermore, she realizes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              726.08740234375,
+              560.5107421875,
+              736.08740234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "they should leave Monday morning, rather than Tuesday, because of the incoming front and low-pressure area. She also notes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              737.08740234375,
+              560.5140991210938,
+              747.08740234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 41,
+        "elements": []
+      },
+      {
+        "page_number": 42,
+        "elements": []
+      },
+      {
+        "page_number": 43,
+        "elements": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,538 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 1",
+    "start_page": 16,
+    "end_page": 17,
+    "pages": [
+      {
+        "page_number": 16,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p16_b2.png",
+            "bbox": [
+              61.31999969482422,
+              64.62002563476562,
+              553.8599853515625,
+              487.20001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              70.19999694824219,
+              75.60729217529297,
+              84.20999908447266,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.0,
+              75.60729217529297,
+              237.41876220703125,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This handbook describes the United States (U.S.) aviation weather program, products, and services. It also ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.5824203491211,
+              542.6561889648438,
+              122.56242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "documents weather theory and its application to aviation. The objective of this handbook is to help the pilot ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.26241302490234,
+              542.53662109375,
+              135.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and operator understand the basics of weather, aviation weather hazards, and aviation weather products. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              136.92245483398438,
+              542.8049926757812,
+              147.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The information included is not prescriptive. Furthermore, the guidance and recommendations in this ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              149.58242797851562,
+              542.5258178710938,
+              160.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "handbook are not legally binding in their own right and will not be relied upon by the FAA as a separate ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              162.24246215820312,
+              542.74609375,
+              173.2224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "basis for affirmative enforcement action or other administrative penalty. Conformity with the guidance and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              174.90243530273438,
+              542.55859375,
+              185.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "recommendations is solely voluntary and nonconformity will not affect rights and obligations under existing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              187.50247192382812,
+              542.5964965820312,
+              198.4824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "statutes and regulations. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              200.16244506835938,
+              180.72499084472656,
+              211.14244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The handbook is a consolidated source of weather information and, in some cases, best practices to assist ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              218.82241821289062,
+              542.405029296875,
+              229.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with providing safety for flight.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              231.48245239257812,
+              210.96287536621094,
+              242.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The visualization of the products discussed in this handbook has evolved over the past decade with the use ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              250.14242553710938,
+              542.7389526367188,
+              261.1224060058594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of internet websites. The use of static black and white depictions of aviation forecasts is quickly becoming ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              262.7424621582031,
+              542.7718505859375,
+              273.7224426269531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a thing of the past. Today’s websites provide the products in color and offer options to select and overlay ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              275.4024353027344,
+              542.42822265625,
+              286.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "multiple pieces of weather information. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              288.06243896484375,
+              248.52499389648438,
+              299.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Today’s aviation weather websites, including those of the National Weather Service (NWS), continue to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              306.7224426269531,
+              542.7488403320312,
+              317.7024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "improve the content and visualization of products. Unfortunately, it is not practical to update this handbook ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              319.3824462890625,
+              542.7269897460938,
+              330.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with every change to a weather product. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.0424499511719,
+              251.0449981689453,
+              343.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Examples of weather products in this handbook represent one way of how they can be visualized on a user’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              350.6424560546875,
+              542.8049926757812,
+              361.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "viewing device (e.g., computer, tablet, mobile phone, or cockpit display). The examples shown in this ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              363.3024597167969,
+              542.7570190429688,
+              374.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "handbook are from NWS websites. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              375.9624328613281,
+              229.02499389648438,
+              386.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This handbook is broken into three parts: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              394.6224365234375,
+              255.60499572753906,
+              405.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              413.8824157714844,
+              95.05079650878906,
+              424.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Part 1: Overview of the United States Aviation Weather Service Program and Information. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              414.08245849609375,
+              510.0249938964844,
+              425.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              433.3223876953125,
+              95.05079650878906,
+              444.3023986816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Part 2: Weather Theory and Aviation Hazards. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              433.5224304199219,
+              315.7250061035156,
+              444.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              452.76239013671875,
+              95.05079650878906,
+              463.7424011230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Part 3: Technical Details Relating to Weather Products and Aviation Weather Tools. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              452.9624328613281,
+              482.9649963378906,
+              463.9424133300781
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 17,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p17_b2.png",
+            "bbox": [
+              68.33999633789062,
+              59.34001159667969,
+              560.8800048828125,
+              284.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Part 1: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              258.5,
+              76.6243667602539,
+              362.5,
+              112.6243667602539
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Overview of the United States ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              88.0199966430664,
+              124.0444107055664,
+              532.9840087890625,
+              160.04440307617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation Weather Service ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              119.12000274658203,
+              165.44436645507812,
+              501.94000244140625,
+              201.44436645507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Program and Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              123.0199966430664,
+              206.84439086914062,
+              497.9800109863281,
+              242.84439086914062
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

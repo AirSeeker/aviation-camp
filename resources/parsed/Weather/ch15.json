@@ -1,0 +1,2359 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 15",
+    "start_page": 171,
+    "end_page": 189,
+    "pages": [
+      {
+        "page_number": 171,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p171_b2.png",
+            "bbox": [
+              57.540000915527344,
+              65.34000396728516,
+              550.0800170898438,
+              191.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              100.05000305175781,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Radar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              75.60729217529297,
+              288.18499755859375,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              94.75901794433594,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              117.86051177978516,
+              171.03500366210938,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most effective tool to detect precipitation is radar. Radar, which is an acronym that stands for “radio ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.7994384765625,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "detection and ranging,” has been used to detect precipitation since the 1940s. Radar enhancements have ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.5475463867188,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "enabled more precision in detecting and displaying precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              360.0849914550781,
+              174.8424530029297
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 172,
+        "elements": []
+      },
+      {
+        "page_number": 173,
+        "elements": []
+      },
+      {
+        "page_number": 174,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p174_b12.png",
+            "bbox": [
+              162.0,
+              84.04000854492188,
+              449.94000244140625,
+              222.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-3. Wavelengths ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              239.81512451171875,
+              178.68499755859375,
+              249.8351287841797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              264.5804748535156,
+              104.52401733398438,
+              277.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Attenuation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              264.5804748535156,
+              177.15499877929688,
+              277.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Attenuation is any process that reduces energy within the radar beam. This reduces the amount of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              285.3024597167969,
+              542.4564208984375,
+              296.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "backscattered energy. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              297.9624328613281,
+              169.98500061035156,
+              308.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.5.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              322.761474609375,
+              111.0,
+              334.761474609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation Attenuation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              322.761474609375,
+              245.47999572753906,
+              334.761474609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation attenuation (see Figure 15-4) is the decrease of the intensity of energy within the radar beam ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              342.3624572753906,
+              542.5236206054688,
+              353.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "due to absorption or scattering of the energy from precipitation particles. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              355.0224304199219,
+              394.6449890136719,
+              366.0024108886719
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p174_b13.png",
+            "bbox": [
+              126.0,
+              382.75,
+              478.25,
+              563.0700073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-4. Precipitation Attenuation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.0751342773438,
+              227.28500366210938,
+              586.0951538085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation close to the radar absorbs and scatters energy within the radar beam. Therefore, very little, if ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              600.6224365234375,
+              542.2951049804688,
+              611.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "any, energy will reach targets beyond the initial area of precipitation. Because of precipitation attenuation, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              613.2824096679688,
+              542.4267578125,
+              624.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "distant targets (i.e., precipitation) may not be displayed on a radar image. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              625.9424438476562,
+              396.3249816894531,
+              636.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The amount of precipitation attenuation is related to the wavelength of the radar (see Figure 15-5). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              644.5424194335938,
+              507.864990234375,
+              655.5224609375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 175,
+        "elements": []
+      },
+      {
+        "page_number": 176,
+        "elements": []
+      },
+      {
+        "page_number": 177,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p177_b9.png",
+            "bbox": [
+              90.0,
+              76.5,
+              522.0,
+              443.9599914550781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-7. Beam Resolution Comparison Between WSR-88D and Aircraft Weather Radar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.3351135253906,
+              443.06500244140625,
+              467.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In the example above, the targets (thunderstorms) are at the same range in azimuths for both the aircraft ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              481.8824462890625,
+              542.6373901367188,
+              492.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and WSR-88D radar. At 10 NM, the beam width is small enough for both the WSR-88D and aircraft radar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              494.4824523925781,
+              542.7322998046875,
+              505.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to display the thunderstorms separately. At 60 NM, the WSR-88D beam width is still small enough to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              507.1424255371094,
+              542.6390380859375,
+              518.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "display both thunderstorms separately. However, the aircraft radar beam width is larger, which results in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              519.8024291992188,
+              542.448974609375,
+              530.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the two thunderstorms being displayed as one echo. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              532.46240234375,
+              302.04498291015625,
+              543.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Note that the beam becomes wider at greater distances from the radar. Therefore, the beam resolution ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.1224365234375,
+              542.3610229492188,
+              562.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decreases with increasing range from the radar. As a result, lines of precipitation may appear to break up ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              563.7824096679688,
+              542.4379272460938,
+              574.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as they move closer to the radar. In reality, the breaks in the precipitation were most likely always there. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.4424438476562,
+              533.1849975585938,
+              587.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              601.260498046875,
+              104.52401733398438,
+              614.2804565429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wave Propagation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              601.260498046875,
+              212.19500732421875,
+              614.2804565429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radar beams do not travel in a straight line. The beam is bent due to differences in atmospheric density. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              621.982421875,
+              542.6612548828125,
+              632.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "These density differences, caused by variations in temperature, moisture, and pressure, occur in both the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              634.6423950195312,
+              542.5620727539062,
+              645.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vertical and horizontal directions and affect the speed and direction of the radar beam. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              647.3024291992188,
+              453.5050048828125,
+              658.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In a denser atmosphere, the beam travels slower. Conversely, in the less dense atmosphere, the beam travels ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              665.96240234375,
+              542.5037231445312,
+              676.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "faster. Changes in density can occur over very small distances, so it is common for the beam to be in areas ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              678.6224365234375,
+              542.5036010742188,
+              689.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of different densities at the same time as it gets larger. The beam will bend in the direction of the slower ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              691.242431640625,
+              542.7515869140625,
+              702.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "portion of the wave. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              703.9024047851562,
+              163.3249969482422,
+              714.8824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 178,
+        "elements": []
+      },
+      {
+        "page_number": 179,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p179_b12.png",
+            "bbox": [
+              90.0,
+              76.49998474121094,
+              522.0,
+              248.72998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-9. Subrefraction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              260.81512451171875,
+              180.84500122070312,
+              270.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.7.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              285.50146484375,
+              111.0,
+              297.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Superrefraction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              285.50146484375,
+              199.16000366210938,
+              297.50146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Conversely, sometimes the density of the atmosphere decreases with height at a less-than-normal rate ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              305.1624450683594,
+              542.8049926757812,
+              316.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(actual density is greater than normal) or even increases with height. When this occurs, the radar beam will ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              317.762451171875,
+              542.60107421875,
+              328.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "bend more than normal toward the Earth’s surface. This phenomenon is called superrefraction (see Figure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              330.4224548339844,
+              542.7626953125,
+              341.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15-10). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              343.08245849609375,
+              106.86500549316406,
+              354.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Superrefraction causes the radar beam to travel closer to the Earth’s surface than what would occur in a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              361.742431640625,
+              542.6478881835938,
+              372.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "normal atmosphere. This can lead to overestimating the strength of a thunderstorm, as the beam would ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              374.4024353027344,
+              542.5633544921875,
+              385.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "detect the stronger core of the storm, where precipitation-sized particles are larger. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              387.06243896484375,
+              437.9649963378906,
+              398.04241943359375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p179_b13.png",
+            "bbox": [
+              91.99500274658203,
+              414.75,
+              521.9949951171875,
+              586.97998046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-10. Superrefraction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              599.1151123046875,
+              193.625,
+              609.1351318359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.7.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              623.7415161132812,
+              111.0,
+              635.7415161132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ducting ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              121.5199966430664,
+              623.7415161132812,
+              163.16000366210938,
+              635.7415161132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "If the atmospheric condition that causes superrefraction bends the beam equal to, or greater than, the Earth’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              643.4024047851562,
+              542.8049926757812,
+              654.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "curvature, then a condition called ducting (or trapping) occurs (see Figure 15-11). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              656.0624389648438,
+              434.30499267578125,
+              667.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "When ducting occurs, the radar beam will hit the surface of the Earth, causing some of the beam’s energy ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              674.722412109375,
+              542.7471313476562,
+              685.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to backscatter. This often leads to false echoes, also known as anomalous propagation (AP), to appear in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              687.4024047851562,
+              542.6688842773438,
+              698.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the radar display. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              700.0624389648438,
+              150.84500122070312,
+              711.04248046875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 180,
+        "elements": []
+      },
+      {
+        "page_number": 181,
+        "elements": [
+          {
+            "type": "text",
+            "text": "15.2.9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              104.52401733398438,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Beam Blockage ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              73.6404800415039,
+              198.4550018310547,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Beam blockage (see Figure 15-13) occurs when the radar beam is blocked by terrain and is particularly ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.4569091796875,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "predominant in mountainous terrain. See Section 24.6.1 for more information on the WSR-88D. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              497.54498291015625,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Beam blockage is most easily seen on the lowest radar beam (also known as “Base Reflectivity,” “Lowest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.7701416015625,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Tilt,” and “Reflectivity at Lowest Altitude”) images where it appears as a pie-shaped area (or areas) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.71728515625,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "perpetually void of echoes. When animating the imagery, the beam blockage area will remain clear of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              542.4158935546875,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "echoes even as precipitation and other targets pass through. In many cases, the beam blockage effect seen ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              542.7584838867188,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "on a single-site radar can be minimized by viewing mosaic images. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              370.1650085449219,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p181_b9.png",
+            "bbox": [
+              162.0,
+              203.99000549316406,
+              449.9599914550781,
+              429.94000244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-13. WSR-88D Weather Radar Beam Blockage on Base Reflectivity Product Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              442.3351135253906,
+              458.364990234375,
+              452.3551025390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.10",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.1004638671875,
+              111.03401947021484,
+              480.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ground Clutter ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.0199966430664,
+              467.1004638671875,
+              199.35501098632812,
+              480.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ground clutter (see Figure 15-14) is radar echoes’ returns from trees, buildings, or other objects on the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              487.82244873046875,
+              542.5687866210938,
+              498.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ground. It appears as a roughly circular region of high reflectivity at ranges close to the radar. Ground ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              500.4224548339844,
+              542.4268188476562,
+              511.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "clutter appears stationary when animating images and can mask precipitation located near the radar. Most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              513.0824584960938,
+              542.7630004882812,
+              524.0625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ground clutter is automatically removed from WSR-88D imagery, so typically it is does not interfere with ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              525.7423706054688,
+              542.5578002929688,
+              536.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "image interpretation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.4024047851562,
+              166.38499450683594,
+              549.3824462890625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 182,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p182_b7.png",
+            "bbox": [
+              161.85000610351562,
+              76.5,
+              449.8500061035156,
+              364.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-14. WSR-88D Weather Radar Ground Clutter Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              376.6151123046875,
+              337.82501220703125,
+              386.6351013183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.11",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              401.4004821777344,
+              111.03401947021484,
+              414.4205017089844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ghost ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.0199966430664,
+              401.4004821777344,
+              151.35501098632812,
+              414.4205017089844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A ghost (see Figure 15-15) is a diffused echo in apparently clear air caused by a “cloud” of point targets, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              422.1224365234375,
+              542.724365234375,
+              433.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "such as insects, or by refraction returns of the radar beam in truly clear air. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.7824401855469,
+              402.864990234375,
+              445.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The latter case commonly develops at sunset due to superrefraction during the warm season. The ghost ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              453.3824462890625,
+              542.3828735351562,
+              464.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "develops as an area of low reflectivity echoes (typically less than 15 decibels of Z (dBZ)) near the radar ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              466.0424499511719,
+              542.7216796875,
+              477.0224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "site and quickly expands. When animating the imagery, the ghost echo shows little movement. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              478.70245361328125,
+              490.8249816894531,
+              489.68243408203125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 183,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p183_b7.png",
+            "bbox": [
+              162.0,
+              76.5,
+              450.0,
+              364.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-15. WSR-88D Weather Radar Ghost Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              376.31512451171875,
+              300.8450012207031,
+              386.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.12",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              401.1004638671875,
+              111.03401947021484,
+              414.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Angels ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.0199966430664,
+              401.1004638671875,
+              157.11500549316406,
+              414.1204833984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Angels are echoes caused by a physical phenomenon not discernible by the eye at the radar site. They are ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              421.82244873046875,
+              542.3500366210938,
+              432.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "usually caused by bats, birds, or insects. Angels typically appear as a donut-shaped echo with low ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.4824523925781,
+              542.6980590820312,
+              445.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reflectivity values (see Figure 15-16). When animated, the echo expands and becomes more diffuse ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.08245849609375,
+              542.5791625976562,
+              458.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with time. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              459.742431640625,
+              119.34500122070312,
+              470.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Angels typically only appear when the WSR-88D radar is in Clear Air Mode because of their weak ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              478.4024353027344,
+              542.7208862304688,
+              489.3824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reflectivity (see Section 24.6.1.3 for additional information on modes). Echoes caused by birds are typically ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              491.06243896484375,
+              542.6910400390625,
+              502.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "detected in the morning when they take flight for the day. Echoes caused by bats are typically detected in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              503.7224426269531,
+              542.3718872070312,
+              514.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the evening when they are departing from caves. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              516.3823852539062,
+              288.54498291015625,
+              527.3624267578125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 184,
+        "elements": []
+      },
+      {
+        "page_number": 185,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p185_b9.png",
+            "bbox": [
+              162.0,
+              76.5,
+              449.989990234375,
+              299.25
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-17. WSR-88D Weather Radar AP Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              311.81512451171875,
+              289.80499267578125,
+              321.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.14",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              336.5804748535156,
+              111.03401947021484,
+              349.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Other Non-Meteorological Phenomena ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.0199966430664,
+              336.5804748535156,
+              323.2149963378906,
+              349.6004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.14.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              363.44146728515625,
+              117.0,
+              375.44146728515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind Farms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.0199966430664,
+              363.44146728515625,
+              188.66000366210938,
+              375.44146728515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wind farms can affect the return signal of the radar beam. Depending on the proximity of the wind farm to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.1024475097656,
+              542.470703125,
+              394.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the radar site (generally within 10 NM), wind farm turbines can result in beam blockage, false echoes, or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              395.762451171875,
+              542.4489135742188,
+              406.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "high reflectivity values (see Figure 15-18). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              408.44244384765625,
+              262.92498779296875,
+              419.42242431640625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p185_b10.png",
+            "bbox": [
+              162.0,
+              436.1000061035156,
+              449.9800109863281,
+              691.5
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-18. Wind Farms Can Make Benign Echoes Appear as Small Storms ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              702.9351196289062,
+              387.2650146484375,
+              712.9551391601562
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 186,
+        "elements": [
+          {
+            "type": "text",
+            "text": "15.2.14.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.56143188476562,
+              117.0,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Chaff ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              136.82000732421875,
+              73.56143188476562,
+              167.1199951171875,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Chaff is a counter measure used by the military to distract enemy radars from their true targets (see Figure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              93.2224349975586,
+              542.7525024414062,
+              104.20243835449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15-19)",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              105.88240814208984,
+              101.3963394165039,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Error! Reference source not found.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              101.41999816894531,
+              105.88240814208984,
+              266.5482177734375,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".   ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              266.6600036621094,
+              105.88240814208984,
+              277.625,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p186_b15.png",
+            "bbox": [
+              128.10000610351562,
+              123.10000610351562,
+              483.8999938964844,
+              342.70001220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-19. Radar Image of Chaff ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              350.0351257324219,
+              218.94500732421875,
+              360.05511474609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.15",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              374.740478515625,
+              111.03401947021484,
+              387.760498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.0199966430664,
+              374.740478515625,
+              186.69500732421875,
+              387.760498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.15.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              401.68145751953125,
+              117.0,
+              413.68145751953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Intensity of Precipitation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              126.0199966430664,
+              401.68145751953125,
+              248.3000030517578,
+              413.68145751953125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The intensity of precipitation is determined from the amount of energy backscattered by precipitation, also ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              421.2824401855469,
+              542.7194213867188,
+              432.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "known as reflectivity. Reflectivity is determined by: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              433.94244384765625,
+              304.2049865722656,
+              444.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              453.1824035644531,
+              95.05079650878906,
+              464.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The size of precipitation particles. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              453.3824462890625,
+              260.7649841308594,
+              464.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              472.6224060058594,
+              95.05079650878906,
+              483.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The precipitation state (liquid or solid). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              472.82244873046875,
+              283.625,
+              483.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              492.0624084472656,
+              95.05079650878906,
+              503.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The concentration of precipitation (particles per volume). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              492.262451171875,
+              363.385009765625,
+              503.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              511.50244140625,
+              95.05079650878906,
+              522.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The shape of the precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              511.7024841308594,
+              244.864990234375,
+              522.6824951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.15.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.5015258789062,
+              126.0,
+              548.5015258789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Intensity of Liquid Precipitation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              135.02000427246094,
+              536.5015258789062,
+              292.2799987792969,
+              548.5015258789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The most significant factor in determining the reflectivity of liquid particles is the size of the precipitation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              556.1624145507812,
+              542.3609008789062,
+              567.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "particle (see Figure 15-20). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.8224487304688,
+              194.46499633789062,
+              579.802490234375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 187,
+        "elements": []
+      },
+      {
+        "page_number": 188,
+        "elements": []
+      },
+      {
+        "page_number": 189,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p189_b9.png",
+            "bbox": [
+              162.0,
+              76.5,
+              449.9800109863281,
+              339.6499938964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hazards associated with stratiform precipitation include possible ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              350.81512451171875,
+              426.67822265625,
+              360.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "widespread icing above the freezing level, low ceilings, and reduced ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              362.2751159667969,
+              438.0610046386719,
+              372.29510498046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "visibilities. ",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              162.02000427246094,
+              373.79510498046875,
+              208.14500427246094,
+              383.8150939941406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 15-22. WSR-88D Weather Radar Stratiform Precipitation on the 0.5° Base Reflectivity Product Example ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              391.31512451171875,
+              523.1649780273438,
+              401.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.15.1.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              416.0214538574219,
+              126.0,
+              428.0214538574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Intensity of Snow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              135.02000427246094,
+              416.0214538574219,
+              223.33999633789062,
+              428.0214538574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A radar image cannot reliably be used to determine the intensity of snowfall. However, snowfall rates ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              435.68243408203125,
+              542.4708862304688,
+              446.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "generally increase with increasing reflectivity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              448.3424377441406,
+              278.4649963378906,
+              459.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15.2.15.1.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.0814514160156,
+              126.0,
+              485.0814514160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Bright Band ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              135.02000427246094,
+              473.0814514160156,
+              197.0,
+              485.0814514160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Bright band is a distinct feature observed by radar that denotes the freezing (melting) level. The term ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.742431640625,
+              542.3499755859375,
+              503.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "originates from a band of enhanced reflectivity that can result when a radar antenna scans through ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              505.4024353027344,
+              542.3609619140625,
+              516.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "precipitation. The freezing level in a cloud contains ice particles that are coated with liquid water. These ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              518.0624389648438,
+              542.578857421875,
+              529.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "particles reflect significantly more energy (appearing to the radar as large raindrops) than the portions of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.722412109375,
+              542.3610229492188,
+              541.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the cloud above and below the freezing layer. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              543.3823852539062,
+              275.10498046875,
+              554.3624267578125
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

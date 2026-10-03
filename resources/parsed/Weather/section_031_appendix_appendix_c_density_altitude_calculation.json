@@ -1,0 +1,208 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "appendix",
+    "title": "Appendix C - Density Altitude Calculation",
+    "start_page": 486,
+    "end_page": 486,
+    "pages": [
+      {
+        "page_number": 486,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Appendix C",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              208.1211395263672,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Density Altitude Calculation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              225.02000427246094,
+              75.60729217529297,
+              553.9650268554688,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To determine density altitude: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              116.14241790771484,
+              207.00498962402344,
+              127.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              134.82241821289062,
+              98.26499938964844,
+              145.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Set the aircraft’s altimeter to 29.92 inHg. The altimeter will indicate pressure altitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              134.82241821289062,
+              488.6650085449219,
+              145.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              153.48245239257812,
+              98.26499938964844,
+              164.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Read the OAT. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              153.48245239257812,
+              177.6649932861328,
+              164.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              172.14242553710938,
+              98.26499938964844,
+              183.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Mark the intersection of pressure altitude (diagonal) and temperature (vertical) lines on Figure C-1. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              172.14242553710938,
+              542.8049926757812,
+              183.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              190.80245971679688,
+              98.26499938964844,
+              201.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Read the density altitude from the horizontal lines on Figure C-1. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              190.80245971679688,
+              398.2449951171875,
+              201.78245544433594
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p486_b10.png",
+            "bbox": [
+              200.25,
+              218.49002075195312,
+              412.1499938964844,
+              661.8200073242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure C-1. Density Altitude Computation Chart ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              674.3551025390625,
+              268.9250183105469,
+              684.3751220703125
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

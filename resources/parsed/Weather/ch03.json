@@ -1,0 +1,2706 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 3",
+    "start_page": 24,
+    "end_page": 60,
+    "pages": [
+      {
+        "page_number": 24,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p24_b2.png",
+            "bbox": [
+              60.540000915527344,
+              66.54000854492188,
+              553.0800170898438,
+              308.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Overview of Aviation Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              455.2810974121094,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              107.82732391357422,
+              241.56500244140625,
+              135.84732055664062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.04051208496094,
+              88.2750015258789,
+              163.0605010986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              150.04051208496094,
+              168.3350067138672,
+              163.0605010986328
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Title 14 of the Code of Federal Regulations (14 CFR) § 91.103 states the requirements for preflight action ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              170.76242065429688,
+              542.5910034179688,
+              181.74241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for 14 CFR part 91 operations. According to 14 CFR § 91.103, each pilot-in-command (PIC) shall, before ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              183.42245483398438,
+              542.7378540039062,
+              194.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "beginning a flight, become familiar with all available information concerning the flight, including weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              196.08242797851562,
+              542.7447509765625,
+              207.0624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reports and forecasts",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              208.74246215820312,
+              162.93641662597656,
+              219.7224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": ".",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#333333",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              162.97999572753906,
+              208.74246215820312,
+              165.72499084472656,
+              219.7224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This handbook describes the weather products primarily produced by the NWS. There is an ever-expanding ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              227.34243774414062,
+              542.7154541015625,
+              238.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "suite of weather products available on the internet, weather applications (apps) for phones and tablets, as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              240.00247192382812,
+              542.7738037109375,
+              250.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "well as commercial Electronic Flight Bags (EFB). Pilots and operators should consult with their Principal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              252.66244506835938,
+              542.8050537109375,
+              263.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Operations Inspector (POI) or their service provider when in doubt about the content and use of new weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              265.3224182128906,
+              542.6591186523438,
+              276.3023986816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "products. Note that the FAA does not certify internet providers of aviation weather services. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              277.9824523925781,
+              480.1449890136719,
+              288.9624328613281
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 25,
+        "elements": [
+          {
+            "type": "text",
+            "text": "3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              88.2750015258789,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Use of Aviation Weather Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              79.6404800415039,
+              299.6750183105469,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              106.58048248291016,
+              97.98790740966797,
+              119.6004867553711
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Understanding Weather Forecasts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              106.58048248291016,
+              287.4949951171875,
+              119.6004867553711
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To forecast means to make a prediction about the future state of something. In weather forecasting, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              127.3224105834961,
+              542.3611450195312,
+              138.3024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "meteorologist is trying to predict the future state of the atmosphere. There are many different types of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              139.98245239257812,
+              542.3720092773438,
+              150.9624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "weather forecasts that exist, and we want to cover a basic distinction between deterministic and probabilistic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              152.64242553710938,
+              542.6668090820312,
+              163.62242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forecasts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              165.30245971679688,
+              116.58499908447266,
+              176.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              184.54241943359375,
+              95.05079650878906,
+              195.52243041992188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A deterministic forecast is one in which forecasters provide only a single solution. For example, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              184.74246215820312,
+              533.1983032226562,
+              195.7224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“tonight’s low will be 31 degrees Fahrenheit (°F),” “0.30 inches of rain will fall tomorrow,” or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              197.34243774414062,
+              527.5333251953125,
+              208.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "“thunderstorms will happen at 3 pm tomorrow.” ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              210.00247192382812,
+              322.4649963378906,
+              220.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              229.242431640625,
+              95.05079650878906,
+              240.22244262695312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A probabilistic forecast is one in which forecasters convey uncertainties by expressing forecasts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              229.44247436523438,
+              532.6054077148438,
+              240.42247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as probabilities of various outcomes. For example, “the probability that tonight’s low will be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              242.10244750976562,
+              518.5711059570312,
+              253.0824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "below 32 °F is 40 percent,” “the probability of receiving at least 0.25 inches of rain tomorrow is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              254.76242065429688,
+              533.2164306640625,
+              265.7424011230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "60 percent,” or “the probability of thunderstorms for tomorrow afternoon is 70 percent.” ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              267.4224548339844,
+              499.3450012207031,
+              278.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Probabilistic forecasts allow meteorologists to acknowledge and express the fact that weather forecasts ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              286.0224304199219,
+              542.328125,
+              297.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contain uncertainty, especially as you go out further in time. However, it is important that a probabilistic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              298.68243408203125,
+              542.7163696289062,
+              309.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forecast has reliability (e.g., if the forecast of thunderstorms for a particular day, time, and location is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              311.3424377441406,
+              542.5269165039062,
+              322.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "70 percent, then thunderstorms do in fact occur seven times out of ten). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              324.00244140625,
+              388.2250061035156,
+              334.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              348.8804626464844,
+              97.98790740966797,
+              361.9004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Product Latency ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              348.8804626464844,
+              196.8350067138672,
+              361.9004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "With few exceptions, all weather information and products have latency. Latency is the element of data ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              369.6024475097656,
+              542.383056640625,
+              380.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "age. The total latency of weather information and products includes the total time between the actual ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              382.262451171875,
+              542.3719482421875,
+              393.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "occurrence of the phenomenon, the data collection, processing, transmittal, and the display or application ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              394.8624572753906,
+              542.6181640625,
+              405.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the information in the cockpit, on the pilot’s EFB, or other publication for use. It is important to be aware ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              407.5424499511719,
+              542.7945556640625,
+              418.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the product time or “valid until” time on the particular data link information displayed in the cockpit or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              420.20245361328125,
+              542.705322265625,
+              431.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "EFB. The amount of latency may limit the use or application of the information or product. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              432.8624572753906,
+              475.885009765625,
+              443.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An example of weather information without latency is the wind direction when looking at the windsock ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              451.5224304199219,
+              542.7522583007812,
+              462.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "along the runway. However, the wind reported in the Automated Weather Observing System (AWOS) or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              464.18243408203125,
+              542.7733154296875,
+              475.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Automated Surface Observing System (ASOS) broadcast has a latency of up to 3 minutes. Why? While the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              476.7824401855469,
+              542.7508544921875,
+              487.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AWOS and ASOS wind (direction and speed) is continuously being recorded by the AWOS/ASOS system ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              489.44244384765625,
+              542.591552734375,
+              500.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "processor, the reported wind is the most recent average of the direction and speed over the past two minutes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              502.1024475097656,
+              542.8049926757812,
+              513.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "That 2-minute average is then updated once a minute for the radio or telephone broadcast. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              514.7623901367188,
+              470.30499267578125,
+              525.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Onboard aircraft radar has minimal latency, while NEXRAD data has a latency of 5 to 15 minutes or more ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              533.4224243164062,
+              542.5696411132812,
+              544.4024658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with weather apps and data uplink services. This is why NEXRAD data is used for broad strategic avoidance ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              546.0223999023438,
+              542.6519775390625,
+              557.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of thunderstorms and never used to navigate through thunderstorms. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.6824340820312,
+              375.0249938964844,
+              569.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.2.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.5604858398438,
+              97.98790740966797,
+              596.5804443359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Additional Use Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              583.5604858398438,
+              255.69500732421875,
+              596.5804443359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Details on the use of both government and commercial aviation weather information are discussed in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              604.2824096679688,
+              542.39404296875,
+              615.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIM, Chapter 7, Section 1, Paragraph 7-1-3, Use of Aviation Weather Products. Items discussed include: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              616.9424438476562,
+              538.1849975585938,
+              627.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              636.182373046875,
+              95.05079650878906,
+              647.162353515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Approved sources for aviation weather information, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              636.3823852539062,
+              339.2649841308594,
+              647.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              655.6224365234375,
+              95.05079650878906,
+              666.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The development of new products through the FAA’s Next Generation Air Transportation System ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              655.8224487304688,
+              542.625,
+              666.802490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(NextGen) Aviation Weather Research Program (AWRP), ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              668.482421875,
+              367.4049987792969,
+              679.4624633789062
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 26,
+        "elements": []
+      },
+      {
+        "page_number": 27,
+        "elements": [
+          {
+            "type": "text",
+            "text": "conditions against the pilot’s experience and ratings. The aircraft’s equipment, capabilities, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              73.42244720458984,
+              542.7789306640625,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "limitations should also be considered. This advisory is not provided via the internet. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              86.0824203491211,
+              479.2449951171875,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              105.32239532470703,
+              95.05079650878906,
+              116.3023910522461
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Synopsis.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              105.52242279052734,
+              151.7204132080078,
+              116.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": " A brief statement describing the type, location, and movement of weather systems and/or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              151.75999450683594,
+              105.52242279052734,
+              542.7427368164062,
+              116.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air masses that might affect the proposed flight. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              118.18245697021484,
+              320.364990234375,
+              129.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              137.38238525390625,
+              95.05079650878906,
+              148.36239624023438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Current (Latest) Conditions.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              137.58242797851562,
+              243.3965606689453,
+              148.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": " This portion of the briefing contains the current (latest reported or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              243.44000244140625,
+              137.58242797851562,
+              542.75341796875,
+              148.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "received) surface weather summarized from all available resources, including observations, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              150.24246215820312,
+              542.7467041015625,
+              161.2224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PIREPs, and satellite and radar data along the route of flight. If the departure time is more than two ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              162.90243530273438,
+              542.8049926757812,
+              173.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hours away, current conditions will not be included in the briefing unless the pilot specifically ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              175.56246948242188,
+              542.7664794921875,
+              186.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "requests the information. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              188.22244262695312,
+              220.38499450683594,
+              199.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              207.46240234375,
+              95.05079650878906,
+              218.44241333007812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "En Route Forecast.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              207.66244506835938,
+              197.74859619140625,
+              218.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Forecast en route conditions for the proposed route are summarized in logical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              197.77999877929688,
+              207.66244506835938,
+              542.7644653320312,
+              218.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "order (i.e., departure/climb out, en route, and descent). Heights are above mean sea level (MSL), ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              220.26242065429688,
+              542.6343994140625,
+              231.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "unless the contractions “AGL” or “CIG” are denoted, indicating that heights are above ground. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              232.92245483398438,
+              528.3250122070312,
+              243.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              252.16241455078125,
+              95.05079650878906,
+              263.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Destination Forecast.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              252.36245727539062,
+              208.32232666015625,
+              263.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": " The destination forecast for the planned estimated time of arrival (ETA). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              208.39999389648438,
+              252.36245727539062,
+              542.8049926757812,
+              263.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Any significant changes within 1 hour before and after the planned arrival are included. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              265.0224304199219,
+              496.1650085449219,
+              276.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              284.26239013671875,
+              95.05079650878906,
+              295.2424011230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Winds and Temperatures Aloft.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              284.4624328613281,
+              255.7119903564453,
+              295.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Forecast winds aloft will be provided in knots and tens of degrees ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              255.8000030517578,
+              284.4624328613281,
+              542.6109619140625,
+              295.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and referenced to true north. The briefer will interpolate wind directions and speeds between levels ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              297.1224365234375,
+              542.5311889648438,
+              308.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and stations as necessary to provide expected conditions at planned altitudes. (Heights are MSL.) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              309.7824401855469,
+              542.8049926757812,
+              320.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature information will be provided on request. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              322.44244384765625,
+              347.4849853515625,
+              333.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              341.6224060058594,
+              95.05079650878906,
+              352.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Notice to Airmen (NOTAM), ATC Delays, and Other Information.",
+            "font_name": "TimesNewRomanPS-BoldMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              341.82244873046875,
+              415.7049865722656,
+              352.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 1, Paragraph 7-1-5, Preflight Briefing, subparagraphs b8 through b10 for a complete ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              354.4824523925781,
+              542.7129516601562,
+              365.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "description of this part of the briefing. Also refer to the AIM Chapter 5, Section 1, Paragraph 5-1-",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              367.1424560546875,
+              540.0563354492188,
+              378.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3, Notice to Airmen System, for a complete description of all NOTAM types. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              379.8024597167969,
+              451.94500732421875,
+              390.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              404.6214599609375,
+              105.0,
+              416.6214599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Abbreviated Briefing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              404.6214599609375,
+              220.4600067138672,
+              416.6214599609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An abbreviated briefing is a shortened version of the standard briefing. It can be requested when a departure ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              424.2824401855469,
+              542.7255859375,
+              435.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has been delayed or when specific weather information is needed to update a previous standard briefing. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              436.94244384765625,
+              542.4049682617188,
+              447.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots who prefer to contact Flight Service are encouraged to conduct a self-briefing prior to calling. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              449.5424499511719,
+              542.6953125,
+              460.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Conducting a self-briefing before contacting Flight Service provides familiarity of weather conditions ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              462.20245361328125,
+              542.4335327148438,
+              473.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "applicable to the route of flight and promotes a better understanding of weather information. When ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              474.8624572753906,
+              542.8013305664062,
+              485.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "contacting Flight Service by phone, the FSS specialist will ask for the time and source of the previous ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              487.5224304199219,
+              542.6224975585938,
+              498.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "briefing, so the specialist does not inadvertently omit the necessary weather information. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              500.18243408203125,
+              464.8450012207031,
+              511.16241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.1.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              524.9815063476562,
+              105.0,
+              536.9815063476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Outlook Briefing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              524.9815063476562,
+              200.5399932861328,
+              536.9815063476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An outlook briefing may be requested when a planned departure is six or more hours away. It provides ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              544.5823974609375,
+              542.6629638671875,
+              555.5624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "initial forecast information that is limited in scope due to the timeframe of the planned flight. This type of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              557.242431640625,
+              542.3281860351562,
+              568.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "briefing is a good source of flight planning information that can influence decisions regarding route of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              569.9024047851562,
+              542.2511596679688,
+              580.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flight, altitude, and ultimately the “go, no-go” decision. A follow-up standard or abbreviated briefing prior ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              582.5624389648438,
+              542.7667236328125,
+              593.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to departure is advisable, since an outlook briefing generally only contains information based on weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              595.222412109375,
+              542.4049072265625,
+              606.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "trends and existing weather in geographical areas at or near the departure airport. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              607.8823852539062,
+              431.18499755859375,
+              618.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              632.7005004882812,
+              97.98790740966797,
+              645.720458984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Telephone ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              632.7005004882812,
+              166.11500549316406,
+              645.720458984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              659.6215209960938,
+              105.0,
+              671.6215209960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flight Service ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              659.6215209960938,
+              185.89999389648438,
+              671.6215209960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For flights within the CONUS, Hawaii, and Puerto Rico, call 1-800-WX-BRIEF (1-800-992-7433). For ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              679.222412109375,
+              542.774169921875,
+              690.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "flights in Alaska, call 1-833-AK-BRIEF (1-833-252-7433). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              691.9024047851562,
+              335.9649963378906,
+              702.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Refer to the AIM Chapter 7, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              415.7200012207031,
+              341.82244873046875,
+              542.7728881835938,
+              352.80242919921875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 28,
+        "elements": []
+      },
+      {
+        "page_number": 29,
+        "elements": []
+      },
+      {
+        "page_number": 30,
+        "elements": [
+          {
+            "type": "text",
+            "text": "FIS-B update intervals are defined as the rate at which the product data is available from the source. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.46337890625,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Transmission intervals are defined as the amount of time within which a new or updated product ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.4049072265625,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transmission must be completed and the rate or repetition interval at which the product is rebroadcast. Refer ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.779296875,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the AIM, Chapter 7, Section 1, Table 7-1-3, FIS-B Over UAT Product Update and Transmission ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.6793823242188,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Intervals, for update and transmission intervals for each FIS-B product. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              388.4649963378906,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Where applicable, FIS-B products include a look-ahead range expressed in nautical miles for three service ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.7177124023438,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "domains: Airport Surface, Terminal Airspace, and En Route/Gulf of America. The AIM, Chapter 7, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.72802734375,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Section 1, Table 7-1-4, Product Parameters for Low/Medium/High Altitude Tier Radios, provides service ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              542.7215576171875,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "domain availability and look-ahead ranging for each FIS-B product. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              180.66244506835938,
+              373.8249816894531,
+              191.64244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Details on the content, format, and symbology of individual FIS-B products can be obtained from the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.26242065429688,
+              542.7421264648438,
+              210.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "manufacturer of the avionics equipment used to receive and display them. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              211.92245483398438,
+              399.44500732421875,
+              222.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.4.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              236.72146606445312,
+              105.0,
+              248.72146606445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Automated Surface Observing System (ASOS) and Automated Weather Observing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              236.72146606445312,
+              517.4119873046875,
+              248.72146606445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "System (AWOS) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              250.52145385742188,
+              199.8800048828125,
+              262.5214538574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ASOS and AWOS information can be retrieved in flight. Typically, the range of an ASOS/AWOS broadcast ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              270.1824645996094,
+              542.6185302734375,
+              281.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is 25 NM. ASOS and AWOS frequencies are printed on Sectional Charts and listed in FAA Chart ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              282.8424377441406,
+              542.7837524414062,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Supplements. The majority of ASOS and AWOS are on airports, but there are a few located off-airport, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              295.44244384765625,
+              542.7464599609375,
+              306.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "such as in a mountain pass. See Section 24.3 for more information on ASOS and AWOS. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              308.1024475097656,
+              467.6650085449219,
+              319.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.4.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.9014587402344,
+              105.0,
+              344.9014587402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Automatic Terminal Information Service (ATIS) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              332.9014587402344,
+              352.8399963378906,
+              344.9014587402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Automatic Terminal Information Service (ATIS) is a continuous broadcast on an assigned frequency ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.56243896484375,
+              542.8049926757812,
+              363.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of recorded information in selected terminal areas to provide pilots with necessary airport and local area ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.2224426269531,
+              542.5036010742188,
+              376.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information prior to arrival or departure. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              377.8824462890625,
+              252.5449981689453,
+              388.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ATIS frequencies can be found on Sectional Charts and Chart Supplements, as well as on instrument ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.4824523925781,
+              542.6944580078125,
+              407.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "approach charts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.1624450683594,
+              146.8249969482422,
+              420.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The ATIS broadcast is updated upon the receipt of new hourly weather, special weather, or when there is a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              427.82244873046875,
+              542.7307739257812,
+              438.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "change in other pertinent data, such as runway change, instrument approach in use, etc. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              440.4824523925781,
+              458.125,
+              451.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.4.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              465.2814636230469,
+              105.0,
+              477.2814636230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Flight Service ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              465.2814636230469,
+              185.89999389648438,
+              477.2814636230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FSS specialists provide in-flight weather updates as well as collect PIREPs. FSS frequencies are listed on ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              484.94244384765625,
+              542.5166015625,
+              495.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sectional Charts and Chart Supplements. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              497.6024475097656,
+              255.30499267578125,
+              508.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.3.4.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              522.3414916992188,
+              105.0,
+              534.3414916992188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Automatic Flight Information Service (AFIS) – Alaska Only ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              522.3414916992188,
+              409.1199951171875,
+              534.3414916992188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Automatic Flight Information Service (AFIS) provides a continuous broadcast of recorded non-control ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              542.0023803710938,
+              542.7571411132812,
+              552.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information at airports in Alaska where Flight Service provides local airport advisory (LAA) service. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              554.6624145507812,
+              542.3610229492188,
+              565.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AFIS broadcast automates the repetitive transmission of essential but routine information, such as weather, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.3224487304688,
+              542.4926147460938,
+              578.302490234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wind, altimeter, favored runway, braking action, airport NOTAMs, and other applicable information. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              579.982421875,
+              542.5567016601562,
+              590.9624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information is continuously broadcast over a discrete very high frequency (VHF) radio frequency (usually ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              592.6423950195312,
+              542.7218017578125,
+              603.6224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the ASOS frequency). When rapidly changing conditions exist, the ceiling, visibility, altimeter, wind, or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              605.242431640625,
+              542.5593872070312,
+              616.2224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "other conditions may be omitted from the AFIS and will be issued by the FSS specialist on the appropriate ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              617.9024047851562,
+              542.5038452148438,
+              628.8824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "radio frequency. AFIS frequencies can be found on Sectional Charts and the Alaska Chart Supplement. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              630.5624389648438,
+              528.5650024414062,
+              641.54248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              655.4404907226562,
+              88.2750015258789,
+              668.46044921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Overview of Aviation Weather Products ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              655.4404907226562,
+              314.19500732421875,
+              668.46044921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "There are many aviation weather products available to the pilot through the internet and mobile phone apps. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              676.1624145507812,
+              542.6972045898438,
+              687.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Each product has a specific purpose that provides the user with reported or forecast weather conditions ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              688.8424072265625,
+              542.3171997070312,
+              699.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "either at an airport or aloft. Table 3-1 and Table 3-2 are matrices of aviation weather products versus the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              701.5023803710938,
+              542.65673828125,
+              712.482421875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 31,
+        "elements": []
+      },
+      {
+        "page_number": 32,
+        "elements": []
+      },
+      {
+        "page_number": 33,
+        "elements": []
+      },
+      {
+        "page_number": 34,
+        "elements": []
+      },
+      {
+        "page_number": 35,
+        "elements": []
+      },
+      {
+        "page_number": 36,
+        "elements": []
+      },
+      {
+        "page_number": 37,
+        "elements": []
+      },
+      {
+        "page_number": 38,
+        "elements": []
+      },
+      {
+        "page_number": 39,
+        "elements": []
+      },
+      {
+        "page_number": 40,
+        "elements": []
+      },
+      {
+        "page_number": 41,
+        "elements": []
+      },
+      {
+        "page_number": 42,
+        "elements": []
+      },
+      {
+        "page_number": 43,
+        "elements": []
+      },
+      {
+        "page_number": 44,
+        "elements": []
+      },
+      {
+        "page_number": 45,
+        "elements": []
+      },
+      {
+        "page_number": 46,
+        "elements": []
+      },
+      {
+        "page_number": 47,
+        "elements": []
+      },
+      {
+        "page_number": 48,
+        "elements": []
+      },
+      {
+        "page_number": 49,
+        "elements": []
+      },
+      {
+        "page_number": 50,
+        "elements": []
+      },
+      {
+        "page_number": 51,
+        "elements": []
+      },
+      {
+        "page_number": 52,
+        "elements": []
+      },
+      {
+        "page_number": 53,
+        "elements": []
+      },
+      {
+        "page_number": 54,
+        "elements": []
+      },
+      {
+        "page_number": 55,
+        "elements": []
+      },
+      {
+        "page_number": 56,
+        "elements": []
+      },
+      {
+        "page_number": 57,
+        "elements": []
+      },
+      {
+        "page_number": 58,
+        "elements": []
+      },
+      {
+        "page_number": 59,
+        "elements": []
+      },
+      {
+        "page_number": 60,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p60_b2.png",
+            "bbox": [
+              62.34000015258789,
+              65.93998718261719,
+              554.8800048828125,
+              211.67999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Part 2: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              258.5,
+              76.6243667602539,
+              362.5,
+              112.6243667602539
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Theory and Aviation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.5999984741211,
+              118.0444107055664,
+              530.4639892578125,
+              154.04440307617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Hazards ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 36.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              247.0399932861328,
+              159.44436645507812,
+              374.0199890136719,
+              195.44436645507812
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

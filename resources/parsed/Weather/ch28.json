@@ -1,0 +1,1253 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 28",
+    "start_page": 470,
+    "end_page": 472,
+    "pages": [
+      {
+        "page_number": 470,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p470_b2.png",
+            "bbox": [
+              58.7400016784668,
+              66.53999328613281,
+              563.8800048828125,
+              302.2799987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "28",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              81.60729217529297,
+              100.05000305175781,
+              109.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation Weather Tools ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              81.60729217529297,
+              390.14501953125,
+              109.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "28.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              123.8804702758789,
+              94.75901794433594,
+              136.9004669189453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              123.8804702758789,
+              171.03500366210938,
+              136.9004669189453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The fifth of five types of aviation weather information discussed in this handbook is aviation weather tools. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.60244750976562,
+              542.6441040039062,
+              155.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation weather tools are web-based applications that incorporate multiple weather products into a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              157.20242309570312,
+              542.8049926757812,
+              168.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "web-based interactive display. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.86245727539062,
+              208.2050018310547,
+              180.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter will describe three web-based interactive displays: the GFA Tool, the Flight Service’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              188.52243041992188,
+              542.8049926757812,
+              199.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Interactive Map, and the GFA-LA (Graphical Forecasts for Aviation – Low Altitude previously called ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              201.18246459960938,
+              542.7206420898438,
+              212.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Helicopter Emergency Medical Services HEMS) Tool. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              213.84243774414062,
+              316.0249938964844,
+              224.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter describes these web-based displays as they are configured in 2022. Enhancements to these ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.44247436523438,
+              542.7092895507812,
+              243.42247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "displays will likely occur in the coming years as technology improves. Users will find information on any ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.10244750976562,
+              542.3609008789062,
+              256.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "enhancements on the providers’ websites. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              257.7624206542969,
+              258.30499267578125,
+              268.7424011230469
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 471,
+        "elements": [
+          {
+            "type": "text",
+            "text": "28.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              94.75901794433594,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Graphical Forecasts for Aviation (GFA) Tool ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              79.6404800415039,
+              343.31500244140625,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The GFA Tool is a set of web-based displays intended to provide the necessary aviation weather information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.5890502929688,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to give users a complete picture of the weather that may impact their flight operations. It is a one-stop shop ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.7870483398438,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for multiple data fields. The AWC website includes observational data, forecasts, and advisories including ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.775146484375,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "thunderstorms, clouds, flight category, precipitation, icing, turbulence, and wind. Hourly model data and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.30245971679688,
+              542.7404174804688,
+              149.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forecasts, including information on clouds, flight category, precipitation, icing, turbulence, wind, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              150.96243286132812,
+              542.7442016601562,
+              161.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "graphical output from the NWS’ NDFD, are available. Built with modern geospatial information tools, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.62246704101562,
+              542.4981689453125,
+              174.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "users can pan and zoom to focus on areas of greatest interest. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.28244018554688,
+              343.5849914550781,
+              187.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Descriptions of the observations, forecasts, and advisories that are used in the GFA Tool have been ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.5086059570312,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "presented in other chapters within this handbook. This section does not show or describe the many possible ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.4707641601562,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "overlays for the GFA Tool, since the AWC has produced a very thorough and complete description under ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              542.5253295898438,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the “Info” tab on the AWC’s GFA Tool website, which also includes a tutorial video. In addition, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.86245727539062,
+              542.4869384765625,
+              243.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GFA Tool will continue to be enhanced; therefore, users will be assured of being informed of the latest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.52243041992188,
+              542.8049926757812,
+              256.5024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GFA Tool information by referring to the “Info” tab on AWC’s GFA Tool website. In fact, a significant ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              258.1824645996094,
+              542.7366333007812,
+              269.1624450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "change was made in late 2023 when the Helicopter Emergency Medical Services (HEMS) tool was moved ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              270.8424377441406,
+              542.6027221679688,
+              281.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "into the GFA and is now the GFA Low Altitude (GFA-LA). This Low Altitude mode focuses on altitudes ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              283.44244384765625,
+              542.6207275390625,
+              294.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "up to 5,000 ft AGL. Overlays include roads, NAVAIDs, airports, and heliports for the entire United States. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              296.1024475097656,
+              542.6253662109375,
+              307.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "More detail is revealed as you zoom in, and individual layers can be turned on or off independently. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              308.762451171875,
+              542.2951049804688,
+              319.742431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Additional information, including a tutorial, can be found on the AWC’s website. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              321.4224548339844,
+              433.4049987792969,
+              332.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Caution should be applied as users configure the GFA Tool for use. Users can turn on and turn off certain ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              340.08245849609375,
+              542.6034545898438,
+              351.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "functions (e.g., AIRMET and SIGMET overlays for a given geographical area). This can lead to hidden ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.68243408203125,
+              542.6517944335938,
+              363.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "areas of hazardous weather for a given flightpath. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.3424377441406,
+              292.864990234375,
+              376.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Currently, the GFA Tool covers the CONUS, the Gulf of America, the Caribbean, portions of the Atlantic ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              384.00244140625,
+              542.6463012695312,
+              394.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ocean, and portions of the Pacific Ocean, including the Hawaiian Islands and Alaska. The experimental ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.6624450683594,
+              542.696533203125,
+              407.6424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GFA Tool became available for Alaska in December 2020 and transitioned into operational status in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.3424377441406,
+              542.3389282226562,
+              420.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "February 2022. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              422.00244140625,
+              141.96499633789062,
+              432.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "28.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              446.8804626464844,
+              104.52401733398438,
+              459.9004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GFA Static Images ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              446.8804626464844,
+              215.43499755859375,
+              459.9004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Some users with limited internet connectivity may access static images via the AWC’s website as well as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              467.5424499511719,
+              542.7437744140625,
+              478.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "from Flight Service’s website (see Appendix G, Websites). There are two static graphical images available ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              480.20245361328125,
+              542.7200927734375,
+              491.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "titled, “Aviation Clouds Forecast” and “Aviation Surface Forecast.” See Section 27.5 for more information. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              492.8624572753906,
+              542.8049926757812,
+              503.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "28.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              517.740478515625,
+              94.75901794433594,
+              530.7604370117188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FAA Flight Service’s Interactive Map ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.5199966430664,
+              517.740478515625,
+              304.5950012207031,
+              530.7604370117188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Similar in presentation and functionality to the GFA Tool for weather data and products is the interactive ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.46240234375,
+              542.3390502929688,
+              549.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "map on Flight Service’s website. It provides users with interactive graphical capabilities to view a variety ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              551.1224365234375,
+              542.49658203125,
+              562.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of weather and aeronautical information. Users logged in to the website are able to enter basic route ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              563.7824096679688,
+              542.4618530273438,
+              574.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information to display the flightpath on the map. Two primary types of weather information can be ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.4424438476562,
+              542.3282470703125,
+              587.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "displayed on the map: overlay data and weather imagery. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              589.1024169921875,
+              326.18499755859375,
+              600.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Overlay data includes the following and can be displayed simultaneously: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              607.702392578125,
+              399.44500732421875,
+              618.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              626.9423828125,
+              95.05079650878906,
+              637.92236328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Winds aloft, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              627.1423950195312,
+              165.125,
+              638.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              646.3823852539062,
+              95.05079650878906,
+              657.3623657226562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "METARs, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              646.5823974609375,
+              156.30499267578125,
+              657.5624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              665.8223876953125,
+              95.05079650878906,
+              676.8023681640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "TAFs, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              666.0223999023438,
+              138.60499572753906,
+              677.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              685.2824096679688,
+              95.05079650878906,
+              696.2623901367188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "PIREPs, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              685.482421875,
+              147.72499084472656,
+              696.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              704.722412109375,
+              95.05079650878906,
+              715.702392578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SIGMETs, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              704.9224243164062,
+              158.76499938964844,
+              715.9024658203125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 472,
+        "elements": [
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              74.00238800048828,
+              95.05079650878906,
+              84.98238372802734
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AIRMETs, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              74.2024154663086,
+              159.96499633789062,
+              85.18241882324219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              93.44239044189453,
+              95.05079650878906,
+              104.4223861694336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CWAs, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              93.64241790771484,
+              162.06500244140625,
+              104.62242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              112.88239288330078,
+              95.05079650878906,
+              123.86238861083984
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NWS’ severe weather watches and warnings. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              113.0824203491211,
+              309.9049987792969,
+              124.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather imagery includes the following and can only be displayed one product at a time: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.76242065429688,
+              467.6650085449219,
+              142.74241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              151.00238037109375,
+              95.05079650878906,
+              161.98239135742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radar (NEXRAD precipitation), ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              151.20242309570312,
+              253.98500061035156,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              170.4423828125,
+              95.05079650878906,
+              181.42239379882812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Satellite, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              170.64242553710938,
+              149.58499145507812,
+              181.62242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              189.88238525390625,
+              95.05079650878906,
+              200.86239624023438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CIP/FIP, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              190.08242797851562,
+              168.2449951171875,
+              201.0624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              209.3223876953125,
+              95.05079650878906,
+              220.30239868164062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "GTG. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              209.52243041992188,
+              136.14498901367188,
+              220.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Certain products will enable additional controls, such as an FL slider, a time slider, and animation controls. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              228.18246459960938,
+              542.8049926757812,
+              239.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Information on the above products and imagery is presented in other chapters of this handbook, as well as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              246.78244018554688,
+              542.2840576171875,
+              257.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in the User Guide provided on Flight Service’s website.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              259.4424743652344,
+              317.2850036621094,
+              270.4224548339844
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

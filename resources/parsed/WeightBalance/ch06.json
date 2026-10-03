@@ -1,0 +1,2371 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 6",
+    "start_page": 55,
+    "end_page": 60,
+    "pages": [
+      {
+        "page_number": 55,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 6",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.47467803955078,
+              123.15200805664062,
+              91.47467803955078
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p55_b4.png",
+            "bbox": [
+              57.30000305175781,
+              85.69857788085938,
+              486.4200439453125,
+              249.85858154296875
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "H\nS\nL",
+                "AIL SURFACE AND ALOFT..3 INCHES. WIND GUSTS..70 K\nTORM MOTION VECTOR 26030.\nAT...LON",
+                null
+              ],
+              [
+                "",
+                null,
+                ""
+              ]
+            ],
+            "bbox": [
+              64.05000305175781,
+              97.93902587890625,
+              375.9000244140625,
+              321.3179931640625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p55_b1.png",
+            "bbox": [
+              55.05000305175781,
+              228.5,
+              325.77001953125,
+              322.1000061035156
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 56,
+        "elements": []
+      },
+      {
+        "page_number": 57,
+        "elements": []
+      },
+      {
+        "page_number": 58,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Weight and Balance Loading Form",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              187.0991973876953,
+              60.91191864013672,
+              358.0871887207031,
+              72.91191864013672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Model _________________________________________________  Date ____________________________________________________ ",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              49.57830047607422,
+              99.45552062988281,
+              507.2583312988281,
+              107.45552062988281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Serial Number___________________________________________  Reg. Number _____________________________________________ ",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              49.57830810546875,
+              119.45552062988281,
+              507.2583312988281,
+              127.45552062988281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Item",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              150.28419494628906,
+              153.37721252441406,
+              165.60418701171875,
+              161.37721252441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airplane basic empty weight",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              55.356201171875,
+              178.4412384033203,
+              150.54820251464844,
+              186.4412384033203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Front seat occupants",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              55.356201171875,
+              194.4412384033203,
+              124.76421356201172,
+              202.4412384033203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Row 2 seats",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              55.356201171875,
+              210.4412384033203,
+              94.26020812988281,
+              218.4412384033203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Baggage (200 lb max.)",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              55.356197357177734,
+              226.4412384033203,
+              129.1002197265625,
+              234.4412384033203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Subtotal",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              55.356197357177734,
+              242.4412384033203,
+              83.69220733642578,
+              250.4412384033203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Zero fuel condition (3,500 max.)",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              91.356201171875,
+              258.44122314453125,
+              196.7801971435547,
+              266.44122314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "80",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              188.002197265625,
+              269.11212158203125,
+              205.794189453125,
+              285.11212158203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Fuel loading (gallons)",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              91.356201171875,
+              274.44122314453125,
+              162.7482147216797,
+              282.44122314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Subtotal",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              55.356197357177734,
+              290.44122314453125,
+              83.69220733642578,
+              298.44122314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Ramp condition",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              91.356201171875,
+              306.44122314453125,
+              144.68417358398438,
+              314.44122314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "* Less fuel for start, taxi, and takeo",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              85.35619354248047,
+              322.4408874511719,
+              196.7479705810547,
+              330.44122314453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ff",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              196.7479705810547,
+              322.7304382324219,
+              201.1959686279297,
+              330.7304382324219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Subtotal",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              55.356201171875,
+              338.4411926269531,
+              83.69220733642578,
+              346.4411926269531
+            ]
+          },
+          {
+            "type": "text",
+            "text": " conditio",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              117.57199096679688,
+              357.4408874511719,
+              146.97996520996094,
+              365.4408874511719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Takeoff",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.89199829101562,
+              357.7304382324219,
+              117.57199096679688,
+              365.7304382324219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "n",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.97996520996094,
+              357.7304382324219,
+              151.42796325683594,
+              365.7304382324219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "35",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              223.28219604492188,
+              366.9681091308594,
+              241.07418823242188,
+              382.9681091308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Less fuel to destination (gallons)",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              91.356201171875,
+              370.4411926269531,
+              198.33218383789062,
+              378.4411926269531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Landing condition",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              55.356201171875,
+              386.4411926269531,
+              116.44420623779297,
+              394.4411926269531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "* Fuel for start, taxi, and takeo",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              55.33220291137695,
+              417.712890625,
+              152.46800231933594,
+              425.71319580078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is normally 24 pounds at a moment index of 28.",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              159.13400268554688,
+              417.712890625,
+              316.95806884765625,
+              425.712890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ff ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              152.46800231933594,
+              418.00244140625,
+              159.13999938964844,
+              426.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Typical weight and balance loading form.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              78.67579650878906,
+              440.8989562988281,
+              229.67779541015625,
+              449.8989562988281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-6. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              441.97930908203125,
+              78.68000030517578,
+              449.97930908203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Locate the moment divided by 100 diagonal line for 4,296 and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              461.08746337890625,
+              524.4403686523438,
+              471.08746337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Occupant Moments/100",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              107.49150085449219,
+              469.5586242675781,
+              197.635498046875,
+              477.5586242675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "follow it down until it crosses the horizontal line for 3,781 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              473.58746337890625,
+              524.4999389648438,
+              483.58746337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pounds. These lines cross inside the envelope at the vertical ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              486.08746337890625,
+              524.5120849609375,
+              496.08746337890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Front seats",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              132.9235076904297,
+              488.71063232421875,
+              175.42752075195312,
+              496.71063232421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Row 2 seats",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              204.8035125732422,
+              488.71063232421875,
+              250.91551208496094,
+              496.71063232421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              64.05950164794922,
+              492.838623046875,
+              90.29150390625,
+              500.838623046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Arm +105",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              135.11550903320312,
+              496.71063232421875,
+              173.2355194091797,
+              504.71063232421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Arm +142",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              208.8035125732422,
+              496.71063232421875,
+              246.92352294921875,
+              504.71063232421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "line for a CG location of 114 (113.6) inches aft of the datum.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              498.58746337890625,
+              522.0050048828125,
+              508.58746337890625
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ]
+            ],
+            "bbox": [
+              41.92194938659668,
+              508.5724792480469,
+              265.4129943847656,
+              686.4658508300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The maximum allowable takeoff weight is 3,900 pounds, and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              523.5874633789062,
+              524.6209716796875,
+              533.5874633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "this airplane weighs 3,781 pounds. The CG limits for 3,781 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              536.0874633789062,
+              524.5,
+              546.0874633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pounds are 109.8 to 117.5. The CG of 114 (113.6) inches ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              548.5874633789062,
+              524.5029907226562,
+              558.5874633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "falls within these allowable limits.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              561.0874633789062,
+              422.5000305175781,
+              571.0874633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sample weight and moment index for occupants.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              78.23789978027344,
+              699.0814819335938,
+              252.97291564941406,
+              708.0814819335938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-7. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              35.56209945678711,
+              700.161865234375,
+              78.24209594726562,
+              708.161865234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pounds (3,900 max.)",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              300.908203125,
+              153.37721252441406,
+              367.7802429199219,
+              161.37721252441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Index moment/100",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              423.4042053222656,
+              153.37721252441406,
+              487.6202392578125,
+              161.37721252441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,864",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              438.5172119140625,
+              172.80300903320312,
+              478.5491943359375,
+              188.80300903320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,625",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              314.8511962890625,
+              173.44015502929688,
+              354.8831787109375,
+              189.44015502929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "336",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              451.8612060546875,
+              188.80300903320312,
+              478.5491943359375,
+              204.80300903320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "320",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              328.1951904296875,
+              189.44015502929688,
+              354.8831787109375,
+              205.44015502929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "412",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              451.8612060546875,
+              204.80300903320312,
+              478.5491943359375,
+              220.80300903320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "290",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              328.1951904296875,
+              205.44015502929688,
+              354.8831787109375,
+              221.44015502929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "150",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              451.8612060546875,
+              220.80300903320312,
+              478.5491943359375,
+              236.80300903320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "90",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              337.0911865234375,
+              221.44015502929688,
+              354.8831787109375,
+              237.44015502929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,762",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              438.5172119140625,
+              236.80300903320312,
+              478.5491943359375,
+              252.80300903320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,325",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              314.8511962890625,
+              237.44015502929688,
+              354.8831787109375,
+              253.44015502929688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "562",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              451.8612060546875,
+              268.8030090332031,
+              478.5491943359375,
+              284.8030090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "480",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              328.1951904296875,
+              269.4401550292969,
+              354.8831787109375,
+              285.4401550292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,324",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              438.5172119140625,
+              284.8030090332031,
+              478.5491943359375,
+              300.8030090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,805",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              314.8511962890625,
+              285.4401550292969,
+              354.8831787109375,
+              301.4401550292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "−28",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              451.4132080078125,
+              316.8030090332031,
+              478.5491943359375,
+              332.8030090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "−24",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              327.7471923828125,
+              317.4401550292969,
+              354.8831787109375,
+              333.4401550292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,296",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              438.5172119140625,
+              332.8030090332031,
+              478.5491943359375,
+              348.8030090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,781",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              314.8511962890625,
+              333.4401550292969,
+              354.8831787109375,
+              349.4401550292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "−246",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              442.5172119140625,
+              364.8030090332031,
+              478.5491943359375,
+              380.8030090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "−210",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              318.8511962890625,
+              365.4401550292969,
+              354.8831787109375,
+              381.4401550292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,050",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              438.5172119140625,
+              380.8030090332031,
+              478.5491943359375,
+              396.8030090332031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,571",
+            "font_name": "Arial",
+            "font_size": 16.0,
+            "color": "#231F20",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              314.8511962890625,
+              381.4401550292969,
+              354.8831787109375,
+              397.4401550292969
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 59,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Baggage Moments/100",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              143.9293975830078,
+              51.62933349609375,
+              231.27340698242188,
+              59.62933349609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              120.32139587402344,
+              69.90936279296875,
+              146.5533905029297,
+              77.90936279296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Arm +167",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              224.18539428710938,
+              69.90936279296875,
+              262.305419921875,
+              77.90936279296875
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ],
+              [
+                "",
+                ""
+              ]
+            ],
+            "bbox": [
+              77.9219741821289,
+              79.76677703857422,
+              301.4129943847656,
+              300.97669982910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sample weight and moment index for baggage.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              114.67579650878906,
+              314.1647644042969,
+              283.9118347167969,
+              323.1647644042969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-8. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              315.2451171875,
+              114.67999267578125,
+              323.2451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Usable Fuel – Arm +117",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              143.05360412597656,
+              340.6531066894531,
+              234.3976287841797,
+              348.6531066894531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Gallons",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              99.6216049194336,
+              356.2290954589844,
+              128.74160766601562,
+              364.2290954589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pounds",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              175.28561401367188,
+              356.2290954589844,
+              204.18161010742188,
+              364.2290954589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moment/100",
+            "font_name": "Swiss721BT-Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              239.9816131591797,
+              356.2290954589844,
+              286.8616638183594,
+              364.2290954589844
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ],
+              [
+                "",
+                "",
+                ""
+              ]
+            ],
+            "bbox": [
+              77.9219741821289,
+              366.5765380859375,
+              301.4129943847656,
+              477.6289520263672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sample weight and moment index for fuel.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              113.80000305175781,
+              490.6317443847656,
+              265.5400390625,
+              499.6317443847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-9. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              71.12419891357422,
+              491.71209716796875,
+              113.80419158935547,
+              499.71209716796875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 60,
+        "elements": [
+          {
+            "type": "text",
+            "text": "4,400",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              199.3932342529297,
+              62.881526947021484,
+              218.5685577392578,
+              76.62849426269531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,500",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              248.62623596191406,
+              62.965633392333984,
+              267.7949523925781,
+              76.70973205566406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,300",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              154.96722412109375,
+              62.989620208740234,
+              174.13595581054688,
+              76.73371887207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,200",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              107.1538314819336,
+              63.097957611083984,
+              126.32913208007812,
+              76.84492492675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,100",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              92.7540283203125,
+              77.46295166015625,
+              111.92932891845703,
+              91.20991516113281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,000",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              96.17813110351562,
+              98.225830078125,
+              115.35343170166016,
+              111.97279357910156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum takeoff",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              135.8477020263672,
+              111.48228454589844,
+              196.75169372558594,
+              119.48228454589844
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                null,
+                "nd landing weight",
+                ""
+              ],
+              [
+                "ailable on the AWC’s website a",
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              122.58575057983398,
+              116.42060852050781,
+              265.41089884440106,
+              133.96197509765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,900",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.47981262207031,
+              120.83317565917969,
+              119.65571594238281,
+              134.56634521484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,800",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              103.66860961914062,
+              143.30162048339844,
+              122.8445053100586,
+              157.0347900390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,700",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              107.77631378173828,
+              166.1666717529297,
+              126.95220947265625,
+              179.89984130859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,600",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              111.56631469726562,
+              188.86863708496094,
+              130.74221801757812,
+              202.601806640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,500",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.0055160522461,
+              211.51963806152344,
+              134.18142700195312,
+              225.2528076171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,400",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              118.74571228027344,
+              231.1105194091797,
+              137.92160034179688,
+              244.84368896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,300",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              122.0034408569336,
+              253.675048828125,
+              141.1787567138672,
+              267.4220886230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Moment/100",
+            "font_name": "Arial",
+            "font_size": 7.940396785736084,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              104.50201416015625,
+              272.7620544433594,
+              119.90135955810547,
+              317.9781188964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,200",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199044704437256,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              125.42753601074219,
+              274.43804931640625,
+              144.59625244140625,
+              288.18218994140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,100",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.7294158935547,
+              295.1636657714844,
+              148.90530395507812,
+              308.89691162109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,000",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              134.4232177734375,
+              320.64166259765625,
+              153.59912109375,
+              334.3749084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,900",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              137.40252685546875,
+              340.8736572265625,
+              156.57843017578125,
+              354.6069030761719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,800",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              141.192626953125,
+              361.3176574707031,
+              160.3685302734375,
+              375.0509033203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,700",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              145.0076141357422,
+              384.3455505371094,
+              164.18350219726562,
+              398.07879638671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,600",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.1990580558776855,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              149.12461853027344,
+              407.3226623535156,
+              168.30050659179688,
+              421.055908203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "106 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              191.89300537109375,
+              455.60284423828125,
+              207.46099853515625,
+              463.60284423828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "108 110 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              215.5570068359375,
+              455.60284423828125,
+              252.84500122070312,
+              463.60284423828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "112 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              259.9490051269531,
+              455.60284423828125,
+              275.5169982910156,
+              463.60284423828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "114 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              282.14898681640625,
+              455.60284423828125,
+              297.71697998046875,
+              463.60284423828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CG inches aft of datum",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              222.28500366210938,
+              466.39483642578125,
+              304.1009826660156,
+              474.39483642578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Envelope based on the following weight and CG limit data (landing gear down)",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              127.17919921875,
+              482.50482177734375,
+              404.64312744140625,
+              490.50482177734375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight condition ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              149.62399291992188,
+              501.4382019042969,
+              216.73599243164062,
+              509.4382019042969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "FWD CG limit ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.8240051269531,
+              501.4382019042969,
+              339.1600036621094,
+              509.4382019042969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,900 pounds (max takeoff/landing) ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              123.0,
+              513.5778198242188,
+              250.62396240234375,
+              521.5778198242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,250 pounds or less ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              123.00799560546875,
+              523.1777954101562,
+              199.4959716796875,
+              531.1777954101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sample moment limits versus weight envelope.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              82.20780181884766,
+              557.4550170898438,
+              249.6888427734375,
+              566.4550170898438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-10. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              35.082801818847656,
+              558.535400390625,
+              82.21080017089844,
+              566.535400390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,600",
+            "font_name": "Swiss721BT-Roman",
+            "font_size": 7.199052810668945,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              299.53082275390625,
+              63.035240173339844,
+              318.6790466308594,
+              77.19298553466797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "4,000",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              404.30999755859375,
+              79.29364013671875,
+              425.46728515625,
+              87.25308990478516
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,900",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              401.0369567871094,
+              102.1402587890625,
+              422.1942443847656,
+              110.0997085571289
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,800",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              397.763916015625,
+              124.98687744140625,
+              418.92120361328125,
+              132.94631958007812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,600",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              391.2178649902344,
+              170.68011474609375,
+              412.3751525878906,
+              178.63955688476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Maximum zero fuel weight",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              396.343994140625,
+              182.5618133544922,
+              489.2559814453125,
+              190.5618133544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,500",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              387.94482421875,
+              193.5267333984375,
+              409.10211181640625,
+              201.48617553710938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,400",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              384.6717834472656,
+              216.37335205078125,
+              405.8290710449219,
+              224.33279418945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,200",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              378.1268615722656,
+              262.05865478515625,
+              399.2841491699219,
+              270.0180969238281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight (lb)",
+            "font_name": "Arial",
+            "font_size": 7.937592506408691,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              396.7633972167969,
+              279.56927490234375,
+              411.6280822753906,
+              318.1123046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3,000",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              371.580810546875,
+              307.7518615722656,
+              392.73809814453125,
+              315.7113037109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,800",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              365.035888671875,
+              353.4371337890625,
+              386.19317626953125,
+              361.3965759277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,600",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              358.4898376464844,
+              399.1303405761719,
+              379.6471252441406,
+              407.08978271484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,400",
+            "font_name": "Arial",
+            "font_size": 7.959446907043457,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              351.94378662109375,
+              444.82354736328125,
+              373.10107421875,
+              452.7829895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "116 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              304.18896484375,
+              455.60284423828125,
+              319.7569580078125,
+              463.60284423828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "118",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              326.7009582519531,
+              455.60284423828125,
+              340.0449523925781,
+              463.60284423828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aft CG limit",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              365.239990234375,
+              501.4382019042969,
+              409.239990234375,
+              509.4382019042969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "110.6 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              301.36798095703125,
+              513.5778198242188,
+              323.60797119140625,
+              521.5778198242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "117.5",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              377.23199462890625,
+              513.5778198242188,
+              397.24798583984375,
+              521.5778198242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "106.6 ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              301.3759765625,
+              523.1777954101562,
+              323.615966796875,
+              531.1777954101562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "117.5",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              377.239990234375,
+              523.1777954101562,
+              397.2559814453125,
+              531.1777954101562
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

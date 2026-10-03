@@ -1,0 +1,277 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "appendix",
+    "title": "Appendix G - Websites",
+    "start_page": 512,
+    "end_page": 513,
+    "pages": [
+      {
+        "page_number": 512,
+        "elements": []
+      },
+      {
+        "page_number": 513,
+        "elements": [
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              74.00238800048828,
+              95.05079650878906,
+              84.98238372802734
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NWS Real-Time Mesoscale Analysis (RTMA) Alternative Report of Surface Temperature: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              74.2024154663086,
+              512.3306274414062,
+              85.18241882324219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "https://nomads.ncep.noaa.gov/pub/data/nccf/com/rtma/prod/airport_temps",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              86.8624496459961,
+              434.3125915527344,
+              97.84245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              105.08240509033203,
+              95.05079650878906,
+              116.0624008178711
+            ]
+          },
+          {
+            "type": "text",
+            "text": "National Oceanic and Atmospheric Administration (NOAA) Washington Volcanic Ash Advisory ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              105.28243255615234,
+              539.1383056640625,
+              116.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Center (VAAC): ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              117.94246673583984,
+              184.35336303710938,
+              128.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "https://www.ospo.noaa.gov/Products/atmosphere/vaac",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              184.39999389648438,
+              117.94246673583984,
+              423.36865234375,
+              128.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              136.182373046875,
+              95.05079650878906,
+              147.16238403320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NWS Weather Forecast Office (WFO) Honolulu: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              136.38241577148438,
+              327.8724670410156,
+              147.36241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              154.66241455078125,
+              95.05079650878906,
+              165.64242553710938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NWS Weather Prediction Center (WPC): ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              154.86245727539062,
+              292.0997009277344,
+              165.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "https://www.wpc.ncep.noaa.gov",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              292.2200012207031,
+              154.86245727539062,
+              433.87274169921875,
+              165.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "•",
+            "font_name": "SymbolMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.0,
+              173.0823974609375,
+              95.05079650878906,
+              184.06240844726562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather radars [Department of Defense (DOD), FAA, and NWS’ Next Generation Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              173.28244018554688,
+              516.089111328125,
+              184.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Radar (NEXRAD) and FAA’s terminal Doppler weather radar (TDWR)]: ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              185.94247436523438,
+              434.4850158691406,
+              196.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "https://radar.weather.gov",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              198.60244750976562,
+              217.87501525878906,
+              209.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "https://www.weather.gov/HFO",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#0000FF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              328.0,
+              136.38241577148438,
+              464.12982177734375,
+              147.36241149902344
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

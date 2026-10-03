@@ -1,0 +1,2316 @@
+{
+  "book_id": "WeightBalance",
+  "book_title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 4",
+    "start_page": 43,
+    "end_page": 48,
+    "pages": [
+      {
+        "page_number": 43,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Chapter 4",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 16.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              43.474674224853516,
+              122.49600219726562,
+              59.474674224853516
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p43_b4.png",
+            "bbox": [
+              63.70000076293945,
+              53.69862365722656,
+              553.2999877929688,
+              173.2186279296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Light Sport Aircraft Weight ",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 48.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              61.33320236206055,
+              479.75518798828125,
+              109.33320617675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and Balance Control",
+            "font_name": "AgencyFB-Reg",
+            "font_size": 48.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              109.33320617675781,
+              370.12799072265625,
+              157.3332061767578
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p43_b1.png",
+            "bbox": [
+              55.05000305175781,
+              163.1818084716797,
+              325.77001953125,
+              265.42181396484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              178.24569702148438,
+              141.60000610351562,
+              190.24569702148438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This chapter discusses the weight and balance procedures ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              195.89540100097656,
+              311.5050048828125,
+              205.89540100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for light sport aircraft (LSA) that differ from conventional ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              208.39540100097656,
+              311.5100402832031,
+              218.39540100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft, specifically weight-shift control (WSC) aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.89540100097656,
+              311.34112548828125,
+              230.89540100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(also called trikes), powered parachutes, and amateur-built ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              233.39540100097656,
+              311.50994873046875,
+              243.39540100097656
+            ]
+          },
+          {
+            "type": "text",
+            "text": " [Figure 4-1]",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              93.38998413085938,
+              245.86729431152344,
+              146.71998596191406,
+              255.86729431152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LSA.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              71.99998474121094,
+              245.89540100097656,
+              93.38998413085938,
+              255.89540100097656
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 44,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p44_b2.png",
+            "bbox": [
+              36.0,
+              46.3726806640625,
+              522.0,
+              504.7726745605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Examples of light sport aircraft (from top left, clockwise): weight-shift control, powered parachute, glider, airplanes, hot ",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              79.47509765625,
+              515.0904541015625,
+              524.2742919921875,
+              524.0904541015625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-1. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              516.1708374023438,
+              79.07599639892578,
+              524.1708374023438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "air balloon, and amateur-built LSA.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              35.996097564697266,
+              527.5914916992188,
+              165.50608825683594,
+              536.5914916992188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and fixed-pitch or ground-adjustable propeller; and a single ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              544.0261840820312,
+              524.5160522460938,
+              554.0261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LSA Definition of Term",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              544.737060546875,
+              144.33999633789062,
+              554.737060546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reciprocating engine (if powered). ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              556.5261840820312,
+              424.12994384765625,
+              566.5261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LSA is a category of simple, very basic, small, light-weight, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              557.8761596679688,
+              275.509033203125,
+              567.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "low-performance aircraft, other than a helicopter or powered-",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              570.3761596679688,
+              272.866943359375,
+              580.3761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An aircraft that qualifies as LSA may be operated by the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              581.5261840820312,
+              524.5139770507812,
+              591.5261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "lift, and a classification of aircraft specific to the United ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              582.8761596679688,
+              275.41107177734375,
+              592.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "holder of a sport pilot certificate, whether registered as LSA ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              594.0261840820312,
+              524.5079345703125,
+              604.0261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "States. The Federal Aviation Administration (FAA) defines",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              595.3761596679688,
+              273.5530090332031,
+              605.3761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "or not. Pilots with a private, recreational, or higher pilot ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              606.5261840820312,
+              524.446533203125,
+              616.5261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "LSA as an aircraft with a maximum gross takeoff weight of ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              607.8761596679688,
+              275.5010070800781,
+              617.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "certificatemay also flyLSA, even if their medical certificate  ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              619.0261840820312,
+              524.4236450195312,
+              629.0261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "not more than 1,320 pounds (600 kg) for aircraft not intended ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              620.3761596679688,
+              275.5898742675781,
+              630.3761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have expired, as long as they have a valid driver’s license to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              631.5261840820312,
+              524.5140991210938,
+              641.5261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for operation over water, or 1,430 pounds (650 kg) for aircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              632.8761596679688,
+              275.49114990234375,
+              642.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prove that they are in good enough health to fly. LSA also ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              644.0261840820312,
+              524.5140380859375,
+              654.0261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "intended for operation over water; a maximum airspeed in ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              645.3761596679688,
+              275.5019836425781,
+              655.3761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have less restrictive maintenance requirements and may be ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              656.5261840820312,
+              524.5140380859375,
+              666.5261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fl",
+            "font_name": "Times-Roman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              56.900001525878906,
+              657.7194213867188,
+              62.46000289916992,
+              667.7194213867188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "level ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              657.8761596679688,
+              57.589996337890625,
+              667.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "ight of 120 knots (220 kilometers per hour (km/h); 140 ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              62.400001525878906,
+              657.8761596679688,
+              275.32684326171875,
+              667.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maintained and inspected by traditionally certificatedaircraft ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              669.0261840820312,
+              524.5496826171875,
+              679.0261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "miles per hour (mph)); a maximum stall speed of 45 knots ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.01000213623047,
+              670.3761596679688,
+              275.5100402832031,
+              680.3761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maintenance technicians (AMTs) or by individuals holding ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.010009765625,
+              681.5261840820312,
+              524.509033203125,
+              691.5261840820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(83 km/h; 52 mph); a maximum seating capacity of no more ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.01000213623047,
+              682.8761596679688,
+              275.51300048828125,
+              692.8761596679688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than two persons (including the pilot); fixed undercarriage ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.01000213623047,
+              695.3761596679688,
+              275.52301025390625,
+              705.3761596679688
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 45,
+        "elements": []
+      },
+      {
+        "page_number": 46,
+        "elements": [
+          {
+            "type": "text",
+            "text": "example, if the aircraft is flownby a heavy person, the attach ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              44.26996994018555,
+              275.5331115722656,
+              54.26996994018555
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forward to prevent the aircraft from being too nose heavy. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              44.26996994018555,
+              524.505859375,
+              54.26996994018555
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-5 ",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              285.0,
+              56.74186325073242,
+              331.0899963378906,
+              66.74186706542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "point can be moved farther aft, bringing the wing forward to ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              56.76996994018555,
+              275.5301208496094,
+              66.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-3",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              171.33999633789062,
+              69.24186706542969,
+              213.75001525878906,
+              79.24186706542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "compensate for the change in CG. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              69.26997375488281,
+              171.75904846191406,
+              79.26997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": " shows a close-",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              213.70999145507812,
+              69.26997375488281,
+              272.9940185546875,
+              79.26997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and the location of the wing attachment. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              69.26997375488281,
+              448.30999755859375,
+              79.26997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "up of the wing attach point and the small amount of forward ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              81.76997375488281,
+              275.5340576171875,
+              91.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and aft movement that is available.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              94.26997375488281,
+              174.9500274658203,
+              104.26997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A powered parachute used for sport and private flying must ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              94.26997375488281,
+              524.5020141601562,
+              104.26997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "be registered with an FAA N-number, have an airworthiness ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              106.76997375488281,
+              524.5029907226562,
+              116.76997375488281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "certificate, a POH, and/or limitations with a weight and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              119.26997375488281,
+              524.5298461914062,
+              129.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Rear collar adjusted to eliminate gap when ",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.68990325927734,
+              122.13139343261719,
+              262.0898742675781,
+              130.1313934326172
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b3.png",
+            "bbox": [
+              54.947967529296875,
+              125.71879577636719,
+              258.011962890625,
+              274.7828063964844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pivot block assembly is against front collar",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.68990325927734,
+              130.1313934326172,
+              258.0738830566406,
+              138.1313934326172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "balance document aboard. The aircraft must be maintained ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              131.7699737548828,
+              524.5120239257812,
+              141.7699737548828
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b25.png",
+            "bbox": [
+              65.0,
+              135.0,
+              93.0,
+              226.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "properly by the aircraft owner, or other qualified personnel, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              144.2699737548828,
+              524.5029296875,
+              154.2699737548828
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b28.png",
+            "bbox": [
+              95.0,
+              145.0,
+              146.0,
+              160.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Front collar",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.42769622802734,
+              149.5055389404297,
+              140.43569946289062,
+              157.5055389404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and have the aircraft logbooks available for inspection. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              156.7699737548828,
+              524.4619140625,
+              166.7699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Distance from nose",
+            "font_name": "Arial",
+            "font_size": 6.0,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.33740234375,
+              163.69033813476562,
+              142.02139282226562,
+              169.69033813476562
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b5.png",
+            "bbox": [
+              136.0,
+              164.0,
+              237.0,
+              204.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Always refer to the POH for weight and balance information ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              169.2699737548828,
+              524.3566284179688,
+              179.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "plate to front edge ",
+            "font_name": "Arial",
+            "font_size": 6.0,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.33740234375,
+              171.68832397460938,
+              140.3713836669922,
+              177.68832397460938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of front collar",
+            "font_name": "Arial",
+            "font_size": 6.0,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.33740234375,
+              179.68630981445312,
+              125.01739501953125,
+              185.68630981445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\"",
+            "font_name": "Arial",
+            "font_size": 7.999964237213135,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              137.75164794921875,
+              181.2925262451172,
+              143.00282287597656,
+              189.7806396484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specifi  to the powered parachute being fl wn. For additional ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              181.7699737548828,
+              524.527587890625,
+              191.7699737548828
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b8.png",
+            "bbox": [
+              163.0,
+              183.0,
+              168.0,
+              186.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "/",
+            "font_name": "Arial",
+            "font_size": 7.999964237213135,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              132.48414611816406,
+              183.2691650390625,
+              137.1517333984375,
+              191.56011962890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Arial",
+            "font_size": 5.999965190887451,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              129.1664276123047,
+              183.5187225341797,
+              134.24742126464844,
+              190.27078247070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2",
+            "font_name": "Arial",
+            "font_size": 5.999965190887451,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              135.07342529296875,
+              183.63389587402344,
+              140.1544189453125,
+              190.38595581054688
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b6.png",
+            "bbox": [
+              163.0,
+              184.0,
+              165.0,
+              204.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b9.png",
+            "bbox": [
+              164.0,
+              184.0,
+              168.0,
+              204.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b17.png",
+            "bbox": [
+              164.0,
+              184.0,
+              174.0,
+              188.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b11.png",
+            "bbox": [
+              164.0,
+              185.0,
+              171.0,
+              193.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "\" to 52",
+            "font_name": "Arial",
+            "font_size": 7.999964237213135,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              107.66974639892578,
+              185.04908752441406,
+              131.8838348388672,
+              199.94384765625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b7.png",
+            "bbox": [
+              170.0,
+              186.0,
+              176.0,
+              189.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b20.png",
+            "bbox": [
+              71.0,
+              187.0,
+              169.0,
+              227.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b18.png",
+            "bbox": [
+              165.0,
+              187.0,
+              170.0,
+              194.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b15.png",
+            "bbox": [
+              170.0,
+              187.0,
+              172.0,
+              208.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b16.png",
+            "bbox": [
+              171.0,
+              187.0,
+              176.0,
+              208.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b10.png",
+            "bbox": [
+              164.0,
+              190.0,
+              171.0,
+              199.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "/",
+            "font_name": "Arial",
+            "font_size": 7.999964237213135,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              102.40264129638672,
+              193.432373046875,
+              107.07022094726562,
+              201.72332763671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1",
+            "font_name": "Arial",
+            "font_size": 5.999965190887451,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              99.08493041992188,
+              193.6819305419922,
+              104.16592407226562,
+              200.43399047851562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2",
+            "font_name": "Arial",
+            "font_size": 5.999965190887451,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              104.99213409423828,
+              193.79722595214844,
+              110.07312774658203,
+              200.54928588867188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information, refer to the Powered Parachute Flying Handbook ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              194.2699737548828,
+              524.4622192382812,
+              204.2699737548828
+            ]
+          },
+          {
+            "type": "text",
+            "text": "50",
+            "font_name": "Arial",
+            "font_size": 7.999964237213135,
+            "color": "#ED1D24",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              90.81104278564453,
+              195.21315002441406,
+              101.79959869384766,
+              205.6396484375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b22.png",
+            "bbox": [
+              147.0,
+              196.0,
+              154.0,
+              204.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b24.png",
+            "bbox": [
+              152.0,
+              196.0,
+              157.0,
+              198.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b23.png",
+            "bbox": [
+              153.0,
+              196.0,
+              157.0,
+              204.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b19.png",
+            "bbox": [
+              126.0,
+              199.0,
+              152.0,
+              225.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b14.png",
+            "bbox": [
+              164.0,
+              199.0,
+              171.0,
+              205.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b12.png",
+            "bbox": [
+              164.0,
+              201.0,
+              175.0,
+              235.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b21.png",
+            "bbox": [
+              152.0,
+              202.0,
+              172.0,
+              244.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b13.png",
+            "bbox": [
+              170.0,
+              203.0,
+              179.0,
+              234.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(FAA-H-8083-29).",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              206.7699737548828,
+              361.36993408203125,
+              216.7699737548828
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b27.png",
+            "bbox": [
+              63.0,
+              216.0,
+              79.0,
+              233.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b26.png",
+            "bbox": [
+              73.0,
+              226.0,
+              162.0,
+              269.0
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b30.png",
+            "bbox": [
+              189.0,
+              226.0,
+              238.0,
+              241.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weight and Balance Computations ",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              230.17031860351562,
+              485.2808532714844,
+              242.17031860351562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Trike mast",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              194.5989990234375,
+              230.50608825683594,
+              231.93499755859375,
+              238.50608825683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(Amateur-Built Aircraft)",
+            "font_name": "Arial,Bold",
+            "font_size": 12.0,
+            "color": "#EF4144",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              242.17031860351562,
+              417.5037536621094,
+              254.17031860351562
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b34.png",
+            "bbox": [
+              139.0,
+              246.0,
+              219.0,
+              262.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Control frame apex",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              146.16799926757812,
+              251.33921813964844,
+              214.19198608398438,
+              259.3392333984375
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b32.png",
+            "bbox": [
+              44.0,
+              253.0,
+              110.0,
+              268.0
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Keel nose plate",
+            "font_name": "Arial",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              49.690399169921875,
+              257.8392333984375,
+              104.83438873291016,
+              265.8392333984375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "A good weight and balance calculation is the keystone ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              259.8199768066406,
+              524.59765625,
+              269.8199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of flight testing an amateur-built aircraft. Accurately ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              272.3199768066406,
+              524.6467895507812,
+              282.3199768066406
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b4.png",
+            "bbox": [
+              54.947967529296875,
+              272.71875,
+              258.011962890625,
+              275.86279296875
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p46_b2.png",
+            "bbox": [
+              54.947967529296875,
+              273.6788024902344,
+              258.011962890625,
+              291.82281494140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Wing attach point.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              78.67579650878906,
+              284.2036437988281,
+              145.42880249023438,
+              293.2036437988281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "determining the aircraft’s takeoff weight and ensuring that ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              284.8199768066406,
+              524.5049438476562,
+              294.8199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-3. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              285.28399658203125,
+              78.68000030517578,
+              293.28399658203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the CG is within the aircraft’s design for each flightis critical ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              297.3199768066406,
+              524.5099487304688,
+              307.3199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Similar to airplanes, sailplanes, and powered parachutes, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              306.76995849609375,
+              275.5870666503906,
+              316.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to conducting a safe flight test",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              309.8199768066406,
+              405.82000732421875,
+              319.8199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "increasing weight creates increases in speed and descent ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              319.26995849609375,
+              275.5959167480469,
+              329.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "rate. However, the WSC aircraft has a unique characteristic. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              331.76995849609375,
+              275.5040588378906,
+              341.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aircraft should be level when weighed, spanwise and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              334.8199768066406,
+              524.501953125,
+              344.8199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Adding weight to a WSC aircraft creates more twist in the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              344.26995849609375,
+              275.4930114746094,
+              354.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "fore and aft in accordance with the kit manufacturer’s ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              347.3199768066406,
+              524.6224975585938,
+              357.3199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "wing because the outboard leading edges flex more. With ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              356.76995849609375,
+              275.4949951171875,
+              366.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "instructions, and should be in the level flight position. It ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              359.8199768066406,
+              524.6283569335938,
+              369.8199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "less lift at the tips, a nose-up effect is created and the trim ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              369.26995849609375,
+              275.4990234375,
+              379.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is highly recommended that the aircraft be weighed in an ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              372.3199768066406,
+              524.4999389648438,
+              382.3199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "speed lowers. Therefore, adding weight can increase speed ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              381.76995849609375,
+              275.4990234375,
+              391.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "enclosed area using three calibrated scales. Bathroom scales ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              384.8199768066406,
+              524.503173828125,
+              394.8199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "similar to other aircraft, but reduce the trim speed because ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              394.26995849609375,
+              275.5050354003906,
+              404.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are not recommended because they are not always accurate.",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              285.0,
+              397.3199768066406,
+              522.009033203125,
+              407.3199768066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the increased twist unique to the WSC aircraft. Each ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              406.76995849609375,
+              275.6300354003906,
+              416.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "manufacturer’s make/model has different effects depending ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              419.26995849609375,
+              275.4960632324219,
+              429.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "on the specific design. For detailed weight and balance ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              431.76995849609375,
+              275.5597839355469,
+              441.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information, characteristics, and operating limitations, always ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              444.26995849609375,
+              275.59588623046875,
+              454.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "reference the specificmanufacturer’s manual or POH for the ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              456.76995849609375,
+              275.614013671875,
+              466.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-4",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              106.94998931884766,
+              469.2418518066406,
+              149.9530029296875,
+              479.2418518066406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "make and model. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              35.989990234375,
+              469.26995849609375,
+              106.9959945678711,
+              479.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": " shows an example of a weight ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              149.9530029296875,
+              469.26995849609375,
+              275.5,
+              479.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and loading sheet that would be issued with a WSC aircraft. ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              481.76995849609375,
+              275.5079345703125,
+              491.76995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Every aircraft has its own weight and loading data that should ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              494.26995849609375,
+              275.60382080078125,
+              504.26995849609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-4",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              228.67999267578125,
+              506.7418518066406,
+              272.97998046875,
+              516.7418823242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "come from the manufacturer. The example in ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              506.76995849609375,
+              227.3560333251953,
+              516.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "comes from Airborne, an Australian company, named ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              519.2699584960938,
+              275.429931640625,
+              529.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Airborne XT WSC aircraft. For additional information, ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              531.7699584960938,
+              275.4151306152344,
+              541.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "refer to the Weight-Shift Control Aircraft Flying Handbook ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              544.2699584960938,
+              275.5050048828125,
+              554.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(FAA-H-8083-5).",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              556.7699584960938,
+              107.37001037597656,
+              566.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered Parachutes",
+            "font_name": "Arial,Bold",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              581.630859375,
+              134.3699951171875,
+              591.630859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered parachutes have many of the same characteristics ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              594.7699584960938,
+              275.51605224609375,
+              604.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "as WSC aircraft when it comes to weight and balance. They ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              607.2699584960938,
+              275.5040283203125,
+              617.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "have the same limited loading, with only one or two seats, and ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              619.7699584960938,
+              275.5220031738281,
+              629.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "a fuel tank. A powered parachute acts like a pendulum with ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              632.2699584960938,
+              275.50799560546875,
+              642.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the weight of the aircraft hanging beneath the inflated wing ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              644.7699584960938,
+              275.5060119628906,
+              654.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(parachute). The point at which the inflated wing attaches ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              657.2699584960938,
+              275.508056640625,
+              667.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the structure of the aircraft is adjustable to compensate ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              669.7699584960938,
+              275.5080261230469,
+              679.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for pilots and passengers of varying weights. With a ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              682.2699584960938,
+              275.45001220703125,
+              692.2699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "very heavy pilot, the wing attach point would be moved ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              694.7699584960938,
+              275.5800476074219,
+              704.7699584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "illustrates the structure of a powered parachute ",
+            "font_name": "TimesNewRoman",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              331.6199951171875,
+              56.76996994018555,
+              524.5100708007812,
+              66.76997375488281
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 47,
+        "elements": []
+      },
+      {
+        "page_number": 48,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/WeightBalance_p48_b2.png",
+            "bbox": [
+              36.0,
+              43.885650634765625,
+              522.9999389648438,
+              301.4856262207031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Powered parachute.",
+            "font_name": "TimesNewRoman,Italic",
+            "font_size": 9.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              78.67579650878906,
+              309.17486572265625,
+              151.66580200195312,
+              318.17486572265625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 4-8. ",
+            "font_name": "Arial,Bold",
+            "font_size": 8.0,
+            "color": "#000000",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              36.0,
+              310.2552185058594,
+              78.68000030517578,
+              318.2552185058594
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

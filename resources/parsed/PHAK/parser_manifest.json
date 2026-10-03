@@ -1,0 +1,154 @@
+{
+  "book_id": "PHAK",
+  "title": "Pilot's Handbook of Aeronautical Knowledge",
+  "pdf_path": "resources/library/PHAK/PHAK.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 16,
+      "end_page": 39,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 40,
+      "end_page": 71,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 72,
+      "end_page": 87,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 88,
+      "end_page": 97,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 98,
+      "end_page": 148,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 149,
+      "end_page": 160,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 161,
+      "end_page": 202,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 203,
+      "end_page": 230,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 231,
+      "end_page": 244,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 245,
+      "end_page": 256,
+      "content_path": "ch10.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 11",
+      "start_page": 257,
+      "end_page": 284,
+      "content_path": "ch11.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 12",
+      "start_page": 285,
+      "end_page": 310,
+      "content_path": "ch12.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 13",
+      "start_page": 311,
+      "end_page": 334,
+      "content_path": "ch13.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 14",
+      "start_page": 335,
+      "end_page": 375,
+      "content_path": "ch14.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 15",
+      "start_page": 376,
+      "end_page": 387,
+      "content_path": "ch15.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 16",
+      "start_page": 388,
+      "end_page": 422,
+      "content_path": "ch16.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 17",
+      "start_page": 423,
+      "end_page": 452,
+      "content_path": "ch17.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix A - Performance Data for Cessna Model 172R and Challenger 605",
+      "start_page": 453,
+      "end_page": 460,
+      "content_path": "section_018_appendix_appendix_a_performance_data_for_cessna_model_172r_and_challenger_605.json"
+    },
+    {
+      "type": "acronyms",
+      "title": "Acronyms",
+      "start_page": 461,
+      "end_page": 472,
+      "content_path": "section_019_acronyms.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix C - Airport Signs and Markings",
+      "start_page": 473,
+      "end_page": 476,
+      "content_path": "section_020_appendix_appendix_c_airport_signs_and_markings.json"
+    },
+    {
+      "type": "glossary",
+      "title": "Glossary",
+      "start_page": 477,
+      "end_page": 512,
+      "content_path": "section_021_glossary.json"
+    }
+  ]
+}

@@ -1,0 +1,961 @@
+{
+  "book_id": "RiskManagement",
+  "book_title": "Risk Management Handbook",
+  "pdf_path": "resources/library/RiskManagement/RiskManagement.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 7",
+    "start_page": 50,
+    "end_page": 53,
+    "pages": [
+      {
+        "page_number": 50,
+        "elements": []
+      },
+      {
+        "page_number": 51,
+        "elements": [
+          {
+            "type": "text",
+            "text": "12279",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              48.01917266845703,
+              79.0199966430664,
+              57.01917266845703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The use of automation comes with certain cautions. Automation should reduce workload, but in some instances, it may create ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              58.087425231933594,
+              560.51611328125,
+              68.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "more work, confusion, and contribute to errors. At other times, automation may lull pilots into complacency. Pilots who ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              69.0874252319336,
+              560.5230102539062,
+              79.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "consistently rely on an autopilot for flight path management may experience degraded ability to fly manually when required ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              80.0874252319336,
+              560.513916015625,
+              90.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to do so. For example, when flying in icing conditions, an automated system may make control inputs to compensate for ice ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              91.0874252319336,
+              560.4852294921875,
+              101.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "accumulation. However, if the system exceeds its limits, it could disconnect and leave the aircraft in an undesired state. A pilot ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              102.0874252319336,
+              560.4863891601562,
+              112.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "who has become unaccustomed to manual flight may not be prepared to handle the situation.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              113.0874252319336,
+              424.780029296875,
+              123.0874252319336
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12290",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              124.81916046142578,
+              79.0199966430664,
+              133.8191680908203
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Reprogramming tasks that occur unexpectedly can trigger pilot errors, which may result in flight path deviations or other ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              134.88742065429688,
+              560.529052734375,
+              144.88742065429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "undesired aircraft states. Pilots should anticipate the need to fly manually and be prepared to maintain the desired flight path ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              145.88742065429688,
+              560.5040283203125,
+              155.88742065429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "when manual control becomes necessary.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              156.88742065429688,
+              219.1220245361328,
+              166.88742065429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12287",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              168.6192169189453,
+              79.0199966430664,
+              177.6192169189453
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots who use automation should train and practice for various scenarios in order to avoid becoming overly distracted when ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              178.68746948242188,
+              560.47802734375,
+              188.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "making a programming change or correcting an error. Being startled or confused by a programming mistake or automation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              189.68746948242188,
+              560.5220336914062,
+              199.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "malfunction occurs less often when the pilot has the capability for transition to manual flight. If the automation is not functioning ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              200.68746948242188,
+              560.5198364257812,
+              210.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "according to expectation, the pilot may reduce the level of automation, fly manually, and take time to resolve the condition.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              211.68746948242188,
+              547.3870849609375,
+              221.68746948242188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Balancing Automated & Manual Flight",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#AA1E22",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              240.29660034179688,
+              251.6094207763672,
+              251.29660034179688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12291",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              252.41920471191406,
+              79.0199966430664,
+              261.419189453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots choose the level of flight path automation. Risk management strategies suggest using automation as an aid to manage ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              262.4874572753906,
+              560.5045166015625,
+              272.4874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "workload rather than to compensate for lack of proficiency. A balance of automated and manual flight that takes workload and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              273.4874572753906,
+              560.5191040039062,
+              283.4874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "proficiency into consideration gives the pilot greater opportunity to monitor the flight path and aircraft state.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              284.4874572753906,
+              487.2799377441406,
+              294.4874572753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12291-2",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              296.21917724609375,
+              87.02099609375,
+              305.21917724609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Choosing the appropriate level of automation for the task and adjusting as circumstances dictate is essential to effective use of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              306.2874450683594,
+              560.5142211914062,
+              316.2874450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "automation.  One of the most common errors is failing to move to lower levels of automation suitable to a changing environment.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              317.2874450683594,
+              558.0330200195312,
+              327.2874450683594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12292",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              329.0191650390625,
+              79.0199966430664,
+              338.0191650390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "For example, a pilot may track an approach course adequately using manual control inputs. However, the pilot may also need to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              339.0874328613281,
+              560.5331420898438,
+              349.0874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "listen to and record the Automatic Terminal Information Service (ATIS), retrieve and load an instrument approach procedure, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              350.0874328613281,
+              560.5121459960938,
+              360.0874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "prepare for the instrument approach, and accomplish the appropriate checklists. These tasks will increase workload and divert ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              361.0874328613281,
+              560.4971313476562,
+              371.0874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pilot attention from monitoring and controlling the flight path. If using an autopilot to track the approach, the automation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              372.0874328613281,
+              560.5099487304688,
+              382.0874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "performs the control inputs and allows the pilot to complete other tasks quickly and efficiently.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              383.0874328613281,
+              433.35498046875,
+              393.0874328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12293",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              394.8191833496094,
+              79.0199966430664,
+              403.8191833496094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Continuing the scenario above, the pilot loads the instrument approach and decides to remain on autopilot. However, after the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              404.887451171875,
+              560.5150756835938,
+              414.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft passes the initial approach fix, ATC cancels the approach clearance. ATC provides vectors and tells the pilot to expect ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              415.887451171875,
+              560.5286865234375,
+              425.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to hold. In this situation, the pilot may select basic autopilot modes that control heading and altitude in order to comply with the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              426.887451171875,
+              560.5090942382812,
+              436.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "assignment from ATC. The lower level of automation allows the pilot to program and configure the aircraft for an unexpected ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              437.887451171875,
+              560.5148315429688,
+              447.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "change while keeping the flightpath and aircraft state under control.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              448.887451171875,
+              325.04998779296875,
+              458.887451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12295",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              460.6191711425781,
+              79.0199966430664,
+              469.6191711425781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Pilots may sometimes choose to disengage the automation and fly the aircraft manually to maintain proficiency.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              470.68743896484375,
+              501.0069580078125,
+              480.68743896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Interacting with Automation",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#AA1E22",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              499.29656982421875,
+              199.03384399414062,
+              510.29656982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12296",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              511.419189453125,
+              79.0199966430664,
+              520.419189453125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Regardless of the level of automation, pilots should consider the following series of steps: [",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              521.4874267578125,
+              419.8000183105469,
+              531.4874267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12297",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              533.2191772460938,
+              79.0199966430664,
+              542.2191772460938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "1.\t Anticipate – Understand the system well enough to know what should happen before pushing a button or turning a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              67.0,
+              543.2874145507812,
+              541.780029296875,
+              553.2874145507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "knob.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              81.0,
+              554.2874145507812,
+              103.5,
+              564.2874145507812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12298",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              566.0191650390625,
+              79.0199966430664,
+              575.0191650390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.\t Act – Execute button pushes and knob turns to implement the desired automation.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              67.0,
+              576.08740234375,
+              409.030029296875,
+              586.08740234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12299",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              587.8191528320312,
+              79.0199966430664,
+              596.8191528320312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "3.\t Verify – Ensure the aircraft or avionics performs as expected.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              67.0,
+              597.8873901367188,
+              326.4830627441406,
+              607.8873901367188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "]",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              462.4375,
+              521.4874267578125,
+              465.7674865722656,
+              531.4874267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-2",
+            "font_name": "TimesNewRomanPS-ItalicMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              419.7616882324219,
+              521.5166015625,
+              462.4386901855469,
+              531.5166015625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 52,
+        "elements": []
+      },
+      {
+        "page_number": 53,
+        "elements": [
+          {
+            "type": "text",
+            "text": "autopilot systems with ease and in a routine manner.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              46.212730407714844,
+              263.1209716796875,
+              56.21273422241211
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12309",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              57.94446563720703,
+              79.0199966430664,
+              66.94446563720703
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Knowledge of system limitations and operating restrictions is also important. Pilots should know emergency procedures pertaining ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              68.0127182006836,
+              560.522216796875,
+              78.0127182006836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to disconnecting the autopilot as well as being able to locate appropriate checklists. Reviewing the system documentation and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              79.0127182006836,
+              560.5250854492188,
+              89.0127182006836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "aircraft flight manual supplements helps develop this knowledge.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              90.0127182006836,
+              315.0800476074219,
+              100.0127182006836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Chapter Summary",
+            "font_name": "Arial-BoldMT",
+            "font_size": 11.0,
+            "color": "#AA1E22",
+            "is_bold": true,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              118.6218490600586,
+              148.7429962158203,
+              129.62185668945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "12313",
+            "font_name": "Arial-ItalicMT",
+            "font_size": 9.0,
+            "color": "#FFFFFF",
+            "is_bold": false,
+            "is_italic": true,
+            "bbox": [
+              54.0,
+              130.74452209472656,
+              79.0199966430664,
+              139.74452209472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The increased use of automated systems, autopilots, and integrated flight decks help pilots manage an aircraft’s flight path. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              140.81277465820312,
+              560.5160522460938,
+              150.81277465820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "While an autopilot is engaged, a pilot’s attention should not disengage. Pilots need to maintain situational awareness and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              151.81277465820312,
+              560.5020751953125,
+              161.81277465820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "appropriate focus on the progress of the flight at all times. Balancing the use of automation with manual flying skills is necessary ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              162.81277465820312,
+              560.4931030273438,
+              172.81277465820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in case a particular situation requires pilot intervention. Using automation proficiently and at the appropriate level reduces risk ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              173.81277465820312,
+              560.50927734375,
+              183.81277465820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and helps prevent incidents and accidents.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              54.0,
+              184.81277465820312,
+              222.30001831054688,
+              194.81277465820312
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

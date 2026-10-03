@@ -1,0 +1,98 @@
+{
+  "book_id": "WeightBalance",
+  "title": "Aircraft Weight and Balance Handbook",
+  "pdf_path": "resources/library/WeightBalance/WeightBalance.pdf",
+  "sections": [
+    {
+      "type": "chapter",
+      "title": "Chapter 1",
+      "start_page": 15,
+      "end_page": 20,
+      "content_path": "ch01.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 2",
+      "start_page": 21,
+      "end_page": 32,
+      "content_path": "ch02.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 3",
+      "start_page": 33,
+      "end_page": 42,
+      "content_path": "ch03.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 4",
+      "start_page": 43,
+      "end_page": 48,
+      "content_path": "ch04.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 5",
+      "start_page": 49,
+      "end_page": 54,
+      "content_path": "ch05.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 6",
+      "start_page": 55,
+      "end_page": 60,
+      "content_path": "ch06.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 7",
+      "start_page": 61,
+      "end_page": 68,
+      "content_path": "ch07.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 8",
+      "start_page": 69,
+      "end_page": 72,
+      "content_path": "ch08.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 9",
+      "start_page": 73,
+      "end_page": 92,
+      "content_path": "ch09.json"
+    },
+    {
+      "type": "chapter",
+      "title": "Chapter 10",
+      "start_page": 93,
+      "end_page": 93,
+      "content_path": "ch10.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix A - Supplemental Study Materials for Aircraft Weight and Balance",
+      "start_page": 101,
+      "end_page": 102,
+      "content_path": "section_011_appendix_appendix_a_supplemental_study_materials_for_aircraft_weight_and_balance.json"
+    },
+    {
+      "type": "appendix",
+      "title": "Appendix B - Key Weight and Balance Locations on an Aircraft",
+      "start_page": 103,
+      "end_page": 104,
+      "content_path": "section_012_appendix_appendix_b_key_weight_and_balance_locations_on_an_aircraft.json"
+    },
+    {
+      "type": "glossary",
+      "title": "Glossary",
+      "start_page": 105,
+      "end_page": 110,
+      "content_path": "section_013_glossary.json"
+    }
+  ]
+}

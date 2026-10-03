@@ -1,0 +1,1411 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 7",
+    "start_page": 87,
+    "end_page": 94,
+    "pages": [
+      {
+        "page_number": 87,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p87_b2.png",
+            "bbox": [
+              57.540000915527344,
+              65.33999633789062,
+              550.0800170898438,
+              241.67999267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth-Atmosphere Heat Imbalances ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              509.06500244140625,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather is not a capricious act of nature but, rather, the atmosphere’s response to unequal rates of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.6824951171875,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "radiational heating and cooling across the surface of the Earth and within its atmosphere. The absorption of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.5914306640625,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "incoming solar radiation causes heating, while the emission of outgoing terrestrial radiation causes cooling. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.5474853515625,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "However, imbalances in the rate of heating and cooling create temperature gradients.",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              474.2770690917969,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "circulations and weather are the atmosphere’s never-ending attempt to redistribute this heat and achieve ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              542.6167602539062,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "equilibrium. This chapter provides a background on the interaction between the Earth and the atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              201.84243774414062,
+              542.46826171875,
+              212.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "for a better understanding of the weather that will affect flight operations. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              214.50247192382812,
+              398.54498291015625,
+              225.4824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 6.480000019073486,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              709.204345703125,
+              75.23999786376953,
+              715.6843872070312
+            ]
+          },
+          {
+            "type": "text",
+            "text": " A gradient describes the rate of change of a feature (in this case, temperature) per unit of distance. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              75.23999786376953,
+              709.8351440429688,
+              472.5249938964844,
+              719.8551635742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              474.2799987792969,
+              175.20974731445312,
+              477.7900085449219,
+              182.229736328125
+            ]
+          },
+          {
+            "type": "text",
+            "text": " Atmospheric ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              477.82000732421875,
+              176.52243041992188,
+              542.7645263671875,
+              187.50242614746094
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 88,
+        "elements": []
+      },
+      {
+        "page_number": 89,
+        "elements": []
+      },
+      {
+        "page_number": 90,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p90_b9.png",
+            "bbox": [
+              90.0,
+              76.5,
+              521.969970703125,
+              333.04998779296875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-3. Development of a Thermal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              344.81512451171875,
+              229.5050048828125,
+              354.8351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "In this manner, convection transports heat from the Earth’s surface into the atmosphere. Because air is a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              369.3624572753906,
+              542.5977783203125,
+              380.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "poor conductor of heat (see Table 5-3), convection is much more important than conduction as a heat ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.9624328613281,
+              542.5667724609375,
+              392.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transport mechanism within the atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              394.6224365234375,
+              269.94500732421875,
+              405.6024169921875
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p90_b10.png",
+            "bbox": [
+              162.0,
+              422.3600158691406,
+              449.9800109863281,
+              613.260009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-4. Example of Convection in the Atmosphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              624.6751098632812,
+              292.80499267578125,
+              634.6951293945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.3.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              649.4404907226562,
+              97.98790740966797,
+              662.46044921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Latent Heat ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              649.4404907226562,
+              172.2949981689453,
+              662.46044921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The phase transition of water and associated latent heat exchanges are largely responsible for transferring ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              670.1624145507812,
+              542.3609008789062,
+              681.1424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the excess heat from the surface of the Earth into its atmosphere. As the Earth’s surface absorbs radiation, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              682.8424072265625,
+              542.7398071289062,
+              693.8224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "some of the heat produced is used to evaporate (vaporize) water from oceans, lakes, rivers, soil, and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              695.5023803710938,
+              542.4684448242188,
+              706.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vegetation. The water absorbs heat energy due to the latent heat of vaporization. Some of this water vapor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              708.1624145507812,
+              542.3499145507812,
+              719.1424560546875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 91,
+        "elements": [
+          {
+            "type": "text",
+            "text": "condenses to microscopic water droplets or deposits as ice crystals that are visible as clouds. During cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.5036010742188,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "formation, the water vapor changes state, and latent heat is released into the atmosphere. During this ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.3719482421875,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "process, the excess heat is transferred from the Earth’s surface into its atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              438.3249816894531,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              123.58048248291016,
+              88.2750015258789,
+              136.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heat Imbalance Variations with Latitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              123.58048248291016,
+              316.3550109863281,
+              136.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Global imbalances in radiational heating and cooling occur not only vertically between the Earth’s surface ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.30245971679688,
+              542.7631225585938,
+              155.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and its atmosphere but also horizontally with latitude. Since the Earth is essentially spherical, parallel beams ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.5037231445312,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of incoming solar radiation strike lower latitudes more directly than higher latitudes (see Figure 7-5); that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.8050537109375,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is, the solar zenith angle is lower, and the Sun is more directly overhead in equatorial regions than at the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              542.5164184570312,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "poles. At higher latitudes, solar radiation is spread over a larger area and is less intense per unit surface area ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.6461181640625,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than at lower latitudes. Thus, the Earth absorbs more solar radiation at lower latitudes than higher latitudes, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.547607421875,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which creates heat imbalances and temperature gradients between the Equator and the poles. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              481.94500732421875,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p91_b9.png",
+            "bbox": [
+              90.0,
+              247.94000244140625,
+              521.969970703125,
+              572.4400024414062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-5. Solar Zenith Angle Variations with Latitude ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.755126953125,
+              298.385009765625,
+              593.775146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The emission of terrestrial radiation also varies by latitude, but less so than the absorption of solar radiation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              608.3024291992188,
+              542.5913696289062,
+              619.282470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Terrestrial radiation emission decreases with increasing latitude due to a drop in temperature with latitude. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              620.96240234375,
+              542.7714233398438,
+              631.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Thus, at higher latitudes, the annual rate of cooling exceeds the rate of warming, while the reverse is true ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              633.6224365234375,
+              542.3062133789062,
+              644.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "at lower latitudes. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              646.2824096679688,
+              153.2449951171875,
+              657.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Averaged over all latitudes, incoming solar radiation must equal outgoing terrestrial radiation. Otherwise, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              664.8823852539062,
+              542.4816284179688,
+              675.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Earth would be unable to maintain a constant average temperature. About 35° latitude in both ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              677.5424194335938,
+              542.4159545898438,
+              688.5224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hemispheres is where incoming and outgoing radiation is equal. This implies there is annual net cooling at ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              690.222412109375,
+              542.604248046875,
+              701.2024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "higher latitudes and net warming at lower latitudes; however, this is untrue. The excess heat in the tropics ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              702.8823852539062,
+              542.514892578125,
+              713.8624267578125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 92,
+        "elements": [
+          {
+            "type": "text",
+            "text": "must be transported polar by some mechanism(s). This poleward heat transport is accomplished by ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7080688476562,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmospheric circulations, weather, and ocean currents. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              313.625,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              110.96048736572266,
+              88.2750015258789,
+              123.9804916381836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Seasons ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              110.96048736572266,
+              145.9550018310547,
+              123.9804916381836
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Seasons are caused by the tilt of the Earth’s rotational axis as the Earth orbits the Sun (see Figure 7-6). The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.70242309570312,
+              542.79541015625,
+              142.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth’s rotational axis is tilted by 23½° from the perpendicular drawn to the plane of the Earth’s orbit about ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.30245971679688,
+              542.7589721679688,
+              155.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Sun and points the same direction in space all year long. The North Pole is tilted most directly toward ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.96243286132812,
+              542.5669555664062,
+              167.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Sun during the summer solstice. Thus, in the Northern Hemisphere, the longest day of the year (lowest ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.62246704101562,
+              542.58740234375,
+              180.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "solar zenith angle) occurs on the summer solstice (approximately June 22), while the shortest day of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              182.28244018554688,
+              542.66796875,
+              193.26243591308594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "year (highest solar zenith angle) occurs on the winter solstice (approximately December 22). Day and night ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              194.94247436523438,
+              542.7590942382812,
+              205.92247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "are of equal length (12 hours) worldwide on the vernal equinox (approximately March 21) and the autumnal ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.54244995117188,
+              542.7554321289062,
+              218.52244567871094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "equinox (approximately September 23). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.20242309570312,
+              250.08499145507812,
+              231.1824188232422
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p92_b8.png",
+            "bbox": [
+              90.0,
+              247.94003295898438,
+              521.9299926757812,
+              519.2900390625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-6. Solar Zenith Angle Variations with Northern Hemisphere Seasons ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              531.255126953125,
+              386.7250061035156,
+              541.275146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-7 illustrates the average seasonal temperature variation in the Northern Hemisphere. Note that the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              555.8024291992188,
+              542.7730712890625,
+              566.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "warmest (coldest days) of the year occur after the summer (winter) solstice. This is due to the time lag ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              568.46240234375,
+              542.3959350585938,
+              579.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "necessary for heat flow processes to fully heat (cool) the surface of the Earth. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              581.1224365234375,
+              414.9849853515625,
+              592.1024780273438
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 93,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p93_b8.png",
+            "bbox": [
+              108.0,
+              76.5,
+              503.5,
+              285.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-7. Average Seasonal Temperature Variation in the Northern Hemisphere ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              298.31512451171875,
+              401.6650085449219,
+              308.3351135253906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "7.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              323.0804748535156,
+              88.2750015258789,
+              336.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Diurnal Temperature Variation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              323.0804748535156,
+              265.7149963378906,
+              336.1004943847656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Diurnal temperature variation is the daytime maximum and nighttime minimum of air temperature due to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              343.8024597167969,
+              542.4379272460938,
+              354.7824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "variations of insolation caused by the rising and setting of the Sun (i.e., variations of solar zenith angle) as ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              356.4624328613281,
+              542.6660766601562,
+              367.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the Earth rotates around its axis. Figure 7-8 depicts the typical diurnal temperature and radiation variations ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              369.06243896484375,
+              542.6654663085938,
+              380.04241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "over land when the sky is clear. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              381.7224426269531,
+              213.72499084472656,
+              392.7024230957031
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p93_b9.png",
+            "bbox": [
+              117.0,
+              409.4540100097656,
+              494.7200012207031,
+              693.8040161132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 7-8. Clear Sky Diurnal Temperature and Radiation Variations Over Land ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              706.2951049804688,
+              395.7850036621094,
+              716.3151245117188
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 94,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Warming and cooling of the Earth depend on an imbalance between solar and terrestrial radiation. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.3828735351562,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Earth receives heat during the day through incoming solar radiation. It loses heat to space by outgoing ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.6435546875,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "terrestrial radiation both day and night. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.7424545288086,
+              246.42498779296875,
+              109.72245788574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Shortly after sunrise, incoming solar radiation received at the Earth’s surface (insolation) becomes greater ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.3424301147461,
+              542.6321411132812,
+              128.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "than outgoing terrestrial radiation and the Earth’s surface warms. Peak insolation occurs around noon, but ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              130.02243041992188,
+              542.66552734375,
+              141.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximum surface air temperature usually occurs during the midafternoon. This lag is necessary for the air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.4158935546875,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "near the ground to heat up due to conduction and convection with the surface. The Earth begins to cool ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              542.5071411132812,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "once the rate of outgoing terrestrial radiation exceeds the rate of insolation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              168.00247192382812,
+              405.2049865722656,
+              178.9824676513672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "At night, insolation is absent but outgoing terrestrial radiation continues, and the Earth’s surface continues ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              186.60244750976562,
+              542.7364501953125,
+              197.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to cool. Cooling continues until shortly after sunrise, when incoming solar radiation once again exceeds ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              199.26242065429688,
+              542.4049682617188,
+              210.24241638183594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "outgoing terrestrial radiation. Minimum surface air temperature usually occurs shortly after sunrise. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              211.92245483398438,
+              513.0850219726562,
+              222.90245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The magnitude of diurnal temperature variation is primarily influenced by surface type, latitude, sky cover ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              230.58242797851562,
+              542.7137451171875,
+              241.5624237060547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e.g., clouds or pollutants), water vapor content of the air, and wind speed. Temperature variation is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              243.24246215820312,
+              542.4102783203125,
+              254.2224578857422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "maximized over land, at low latitudes, with a clear sky, dry air, and light wind. Conversely, temperature ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              255.84243774414062,
+              542.3938598632812,
+              266.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "variation is minimized over water, at high latitudes, with a cloudy sky, moist air, and strong wind. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              268.5024719238281,
+              505.8249816894531,
+              279.4824523925781
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

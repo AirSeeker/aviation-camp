@@ -1,0 +1,1626 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 2",
+    "start_page": 18,
+    "end_page": 23,
+    "pages": [
+      {
+        "page_number": 18,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p18_b2.png",
+            "bbox": [
+              56.34000015258789,
+              65.34000396728516,
+              548.8800048828125,
+              191.8800048828125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation Weather Service Program ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              502.0450134277344,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The aviation weather service program is a joint effort of the National Oceanic and Atmospheric ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.4049682617188,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Administration (NOAA), the Federal Aviation Administration (FAA), the Department of Defense (DOD), ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.4269409179688,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NASA, and commercial aviation weather providers. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              303.54498291015625,
+              174.8424530029297
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 19,
+        "elements": [
+          {
+            "type": "text",
+            "text": "2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              79.6404800415039,
+              88.2750015258789,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "National Oceanic and Atmospheric Administration (NOAA) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              79.6404800415039,
+              418.55499267578125,
+              92.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NOAA is an agency of the Department of Commerce (DOC). NOAA conducts research and gathers data ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              100.3624496459961,
+              542.4049682617188,
+              111.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "about the global oceans, atmosphere, space, and Sun, and applies this knowledge to science and service, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              113.02242279052734,
+              542.5830078125,
+              124.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which touches the lives of all Americans. Among its six major divisions are the National Environmental ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              125.7024154663086,
+              542.3499755859375,
+              136.6824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Satellite, Data, and Information Service (NESDIS) and the NWS. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.36245727539062,
+              362.9049987792969,
+              149.3424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.1804656982422,
+              97.98790740966797,
+              176.20045471191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "National Environmental Satellite, Data, and Information Service (NESDIS) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              163.1804656982422,
+              503.7550048828125,
+              176.20045471191406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NESDIS manages the U.S. civil operational remote-sensing satellite systems, as well as other global ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              183.90243530273438,
+              542.58056640625,
+              194.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information for meteorology, oceanography, solid-earth geophysics, and solar-terrestrial sciences. NESDIS ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              196.56246948242188,
+              542.7439575195312,
+              207.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "provides this data to NWS meteorologists and a wide range of other users for operational weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              209.22244262695312,
+              542.70654296875,
+              220.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forecasting. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              221.88241577148438,
+              126.36500549316406,
+              232.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              246.68148803710938,
+              105.0,
+              258.6814880371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Satellite Analysis Branch (SAB) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              246.68148803710938,
+              274.5199890136719,
+              258.6814880371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NESDIS’ Satellite Analysis Branch (SAB) serves as the operational focal point for real-time imagery ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              266.3424377441406,
+              542.74755859375,
+              277.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "products and multidisciplinary environmental analyses. The SAB’s primary mission is to support disaster ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              278.94244384765625,
+              542.5809326171875,
+              289.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "mitigation and warning services for the U.S. Federal agencies and the international community. Routine ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              291.6024475097656,
+              542.5697631835938,
+              302.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "environmental analyses are provided to forecasters and other environmental users and are used in the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              304.262451171875,
+              542.2841796875,
+              315.242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "numerical models of the NWS. The SAB schedules and distributes real-time satellite imagery products from ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              316.9224548339844,
+              542.8049926757812,
+              327.9024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "global geostationary and polar-orbiting satellites to environmental users. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              329.58245849609375,
+              393.625,
+              340.56243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The SAB coordinates the satellite and other information for the NOAA Volcanic Hazards Alert Program, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              348.242431640625,
+              542.3502197265625,
+              359.222412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "under an agreement with the FAA, and works with the NWS as part of the Washington, DC, Volcanic Ash ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              360.8424377441406,
+              542.7586059570312,
+              371.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Advisory Center (VAAC). The Washington, DC, VAAC area of responsibility stretches from 40° W ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              373.50244140625,
+              542.8049926757812,
+              384.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to 130° E and includes the areas of the contiguous United States (CONUS), New York and Oakland ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              386.1624450683594,
+              542.6871948242188,
+              397.1424255371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Oceanic flight information regions (FIR), and southward through Central America and the Caribbean to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              398.82244873046875,
+              542.8049926757812,
+              409.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "10° S in South America. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              411.50244140625,
+              182.10499572753906,
+              422.482421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              436.3804626464844,
+              97.98790740966797,
+              449.4004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "National Weather Service (NWS) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              436.3804626464844,
+              286.2950134277344,
+              449.4004821777344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The NWS provides weather data, forecasts, and warnings for the United States, its territories, adjacent ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              457.1024475097656,
+              542.4593505859375,
+              468.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "waters, and ocean areas for the protection of life and property and the enhancement of the national economy. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              469.70245361328125,
+              542.6024780273438,
+              480.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NWS data and products form a national information database and infrastructure that can be used by other ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              482.3624572753906,
+              542.5284423828125,
+              493.3424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "government agencies, the private sector, the public, and the global community. The following sections ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              495.0224304199219,
+              542.7572021484375,
+              506.0024108886719
+            ]
+          },
+          {
+            "type": "text",
+            "text": "provide a description of NWS offices associated with aviation weather. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              507.6824645996094,
+              388.10498046875,
+              518.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              532.4815063476562,
+              105.0,
+              544.4815063476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "National Centers for Environmental Prediction (NCEP) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              115.22000122070312,
+              532.4815063476562,
+              384.5199890136719,
+              544.4815063476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The National Centers for Environmental Prediction (NCEP) is where virtually all global meteorological ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              552.1423950195312,
+              542.6495971679688,
+              563.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "data is collected and analyzed for the United States. The NCEP then provides a wide variety of national and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              564.742431640625,
+              542.7086181640625,
+              575.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "international weather guidance products to NWS field offices, government agencies, emergency managers, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              577.4024047851562,
+              542.514892578125,
+              588.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and private sector meteorologists. The NCEP is a critical resource in national and global weather prediction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              590.0624389648438,
+              542.6477661132812,
+              601.04248046875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and is the starting point for nearly all-weather forecasts in the United States. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              602.722412109375,
+              409.8249816894531,
+              613.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The NCEP is comprised of nine distinct centers and the Office of the Director. Each center has its own ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              621.3823852539062,
+              542.4127807617188,
+              632.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specific mission. The following NCEP centers provide aviation weather products and services. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              634.0424194335938,
+              491.06500244140625,
+              645.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              658.781494140625,
+              114.0,
+              670.781494140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "NCEP Central Operations (NCO) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              658.781494140625,
+              294.32000732421875,
+              670.781494140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The NCEP Central Operations (NCO) in College Park, MD, sustains and executes the operational suite of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              678.4424438476562,
+              542.5371704101562,
+              689.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the numerical analysis and forecast models and prepares NCEP products for dissemination. It also links all ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              691.1224365234375,
+              542.5697021484375,
+              702.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "nine of the national centers together via computer and communications-related services. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              703.7824096679688,
+              461.7850036621094,
+              714.762451171875
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 20,
+        "elements": [
+          {
+            "type": "text",
+            "text": "2.2.2.1.2",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.56143188476562,
+              114.0,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Aviation Weather Center (AWC) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              73.56143188476562,
+              292.94000244140625,
+              85.56143188476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Aviation Weather Center (AWC) in Kansas City, MO, issues a suite of aviation weather forecasts in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              93.2224349975586,
+              542.5694580078125,
+              104.20243835449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "support of the National Airspace System (NAS) that are described in this handbook, including Airmen’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              105.88240814208984,
+              542.8049926757812,
+              116.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Meteorological Information (AIRMET), significant meteorological information (SIGMET), Convective ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              118.4824447631836,
+              542.7459106445312,
+              129.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "SIGMETs, and various icing, turbulence, and convective forecast products. The AWC is a Meteorological ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              131.16244506835938,
+              542.4953002929688,
+              142.14244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Watch Office (MWO) for the International Civil Aviation Organization (ICAO). The AWC, in conjunction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              143.82241821289062,
+              542.8049926757812,
+              154.8024139404297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "with the NCO, also serves as one of two ICAO World Area Forecast Centers (WAFC), known as WAFC ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              156.48245239257812,
+              542.7669677734375,
+              167.4624481201172
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Washington, issuing flight planning data (winds and temperatures) and Significant Weather (SIGWX) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              169.14242553710938,
+              542.4598999023438,
+              180.12242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "forecasts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              181.80245971679688,
+              116.58499908447266,
+              192.78245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The AWC’s website provides the aviation community with textual, digital, and graphical forecasts, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              200.40243530273438,
+              542.4722290039062,
+              211.38243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "analyses, and observations of aviation-related weather variables. Additionally, the website provides ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              213.06246948242188,
+              542.5757446289062,
+              224.04246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "information for international flights through the World Area Forecast System (WAFS) grids which are used ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              225.72244262695312,
+              542.7460327148438,
+              236.7024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to support the Internet File Service (WIFS), which is a separate system. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              238.38241577148438,
+              389.125,
+              249.36241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              263.1814880371094,
+              114.0,
+              275.1814880371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Weather Prediction Center (WPC) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              263.1814880371094,
+              298.2799987792969,
+              275.1814880371094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Weather Prediction Center (WPC) in College Park, MD, provides analysis and forecast products ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              282.8424377441406,
+              542.5142211914062,
+              293.8224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "specializing in multiday, quantitative precipitation forecasts and weather forecast guidance, weather model ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              295.44244384765625,
+              542.5258178710938,
+              306.42242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "diagnostics discussions, and surface pressure and frontal analyses. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              308.1024475097656,
+              365.8450012207031,
+              319.0824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              332.9014587402344,
+              114.0,
+              344.9014587402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Storm Prediction Center (SPC) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              332.9014587402344,
+              282.32000732421875,
+              344.9014587402344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Storm Prediction Center (SPC) in Norman, OK, provides tornado and severe weather watches for the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.56243896484375,
+              542.4647827148438,
+              363.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "CONUS along with a suite of hazardous weather forecasts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.2224426269531,
+              334.1650085449219,
+              376.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              390.0214538574219,
+              114.0,
+              402.0214538574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "National Hurricane Center (NHC) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              390.0214538574219,
+              296.9599914550781,
+              402.0214538574219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The National Hurricane Center (NHC) in Miami, FL, provides official NWS forecasts of the movement and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.70245361328125,
+              542.6239624023438,
+              420.68243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "strength of tropical weather systems and issues the appropriate watches and warnings for the CONUS and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              422.3024597167969,
+              542.2732543945312,
+              433.2824401855469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "surrounding areas. It also issues a suite of marine products covering the tropical Atlantic, Caribbean, Gulf ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.9624328613281,
+              542.7581787109375,
+              445.9424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of America, and tropical eastern Pacific. In support of ICAO, the NHC is also referred to as a Tropical ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              447.6224365234375,
+              542.3753662109375,
+              458.6024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Cyclone Advisory Center (TCAC). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.2824401855469,
+              229.3249969482422,
+              471.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              485.0814514160156,
+              114.0,
+              497.0814514160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Space Weather Prediction Center (SWPC) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              485.0814514160156,
+              336.5799865722656,
+              497.0814514160156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Space Weather Prediction Center (SWPC) in Boulder, CO, provides space weather information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              504.7424011230469,
+              542.693359375,
+              515.722412109375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(e.g., current activity and forecasts) to a wide variety of users. The SWPC is also an ICAO Space Weather ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              517.3424072265625,
+              542.4285888671875,
+              528.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Center and is responsible for issuing global advisories for space weather events affecting communication ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              530.0023803710938,
+              542.5038452148438,
+              540.982421875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "and navigation systems as well as events that pose a potential health hazard to passengers and crew. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              542.6624145507812,
+              513.7449951171875,
+              553.6424560546875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2.2.2.1.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              567.4614868164062,
+              114.0,
+              579.4614868164062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Alaska Aviation Weather Unit (AAWU) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 12.0,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              130.33999633789062,
+              567.4614868164062,
+              328.0,
+              579.4614868164062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The Alaska Aviation Weather Unit (AAWU), located in Anchorage, AK, is an MWO for ICAO. The ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              587.1224365234375,
+              542.5941772460938,
+              598.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "AAWU is responsible for the entire Anchorage FIR. They issue a suite of aviation weather products for the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              599.7824096679688,
+              542.4817504882812,
+              610.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "airspace over Alaska and adjacent coastal waters, including AIRMETs, SIGMETs, FAs, and SIGWX ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              612.4424438476562,
+              542.8049926757812,
+              623.4224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Prognostic Charts. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              625.1024169921875,
+              156.00498962402344,
+              636.0824584960938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The AAWU is also designated as the Anchorage VAAC. The VAAC area of responsibility includes the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              643.702392578125,
+              542.7171630859375,
+              654.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Anchorage FIR and Far Eastern Russia and is responsible for the issuance of Volcanic Ash Advisories ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              656.3624267578125,
+              542.3829345703125,
+              667.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "(VAA). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              669.0223999023438,
+              108.66500091552734,
+              680.00244140625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 21,
+        "elements": []
+      },
+      {
+        "page_number": 22,
+        "elements": []
+      },
+      {
+        "page_number": 23,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Commercial providers also produce forecasts, analyses, and other proprietary weather products that may ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.7596435546875,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "substantially differ from the information contained in NWS-produced products. Operators who desire to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.7066650390625,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "use products prepared by a commercial weather provider should consult the Aeronautical Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.7447509765625,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Manual (AIM), Chapter 7, Section 1, Paragraph 7-1-3, Use of Aviation Weather Products, which provides ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              542.7459716796875,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "additional information pertaining to commercial providers, including the Enhanced Weather Information ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              124.02242279052734,
+              542.6430053710938,
+              135.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "System (EWINS). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              136.68246459960938,
+              154.80499267578125,
+              147.66246032714844
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

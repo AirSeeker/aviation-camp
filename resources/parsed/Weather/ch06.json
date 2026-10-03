@@ -1,0 +1,2213 @@
+{
+  "book_id": "Weather",
+  "book_title": "Aviation Weather Handbook",
+  "pdf_path": "resources/library/Weather/Weather.pdf",
+  "section": {
+    "type": "chapter",
+    "title": "Chapter 6",
+    "start_page": 80,
+    "end_page": 86,
+    "pages": [
+      {
+        "page_number": 80,
+        "elements": [
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p80_b2.png",
+            "bbox": [
+              59.34000015258789,
+              65.94000244140625,
+              551.8800048828125,
+              311.2799987792969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              75.60729217529297,
+              86.01000213623047,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Water Vapor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 28.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              75.60729217529297,
+              253.14500427246094,
+              103.62728881835938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              117.86051177978516,
+              88.2750015258789,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Introduction ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              117.86051177978516,
+              168.3350067138672,
+              130.88050842285156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Water vapor is the gaseous form of water and one of the most important of all constituents of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              138.60244750976562,
+              542.71923828125,
+              149.5824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmosphere. It constitutes only a small percentage of the Earth’s atmosphere, varying from only trace ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              151.20242309570312,
+              542.6134643554688,
+              162.1824188232422
+            ]
+          },
+          {
+            "type": "text",
+            "text": "amounts to 4 percent by volume, and its amount varies widely in space and time. Approximately half of all ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              163.86245727539062,
+              542.578369140625,
+              174.8424530029297
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of the atmospheric water vapor is found below 2 km (6,500 ft) altitude, and only a minute fraction of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              176.52243041992188,
+              542.6034545898438,
+              187.50242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "total occurs above the tropopause. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              189.18246459960938,
+              224.7050018310547,
+              200.16246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The development of clouds and precipitation can have potential impacts on flight operations. Water vapor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              207.84243774414062,
+              542.7461547851562,
+              218.8224334716797
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is important, not only as the raw material for clouds and precipitation (e.g., rain and snow), but also as a ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              220.44247436523438,
+              542.7542724609375,
+              231.42247009277344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "vehicle for the transfer of heat energy and as a regulator of the Earth’s temperatures through absorption and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              233.10244750976562,
+              542.6709594726562,
+              244.0824432373047
+            ]
+          },
+          {
+            "type": "text",
+            "text": "emission of radiation, most significantly in the thermal infrared (i.e., the greenhouse effect). The amount ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.76242065429688,
+              542.3941040039062,
+              256.7424011230469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "of water vapor present in a given air sample may be measured in a number of different ways, involving ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              258.4224548339844,
+              542.2673950195312,
+              269.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "such concepts as relative humidity and dewpoint. Before talking about these subjects, the process of water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              271.0824279785156,
+              542.7523193359375,
+              282.0624084472656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "cycling through the Earth-atmosphere system will be discussed. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              283.742431640625,
+              355.1650085449219,
+              294.722412109375
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 81,
+        "elements": []
+      },
+      {
+        "page_number": 82,
+        "elements": [
+          {
+            "type": "text",
+            "text": "6.2.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              97.98790740966797,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Deposition ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              73.6404800415039,
+              168.3350067138672,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Deposition is the phase transition by which vapor (a gas) is changed into a solid without passing through ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.3059692382812,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the liquid phase. In the atmosphere, deposition of water occurs when vapor (a gas) in a sub-freezing cloud ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.7567749023438,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "changes into ice crystals (solid). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              216.18499755859375,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              144.5804901123047,
+              97.98790740966797,
+              157.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Condensation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              144.5804901123047,
+              182.7949981689453,
+              157.60047912597656
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Condensation is the phase transition by which vapor (a gas) is changed into a liquid. In the atmosphere, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              165.30245971679688,
+              542.7427978515625,
+              176.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "condensation may appear as clouds, fog, mist, dew, or frost, depending upon the physical conditions of the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              177.90243530273438,
+              542.6039428710938,
+              188.88243103027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "atmosphere. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              190.56246948242188,
+              128.22500610351562,
+              201.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              215.4404754638672,
+              97.98790740966797,
+              228.46046447753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Transportation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              215.4404754638672,
+              187.8350067138672,
+              228.46046447753906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Transportation is the movement of solid, liquid, and gaseous water through the atmosphere. Without this ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              236.16244506835938,
+              542.328125,
+              247.14244079589844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "movement, the water evaporated over the ocean would not precipitate over land. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              248.82241821289062,
+              428.125,
+              259.8023986816406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              273.7004699707031,
+              97.98790740966797,
+              286.7204895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              273.7004699707031,
+              177.69500732421875,
+              286.7204895019531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Precipitation results when tiny condensation particles grow in the atmosphere through collision and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              294.4224548339844,
+              542.4158325195312,
+              305.4024353027344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "coalescence and then fall to the Earth’s surface. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              307.08245849609375,
+              284.2250061035156,
+              318.06243896484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.8",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              331.9604797363281,
+              97.98790740966797,
+              344.9804992675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Runoff ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              331.9604797363281,
+              148.11500549316406,
+              344.9804992675781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Runoff occurs when there is excessive precipitation and the ground is saturated (i.e., cannot absorb any ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              352.68243408203125,
+              542.7678833007812,
+              363.66241455078125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "more water). This runoff flows into streams and rivers and eventually back into the sea. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              365.3424377441406,
+              459.625,
+              376.3224182128906
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Evaporation of this runoff into the atmosphere begins the hydrologic cycle over again. Some of the water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              383.94244384765625,
+              542.2293701171875,
+              394.92242431640625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "percolates into the soil and into the ground water, only to be drawn into plants again for transpiration to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              396.6024475097656,
+              542.3280639648438,
+              407.5824279785156
+            ]
+          },
+          {
+            "type": "text",
+            "text": "take place. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              409.2824401855469,
+              121.80500030517578,
+              420.2624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.9",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              434.1604919433594,
+              97.98790740966797,
+              447.1805114746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Infiltration ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              434.1604919433594,
+              167.61500549316406,
+              447.1805114746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Infiltration is the movement of water into the ground from the surface. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              454.8824462890625,
+              384.5050048828125,
+              465.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.10",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              479.7604675292969,
+              104.49790954589844,
+              492.7804870605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Groundwater Flow ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              479.7604675292969,
+              214.35501098632812,
+              492.7804870605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Groundwater flow is the flow of water underground in aquifers. The water may return to the surface in ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              500.4824523925781,
+              542.6620483398438,
+              511.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "springs or eventually seep into the oceans. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              513.1423950195312,
+              260.8249816894531,
+              524.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.2.11",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              538.0205078125,
+              104.49790954589844,
+              551.0404663085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Plant Uptake ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              112.5199966430664,
+              538.0205078125,
+              183.27500915527344,
+              551.0404663085938
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Plant uptake is water taken from the groundwater flow and soil moisture. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              558.742431640625,
+              396.1449890136719,
+              569.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.3",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              583.6204833984375,
+              88.2750015258789,
+              596.6404418945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Saturation ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              583.6204833984375,
+              157.53500366210938,
+              596.6404418945312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Saturation is the maximum possible quantity of water vapor that an air parcel can hold at any given ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              604.3424072265625,
+              542.3719482421875,
+              615.3224487304688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature and pressure. The term “saturated air” means an air parcel has all of the water vapor it can ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              616.9424438476562,
+              542.7191162109375,
+              627.9224853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hold, while “unsaturated air” means an air parcel can hold more water vapor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              629.6024169921875,
+              413.18499755859375,
+              640.5824584960938
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 83,
+        "elements": [
+          {
+            "type": "text",
+            "text": "6.4",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              88.2750015258789,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Relative Humidity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              73.6404800415039,
+              200.49501037597656,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Relative humidity is the ratio, usually expressed as a percentage, of water vapor actually in the air parcel ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.6812744140625,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "compared to the amount of water vapor the air parcel could hold at a particular temperature and pressure. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              537.2249755859375,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "𝑅𝑒𝑙𝑎𝑡𝑖𝑣𝑒 𝐻𝑢𝑚𝑖𝑑𝑖𝑡𝑦= ",
+            "font_name": "CambriaMath",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              198.6199951171875,
+              139.01512145996094,
+              306.8599853515625,
+              149.9951171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "𝑊𝑎𝑡𝑒𝑟 𝑣𝑎𝑝𝑜𝑟 𝑐𝑎𝑝𝑎𝑐𝑖𝑡𝑦",
+            "font_name": "CambriaMath",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              304.5199890136719,
+              146.39512634277344,
+              413.2066955566406,
+              157.3751220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "While relative humidity is the most common method of describing atmospheric moisture, it is also the most ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              170.64242553710938,
+              542.591552734375,
+              181.62242126464844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "misunderstood. Relative humidity can be confusing because it does not indicate the actual water vapor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              183.30245971679688,
+              542.437744140625,
+              194.28245544433594
+            ]
+          },
+          {
+            "type": "text",
+            "text": "content of the air, but rather how close the air is to saturation. An air parcel with 100 percent relative ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              195.96243286132812,
+              542.7584228515625,
+              206.9424285888672
+            ]
+          },
+          {
+            "type": "text",
+            "text": "humidity is saturated, while an air parcel with relative humidity less than 100 percent is unsaturated. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              208.62246704101562,
+              516.0850219726562,
+              219.6024627685547
+            ]
+          },
+          {
+            "type": "text",
+            "text": "An air parcel’s capacity to hold water vapor (at a constant pressure) is directly related to its temperature. It ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              227.22244262695312,
+              542.7581176757812,
+              238.2024383544922
+            ]
+          },
+          {
+            "type": "text",
+            "text": "is possible to change an air parcel’s relative humidity without changing its water vapor content. Figure 6-2 ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              239.88241577148438,
+              542.8049926757812,
+              250.86241149902344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "illustrates this concept. An air parcel at sea level at a temperature of 30 °C has the capacity to hold 27 g of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              252.54244995117188,
+              542.811279296875,
+              263.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "water vapor. If it actually held 8 g, its relative humidity would be 30 percent, and it would be unsaturated. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              265.2024230957031,
+              542.7594604492188,
+              276.1824035644531
+            ]
+          },
+          {
+            "type": "text",
+            "text": "However, if the air parcel’s temperature decreases to 20 °C, its water vapor storage capacity decreases to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              277.8624572753906,
+              542.6434936523438,
+              288.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "15 g and its relative humidity rises to 53 percent. At 10 °C, the air parcel’s water vapor storage capacity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              290.4624328613281,
+              542.688232421875,
+              301.4424133300781
+            ]
+          },
+          {
+            "type": "text",
+            "text": "decreases to equal the amount of water vapor it actually holds (8 g), its relative humidity increases to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              303.1224365234375,
+              542.7073364257812,
+              314.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "100 percent, and it becomes saturated. During this cooling process, the air parcel’s actual water vapor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              315.7824401855469,
+              542.7349243164062,
+              326.7624206542969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "content remained constant, but relative humidity increased with decreasing temperature. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              328.44244384765625,
+              462.385009765625,
+              339.42242431640625
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p83_b14.png",
+            "bbox": [
+              76.5,
+              362.1500244140625,
+              544.5,
+              554.1500244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-2. Temperature Effects on Relative Humidity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              565.9951171875,
+              292.5050048828125,
+              576.01513671875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.5",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              590.760498046875,
+              88.2750015258789,
+              603.7804565429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Dewpoint ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              590.760498046875,
+              155.31500244140625,
+              603.7804565429688
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Dewpoint is the temperature an air parcel must be cooled at constant pressure and constant water vapor ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              611.482421875,
+              542.4378662109375,
+              622.4624633789062
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressure to allow the water vapor in the parcel to condense into water (dew). When this temperature is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              624.0823974609375,
+              542.714111328125,
+              635.0624389648438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "below 0 °C (32 °F), it is sometimes called the frost point. Lowering an air parcel’s temperature reduces its ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              636.742431640625,
+              542.7152099609375,
+              647.7224731445312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "capacity to hold water vapor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              649.4024047851562,
+              202.80499267578125,
+              660.3824462890625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.6",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              674.280517578125,
+              88.2750015258789,
+              687.3004760742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Temperature-Dewpoint Spread (Dewpoint Depression) ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              674.280517578125,
+              390.4150085449219,
+              687.3004760742188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The difference between an air parcel’s temperature and its dewpoint is the dewpoint depression, or ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              695.0223999023438,
+              542.5005493164062,
+              706.00244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "commonly referred to as the spread. Surface aviation weather reports (e.g., METARs/SPECIs) provide ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              707.6824340820312,
+              542.7196044921875,
+              718.6624755859375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "𝑊𝑎𝑡𝑒𝑟 𝑣𝑎𝑝𝑜𝑟 𝑐𝑜𝑛𝑡𝑒𝑛𝑡",
+            "font_name": "CambriaMath",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              306.8599853515625,
+              130.6750946044922,
+              410.7645568847656,
+              141.65509033203125
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 84,
+        "elements": [
+          {
+            "type": "text",
+            "text": "observations of both temperature and dewpoint. The temperature greatly affects the air parcel’s ability to ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.42244720458984,
+              542.714599609375,
+              84.40245056152344
+            ]
+          },
+          {
+            "type": "text",
+            "text": "hold water vapor, while the dewpoint indicates the actual quantity of water vapor in the parcel. As the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              86.0824203491211,
+              542.3611450195312,
+              97.06242370605469
+            ]
+          },
+          {
+            "type": "text",
+            "text": "spread decreases, relative humidity increases. When the spread decreases to zero, relative humidity is ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              98.68245697021484,
+              542.3829956054688,
+              109.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "100 percent, and the air parcel is saturated. Figure 6-3 illustrates the relationship between temperaturedewpoint spread and relative humidity. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              111.3424301147461,
+              539.9363403320312,
+              122.32243347167969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Surface temperature-dewpoint spread is important in anticipating fog but has little bearing on precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              142.68246459960938,
+              542.58837890625,
+              153.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "To support precipitation, air must be saturated through thick layers aloft. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              155.34243774414062,
+              394.2850036621094,
+              166.3224334716797
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p84_b10.png",
+            "bbox": [
+              126.0,
+              189.04000854492188,
+              485.95001220703125,
+              423.8900146484375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-3. Temperature-Dewpoint Spread Effect on Relative Humidity ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              436.3951110839844,
+              361.64501953125,
+              446.41510009765625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Relative humidity depends on the temperature-dewpoint spread. In Figure 6-3, dewpoint is constant, but ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              460.8824462890625,
+              542.685546875,
+              471.8624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature decreases from left to right. On the left panel relative humidity is 50 percent, indicating that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              473.5424499511719,
+              542.4817504882812,
+              484.5224304199219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the air parcel could hold twice as much water vapor as is actually present. As the air parcel cools, the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              486.20245361328125,
+              542.4159545898438,
+              497.18243408203125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature-dewpoint spread decreases while relative humidity increases. When the air parcel’s ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              498.8624572753906,
+              542.8052368164062,
+              509.8424377441406
+            ]
+          },
+          {
+            "type": "text",
+            "text": "temperature cools to equal its dewpoint (11 °C), its capacity to hold water vapor is reduced to the amount ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              511.5224304199219,
+              542.2842407226562,
+              522.50244140625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "actually present. The temperature-dewpoint spread is zero, relative humidity is 100 percent, and the air ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              524.1223754882812,
+              542.5315551757812,
+              535.1024169921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "parcel is now saturated. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              536.7824096679688,
+              178.625,
+              547.762451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "6.7",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              561.6605224609375,
+              88.2750015258789,
+              574.6804809570312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Change of Phase ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              100.80000305175781,
+              561.6605224609375,
+              191.43499755859375,
+              574.6804809570312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Water changes from one state of matter, e.g., solid, liquid, or vapor, to another at the temperatures and ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              582.3823852539062,
+              542.671142578125,
+              593.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "pressures experienced near the surface of the Earth. Interestingly, water is the only substance on Earth that ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              595.0424194335938,
+              542.5146484375,
+              606.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "exists naturally in all three phases: as water droplets, ice crystals (visible as clouds), and water vapor. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              607.702392578125,
+              520.4049682617188,
+              618.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Water has some unique thermal properties, which make it a powerful heat transport mechanism. It has the ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              626.3624267578125,
+              542.6181030273438,
+              637.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "highest specific heat capacity of any naturally occurring substance (see Table 5-4). This means that water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              638.96240234375,
+              542.779296875,
+              649.9424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "has a much higher capacity for storing heat energy (with little resulting temperature change) than other ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              651.6224365234375,
+              542.3170166015625,
+              662.6024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "substances. These properties make water an ideal heat transport mechanism and have important ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              664.2824096679688,
+              542.448974609375,
+              675.262451171875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "implications on weather and climate. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              676.9424438476562,
+              236.9449920654297,
+              687.9224853515625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 85,
+        "elements": [
+          {
+            "type": "text",
+            "text": "6.7.1",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.6404800415039,
+              97.98790740966797,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Latent Heat ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 13.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              108.0199966430664,
+              73.6404800415039,
+              172.2949981689453,
+              86.66048431396484
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Latent heat is the quantity of heat energy either released or absorbed by a unit mass of a substance when it ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              94.3624496459961,
+              542.7496337890625,
+              105.34245300292969
+            ]
+          },
+          {
+            "type": "text",
+            "text": "undergoes a phase transition (change of state). Units are typically expressed in terms of joules per ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              107.02242279052734,
+              542.6541748046875,
+              118.00242614746094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "gram (J/g). Figure 6-4 illustrates the latent heat transactions that occur when water undergoes phase ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              119.68245697021484,
+              542.5213623046875,
+              130.66246032714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "transition. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              132.36245727539062,
+              119.04500579833984,
+              143.3424530029297
+            ]
+          },
+          {
+            "type": "image",
+            "image_path": "/images/Weather_p85_b10.png",
+            "bbox": [
+              76.5,
+              160.04000854492188,
+              544.5,
+              401.5400085449219
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Figure 6-4. Latent Heat Transactions When Water Undergoes Phase Transition ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              413.3551330566406,
+              390.5050048828125,
+              423.3751220703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Heat is exchanged between water and its environment during phase transition. Although the temperature of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              437.9024353027344,
+              542.5693969726562,
+              448.8824157714844
+            ]
+          },
+          {
+            "type": "text",
+            "text": "the environment changes in response, the temperature of the water undergoing the phase transition remains ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              450.56243896484375,
+              542.525634765625,
+              461.54241943359375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "constant until the phase change is complete; that is, the available heat, latent heat, is involved exclusively ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              463.2224426269531,
+              542.5680541992188,
+              474.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "in changing the phase of water and not in changing its temperature. There are six phase transitions, three of ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              475.82244873046875,
+              542.5584716796875,
+              486.80242919921875
+            ]
+          },
+          {
+            "type": "text",
+            "text": "which are associated with the absorption of latent heat by water from the environment (melting, ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              488.4824523925781,
+              542.7799072265625,
+              499.4624328613281
+            ]
+          },
+          {
+            "type": "text",
+            "text": "evaporation, and sublimation), and three of which are associated with the release of heat energy by water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              501.1424560546875,
+              542.7133178710938,
+              512.1224365234375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "to the environment (freezing, condensation, and deposition). ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              513.8024291992188,
+              340.1650085449219,
+              524.782470703125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Melting is the phase transition by which a solid is changed to a liquid. During melting, water absorbs 334 J/g ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              532.46240234375,
+              542.8049926757812,
+              543.4424438476562
+            ]
+          },
+          {
+            "type": "text",
+            "text": "due to the latent heat of fusion. Freezing, the reverse process, releases 334 J/g back to the environment. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              545.1224365234375,
+              528.9249877929688,
+              556.1024780273438
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Evaporation is the phase transition by which a liquid is changed to a vapor. During evaporation, water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              563.722412109375,
+              542.3719482421875,
+              574.7024536132812
+            ]
+          },
+          {
+            "type": "text",
+            "text": "absorbs 2,501 J/g due to the latent heat of vaporization. Condensation, the reverse process, releases ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              576.3823852539062,
+              542.7244262695312,
+              587.3624267578125
+            ]
+          },
+          {
+            "type": "text",
+            "text": "2,501 J/g back to the environment. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              589.0424194335938,
+              227.1649932861328,
+              600.0224609375
+            ]
+          },
+          {
+            "type": "text",
+            "text": "Sublimation is the phase transition by which a solid is changed to a vapor. During sublimation, water ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              607.702392578125,
+              542.3060302734375,
+              618.6824340820312
+            ]
+          },
+          {
+            "type": "text",
+            "text": "absorbs 2,834 J/g due to the latent heat of sublimation. Deposition, the reverse process, releases 2,834 J/g ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              620.3624267578125,
+              542.8049926757812,
+              631.3424682617188
+            ]
+          },
+          {
+            "type": "text",
+            "text": "back to the environment. Table 6-1 lists the latent heat exchanges of water. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              633.0223999023438,
+              404.6650085449219,
+              644.00244140625
+            ]
+          }
+        ]
+      },
+      {
+        "page_number": 86,
+        "elements": [
+          {
+            "type": "text",
+            "text": "Table 6-1. Latent Heat of Water at 0 °C ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.020000457763672,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              73.29510498046875,
+              233.22500610351562,
+              83.31510925292969
+            ]
+          },
+          {
+            "type": "table",
+            "data": [
+              [
+                "Latent Heat Type",
+                "",
+                "Energy Exchange",
+                ""
+              ],
+              [
+                null,
+                null,
+                "(J/g)",
+                null
+              ],
+              [
+                "Latent heat of sublimation",
+                "2,834",
+                null,
+                null
+              ],
+              [
+                "Latent heat of vaporization",
+                "2,501",
+                null,
+                null
+              ],
+              [
+                "Latent heat of fusion",
+                "334",
+                null,
+                null
+              ]
+            ],
+            "bbox": [
+              171.5900030517578,
+              93.3449920654297,
+              440.53000732421873,
+              216.55295338350183
+            ]
+          },
+          {
+            "type": "text",
+            "text": "The amount of energy associated with latent heat exchange should not be understated. An average hurricane ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              232.56246948242188,
+              542.7515258789062,
+              243.54246520996094
+            ]
+          },
+          {
+            "type": "text",
+            "text": "19",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 7.019999980926514,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              226.10000610351562,
+              243.90975952148438,
+              233.08999633789062,
+              250.92974853515625
+            ]
+          },
+          {
+            "type": "text",
+            "text": "releases 52 million trillion (5.2 x 10",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              245.22244262695312,
+              226.04653930664062,
+              256.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": ") joules per day as water vapor condenses into clouds and precipitation. ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              233.1199951171875,
+              245.22244262695312,
+              542.6129150390625,
+              256.2024230957031
+            ]
+          },
+          {
+            "type": "text",
+            "text": "This is equivalent to about 40 times the total worldwide energy consumption per day in 2005! ",
+            "font_name": "TimesNewRomanPSMT",
+            "font_size": 10.979999542236328,
+            "color": "#000000",
+            "is_bold": false,
+            "is_italic": false,
+            "bbox": [
+              72.0,
+              257.8824157714844,
+              487.5249938964844,
+              268.8623962402344
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
